@@ -1,0 +1,448 @@
+{
+  "authors": [
+    "M. Taube",
+    "Remerciements",
+    "WHAT IS BREEDING?",
+    "WHY IS BREEDING POSSIBLE?"
+  ],
+  "claims_path": "kb/normalized/claims/eir-276.jsonl",
+  "date_text": "April 1975",
+  "doc_id": "eir-276",
+  "document_type": "lecture",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 8,
+        "line_hits": [
+          136,
+          409,
+          452,
+          486,
+          498,
+          530,
+          634,
+          640
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          532,
+          668
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          486,
+          666
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "organization": [
+      {
+        "count": 3,
+        "line_hits": [
+          448,
+          452,
+          750
+        ],
+        "name": "EIR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          738
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          744
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 22,
+        "line_hits": [
+          33,
+          35,
+          39,
+          49,
+          61,
+          78,
+          80,
+          199,
+          267,
+          269,
+          277,
+          279,
+          280,
+          292,
+          407,
+          450,
+          608,
+          622,
+          632,
+          688,
+          705,
+          707
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          413,
+          423,
+          438,
+          448,
+          450,
+          518,
+          590,
+          740
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 6,
+        "line_hits": [
+          43,
+          148,
+          458,
+          486,
+          504,
+          572
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          148,
+          458,
+          538,
+          707,
+          719
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          486,
+          520,
+          626,
+          630
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          486
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          486
+        ],
+        "name": "UF3"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7d927222414d640bb8ac16160cbbb066cfea3547b91bc8c8bbc359f8058a8e2e",
+  "markdown_path": "pdf/EIR-276/EIR-276/hybrid_ocr/EIR-276.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "eir-series",
+  "section_count": 37,
+  "sections": [
+    {
+      "anchor": "breeding-in-molten-salt-reactors",
+      "end_line": 12,
+      "heading": "Breeding in Molten Salt Reactors",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "breeding-in-molten-salt-reactors",
+      "end_line": 20,
+      "heading": "Breeding In Molten Salt Reactors",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "remerciements",
+      "end_line": 26,
+      "heading": "Remerciements",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "what-is-breeding",
+      "end_line": 28,
+      "heading": "What Is Breeding?",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "why-is-breeding-possible",
+      "end_line": 30,
+      "heading": "Why Is Breeding Possible?",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "what-is-breeding-good-for",
+      "end_line": 44,
+      "heading": "What Is Breeding Good For?",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "fissile-and-fertile-nuclides",
+      "end_line": 56,
+      "heading": "FISSILE AND FERTILE NUCLIDES",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "for-the-following-reasons",
+      "end_line": 70,
+      "heading": "for the following reasons",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "fertile-nuclides",
+      "end_line": 133,
+      "heading": "FERTILE NUCLIDES",
+      "level": 1,
+      "start_line": 71
+    },
+    {
+      "anchor": "the-neutron-balance-for-fission-and-breeding-is-as-follows",
+      "end_line": 146,
+      "heading": "The Neutron Balance For Fission And Breeding Is As Follows:",
+      "level": 2,
+      "start_line": 134
+    },
+    {
+      "anchor": "definition-of-breeding-ratio-and-breeding-gain",
+      "end_line": 153,
+      "heading": "Definition Of Breeding Ratio And Breeding Gain",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "for-the-chemist-the-possibility-of-internal-or-external",
+      "end_line": 155,
+      "heading": "For The Chemist, The Possibility Of Internal Or External",
+      "level": 2,
+      "start_line": 154
+    },
+    {
+      "anchor": "breeding-is-of-importance",
+      "end_line": 170,
+      "heading": "Breeding Is Of Importance",
+      "level": 2,
+      "start_line": 156
+    },
+    {
+      "anchor": "definition-of-doubling-time",
+      "end_line": 182,
+      "heading": "DEFINITION OF DOUBLING TIME",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "doubling-time-is-coupled-with-future-energy-development",
+      "end_line": 198,
+      "heading": "DOUBLING TIME IS COUPLED WITH FUTURE ENERGY DEVELOPMENT",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "breeders-are-necessary-because-the-world-resources-of-good-uranium-ores-are-rather-limited",
+      "end_line": 258,
+      "heading": "BREEDERS ARE NECESSARY BECAUSE THE WORLD RESOURCES OF 'GOOD' URANIUM ORES ARE RATHER LIMITED",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "one-of-the-biggest-constraints-to-fission-energy-is-the-problem-of-fission-product-management",
+      "end_line": 274,
+      "heading": "ONE OF THE BIGGEST CONSTRAINTS TO FISSION ENERGY IS THE PROBLEM OF FISSION PRODUCT MANAGEMENT",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "the-problem-of-fission-product-management-is-very-difficult-and-requires-a-sophisticated-solution",
+      "end_line": 306,
+      "heading": "THE PROBLEM OF FISSION PRODUCT MANAGEMENT IS VERY DIFFICULT AND REQUIRES A SOPHISTICATED SOLUTION",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "the-neutron-transmutation-of-f-p-needs-a-very-high-thermal-neutron",
+      "end_line": 350,
+      "heading": "The Neutron Transmutation Of F.P. Needs A Very High Thermal Neutron",
+      "level": 2,
+      "start_line": 307
+    },
+    {
+      "anchor": "it-may-be-possible-to-couple-a-breeding-system-with-a-high-flux-transmutation-fission-reactor",
+      "end_line": 410,
+      "heading": "IT MAY BE POSSIBLE TO COUPLE A BREEDING SYSTEM WITH A HIGH FLUX TRANSMUTATION FISSION REACTOR",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "the-liquid-fuel-reactor-also-has-other-advantages-in-relationto-the-classical-solid-fuel-reactor",
+      "end_line": 424,
+      "heading": "THE LIQUID FUEL REACTOR ALSO HAS OTHER ADVANTAGES IN RELATIONTO THE CLASSICAL SOLID FUEL REACTOR",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "msfbr",
+      "end_line": 439,
+      "heading": "Msfbr",
+      "level": 2,
+      "start_line": 425
+    },
+    {
+      "anchor": "molten-salt-fuel-appears-to-be-the-best-liquid-fuel",
+      "end_line": 449,
+      "heading": "MOLTEN SALT FUEL APPEARS TO BE THE BEST LIQUID FUEL",
+      "level": 1,
+      "start_line": 440
+    },
+    {
+      "anchor": "both-thermal-and-fast-flux-molten-salt-breeder-reactors-are-possible",
+      "end_line": 457,
+      "heading": "Both Thermal And Fast Flux Molten Salt Breeder Reactors Are Possible",
+      "level": 2,
+      "start_line": 450
+    },
+    {
+      "anchor": "molten-fluoride-versus-molten-chloride-fuel-i",
+      "end_line": 515,
+      "heading": "MOLTEN FLUORIDE VERSUS MOLTEN CHLORIDE FUEL - I",
+      "level": 1,
+      "start_line": 458
+    },
+    {
+      "anchor": "molten-salt-fluoride-breeder-thermal-power-reactor",
+      "end_line": 537,
+      "heading": "Molten Salt Fluoride Breeder (Thermal) Power Reactor",
+      "level": 2,
+      "start_line": 516
+    },
+    {
+      "anchor": "a-fast-breeder-reactor-with-molten-chlorides-could-have-in-core-cooling",
+      "end_line": 593,
+      "heading": "A Fast Breeder Reactor With Molten Chlorides Could Have In Core Cooling",
+      "level": 2,
+      "start_line": 538
+    },
+    {
+      "anchor": "the-existing-reprocessing-scheme-is-too-conservative",
+      "end_line": 595,
+      "heading": "The Existing Reprocessing Scheme Is Too Conservative.",
+      "level": 2,
+      "start_line": 594
+    },
+    {
+      "anchor": "it-does-not-take-into-account-the-problems-of-radioactive-waste-management",
+      "end_line": 619,
+      "heading": "It Does Not Take Into Account The Problems Of Radioactive Waste Management",
+      "level": 2,
+      "start_line": 596
+    },
+    {
+      "anchor": "chemistry-of-fluoride-fuel",
+      "end_line": 655,
+      "heading": "CHEMISTRY OF FLUORIDE FUEL",
+      "level": 1,
+      "start_line": 620
+    },
+    {
+      "anchor": "fluorides",
+      "end_line": 685,
+      "heading": "FLUORIDES",
+      "level": 1,
+      "start_line": 656
+    },
+    {
+      "anchor": "importance",
+      "end_line": 708,
+      "heading": "IMPORTANCE",
+      "level": 1,
+      "start_line": 686
+    },
+    {
+      "anchor": "in-a-high-neutron-flux-chlorine-transforms-to-sulphur-and-phosphorous",
+      "end_line": 718,
+      "heading": "In A High Neutron Flux Chlorine Transforms To Sulphur And Phosphorous",
+      "level": 2,
+      "start_line": 709
+    },
+    {
+      "anchor": "with-molten-chloride-fuel-it-seems-that-a-continuous-gas-extraction",
+      "end_line": 720,
+      "heading": "With Molten Chloride Fuel It Seems That A Continuous Gas Extraction",
+      "level": 2,
+      "start_line": 719
+    },
+    {
+      "anchor": "system-is-possible",
+      "end_line": 730,
+      "heading": "System Is Possible",
+      "level": 2,
+      "start_line": 721
+    },
+    {
+      "anchor": "the-balance-of-chlorine-during-the-fission-process-is-negative",
+      "end_line": 733,
+      "heading": "The Balance Of Chlorine During The Fission Process Is \"Negative\"",
+      "level": 2,
+      "start_line": 731
+    },
+    {
+      "anchor": "literature",
+      "end_line": 750,
+      "heading": "LITERATURE",
+      "level": 1,
+      "start_line": 734
+    }
+  ],
+  "source_dir": "pdf/EIR-276",
+  "tables": [],
+  "title": "Eidg. Institut für Reaktorforschung Würenlingen Schweiz",
+  "topics": [
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

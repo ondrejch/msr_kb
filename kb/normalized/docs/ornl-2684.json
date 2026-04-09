@@ -1,0 +1,1439 @@
+{
+  "authors": [
+    "Reactors-Power",
+    "MOLTEN-SALT REACTOR PROJECT",
+    "CENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION",
+    "LIBRARY LOAN COPY",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2684.jsonl",
+  "date_text": "January 31, 1959",
+  "doc_id": "ornl-2684",
+  "document_type": "quarterly-progress-report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 63,
+        "line_hits": [
+          101,
+          113,
+          149,
+          151,
+          155,
+          159,
+          161,
+          185,
+          337,
+          339,
+          345,
+          351,
+          353,
+          355,
+          362,
+          406,
+          519,
+          550,
+          554,
+          562,
+          648,
+          678,
+          705,
+          743,
+          760,
+          888,
+          899,
+          995,
+          997,
+          1001,
+          1003,
+          1005,
+          1009,
+          1011,
+          1016,
+          1017,
+          1035,
+          1037,
+          1039,
+          1045,
+          1055,
+          1059,
+          1061,
+          1065,
+          1067,
+          1081,
+          1083,
+          1085,
+          1105,
+          1107
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 55,
+        "line_hits": [
+          101,
+          109,
+          149,
+          151,
+          153,
+          191,
+          227,
+          251,
+          257,
+          261,
+          263,
+          337,
+          339,
+          341,
+          343,
+          401,
+          517,
+          519,
+          531,
+          534,
+          539,
+          662,
+          666,
+          670,
+          676,
+          686,
+          692,
+          699,
+          705,
+          707,
+          711,
+          719,
+          729,
+          899,
+          995,
+          997,
+          1001,
+          1003,
+          1011,
+          1016,
+          1017,
+          1019,
+          1021,
+          1023,
+          1027,
+          1029,
+          1031,
+          1033,
+          1175,
+          1314
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          181,
+          399,
+          997,
+          1075,
+          1077,
+          1105,
+          1115,
+          1119,
+          1121,
+          1131,
+          1145,
+          1147,
+          1215,
+          1221,
+          1304,
+          1324,
+          1394,
+          1398,
+          1400,
+          1404
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          191,
+          193,
+          932,
+          1318,
+          1320,
+          1324,
+          1326,
+          1328,
+          1368
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          165,
+          1105,
+          1115,
+          1157,
+          1159,
+          1161,
+          1165,
+          1169
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          159,
+          355,
+          1085
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          899,
+          1105
+        ],
+        "name": "Hastelloy B"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          163,
+          1149
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1121,
+          1147
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1105
+        ],
+        "name": "Hastelloy W"
+      }
+    ],
+    "component": [
+      {
+        "count": 36,
+        "line_hits": [
+          131,
+          133,
+          139,
+          145,
+          147,
+          185,
+          195,
+          331,
+          333,
+          406,
+          444,
+          495,
+          544,
+          552,
+          602,
+          604,
+          811,
+          813,
+          817,
+          886,
+          888,
+          890,
+          897,
+          899,
+          918,
+          920,
+          922,
+          926,
+          981,
+          983,
+          987,
+          989,
+          991,
+          1254,
+          1256,
+          1334
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 31,
+        "line_hits": [
+          113,
+          117,
+          119,
+          131,
+          165,
+          275,
+          291,
+          293,
+          364,
+          433,
+          435,
+          442,
+          544,
+          749,
+          751,
+          764,
+          768,
+          770,
+          772,
+          774,
+          778,
+          780,
+          899,
+          918,
+          920,
+          922,
+          924,
+          973,
+          1157,
+          1169,
+          1302
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 24,
+        "line_hits": [
+          105,
+          125,
+          157,
+          159,
+          303,
+          349,
+          361,
+          433,
+          435,
+          523,
+          602,
+          606,
+          608,
+          610,
+          614,
+          855,
+          857,
+          859,
+          866,
+          1071,
+          1085,
+          1087,
+          1093,
+          1103
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          99,
+          225,
+          435,
+          491,
+          509,
+          515,
+          590
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          101,
+          519
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          536
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          113
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          442
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          556
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 30,
+        "line_hits": [
+          1,
+          29,
+          56,
+          76,
+          437,
+          459,
+          475,
+          530,
+          634,
+          662,
+          790,
+          819,
+          820,
+          821,
+          911,
+          912,
+          999,
+          1000,
+          1001,
+          1041,
+          1043,
+          1096,
+          1107,
+          1500,
+          1502,
+          1514,
+          1516,
+          1518,
+          1520,
+          1522
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          37,
+          86,
+          1507,
+          1508
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          33,
+          82
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 97,
+        "line_hits": [
+          113,
+          123,
+          127,
+          137,
+          139,
+          147,
+          153,
+          155,
+          157,
+          161,
+          169,
+          179,
+          187,
+          448,
+          450,
+          467,
+          469,
+          471,
+          487,
+          491,
+          500,
+          502,
+          504,
+          523,
+          536,
+          590,
+          592,
+          602,
+          608,
+          624,
+          662,
+          672,
+          678,
+          680,
+          684,
+          705,
+          760,
+          782,
+          784,
+          799,
+          803,
+          829,
+          853,
+          857,
+          868,
+          886,
+          888,
+          890,
+          916,
+          949
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          91
+        ],
+        "name": "MSR Program Quarterly Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 63,
+        "line_hits": [
+          101,
+          105,
+          109,
+          137,
+          169,
+          173,
+          175,
+          177,
+          187,
+          191,
+          201,
+          371,
+          372,
+          377,
+          379,
+          519,
+          538,
+          544,
+          604,
+          636,
+          638,
+          662,
+          678,
+          686,
+          741,
+          901,
+          902,
+          905,
+          906,
+          907,
+          908,
+          909,
+          943,
+          949,
+          958,
+          981,
+          983,
+          987,
+          1011,
+          1175,
+          1177,
+          1179,
+          1181,
+          1183,
+          1185,
+          1189,
+          1193,
+          1195,
+          1201,
+          1209
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          169,
+          173,
+          175,
+          384,
+          774,
+          811,
+          901,
+          902,
+          903,
+          904,
+          910,
+          981,
+          987,
+          1027,
+          1175,
+          1177,
+          1181,
+          1215,
+          1219,
+          1233,
+          1250,
+          1316
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          177,
+          179,
+          341,
+          343,
+          401,
+          936,
+          941,
+          991,
+          1019,
+          1185,
+          1207,
+          1215,
+          1221,
+          1254,
+          1258,
+          1314,
+          1368,
+          1370,
+          1384
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          372,
+          377,
+          379,
+          391,
+          538,
+          544,
+          908,
+          909,
+          910,
+          1388
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          175,
+          372,
+          901,
+          987,
+          989,
+          1181,
+          1183,
+          1316
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          372,
+          377,
+          379,
+          538,
+          544,
+          908,
+          909
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          421,
+          908,
+          909,
+          910,
+          1402
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          901,
+          987,
+          1316
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          538,
+          909,
+          910
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          908
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          909
+        ],
+        "name": "LiF-BeF2-ThF4-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          538
+        ],
+        "name": "LiF-BeF2-UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "542e554dc8bec39e047d9680f5f0f964d0156e4b3970e98ff631da18a3418725",
+  "markdown_path": "pdf/ORNL-2684/ORNL-2684/hybrid_ocr/ORNL-2684.md",
+  "report_number": "ORNL-2684",
+  "report_numbers": [
+    "ORNL-2684"
+  ],
+  "report_series": "msr-program-quarterly-progress-report",
+  "section_count": 100,
+  "sections": [
+    {
+      "anchor": "ornl-2684",
+      "end_line": 6,
+      "heading": "Ornl-2684",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "molten-salt-reactor-project",
+      "end_line": 8,
+      "heading": "Molten-Salt Reactor Project",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "quarterly-progress-report",
+      "end_line": 10,
+      "heading": "Quarterly Progress Report",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "for-period-ending-january-31-1959",
+      "end_line": 12,
+      "heading": "For Period Ending January 31, 1959",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 14,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 16,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 18,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 28,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 32,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 36,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 46,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "ornl-2684",
+      "end_line": 63,
+      "heading": "Ornl-2684",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "molten-salt-reactor-project",
+      "end_line": 65,
+      "heading": "Molten-Salt Reactor Project",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "quarterly-progress-report",
+      "end_line": 71,
+      "heading": "Quarterly Progress Report",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 73,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "mar-4-1959",
+      "end_line": 75,
+      "heading": "Mar 4 1959",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 81,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 85,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 90,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "molten-salt-reactor-program-quarterly-progress-report",
+      "end_line": 92,
+      "heading": "MOLTEN-SALT REACTOR PROGRAM QUARTERLY PROGRESS REPORT",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "summary",
+      "end_line": 94,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "part-1-reactor-design-studies",
+      "end_line": 96,
+      "heading": "PART 1. REACTOR DESIGN STUDIES",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "1-1-conceptual-design-studies-and-nuclear-calculations",
+      "end_line": 110,
+      "heading": "1.1. CONCEPTUAL DESIGN STUDIES AND NUCLEAR CALCULATIONS",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "1-2-component-development-and-testing",
+      "end_line": 134,
+      "heading": "1.2. COMPONENT DEVELOPMENT AND TESTING",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "1-3-engineering-research",
+      "end_line": 140,
+      "heading": "1.3. ENGINEERING RESEARCH",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "part-2-materials-studies",
+      "end_line": 142,
+      "heading": "PART 2. MATERIALS STUDIES",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "2-1-metallurgy",
+      "end_line": 166,
+      "heading": "2.1. METALLURGY",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "2-2-chemistry-and-radiation-damage",
+      "end_line": 198,
+      "heading": "2.2. CHEMISTRY AND RADIATION DAMAGE",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "2-3-fuel-processing",
+      "end_line": 204,
+      "heading": "2.3. FUEL PROCESSING",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "contents",
+      "end_line": 206,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "summary-111",
+      "end_line": 208,
+      "heading": "Summary 111",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "part-1-reactor-design-studies",
+      "end_line": 210,
+      "heading": "PART 1. REACTOR DESIGN STUDIES",
+      "level": 1,
+      "start_line": 209
+    },
+    {
+      "anchor": "1-1-conceptual-design-studies-and-nuclear-calculations-3",
+      "end_line": 266,
+      "heading": "1.1. CONCEPTUAL DESIGN STUDIES AND NUCLEAR CALCULATIONS 3",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "1-2-component-development-and-testing-38",
+      "end_line": 314,
+      "heading": "1.2. COMPONENT DEVELOPMENT AND TESTING 38",
+      "level": 1,
+      "start_line": 267
+    },
+    {
+      "anchor": "1-3-engineering-research-65",
+      "end_line": 324,
+      "heading": "1.3. ENGINEERING RESEARCH 65",
+      "level": 2,
+      "start_line": 315
+    },
+    {
+      "anchor": "part-2-materials-studies",
+      "end_line": 326,
+      "heading": "PART 2. MATERIALS STUDIES",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "2-1-metallurgy-75",
+      "end_line": 365,
+      "heading": "2.1.Metallurgy 75",
+      "level": 2,
+      "start_line": 327
+    },
+    {
+      "anchor": "2-2-chemistry-and-radiation-damage-98",
+      "end_line": 416,
+      "heading": "2.2. CHEMISTRY AND RADIATION DAMAGE 98",
+      "level": 2,
+      "start_line": 366
+    },
+    {
+      "anchor": "2-3-fuel-processing-115",
+      "end_line": 426,
+      "heading": "2.3. FUEL PROCESSING 115",
+      "level": 2,
+      "start_line": 417
+    },
+    {
+      "anchor": "1-1-conceptual-design-studies-and-nuclear-calculations",
+      "end_line": 436,
+      "heading": "1.1. CONCEPTUAL DESIGN STUDIES AND NUCLEAR CALCULATIONS",
+      "level": 1,
+      "start_line": 427
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-35663",
+      "end_line": 456,
+      "heading": "Unclassified Ornl-Lr-Dwg 35663",
+      "level": 2,
+      "start_line": 437
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 458,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 457
+    },
+    {
+      "anchor": "ornl-lr-dwg-35665",
+      "end_line": 472,
+      "heading": "Ornl-Lr-Dwg 35665",
+      "level": 2,
+      "start_line": 459
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 474,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 473
+    },
+    {
+      "anchor": "ornl-lr-dwg-35667",
+      "end_line": 513,
+      "heading": "Ornl-Lr-Dwg 35667",
+      "level": 2,
+      "start_line": 475
+    },
+    {
+      "anchor": "valve-closed",
+      "end_line": 516,
+      "heading": "Valve Closed",
+      "level": 2,
+      "start_line": 514
+    },
+    {
+      "anchor": "preliminary-design-of-a-315-mw-e-graphite-moderated-molten-salt-power-reactor",
+      "end_line": 528,
+      "heading": "PRELIMINARY DESIGN OF A 315-Mw (e) GRAPHITE-MODERATED MOLTEN-SALT POWER REACTOR",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 529,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 529
+    },
+    {
+      "anchor": "ornl-lr-dwg35086a",
+      "end_line": 549,
+      "heading": "Ornl-Lr-Dwg35086A",
+      "level": 2,
+      "start_line": 530
+    },
+    {
+      "anchor": "inor-8",
+      "end_line": 553,
+      "heading": "Inor-8",
+      "level": 2,
+      "start_line": 550
+    },
+    {
+      "anchor": "inor-8",
+      "end_line": 561,
+      "heading": "Inor-8",
+      "level": 2,
+      "start_line": 554
+    },
+    {
+      "anchor": "inor-8",
+      "end_line": 593,
+      "heading": "Inor-8",
+      "level": 2,
+      "start_line": 562
+    },
+    {
+      "anchor": "nuclear-calculations",
+      "end_line": 631,
+      "heading": "NUCLEAR CALCULATIONS",
+      "level": 1,
+      "start_line": 594
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 633,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 632
+    },
+    {
+      "anchor": "ornl-lr-dwg-35672",
+      "end_line": 641,
+      "heading": "Ornl-Lr-Dwg 35672",
+      "level": 2,
+      "start_line": 634
+    },
+    {
+      "anchor": "plant-factor-0-8",
+      "end_line": 736,
+      "heading": "Plant Factor: 0.8",
+      "level": 2,
+      "start_line": 642
+    },
+    {
+      "anchor": "1-2-component-development-and-testing",
+      "end_line": 738,
+      "heading": "1.2. COMPONENT DEVELOPMENT AND TESTING",
+      "level": 1,
+      "start_line": 737
+    },
+    {
+      "anchor": "salt-lubricated-bearings-for-fuel-pumps",
+      "end_line": 752,
+      "heading": "SALT-LUBRICATED BEARINGS FOR FUEL PUMPS",
+      "level": 1,
+      "start_line": 739
+    },
+    {
+      "anchor": "unclassified-jlr-lr-dwg-35674",
+      "end_line": 761,
+      "heading": "Unclassified Jlr-Lr-Dwg 35674",
+      "level": 2,
+      "start_line": 753
+    },
+    {
+      "anchor": "conventional-bearings-for-fuel-pumps",
+      "end_line": 765,
+      "heading": "CONVENTIONAL BEARINGS FOR FUEL PUMPS",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "mechanical-seals-for-fuel-pumps",
+      "end_line": 771,
+      "heading": "MECHANICAL SEALS FOR FUEL PUMPS",
+      "level": 1,
+      "start_line": 766
+    },
+    {
+      "anchor": "pump-endurance-testing",
+      "end_line": 777,
+      "heading": "PUMP ENDURANCE TESTING",
+      "level": 1,
+      "start_line": 772
+    },
+    {
+      "anchor": "frozen-lead-pump-seal",
+      "end_line": 788,
+      "heading": "FROZEN-LEAD PUMP SEAL",
+      "level": 1,
+      "start_line": 778
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 789,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 789
+    },
+    {
+      "anchor": "ornl-lr-dwg35675",
+      "end_line": 806,
+      "heading": "Ornl-Lr-Dwg35675",
+      "level": 2,
+      "start_line": 790
+    },
+    {
+      "anchor": "techniques-for-remote-maintenance-of-the-reactor-system",
+      "end_line": 825,
+      "heading": "TECHNIQUES FOR REMOTE MAINTENANCE OF THE REACTOR SYSTEM",
+      "level": 1,
+      "start_line": 807
+    },
+    {
+      "anchor": "flange-no-2-thermocouples",
+      "end_line": 826,
+      "heading": "Flange No.2 Thermocouples",
+      "level": 2,
+      "start_line": 826
+    },
+    {
+      "anchor": "double-lines-indicate-wells",
+      "end_line": 842,
+      "heading": "Double Lines Indicate Wells",
+      "level": 2,
+      "start_line": 827
+    },
+    {
+      "anchor": "molten-salt-heat-transfer-coefficient-measurement",
+      "end_line": 854,
+      "heading": "MOLTEN-SALT HEAT-TRANSFER-COEFFICIENT MEASUREMENT",
+      "level": 1,
+      "start_line": 843
+    },
+    {
+      "anchor": "triplex-tubing-heat-exchanger-development",
+      "end_line": 860,
+      "heading": "TRIPLEX-TUBING HEAT EXCHANGER DEVELOPMENT",
+      "level": 1,
+      "start_line": 855
+    },
+    {
+      "anchor": "evaluation-of-expansion-joints-for-molten-salt-reactor-systems",
+      "end_line": 883,
+      "heading": "EVALUATION OF EXPANSION JOINTS FOR MOLTEN-SALT REACTOR SYSTEMS",
+      "level": 1,
+      "start_line": 861
+    },
+    {
+      "anchor": "design-construction-and-operation-of-materials-testing-loops",
+      "end_line": 927,
+      "heading": "Design, Construction, And Operation Of Materials Testing Loops",
+      "level": 2,
+      "start_line": 884
+    },
+    {
+      "anchor": "1-3-engineering-research",
+      "end_line": 929,
+      "heading": "1.3. ENGINEERING RESEARCH",
+      "level": 1,
+      "start_line": 928
+    },
+    {
+      "anchor": "physical-property-measurements",
+      "end_line": 952,
+      "heading": "PHYSICAL PROPERTY MEASUREMENTS",
+      "level": 1,
+      "start_line": 930
+    },
+    {
+      "anchor": "molten-salt-heat-transfer-studies",
+      "end_line": 965,
+      "heading": "MOLTEN-SALT HEAT TRANSFER STUDIES",
+      "level": 1,
+      "start_line": 953
+    },
+    {
+      "anchor": "unclassified-nl-lr-dwg-35679",
+      "end_line": 976,
+      "heading": "Unclassified Nl-Lr-Dwg 35679",
+      "level": 2,
+      "start_line": 966
+    },
+    {
+      "anchor": "2-1-metallugry",
+      "end_line": 978,
+      "heading": "2.1. METALLUGRY",
+      "level": 1,
+      "start_line": 977
+    },
+    {
+      "anchor": "dynamic-corrosion-studies",
+      "end_line": 992,
+      "heading": "DYNAMIC CORROSION STUDIES",
+      "level": 1,
+      "start_line": 979
+    },
+    {
+      "anchor": "general-corrosion-studies",
+      "end_line": 1034,
+      "heading": "GENERAL CORROSION STUDIES",
+      "level": 1,
+      "start_line": 993
+    },
+    {
+      "anchor": "mechanical-properties-of-inor-8",
+      "end_line": 1068,
+      "heading": "MECHANICAL PROPERTIES OF INOR-8",
+      "level": 1,
+      "start_line": 1035
+    },
+    {
+      "anchor": "materials-fabrication-studies",
+      "end_line": 1095,
+      "heading": "MATERIALS FABRICATION STUDIES",
+      "level": 1,
+      "start_line": 1069
+    },
+    {
+      "anchor": "unclassified-ornl-dwg-35680",
+      "end_line": 1096,
+      "heading": "Unclassified Ornl- Dwg 35680",
+      "level": 2,
+      "start_line": 1096
+    },
+    {
+      "anchor": "position-a",
+      "end_line": 1170,
+      "heading": "Position A",
+      "level": 2,
+      "start_line": 1097
+    },
+    {
+      "anchor": "2-2-chemistry-and-radiation-damage",
+      "end_line": 1172,
+      "heading": "2.2. CHEMISTRY AND RADIATION DAMAGE",
+      "level": 1,
+      "start_line": 1171
+    },
+    {
+      "anchor": "phase-equilibrium-studies",
+      "end_line": 1190,
+      "heading": "PHASE EQUILIBRIUM STUDIES",
+      "level": 1,
+      "start_line": 1173
+    },
+    {
+      "anchor": "fission-product-behavior",
+      "end_line": 1212,
+      "heading": "FISSION-PRODUCT BEHAVIOR",
+      "level": 1,
+      "start_line": 1191
+    },
+    {
+      "anchor": "chemistry-of-the-corrosion-process",
+      "end_line": 1269,
+      "heading": "CHEMISTRY OF THE CORROSION PROCESS",
+      "level": 1,
+      "start_line": 1213
+    },
+    {
+      "anchor": "vapor-pressures-of-molten-salts",
+      "end_line": 1289,
+      "heading": "VAPOR PRESSURES OF MOLTEN SALTS",
+      "level": 1,
+      "start_line": 1270
+    },
+    {
+      "anchor": "aluminum-chloride-vapor-as-a-heat-transfer-medium-and-turbine-working-fluid",
+      "end_line": 1313,
+      "heading": "Aluminum Chloride Vapor As A Heat Transfer Medium And Turbine Working Fluid",
+      "level": 2,
+      "start_line": 1290
+    },
+    {
+      "anchor": "permeability-of-graphite-by-molten-fluoride-mixtures",
+      "end_line": 1321,
+      "heading": "PERMEABILITY OF GRAPHITE BY MOLTEN FLUORIDE MIXTURES",
+      "level": 1,
+      "start_line": 1314
+    },
+    {
+      "anchor": "effects-of-thermal-cycling-on-salt-stability",
+      "end_line": 1331,
+      "heading": "EFFECTS OF THERMAL CYCLING ON SALT STABILITY",
+      "level": 1,
+      "start_line": 1322
+    },
+    {
+      "anchor": "radiation-damage-studies",
+      "end_line": 1337,
+      "heading": "RADIATION DAMAGE STUDIES",
+      "level": 1,
+      "start_line": 1332
+    },
+    {
+      "anchor": "preparation-of-purified-materials",
+      "end_line": 1371,
+      "heading": "PREPARATION OF PURIFIED MATERIALS",
+      "level": 1,
+      "start_line": 1338
+    },
+    {
+      "anchor": "2-3-fuel-processing",
+      "end_line": 1377,
+      "heading": "2.3. FUEL PROCESSING",
+      "level": 1,
+      "start_line": 1372
+    },
+    {
+      "anchor": "solubility-of-neptunium-in-aqueous-hf-solutions",
+      "end_line": 1395,
+      "heading": "SOLUBILITY OF NEPTUNIUM IN AQUEOUS HF SOLUTIONS",
+      "level": 1,
+      "start_line": 1378
+    },
+    {
+      "anchor": "solubility-of-corrosion-product-fluorides-in-hf-solvent",
+      "end_line": 1401,
+      "heading": "SOLUBILITY OF CORROSION-PRODUCT FLUORIDES IN HF SOLVENT",
+      "level": 1,
+      "start_line": 1396
+    },
+    {
+      "anchor": "solubilities-of-uranium-and-thorium-tetrafluoride-in-hf-solvent",
+      "end_line": 1405,
+      "heading": "SOLUBILITIES OF URANIUM AND THORIUM TETRAFLUORIDE IN HF SOLVENT",
+      "level": 1,
+      "start_line": 1402
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1504,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1406
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1522,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1505
+    }
+  ],
+  "source_dir": "pdf/ORNL-2684",
+  "tables": [],
+  "title": "ORNL-2684",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

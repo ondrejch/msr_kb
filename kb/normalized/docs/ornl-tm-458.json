@@ -1,0 +1,262 @@
+{
+  "authors": [
+    "Ruth Slusher",
+    "H. F. McDuffie",
+    "W. L. Marshall",
+    "NOTICE",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-458.jsonl",
+  "date_text": "1962",
+  "doc_id": "ornl-tm-458",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          40,
+          44,
+          48,
+          54
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          48
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          3,
+          15,
+          23,
+          36,
+          40,
+          94,
+          114,
+          150
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          19,
+          152
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 9,
+        "line_hits": [
+          36,
+          54,
+          56,
+          82,
+          86,
+          88,
+          103,
+          108,
+          110
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          15,
+          40,
+          46,
+          84,
+          91,
+          95
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 18,
+        "line_hits": [
+          9,
+          15,
+          36,
+          40,
+          44,
+          46,
+          50,
+          54,
+          61,
+          63,
+          65,
+          67,
+          75,
+          101,
+          103,
+          106,
+          108,
+          117
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          63,
+          75
+        ],
+        "name": "BeF2"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "06ff0df36af4f033dc91a3838f013307ef081ea807e3d678100af3edf9115d9f",
+  "markdown_path": "pdf/ORNL-TM-0458/ORNL-TM-0458/hybrid_ocr/ORNL-TM-0458.md",
+  "report_number": "ORNL-TM-458",
+  "report_numbers": [
+    "ORNL-TM-458"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 17,
+  "sections": [
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 2,
+      "heading": "U.S. ATOMIC ENERGY COMMISSION",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-tm-458",
+      "end_line": 4,
+      "heading": "Ornl-Tm-458",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "copy-no-4",
+      "end_line": 12,
+      "heading": "Copy No. - 4/",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 16,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "notice",
+      "end_line": 20,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "notice",
+      "end_line": 24,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 33,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 37,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 34
+    },
+    {
+      "anchor": "2-experimental-procedures",
+      "end_line": 51,
+      "heading": "2. EXPERIMENTAL PROCEDURES",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "3-dissolution-of-mathsf-li-2-mathsf-bef-4-in-h2o",
+      "end_line": 83,
+      "heading": "3. DISSOLUTION OF $\\mathsf{Li}_2\\mathsf{BeF}_4$ in H2O",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "4-dissolution-of-msre-fuel-mixture",
+      "end_line": 93,
+      "heading": "4. DISSOLUTION OF MSRE FUEL MIXTURE",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-66936r",
+      "end_line": 100,
+      "heading": "Unclassified Ornl-Lr-Dwg 66936R",
+      "level": 2,
+      "start_line": 94
+    },
+    {
+      "anchor": "5-a-portion-of-the-system-lif-bef-2-h-2-o-at-25-60-and-near-100-circ-mathrm-c",
+      "end_line": 111,
+      "heading": "5. A PORTION OF THE SYSTEM LiF-BeF $_2$ -H $_2$ O AT 25, 60 AND NEAR $100^{\\circ}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 113,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "ornl-lr-dwg-76254",
+      "end_line": 118,
+      "heading": "Ornl-Lr-Dwg 76254",
+      "level": 2,
+      "start_line": 114
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 151,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "41-55-dtie-aec",
+      "end_line": 153,
+      "heading": "41-55. Dtie, Aec",
+      "level": 2,
+      "start_line": 152
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0458",
+  "tables": [],
+  "title": "U.S. ATOMIC ENERGY COMMISSION",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": []
+}

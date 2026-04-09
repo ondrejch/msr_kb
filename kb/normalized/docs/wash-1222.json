@@ -1,0 +1,962 @@
+{
+  "authors": [
+    "OF THE",
+    "MOLTEN SALT BREEDER REACTOR",
+    "MASTER",
+    "MSTER",
+    "LEGAL NOTICE",
+    "AN EVALUATION"
+  ],
+  "claims_path": "kb/normalized/claims/wash-1222.jsonl",
+  "date_text": "September 1972",
+  "doc_id": "wash-1222",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 19,
+        "line_hits": [
+          74,
+          137,
+          159,
+          177,
+          191,
+          213,
+          262,
+          303,
+          305,
+          309,
+          355,
+          357,
+          359,
+          361,
+          363,
+          450,
+          486,
+          519,
+          550
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          213,
+          262,
+          305,
+          309,
+          311,
+          317,
+          337,
+          345,
+          349,
+          351,
+          353,
+          371,
+          373,
+          422,
+          478,
+          486
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          303,
+          327
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          309
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          327
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          550
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          351
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          317
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 12,
+        "line_hits": [
+          262,
+          333,
+          369,
+          373,
+          396,
+          402,
+          418,
+          420,
+          438,
+          440,
+          490,
+          550
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          262,
+          337,
+          367,
+          386,
+          396,
+          416,
+          438,
+          452,
+          550
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          251,
+          395,
+          398,
+          438,
+          550
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          436,
+          470,
+          550
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          422,
+          430
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          191,
+          309
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          262,
+          416
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          470,
+          550
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          262,
+          550
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          262,
+          414
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          424
+        ],
+        "name": "freeze valve"
+      }
+    ],
+    "organization": [
+      {
+        "count": 23,
+        "line_hits": [
+          114,
+          137,
+          177,
+          179,
+          183,
+          204,
+          221,
+          264,
+          278,
+          305,
+          319,
+          357,
+          400,
+          402,
+          426,
+          440,
+          486,
+          488,
+          490,
+          535,
+          540,
+          542,
+          543
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          19,
+          25,
+          39,
+          49,
+          112,
+          143,
+          149,
+          478,
+          527,
+          528,
+          529,
+          530,
+          531,
+          533
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          420,
+          490
+        ],
+        "name": "Foster Wheeler"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 93,
+        "line_hits": [
+          5,
+          35,
+          61,
+          62,
+          83,
+          84,
+          87,
+          101,
+          103,
+          107,
+          108,
+          112,
+          114,
+          120,
+          122,
+          135,
+          137,
+          139,
+          149,
+          157,
+          159,
+          163,
+          191,
+          193,
+          199,
+          200,
+          201,
+          202,
+          204,
+          206,
+          209,
+          216,
+          223,
+          260,
+          262,
+          264,
+          266,
+          270,
+          278,
+          287,
+          292,
+          299,
+          313,
+          317,
+          319,
+          323,
+          325,
+          333,
+          341,
+          343
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 42,
+        "line_hits": [
+          116,
+          122,
+          123,
+          129,
+          133,
+          141,
+          143,
+          157,
+          159,
+          169,
+          175,
+          185,
+          197,
+          201,
+          204,
+          206,
+          221,
+          223,
+          287,
+          303,
+          321,
+          325,
+          327,
+          349,
+          351,
+          357,
+          367,
+          371,
+          388,
+          406,
+          414,
+          426,
+          434,
+          460,
+          472,
+          476,
+          488,
+          490,
+          499,
+          510,
+          512,
+          523
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          64,
+          102,
+          103,
+          179,
+          183,
+          206,
+          219,
+          221,
+          223,
+          227,
+          260,
+          262,
+          285,
+          299,
+          309,
+          313,
+          317,
+          325,
+          329,
+          331,
+          333,
+          345,
+          347,
+          351,
+          410,
+          412,
+          422,
+          424,
+          446,
+          448
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          114,
+          157
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          171
+        ],
+        "name": "converter reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          183
+        ],
+        "name": "single-fluid breeder"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          114,
+          157
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 6,
+        "line_hits": [
+          191,
+          212,
+          317,
+          319,
+          331,
+          550
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          335,
+          337,
+          371,
+          395,
+          418,
+          550
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          175,
+          262,
+          335,
+          550
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          212,
+          262,
+          550
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          213,
+          262,
+          550
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          213,
+          262,
+          550
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          305,
+          468
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          550
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          550
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          262
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "0f6084d9ca86252a3ff6bd3248d1f7bd8b12078aaa452f42bd6543d319c28a02",
+  "markdown_path": "pdf/WASH-1222/WASH-1222/hybrid_ocr/WASH-1222.md",
+  "report_number": "ORNL-4541",
+  "report_numbers": [
+    "ORNL-4541"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 56,
+  "sections": [
+    {
+      "anchor": "an-evaluation",
+      "end_line": 2,
+      "heading": "AN EVALUATION",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "of-the",
+      "end_line": 4,
+      "heading": "OF THE",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "molten-salt-breeder-reactor",
+      "end_line": 6,
+      "heading": "MOLTEN SALT BREEDER REACTOR",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "september-1972",
+      "end_line": 10,
+      "heading": "September 1972",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "master",
+      "end_line": 12,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "mster",
+      "end_line": 22,
+      "heading": "Mster",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 26,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "wash-1222",
+      "end_line": 28,
+      "heading": "Wash-1222",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "uc-80",
+      "end_line": 30,
+      "heading": "Uc-80",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "an-evaluation",
+      "end_line": 34,
+      "heading": "An Evaluation",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "the-molten-salt-breeder-reactor",
+      "end_line": 36,
+      "heading": "The Molten Salt Breeder Reactor",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "notice",
+      "end_line": 42,
+      "heading": "Notice",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "master",
+      "end_line": 54,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 56,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "i-introduction-1",
+      "end_line": 57,
+      "heading": "I. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "ii-summary-8",
+      "end_line": 58,
+      "heading": "II. SUMMARY 8",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "iii-resource-utilization-10",
+      "end_line": 59,
+      "heading": "III. RESOURCE UTILIZATION 10",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "iv-historical-development-of-molten-salt-reactors-12",
+      "end_line": 60,
+      "heading": "IV. HISTORICAL DEVELOPMENT OF MOLTEN SALT REACTORS 12",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "v-molten-salt-breeder-reactor-concept-description-14",
+      "end_line": 61,
+      "heading": "V. MOLTEN SALT BREEDER REACTOR CONCEPT DESCRIPTION 14",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "vi-status-of-msbr-technology-19",
+      "end_line": 86,
+      "heading": "VI. STATUS OF MSBR TECHNOLOGY 19",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "vii-industrial-participation-in-the-msbr-program-48",
+      "end_line": 87,
+      "heading": "VII. INDUSTRIAL PARTICIPATION IN THE MSBR PROGRAM 48",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "viii-conclusions-51",
+      "end_line": 88,
+      "heading": "VIII. CONCLUSIONS 51",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "ix-references-53",
+      "end_line": 90,
+      "heading": "IX. REFERENCES 53",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "appendix-a-a-1",
+      "end_line": 94,
+      "heading": "Appendix A A-1",
+      "level": 2,
+      "start_line": 91
+    },
+    {
+      "anchor": "list-of-tables-and-figures",
+      "end_line": 98,
+      "heading": "LIST OF TABLES AND FIGURES",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "tables",
+      "end_line": 104,
+      "heading": "Tables",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "figures",
+      "end_line": 109,
+      "heading": "Figures",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 154,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "ii-summary",
+      "end_line": 164,
+      "heading": "II. SUMMARY",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "iii-resource-utilization",
+      "end_line": 172,
+      "heading": "III. RESOURCE UTILIZATION",
+      "level": 1,
+      "start_line": 165
+    },
+    {
+      "anchor": "iv-historical-development-of-molten-salt-reactors",
+      "end_line": 215,
+      "heading": "IV. HISTORICAL DEVELOPMENT OF MOLTEN SALT REACTORS",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "single-fluid-two-region-molten-salt-breeder-reactor",
+      "end_line": 218,
+      "heading": "Single-Fluid, Two-Region Molten Salt Breeder Reactor",
+      "level": 2,
+      "start_line": 216
+    },
+    {
+      "anchor": "a-msre-the-reference-point-for-current-technology",
+      "end_line": 224,
+      "heading": "A. MSRE - The Reference Point for Current, Technology",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 226,
+      "heading": "Table II.",
+      "level": 1,
+      "start_line": 225
+    },
+    {
+      "anchor": "important-dates-and-statistics-for-the-msre",
+      "end_line": 228,
+      "heading": "Important Dates and Statistics for the MSRE",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "dates",
+      "end_line": 246,
+      "heading": "Dates:",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "statistics",
+      "end_line": 267,
+      "heading": "Statistics:",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "b-continuous-fuel-processing-the-key-to-breeding",
+      "end_line": 275,
+      "heading": "B. Continuous Fuel Processing - The Key to Breeding",
+      "level": 1,
+      "start_line": 268
+    },
+    {
+      "anchor": "1-chemical-process-development",
+      "end_line": 300,
+      "heading": "1. Chemical Process Development",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "2-fuel-processing-structural-materials",
+      "end_line": 306,
+      "heading": "2. Fuel Processing Structural Materials",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "c-molten-salt-reactor-design-materials-requirements",
+      "end_line": 314,
+      "heading": "C. Molten Salt Reactor Design - Materials Requirements",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "1-fuel-and-coolant-salts",
+      "end_line": 338,
+      "heading": "1. Fuel and Coolant Salts",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "2-reactor-fuel-containment-materials",
+      "end_line": 354,
+      "heading": "2. Reactor Fuel Containment Materials",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "3-graphite",
+      "end_line": 364,
+      "heading": "3. Graphite",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "4-other-structural-materials",
+      "end_line": 374,
+      "heading": "4. Other Structural Materials",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "d-tritium-a-problem-of-control",
+      "end_line": 403,
+      "heading": "D. Tritium - A Problem of Control",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "e-reactor-equipment-and-systems-development",
+      "end_line": 407,
+      "heading": "E. Reactor Equipment and Systems Development",
+      "level": 1,
+      "start_line": 404
+    },
+    {
+      "anchor": "1-components",
+      "end_line": 427,
+      "heading": "1. Components",
+      "level": 1,
+      "start_line": 408
+    },
+    {
+      "anchor": "2-systems",
+      "end_line": 441,
+      "heading": "2. Systems",
+      "level": 1,
+      "start_line": 428
+    },
+    {
+      "anchor": "f-maintenance-a-difficult-problem-for-the-msbr",
+      "end_line": 461,
+      "heading": "F. Maintenance - A Difficult Problem for the MSBR",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "g-safety-different-issues-for-the-msbr",
+      "end_line": 479,
+      "heading": "G. Safety - Different Issues for the MSBR",
+      "level": 1,
+      "start_line": 462
+    },
+    {
+      "anchor": "vii-industrial-participation-in-the-msbr-program",
+      "end_line": 500,
+      "heading": "VII. INDUSTRIAL PARTICIPATION IN THE MSBR PROGRAM",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "viii-conclusions",
+      "end_line": 524,
+      "heading": "VIII. CONCLUSIONS",
+      "level": 1,
+      "start_line": 501
+    },
+    {
+      "anchor": "ix-references",
+      "end_line": 545,
+      "heading": "IX. REFERENCES",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 551,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 546
+    },
+    {
+      "anchor": "appendix-a-continued",
+      "end_line": 557,
+      "heading": "Appendix A (continued)",
+      "level": 1,
+      "start_line": 552
+    }
+  ],
+  "source_dir": "pdf/WASH-1222",
+  "tables": [],
+  "title": "AN EVALUATION",
+  "topics": [
+    "breeder-and-converter-design",
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "graphite-and-moderator-behavior",
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": []
+}

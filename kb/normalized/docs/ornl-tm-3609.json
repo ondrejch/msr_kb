@@ -1,0 +1,448 @@
+{
+  "authors": [
+    "J. I. Federer",
+    "L. E. Poteat",
+    "DATE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3609.jsonl",
+  "date_text": "1972",
+  "doc_id": "ornl-tm-3609",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 21,
+        "line_hits": [
+          74,
+          78,
+          80,
+          88,
+          93,
+          99,
+          109,
+          111,
+          113,
+          116,
+          119,
+          121,
+          123,
+          125,
+          133,
+          146,
+          151,
+          163,
+          180,
+          184,
+          191
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          1,
+          22,
+          74,
+          78,
+          80,
+          84,
+          88,
+          93,
+          99,
+          107,
+          111,
+          125,
+          129,
+          151,
+          157,
+          159,
+          184,
+          191,
+          361
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          93,
+          111,
+          119,
+          121,
+          123,
+          133,
+          146,
+          149,
+          151,
+          159,
+          171,
+          175
+        ],
+        "name": "Inconel 600"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          93,
+          111,
+          123,
+          133,
+          151,
+          159,
+          171,
+          175
+        ],
+        "name": "Hastelloy C"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          88,
+          93,
+          133,
+          135,
+          159,
+          175,
+          180
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          93
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          137
+        ],
+        "name": "Monel"
+      }
+    ],
+    "organization": [
+      {
+        "count": 32,
+        "line_hits": [
+          12,
+          32,
+          34,
+          303,
+          309,
+          311,
+          314,
+          315,
+          316,
+          317,
+          318,
+          320,
+          325,
+          326,
+          327,
+          329,
+          331,
+          335,
+          337,
+          339,
+          340,
+          341,
+          343,
+          346,
+          347,
+          350,
+          353,
+          355,
+          358,
+          363,
+          364,
+          365
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          14,
+          34,
+          195,
+          208,
+          217,
+          221,
+          311,
+          329,
+          335
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          342
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          323
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          344
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          34
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 8,
+        "line_hits": [
+          74,
+          78,
+          88,
+          99,
+          125,
+          151,
+          171,
+          191
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          74,
+          78
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          78
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d42d37457ec9b4e56e11e48ed915788fc46eb4ff183028b7feb429c2451a65ab",
+  "markdown_path": "pdf/ORNL-TM-3609/ORNL-TM-3609/hybrid_ocr/ORNL-TM-3609.md",
+  "report_number": "ORNL-TM-3609",
+  "report_numbers": [
+    "ORNL-TM-3609"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 26,
+  "sections": [
+    {
+      "anchor": "a-study-of-the-adherence-of-tungsten-and-molybdenum-coatings",
+      "end_line": 4,
+      "heading": "A Study Of The Adherence Of Tungsten And Molybdenum Coatings",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "this-document-confirmed-as-unclassified",
+      "end_line": 6,
+      "heading": "This Document Confirmed As Unclassified",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "classified-division-of-classification-by-0-h-k-a",
+      "end_line": 9,
+      "heading": "Classified Division Of Classification By 0 H K A",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "date",
+      "end_line": 13,
+      "heading": "Date",
+      "level": 2,
+      "start_line": 10
+    },
+    {
+      "anchor": "ornl-tm-3609",
+      "end_line": 19,
+      "heading": "Ornl-Tm-3609",
+      "level": 2,
+      "start_line": 14
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 21,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "a-study-of-the-adherence-of-tungsten-and-molybdenum-coatings",
+      "end_line": 27,
+      "heading": "A Study Of The Adherence Of Tungsten And Molybdenum Coatings",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "december-1971",
+      "end_line": 29,
+      "heading": "December 1971",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "notice",
+      "end_line": 37,
+      "heading": "-NOTICE",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "contents",
+      "end_line": 71,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 75,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 81,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "coating-technique",
+      "end_line": 85,
+      "heading": "COATING TECHNIQUE",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "materials",
+      "end_line": 96,
+      "heading": "MATERIALS",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "substrate-reactions",
+      "end_line": 104,
+      "heading": "SUBSTRATE REACTIONS",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "preliminary-coating-results",
+      "end_line": 126,
+      "heading": "PRELIMINARY COATING RESULTS",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "coating-adherence",
+      "end_line": 130,
+      "heading": "COATING ADHERENCE",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "thermal-cycle-tests",
+      "end_line": 138,
+      "heading": "THERMAL CYCLE TESTS",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "bend-tests",
+      "end_line": 152,
+      "heading": "BEND TESTS",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "tensile-tests",
+      "end_line": 181,
+      "heading": "TENSILE TESTS",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 185,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "y-100328",
+      "end_line": 192,
+      "heading": "Y-100328",
+      "level": 2,
+      "start_line": 186
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 196,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "references",
+      "end_line": 201,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 300,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 366,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 301
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3609",
+  "tables": [],
+  "title": "A STUDY OF THE ADHERENCE OF TUNGSTEN AND MOLYBDENUM COATINGS",
+  "topics": [
+    "materials-and-corrosion",
+    "fuel-processing-and-reprocessing",
+    "breeder-and-converter-design",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

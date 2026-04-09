@@ -1,0 +1,589 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "NOTICE",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-500.jsonl",
+  "date_text": "1963",
+  "doc_id": "ornl-tm-500",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 27,
+        "line_hits": [
+          84,
+          108,
+          110,
+          116,
+          124,
+          126,
+          132,
+          139,
+          142,
+          146,
+          150,
+          152,
+          166,
+          168,
+          172,
+          190,
+          246,
+          262,
+          298,
+          308,
+          310,
+          324,
+          328,
+          380,
+          400,
+          477,
+          479
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          108,
+          114,
+          132,
+          162,
+          274,
+          276,
+          285,
+          293,
+          296,
+          324,
+          328,
+          346
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          114,
+          118
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          346,
+          410
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          304
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          304
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          124,
+          205,
+          218
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 23,
+        "line_hits": [
+          3,
+          15,
+          27,
+          46,
+          52,
+          70,
+          88,
+          110,
+          126,
+          128,
+          136,
+          182,
+          205,
+          322,
+          324,
+          344,
+          362,
+          463,
+          465,
+          485,
+          486,
+          487,
+          488
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          11,
+          23,
+          62,
+          572,
+          573,
+          574,
+          575,
+          576
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          426,
+          489
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          58
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 20,
+        "line_hits": [
+          176,
+          207,
+          244,
+          262,
+          274,
+          276,
+          280,
+          298,
+          320,
+          328,
+          354,
+          366,
+          436,
+          443,
+          463,
+          471,
+          473,
+          475,
+          479,
+          481
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          108,
+          118,
+          124,
+          126,
+          350,
+          479,
+          481
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 7,
+        "line_hits": [
+          110,
+          118,
+          152,
+          298,
+          341,
+          370,
+          390
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          341,
+          372,
+          392
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          169,
+          341
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          108,
+          154
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          341
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "17067294e05f9d45aa9a4d1aceee47e8b9e93b3f4e79514088a542c0f95110e4",
+  "markdown_path": "pdf/ORNL-TM-0500/ORNL-TM-0500/hybrid_ocr/ORNL-TM-0500.md",
+  "report_number": "ORNL-TM-500",
+  "report_numbers": [
+    "ORNL-TM-500"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 44,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 10,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 14,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "ornl-tm-500",
+      "end_line": 18,
+      "heading": "Ornl-Tm-500",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "radiation-chemistry-of-msr-system",
+      "end_line": 20,
+      "heading": "Radiation Chemistry Of Msr System",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "notice",
+      "end_line": 24,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "notice",
+      "end_line": 28,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 41,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "radiation-chemistry-of-msr-system",
+      "end_line": 47,
+      "heading": "Radiation Chemistry Of Msr System",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 49,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "mar-13-1963",
+      "end_line": 51,
+      "heading": "Mar 13 1963",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 57,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 61,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 63,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "contents",
+      "end_line": 67,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "introduction-3",
+      "end_line": 69,
+      "heading": "Introduction 3",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "experiment-ornl-mtr-47-4-5",
+      "end_line": 87,
+      "heading": "Experiment Ornl-Mtr-47-4 5",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "experiment-ornl-mtr-47-5-28",
+      "end_line": 103,
+      "heading": "Experiment Ornl-Mtr-47-5 28",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "radiation-chemistry-of-msr-system",
+      "end_line": 105,
+      "heading": "RADIATION CHEMISTRY OF MSR SYSTEM",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 127,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "experiment-ornl-mtr-47-4",
+      "end_line": 133,
+      "heading": "Experiment Ornl-Mtr-47-4",
+      "level": 2,
+      "start_line": 128
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 135,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 134
+    },
+    {
+      "anchor": "ornl-lr-dwg-67714r",
+      "end_line": 179,
+      "heading": "Ornl-Lr-Dwg 67714R",
+      "level": 2,
+      "start_line": 136
+    },
+    {
+      "anchor": "post-irradiation-examination",
+      "end_line": 183,
+      "heading": "Post Irradiation Examination",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "analysis-of-cover-gas",
+      "end_line": 229,
+      "heading": "Analysis of Cover Gas",
+      "level": 1,
+      "start_line": 184
+    },
+    {
+      "anchor": "table-5",
+      "end_line": 231,
+      "heading": "Table 5",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "analyses-of-cover-gas-from-irradiated-capsule-36",
+      "end_line": 257,
+      "heading": "Analyses of Cover Gas from Irradiated Capsule 36",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "gross-examination-of-capsules",
+      "end_line": 271,
+      "heading": "Gross Examination of Capsules",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "examination-of-the-metal",
+      "end_line": 277,
+      "heading": "Examination of the Metal",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "examination-of-salt",
+      "end_line": 291,
+      "heading": "Examination of Salt",
+      "level": 1,
+      "start_line": 278
+    },
+    {
+      "anchor": "unclassified-r-12958",
+      "end_line": 307,
+      "heading": "Unclassified R-12958",
+      "level": 2,
+      "start_line": 292
+    },
+    {
+      "anchor": "condition-of-the-graphite",
+      "end_line": 311,
+      "heading": "Condition of the Graphite",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 321,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "experiment-ornl-mtr-47-5",
+      "end_line": 347,
+      "heading": "EXPERIMENT ORNL-MTR-47-5",
+      "level": 1,
+      "start_line": 322
+    },
+    {
+      "anchor": "behavior-under-irradiation",
+      "end_line": 363,
+      "heading": "Behavior Under Irradiation",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "behavior-with-reactor-at-full-power",
+      "end_line": 440,
+      "heading": "Behavior with Reactor at Full Power",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "behavior-at-intermediate-reactor-power-levels",
+      "end_line": 446,
+      "heading": "Behavior at Intermediate Reactor Power Levels",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "behavior-through-startup-and-shutdown",
+      "end_line": 468,
+      "heading": "Behavior Through Startup and Shutdown",
+      "level": 1,
+      "start_line": 447
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 482,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 469
+    },
+    {
+      "anchor": "references",
+      "end_line": 496,
+      "heading": "References",
+      "level": 1,
+      "start_line": 483
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 569,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 497
+    },
+    {
+      "anchor": "external",
+      "end_line": 576,
+      "heading": "External",
+      "level": 1,
+      "start_line": 570
+    },
+    {
+      "anchor": "85-98-dtie",
+      "end_line": 577,
+      "heading": "85-98. Dtie",
+      "level": 2,
+      "start_line": 577
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0500",
+  "tables": [],
+  "title": "![](images/d4c11810d473f16400364590aec842fa4fb499dea4689b7c884ad706cfb9f770.jpg)",
+  "topics": [
+    "reactor-operations",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "irradiation-and-damage",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": []
+}

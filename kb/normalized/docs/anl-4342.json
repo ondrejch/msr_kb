@@ -1,0 +1,2094 @@
+{
+  "authors": [
+    "LIQUID-METAL FUEL REACTORS",
+    "CONTRIBUTORS",
+    "R. BOURDEAU",
+    "M. B. BRODSKY",
+    "J. S. BRYNER",
+    "J. CHERNICK"
+  ],
+  "claims_path": "kb/normalized/claims/anl-4342.jsonl",
+  "date_text": "June 1958",
+  "doc_id": "anl-4342",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 158,
+        "line_hits": [
+          148,
+          155,
+          199,
+          203,
+          207,
+          226,
+          228,
+          244,
+          252,
+          254,
+          262,
+          278,
+          280,
+          285,
+          290,
+          292,
+          297,
+          299,
+          371,
+          468,
+          474,
+          476,
+          478,
+          499,
+          549,
+          570,
+          576,
+          578,
+          580,
+          590,
+          628,
+          630,
+          657,
+          745,
+          758,
+          766,
+          818,
+          828,
+          832,
+          877,
+          942,
+          944,
+          946,
+          948,
+          950,
+          952,
+          954,
+          956,
+          958,
+          960
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 40,
+        "line_hits": [
+          362,
+          364,
+          397,
+          399,
+          408,
+          411,
+          413,
+          419,
+          436,
+          438,
+          462,
+          472,
+          476,
+          478,
+          480,
+          574,
+          580,
+          590,
+          636,
+          638,
+          659,
+          715,
+          932,
+          960,
+          971,
+          973,
+          977,
+          985,
+          1072,
+          1087,
+          1091,
+          1099,
+          1314,
+          1382,
+          1539,
+          1594,
+          1996,
+          2000,
+          2011,
+          3211
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          395,
+          891,
+          897,
+          932,
+          936,
+          1094,
+          1584,
+          1888,
+          2999,
+          3211,
+          3245,
+          3247
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          406,
+          425,
+          444,
+          472,
+          636,
+          659,
+          973,
+          977,
+          1087,
+          1091,
+          3245,
+          3309
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          148,
+          199,
+          254,
+          299,
+          321,
+          395,
+          883,
+          897,
+          983,
+          2798
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          387,
+          404,
+          624,
+          940,
+          1527,
+          1816,
+          1910,
+          3237,
+          3243
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          1097,
+          1936,
+          3080,
+          3087,
+          3092,
+          3098
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          728,
+          1087,
+          1786,
+          2612,
+          2618
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          3211,
+          3245
+        ],
+        "name": "niobium"
+      }
+    ],
+    "component": [
+      {
+        "count": 91,
+        "line_hits": [
+          331,
+          333,
+          337,
+          493,
+          572,
+          580,
+          584,
+          594,
+          653,
+          706,
+          715,
+          717,
+          719,
+          723,
+          733,
+          735,
+          737,
+          740,
+          758,
+          760,
+          764,
+          766,
+          768,
+          770,
+          772,
+          774,
+          785,
+          788,
+          792,
+          794,
+          801,
+          802,
+          803,
+          804,
+          812,
+          832,
+          834,
+          846,
+          848,
+          850,
+          854,
+          858,
+          877,
+          885,
+          887,
+          930,
+          938,
+          946,
+          1177,
+          1181
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 47,
+        "line_hits": [
+          133,
+          580,
+          782,
+          788,
+          792,
+          846,
+          852,
+          885,
+          1845,
+          1847,
+          1849,
+          1852,
+          1855,
+          1857,
+          1859,
+          1861,
+          1863,
+          1865,
+          1867,
+          1869,
+          1871,
+          1876,
+          1880,
+          1882,
+          1884,
+          1886,
+          1888,
+          1890,
+          1892,
+          2117,
+          2118,
+          2121,
+          2538,
+          2548,
+          2598,
+          2600,
+          2602,
+          2616,
+          2618,
+          2624,
+          2626,
+          2648,
+          2652,
+          2658,
+          2670,
+          3195,
+          3309
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 44,
+        "line_hits": [
+          88,
+          100,
+          115,
+          153,
+          325,
+          389,
+          570,
+          572,
+          624,
+          782,
+          1227,
+          1470,
+          1661,
+          1663,
+          1672,
+          1676,
+          1687,
+          1705,
+          1781,
+          1823,
+          1827,
+          1838,
+          1841,
+          2115,
+          2538,
+          2542,
+          2544,
+          2600,
+          2602,
+          2614,
+          2616,
+          2622,
+          2626,
+          2632,
+          2638,
+          2640,
+          2642,
+          2670,
+          2713,
+          3133,
+          3145,
+          3185,
+          3280,
+          3307
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          1663,
+          2536,
+          2538,
+          2544,
+          2563,
+          2612,
+          2618,
+          2620,
+          2622,
+          2642,
+          2674,
+          3078,
+          3085,
+          3137,
+          3143,
+          3183
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          782,
+          2538,
+          2542,
+          2544,
+          2600,
+          2614,
+          2622,
+          2626,
+          2642,
+          3185
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          315,
+          321,
+          2474,
+          2490,
+          2532,
+          2802,
+          2806,
+          2999
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          2007,
+          2016,
+          2018,
+          2020,
+          2022
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          2648,
+          2703,
+          2705,
+          2709
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          278,
+          1159,
+          1231
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1924
+        ],
+        "name": "drain tank"
+      }
+    ],
+    "organization": [
+      {
+        "count": 55,
+        "line_hits": [
+          64,
+          90,
+          175,
+          185,
+          191,
+          349,
+          350,
+          352,
+          602,
+          603,
+          604,
+          607,
+          609,
+          610,
+          612,
+          1097,
+          1098,
+          1627,
+          1629,
+          1631,
+          1632,
+          1633,
+          1635,
+          1636,
+          1912,
+          2100,
+          2102,
+          2103,
+          2105,
+          2108,
+          2109,
+          2116,
+          2117,
+          2118,
+          2119,
+          2121,
+          2126,
+          2127,
+          2128,
+          2129,
+          2131,
+          2133,
+          2136,
+          2139,
+          2140,
+          2144,
+          2145,
+          2148,
+          2150,
+          3113
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          62,
+          174,
+          216,
+          928,
+          1517,
+          1523,
+          1557,
+          1636,
+          1833,
+          1928,
+          2117,
+          2118,
+          2133,
+          2685,
+          3311
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          175,
+          329,
+          339,
+          351,
+          1833,
+          1910,
+          1936,
+          2132,
+          2142,
+          2144,
+          2145
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1880,
+          1886,
+          1940,
+          1946,
+          2071,
+          2109,
+          2126,
+          2128,
+          2137,
+          2148
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          1007,
+          1847,
+          1849,
+          1852,
+          1855,
+          2079
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          66,
+          1631
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 359,
+        "line_hits": [
+          64,
+          88,
+          102,
+          110,
+          122,
+          124,
+          126,
+          133,
+          135,
+          138,
+          144,
+          148,
+          153,
+          155,
+          157,
+          164,
+          168,
+          199,
+          209,
+          216,
+          218,
+          220,
+          222,
+          224,
+          246,
+          252,
+          276,
+          282,
+          294,
+          303,
+          315,
+          321,
+          325,
+          329,
+          331,
+          335,
+          339,
+          343,
+          360,
+          364,
+          371,
+          377,
+          379,
+          395,
+          404,
+          408,
+          415,
+          440,
+          452,
+          462
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 182,
+        "line_hits": [
+          3,
+          7,
+          13,
+          62,
+          64,
+          76,
+          80,
+          82,
+          84,
+          90,
+          92,
+          94,
+          96,
+          119,
+          138,
+          142,
+          146,
+          148,
+          151,
+          153,
+          155,
+          157,
+          162,
+          164,
+          166,
+          168,
+          177,
+          182,
+          188,
+          190,
+          191,
+          192,
+          203,
+          205,
+          207,
+          222,
+          224,
+          226,
+          228,
+          252,
+          254,
+          260,
+          262,
+          285,
+          294,
+          297,
+          301,
+          315,
+          317,
+          323
+        ],
+        "name": "LMFR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          3247
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 11,
+        "line_hits": [
+          448,
+          926,
+          938,
+          1237,
+          1243,
+          1414,
+          1571,
+          1573,
+          1588,
+          1603,
+          1609
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          448,
+          926,
+          940,
+          1527,
+          1529,
+          1539
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1525,
+          1527
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1330
+        ],
+        "name": "KF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e07a6e1f32800d42e3d2ade98f62752743c9d2e82a15da09aaf71ac6aaef064d",
+  "markdown_path": "pdf/FFR_part3/FFR_part3/hybrid_ocr/FFR_part3.md",
+  "report_number": "ANL-4342",
+  "report_numbers": [
+    "ANL-4342"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 186,
+  "sections": [
+    {
+      "anchor": "part-iii",
+      "end_line": 2,
+      "heading": "Part III",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "liquid-metal-fuel-reactors",
+      "end_line": 15,
+      "heading": "LIQUID-METAL FUEL REACTORS",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "contributors",
+      "end_line": 17,
+      "heading": "CONTRIBUTORS",
+      "level": 1,
+      "start_line": 16
+    },
+    {
+      "anchor": "r-bourdeau",
+      "end_line": 19,
+      "heading": "R. Bourdeau",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "m-b-brodsky",
+      "end_line": 21,
+      "heading": "M. B. Brodsky",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "j-s-bryner",
+      "end_line": 23,
+      "heading": "J. S. Bryner",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "j-chernick",
+      "end_line": 25,
+      "heading": "J. Chernick",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "j-g-y-chow",
+      "end_line": 27,
+      "heading": "J.G.Y.Chow",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "o-e-dwyer",
+      "end_line": 29,
+      "heading": "O. E. Dwyer",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "w-p-eatherly",
+      "end_line": 31,
+      "heading": "W.P.Eatherly",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "j-j-egan",
+      "end_line": 33,
+      "heading": "J.J. Egan",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "a-m-eshaya",
+      "end_line": 34,
+      "heading": "A.M. Eshaya",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "w-s-ginell",
+      "end_line": 35,
+      "heading": "W.S.Ginell",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "l-green",
+      "end_line": 36,
+      "heading": "L. GREEN",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "r-j-isler",
+      "end_line": 37,
+      "heading": "R.J.Isler",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "d-h-gurinksy",
+      "end_line": 38,
+      "heading": "D. H. Gurinksy",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "d-hall",
+      "end_line": 39,
+      "heading": "D. Hall",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "f-b-hill",
+      "end_line": 41,
+      "heading": "F. B. Hill",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "m-janes",
+      "end_line": 42,
+      "heading": "M. Janes",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "o-f-kammerer",
+      "end_line": 43,
+      "heading": "O.F.Kammerer",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "c-j-klamut",
+      "end_line": 44,
+      "heading": "C.J.Klamut",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "r-m-kiehn",
+      "end_line": 45,
+      "heading": "R.M.Kiehn",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "r-l-mansfield",
+      "end_line": 46,
+      "heading": "R. L. Mansfield",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "r-a-meyer",
+      "end_line": 47,
+      "heading": "R.A.Meyer",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "f-t-miles",
+      "end_line": 48,
+      "heading": "F. T. Miles",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "c-raseman",
+      "end_line": 49,
+      "heading": "C. RASEMAN",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "w-robba",
+      "end_line": 50,
+      "heading": "W. Robba",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "d-g-schweitzer",
+      "end_line": 51,
+      "heading": "D. G. Schweitzer",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "t-v-sheehan",
+      "end_line": 52,
+      "heading": "T.V.Sheehan",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "h-susskind",
+      "end_line": 53,
+      "heading": "H. Susskind",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "c-waide",
+      "end_line": 54,
+      "heading": "C. WAIDE",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "j-r-weeks",
+      "end_line": 55,
+      "heading": "J. R. Weeks",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "r-h-wiswall",
+      "end_line": 59,
+      "heading": "R. H. Wiswall",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "preface",
+      "end_line": 73,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "chapter-18",
+      "end_line": 75,
+      "heading": "CHAPTER 18",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "liquid-metal-fuel-reactors",
+      "end_line": 77,
+      "heading": "LIQUID METAL FUEL REACTORS",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "18-1-background",
+      "end_line": 93,
+      "heading": "18-1. BACKGROUND",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "18-2-general-characteristics-of-liquid-metal-fuel-reactors",
+      "end_line": 141,
+      "heading": "18-2. GENERAL CHARACTERISTICS OF LIQUID METAL FUEL REACTORS*",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "18-3-liquid-metal-fuel-reactor-types",
+      "end_line": 165,
+      "heading": "18-3. LIQUID METAL FUEL REACTOR TYPES",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "18-4-lmfr-program",
+      "end_line": 169,
+      "heading": "18-4. LMFR PROGRAM",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "references",
+      "end_line": 194,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "chapter-19",
+      "end_line": 196,
+      "heading": "CHAPTER 19",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "reactor-physics-for-liquid-metal-reactor-design",
+      "end_line": 204,
+      "heading": "REACTOR PHYSICS FOR LIQUID METAL REACTOR DESIGN*",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "19-1-lmfr-parameters",
+      "end_line": 210,
+      "heading": "19-1. LMFR PARAMETERS",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "table-19-1",
+      "end_line": 247,
+      "heading": "Table 19-1",
+      "level": 2,
+      "start_line": 211
+    },
+    {
+      "anchor": "table-19-2-inelastic-scattering-cross-section-of-bi",
+      "end_line": 259,
+      "heading": "Table 19-2 Inelastic Scattering Cross Section Of Bi",
+      "level": 2,
+      "start_line": 248
+    },
+    {
+      "anchor": "19-2-lmfr-statics",
+      "end_line": 283,
+      "heading": "19-2. LMFR STATICS",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "table-19-3",
+      "end_line": 284,
+      "heading": "Table 19-3",
+      "level": 2,
+      "start_line": 284
+    },
+    {
+      "anchor": "buckling-of-graphite-moderated-lmfr-cores",
+      "end_line": 288,
+      "heading": "Buckling Of Graphite-Moderated Lmfr Cores",
+      "level": 2,
+      "start_line": 285
+    },
+    {
+      "anchor": "table-19-4",
+      "end_line": 289,
+      "heading": "Table 19-4",
+      "level": 2,
+      "start_line": 289
+    },
+    {
+      "anchor": "reflector-savings-of-u235-bi-cores-moderated-by-graphite",
+      "end_line": 295,
+      "heading": "Reflector Savings Of U235-Bi Cores Moderated By Graphite",
+      "level": 2,
+      "start_line": 290
+    },
+    {
+      "anchor": "table-19-5",
+      "end_line": 304,
+      "heading": "Table 19-5",
+      "level": 2,
+      "start_line": 296
+    },
+    {
+      "anchor": "table-19-6",
+      "end_line": 326,
+      "heading": "Table 19-6",
+      "level": 2,
+      "start_line": 305
+    },
+    {
+      "anchor": "19-3-lmfr-kinetics",
+      "end_line": 344,
+      "heading": "19-3. LMFR KINETICS",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "references",
+      "end_line": 353,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "chapter-20",
+      "end_line": 355,
+      "heading": "CHAPTER 20",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "composition-and-properties-of-liquid-metal-fuels",
+      "end_line": 357,
+      "heading": "COMPOSITION AND PROPERTIES OF LIQUID-METAL FUELS*",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "20-1-core-fuel-composition",
+      "end_line": 374,
+      "heading": "20-1. CORE FUEL COMPOSITION",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "20-2-solubilities-in-bismuth",
+      "end_line": 449,
+      "heading": "20-2. SOLUBILITIES IN BISMUTH",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "20-3-physical-properties-of-solutions",
+      "end_line": 459,
+      "heading": "20-3. PHYSICAL PROPERTIES OF SOLUTIONS",
+      "level": 1,
+      "start_line": 450
+    },
+    {
+      "anchor": "20-4-fuel-preparation",
+      "end_line": 463,
+      "heading": "20-4. FUEL PREPARATION",
+      "level": 1,
+      "start_line": 460
+    },
+    {
+      "anchor": "20-5-fuel-stability",
+      "end_line": 494,
+      "heading": "20-5. FUEL STABILITY",
+      "level": 1,
+      "start_line": 464
+    },
+    {
+      "anchor": "20-6-thorium-bismuthide-blanket-slurry",
+      "end_line": 587,
+      "heading": "20-6. THORIUM BISMUTHIDE BLANKET SLURRY",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "20-7-thorium-compound-slurries",
+      "end_line": 597,
+      "heading": "20-7. THORIUM COMPOUND SLURRIES",
+      "level": 1,
+      "start_line": 588
+    },
+    {
+      "anchor": "references",
+      "end_line": 613,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "chapter-21",
+      "end_line": 615,
+      "heading": "CHAPTER 21",
+      "level": 1,
+      "start_line": 614
+    },
+    {
+      "anchor": "materials-of-construction-metallurgy",
+      "end_line": 617,
+      "heading": "MATERIALS OF CONSTRUCTION-METALLURGY*",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "21-1-lmfr-materials",
+      "end_line": 631,
+      "heading": "21-1. LMFR MATERIALS",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "21-2-steels",
+      "end_line": 674,
+      "heading": "21-2. STEELS",
+      "level": 1,
+      "start_line": 632
+    },
+    {
+      "anchor": "table-21-1",
+      "end_line": 679,
+      "heading": "Table 21-1",
+      "level": 2,
+      "start_line": 675
+    },
+    {
+      "anchor": "table-21-2",
+      "end_line": 681,
+      "heading": "TABLE 21-2",
+      "level": 1,
+      "start_line": 680
+    },
+    {
+      "anchor": "original-analyses-and-films-formed-on-special-steels-used-in-static-tests",
+      "end_line": 724,
+      "heading": "Original Analyses And Films Formed On Special Steels Used In Static Tests",
+      "level": 2,
+      "start_line": 682
+    },
+    {
+      "anchor": "table-21-3",
+      "end_line": 725,
+      "heading": "Table 21-3",
+      "level": 2,
+      "start_line": 725
+    },
+    {
+      "anchor": "composition-of-steels-tested",
+      "end_line": 738,
+      "heading": "Composition Of Steels Tested",
+      "level": 2,
+      "start_line": 726
+    },
+    {
+      "anchor": "table-21-4",
+      "end_line": 739,
+      "heading": "Table 21-4",
+      "level": 2,
+      "start_line": 739
+    },
+    {
+      "anchor": "summary-of-thermal-convection-loop-data",
+      "end_line": 797,
+      "heading": "Summary Of Thermal Convection Loop Data",
+      "level": 2,
+      "start_line": 740
+    },
+    {
+      "anchor": "table-21-5",
+      "end_line": 798,
+      "heading": "Table 21-5",
+      "level": 2,
+      "start_line": 798
+    },
+    {
+      "anchor": "results-from-high-velocity-loops",
+      "end_line": 878,
+      "heading": "Results From High Velocity Loops",
+      "level": 2,
+      "start_line": 799
+    },
+    {
+      "anchor": "21-3-nonferrous-metals",
+      "end_line": 898,
+      "heading": "21-3. NONFERROUS METALS",
+      "level": 1,
+      "start_line": 879
+    },
+    {
+      "anchor": "21-4-bearing-materials",
+      "end_line": 923,
+      "heading": "21-4. BEARING MATERIALS",
+      "level": 1,
+      "start_line": 899
+    },
+    {
+      "anchor": "21-5-salt-corrosion",
+      "end_line": 941,
+      "heading": "21-5. SALT CORROSION",
+      "level": 1,
+      "start_line": 924
+    },
+    {
+      "anchor": "21-6-graphite",
+      "end_line": 961,
+      "heading": "21-6. GRAPHITE",
+      "level": 1,
+      "start_line": 942
+    },
+    {
+      "anchor": "table-21-6",
+      "end_line": 996,
+      "heading": "Table 21-6",
+      "level": 2,
+      "start_line": 962
+    },
+    {
+      "anchor": "table-21-7",
+      "end_line": 997,
+      "heading": "Table 21-7",
+      "level": 2,
+      "start_line": 997
+    },
+    {
+      "anchor": "uranium-solution-capsule-conditions-on-graphite",
+      "end_line": 1001,
+      "heading": "Uranium Solution Capsule Conditions On Graphite",
+      "level": 2,
+      "start_line": 998
+    },
+    {
+      "anchor": "table-21-8",
+      "end_line": 1063,
+      "heading": "Table 21-8",
+      "level": 2,
+      "start_line": 1002
+    },
+    {
+      "anchor": "table-21-9-voidsfilledat450psi-after20hr",
+      "end_line": 1067,
+      "heading": "Table 21-9 Voidsfilledat450Psi After20Hr.",
+      "level": 2,
+      "start_line": 1064
+    },
+    {
+      "anchor": "table-21-10-surface-tensions",
+      "end_line": 1079,
+      "heading": "Table 21-10 Surface Tensions",
+      "level": 2,
+      "start_line": 1068
+    },
+    {
+      "anchor": "table-21-11",
+      "end_line": 1080,
+      "heading": "Table 21-11",
+      "level": 2,
+      "start_line": 1080
+    },
+    {
+      "anchor": "uranium-diffusion-into-graphite",
+      "end_line": 1084,
+      "heading": "Uranium Diffusion Into Graphite",
+      "level": 2,
+      "start_line": 1081
+    },
+    {
+      "anchor": "references",
+      "end_line": 1101,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1085
+    },
+    {
+      "anchor": "chapter-22",
+      "end_line": 1103,
+      "heading": "CHAPTER 22",
+      "level": 1,
+      "start_line": 1102
+    },
+    {
+      "anchor": "chemical-processing",
+      "end_line": 1105,
+      "heading": "CHEMICAL PROCESSING*",
+      "level": 1,
+      "start_line": 1104
+    },
+    {
+      "anchor": "22-1-introduction",
+      "end_line": 1124,
+      "heading": "22-1. INTRODUCTION",
+      "level": 1,
+      "start_line": 1106
+    },
+    {
+      "anchor": "table-22-1",
+      "end_line": 1125,
+      "heading": "Table 22-1",
+      "level": 2,
+      "start_line": 1125
+    },
+    {
+      "anchor": "fused-salt-soluble-fission-products-1",
+      "end_line": 1133,
+      "heading": "Fused-Salt Soluble Fission Products [1]",
+      "level": 2,
+      "start_line": 1126
+    },
+    {
+      "anchor": "table-22-2-fused-salt-insoluble-fission-products-1",
+      "end_line": 1156,
+      "heading": "Table 22-2 Fused-Salt Insoluble Fission Products [1]",
+      "level": 2,
+      "start_line": 1134
+    },
+    {
+      "anchor": "22-2-volatile-fission-product-removal-20",
+      "end_line": 1188,
+      "heading": "22-2. VOLATILE FISSION PRODUCT REMOVAL [20]",
+      "level": 1,
+      "start_line": 1157
+    },
+    {
+      "anchor": "table-22-4",
+      "end_line": 1212,
+      "heading": "Table 22-4",
+      "level": 2,
+      "start_line": 1189
+    },
+    {
+      "anchor": "table-22-5",
+      "end_line": 1214,
+      "heading": "TABLE 22-5",
+      "level": 1,
+      "start_line": 1213
+    },
+    {
+      "anchor": "capsule-tests-with-molten-fuel",
+      "end_line": 1236,
+      "heading": "CAPSULE TESTS WITH MOLTEN FUEL",
+      "level": 1,
+      "start_line": 1215
+    },
+    {
+      "anchor": "22-3-fused-chloride-salt-process",
+      "end_line": 1260,
+      "heading": "22-3. FUSED CHLORIDE SALT PROCESS",
+      "level": 1,
+      "start_line": 1237
+    },
+    {
+      "anchor": "table-22-6",
+      "end_line": 1326,
+      "heading": "Table 22-6",
+      "level": 2,
+      "start_line": 1261
+    },
+    {
+      "anchor": "table-22-7",
+      "end_line": 1327,
+      "heading": "Table 22-7",
+      "level": 2,
+      "start_line": 1327
+    },
+    {
+      "anchor": "values-of-b-constant",
+      "end_line": 1361,
+      "heading": "Values Of $B$ (Constant)",
+      "level": 2,
+      "start_line": 1328
+    },
+    {
+      "anchor": "table-22-8",
+      "end_line": 1363,
+      "heading": "TABLE 22-8",
+      "level": 1,
+      "start_line": 1362
+    },
+    {
+      "anchor": "activity-coefficients-at-infinite-dilution",
+      "end_line": 1409,
+      "heading": "ACTIVITY COEFFICIENTS AT INFINITE DILUTION",
+      "level": 1,
+      "start_line": 1364
+    },
+    {
+      "anchor": "table-22-9",
+      "end_line": 1433,
+      "heading": "Table 22-9",
+      "level": 2,
+      "start_line": 1410
+    },
+    {
+      "anchor": "table-22-10",
+      "end_line": 1435,
+      "heading": "TABLE 22-10",
+      "level": 1,
+      "start_line": 1434
+    },
+    {
+      "anchor": "statistics-on-various-fission-product-groups",
+      "end_line": 1520,
+      "heading": "STATISTICS ON VARIOUS FISSION-PRODUCT GROUPS",
+      "level": 1,
+      "start_line": 1436
+    },
+    {
+      "anchor": "22-4-fluoride-volatility-process-for-fission-products",
+      "end_line": 1540,
+      "heading": "22-4. FLUORIDE VOLATILITY PROCESS FOR FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 1521
+    },
+    {
+      "anchor": "22-5-noble-fission-product-removal",
+      "end_line": 1548,
+      "heading": "22-5. NOBLE FISSION PRODUCT REMOVAL",
+      "level": 1,
+      "start_line": 1541
+    },
+    {
+      "anchor": "fpn-concentrations-after-400-days-of-operation",
+      "end_line": 1558,
+      "heading": "Fpn Concentrations After 400 Days Of Operation",
+      "level": 2,
+      "start_line": 1549
+    },
+    {
+      "anchor": "table-22-12-removal-of-nfpn-metals-from-bi-with-zn",
+      "end_line": 1600,
+      "heading": "Table 22-12 Removal Of Nfpn Metals From Bi With Zn",
+      "level": 2,
+      "start_line": 1559
+    },
+    {
+      "anchor": "22-6-blanket-chemical-processing",
+      "end_line": 1616,
+      "heading": "22-6. BLANKET CHEMICAL PROCESSING",
+      "level": 1,
+      "start_line": 1601
+    },
+    {
+      "anchor": "22-7-economics-of-chemical-processing",
+      "end_line": 1624,
+      "heading": "22-7. ECONOMICS OF CHEMICAL PROCESSING",
+      "level": 1,
+      "start_line": 1617
+    },
+    {
+      "anchor": "references",
+      "end_line": 1648,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1625
+    },
+    {
+      "anchor": "chapter-23",
+      "end_line": 1650,
+      "heading": "CHAPTER 23",
+      "level": 1,
+      "start_line": 1649
+    },
+    {
+      "anchor": "engineering-design",
+      "end_line": 1652,
+      "heading": "ENGINEERING DESIGN",
+      "level": 1,
+      "start_line": 1651
+    },
+    {
+      "anchor": "23-1-reactor-design",
+      "end_line": 1702,
+      "heading": "23-1. REACTOR DESIGN*",
+      "level": 1,
+      "start_line": 1653
+    },
+    {
+      "anchor": "23-2-heat-transfer",
+      "end_line": 1737,
+      "heading": "23-2. HEAT TRANSFER*",
+      "level": 1,
+      "start_line": 1703
+    },
+    {
+      "anchor": "table-23-1",
+      "end_line": 1738,
+      "heading": "Table 23-1",
+      "level": 2,
+      "start_line": 1738
+    },
+    {
+      "anchor": "physical-properties-of-bismuth",
+      "end_line": 1754,
+      "heading": "Physical Properties Of Bismuth",
+      "level": 2,
+      "start_line": 1739
+    },
+    {
+      "anchor": "table-23-2",
+      "end_line": 1755,
+      "heading": "Table 23-2",
+      "level": 2,
+      "start_line": 1755
+    },
+    {
+      "anchor": "some-nuclear-properties-of-various-reactor-coolants",
+      "end_line": 1761,
+      "heading": "Some Nuclear Properties Of Various Reactor Coolants",
+      "level": 2,
+      "start_line": 1756
+    },
+    {
+      "anchor": "table-23-3",
+      "end_line": 1782,
+      "heading": "Table 23-3",
+      "level": 2,
+      "start_line": 1762
+    },
+    {
+      "anchor": "table-23-4",
+      "end_line": 1783,
+      "heading": "Table 23-4",
+      "level": 2,
+      "start_line": 1783
+    },
+    {
+      "anchor": "physical-properties-of-some-typical-reactor-coolants",
+      "end_line": 1819,
+      "heading": "Physical Properties Of Some Typical Reactor Coolants",
+      "level": 2,
+      "start_line": 1784
+    },
+    {
+      "anchor": "table-23-6",
+      "end_line": 1828,
+      "heading": "Table 23-6",
+      "level": 2,
+      "start_line": 1820
+    },
+    {
+      "anchor": "23-3-component-design",
+      "end_line": 1834,
+      "heading": "23-3. COMPONENT DESIGN*",
+      "level": 1,
+      "start_line": 1829
+    },
+    {
+      "anchor": "table-23-7",
+      "end_line": 1839,
+      "heading": "Table 23-7",
+      "level": 2,
+      "start_line": 1835
+    },
+    {
+      "anchor": "table-23-8",
+      "end_line": 1840,
+      "heading": "Table 23-8",
+      "level": 2,
+      "start_line": 1840
+    },
+    {
+      "anchor": "typical-conditions-in-a-countercurrent-bi-na-heat-exchanger",
+      "end_line": 2094,
+      "heading": "Typical Conditions In A Countercurrent, Bi-Na Heat Exchanger",
+      "level": 2,
+      "start_line": 1841
+    },
+    {
+      "anchor": "references",
+      "end_line": 2151,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 2095
+    },
+    {
+      "anchor": "chapter-24",
+      "end_line": 2153,
+      "heading": "CHAPTER 24",
+      "level": 1,
+      "start_line": 2152
+    },
+    {
+      "anchor": "liquid-metal-fuel-reactor-design-study",
+      "end_line": 2155,
+      "heading": "LIQUID METAL FUEL REACTOR DESIGN STUDY*",
+      "level": 1,
+      "start_line": 2154
+    },
+    {
+      "anchor": "24-1-comparison-of-two-fluid-and-single-fluid-lmfr-designs",
+      "end_line": 2159,
+      "heading": "24-1. COMPARISON OF TWO-FLUID AND SINGLE-FLUID LMFR DESIGNS",
+      "level": 1,
+      "start_line": 2156
+    },
+    {
+      "anchor": "24-2-two-fluid-reactor-design",
+      "end_line": 2336,
+      "heading": "24-2. TWO-FLUID REACTOR DESIGN",
+      "level": 1,
+      "start_line": 2160
+    },
+    {
+      "anchor": "table-24-2-results-of-nuclear-calculations-for-various-power-splits",
+      "end_line": 2371,
+      "heading": "Table 24-2 Results Of Nuclear Calculations For Various Power Splits",
+      "level": 2,
+      "start_line": 2337
+    },
+    {
+      "anchor": "table-24-3-inventory-volumes-in-two-fluid-lmfr",
+      "end_line": 2439,
+      "heading": "Table 24-3 Inventory Volumes In Two-Fluid Lmfr",
+      "level": 2,
+      "start_line": 2372
+    },
+    {
+      "anchor": "table-24-4",
+      "end_line": 2440,
+      "heading": "Table 24-4",
+      "level": 2,
+      "start_line": 2440
+    },
+    {
+      "anchor": "chemical-processing-costs-two-fluid-lmfr",
+      "end_line": 2444,
+      "heading": "Chemical Processing Costs Two-Fluid Lmfr",
+      "level": 2,
+      "start_line": 2441
+    },
+    {
+      "anchor": "table-24-5",
+      "end_line": 2445,
+      "heading": "Table 24-5",
+      "level": 2,
+      "start_line": 2445
+    },
+    {
+      "anchor": "relative-fuel-cost-for-two-fluid-lmfr-with-poisons-blanketed-sphere",
+      "end_line": 2491,
+      "heading": "Relative Fuel Cost For Two-Fluid Lmfr (With Poisons-Blanketed Sphere)",
+      "level": 2,
+      "start_line": 2446
+    },
+    {
+      "anchor": "reference-design-specifications",
+      "end_line": 2493,
+      "heading": "REFERENCE DESIGN SPECIFICATIONS",
+      "level": 1,
+      "start_line": 2492
+    },
+    {
+      "anchor": "specifications-for-equilibrium-operation",
+      "end_line": 2495,
+      "heading": "SPECIFICATIONS FOR EQUILIBRIUM OPERATION",
+      "level": 1,
+      "start_line": 2494
+    },
+    {
+      "anchor": "core",
+      "end_line": 2499,
+      "heading": "Core:",
+      "level": 1,
+      "start_line": 2496
+    },
+    {
+      "anchor": "blanket",
+      "end_line": 2533,
+      "heading": "Blanket:",
+      "level": 1,
+      "start_line": 2500
+    },
+    {
+      "anchor": "24-3-systems-design",
+      "end_line": 2710,
+      "heading": "24-3. SYSTEMS DESIGN",
+      "level": 1,
+      "start_line": 2534
+    },
+    {
+      "anchor": "24-4-single-fluid-reactor-design",
+      "end_line": 2746,
+      "heading": "24-4. SINGLE-FLUID REACTOR DESIGN",
+      "level": 1,
+      "start_line": 2711
+    },
+    {
+      "anchor": "table-24-6-summary-of-single-fluid-nuclear-calculations",
+      "end_line": 2810,
+      "heading": "Table 24-6 Summary Of Single-Fluid Nuclear Calculations",
+      "level": 2,
+      "start_line": 2747
+    },
+    {
+      "anchor": "table-24-7-estimated-single-fluid-reactor-cost",
+      "end_line": 2824,
+      "heading": "Table 24-7 Estimated Single-Fluid Reactor Cost",
+      "level": 2,
+      "start_line": 2811
+    },
+    {
+      "anchor": "table-24-8-bismuth-inventory-in-reactor-vessel-external-to-core",
+      "end_line": 2944,
+      "heading": "Table 24-8 Bismuth Inventory In Reactor Vessel External To Core",
+      "level": 2,
+      "start_line": 2825
+    },
+    {
+      "anchor": "table-24-9",
+      "end_line": 2945,
+      "heading": "Table 24-9",
+      "level": 2,
+      "start_line": 2945
+    },
+    {
+      "anchor": "relative-energy-costs-for-single-fluid-lmfr",
+      "end_line": 2951,
+      "heading": "Relative Energy Costs For Single Fluid Lmfr",
+      "level": 2,
+      "start_line": 2946
+    },
+    {
+      "anchor": "table-24-10",
+      "end_line": 2952,
+      "heading": "Table 24-10",
+      "level": 2,
+      "start_line": 2952
+    },
+    {
+      "anchor": "relative-fuel-costs-including-chemical-processing-single-fluid-lmfr",
+      "end_line": 2989,
+      "heading": "Relative Fuel Costs Including Chemical Processing Single Fluid Lmfr",
+      "level": 2,
+      "start_line": 2953
+    },
+    {
+      "anchor": "table-24-11",
+      "end_line": 2990,
+      "heading": "Table 24-11",
+      "level": 2,
+      "start_line": 2990
+    },
+    {
+      "anchor": "variable-fuel-cost-for-an-825-mw-lmfr",
+      "end_line": 3002,
+      "heading": "Variable Fuel Cost For An 825-Mw Lmfr",
+      "level": 2,
+      "start_line": 2991
+    },
+    {
+      "anchor": "power",
+      "end_line": 3010,
+      "heading": "Power:",
+      "level": 1,
+      "start_line": 3003
+    },
+    {
+      "anchor": "materials",
+      "end_line": 3026,
+      "heading": "Materials:",
+      "level": 1,
+      "start_line": 3011
+    },
+    {
+      "anchor": "geometry",
+      "end_line": 3050,
+      "heading": "Geometry:",
+      "level": 1,
+      "start_line": 3027
+    },
+    {
+      "anchor": "nuclear-data",
+      "end_line": 3054,
+      "heading": "Nuclear data:",
+      "level": 1,
+      "start_line": 3051
+    },
+    {
+      "anchor": "24-5-economics",
+      "end_line": 3058,
+      "heading": "24-5. ECONOMICS",
+      "level": 1,
+      "start_line": 3055
+    },
+    {
+      "anchor": "table-24-12-energy-cost-80-plant-factor",
+      "end_line": 3074,
+      "heading": "Table 24-12 Energy Cost (80% Plant Factor)",
+      "level": 2,
+      "start_line": 3059
+    },
+    {
+      "anchor": "table-24-13",
+      "end_line": 3075,
+      "heading": "Table 24-13",
+      "level": 2,
+      "start_line": 3075
+    },
+    {
+      "anchor": "summary-of-direct-construction-costs-for-single-fluid-lmfr",
+      "end_line": 3081,
+      "heading": "Summary Of Direct Construction Costs For Single-Fluid Lmfr",
+      "level": 2,
+      "start_line": 3076
+    },
+    {
+      "anchor": "table-24-14",
+      "end_line": 3082,
+      "heading": "Table 24-14",
+      "level": 2,
+      "start_line": 3082
+    },
+    {
+      "anchor": "summary-of-direct-construction-costs-for-two-fluid-lmfr",
+      "end_line": 3088,
+      "heading": "Summary Of Direct Construction Costs For Two-Fluid Lmfr",
+      "level": 2,
+      "start_line": 3083
+    },
+    {
+      "anchor": "table-24-15",
+      "end_line": 3089,
+      "heading": "Table 24-15",
+      "level": 2,
+      "start_line": 3089
+    },
+    {
+      "anchor": "summary-of-capital-investment-for-single-fluid-lmfr",
+      "end_line": 3095,
+      "heading": "Summary Of Capital Investment For Single-Fluid Lmfr",
+      "level": 2,
+      "start_line": 3090
+    },
+    {
+      "anchor": "table-24-16-summary-of-capital-investment-for-two-fluid-lmfr",
+      "end_line": 3099,
+      "heading": "Table 24-16 Summary Of Capital Investment For Two-Fluid Lmfr",
+      "level": 2,
+      "start_line": 3096
+    },
+    {
+      "anchor": "table-24-17",
+      "end_line": 3100,
+      "heading": "Table 24-17",
+      "level": 2,
+      "start_line": 3100
+    },
+    {
+      "anchor": "summary-of-fuel-costs",
+      "end_line": 3105,
+      "heading": "Summary Of Fuel Costs",
+      "level": 2,
+      "start_line": 3101
+    },
+    {
+      "anchor": "table-24-18",
+      "end_line": 3106,
+      "heading": "Table 24-18",
+      "level": 2,
+      "start_line": 3106
+    },
+    {
+      "anchor": "unit-energy-costs",
+      "end_line": 3110,
+      "heading": "Unit Energy Costs",
+      "level": 2,
+      "start_line": 3107
+    },
+    {
+      "anchor": "references",
+      "end_line": 3118,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 3111
+    },
+    {
+      "anchor": "chapter-25",
+      "end_line": 3120,
+      "heading": "CHAPTER 25",
+      "level": 1,
+      "start_line": 3119
+    },
+    {
+      "anchor": "additional-liquid-metal-reactors",
+      "end_line": 3128,
+      "heading": "ADDITIONAL LIQUID METAL REACTORS",
+      "level": 1,
+      "start_line": 3121
+    },
+    {
+      "anchor": "25-1-liquid-metal-fuel-gas-cooled-reactor",
+      "end_line": 3196,
+      "heading": "25-1. LIQUID METAL FUEL GAS-COOLED REACTOR*",
+      "level": 1,
+      "start_line": 3129
+    },
+    {
+      "anchor": "table-25-1-summary-of-design-parameters",
+      "end_line": 3226,
+      "heading": "Table 25-1 Summary Of Design Parameters",
+      "level": 2,
+      "start_line": 3197
+    },
+    {
+      "anchor": "25-2-molten-plutonium-fuel-reactor",
+      "end_line": 3258,
+      "heading": "25-2. MOLTEN PLUTONIUM FUEL REACTOR*",
+      "level": 1,
+      "start_line": 3227
+    },
+    {
+      "anchor": "table-25-2",
+      "end_line": 3259,
+      "heading": "Table 25-2",
+      "level": 2,
+      "start_line": 3259
+    },
+    {
+      "anchor": "fuel-alloys",
+      "end_line": 3304,
+      "heading": "Fuel Alloys",
+      "level": 2,
+      "start_line": 3260
+    },
+    {
+      "anchor": "25-3-liquid-metal-uranium-oxide-slurry-reactors",
+      "end_line": 3318,
+      "heading": "25-3. LIQUID METAL-URANIUM OXIDE SLURRY REACTORS",
+      "level": 1,
+      "start_line": 3305
+    },
+    {
+      "anchor": "references",
+      "end_line": 3325,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 3319
+    }
+  ],
+  "source_dir": "pdf/FFR_part3",
+  "tables": [],
+  "title": "Part III",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "breeder-and-converter-design"
+  ],
+  "warnings": []
+}

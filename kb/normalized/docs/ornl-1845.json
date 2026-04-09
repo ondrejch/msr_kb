@@ -1,0 +1,2531 @@
+{
+  "authors": [
+    "By",
+    "W.B.Cottrell",
+    "H. E. Hungerford",
+    "J. K. Leslie",
+    "J. L. Meem",
+    "Oak Ridge",
+    "Tennessee"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1845.jsonl",
+  "date_text": "September 6, 1955",
+  "doc_id": "ornl-1845",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 12,
+        "line_hits": [
+          347,
+          349,
+          1111,
+          1680,
+          1684,
+          1905,
+          1929,
+          2786,
+          2810,
+          3590,
+          3600,
+          5259
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          869,
+          894,
+          2233
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          4404,
+          5259
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          3206,
+          3309
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          362,
+          443
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 87,
+        "line_hits": [
+          364,
+          376,
+          378,
+          388,
+          401,
+          431,
+          473,
+          607,
+          653,
+          770,
+          788,
+          827,
+          863,
+          865,
+          1010,
+          1015,
+          1119,
+          1251,
+          1273,
+          1290,
+          1292,
+          1294,
+          1358,
+          1366,
+          1370,
+          1385,
+          1389,
+          1393,
+          1412,
+          1437,
+          1509,
+          1721,
+          1722,
+          1855,
+          2133,
+          2142,
+          2148,
+          2162,
+          2164,
+          2168,
+          2174,
+          2176,
+          2177,
+          2183,
+          2187,
+          2191,
+          2197,
+          2199,
+          2204,
+          2206
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 85,
+        "line_hits": [
+          364,
+          366,
+          374,
+          376,
+          384,
+          394,
+          399,
+          447,
+          482,
+          491,
+          504,
+          506,
+          523,
+          531,
+          541,
+          545,
+          587,
+          593,
+          595,
+          597,
+          831,
+          865,
+          873,
+          896,
+          964,
+          973,
+          975,
+          978,
+          980,
+          988,
+          991,
+          1001,
+          1004,
+          1038,
+          1059,
+          1217,
+          1467,
+          1656,
+          1742,
+          1846,
+          1855,
+          2142,
+          2148,
+          2162,
+          2183,
+          2211,
+          2510,
+          2554,
+          2654,
+          2700
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 27,
+        "line_hits": [
+          364,
+          378,
+          1292,
+          2148,
+          2160,
+          2166,
+          2170,
+          2172,
+          2181,
+          2185,
+          2189,
+          2195,
+          2202,
+          2261,
+          2298,
+          2302,
+          2320,
+          2345,
+          2349,
+          2510,
+          2938,
+          2950,
+          3042,
+          3281,
+          3297,
+          3369,
+          3454
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          112,
+          317,
+          433,
+          435,
+          437,
+          450,
+          523,
+          1063,
+          1727,
+          1730,
+          1733,
+          1734,
+          2712,
+          3532,
+          3622
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          427,
+          1263,
+          1267,
+          1294,
+          2259,
+          2261,
+          2269,
+          2300,
+          2322,
+          2360,
+          2362,
+          2926,
+          4002,
+          5259
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          865
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 33,
+        "line_hits": [
+          21,
+          57,
+          75,
+          92,
+          275,
+          495,
+          506,
+          549,
+          590,
+          696,
+          792,
+          1431,
+          1700,
+          2217,
+          2219,
+          2265,
+          2443,
+          2780,
+          5231,
+          5233,
+          5235,
+          5237,
+          5239,
+          5241,
+          5243,
+          5245,
+          5247,
+          5249,
+          5251,
+          5253,
+          5255,
+          5257,
+          5259
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          275,
+          1700,
+          5009,
+          5077
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          34,
+          275
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          13,
+          78
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2312
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 219,
+        "line_hits": [
+          1,
+          59,
+          86,
+          88,
+          92,
+          94,
+          231,
+          250,
+          255,
+          259,
+          275,
+          283,
+          285,
+          343,
+          347,
+          356,
+          405,
+          407,
+          413,
+          415,
+          443,
+          506,
+          527,
+          535,
+          575,
+          607,
+          618,
+          622,
+          642,
+          653,
+          696,
+          698,
+          702,
+          716,
+          723,
+          727,
+          757,
+          763,
+          778,
+          780,
+          827,
+          843,
+          845,
+          875,
+          881,
+          883,
+          914,
+          920,
+          939,
+          956
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5259
+        ],
+        "name": "HRE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          5225
+        ],
+        "name": "ANP Quarterly Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 9,
+        "line_hits": [
+          261,
+          362,
+          388,
+          443,
+          454,
+          1812,
+          1891,
+          1925,
+          2908
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1812,
+          1891,
+          1925,
+          5259
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1812,
+          1891,
+          1925
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1812,
+          1925
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          268,
+          5259
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1925
+        ],
+        "name": "NaF-ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "23b33a27e22dd6d6d2ba265fdcd625db5970f2393f3ea6cd3761afdd4f885733",
+  "markdown_path": "pdf/ORNL-1845/ORNL-1845/hybrid_ocr/ORNL-1845.md",
+  "report_number": "ORNL-1845",
+  "report_numbers": [
+    "ORNL-1845",
+    "ORNL-1844",
+    "ORNL-1868"
+  ],
+  "report_series": null,
+  "section_count": 290,
+  "sections": [
+    {
+      "anchor": "operation-of-the-aircraft-reactor-experiment",
+      "end_line": 12,
+      "heading": "OPERATION OF THE AIRCRAFT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 33,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "united-states-atomic-energy-commission",
+      "end_line": 41,
+      "heading": "United States Atomic Energy Commission",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 58,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 42
+    },
+    {
+      "anchor": "operation-of-the-aircraft-reactor-experiment",
+      "end_line": 77,
+      "heading": "Operation Of The Aircraft Reactor Experiment",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 83,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 89,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 97,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "contents",
+      "end_line": 99,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "summary-1",
+      "end_line": 101,
+      "heading": "SUMMARY 1",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "1-introduction-2",
+      "end_line": 102,
+      "heading": "1. INTRODUCTION 2",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "2-description-of-the-reactor-experiment-4",
+      "end_line": 114,
+      "heading": "2.Description Of The Reactor Experiment 4",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "3-prenuclear-operation-19",
+      "end_line": 121,
+      "heading": "3. PRENUCLEAR OPERATION 19",
+      "level": 2,
+      "start_line": 115
+    },
+    {
+      "anchor": "4-critical-experiment-23",
+      "end_line": 131,
+      "heading": "4. CRITICAL EXPERIMENT 23",
+      "level": 2,
+      "start_line": 122
+    },
+    {
+      "anchor": "5-low-power-experiments-40",
+      "end_line": 143,
+      "heading": "5. LOW-POWER EXPERIMENTS 40",
+      "level": 2,
+      "start_line": 132
+    },
+    {
+      "anchor": "6-high-power-experiments-58",
+      "end_line": 170,
+      "heading": "6. HIGH-POWER EXPERIMENTS 58",
+      "level": 2,
+      "start_line": 144
+    },
+    {
+      "anchor": "7-recommendations-97",
+      "end_line": 172,
+      "heading": "7. RECOMMENDATIONS 97",
+      "level": 2,
+      "start_line": 171
+    },
+    {
+      "anchor": "appendixes",
+      "end_line": 174,
+      "heading": "APPENDIXES",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "b-summary-of-design-and-operational-data-107",
+      "end_line": 184,
+      "heading": "B. Summary Of Design And Operational Data 107",
+      "level": 2,
+      "start_line": 175
+    },
+    {
+      "anchor": "c-control-system-description-and-operation-125",
+      "end_line": 193,
+      "heading": "C. CONTROL SYSTEM DESCRIPTION AND OPERATION 125",
+      "level": 2,
+      "start_line": 185
+    },
+    {
+      "anchor": "d-nuclear-operating-procedures-144",
+      "end_line": 203,
+      "heading": "D. Nuclear Operating Procedures 144",
+      "level": 2,
+      "start_line": 194
+    },
+    {
+      "anchor": "e-mathematical-analysis-of-approach-to-criticality-156",
+      "end_line": 204,
+      "heading": "E. Mathematical Analysis Of Approach To Criticality 156",
+      "level": 2,
+      "start_line": 204
+    },
+    {
+      "anchor": "f-cold-clean-critical-mass-158",
+      "end_line": 205,
+      "heading": "F. Cold, Clean Critical Mass 158",
+      "level": 2,
+      "start_line": 205
+    },
+    {
+      "anchor": "g-flux-and-power-distributions-160",
+      "end_line": 211,
+      "heading": "G. Flux And Power Distributions 160",
+      "level": 2,
+      "start_line": 206
+    },
+    {
+      "anchor": "h-power-determination-from-fuel-activation-165",
+      "end_line": 216,
+      "heading": "H. Power Determination From Fuel Activation 165",
+      "level": 2,
+      "start_line": 212
+    },
+    {
+      "anchor": "i-inhour-formula-for-a-circulating-fuel-reactor-with-slug-flow-168",
+      "end_line": 218,
+      "heading": "I. INHOUR FORMULA FOR A CIRCULATING-FUEL REACTOR WITH SLUG FLOW 168",
+      "level": 2,
+      "start_line": 217
+    },
+    {
+      "anchor": "j-calibration-of-the-shim-rods-172",
+      "end_line": 222,
+      "heading": "J. Calibration Of The Shim Rods 172",
+      "level": 2,
+      "start_line": 219
+    },
+    {
+      "anchor": "k-correlation-of-reactor-and-line-temperatures-180",
+      "end_line": 223,
+      "heading": "K. Correlation Of Reactor And Line Temperatures 180",
+      "level": 2,
+      "start_line": 223
+    },
+    {
+      "anchor": "l-power-determination-from-heat-extraction-184",
+      "end_line": 224,
+      "heading": "L. POWER DETERMINATION FROM HEAT EXTRACTION 184",
+      "level": 2,
+      "start_line": 224
+    },
+    {
+      "anchor": "m-thermodynamic-analyses-188",
+      "end_line": 227,
+      "heading": "M. Thermodynamic Analyses 188",
+      "level": 2,
+      "start_line": 225
+    },
+    {
+      "anchor": "n-comparison-of-reactor-power-determinations-190",
+      "end_line": 228,
+      "heading": "N. Comparison Of Reactor Power Determinations 190",
+      "level": 2,
+      "start_line": 228
+    },
+    {
+      "anchor": "o-analysis-of-temperature-coefficient-measurements-192",
+      "end_line": 235,
+      "heading": "O. Analysis Of Temperature Coefficient Measurements 192",
+      "level": 2,
+      "start_line": 229
+    },
+    {
+      "anchor": "p-theoretical-xenon-poisoning-200",
+      "end_line": 236,
+      "heading": "P. Theoretical Xenon Poisoning 200",
+      "level": 2,
+      "start_line": 236
+    },
+    {
+      "anchor": "q-operational-difficulties-202",
+      "end_line": 244,
+      "heading": "Q. Operational Difficulties 202",
+      "level": 2,
+      "start_line": 237
+    },
+    {
+      "anchor": "r-integrated-power-208",
+      "end_line": 247,
+      "heading": "R. Integrated Power 208",
+      "level": 2,
+      "start_line": 245
+    },
+    {
+      "anchor": "s-interpretation-of-observed-reactor-periods-during-transients-212",
+      "end_line": 248,
+      "heading": "S. Interpretation Of Observed Reactor Periods During Transients 212",
+      "level": 2,
+      "start_line": 248
+    },
+    {
+      "anchor": "t-nuclear-log-213",
+      "end_line": 249,
+      "heading": "T. Nuclear Log 213",
+      "level": 2,
+      "start_line": 249
+    },
+    {
+      "anchor": "u-the-are-building-232",
+      "end_line": 250,
+      "heading": "U. The Are Building 232",
+      "level": 2,
+      "start_line": 250
+    },
+    {
+      "anchor": "bibliography-235",
+      "end_line": 254,
+      "heading": "Bibliography 235",
+      "level": 2,
+      "start_line": 251
+    },
+    {
+      "anchor": "operation-of-the-aircraft-reactor-experiment",
+      "end_line": 256,
+      "heading": "OPERATION OF THE AIRCRAFT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "summary",
+      "end_line": 272,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 286,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "experiment",
+      "end_line": 288,
+      "heading": "Experiment",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "series-no",
+      "end_line": 290,
+      "heading": "Series No.",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "type-of-experiment",
+      "end_line": 344,
+      "heading": "Type of Experiment",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "reactor",
+      "end_line": 359,
+      "heading": "REACTOR",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "fuel-system",
+      "end_line": 391,
+      "heading": "FUEL SYSTEM",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "sodium-system",
+      "end_line": 402,
+      "heading": "SODIUM SYSTEM",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "process-instrumentation",
+      "end_line": 410,
+      "heading": "PROCESS INSTRUMENTATION",
+      "level": 1,
+      "start_line": 403
+    },
+    {
+      "anchor": "nuclear-instrumentation-and-controls",
+      "end_line": 432,
+      "heading": "NUCLEAR INSTRUMENTATION AND CONTROLS",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "off-gas-system",
+      "end_line": 440,
+      "heading": "OFF-GAS SYSTEM",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "fuel-enrichment-system",
+      "end_line": 455,
+      "heading": "FUEL ENRICHMENT SYSTEM",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "dwg-21453a",
+      "end_line": 464,
+      "heading": "Dwg.21453A",
+      "level": 2,
+      "start_line": 456
+    },
+    {
+      "anchor": "circulation-of-sodium",
+      "end_line": 488,
+      "heading": "CIRCULATION OF SODIUM",
+      "level": 1,
+      "start_line": 465
+    },
+    {
+      "anchor": "circulation-of-fuel-carrier",
+      "end_line": 498,
+      "heading": "CIRCULATION OF FUEL CARRIER",
+      "level": 1,
+      "start_line": 489
+    },
+    {
+      "anchor": "table-3-1-analyses-of-impurities-and-corrosion-products-in-carrier-samples",
+      "end_line": 507,
+      "heading": "Table 3.1. Analyses Of Impurities And Corrosion Products In Carrier Samples",
+      "level": 2,
+      "start_line": 499
+    },
+    {
+      "anchor": "final-preparations-for-nuclear-operation",
+      "end_line": 528,
+      "heading": "FINAL PREPARATIONS FOR NUCLEAR OPERATION",
+      "level": 1,
+      "start_line": 508
+    },
+    {
+      "anchor": "enrichment-procedure",
+      "end_line": 542,
+      "heading": "ENRICHMENT PROCEDURE",
+      "level": 1,
+      "start_line": 529
+    },
+    {
+      "anchor": "early-stages-of-the-experiment",
+      "end_line": 548,
+      "heading": "EARLY STAGES OF THE EXPERIMENT",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "ornl-lr-dwg6394",
+      "end_line": 551,
+      "heading": "Ornl-Lr-Dwg6394",
+      "level": 2,
+      "start_line": 549
+    },
+    {
+      "anchor": "chronology-of-the-critical-experiment",
+      "end_line": 567,
+      "heading": "Chronology Of The Critical Experiment",
+      "level": 2,
+      "start_line": 552
+    },
+    {
+      "anchor": "table-4-1-fuel-concentrate-batches-added-during-critical-experiment",
+      "end_line": 589,
+      "heading": "Table 4.1. Fuel Concentrate Batches Added During Critical Experiment",
+      "level": 2,
+      "start_line": 568
+    },
+    {
+      "anchor": "ornl-lr-dwg-3853",
+      "end_line": 602,
+      "heading": "Ornl-Lr-Dwg 3853",
+      "level": 2,
+      "start_line": 590
+    },
+    {
+      "anchor": "subcritical-measurement-of-the-reactor-temperature-coefficient",
+      "end_line": 613,
+      "heading": "SUBCRITICAL MEASUREMENT OF THE REACTOR TEMPERATURE COEFFICIENT",
+      "level": 1,
+      "start_line": 603
+    },
+    {
+      "anchor": "table-4-2-subcritical-measurement-of-the-reactor-temperature-coefficient",
+      "end_line": 623,
+      "heading": "Table 4.2. Subcritical Measurement Of The Reactor Temperature Coefficient",
+      "level": 2,
+      "start_line": 614
+    },
+    {
+      "anchor": "approach-to-criticality",
+      "end_line": 676,
+      "heading": "APPROACH TO CRITICALITY",
+      "level": 1,
+      "start_line": 624
+    },
+    {
+      "anchor": "table-4-4-uranium-inventory-during-critical-experiment",
+      "end_line": 699,
+      "heading": "Table 4.4. Uranium Inventory During Critical Experiment",
+      "level": 2,
+      "start_line": 677
+    },
+    {
+      "anchor": "analyses-of-fuel-samples",
+      "end_line": 703,
+      "heading": "ANALYSES OF FUEL SAMPLES",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "table-4-5-chemical-analyses-of-fuel-samples",
+      "end_line": 713,
+      "heading": "Table 4.5. Chemical Analyses Of Fuel Samples",
+      "level": 2,
+      "start_line": 704
+    },
+    {
+      "anchor": "calibration-of-the-shim-rods",
+      "end_line": 724,
+      "heading": "CALIBRATION OF THE SHIM RODS",
+      "level": 1,
+      "start_line": 714
+    },
+    {
+      "anchor": "measurement-of-the-reactivity-mass-ratio",
+      "end_line": 775,
+      "heading": "MEASUREMENT OF THE REACTIVITY-MASS RATIO",
+      "level": 1,
+      "start_line": 725
+    },
+    {
+      "anchor": "power-determination-from-fuel-activation",
+      "end_line": 785,
+      "heading": "POWER DETERMINATION FROM FUEL ACTIVATION",
+      "level": 1,
+      "start_line": 776
+    },
+    {
+      "anchor": "radiation-surveys",
+      "end_line": 791,
+      "heading": "RADIATION SURVEYS",
+      "level": 1,
+      "start_line": 786
+    },
+    {
+      "anchor": "ornl-lr-dwg-6400",
+      "end_line": 794,
+      "heading": "Ornl-Lr-Dwg 6400",
+      "level": 2,
+      "start_line": 792
+    },
+    {
+      "anchor": "chronology-of-the-low-power-experiments",
+      "end_line": 796,
+      "heading": "Chronology Of The Low-Power Experiments",
+      "level": 2,
+      "start_line": 795
+    },
+    {
+      "anchor": "november-8-1954",
+      "end_line": 800,
+      "heading": "November 8,1954",
+      "level": 2,
+      "start_line": 797
+    },
+    {
+      "anchor": "start-helium-blowers",
+      "end_line": 802,
+      "heading": "Start Helium Blowers",
+      "level": 2,
+      "start_line": 801
+    },
+    {
+      "anchor": "raise-thermal-barrier-doors",
+      "end_line": 806,
+      "heading": "Raise Thermal Barrier Doors",
+      "level": 2,
+      "start_line": 803
+    },
+    {
+      "anchor": "readjust-shim-rods",
+      "end_line": 808,
+      "heading": "Readjust Shim Rods",
+      "level": 2,
+      "start_line": 807
+    },
+    {
+      "anchor": "observe-heat-up-and-change-of-regulating-rod-position",
+      "end_line": 812,
+      "heading": "Observe Heat Up And Change Of Regulating Rod Position",
+      "level": 2,
+      "start_line": 809
+    },
+    {
+      "anchor": "accidental-scram",
+      "end_line": 816,
+      "heading": "Accidental Scram",
+      "level": 2,
+      "start_line": 813
+    },
+    {
+      "anchor": "period-scram-to-check-safety-chambers-end-of-exp-l-9",
+      "end_line": 818,
+      "heading": "Period Scram To Check Safety Chambers; End Of Exp. L-9",
+      "level": 2,
+      "start_line": 817
+    },
+    {
+      "anchor": "end-of-low-power-experiments",
+      "end_line": 822,
+      "heading": "End Of Low-Power Experiments",
+      "level": 2,
+      "start_line": 819
+    },
+    {
+      "anchor": "reactor-scrammed-active-gases-in-basement",
+      "end_line": 828,
+      "heading": "Reactor Scrammed; Active Gases In Basement",
+      "level": 2,
+      "start_line": 823
+    },
+    {
+      "anchor": "regulating-rod-calibration-from-fuel-additions",
+      "end_line": 862,
+      "heading": "REGULATING ROD CALIBRATION FROM FUEL ADDITIONS",
+      "level": 1,
+      "start_line": 829
+    },
+    {
+      "anchor": "table-5-2-gamma-ray-dose-in-tank-and-heat-exchanger-pits",
+      "end_line": 866,
+      "heading": "Table 5.2. Gamma-Ray Dose In Tank And Heat Exchanger Pits",
+      "level": 2,
+      "start_line": 863
+    },
+    {
+      "anchor": "table-5-3-fuel-concentrate-batches-added-during-low-power-experiments",
+      "end_line": 891,
+      "heading": "Table 5.3. Fuel Concentrate Batches Added During Low-Power Experiments",
+      "level": 2,
+      "start_line": 867
+    },
+    {
+      "anchor": "table-5-4-uranium-inventory-during-low-power-experiments",
+      "end_line": 902,
+      "heading": "Table 5.4. Uranium Inventory During Low-Power Experiments",
+      "level": 2,
+      "start_line": 892
+    },
+    {
+      "anchor": "table-5-5-regulating-rod-reactivity-calibration-from-fuel-addition",
+      "end_line": 911,
+      "heading": "Table 5.5. Regulating Rod Reactivity Calibration From Fuel Addition",
+      "level": 2,
+      "start_line": 903
+    },
+    {
+      "anchor": "regulating-rod-calibration-from-reactor-periods",
+      "end_line": 940,
+      "heading": "REGULATING ROD CALIBRATION FROM REACTOR PERIODS",
+      "level": 1,
+      "start_line": 912
+    },
+    {
+      "anchor": "calibration-of-shim-rods-vs-regulating-rod",
+      "end_line": 957,
+      "heading": "CALIBRATION OF SHIM RODS VS REGULATING ROD",
+      "level": 1,
+      "start_line": 941
+    },
+    {
+      "anchor": "fuel-system-characteristics",
+      "end_line": 981,
+      "heading": "FUEL SYSTEM CHARACTERISTICS",
+      "level": 1,
+      "start_line": 958
+    },
+    {
+      "anchor": "effect-of-fuel-flow-on-reactivity",
+      "end_line": 995,
+      "heading": "EFFECT OF FUEL FLOW ON REACTIVITY",
+      "level": 1,
+      "start_line": 982
+    },
+    {
+      "anchor": "table-5-7-effect-of-fuel-flow-rate-on-reactivity",
+      "end_line": 1007,
+      "heading": "Table 5.7.Effect Of Fuel Flow Rate On Reactivity",
+      "level": 2,
+      "start_line": 996
+    },
+    {
+      "anchor": "low-power-measurement-of-the-temperature-coefficient",
+      "end_line": 1027,
+      "heading": "LOW-Power Measurement of THE TEMPERATURE COEFFICIENT",
+      "level": 1,
+      "start_line": 1008
+    },
+    {
+      "anchor": "adjustment-of-chamber-position",
+      "end_line": 1049,
+      "heading": "ADJUSTMENT OF CHAMBER POSITION",
+      "level": 1,
+      "start_line": 1028
+    },
+    {
+      "anchor": "approach-to-power",
+      "end_line": 1106,
+      "heading": "APPROACH TO POWER",
+      "level": 1,
+      "start_line": 1050
+    },
+    {
+      "anchor": "temperature-coefficient-measurements",
+      "end_line": 1114,
+      "heading": "TEMPERATURE COEFFICIENT MEASUREMENTS",
+      "level": 1,
+      "start_line": 1107
+    },
+    {
+      "anchor": "fuel-and-reactor-temperature-coefficients",
+      "end_line": 1145,
+      "heading": "Fuel and Reactor Temperature Coefficients",
+      "level": 1,
+      "start_line": 1115
+    },
+    {
+      "anchor": "sodium-temperature-coefficient",
+      "end_line": 1163,
+      "heading": "Sodium Temperature Coefficient",
+      "level": 1,
+      "start_line": 1146
+    },
+    {
+      "anchor": "moderator-temperature-coefficient",
+      "end_line": 1173,
+      "heading": "Moderator Temperature Coefficient",
+      "level": 1,
+      "start_line": 1164
+    },
+    {
+      "anchor": "table-6-2-moderator-temperature-coefficient-data",
+      "end_line": 1194,
+      "heading": "Table 6.2. Moderator Temperature Coefficient Data",
+      "level": 2,
+      "start_line": 1174
+    },
+    {
+      "anchor": "measurement-of-the-xenon-poisoning",
+      "end_line": 1220,
+      "heading": "MEASUREMENT OF THE XENON POISONING",
+      "level": 1,
+      "start_line": 1195
+    },
+    {
+      "anchor": "power-determination-from-heat-extraction",
+      "end_line": 1260,
+      "heading": "POWER DETERMINATION FROM HEAT EXTRACTION",
+      "level": 1,
+      "start_line": 1221
+    },
+    {
+      "anchor": "reactor-kinetics",
+      "end_line": 1270,
+      "heading": "REACTOR KINETICS",
+      "level": 1,
+      "start_line": 1261
+    },
+    {
+      "anchor": "reactor-control-by-temperature-coefficient",
+      "end_line": 1309,
+      "heading": "Reactor Control by Temperature Coefficient",
+      "level": 1,
+      "start_line": 1271
+    },
+    {
+      "anchor": "startup-on-demand-for-power-exp-h-6",
+      "end_line": 1322,
+      "heading": "Startup on Demand for Power (Exp. H-6)",
+      "level": 1,
+      "start_line": 1310
+    },
+    {
+      "anchor": "quantity",
+      "end_line": 1334,
+      "heading": "Quantity",
+      "level": 1,
+      "start_line": 1323
+    },
+    {
+      "anchor": "subscript",
+      "end_line": 1359,
+      "heading": "Subscript",
+      "level": 1,
+      "start_line": 1335
+    },
+    {
+      "anchor": "effect-of-one-dollar-of-reactivity-exp-h-8",
+      "end_line": 1382,
+      "heading": "Effect of One Dollar of Reactivity (Exp. H-8)",
+      "level": 1,
+      "start_line": 1360
+    },
+    {
+      "anchor": "power-cycling-of-reactor",
+      "end_line": 1430,
+      "heading": "Power Cycling of Reactor",
+      "level": 1,
+      "start_line": 1383
+    },
+    {
+      "anchor": "ornl-lr-dwg6559",
+      "end_line": 1436,
+      "heading": "Ornl-Lr-Dwg6559",
+      "level": 2,
+      "start_line": 1431
+    },
+    {
+      "anchor": "fuel-heat-exchanger-outlet-temperature",
+      "end_line": 1439,
+      "heading": "Fuel Heat Exchanger Outlet Temperature",
+      "level": 2,
+      "start_line": 1437
+    },
+    {
+      "anchor": "individual-fuel-tubes-inlet-and-outlet-temperature",
+      "end_line": 1454,
+      "heading": "Individual Fuel Tubes Inlet And Outlet Temperature",
+      "level": 2,
+      "start_line": 1440
+    },
+    {
+      "anchor": "reactor-transients",
+      "end_line": 1520,
+      "heading": "Reactor Transients",
+      "level": 1,
+      "start_line": 1455
+    },
+    {
+      "anchor": "calculated-power-change-resulting-from-a-regulating-rod-movement",
+      "end_line": 1602,
+      "heading": "Calculated Power Change Resulting from a Regulating Rod Movement",
+      "level": 1,
+      "start_line": 1521
+    },
+    {
+      "anchor": "reactor-temperature-differential-as-a-function-of-helium-blower-speed",
+      "end_line": 1606,
+      "heading": "Reactor Temperature Differential as a Function of Helium Blower Speed",
+      "level": 1,
+      "start_line": 1603
+    },
+    {
+      "anchor": "table-6-7-some-calculated-and-observed-power-changes-from-regulating-rod-motion",
+      "end_line": 1644,
+      "heading": "Table 6.7. Some Calculated And Observed Power Changes From Regulating Rod Motion",
+      "level": 2,
+      "start_line": 1607
+    },
+    {
+      "anchor": "the-phenomenon-of-the-time-lag",
+      "end_line": 1663,
+      "heading": "The Phenomenon of the Time Lag",
+      "level": 1,
+      "start_line": 1645
+    },
+    {
+      "anchor": "reactivity-effects-of-transients-in-the-sodium-system",
+      "end_line": 1677,
+      "heading": "Reactivity Effects of Transients in the Sodium System",
+      "level": 1,
+      "start_line": 1664
+    },
+    {
+      "anchor": "reactivity-following-a-scram",
+      "end_line": 1697,
+      "heading": "Reactivity Following a Scram",
+      "level": 1,
+      "start_line": 1678
+    },
+    {
+      "anchor": "final-operation-and-shutdown",
+      "end_line": 1714,
+      "heading": "FINAL OPERATION AND SHUTDOWN",
+      "level": 1,
+      "start_line": 1698
+    },
+    {
+      "anchor": "7-recommendations",
+      "end_line": 1763,
+      "heading": "7. RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 1715
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1765,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 1764
+    },
+    {
+      "anchor": "summary-of-design-and-operational-data",
+      "end_line": 1769,
+      "heading": "SUMMARY OF DESIGN AND OPERATIONAL DATA",
+      "level": 1,
+      "start_line": 1766
+    },
+    {
+      "anchor": "description",
+      "end_line": 1771,
+      "heading": "DESCRIPTION",
+      "level": 1,
+      "start_line": 1770
+    },
+    {
+      "anchor": "1-the-reactor-experiment",
+      "end_line": 1852,
+      "heading": "1. The Reactor Experiment",
+      "level": 1,
+      "start_line": 1772
+    },
+    {
+      "anchor": "c-miscellaneous-fuel-system",
+      "end_line": 1856,
+      "heading": "c. Miscellaneous Fuel System",
+      "level": 1,
+      "start_line": 1853
+    },
+    {
+      "anchor": "d-sodium-system",
+      "end_line": 1870,
+      "heading": "d. Sodium System",
+      "level": 1,
+      "start_line": 1857
+    },
+    {
+      "anchor": "materials",
+      "end_line": 1872,
+      "heading": "MATERIALS",
+      "level": 1,
+      "start_line": 1871
+    },
+    {
+      "anchor": "1-amounts-of-critical-materials",
+      "end_line": 1886,
+      "heading": "1. Amounts of Critical Materials",
+      "level": 1,
+      "start_line": 1873
+    },
+    {
+      "anchor": "2-composition-of-reactor-constituents",
+      "end_line": 1922,
+      "heading": "2. Composition of Reactor Constituents",
+      "level": 1,
+      "start_line": 1887
+    },
+    {
+      "anchor": "3-physical-properties-of-reactor-materials",
+      "end_line": 1934,
+      "heading": "3. Physical Properties of Reactor Materials",
+      "level": 1,
+      "start_line": 1923
+    },
+    {
+      "anchor": "reactor-physics",
+      "end_line": 1936,
+      "heading": "REACTOR PHYSICS",
+      "level": 1,
+      "start_line": 1935
+    },
+    {
+      "anchor": "1-general",
+      "end_line": 1946,
+      "heading": "1. General",
+      "level": 1,
+      "start_line": 1937
+    },
+    {
+      "anchor": "2-power",
+      "end_line": 1968,
+      "heading": "2. Power",
+      "level": 1,
+      "start_line": 1947
+    },
+    {
+      "anchor": "3-neutron-flux-in-core-mathfrak-n-mathfrak-cm-2-mathrm-sec",
+      "end_line": 1980,
+      "heading": "3. Neutron Flux in Core $(\\mathfrak{n} / \\mathfrak{cm}^2.\\mathrm{sec})$",
+      "level": 1,
+      "start_line": 1969
+    },
+    {
+      "anchor": "4-leakage-flux-per-fission",
+      "end_line": 1998,
+      "heading": "4. Leakage Flux (per fission)",
+      "level": 1,
+      "start_line": 1981
+    },
+    {
+      "anchor": "5-fuel",
+      "end_line": 2010,
+      "heading": "5. Fuel",
+      "level": 1,
+      "start_line": 1999
+    },
+    {
+      "anchor": "6-neutron-flux-in-reflector",
+      "end_line": 2016,
+      "heading": "6. Neutron Flux in Reflector",
+      "level": 1,
+      "start_line": 2011
+    },
+    {
+      "anchor": "7-reactivity-coefficients",
+      "end_line": 2021,
+      "heading": "7. Reactivity Coefficients",
+      "level": 1,
+      "start_line": 2017
+    },
+    {
+      "anchor": "shielding",
+      "end_line": 2023,
+      "heading": "SHIELDING",
+      "level": 1,
+      "start_line": 2022
+    },
+    {
+      "anchor": "1-material",
+      "end_line": 2030,
+      "heading": "1. Material",
+      "level": 1,
+      "start_line": 2024
+    },
+    {
+      "anchor": "2-composition",
+      "end_line": 2034,
+      "heading": "2. Composition",
+      "level": 1,
+      "start_line": 2031
+    },
+    {
+      "anchor": "3-relaxation-lengths-cm",
+      "end_line": 2038,
+      "heading": "3. Relaxation Lengths (cm)",
+      "level": 1,
+      "start_line": 2035
+    },
+    {
+      "anchor": "4-source-intensities",
+      "end_line": 2042,
+      "heading": "4. Source Intensities",
+      "level": 1,
+      "start_line": 2039
+    },
+    {
+      "anchor": "5-activity-in-external-fuel-circuit-per-watt",
+      "end_line": 2046,
+      "heading": "5. Activity in External Fuel Circuit per Watt",
+      "level": 1,
+      "start_line": 2043
+    },
+    {
+      "anchor": "reactor-control",
+      "end_line": 2048,
+      "heading": "REACTOR CONTROL",
+      "level": 1,
+      "start_line": 2047
+    },
+    {
+      "anchor": "1-control-elements",
+      "end_line": 2052,
+      "heading": "1. Control Elements",
+      "level": 1,
+      "start_line": 2049
+    },
+    {
+      "anchor": "2-source",
+      "end_line": 2056,
+      "heading": "2. Source",
+      "level": 1,
+      "start_line": 2053
+    },
+    {
+      "anchor": "3-regulating-rod",
+      "end_line": 2080,
+      "heading": "3. Regulating Rod",
+      "level": 1,
+      "start_line": 2057
+    },
+    {
+      "anchor": "4-shim-rods-3",
+      "end_line": 2100,
+      "heading": "4. Shim Rods (3)",
+      "level": 1,
+      "start_line": 2081
+    },
+    {
+      "anchor": "5-nuclear-instrumentation",
+      "end_line": 2149,
+      "heading": "5. Nuclear Instrumentation",
+      "level": 1,
+      "start_line": 2101
+    },
+    {
+      "anchor": "system-operating-conditions",
+      "end_line": 2151,
+      "heading": "SYSTEM OPERATING CONDITIONS",
+      "level": 1,
+      "start_line": 2150
+    },
+    {
+      "anchor": "1-reactor",
+      "end_line": 2157,
+      "heading": "1. Reactor",
+      "level": 1,
+      "start_line": 2152
+    },
+    {
+      "anchor": "2-fuel-system",
+      "end_line": 2178,
+      "heading": "2. Fuel System",
+      "level": 1,
+      "start_line": 2158
+    },
+    {
+      "anchor": "3-sodium-system",
+      "end_line": 2192,
+      "heading": "3. Sodium System",
+      "level": 1,
+      "start_line": 2179
+    },
+    {
+      "anchor": "4-rod-cooling-system",
+      "end_line": 2208,
+      "heading": "4. Rod Cooling System",
+      "level": 1,
+      "start_line": 2193
+    },
+    {
+      "anchor": "5-water-system",
+      "end_line": 2212,
+      "heading": "5. Water System",
+      "level": 1,
+      "start_line": 2209
+    },
+    {
+      "anchor": "1-welding-specifications",
+      "end_line": 2220,
+      "heading": "1. Welding Specifications",
+      "level": 1,
+      "start_line": 2213
+    },
+    {
+      "anchor": "2-stress-analysis",
+      "end_line": 2242,
+      "heading": "2. Stress Analysis",
+      "level": 1,
+      "start_line": 2221
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 2244,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 2243
+    },
+    {
+      "anchor": "control-system-description-and-operation",
+      "end_line": 2248,
+      "heading": "CONTROL SYSTEM DESCRIPTION AND OPERATION",
+      "level": 1,
+      "start_line": 2245
+    },
+    {
+      "anchor": "control-system-design",
+      "end_line": 2262,
+      "heading": "CONTROL SYSTEM DESIGN",
+      "level": 1,
+      "start_line": 2249
+    },
+    {
+      "anchor": "instruments-description",
+      "end_line": 2276,
+      "heading": "INSTRUMENTS DESCRIPTION",
+      "level": 1,
+      "start_line": 2263
+    },
+    {
+      "anchor": "controls-description",
+      "end_line": 2309,
+      "heading": "CONTROLS DESCRIPTION",
+      "level": 1,
+      "start_line": 2277
+    },
+    {
+      "anchor": "console-and-control-board-description",
+      "end_line": 2327,
+      "heading": "CONSOLE AND CONTROL BOARD DESCRIPTION",
+      "level": 1,
+      "start_line": 2310
+    },
+    {
+      "anchor": "control-operations",
+      "end_line": 2333,
+      "heading": "CONTROL OPERATIONS",
+      "level": 1,
+      "start_line": 2328
+    },
+    {
+      "anchor": "table-c-1-causes-of-automatic-rod-insertion-and-annunciation",
+      "end_line": 2337,
+      "heading": "Table C.1. Causes Of Automatic Rod Insertion And Annunciation",
+      "level": 2,
+      "start_line": 2334
+    },
+    {
+      "anchor": "photo-15056",
+      "end_line": 2440,
+      "heading": "Photo 15056",
+      "level": 2,
+      "start_line": 2338
+    },
+    {
+      "anchor": "reactor-operation",
+      "end_line": 2465,
+      "heading": "REACTOR OPERATION",
+      "level": 1,
+      "start_line": 2441
+    },
+    {
+      "anchor": "typical-engraving-arrangement-of-sb-switches",
+      "end_line": 2469,
+      "heading": "Typical Engraving Arrangement Of Sb Switches",
+      "level": 2,
+      "start_line": 2466
+    },
+    {
+      "anchor": "for-by-pass-switch-s5",
+      "end_line": 2475,
+      "heading": "For By Pass Switch S5",
+      "level": 2,
+      "start_line": 2470
+    },
+    {
+      "anchor": "for-switch-s8-group-shim-rod-operation",
+      "end_line": 2481,
+      "heading": "For Switch S8 - Group Shim Rod Operation",
+      "level": 2,
+      "start_line": 2476
+    },
+    {
+      "anchor": "for-switch-s13-fuel-coolant-prime-mover",
+      "end_line": 2487,
+      "heading": "For Switch S13-Fuel Coolant Prime Mover",
+      "level": 2,
+      "start_line": 2482
+    },
+    {
+      "anchor": "for-switch-s16-source-drive",
+      "end_line": 2491,
+      "heading": "For Switch S16 - Source Drive",
+      "level": 2,
+      "start_line": 2488
+    },
+    {
+      "anchor": "for-switches-s17-and-s18-rod-coolant-pumps",
+      "end_line": 2495,
+      "heading": "For Switches S17 And S18-Rod Coolant Pumps",
+      "level": 2,
+      "start_line": 2492
+    },
+    {
+      "anchor": "for-switch-s20-heat-exchanger-barrier-control",
+      "end_line": 2499,
+      "heading": "For Switch S20-Heat Exchanger Barrier Control",
+      "level": 2,
+      "start_line": 2496
+    },
+    {
+      "anchor": "notes",
+      "end_line": 2501,
+      "heading": "Notes:",
+      "level": 2,
+      "start_line": 2500
+    },
+    {
+      "anchor": "all-contacts-on-sb-switches-numbered-from-handle-end",
+      "end_line": 2503,
+      "heading": "All Contacts On Sb Switches Numbered From Handle End.",
+      "level": 2,
+      "start_line": 2502
+    },
+    {
+      "anchor": "all-relays-shown-with-coils-de-energizeo",
+      "end_line": 2507,
+      "heading": "All Relays Shown With Coils De-Energizeo.",
+      "level": 2,
+      "start_line": 2504
+    },
+    {
+      "anchor": "table-c-2-list-of-relay-switches",
+      "end_line": 2511,
+      "heading": "Table C.2. List Of Relay Switches",
+      "level": 2,
+      "start_line": 2508
+    },
+    {
+      "anchor": "table-c-3-list-of-limit-switches",
+      "end_line": 2527,
+      "heading": "Table C.3. List Of Limit Switches",
+      "level": 2,
+      "start_line": 2512
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 2529,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 2528
+    },
+    {
+      "anchor": "nuclear-operating-procedures",
+      "end_line": 2541,
+      "heading": "NUCLEAR OPERATING PROCEDURES",
+      "level": 1,
+      "start_line": 2530
+    },
+    {
+      "anchor": "addition-of-fuel-concentrate",
+      "end_line": 2559,
+      "heading": "ADDITION OF FUEL CONCENTRATE",
+      "level": 1,
+      "start_line": 2542
+    },
+    {
+      "anchor": "subcritical-experiments",
+      "end_line": 2585,
+      "heading": "SUBCRITICAL EXPERIMENTS",
+      "level": 1,
+      "start_line": 2560
+    },
+    {
+      "anchor": "initial-criticality",
+      "end_line": 2591,
+      "heading": "INITIAL CRITICALITY",
+      "level": 1,
+      "start_line": 2586
+    },
+    {
+      "anchor": "rod-calibration-vs-fuel-addition",
+      "end_line": 2603,
+      "heading": "ROD CALIBRATION vs FUEL ADDITION",
+      "level": 1,
+      "start_line": 2592
+    },
+    {
+      "anchor": "low-power-experiments",
+      "end_line": 2646,
+      "heading": "LOW-POWER EXPERIMENTS",
+      "level": 1,
+      "start_line": 2604
+    },
+    {
+      "anchor": "approach-to-power",
+      "end_line": 2689,
+      "heading": "APPROACH TO POWER",
+      "level": 1,
+      "start_line": 2647
+    },
+    {
+      "anchor": "experiments-at-power",
+      "end_line": 2722,
+      "heading": "EXPERIMENTS AT POWER",
+      "level": 1,
+      "start_line": 2690
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 2724,
+      "heading": "Appendix E",
+      "level": 1,
+      "start_line": 2723
+    },
+    {
+      "anchor": "mathematical-analysis-of-approach-to-criticality",
+      "end_line": 2754,
+      "heading": "MATHEMATICAL ANALYSIS OF APPROACH TO CRITICALITY",
+      "level": 1,
+      "start_line": 2725
+    },
+    {
+      "anchor": "appendix-f",
+      "end_line": 2756,
+      "heading": "Appendix F",
+      "level": 1,
+      "start_line": 2755
+    },
+    {
+      "anchor": "cold-clean-critical-mass",
+      "end_line": 2769,
+      "heading": "COLD, CLEAN CRITICAL MASS",
+      "level": 1,
+      "start_line": 2757
+    },
+    {
+      "anchor": "table-f-1-critical-uranium-concentrations-for-various-rod-insertions",
+      "end_line": 2773,
+      "heading": "Table F.1. Critical Uranium Concentrations For Various Rod Insertions",
+      "level": 2,
+      "start_line": 2770
+    },
+    {
+      "anchor": "appendix-g-flux-and-power-distributions",
+      "end_line": 2783,
+      "heading": "Appendix G FLUX AND POWER DISTRIBUTIONS",
+      "level": 1,
+      "start_line": 2774
+    },
+    {
+      "anchor": "neutron-flux-distributions",
+      "end_line": 2796,
+      "heading": "NEUTRON FLUX DISTRIBUTIONS",
+      "level": 1,
+      "start_line": 2784
+    },
+    {
+      "anchor": "fission-neutron-flux-distribution",
+      "end_line": 2805,
+      "heading": "FISSION-NEUTRON FLUX DISTRIBUTION",
+      "level": 1,
+      "start_line": 2797
+    },
+    {
+      "anchor": "power-distribution",
+      "end_line": 2817,
+      "heading": "POWER DISTRIBUTION",
+      "level": 1,
+      "start_line": 2806
+    },
+    {
+      "anchor": "dwg-21534a",
+      "end_line": 2825,
+      "heading": "Dwg 21534A",
+      "level": 2,
+      "start_line": 2818
+    },
+    {
+      "anchor": "appendix-h",
+      "end_line": 2827,
+      "heading": "Appendix H",
+      "level": 1,
+      "start_line": 2826
+    },
+    {
+      "anchor": "power-determination-from-fuel-activation",
+      "end_line": 2837,
+      "heading": "POWER DETERMINATION FROM FUEL ACTIVATION",
+      "level": 1,
+      "start_line": 2828
+    },
+    {
+      "anchor": "theory",
+      "end_line": 2893,
+      "heading": "THEORY",
+      "level": 1,
+      "start_line": 2838
+    },
+    {
+      "anchor": "experimental-procedure",
+      "end_line": 2919,
+      "heading": "EXPERIMENTAL PROCEDURE",
+      "level": 1,
+      "start_line": 2894
+    },
+    {
+      "anchor": "appendix-i",
+      "end_line": 2921,
+      "heading": "Appendix I",
+      "level": 1,
+      "start_line": 2920
+    },
+    {
+      "anchor": "inhour-formula-for-a-circulating-fuel-reactor-with-slug-flow",
+      "end_line": 3055,
+      "heading": "INHOUR FORMULA FOR A CIRCULATING-FUEL REACTOR WITH SLUG FLOW",
+      "level": 1,
+      "start_line": 2922
+    },
+    {
+      "anchor": "appendix-j",
+      "end_line": 3057,
+      "heading": "Appendix J",
+      "level": 1,
+      "start_line": 3056
+    },
+    {
+      "anchor": "calibration-of-the-shim-rods",
+      "end_line": 3061,
+      "heading": "CALIBRATION OF THE SHIM RODS",
+      "level": 1,
+      "start_line": 3058
+    },
+    {
+      "anchor": "calibration-from-critical-experiment-data",
+      "end_line": 3110,
+      "heading": "CALIBRATION FROM CRITICAL EXPERIMENT DATA",
+      "level": 1,
+      "start_line": 3062
+    },
+    {
+      "anchor": "table-j-2-formula-and-integrand-fitted-to-shim-rod-sensitivity-curve",
+      "end_line": 3137,
+      "heading": "Table J.2. Formula (And Integrand) Fitted To Shim Rod Sensitivity Curve",
+      "level": 2,
+      "start_line": 3111
+    },
+    {
+      "anchor": "calibration-against-the-regulating-rod",
+      "end_line": 3145,
+      "heading": "CALIBRATION AGAINST THE REGULATING ROD",
+      "level": 1,
+      "start_line": 3138
+    },
+    {
+      "anchor": "table-j-3-calculation-of-shim-rod-reactivity-from-fuel-addition",
+      "end_line": 3171,
+      "heading": "Table J.3. Calculation Of Shim Rod Reactivity From Fuel Addition",
+      "level": 2,
+      "start_line": 3146
+    },
+    {
+      "anchor": "table-j-4-calibration-of-shim-rod-no-3-against-regulating-rod",
+      "end_line": 3179,
+      "heading": "Table J.4. Calibration Of Shim Rod No. 3 Against Regulating Rod",
+      "level": 2,
+      "start_line": 3172
+    },
+    {
+      "anchor": "calibration-by-using-the-fission-chambers",
+      "end_line": 3211,
+      "heading": "CALIBRATION BY USING THE FISSION CHAMBERS",
+      "level": 1,
+      "start_line": 3180
+    },
+    {
+      "anchor": "correlation-of-reactor-and-line-temperatures",
+      "end_line": 3272,
+      "heading": "CORRELATION OF REACTOR AND LINE TEMPERATURES",
+      "level": 1,
+      "start_line": 3212
+    },
+    {
+      "anchor": "appendix-l",
+      "end_line": 3274,
+      "heading": "Appendix L",
+      "level": 1,
+      "start_line": 3273
+    },
+    {
+      "anchor": "power-determination-from-heat-extraction",
+      "end_line": 3302,
+      "heading": "POWER DETERMINATION FROM HEAT EXTRACTION",
+      "level": 1,
+      "start_line": 3275
+    },
+    {
+      "anchor": "table-l-2-primary-power-extraction",
+      "end_line": 3306,
+      "heading": "Table L.2. Primary Power Extraction",
+      "level": 2,
+      "start_line": 3303
+    },
+    {
+      "anchor": "table-l-3-secondary-power-extraction",
+      "end_line": 3310,
+      "heading": "Table L.3. Secondary Power Extraction",
+      "level": 2,
+      "start_line": 3307
+    },
+    {
+      "anchor": "table-l-4-reactor-power-summary",
+      "end_line": 3328,
+      "heading": "Table L.4. Reactor Power Summary",
+      "level": 2,
+      "start_line": 3311
+    },
+    {
+      "anchor": "appendix-m",
+      "end_line": 3330,
+      "heading": "Appendix M",
+      "level": 1,
+      "start_line": 3329
+    },
+    {
+      "anchor": "thermodynamic-analyses",
+      "end_line": 3334,
+      "heading": "THERMODYNAMIC ANALYSES",
+      "level": 1,
+      "start_line": 3331
+    },
+    {
+      "anchor": "insulation-losses-heater-power-input-and-space-cooler-performance",
+      "end_line": 3342,
+      "heading": "INSULATION LOSSES, HEATER POWER INPUT, AND SPACE COOLER PERFORMANCE",
+      "level": 1,
+      "start_line": 3335
+    },
+    {
+      "anchor": "experimental-values-of-heat-transfer-coefficients",
+      "end_line": 3366,
+      "heading": "EXPERIMENTAL VALUES OF HEAT TRANSFER COEFFICIENTS",
+      "level": 1,
+      "start_line": 3343
+    },
+    {
+      "anchor": "table-m-1-experimental-heat-transfer-data-in-fuel-and-sodium-loops",
+      "end_line": 3386,
+      "heading": "Table M.1. Experimental Heat Transfer Data In Fuel And Sodium Loops",
+      "level": 2,
+      "start_line": 3367
+    },
+    {
+      "anchor": "appendix-n",
+      "end_line": 3388,
+      "heading": "Appendix N",
+      "level": 1,
+      "start_line": 3387
+    },
+    {
+      "anchor": "comparison-of-reactor-power-determinations",
+      "end_line": 3421,
+      "heading": "COMPARISON OF REACTOR POWER DETERMINATIONS",
+      "level": 1,
+      "start_line": 3389
+    },
+    {
+      "anchor": "appendix-o",
+      "end_line": 3423,
+      "heading": "Appendix O",
+      "level": 1,
+      "start_line": 3422
+    },
+    {
+      "anchor": "analysis-of-temperature-coefficient-measurements",
+      "end_line": 3425,
+      "heading": "ANALYSIS OF TEMPERATURE COEFFICIENT MEASUREMENTS",
+      "level": 1,
+      "start_line": 3424
+    },
+    {
+      "anchor": "importance-of-the-fuel-temperature-coefficient",
+      "end_line": 3449,
+      "heading": "IMPORTANCE OF THE FUEL TEMPERATURE COEFFICIENT",
+      "level": 1,
+      "start_line": 3426
+    },
+    {
+      "anchor": "effect-of-geometry-in-the-are",
+      "end_line": 3464,
+      "heading": "EFFECT OF GEOMETRY IN THE ARE",
+      "level": 1,
+      "start_line": 3450
+    },
+    {
+      "anchor": "time-lag-considerations",
+      "end_line": 3472,
+      "heading": "TIME LAG CONSIDERATIONS",
+      "level": 1,
+      "start_line": 3465
+    },
+    {
+      "anchor": "subcritical-measurement-of-temperature-coefficient",
+      "end_line": 3507,
+      "heading": "SUBCRITICAL MEASUREMENT OF TEMPERATURE COEFFICIENT",
+      "level": 1,
+      "start_line": 3473
+    },
+    {
+      "anchor": "low-power-measurements-of-temperature-coefficients-of-reactivity",
+      "end_line": 3518,
+      "heading": "LOW-Power Measurements of TEMPERATURE COEFFICIENTS OF REACTIVITY",
+      "level": 1,
+      "start_line": 3508
+    },
+    {
+      "anchor": "high-power-measurements-of-temperature-coefficients-of-reactivity",
+      "end_line": 3527,
+      "heading": "HIGH-POWER MEASUREMENTS OF TEMPERATURE COEFFICIENTS OF REACTIVITY",
+      "level": 1,
+      "start_line": 3519
+    },
+    {
+      "anchor": "appendix-p",
+      "end_line": 3529,
+      "heading": "Appendix P",
+      "level": 1,
+      "start_line": 3528
+    },
+    {
+      "anchor": "theoretical-xenon-poisoning",
+      "end_line": 3623,
+      "heading": "THEORETICAL XENON POISONING",
+      "level": 1,
+      "start_line": 3530
+    },
+    {
+      "anchor": "appendix-q",
+      "end_line": 3625,
+      "heading": "Appendix Q",
+      "level": 1,
+      "start_line": 3624
+    },
+    {
+      "anchor": "operational-difficulties",
+      "end_line": 3629,
+      "heading": "OPERATIONAL DIFFICULTIES",
+      "level": 1,
+      "start_line": 3626
+    },
+    {
+      "anchor": "enrichment-system",
+      "end_line": 3646,
+      "heading": "ENRICHMENT SYSTEM",
+      "level": 1,
+      "start_line": 3630
+    },
+    {
+      "anchor": "process-instrumentation",
+      "end_line": 3668,
+      "heading": "PROCESS INSTRUMENTATION",
+      "level": 1,
+      "start_line": 3647
+    },
+    {
+      "anchor": "nuclear-instrumentation-and-controls",
+      "end_line": 3672,
+      "heading": "NUCLEAR INSTRUMENTATION AND CONTROLS",
+      "level": 1,
+      "start_line": 3669
+    },
+    {
+      "anchor": "annunciators",
+      "end_line": 3676,
+      "heading": "ANNUNCIATORS",
+      "level": 1,
+      "start_line": 3673
+    },
+    {
+      "anchor": "heaters-and-heater-controls",
+      "end_line": 3682,
+      "heading": "HEATERS AND HEATER CONTROLS",
+      "level": 1,
+      "start_line": 3677
+    },
+    {
+      "anchor": "system-components",
+      "end_line": 3700,
+      "heading": "SYSTEM COMPONENTS",
+      "level": 1,
+      "start_line": 3683
+    },
+    {
+      "anchor": "leaks",
+      "end_line": 3712,
+      "heading": "LEAKS",
+      "level": 1,
+      "start_line": 3701
+    },
+    {
+      "anchor": "appendix-r",
+      "end_line": 3714,
+      "heading": "Appendix R",
+      "level": 1,
+      "start_line": 3713
+    },
+    {
+      "anchor": "integrated-power",
+      "end_line": 3720,
+      "heading": "INTEGRATED POWER",
+      "level": 1,
+      "start_line": 3715
+    },
+    {
+      "anchor": "extracted-power",
+      "end_line": 3797,
+      "heading": "EXTRACTED POWER",
+      "level": 1,
+      "start_line": 3721
+    },
+    {
+      "anchor": "nuclear-power",
+      "end_line": 3875,
+      "heading": "NUCLEAR POWER",
+      "level": 1,
+      "start_line": 3798
+    },
+    {
+      "anchor": "appendix-s",
+      "end_line": 3877,
+      "heading": "Appendix S",
+      "level": 1,
+      "start_line": 3876
+    },
+    {
+      "anchor": "interpretation-of-observed-reactor-periods-during-transients",
+      "end_line": 3949,
+      "heading": "INTERPRETATION OF OBSERVED REACTOR PERIODS DURING TRANSIENTS",
+      "level": 1,
+      "start_line": 3878
+    },
+    {
+      "anchor": "appendix-t",
+      "end_line": 3951,
+      "heading": "Appendix T",
+      "level": 1,
+      "start_line": 3950
+    },
+    {
+      "anchor": "nuclear-log",
+      "end_line": 4023,
+      "heading": "NUCLEAR LOG",
+      "level": 1,
+      "start_line": 3952
+    },
+    {
+      "anchor": "run-time",
+      "end_line": 4137,
+      "heading": "Run Time",
+      "level": 1,
+      "start_line": 4024
+    },
+    {
+      "anchor": "experiment-e-2",
+      "end_line": 4224,
+      "heading": "EXPERIMENT E-2",
+      "level": 1,
+      "start_line": 4138
+    },
+    {
+      "anchor": "experiment-l-1",
+      "end_line": 4246,
+      "heading": "EXPERIMENT L-1",
+      "level": 1,
+      "start_line": 4225
+    },
+    {
+      "anchor": "experiment-l-2",
+      "end_line": 4276,
+      "heading": "EXPERIMENT L-2",
+      "level": 1,
+      "start_line": 4247
+    },
+    {
+      "anchor": "experiment-l-3",
+      "end_line": 4344,
+      "heading": "EXPERIMENT L-3",
+      "level": 1,
+      "start_line": 4277
+    },
+    {
+      "anchor": "experiment-l-2-a",
+      "end_line": 4405,
+      "heading": "EXPERIMENT L-2-A",
+      "level": 1,
+      "start_line": 4345
+    },
+    {
+      "anchor": "experiment-l-2-continued",
+      "end_line": 4471,
+      "heading": "EXPERIMENT L-2 (continued)",
+      "level": 1,
+      "start_line": 4406
+    },
+    {
+      "anchor": "experiment-l-4",
+      "end_line": 4491,
+      "heading": "EXPERIMENT L-4",
+      "level": 1,
+      "start_line": 4472
+    },
+    {
+      "anchor": "experiment-l-5",
+      "end_line": 4539,
+      "heading": "EXPERIMENT L-5",
+      "level": 1,
+      "start_line": 4492
+    },
+    {
+      "anchor": "experiment-l-6",
+      "end_line": 4549,
+      "heading": "Experiment L-6",
+      "level": 2,
+      "start_line": 4540
+    },
+    {
+      "anchor": "experiment-l-5-continued",
+      "end_line": 4569,
+      "heading": "EXPERIMENT L-5 (continued)",
+      "level": 1,
+      "start_line": 4550
+    },
+    {
+      "anchor": "experiment-l-7",
+      "end_line": 4641,
+      "heading": "EXPERIMENT L-7",
+      "level": 1,
+      "start_line": 4570
+    },
+    {
+      "anchor": "experiment-l-8",
+      "end_line": 4693,
+      "heading": "EXPERIMENT L-8",
+      "level": 1,
+      "start_line": 4642
+    },
+    {
+      "anchor": "experiment-l-9",
+      "end_line": 4729,
+      "heading": "EXPERIMENT L-9",
+      "level": 1,
+      "start_line": 4694
+    },
+    {
+      "anchor": "experiment-h-1",
+      "end_line": 4747,
+      "heading": "EXPERIMENT H-1",
+      "level": 1,
+      "start_line": 4730
+    },
+    {
+      "anchor": "experiment-h-2",
+      "end_line": 4770,
+      "heading": "EXPERIMENT H-2",
+      "level": 1,
+      "start_line": 4748
+    },
+    {
+      "anchor": "experiment-h-3",
+      "end_line": 4808,
+      "heading": "EXPERIMENT H-3",
+      "level": 1,
+      "start_line": 4771
+    },
+    {
+      "anchor": "experiment-h-4",
+      "end_line": 4830,
+      "heading": "EXPERIMENT H-4",
+      "level": 1,
+      "start_line": 4809
+    },
+    {
+      "anchor": "experiment-h-5",
+      "end_line": 4842,
+      "heading": "EXPERIMENT H-5",
+      "level": 1,
+      "start_line": 4831
+    },
+    {
+      "anchor": "experiment-h-6",
+      "end_line": 4884,
+      "heading": "EXPERIMENT H-6",
+      "level": 1,
+      "start_line": 4843
+    },
+    {
+      "anchor": "practice-operation",
+      "end_line": 4924,
+      "heading": "PRACTICE OPERATION",
+      "level": 1,
+      "start_line": 4885
+    },
+    {
+      "anchor": "experiment-h-7",
+      "end_line": 4934,
+      "heading": "EXPERIMENT H-7",
+      "level": 1,
+      "start_line": 4925
+    },
+    {
+      "anchor": "experiment-h-8",
+      "end_line": 4960,
+      "heading": "EXPERIMENT H-8",
+      "level": 1,
+      "start_line": 4935
+    },
+    {
+      "anchor": "practice-operation-continued",
+      "end_line": 4990,
+      "heading": "PRACTICE OPERATION (continued)",
+      "level": 1,
+      "start_line": 4961
+    },
+    {
+      "anchor": "experiment-h-10",
+      "end_line": 5036,
+      "heading": "EXPERIMENT H-10",
+      "level": 1,
+      "start_line": 4991
+    },
+    {
+      "anchor": "experiment-h-11",
+      "end_line": 5080,
+      "heading": "EXPERIMENT H-11",
+      "level": 1,
+      "start_line": 5037
+    },
+    {
+      "anchor": "experiment-h-12",
+      "end_line": 5082,
+      "heading": "EXPERIMENT H-12",
+      "level": 1,
+      "start_line": 5081
+    },
+    {
+      "anchor": "objective-stop-sodium-system-blower-and-observe-effect-on-power",
+      "end_line": 5108,
+      "heading": "Objective: Stop Sodium System Blower and Observe Effect on Power",
+      "level": 1,
+      "start_line": 5083
+    },
+    {
+      "anchor": "experiment-h-13",
+      "end_line": 5122,
+      "heading": "EXPERIMENT H-13",
+      "level": 1,
+      "start_line": 5109
+    },
+    {
+      "anchor": "experiment-h-14",
+      "end_line": 5124,
+      "heading": "EXPERIMENT H-14",
+      "level": 1,
+      "start_line": 5123
+    },
+    {
+      "anchor": "objective-determine-maximum-reactor-power-and-characteristics-of-power-operation",
+      "end_line": 5202,
+      "heading": "Objective: Determine Maximum Reactor Power and Characteristics of Power Operation",
+      "level": 1,
+      "start_line": 5125
+    },
+    {
+      "anchor": "appendix-u",
+      "end_line": 5204,
+      "heading": "Appendix U",
+      "level": 1,
+      "start_line": 5203
+    },
+    {
+      "anchor": "the-are-building",
+      "end_line": 5222,
+      "heading": "THE ARE BUILDING",
+      "level": 1,
+      "start_line": 5205
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 5259,
+      "heading": "BIBLIOGRAPHY",
+      "level": 1,
+      "start_line": 5223
+    }
+  ],
+  "source_dir": "pdf/ORNL-1845",
+  "tables": [],
+  "title": "OPERATION OF THE AIRCRAFT REACTOR EXPERIMENT",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "graphite-and-moderator-behavior",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

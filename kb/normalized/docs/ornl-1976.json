@@ -1,0 +1,692 @@
+{
+  "authors": [
+    "STEADY-STATE CONTROL CHARACTERISTICS OF",
+    "CHEMICAL-NUCLEAR AIRCRAFT POWER PLANTS",
+    "C. B. Thompson",
+    "LIBRARY LOAN COPY",
+    "OPERATED BY",
+    "UNION CARBIDE NUCLEAR COMPANY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1976.jsonl",
+  "date_text": "1976",
+  "doc_id": "ornl-1976",
+  "document_type": "report",
+  "entities": {
+    "component": [
+      {
+        "count": 24,
+        "line_hits": [
+          432,
+          442,
+          476,
+          496,
+          512,
+          514,
+          518,
+          529,
+          541,
+          543,
+          546,
+          645,
+          997,
+          1007,
+          1025,
+          1037,
+          1069,
+          1071,
+          1119,
+          1161,
+          1177,
+          1183,
+          1243,
+          1318
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          260,
+          298,
+          304,
+          619,
+          641,
+          643,
+          652,
+          667,
+          715,
+          805,
+          812,
+          814,
+          840,
+          858,
+          862,
+          874,
+          985,
+          1063,
+          1067
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          681,
+          747,
+          764,
+          778,
+          782,
+          784,
+          789,
+          791,
+          862,
+          1296,
+          1312,
+          1316,
+          1324,
+          1334
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          29,
+          43,
+          67,
+          87,
+          100,
+          149,
+          310,
+          901
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          33,
+          35,
+          71,
+          73
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          174,
+          238
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          172,
+          204
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          167
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          200
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          224
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          232
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 65,
+        "line_hits": [
+          304,
+          312,
+          328,
+          330,
+          332,
+          334,
+          496,
+          543,
+          558,
+          584,
+          598,
+          600,
+          604,
+          613,
+          652,
+          660,
+          686,
+          722,
+          726,
+          728,
+          730,
+          734,
+          736,
+          749,
+          771,
+          773,
+          782,
+          784,
+          799,
+          807,
+          820,
+          822,
+          830,
+          834,
+          844,
+          846,
+          852,
+          856,
+          866,
+          890,
+          892,
+          911,
+          945,
+          983,
+          987,
+          997,
+          1007,
+          1067,
+          1069,
+          1085
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          310,
+          312,
+          320,
+          324,
+          496,
+          539,
+          541
+        ],
+        "name": "ART"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 4,
+        "line_hits": [
+          13,
+          292,
+          298,
+          820
+        ],
+        "name": "aircraft propulsion reactor"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "28efd00ef9ecd8993307fb5ff9de263f33e11fea9ad6aaaf85f9245d8a9e4c5e",
+  "markdown_path": "pdf/ORNL-1976/ORNL-1976/hybrid_ocr/ORNL-1976.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 60,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 10,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "steady-state-control-characteristics-of",
+      "end_line": 12,
+      "heading": "Steady-State Control Characteristics Of",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "chemical-nuclear-aircraft-power-plants",
+      "end_line": 16,
+      "heading": "Chemical-Nuclear Aircraft Power Plants",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 18,
+      "heading": "Central Research Library Document Collection",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 20,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 28,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 30,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 32,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 38,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "post-office-box-p-oak-ridge-tennessee",
+      "end_line": 42,
+      "heading": "Post Office Box P · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "ornl-1976",
+      "end_line": 52,
+      "heading": "Ornl 1976",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "aircraft-nuclear-propulsion-project",
+      "end_line": 56,
+      "heading": "Aircraft Nuclear Propulsion Project",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "aircraft-power-plants",
+      "end_line": 60,
+      "heading": "Aircraft Power Plants",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 62,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "feb-29-1956",
+      "end_line": 66,
+      "heading": "Feb 29 1956",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 70,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 86,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "ornl-1976",
+      "end_line": 90,
+      "heading": "Ornl 1976",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 152,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 243,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "contents",
+      "end_line": 291,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "steady-state-control-characteristics-of-chemical-nuclear-aircraft-power-plants",
+      "end_line": 295,
+      "heading": "STEADY STATE CONTROL CHARACTERISTICS OF CHEMICAL NUCLEAR AIRCRAFT POWER PLANTS",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "summary",
+      "end_line": 307,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 335,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 489,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "detailed-power-plant-descriptions-component-characteristics",
+      "end_line": 493,
+      "heading": "DETAILED POWER PLANT DESCRIPTIONS - COMPONENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 490
+    },
+    {
+      "anchor": "circulating-fuel-reactor",
+      "end_line": 547,
+      "heading": "CIRCULATING FUEL REACTOR",
+      "level": 1,
+      "start_line": 494
+    },
+    {
+      "anchor": "gex61-turbojet-engine",
+      "end_line": 589,
+      "heading": "GEX61 TURBOJET ENGINE",
+      "level": 1,
+      "start_line": 548
+    },
+    {
+      "anchor": "table-1-radiator-and-engine-match-point-values",
+      "end_line": 601,
+      "heading": "Table 1 Radiator And Engine Match Point Values",
+      "level": 2,
+      "start_line": 590
+    },
+    {
+      "anchor": "allison-j-71-turbojet-engine",
+      "end_line": 614,
+      "heading": "ALLISON J 71 TURBOJET ENGINE",
+      "level": 1,
+      "start_line": 602
+    },
+    {
+      "anchor": "steady-state-power-plant-performance-characteristics-nuclear-power-only-operation",
+      "end_line": 618,
+      "heading": "STEADY STATE POWER PLANT PERFORMANCE CHARACTERISTICS - NUCLEAR POWER ONLY OPERATION",
+      "level": 1,
+      "start_line": 615
+    },
+    {
+      "anchor": "control-rod-throttling",
+      "end_line": 622,
+      "heading": "Control Rod Throttling",
+      "level": 1,
+      "start_line": 619
+    },
+    {
+      "anchor": "reactor-fuel-flow-throttling",
+      "end_line": 626,
+      "heading": "Reactor Fuel Flow Throttling",
+      "level": 1,
+      "start_line": 623
+    },
+    {
+      "anchor": "nok-flow-thottling",
+      "end_line": 630,
+      "heading": "NoK Flow Thottling",
+      "level": 1,
+      "start_line": 627
+    },
+    {
+      "anchor": "nak-bypass-throttling",
+      "end_line": 634,
+      "heading": "NaK Bypass Throttling",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "air-bypass-throttling",
+      "end_line": 640,
+      "heading": "Air Bypass Throttling",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "control-rod-throttling",
+      "end_line": 653,
+      "heading": "CONTROL ROD THROTTLING",
+      "level": 1,
+      "start_line": 641
+    },
+    {
+      "anchor": "reactor-fuel-flow-throttling",
+      "end_line": 661,
+      "heading": "REACTOR FUEL FLOW THROTTLING",
+      "level": 1,
+      "start_line": 654
+    },
+    {
+      "anchor": "nak-flow-throttling",
+      "end_line": 672,
+      "heading": "NaK FLOW THROTTLING",
+      "level": 1,
+      "start_line": 662
+    },
+    {
+      "anchor": "nak-bypass-throttling",
+      "end_line": 687,
+      "heading": "NaK BYPASS THROTTLING",
+      "level": 1,
+      "start_line": 673
+    },
+    {
+      "anchor": "air-bypass-throttling",
+      "end_line": 698,
+      "heading": "AIR BYPASS THROTTLING",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "more-complex-throttling-arrangements",
+      "end_line": 723,
+      "heading": "MORE COMPLEX THROTTLING ARRANGEMENTS",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "reactor-turbojet-combination",
+      "end_line": 796,
+      "heading": "REACTOR-TURBOJET COMBINATION",
+      "level": 1,
+      "start_line": 724
+    },
+    {
+      "anchor": "coupling-between-engines-in-a-multiengine-installation",
+      "end_line": 817,
+      "heading": "COUPLING BETWEEN ENGINES IN A MULTIENGINE INSTALLATION",
+      "level": 1,
+      "start_line": 797
+    },
+    {
+      "anchor": "nuclear-power-source-control-requirements",
+      "end_line": 823,
+      "heading": "NUCLEAR POWER SOURCE CONTROL REQUIREMENTS",
+      "level": 1,
+      "start_line": 818
+    },
+    {
+      "anchor": "manual-operation-at-flight-conditions-where-radiator-capacity-is-excessive",
+      "end_line": 849,
+      "heading": "MANUAL OPERATION AT FLIGHT CONDITIONS WHERE RADIATOR CAPACITY IS EXCESSIVE",
+      "level": 1,
+      "start_line": 824
+    },
+    {
+      "anchor": "manual-operation-at-radiator-design-flight-conditions",
+      "end_line": 853,
+      "heading": "MANUAL OPERATION AT RADIATOR DESIGN FLIGHT CONDITIONS",
+      "level": 1,
+      "start_line": 850
+    },
+    {
+      "anchor": "manual-operation-at-flight-conditions-where-radiator-capacity-is-inadequate",
+      "end_line": 869,
+      "heading": "MANUAL OPERATION AT FLIGHT CONDITIONS WHERE RADIATOR CAPACITY IS INADEQUATE",
+      "level": 1,
+      "start_line": 854
+    },
+    {
+      "anchor": "automatic-control-requirements-during-operation-in-the-power-range",
+      "end_line": 893,
+      "heading": "AUTOMATIC CONTROL REQUIREMENTS DURING OPERATION IN THE POWER RANGE",
+      "level": 1,
+      "start_line": 870
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 902,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 894
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 904,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 903
+    },
+    {
+      "anchor": "radiator-design-procedure",
+      "end_line": 978,
+      "heading": "RADIATOR DESIGN PROCEDURE",
+      "level": 1,
+      "start_line": 905
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 980,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 979
+    },
+    {
+      "anchor": "steady-state-performance-calculations",
+      "end_line": 984,
+      "heading": "STeady State Performance Calculations",
+      "level": 1,
+      "start_line": 981
+    },
+    {
+      "anchor": "example-1-control-rod-throttling",
+      "end_line": 1064,
+      "heading": "Example 1 - Control Rod Throttling",
+      "level": 1,
+      "start_line": 985
+    },
+    {
+      "anchor": "example-2-reactor-fuel-flow-throttling",
+      "end_line": 1098,
+      "heading": "Example 2 - Reactor Fuel Flow Throttling",
+      "level": 1,
+      "start_line": 1065
+    },
+    {
+      "anchor": "example-3-nok-flow-throttling",
+      "end_line": 1158,
+      "heading": "Example 3 - NoK Flow Throttling",
+      "level": 1,
+      "start_line": 1099
+    },
+    {
+      "anchor": "example-4-nak-bypass-throttling",
+      "end_line": 1240,
+      "heading": "Example 4 - NaK Bypass Throttling",
+      "level": 1,
+      "start_line": 1159
+    },
+    {
+      "anchor": "example-5-air-bypass-throttling",
+      "end_line": 1287,
+      "heading": "Example 5 - Air Bypass Throttling",
+      "level": 1,
+      "start_line": 1241
+    },
+    {
+      "anchor": "static-stability-calculations",
+      "end_line": 1336,
+      "heading": "STATIC STABILITY CALCULATIONS",
+      "level": 1,
+      "start_line": 1288
+    }
+  ],
+  "source_dir": "pdf/ORNL-1976",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls",
+    "salt-chemistry-and-redox",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "authors": [
+    "CHEMICAL PROCESSING*"
+  ],
+  "claims_path": "kb/normalized/claims/chapter-22.jsonl",
+  "date_text": null,
+  "doc_id": "chapter-22",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 17,
+        "line_hits": [
+          51,
+          65,
+          75,
+          77,
+          84,
+          88,
+          90,
+          95,
+          97,
+          101,
+          109,
+          111,
+          113,
+          115,
+          117,
+          123,
+          426
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          206,
+          280,
+          440,
+          497
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          487
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          428
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          69,
+          73,
+          409
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          51,
+          123
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          119,
+          367
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          530,
+          532,
+          534,
+          535,
+          536,
+          538,
+          539
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          418,
+          424,
+          459,
+          539
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          534
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 66,
+        "line_hits": [
+          7,
+          9,
+          11,
+          13,
+          16,
+          18,
+          42,
+          51,
+          75,
+          77,
+          79,
+          86,
+          92,
+          97,
+          101,
+          103,
+          115,
+          123,
+          135,
+          137,
+          145,
+          158,
+          186,
+          215,
+          217,
+          232,
+          234,
+          264,
+          280,
+          292,
+          296,
+          298,
+          300,
+          302,
+          304,
+          312,
+          314,
+          318,
+          320,
+          322,
+          327,
+          343,
+          350,
+          355,
+          359,
+          361,
+          367,
+          369,
+          371,
+          373
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 25,
+        "line_hits": [
+          7,
+          36,
+          65,
+          67,
+          69,
+          82,
+          115,
+          117,
+          119,
+          131,
+          133,
+          135,
+          280,
+          325,
+          329,
+          341,
+          479,
+          489,
+          506,
+          508,
+          522,
+          526,
+          530,
+          534,
+          545
+        ],
+        "name": "LMFR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 8,
+        "line_hits": [
+          129,
+          135,
+          312,
+          474,
+          476,
+          491,
+          506,
+          512
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          428,
+          430,
+          440
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          426,
+          428
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          222
+        ],
+        "name": "KF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "08deda18ab560ab7735ff685f58b2a3c2a5393ceb46dd80eeae2101ce49afe26",
+  "markdown_path": "pdf/FFR_chap22/FFR_chap22/hybrid_ocr/FFR_chap22.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 31,
+  "sections": [
+    {
+      "anchor": "chapter-22",
+      "end_line": 2,
+      "heading": "CHAPTER 22",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "chemical-processing",
+      "end_line": 4,
+      "heading": "CHEMICAL PROCESSING*",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "22-1-introduction",
+      "end_line": 23,
+      "heading": "22-1. INTRODUCTION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "table-22-1",
+      "end_line": 24,
+      "heading": "Table 22-1",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "fused-salt-soluble-fission-products-1",
+      "end_line": 28,
+      "heading": "Fused-Salt Soluble Fission Products [1]",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "table-22-2",
+      "end_line": 29,
+      "heading": "Table 22-2",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "fused-salt-insoluble-fission-products-1",
+      "end_line": 48,
+      "heading": "Fused-Salt Insoluble Fission Products [1]",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "22-2-volatile-fission-product-removal-20",
+      "end_line": 80,
+      "heading": "22-2. VOLATILE FISSION PRODUCT REMOVAL [20]",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "table-22-4",
+      "end_line": 104,
+      "heading": "Table 22-4",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "table-22-5",
+      "end_line": 106,
+      "heading": "TABLE 22-5",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "capsule-tests-with-molten-fuel",
+      "end_line": 128,
+      "heading": "CAPSULE TESTS WITH MOLTEN FUEL",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "22-3-fused-chloride-salt-process",
+      "end_line": 152,
+      "heading": "22-3. FUSED CHLORIDE SALT PROCESS",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "table-22-6",
+      "end_line": 218,
+      "heading": "Table 22-6",
+      "level": 2,
+      "start_line": 153
+    },
+    {
+      "anchor": "table-22-7",
+      "end_line": 219,
+      "heading": "Table 22-7",
+      "level": 2,
+      "start_line": 219
+    },
+    {
+      "anchor": "values-of-b-constant",
+      "end_line": 253,
+      "heading": "Values Of $B$ (Constant)",
+      "level": 2,
+      "start_line": 220
+    },
+    {
+      "anchor": "table-22-8",
+      "end_line": 255,
+      "heading": "TABLE 22-8",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "activity-coefficients-at",
+      "end_line": 257,
+      "heading": "ACTIVITY COEFFICIENTS AT",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "infinite-dilution",
+      "end_line": 307,
+      "heading": "INFINITE DILUTION",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "table-22-9",
+      "end_line": 330,
+      "heading": "Table 22-9",
+      "level": 2,
+      "start_line": 308
+    },
+    {
+      "anchor": "table-22-10",
+      "end_line": 332,
+      "heading": "TABLE 22-10",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "statistics-on-various-fission-product-groups",
+      "end_line": 421,
+      "heading": "STATISTICS ON VARIOUS FISSION-PRODUCT GROUPS",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "22-4-fluoride-volatility-process-for-fission-products",
+      "end_line": 441,
+      "heading": "22-4. FLUORIDE VOLATILITY PROCESS FOR FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 422
+    },
+    {
+      "anchor": "22-5-noble-fission-product-removal",
+      "end_line": 449,
+      "heading": "22-5. NOBLE FISSION PRODUCT REMOVAL",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "table-22-11",
+      "end_line": 450,
+      "heading": "Table 22-11",
+      "level": 2,
+      "start_line": 450
+    },
+    {
+      "anchor": "fpx-concentrations-after-400-days-of-operation",
+      "end_line": 460,
+      "heading": "Fpx Concentrations After 400 Days Of Operation",
+      "level": 2,
+      "start_line": 451
+    },
+    {
+      "anchor": "table-22-12-removal-of-nfpn-metals-from-bi-with-zn",
+      "end_line": 466,
+      "heading": "Table 22-12 Removal Of Nfpn Metals From Bi With Zn",
+      "level": 2,
+      "start_line": 461
+    },
+    {
+      "anchor": "table-22-13",
+      "end_line": 467,
+      "heading": "Table 22-13",
+      "level": 2,
+      "start_line": 467
+    },
+    {
+      "anchor": "removal-of-nfpn-metals-from-bi-with-0-5-zn-at-various-temperatures",
+      "end_line": 503,
+      "heading": "Removal Of Nfpn Metals From Bi With $0.5\\%$ Zn At Various Temperatures",
+      "level": 2,
+      "start_line": 468
+    },
+    {
+      "anchor": "22-6-blanket-chemical-processing",
+      "end_line": 519,
+      "heading": "22-6. BLANKET CHEMICAL PROCESSING",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "22-7-economics-of-chemical-processing",
+      "end_line": 527,
+      "heading": "22-7. ECONOMICS OF CHEMICAL PROCESSING",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "references",
+      "end_line": 550,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 528
+    }
+  ],
+  "source_dir": "pdf/FFR_chap22",
+  "tables": [],
+  "title": "CHAPTER 22",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "graphite-and-moderator-behavior",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

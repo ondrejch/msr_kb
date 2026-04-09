@@ -1,0 +1,1615 @@
+{
+  "authors": [
+    "BREEDER REACTORS",
+    "Paul R. Kasten",
+    "E. S. Bettis",
+    "Roy C. Robertson",
+    "RELEASED FOR ANNOUNCER",
+    "IN NUCLEAR SCIENCE INFO"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-3996.jsonl",
+  "date_text": "1966",
+  "doc_id": "ornl-3996",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 53,
+        "line_hits": [
+          80,
+          113,
+          115,
+          117,
+          124,
+          140,
+          244,
+          287,
+          301,
+          303,
+          424,
+          428,
+          452,
+          460,
+          462,
+          468,
+          494,
+          496,
+          498,
+          500,
+          502,
+          549,
+          552,
+          643,
+          657,
+          667,
+          725,
+          727,
+          729,
+          733,
+          737,
+          739,
+          741,
+          745,
+          759,
+          858,
+          870,
+          878,
+          896,
+          943,
+          1205,
+          1236,
+          1238,
+          1246,
+          1393,
+          1491,
+          1535,
+          1576,
+          1578,
+          1619
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 37,
+        "line_hits": [
+          99,
+          150,
+          234,
+          426,
+          452,
+          460,
+          462,
+          468,
+          484,
+          486,
+          488,
+          490,
+          492,
+          494,
+          502,
+          522,
+          526,
+          567,
+          643,
+          711,
+          729,
+          731,
+          745,
+          761,
+          984,
+          997,
+          1025,
+          1036,
+          1049,
+          1067,
+          1074,
+          1164,
+          1166,
+          1193,
+          1236,
+          1250,
+          1619
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          80,
+          422,
+          450,
+          937,
+          939
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1611,
+          1619,
+          1648,
+          1652
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          478,
+          500,
+          945
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          478,
+          492,
+          500
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          478,
+          1695
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1460
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          450
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 73,
+        "line_hits": [
+          86,
+          91,
+          93,
+          99,
+          113,
+          140,
+          150,
+          154,
+          156,
+          356,
+          358,
+          359,
+          444,
+          522,
+          526,
+          556,
+          557,
+          563,
+          620,
+          631,
+          661,
+          663,
+          665,
+          669,
+          673,
+          679,
+          685,
+          687,
+          695,
+          725,
+          735,
+          925,
+          965,
+          967,
+          976,
+          978,
+          980,
+          982,
+          984,
+          986,
+          988,
+          993,
+          995,
+          1004,
+          1010,
+          1012,
+          1014,
+          1016,
+          1019,
+          1023
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 55,
+        "line_hits": [
+          86,
+          91,
+          101,
+          113,
+          150,
+          162,
+          283,
+          367,
+          444,
+          522,
+          524,
+          558,
+          620,
+          629,
+          633,
+          663,
+          665,
+          669,
+          671,
+          673,
+          681,
+          685,
+          725,
+          965,
+          967,
+          971,
+          984,
+          997,
+          1016,
+          1036,
+          1058,
+          1111,
+          1113,
+          1115,
+          1117,
+          1119,
+          1122,
+          1124,
+          1129,
+          1143,
+          1152,
+          1166,
+          1195,
+          1252,
+          1276,
+          1282,
+          1288,
+          1460,
+          1483,
+          1502
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 21,
+        "line_hits": [
+          86,
+          558,
+          633,
+          669,
+          671,
+          689,
+          765,
+          971,
+          1036,
+          1058,
+          1113,
+          1115,
+          1119,
+          1122,
+          1129,
+          1131,
+          1166,
+          1252,
+          1268,
+          1537,
+          1560
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          180,
+          354,
+          559,
+          592,
+          679,
+          794,
+          963,
+          967,
+          969,
+          971,
+          974,
+          1223
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          180,
+          556,
+          681,
+          967,
+          971,
+          1223,
+          1258
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          111,
+          180,
+          554,
+          765,
+          1223,
+          1240
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          86,
+          484,
+          663,
+          967,
+          1058,
+          1646
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          180,
+          297,
+          1156,
+          1223,
+          1570
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          140,
+          428,
+          725
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          522,
+          528
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          530
+        ],
+        "name": "freeze valve"
+      }
+    ],
+    "organization": [
+      {
+        "count": 36,
+        "line_hits": [
+          1,
+          21,
+          62,
+          144,
+          450,
+          506,
+          522,
+          601,
+          608,
+          610,
+          624,
+          718,
+          811,
+          990,
+          1498,
+          1549,
+          1689,
+          1690,
+          1691,
+          1692,
+          1693,
+          1694,
+          1695,
+          1696,
+          1697,
+          1701,
+          1702,
+          1704,
+          1705,
+          1707,
+          1709,
+          1710,
+          1712,
+          1717,
+          1718,
+          1720
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 35,
+        "line_hits": [
+          29,
+          72,
+          406,
+          412,
+          446,
+          573,
+          582,
+          880,
+          1207,
+          1290,
+          1312,
+          1695,
+          1696,
+          1697,
+          1699,
+          1701,
+          1702,
+          1704,
+          1705,
+          1707,
+          1712,
+          1714,
+          1717,
+          1720,
+          1872,
+          1877,
+          1881,
+          1882,
+          1883,
+          1884,
+          1886,
+          1887,
+          1888,
+          1890,
+          1891
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          25,
+          68
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1272
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 228,
+        "line_hits": [
+          44,
+          78,
+          80,
+          82,
+          86,
+          89,
+          97,
+          115,
+          119,
+          124,
+          126,
+          132,
+          136,
+          140,
+          142,
+          168,
+          176,
+          178,
+          184,
+          194,
+          200,
+          206,
+          210,
+          230,
+          236,
+          242,
+          244,
+          251,
+          253,
+          255,
+          261,
+          264,
+          268,
+          270,
+          272,
+          283,
+          285,
+          289,
+          293,
+          309,
+          311,
+          313,
+          336,
+          345,
+          378,
+          387,
+          412,
+          428,
+          454,
+          460
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 187,
+        "line_hits": [
+          86,
+          99,
+          101,
+          111,
+          113,
+          115,
+          117,
+          130,
+          132,
+          134,
+          136,
+          146,
+          150,
+          152,
+          162,
+          222,
+          232,
+          236,
+          240,
+          249,
+          251,
+          259,
+          268,
+          285,
+          293,
+          305,
+          414,
+          416,
+          422,
+          424,
+          426,
+          428,
+          436,
+          440,
+          450,
+          460,
+          464,
+          470,
+          472,
+          476,
+          478,
+          486,
+          488,
+          500,
+          510,
+          512,
+          518,
+          522,
+          526,
+          573
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 31,
+        "line_hits": [
+          293,
+          313,
+          452,
+          454,
+          464,
+          470,
+          484,
+          494,
+          512,
+          522,
+          526,
+          528,
+          532,
+          534,
+          536,
+          558,
+          567,
+          749,
+          759,
+          765,
+          925,
+          927,
+          945,
+          951,
+          967,
+          1170,
+          1564,
+          1696,
+          1701,
+          1702,
+          1704
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          293,
+          303,
+          309,
+          313,
+          394,
+          765,
+          1564,
+          1578,
+          1590,
+          1598,
+          1669,
+          1671,
+          1685,
+          1706,
+          1720
+        ],
+        "name": "MSCR"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          293,
+          301,
+          309,
+          393,
+          1576,
+          1590,
+          1598,
+          1650,
+          1652,
+          1659,
+          1665,
+          1667
+        ],
+        "name": "MOSEL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          522
+        ],
+        "name": "ART"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 14,
+        "line_hits": [
+          293,
+          303,
+          571,
+          573,
+          582,
+          765,
+          1203,
+          1231,
+          1296,
+          1564,
+          1578,
+          1671,
+          1706,
+          1720
+        ],
+        "name": "converter reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          472
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 14,
+        "line_hits": [
+          426,
+          462,
+          470,
+          476,
+          478,
+          488,
+          494,
+          518,
+          526,
+          530,
+          749,
+          761,
+          1355,
+          1716
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          140,
+          232,
+          460,
+          550,
+          725,
+          753,
+          775,
+          801,
+          878,
+          1373,
+          1377,
+          1598
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          80,
+          140,
+          725,
+          753,
+          1373,
+          1377,
+          1502,
+          1598
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          140,
+          725,
+          753,
+          1373,
+          1377,
+          1502,
+          1598
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          140,
+          725,
+          753,
+          1377,
+          1502,
+          1598
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          91,
+          450,
+          753,
+          821
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          91,
+          757
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          753
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          753
+        ],
+        "name": "LiF-BeF2-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          753
+        ],
+        "name": "LiF-ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "165d6fc45b9a18b0398eddbcf03f8470f30309373189e9c2915c04c27dbd42c4",
+  "markdown_path": "pdf/ORNL-3996/ORNL-3996/hybrid_ocr/ORNL-3996.md",
+  "report_number": "ORNL-3996",
+  "report_numbers": [
+    "ORNL-3996"
+  ],
+  "report_series": "nas-ns-series",
+  "section_count": 105,
+  "sections": [
+    {
+      "anchor": "ornl-3996",
+      "end_line": 6,
+      "heading": "Ornl-3996",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "breeder-reactors",
+      "end_line": 14,
+      "heading": "Breeder Reactors",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "released-for-announcer",
+      "end_line": 16,
+      "heading": "Released For Announcer",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "in-nuclear-science-info",
+      "end_line": 20,
+      "heading": "In Nuclear Science Info",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 28,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 32,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 57,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "in-nuclear-science-abstracts",
+      "end_line": 59,
+      "heading": "In Nuclear Science Abstracts",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "august-1966",
+      "end_line": 61,
+      "heading": "August 1966",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 67,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 71,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 75,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "summary",
+      "end_line": 81,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "reference-msbr-plant-design",
+      "end_line": 83,
+      "heading": "Reference MSBR Plant Design",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "flowsheet",
+      "end_line": 94,
+      "heading": "Flowsheet",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "reactor-design",
+      "end_line": 127,
+      "heading": "Reactor Design",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "fuel-processing",
+      "end_line": 143,
+      "heading": "Fuel Processing",
+      "level": 1,
+      "start_line": 128
+    },
+    {
+      "anchor": "ornl-dwg-66-7668",
+      "end_line": 147,
+      "heading": "Ornl-Dwg 66-7668",
+      "level": 2,
+      "start_line": 144
+    },
+    {
+      "anchor": "heat-exchange-and-steam-systems",
+      "end_line": 163,
+      "heading": "Heat Exchange and Steam Systems",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "capital-cost-estimates",
+      "end_line": 165,
+      "heading": "Capital Cost Estimates",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "reactor-power-plant",
+      "end_line": 171,
+      "heading": "Reactor Power Plant",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "fuel-recycle-plant",
+      "end_line": 211,
+      "heading": "Fuel-Recycle Plant",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "fuel-cycle-performance",
+      "end_line": 215,
+      "heading": "Fuel-Cycle Performance",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "analysis-procedures-and-basic-assumptions",
+      "end_line": 237,
+      "heading": "Analysis Procedures and Basic Assumptions",
+      "level": 1,
+      "start_line": 216
+    },
+    {
+      "anchor": "nuclear-performance-and-fuel-cycle-cost",
+      "end_line": 265,
+      "heading": "Nuclear Performance and Fuel-Cycle Cost",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "power-production-cost-and-fuel-utilization-characteristics",
+      "end_line": 280,
+      "heading": "Power-Production Cost and Fuel-Utilization Characteristics",
+      "level": 1,
+      "start_line": 266
+    },
+    {
+      "anchor": "modular-type-plant",
+      "end_line": 290,
+      "heading": "Modular-Type Plant",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "additional-design-concepts",
+      "end_line": 314,
+      "heading": "Additional Design Concepts",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "contents",
+      "end_line": 318,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "summary-11i",
+      "end_line": 320,
+      "heading": "SUMMARY 11i",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 328,
+      "heading": "1. INTRODUCTION 1",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "2-molten-salt-reactor-technology-6",
+      "end_line": 335,
+      "heading": "2. MOLTEN-SALT REACTOR TECHNOLOGY 6",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "3-initial-design-of-a-1000-mw-e-msbr-power-station-16",
+      "end_line": 346,
+      "heading": "3. INITIAL DESIGN OF A 1000-Mw(e) MSBR POWER STATION 16",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "3-5-nuclear-fuel-cycle-performance-43",
+      "end_line": 353,
+      "heading": "3.5 Nuclear Fuel-Cycle Performance 43",
+      "level": 1,
+      "start_line": 347
+    },
+    {
+      "anchor": "3-6-off-gas-system-65",
+      "end_line": 355,
+      "heading": "3.6 Off-Gas System 65",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "3-7-heat-exchangers-68",
+      "end_line": 361,
+      "heading": "3.7 Heat Exchangers 68",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "xxxii",
+      "end_line": 377,
+      "heading": "xxxii",
+      "level": 1,
+      "start_line": 362
+    },
+    {
+      "anchor": "4-alternative-conditions-for-msbr-design-110",
+      "end_line": 384,
+      "heading": "4. ALTERNATIVE CONDITIONS FOR MSBR DESIGN 110",
+      "level": 2,
+      "start_line": 378
+    },
+    {
+      "anchor": "5-alternative-molten-salt-reactor-designs-135",
+      "end_line": 395,
+      "heading": "5. ALTERNATIVE MOLTEN-SALT REACTOR DESIGNS 135",
+      "level": 2,
+      "start_line": 385
+    },
+    {
+      "anchor": "6-evaluation-147",
+      "end_line": 401,
+      "heading": "6. EVALUATION 147",
+      "level": 2,
+      "start_line": 396
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 403,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 402
+    },
+    {
+      "anchor": "1-1-general-purpose-of-study",
+      "end_line": 409,
+      "heading": "1.1 General Purpose of Study",
+      "level": 1,
+      "start_line": 404
+    },
+    {
+      "anchor": "1-2-power-cost-and-nuclear-performance-goals",
+      "end_line": 419,
+      "heading": "1.2 Power Cost and Nuclear Performance Goals",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "1-3-scope-of-study",
+      "end_line": 433,
+      "heading": "1.3 Scope of Study",
+      "level": 1,
+      "start_line": 420
+    },
+    {
+      "anchor": "1-4-study-organization-and-participating-personnel",
+      "end_line": 437,
+      "heading": "1.4 Study Organization and Participating Personnel",
+      "level": 1,
+      "start_line": 434
+    },
+    {
+      "anchor": "1-5-acknowledgements",
+      "end_line": 447,
+      "heading": "1.5 Acknowledgements",
+      "level": 1,
+      "start_line": 438
+    },
+    {
+      "anchor": "2-molten-salt-reactor-technology",
+      "end_line": 455,
+      "heading": "2. MOLTEN-SALT REACTOR TECHNOLOGY",
+      "level": 1,
+      "start_line": 448
+    },
+    {
+      "anchor": "2-1-chemical-development-sup-1-sup",
+      "end_line": 473,
+      "heading": "2.1 Chemical Development<sup>1</sup>",
+      "level": 1,
+      "start_line": 456
+    },
+    {
+      "anchor": "2-2-structural-material-development-sup-2-sup",
+      "end_line": 503,
+      "heading": "2.2 Structural Material Development<sup>2</sup>",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "2-3-fuel-processing-development",
+      "end_line": 519,
+      "heading": "2.3 Fuel-Processing Development",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "2-4-component-development-sup-4-5-sup",
+      "end_line": 537,
+      "heading": "2.4 Component Development<sup>4,5</sup>",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "3-initial-design-of-a-1000-mw-e-msbr-power-station",
+      "end_line": 543,
+      "heading": "3. INITIAL DESIGN OF A 1000-Mw(e) MSBR POWER STATION",
+      "level": 1,
+      "start_line": 538
+    },
+    {
+      "anchor": "3-1-general-design-criteria-cost-bases-and-ground-rules",
+      "end_line": 579,
+      "heading": "3.1 General Design Criteria, Cost Bases, and Ground Rules",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "3-2-general-plant-layout",
+      "end_line": 600,
+      "heading": "3.2 General Plant Layout",
+      "level": 1,
+      "start_line": 580
+    },
+    {
+      "anchor": "ornl-dwg-66-7138",
+      "end_line": 607,
+      "heading": "Ornl Dwg 66-7138",
+      "level": 2,
+      "start_line": 601
+    },
+    {
+      "anchor": "ornl-dwg-66-7137",
+      "end_line": 609,
+      "heading": "Ornl Dwg 66-7137",
+      "level": 2,
+      "start_line": 608
+    },
+    {
+      "anchor": "ornl-dwg-66-7140",
+      "end_line": 623,
+      "heading": "Ornl Dwg 66-7140",
+      "level": 2,
+      "start_line": 610
+    },
+    {
+      "anchor": "ornl-dwg-66-7110",
+      "end_line": 640,
+      "heading": "Ornl Dwg 66-7110",
+      "level": 2,
+      "start_line": 624
+    },
+    {
+      "anchor": "3-3-flowsheets-and-general-description",
+      "end_line": 704,
+      "heading": "3.3 Flowsheets and General Description",
+      "level": 1,
+      "start_line": 641
+    },
+    {
+      "anchor": "3-4-reactor-system",
+      "end_line": 706,
+      "heading": "3.4 Reactor System",
+      "level": 1,
+      "start_line": 705
+    },
+    {
+      "anchor": "3-4-1-description",
+      "end_line": 717,
+      "heading": "3.4.1 Description",
+      "level": 1,
+      "start_line": 707
+    },
+    {
+      "anchor": "ornl-dwg-66-7129",
+      "end_line": 746,
+      "heading": "Ornl Dwg 66-7129",
+      "level": 2,
+      "start_line": 718
+    },
+    {
+      "anchor": "3-4-2-reactor-materials",
+      "end_line": 762,
+      "heading": "3.4.2 Reactor Materials",
+      "level": 1,
+      "start_line": 747
+    },
+    {
+      "anchor": "3-4-3-msbr-load-following-characteristics",
+      "end_line": 766,
+      "heading": "3.4.3 MSBR Load-Following Characteristics",
+      "level": 1,
+      "start_line": 763
+    },
+    {
+      "anchor": "3-5-nuclear-fuel-cycle-performance",
+      "end_line": 772,
+      "heading": "3.5 Nuclear Fuel-Cycle Performance",
+      "level": 1,
+      "start_line": 767
+    },
+    {
+      "anchor": "3-5-1-design-and-cost-study-of-processing-plant-for-fuel-recycle",
+      "end_line": 810,
+      "heading": "3.5.1 Design and Cost Study of Processing Plant for Fuel Recycle",
+      "level": 1,
+      "start_line": 773
+    },
+    {
+      "anchor": "ornl-dwg-65-1802r2",
+      "end_line": 849,
+      "heading": "Ornl Dwg 65-1802R2",
+      "level": 2,
+      "start_line": 811
+    },
+    {
+      "anchor": "3-5-2-nuclear-design-method",
+      "end_line": 867,
+      "heading": "3.5.2 Nuclear Design Method",
+      "level": 1,
+      "start_line": 850
+    },
+    {
+      "anchor": "3-5-3-nuclear-performance-and-fuel-cycle-cost",
+      "end_line": 922,
+      "heading": "3.5.3 Nuclear Performance and Fuel-Cycle Cost",
+      "level": 1,
+      "start_line": 868
+    },
+    {
+      "anchor": "3-5-4-critique-of-nuclear-performance-calculations",
+      "end_line": 962,
+      "heading": "3.5.4 Critique of Nuclear Performance Calculations",
+      "level": 1,
+      "start_line": 923
+    },
+    {
+      "anchor": "3-6-off-gas-system",
+      "end_line": 975,
+      "heading": "3.6 Off-Gas System",
+      "level": 1,
+      "start_line": 963
+    },
+    {
+      "anchor": "3-7-heat-exchangers",
+      "end_line": 979,
+      "heading": "3.7 Heat Exchangers",
+      "level": 1,
+      "start_line": 976
+    },
+    {
+      "anchor": "3-7-1-fuel-salt-heat-exchangers",
+      "end_line": 989,
+      "heading": "3.7.1 Fuel-Salt Heat Exchangers",
+      "level": 1,
+      "start_line": 980
+    },
+    {
+      "anchor": "ornl-dwg-65-12379",
+      "end_line": 1011,
+      "heading": "Ornl Dwg 65-12379",
+      "level": 2,
+      "start_line": 990
+    },
+    {
+      "anchor": "3-7-2-blanket-salt-heat-exchangers",
+      "end_line": 1033,
+      "heading": "3.7.2 Blanket-Salt Heat Exchangers",
+      "level": 1,
+      "start_line": 1012
+    },
+    {
+      "anchor": "3-7-3-boiler-superheaters",
+      "end_line": 1055,
+      "heading": "3.7.3 Boiler-Superheaters",
+      "level": 1,
+      "start_line": 1034
+    },
+    {
+      "anchor": "3-7-4-steam-reheaters",
+      "end_line": 1077,
+      "heading": "3.7.4 Steam Reheaters",
+      "level": 1,
+      "start_line": 1056
+    },
+    {
+      "anchor": "3-7-5-reheat-steam-freheaters",
+      "end_line": 1110,
+      "heading": "3.7.5 Reheat-Steam Freheaters",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "3-8-salt-circulating-pumps",
+      "end_line": 1134,
+      "heading": "3.8 Salt-Circulating Pumps",
+      "level": 1,
+      "start_line": 1111
+    },
+    {
+      "anchor": "3-9-steam-power-system",
+      "end_line": 1157,
+      "heading": "3.9 Steam-Power System",
+      "level": 1,
+      "start_line": 1135
+    },
+    {
+      "anchor": "3-10-other-design-considerations",
+      "end_line": 1159,
+      "heading": "3.10 Other Design Considerations",
+      "level": 1,
+      "start_line": 1158
+    },
+    {
+      "anchor": "3-10-1-piping-and-pipe-stresses",
+      "end_line": 1167,
+      "heading": "3.10.1 Piping and Pipe Stresses",
+      "level": 1,
+      "start_line": 1160
+    },
+    {
+      "anchor": "3-10-2-maintenance",
+      "end_line": 1190,
+      "heading": "3.10.2 Maintenance",
+      "level": 1,
+      "start_line": 1168
+    },
+    {
+      "anchor": "3-10-3-containment",
+      "end_line": 1200,
+      "heading": "3.10.3 Containment",
+      "level": 1,
+      "start_line": 1191
+    },
+    {
+      "anchor": "3-11-plant-construction-costs",
+      "end_line": 1293,
+      "heading": "3.11 Plant Construction Costs",
+      "level": 1,
+      "start_line": 1201
+    },
+    {
+      "anchor": "3-12-power-production-cost",
+      "end_line": 1348,
+      "heading": "3.12 Power-Production Cost",
+      "level": 1,
+      "start_line": 1294
+    },
+    {
+      "anchor": "4-alternative-conditions-for-msbr-design",
+      "end_line": 1352,
+      "heading": "4. ALTERNATIVE CONDITIONS FOR MSBR DESIGN.",
+      "level": 1,
+      "start_line": 1349
+    },
+    {
+      "anchor": "4-1-protactinum-removal-from-blanket-stream",
+      "end_line": 1440,
+      "heading": "4.1 Protactinum Removal from Blanket Stream",
+      "level": 1,
+      "start_line": 1353
+    },
+    {
+      "anchor": "4-2-alternative-feedwater-temperature-cycle",
+      "end_line": 1476,
+      "heading": "4.2 Alternative Feedwater Temperature Cycle",
+      "level": 1,
+      "start_line": 1441
+    },
+    {
+      "anchor": "4-3-modular-type-plant",
+      "end_line": 1497,
+      "heading": "4.3 Modular-Type Plant",
+      "level": 1,
+      "start_line": 1477
+    },
+    {
+      "anchor": "ornl-dwg-66-7115",
+      "end_line": 1524,
+      "heading": "Ornl Dwg 66-7115",
+      "level": 2,
+      "start_line": 1498
+    },
+    {
+      "anchor": "4-4-additional-design-changes",
+      "end_line": 1548,
+      "heading": "4.4 Additional Design Changes",
+      "level": 1,
+      "start_line": 1525
+    },
+    {
+      "anchor": "ornl-dwg-66-7022",
+      "end_line": 1561,
+      "heading": "Ornl Dwg 66-7022",
+      "level": 2,
+      "start_line": 1549
+    },
+    {
+      "anchor": "5-alternative-molten-salt-reactor-designs",
+      "end_line": 1581,
+      "heading": "5. ALTERNATIVE MOLTEN-SALT REACTOR DESIGNS",
+      "level": 1,
+      "start_line": 1562
+    },
+    {
+      "anchor": "5-1-msbr-pa-pb-concept",
+      "end_line": 1614,
+      "heading": "5.1 MSBR(Pa-Pb) Concept",
+      "level": 1,
+      "start_line": 1582
+    },
+    {
+      "anchor": "5-2-sscb-pa-reactor-concept",
+      "end_line": 1616,
+      "heading": "5.2 SSCB(Pa) Reactor Concept",
+      "level": 1,
+      "start_line": 1615
+    },
+    {
+      "anchor": "5-2-1-sscb-pa-reactor-concept-with-intermediate-coolant",
+      "end_line": 1632,
+      "heading": "5.2.1 SSCB(Pa) Reactor Concept with Intermediate Coolant",
+      "level": 1,
+      "start_line": 1617
+    },
+    {
+      "anchor": "5-2-2-sscb-pa-with-direct-contact-cooling",
+      "end_line": 1649,
+      "heading": "5.2.2 SSCB(Pa) with Direct-Contact Cooling",
+      "level": 1,
+      "start_line": 1633
+    },
+    {
+      "anchor": "5-3-mosel-pa-pb-reactor-concept",
+      "end_line": 1668,
+      "heading": "5.3 MOSEL(Pa-Pb) Reactor Concept",
+      "level": 1,
+      "start_line": 1650
+    },
+    {
+      "anchor": "5-4-mscr-concept",
+      "end_line": 1674,
+      "heading": "5.4 MSCR Concept",
+      "level": 1,
+      "start_line": 1669
+    },
+    {
+      "anchor": "6-evaluation",
+      "end_line": 1686,
+      "heading": "6. EVALUATION",
+      "level": 1,
+      "start_line": 1675
+    },
+    {
+      "anchor": "references",
+      "end_line": 1721,
+      "heading": "References",
+      "level": 1,
+      "start_line": 1687
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1868,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 1722
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1892,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1869
+    }
+  ],
+  "source_dir": "pdf/ORNL-3996",
+  "tables": [],
+  "title": "ORNL-3996",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "breeder-and-converter-design",
+    "graphite-and-moderator-behavior",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "fuel-processing-and-reprocessing",
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

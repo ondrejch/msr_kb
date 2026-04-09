@@ -1,0 +1,1937 @@
+{
+  "authors": [
+    "M. Taube",
+    "FAST REACTORS USING",
+    "Co-authors",
+    "Physics",
+    "Neutronics",
+    "J. Ligou",
+    "Cross sections"
+  ],
+  "claims_path": "kb/normalized/claims/eir-332.jsonl",
+  "date_text": "1972",
+  "doc_id": "eir-332",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 24,
+        "line_hits": [
+          204,
+          205,
+          988,
+          1163,
+          1188,
+          1190,
+          2599,
+          2611,
+          2723,
+          2872,
+          2876,
+          2996,
+          3000,
+          3024,
+          3040,
+          3042,
+          3044,
+          3048,
+          3054,
+          3072,
+          3082,
+          3084,
+          3114,
+          3120
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          1395,
+          1397,
+          1411,
+          1423,
+          1436,
+          1438,
+          1493,
+          1495,
+          1506,
+          1536,
+          1544,
+          2240,
+          2263,
+          2272,
+          2998
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          1360,
+          1411,
+          1430,
+          1459,
+          1471,
+          1506,
+          1536,
+          1573,
+          2195,
+          2199,
+          2240,
+          2302,
+          2410,
+          3325
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          392,
+          3022
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 21,
+        "line_hits": [
+          224,
+          264,
+          270,
+          2350,
+          2358,
+          2360,
+          2362,
+          2366,
+          2368,
+          3314,
+          3315,
+          3316,
+          3393,
+          3429,
+          3431,
+          3438,
+          3460,
+          3475,
+          3477,
+          3491,
+          3544
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          2612,
+          3491,
+          3539,
+          3540,
+          3541,
+          3542,
+          3544
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2876
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 16,
+        "line_hits": [
+          67,
+          69,
+          71,
+          73,
+          229,
+          2876,
+          3554,
+          3560,
+          3566,
+          3578,
+          3584,
+          3608,
+          3613,
+          3621,
+          3639,
+          3654
+        ],
+        "name": "EIR"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          91,
+          312,
+          1536,
+          2893,
+          3760,
+          3770
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          3715,
+          3784,
+          3804
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          3697
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 109,
+        "line_hits": [
+          106,
+          110,
+          112,
+          168,
+          169,
+          173,
+          242,
+          248,
+          262,
+          264,
+          268,
+          272,
+          295,
+          312,
+          656,
+          924,
+          930,
+          948,
+          958,
+          1052,
+          1072,
+          1240,
+          1244,
+          1266,
+          1366,
+          1428,
+          1438,
+          1521,
+          1523,
+          1559,
+          1561,
+          1564,
+          1600,
+          1612,
+          1616,
+          1618,
+          1620,
+          1644,
+          1646,
+          1650,
+          1660,
+          1671,
+          1751,
+          1773,
+          1785,
+          1819,
+          1841,
+          1893,
+          1904,
+          1911
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1620,
+          3134
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2322
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 25,
+        "line_hits": [
+          3,
+          15,
+          95,
+          102,
+          230,
+          274,
+          452,
+          1035,
+          1356,
+          2356,
+          2526,
+          2610,
+          2620,
+          2638,
+          2886,
+          2992,
+          3034,
+          3040,
+          3108,
+          3236,
+          3556,
+          3562,
+          3666,
+          3713,
+          3732
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          104,
+          392,
+          1372,
+          1376,
+          1382,
+          1384,
+          1408,
+          2172
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          104,
+          1390,
+          1421,
+          1426,
+          2893
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1536
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1408
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "09b2d63c4b6257ac9fcec65712ca3c622f3dc5e329b3013b8b8d3f6158f3ba98",
+  "markdown_path": "pdf/EIR-332/EIR-332/hybrid_ocr/EIR-332.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "eir-series",
+  "section_count": 224,
+  "sections": [
+    {
+      "anchor": "eidg-institut-f-r-reaktorforschung-w-renlingen-schweiz",
+      "end_line": 2,
+      "heading": "Eidg. Institut für Reaktorforschung Würenlingen Schweiz",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "fast-reactors-using-molten-chloride-salts-as-fuel",
+      "end_line": 12,
+      "heading": "Fast Reactors Using Molten Chloride Salts as Fuel",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "fast-reactors-using",
+      "end_line": 14,
+      "heading": "Fast Reactors Using",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "molten-chloride-salts-as-fuel",
+      "end_line": 16,
+      "heading": "Molten Chloride Salts As Fuel",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "final-report-1972-1977",
+      "end_line": 92,
+      "heading": "Final Report (1972 - 1977)",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "summary",
+      "end_line": 115,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "contents",
+      "end_line": 235,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "forward",
+      "end_line": 243,
+      "heading": "FORWARD",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "1-molten-salt-reactors-general-description",
+      "end_line": 245,
+      "heading": "1. MOLTEN SALT REACTORS. GENERAL DESCRIPTION",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "1-1-methods-of-classification",
+      "end_line": 259,
+      "heading": "1.1 Methods of classification",
+      "level": 1,
+      "start_line": 246
+    },
+    {
+      "anchor": "1-2-method-of-cooling-external-internal",
+      "end_line": 275,
+      "heading": "1.2 Method of cooling. External: Internal",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "1-3-intensity-of-neutron-flux",
+      "end_line": 290,
+      "heading": "1.3 Intensity of neutron Flux",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "1-4-number-of-core-zones",
+      "end_line": 299,
+      "heading": "1.4 Number of core zones",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "1-5-type-of-fissile-nuclide-plutonium-uranium",
+      "end_line": 309,
+      "heading": "1.5 Type of Fissile Nuclide. Plutonium: Uranium",
+      "level": 1,
+      "start_line": 300
+    },
+    {
+      "anchor": "1-5-neutron-energy-thermal-and-fast",
+      "end_line": 318,
+      "heading": "1.5 Neutron energy: Thermal and Fast",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "low-breeding",
+      "end_line": 319,
+      "heading": "Low Breeding",
+      "level": 2,
+      "start_line": 319
+    },
+    {
+      "anchor": "ratio-because",
+      "end_line": 320,
+      "heading": "Ratio, Because",
+      "level": 2,
+      "start_line": 320
+    },
+    {
+      "anchor": "of-too-soft",
+      "end_line": 322,
+      "heading": "Of Too Soft",
+      "level": 2,
+      "start_line": 321
+    },
+    {
+      "anchor": "blanket",
+      "end_line": 323,
+      "heading": "Blanket",
+      "level": 2,
+      "start_line": 323
+    },
+    {
+      "anchor": "core",
+      "end_line": 329,
+      "heading": "Core",
+      "level": 2,
+      "start_line": 324
+    },
+    {
+      "anchor": "is-very-complex",
+      "end_line": 330,
+      "heading": "Is Very Complex",
+      "level": 2,
+      "start_line": 330
+    },
+    {
+      "anchor": "the-neutron-flux",
+      "end_line": 331,
+      "heading": "The Neutron Flux",
+      "level": 2,
+      "start_line": 331
+    },
+    {
+      "anchor": "distribution-is",
+      "end_line": 358,
+      "heading": "Distribution Is",
+      "level": 2,
+      "start_line": 332
+    },
+    {
+      "anchor": "1-7-purpose-of-the-reactors",
+      "end_line": 429,
+      "heading": "1.7 Purpose of the reactors",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "1-10-method-of-neutronic-calculation",
+      "end_line": 447,
+      "heading": "1.10 Method of Neutronic Calculation",
+      "level": 1,
+      "start_line": 430
+    },
+    {
+      "anchor": "2-1-breeder-reactor-with-plutonium-burning-in-situ",
+      "end_line": 449,
+      "heading": "2.1 BREEDER REACTOR WITH PLUTONIUM BURNING IN SITU",
+      "level": 1,
+      "start_line": 448
+    },
+    {
+      "anchor": "2-1-1-aim-of-this-concept",
+      "end_line": 459,
+      "heading": "2.1.1 Aim of this Concept",
+      "level": 1,
+      "start_line": 450
+    },
+    {
+      "anchor": "a-beginning",
+      "end_line": 461,
+      "heading": "A) Beginning",
+      "level": 2,
+      "start_line": 460
+    },
+    {
+      "anchor": "nopu-417",
+      "end_line": 466,
+      "heading": "[Nopu-417]",
+      "level": 2,
+      "start_line": 462
+    },
+    {
+      "anchor": "b-transient",
+      "end_line": 468,
+      "heading": "B] Transient",
+      "level": 2,
+      "start_line": 467
+    },
+    {
+      "anchor": "nopu-501",
+      "end_line": 474,
+      "heading": "(Nopu-501)",
+      "level": 2,
+      "start_line": 469
+    },
+    {
+      "anchor": "2-1-2-reactor-in-the-build-up-phase",
+      "end_line": 515,
+      "heading": "2.1.2 Reactor in the Build-up phase",
+      "level": 1,
+      "start_line": 475
+    },
+    {
+      "anchor": "table-2-2",
+      "end_line": 525,
+      "heading": "Table 2.2",
+      "level": 2,
+      "start_line": 516
+    },
+    {
+      "anchor": "table-2-3",
+      "end_line": 527,
+      "heading": "Table 2.3",
+      "level": 1,
+      "start_line": 526
+    },
+    {
+      "anchor": "utmost-417-nu2u",
+      "end_line": 531,
+      "heading": "Utmost-417,Nu2U.",
+      "level": 2,
+      "start_line": 528
+    },
+    {
+      "anchor": "title-spheric-geom",
+      "end_line": 533,
+      "heading": "Title : Spheric Geom.",
+      "level": 2,
+      "start_line": 532
+    },
+    {
+      "anchor": "date-08-09-77",
+      "end_line": 535,
+      "heading": "Date 08/09/77",
+      "level": 2,
+      "start_line": 534
+    },
+    {
+      "anchor": "input-data-rsyst-formalism",
+      "end_line": 537,
+      "heading": "INPUT DATA (RSYST FORMALISM)",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "untitled",
+      "end_line": 539,
+      "heading": "学学学学学学学学学学学学学学学学学",
+      "level": 1,
+      "start_line": 538
+    },
+    {
+      "anchor": "oruer-of-scattering-1",
+      "end_line": 541,
+      "heading": "Oruer Of Scattering 1",
+      "level": 2,
+      "start_line": 540
+    },
+    {
+      "anchor": "quaura-ture-order",
+      "end_line": 543,
+      "heading": "Quaura Ture Order",
+      "level": 2,
+      "start_line": 542
+    },
+    {
+      "anchor": "no-of-zones-5",
+      "end_line": 545,
+      "heading": "No. Of Zones 5",
+      "level": 2,
+      "start_line": 544
+    },
+    {
+      "anchor": "no-of-intervals-43",
+      "end_line": 547,
+      "heading": "No. Of Intervals 43",
+      "level": 2,
+      "start_line": 546
+    },
+    {
+      "anchor": "no-of-groups-22",
+      "end_line": 549,
+      "heading": "No. Of Groups 22",
+      "level": 2,
+      "start_line": 548
+    },
+    {
+      "anchor": "eigenvalue-modifier-2-00e-01",
+      "end_line": 551,
+      "heading": "Eigenvalue Modifier -2.00E-01",
+      "level": 2,
+      "start_line": 550
+    },
+    {
+      "anchor": "precision-desired-1-0j0e-3",
+      "end_line": 553,
+      "heading": "Precision Desired 1.0J0E-3",
+      "level": 2,
+      "start_line": 552
+    },
+    {
+      "anchor": "norm-factor-2-291e-20",
+      "end_line": 557,
+      "heading": "Norm. Factor 2.291E+20",
+      "level": 2,
+      "start_line": 554
+    },
+    {
+      "anchor": "densities-atoms-1e-24-cm3",
+      "end_line": 559,
+      "heading": "DENSITIES (ATOMS*1E-24/CM3)",
+      "level": 1,
+      "start_line": 558
+    },
+    {
+      "anchor": "untitled",
+      "end_line": 561,
+      "heading": "华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华华",
+      "level": 1,
+      "start_line": 560
+    },
+    {
+      "anchor": "core",
+      "end_line": 567,
+      "heading": "Core",
+      "level": 2,
+      "start_line": 562
+    },
+    {
+      "anchor": "u233-5-66e-04-pu239-7-31e-37-pu24j-7-31e-07",
+      "end_line": 569,
+      "heading": "U233 = 5.66E-04 Pu239 = 7.31E-37 Pu24J = 7.31E-07",
+      "level": 2,
+      "start_line": 568
+    },
+    {
+      "anchor": "pu241-7-31e-07-fp239-1-61e-07",
+      "end_line": 571,
+      "heading": "Pu241 = 7.31E-07 Fp239 = 1.61E-07",
+      "level": 2,
+      "start_line": 570
+    },
+    {
+      "anchor": "ratio-u3-putot-u3-8-37",
+      "end_line": 573,
+      "heading": "Ratio U3/（Putot+U3）= 8.37",
+      "level": 2,
+      "start_line": 572
+    },
+    {
+      "anchor": "first-wall",
+      "end_line": 577,
+      "heading": "First Wall",
+      "level": 2,
+      "start_line": 574
+    },
+    {
+      "anchor": "blank",
+      "end_line": 583,
+      "heading": "Blank=",
+      "level": 2,
+      "start_line": 578
+    },
+    {
+      "anchor": "2-nd-wall",
+      "end_line": 585,
+      "heading": "2-Nd Wall",
+      "level": 2,
+      "start_line": 584
+    },
+    {
+      "anchor": "c-1-37e-0-2-f2-7-31e-0-2",
+      "end_line": 587,
+      "heading": "C $= 1.37E = 0.2$ F2 $= 7.31E - 0.2$",
+      "level": 2,
+      "start_line": 586
+    },
+    {
+      "anchor": "reflector",
+      "end_line": 589,
+      "heading": "Reflector",
+      "level": 2,
+      "start_line": 588
+    },
+    {
+      "anchor": "c-0-f-8-46e-02",
+      "end_line": 591,
+      "heading": "C $= .0$ F 8.46E-02",
+      "level": 2,
+      "start_line": 590
+    },
+    {
+      "anchor": "utmost-417-nopou",
+      "end_line": 595,
+      "heading": "Utmost-417,Nopou.",
+      "level": 2,
+      "start_line": 592
+    },
+    {
+      "anchor": "title-spheric-geom",
+      "end_line": 597,
+      "heading": "Title : Spheric Geom.",
+      "level": 2,
+      "start_line": 596
+    },
+    {
+      "anchor": "date-08-09-77",
+      "end_line": 605,
+      "heading": "Date 08/09/77",
+      "level": 2,
+      "start_line": 598
+    },
+    {
+      "anchor": "table-2-5",
+      "end_line": 607,
+      "heading": "Table 2.5",
+      "level": 1,
+      "start_line": 606
+    },
+    {
+      "anchor": "utmosf-417-nou",
+      "end_line": 611,
+      "heading": "Utmosf-417，Nou.",
+      "level": 2,
+      "start_line": 608
+    },
+    {
+      "anchor": "title-spheric-geom",
+      "end_line": 613,
+      "heading": "Title : Spheric Geom.",
+      "level": 2,
+      "start_line": 612
+    },
+    {
+      "anchor": "date-08-09-77",
+      "end_line": 617,
+      "heading": "Date 08/09/77",
+      "level": 2,
+      "start_line": 614
+    },
+    {
+      "anchor": "1",
+      "end_line": 619,
+      "heading": "1",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "tmdt-417-nopu",
+      "end_line": 629,
+      "heading": "Tmdt-417，Nopu·",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "where",
+      "end_line": 631,
+      "heading": "WHERE",
+      "level": 1,
+      "start_line": 630
+    },
+    {
+      "anchor": "ors-flow-from-the-ore-or-synth-in-kg-year",
+      "end_line": 633,
+      "heading": "Ors = Flow From The Ore Or Synth. In Kg / Year",
+      "level": 2,
+      "start_line": 632
+    },
+    {
+      "anchor": "sbl-steady-state-in-the-blanket-in-kg",
+      "end_line": 637,
+      "heading": "Sbl = Steady State In The Blanket In Kg.",
+      "level": 2,
+      "start_line": 634
+    },
+    {
+      "anchor": "ftr-flow-for-transmutation-in-kg-year",
+      "end_line": 639,
+      "heading": "Ftr = Flow For Transmutation In Kg / Year",
+      "level": 2,
+      "start_line": 638
+    },
+    {
+      "anchor": "sco-steady-state-in-the-core-in-kg",
+      "end_line": 641,
+      "heading": "Sco = Steady State In The Core In Kg",
+      "level": 2,
+      "start_line": 640
+    },
+    {
+      "anchor": "ffp-flow-fiss-parasitic-in-core-in-kg-year",
+      "end_line": 643,
+      "heading": "Ffp = Flow Fiss. + Parasitic In Core In Kg / Year",
+      "level": 2,
+      "start_line": 642
+    },
+    {
+      "anchor": "fcb-flow-to-the-core-or-blanket-in-kg-year",
+      "end_line": 645,
+      "heading": "Fcb = Flow To The Core Or Blanket In Kg / Year",
+      "level": 2,
+      "start_line": 644
+    },
+    {
+      "anchor": "flr-flowto-reprocess-and-return-in-kg-year",
+      "end_line": 647,
+      "heading": "Flr = Flowto Reprocess And Return In Kg / Year",
+      "level": 2,
+      "start_line": 646
+    },
+    {
+      "anchor": "sre-steady-state-in-the-re-processing-in-kg",
+      "end_line": 649,
+      "heading": "Sre = Steady State In The Re-Processing In Kg",
+      "level": 2,
+      "start_line": 648
+    },
+    {
+      "anchor": "fwa-flow-to-the-waste-in-kg-year",
+      "end_line": 651,
+      "heading": "Fwa = Flow To The Waste In Kg / Year",
+      "level": 2,
+      "start_line": 650
+    },
+    {
+      "anchor": "fnw-flow-to-the-new-in-kg-year",
+      "end_line": 653,
+      "heading": "Fnw = Flow To The New In Kg / Year",
+      "level": 2,
+      "start_line": 652
+    },
+    {
+      "anchor": "snw-in-the-new-after-dtime-in-kg",
+      "end_line": 657,
+      "heading": "Snw = In The New After Dtime In Kg",
+      "level": 2,
+      "start_line": 654
+    },
+    {
+      "anchor": "2-1-3-the-transient-reactor",
+      "end_line": 671,
+      "heading": "2.1.3 The Transient Reactor",
+      "level": 1,
+      "start_line": 658
+    },
+    {
+      "anchor": "2-1-4-the-steady-state-reactor",
+      "end_line": 679,
+      "heading": "2.1.4 The steady state reactor",
+      "level": 1,
+      "start_line": 672
+    },
+    {
+      "anchor": "input-data-rsyst-formalism",
+      "end_line": 689,
+      "heading": "Input Data (Rsyst Formalism)",
+      "level": 2,
+      "start_line": 680
+    },
+    {
+      "anchor": "utmost-501-pu-u",
+      "end_line": 693,
+      "heading": "Utmost-501, Pu+U.",
+      "level": 2,
+      "start_line": 690
+    },
+    {
+      "anchor": "title-spheric-geom",
+      "end_line": 695,
+      "heading": "Title : Spheric Geom.",
+      "level": 2,
+      "start_line": 694
+    },
+    {
+      "anchor": "date-16-9",
+      "end_line": 703,
+      "heading": "Date 16/9//",
+      "level": 2,
+      "start_line": 696
+    },
+    {
+      "anchor": "title-spheric-geom",
+      "end_line": 705,
+      "heading": "Title : Spheric Geom.",
+      "level": 2,
+      "start_line": 704
+    },
+    {
+      "anchor": "date-16-9-1",
+      "end_line": 715,
+      "heading": "Date 16/9/1",
+      "level": 2,
+      "start_line": 706
+    },
+    {
+      "anchor": "where",
+      "end_line": 717,
+      "heading": "Where",
+      "level": 2,
+      "start_line": 716
+    },
+    {
+      "anchor": "ors-flow-from-the-ore-op-synth-in-kg-year",
+      "end_line": 719,
+      "heading": "Ors = Flow From The Ore Op Synth. In Kg / Year",
+      "level": 2,
+      "start_line": 718
+    },
+    {
+      "anchor": "sbl-steady-state-in-the-flanket-in-kg",
+      "end_line": 721,
+      "heading": "Sbl = Steady State In The Flanket In Kg.",
+      "level": 2,
+      "start_line": 720
+    },
+    {
+      "anchor": "fbi-flow-fiss-paras-in-blanket-in-kg-year",
+      "end_line": 723,
+      "heading": "Fbi. Flow Fiss. + Paras. In Blanket In Kg / Year",
+      "level": 2,
+      "start_line": 722
+    },
+    {
+      "anchor": "ftr-flow-for-transmutation-in-kg-year",
+      "end_line": 725,
+      "heading": "Ftr = Flow For Transmutation In Kg / Year",
+      "level": 2,
+      "start_line": 724
+    },
+    {
+      "anchor": "sco-steady-state-in-the-core-in-k",
+      "end_line": 729,
+      "heading": "Sco - Steady State In The Core In K",
+      "level": 2,
+      "start_line": 726
+    },
+    {
+      "anchor": "fcx-flow-to-the-core-op-planket-in-kg-year",
+      "end_line": 731,
+      "heading": "Fcx = Flow To The Core Op Planket In Kg / Year",
+      "level": 2,
+      "start_line": 730
+    },
+    {
+      "anchor": "flu-flowo-reprocess-and-return-in-kg-year",
+      "end_line": 733,
+      "heading": "Flu = Flowo Reprocess And Return In Kg / Year",
+      "level": 2,
+      "start_line": 732
+    },
+    {
+      "anchor": "sre-steady-state-in-the-pe-progressing-in-kg",
+      "end_line": 735,
+      "heading": "Sre = Steady State In The Pe-Progressing In Kg",
+      "level": 2,
+      "start_line": 734
+    },
+    {
+      "anchor": "fwa-flow-to-the-waste-in-kg-year",
+      "end_line": 737,
+      "heading": "Fwa = Flow To The Waste In Kg / Year",
+      "level": 2,
+      "start_line": 736
+    },
+    {
+      "anchor": "fnw-flow-to-the-new-in-kg-year",
+      "end_line": 739,
+      "heading": "Fnw = Flow To The New In Kg / Year",
+      "level": 2,
+      "start_line": 738
+    },
+    {
+      "anchor": "sn-in-the-new-after-dtime-in-fc",
+      "end_line": 751,
+      "heading": "Sn = In The New After Dtime In Fc",
+      "level": 2,
+      "start_line": 740
+    },
+    {
+      "anchor": "2-1-5-comparison-of-the-three-phases",
+      "end_line": 771,
+      "heading": "2.1.5 Comparison of the three phases",
+      "level": 1,
+      "start_line": 752
+    },
+    {
+      "anchor": "title-spheric",
+      "end_line": 773,
+      "heading": "Title : Spheric",
+      "level": 2,
+      "start_line": 772
+    },
+    {
+      "anchor": "date",
+      "end_line": 783,
+      "heading": "Date",
+      "level": 2,
+      "start_line": 774
+    },
+    {
+      "anchor": "order-08-scatter",
+      "end_line": 785,
+      "heading": "Order 08 Scatter",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "quadrature-order",
+      "end_line": 787,
+      "heading": "Quadrature Order",
+      "level": 2,
+      "start_line": 786
+    },
+    {
+      "anchor": "no-of-lines",
+      "end_line": 789,
+      "heading": "No. Of Lines",
+      "level": 2,
+      "start_line": 788
+    },
+    {
+      "anchor": "nu-1ntv4",
+      "end_line": 791,
+      "heading": "Nu. 1Ntv4",
+      "level": 2,
+      "start_line": 790
+    },
+    {
+      "anchor": "no-of-64135",
+      "end_line": 793,
+      "heading": "No. Of 64135",
+      "level": 2,
+      "start_line": 792
+    },
+    {
+      "anchor": "eigenvaluhotxjf",
+      "end_line": 795,
+      "heading": "Eigenvaluhotxjf",
+      "level": 2,
+      "start_line": 794
+    },
+    {
+      "anchor": "precision-1-00-03",
+      "end_line": 797,
+      "heading": "Precision 1.00-03",
+      "level": 2,
+      "start_line": 796
+    },
+    {
+      "anchor": "norm-cateor-2",
+      "end_line": 813,
+      "heading": "Norm. Cateor 2",
+      "level": 2,
+      "start_line": 798
+    },
+    {
+      "anchor": "a-238-4-71e-3",
+      "end_line": 815,
+      "heading": "A 238 4.71E-3",
+      "level": 2,
+      "start_line": 814
+    },
+    {
+      "anchor": "u237-7-3-4-pu2401-43e-4",
+      "end_line": 817,
+      "heading": "U237 7.3有中4 Pu2401.43E-4",
+      "level": 2,
+      "start_line": 816
+    },
+    {
+      "anchor": "fup244-108-7-3",
+      "end_line": 819,
+      "heading": "Fup244 108 美国，美国7月3日",
+      "level": 2,
+      "start_line": 818
+    },
+    {
+      "anchor": "ratioubx-pou-10-6-70",
+      "end_line": 831,
+      "heading": "Ratioubx（Pou）=10） 6.70",
+      "level": 2,
+      "start_line": 820
+    },
+    {
+      "anchor": "ha-5-41e-3-7l-1-08-2-th232-5-41e-3",
+      "end_line": 833,
+      "heading": "Ha 5.41E-3 7L =1.08=2 Th232=5.41E-3",
+      "level": 2,
+      "start_line": 832
+    },
+    {
+      "anchor": "a-1-3-11",
+      "end_line": 847,
+      "heading": "A 1.3.11",
+      "level": 2,
+      "start_line": 834
+    },
+    {
+      "anchor": "uthost-302-nopu",
+      "end_line": 851,
+      "heading": "Uthost-302,Nopu.",
+      "level": 2,
+      "start_line": 848
+    },
+    {
+      "anchor": "title-spheric-geom",
+      "end_line": 853,
+      "heading": "Title : Spheric Geom.",
+      "level": 2,
+      "start_line": 852
+    },
+    {
+      "anchor": "date-03-09-11",
+      "end_line": 859,
+      "heading": "Date 03/09/11",
+      "level": 2,
+      "start_line": 854
+    },
+    {
+      "anchor": "utnost-302-nopu",
+      "end_line": 863,
+      "heading": "Utnost-302,Nopu.",
+      "level": 2,
+      "start_line": 860
+    },
+    {
+      "anchor": "title-spheric-geom",
+      "end_line": 865,
+      "heading": "Title : Spheric Geom.",
+      "level": 2,
+      "start_line": 864
+    },
+    {
+      "anchor": "date-03-09-77",
+      "end_line": 871,
+      "heading": "Date 03/09/77",
+      "level": 2,
+      "start_line": 866
+    },
+    {
+      "anchor": "intost-302-nop1",
+      "end_line": 875,
+      "heading": "Intost-302,Nop1.",
+      "level": 2,
+      "start_line": 872
+    },
+    {
+      "anchor": "title-spheric-geom",
+      "end_line": 877,
+      "heading": "Title : Spheric Geom.",
+      "level": 2,
+      "start_line": 876
+    },
+    {
+      "anchor": "date-3-09-7",
+      "end_line": 887,
+      "heading": "Date 3/09/7",
+      "level": 2,
+      "start_line": 878
+    },
+    {
+      "anchor": "where",
+      "end_line": 891,
+      "heading": "Where",
+      "level": 2,
+      "start_line": 888
+    },
+    {
+      "anchor": "shl-steady-state-in-the-flanket-in-kc",
+      "end_line": 893,
+      "heading": "Shl = Steady State In The Flanket In Kc.",
+      "level": 2,
+      "start_line": 892
+    },
+    {
+      "anchor": "fhl-flow-fiss-paras-in-blanket-in-kg-year",
+      "end_line": 895,
+      "heading": "Fhl = Flow Fiss. + Paras. In Blanket In Kg / Year",
+      "level": 2,
+      "start_line": 894
+    },
+    {
+      "anchor": "ftr-flow-for-transmutation-in-fk-year",
+      "end_line": 897,
+      "heading": "Ftr = Flow For Transmutation In Fk / Year",
+      "level": 2,
+      "start_line": 896
+    },
+    {
+      "anchor": "sc-steady-state-in-the-core-in-kg",
+      "end_line": 899,
+      "heading": "Sc = Steady State In The Core In Kg",
+      "level": 2,
+      "start_line": 898
+    },
+    {
+      "anchor": "ffp-flow-fiss-parasitic-in-core-in-kg-year",
+      "end_line": 901,
+      "heading": "Ffp = Flow Fiss. + Parasitic In Core In Kg / Year",
+      "level": 2,
+      "start_line": 900
+    },
+    {
+      "anchor": "fcs-flow-to-the-core-of-planket-in-kg-year",
+      "end_line": 903,
+      "heading": "Fcs = Flow To The Core Of Planket In Kg / Year",
+      "level": 2,
+      "start_line": 902
+    },
+    {
+      "anchor": "flk-flowto-reprocess-and-return-in-kg-year",
+      "end_line": 905,
+      "heading": "Flk = Flowto Reprocess And Return In Kg / Year",
+      "level": 2,
+      "start_line": 904
+    },
+    {
+      "anchor": "she-steady-state-in-the-re-processing-in-kc",
+      "end_line": 907,
+      "heading": "She = Steady State In The Re-Processing In Kc",
+      "level": 2,
+      "start_line": 906
+    },
+    {
+      "anchor": "fwa-flow-to-the-waste-in-kg-year",
+      "end_line": 909,
+      "heading": "Fwa = Flow To The Waste In Kg / Year",
+      "level": 2,
+      "start_line": 908
+    },
+    {
+      "anchor": "fnw-flow-to-the-new-in-kg-year",
+      "end_line": 911,
+      "heading": "Fnw = Flow To The New In Kg / Year",
+      "level": 2,
+      "start_line": 910
+    },
+    {
+      "anchor": "snw-in-the-new-after-dtime-in-pc",
+      "end_line": 966,
+      "heading": "Snw In The New After Dtime In Pc",
+      "level": 2,
+      "start_line": 912
+    },
+    {
+      "anchor": "intermediate-zone",
+      "end_line": 983,
+      "heading": "Intermediate Zone : -",
+      "level": 2,
+      "start_line": 967
+    },
+    {
+      "anchor": "breeding-ratio",
+      "end_line": 1028,
+      "heading": "Breeding Ratio :",
+      "level": 2,
+      "start_line": 984
+    },
+    {
+      "anchor": "2-3-material-balance-of-the-state-reactor",
+      "end_line": 1032,
+      "heading": "2.3 Material balance of the state reactor",
+      "level": 1,
+      "start_line": 1029
+    },
+    {
+      "anchor": "2-4-conclusions",
+      "end_line": 1039,
+      "heading": "2.4 Conclusions",
+      "level": 1,
+      "start_line": 1033
+    },
+    {
+      "anchor": "3-1-the-three-zone-reactor",
+      "end_line": 1041,
+      "heading": "3.1 THE THREE ZONE REACTOR",
+      "level": 1,
+      "start_line": 1040
+    },
+    {
+      "anchor": "3-1-1-introduction",
+      "end_line": 1053,
+      "heading": "3.1.1 Introduction",
+      "level": 1,
+      "start_line": 1042
+    },
+    {
+      "anchor": "3-1-2-the-three-zone-breeder-with-thorium-uranium-233",
+      "end_line": 1061,
+      "heading": "3.1.2 The three zone breeder with thorium/uranium-233",
+      "level": 1,
+      "start_line": 1054
+    },
+    {
+      "anchor": "3-2-a-three-zone-breeder-reactor-with-a-mixed-fuel-cycle-u-238-pu-239-plus-th-232-u-233",
+      "end_line": 1075,
+      "heading": "3.2 A Three zone breeder reactor with a mixed fuel cycle U-238/Pu-239 plus Th-232/U-233",
+      "level": 1,
+      "start_line": 1062
+    },
+    {
+      "anchor": "table-3-1",
+      "end_line": 1103,
+      "heading": "Table 3.1",
+      "level": 1,
+      "start_line": 1076
+    },
+    {
+      "anchor": "breeding-ratio-1-09-1-14",
+      "end_line": 1126,
+      "heading": "Breeding Ratio : 1.09 - 1.14",
+      "level": 2,
+      "start_line": 1104
+    },
+    {
+      "anchor": "thocl-300",
+      "end_line": 1136,
+      "heading": "[Thocl-300]",
+      "level": 2,
+      "start_line": 1127
+    },
+    {
+      "anchor": "thocl-301",
+      "end_line": 1166,
+      "heading": "(Thocl-301)",
+      "level": 2,
+      "start_line": 1137
+    },
+    {
+      "anchor": "3-3-the-three-zone-reactor-uranium-plutonium-fuel-cycle",
+      "end_line": 1180,
+      "heading": "3.3 The three zone reactor - uranium-plutonium fuel cycle",
+      "level": 1,
+      "start_line": 1167
+    },
+    {
+      "anchor": "table-3-5",
+      "end_line": 1207,
+      "heading": "Table 3.5",
+      "level": 1,
+      "start_line": 1181
+    },
+    {
+      "anchor": "calculation",
+      "end_line": 1229,
+      "heading": "Calculation :",
+      "level": 2,
+      "start_line": 1208
+    },
+    {
+      "anchor": "3-4-the-three-zone-breeder-reactor-very-high-breeding-gain",
+      "end_line": 1321,
+      "heading": "3.4 The three zone breeder reactor: Very high breeding gain",
+      "level": 1,
+      "start_line": 1230
+    },
+    {
+      "anchor": "a-0-15",
+      "end_line": 1323,
+      "heading": "A $= 0.15$",
+      "level": 2,
+      "start_line": 1322
+    },
+    {
+      "anchor": "l-0-15",
+      "end_line": 1516,
+      "heading": "口 $+$ L =0.15",
+      "level": 2,
+      "start_line": 1324
+    },
+    {
+      "anchor": "3-6-high-flux-reactor-with-fluoride-fuel",
+      "end_line": 1545,
+      "heading": "3.6 High Flux Reactor with Fluoride Fuel",
+      "level": 1,
+      "start_line": 1517
+    },
+    {
+      "anchor": "4-a-high-flux-burner-reactor-for-transmutation",
+      "end_line": 1568,
+      "heading": "4. A HIGH FLUX BURNER REACTOR FOR TRANSMUTATION",
+      "level": 2,
+      "start_line": 1546
+    },
+    {
+      "anchor": "tutu-daper",
+      "end_line": 1589,
+      "heading": "Tutu Daper",
+      "level": 2,
+      "start_line": 1569
+    },
+    {
+      "anchor": "comment",
+      "end_line": 1607,
+      "heading": "Comment",
+      "level": 1,
+      "start_line": 1590
+    },
+    {
+      "anchor": "comment",
+      "end_line": 1611,
+      "heading": "Comment",
+      "level": 1,
+      "start_line": 1608
+    },
+    {
+      "anchor": "4-1-2-why-some-opinions-concerning-transmutations-in-a-fission-reactor-are-rather-pessimistic",
+      "end_line": 1621,
+      "heading": "4.1.2 Why some opinions concerning transmutations in a fission reactor are rather pessimistic",
+      "level": 1,
+      "start_line": 1612
+    },
+    {
+      "anchor": "comment",
+      "end_line": 1731,
+      "heading": "Comment",
+      "level": 1,
+      "start_line": 1622
+    },
+    {
+      "anchor": "4-1-5-is-the-rate-of-transmutation-sufficient",
+      "end_line": 2141,
+      "heading": "4.1.5 Is the rate of transmutation sufficient?",
+      "level": 1,
+      "start_line": 1732
+    },
+    {
+      "anchor": "4-1-8-the-liquid-fuelled-fast-reactor-with-central-thermal-zone",
+      "end_line": 2173,
+      "heading": "4.1.8 The liquid-fuelled fast reactor with central thermal zone",
+      "level": 1,
+      "start_line": 2142
+    },
+    {
+      "anchor": "4-2-the-neutron-physical-aspects-of-the-high-flux-reactor",
+      "end_line": 2175,
+      "heading": "4.2 The Neutron-physical Aspects of the High Flux Reactor",
+      "level": 1,
+      "start_line": 2174
+    },
+    {
+      "anchor": "4-2-1-introduction",
+      "end_line": 2192,
+      "heading": "4.2.1 Introduction",
+      "level": 1,
+      "start_line": 2176
+    },
+    {
+      "anchor": "4-2-2-neutronic-calculations",
+      "end_line": 2196,
+      "heading": "4.2.2 Neutronic calculations",
+      "level": 1,
+      "start_line": 2193
+    },
+    {
+      "anchor": "4-2-3-moderation-requirements",
+      "end_line": 2218,
+      "heading": "4.2.3 Moderation requirements",
+      "level": 1,
+      "start_line": 2197
+    },
+    {
+      "anchor": "object-high-flux-burner-reactor-with-thermal-zone",
+      "end_line": 2221,
+      "heading": "Object: High Flux Burner Reactor With Thermal Zone",
+      "level": 2,
+      "start_line": 2219
+    },
+    {
+      "anchor": "reactorytyper",
+      "end_line": 2235,
+      "heading": "Reactorytyper:",
+      "level": 2,
+      "start_line": 2222
+    },
+    {
+      "anchor": "breeding-ratio",
+      "end_line": 2243,
+      "heading": "Breeding Ratio : -",
+      "level": 2,
+      "start_line": 2236
+    },
+    {
+      "anchor": "method-of-neutronic-anisn-s4",
+      "end_line": 2245,
+      "heading": "Method Of Neutronic: Anisn S4",
+      "level": 2,
+      "start_line": 2244
+    },
+    {
+      "anchor": "p1-app",
+      "end_line": 2246,
+      "heading": ": P1 App.",
+      "level": 2,
+      "start_line": 2246
+    },
+    {
+      "anchor": "gcc3-code",
+      "end_line": 2279,
+      "heading": ": Gcc3 Code",
+      "level": 2,
+      "start_line": 2247
+    },
+    {
+      "anchor": "4-2-4-influence-of-other-parameters",
+      "end_line": 2317,
+      "heading": "4.2.4 Influence of other parameters",
+      "level": 1,
+      "start_line": 2280
+    },
+    {
+      "anchor": "4-3-thermohydraulic-considerations",
+      "end_line": 2385,
+      "heading": "4.3 Thermohydraulic considerations",
+      "level": 1,
+      "start_line": 2318
+    },
+    {
+      "anchor": "4-4-some-results",
+      "end_line": 2433,
+      "heading": "4.4 Some results",
+      "level": 1,
+      "start_line": 2386
+    },
+    {
+      "anchor": "4-6-comments-on-hazard-coefficients",
+      "end_line": 2466,
+      "heading": "4.6 Comments on hazard coefficients",
+      "level": 1,
+      "start_line": 2434
+    },
+    {
+      "anchor": "4-7-secondary-processes",
+      "end_line": 2494,
+      "heading": "4.7 Secondary processes",
+      "level": 1,
+      "start_line": 2467
+    },
+    {
+      "anchor": "4-8-conclusions",
+      "end_line": 2517,
+      "heading": "4.8 Conclusions",
+      "level": 1,
+      "start_line": 2495
+    },
+    {
+      "anchor": "5-1-design-features-and-objectives",
+      "end_line": 2541,
+      "heading": "5.1 Design features and objectives",
+      "level": 1,
+      "start_line": 2518
+    },
+    {
+      "anchor": "65-238uc13",
+      "end_line": 2555,
+      "heading": "65% 238Uc13",
+      "level": 2,
+      "start_line": 2542
+    },
+    {
+      "anchor": "object-internal-cooled-fast-breeder-power-reactor",
+      "end_line": 2558,
+      "heading": "Object: Internal Cooled Fast Breeder Power Reactor",
+      "level": 2,
+      "start_line": 2556
+    },
+    {
+      "anchor": "reactor-type",
+      "end_line": 2577,
+      "heading": "Reactor Type :",
+      "level": 2,
+      "start_line": 2559
+    },
+    {
+      "anchor": "breeding-ratio-1-38",
+      "end_line": 2588,
+      "heading": "Breeding Ratio: 1.38",
+      "level": 2,
+      "start_line": 2578
+    },
+    {
+      "anchor": "method-of-neutronic-anisn-s4",
+      "end_line": 2590,
+      "heading": "Method Of Neutronic : Anisn S4",
+      "level": 2,
+      "start_line": 2589
+    },
+    {
+      "anchor": "p1-app",
+      "end_line": 2591,
+      "heading": ": P1 App.",
+      "level": 2,
+      "start_line": 2591
+    },
+    {
+      "anchor": "gccb-code",
+      "end_line": 2617,
+      "heading": ": Gccb Code",
+      "level": 2,
+      "start_line": 2592
+    },
+    {
+      "anchor": "chlorophil",
+      "end_line": 2633,
+      "heading": "\"Chlorophil\"",
+      "level": 2,
+      "start_line": 2618
+    },
+    {
+      "anchor": "5-3-neutron-physics-according-to-j-ligou-1972",
+      "end_line": 2883,
+      "heading": "5.3 Neutron Physics (according to J. Ligou, 1972)",
+      "level": 1,
+      "start_line": 2634
+    },
+    {
+      "anchor": "5-4-safety-problems-comments",
+      "end_line": 2894,
+      "heading": "5.4 Safety Problems, Comments",
+      "level": 1,
+      "start_line": 2884
+    },
+    {
+      "anchor": "6-chemical-and-related-problems",
+      "end_line": 2896,
+      "heading": "6. CHEMICAL AND RELATED PROBLEMS",
+      "level": 1,
+      "start_line": 2895
+    },
+    {
+      "anchor": "6-1-physical-and-chemical-criteria-for-salt-components",
+      "end_line": 2927,
+      "heading": "6.1 Physical and chemical criteria for salt components",
+      "level": 1,
+      "start_line": 2897
+    },
+    {
+      "anchor": "f1-6-4",
+      "end_line": 2965,
+      "heading": "F1. 6.4",
+      "level": 2,
+      "start_line": 2928
+    },
+    {
+      "anchor": "6-2-corrosion-of-structural-material",
+      "end_line": 2967,
+      "heading": "6.2 Corrosion of structural material",
+      "level": 1,
+      "start_line": 2966
+    },
+    {
+      "anchor": "6-2-1-general-criteria",
+      "end_line": 2999,
+      "heading": "6.2.1 General criteria",
+      "level": 1,
+      "start_line": 2968
+    },
+    {
+      "anchor": "6-2-2-molybdenum-as-structural-material",
+      "end_line": 3043,
+      "heading": "6.2.2 Molybdenum as structural material",
+      "level": 1,
+      "start_line": 3000
+    },
+    {
+      "anchor": "6-2-3-the-irradiation-of-molybdenum-and-iron-in-a-fast-high-flux-reactor",
+      "end_line": 3085,
+      "heading": "6.2.3 The irradiation of molybdenum and iron in a fast high flux reactor",
+      "level": 1,
+      "start_line": 3044
+    },
+    {
+      "anchor": "6-2-fission-product-behaviour-in-the-fuel",
+      "end_line": 3129,
+      "heading": "6.2 Fission product behaviour in the fuel",
+      "level": 1,
+      "start_line": 3086
+    },
+    {
+      "anchor": "6-4-some-comments-on-reprocessing",
+      "end_line": 3161,
+      "heading": "6.4 Some comments on reprocessing",
+      "level": 1,
+      "start_line": 3130
+    },
+    {
+      "anchor": "6-5-in-core-continuous-gas-purging",
+      "end_line": 3163,
+      "heading": "6.5 In-core continuous gas purging",
+      "level": 1,
+      "start_line": 3162
+    },
+    {
+      "anchor": "6-5-1-the-proposal",
+      "end_line": 3180,
+      "heading": "6.5.1 The proposal",
+      "level": 1,
+      "start_line": 3164
+    },
+    {
+      "anchor": "6-5-2-delayed-neutron-emitters",
+      "end_line": 3231,
+      "heading": "6.5.2 Delayed neutron emitters",
+      "level": 1,
+      "start_line": 3181
+    },
+    {
+      "anchor": "7-experimental-work",
+      "end_line": 3239,
+      "heading": "7. EXPERIMENTAL WORK",
+      "level": 1,
+      "start_line": 3232
+    },
+    {
+      "anchor": "experimental",
+      "end_line": 3247,
+      "heading": "EXPERIMENTAL",
+      "level": 1,
+      "start_line": 3240
+    },
+    {
+      "anchor": "results-and-discussions",
+      "end_line": 3287,
+      "heading": "Results and discussions",
+      "level": 1,
+      "start_line": 3248
+    },
+    {
+      "anchor": "experimental",
+      "end_line": 3295,
+      "heading": "Experimental",
+      "level": 1,
+      "start_line": 3288
+    },
+    {
+      "anchor": "results-and-discussions",
+      "end_line": 3307,
+      "heading": "Results and discussions",
+      "level": 1,
+      "start_line": 3296
+    },
+    {
+      "anchor": "8-thermohydraulics",
+      "end_line": 3309,
+      "heading": "8. THERMOHYDRAULICS",
+      "level": 1,
+      "start_line": 3308
+    },
+    {
+      "anchor": "8-1-introduction",
+      "end_line": 3319,
+      "heading": "8.1 Introduction",
+      "level": 1,
+      "start_line": 3310
+    },
+    {
+      "anchor": "8-2-high-flux-reactor-with-the-core-as-a-spherical-shell",
+      "end_line": 3386,
+      "heading": "8.2 High Flux reactor with the core as a spherical shell",
+      "level": 1,
+      "start_line": 3320
+    },
+    {
+      "anchor": "8-3-power-reactor-with-spherical-core",
+      "end_line": 3428,
+      "heading": "8.3 Power Reactor with spherical core",
+      "level": 1,
+      "start_line": 3387
+    },
+    {
+      "anchor": "8-4-the-external-heat-exchanger",
+      "end_line": 3482,
+      "heading": "8.4 The external heat exchanger",
+      "level": 1,
+      "start_line": 3429
+    },
+    {
+      "anchor": "8-5-the-internally-cooled-reactor",
+      "end_line": 3551,
+      "heading": "8.5 The internally cooled reactor",
+      "level": 1,
+      "start_line": 3483
+    },
+    {
+      "anchor": "9-references",
+      "end_line": 3571,
+      "heading": "9. REFERENCES",
+      "level": 1,
+      "start_line": 3552
+    },
+    {
+      "anchor": "tm-hl-270-1973",
+      "end_line": 3633,
+      "heading": "Tm-Hl-270 (1973)",
+      "level": 2,
+      "start_line": 3572
+    },
+    {
+      "anchor": "tm-hl-259-1975",
+      "end_line": 3696,
+      "heading": "Tm-Hl-259 (1975)",
+      "level": 2,
+      "start_line": 3634
+    },
+    {
+      "anchor": "anl-6792-1963",
+      "end_line": 3724,
+      "heading": "Anl-6792 (1963)",
+      "level": 2,
+      "start_line": 3697
+    },
+    {
+      "anchor": "9-3-publications-concerning-transmutation",
+      "end_line": 3745,
+      "heading": "9.3 Publications concerning transmutation",
+      "level": 1,
+      "start_line": 3725
+    },
+    {
+      "anchor": "a-e-c-l-3037-1968",
+      "end_line": 3749,
+      "heading": "A.E.C.L. - 3037 (1968)",
+      "level": 2,
+      "start_line": 3746
+    },
+    {
+      "anchor": "aere-r-6056-1969",
+      "end_line": 3763,
+      "heading": "Aere-R-6056 (1969)",
+      "level": 2,
+      "start_line": 3750
+    },
+    {
+      "anchor": "aaec-tm-619-1972",
+      "end_line": 3769,
+      "heading": "Aaec-Tm-619 (1972)",
+      "level": 2,
+      "start_line": 3764
+    },
+    {
+      "anchor": "ornl-tm-3964-1972",
+      "end_line": 3902,
+      "heading": "Ornl-Tm-3964 (1972)",
+      "level": 2,
+      "start_line": 3770
+    }
+  ],
+  "source_dir": "pdf/EIR-332",
+  "tables": [],
+  "title": "Eidg. Institut für Reaktorforschung Würenlingen Schweiz",
+  "topics": [
+    "reactor-physics-neutronics",
+    "breeder-and-converter-design",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "irradiation-and-damage",
+    "pumps-loops-and-heat-exchangers",
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "authors": [
+    "MASTER",
+    "W.E.Clark R. E.Blanco",
+    "M",
+    "BLANK PAGE",
+    "Scientific",
+    "Technical Information",
+    "National Bureau of Standards",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4473.jsonl",
+  "date_text": "1970",
+  "doc_id": "ornl-4473",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          374
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          111,
+          128,
+          238
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 17,
+        "line_hits": [
+          13,
+          67,
+          101,
+          171,
+          180,
+          299,
+          302,
+          305,
+          323,
+          356,
+          367,
+          369,
+          371,
+          373,
+          376,
+          384,
+          385
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          17,
+          77,
+          111,
+          360
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          15,
+          73
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          368
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 33,
+        "line_hits": [
+          101,
+          103,
+          105,
+          113,
+          126,
+          139,
+          150,
+          152,
+          158,
+          172,
+          182,
+          186,
+          196,
+          208,
+          224,
+          238,
+          242,
+          246,
+          248,
+          268,
+          270,
+          278,
+          286,
+          289,
+          294,
+          309,
+          311,
+          317,
+          328,
+          336,
+          342,
+          344,
+          356
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          103,
+          139,
+          154,
+          174
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          156
+        ],
+        "name": "single-fluid breeder"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          156,
+          179
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7cb46009f1f7092d4bdd8f8223132c0e54869efabe01a34518f61397721816ea",
+  "markdown_path": "pdf/ORNL-4473/ORNL-4473/hybrid_ocr/ORNL-4473.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 39,
+  "sections": [
+    {
+      "anchor": "crnl-4473",
+      "end_line": 4,
+      "heading": "Crnl-4473",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 12,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 16,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 20,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "blank-page",
+      "end_line": 30,
+      "heading": "BLANK PAGE",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "blank-page",
+      "end_line": 43,
+      "heading": "BLANK PAGE",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 45,
+      "heading": "CHEMICAL TECHNOLOGY DIVISION",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "chemical-development-section-b",
+      "end_line": 47,
+      "heading": "Chemical Development Section B",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "encapsulation-of-noble-fission-product-gases-in-solid-media-prior-to-transportation-and-storage",
+      "end_line": 53,
+      "heading": "ENCAPSULATION OF NOBLE FISSION PRODUCT GASES IN SOLID MEDIA PRIOR TO TRANSPORTATION AND STORAGE",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 64,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "february-1970",
+      "end_line": 66,
+      "heading": "February 1970",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 72,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 76,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 78,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "contents",
+      "end_line": 92,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "encapsulation-of-noele-fission-product-gases-in-solid-media-prior-to-transportation-and-storage",
+      "end_line": 98,
+      "heading": "ENCapsulation OF NOELE FISSION PRODUCT GASES IN SOLID MEDIA PRIOR TO TRANSPORTATION AND STORAGE",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 106,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "blank-page",
+      "end_line": 108,
+      "heading": "BLANK PAGE",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 123,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "2-assumptions-for-survey-and-safety-criteria",
+      "end_line": 136,
+      "heading": "2. ASSUMPTIONS FOR SURVEY AND SAFETY CRITERIA",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "3-estimated-volumes-of-fission-product-gases",
+      "end_line": 140,
+      "heading": "3. ESTIMATED VOLUMES OF FISSION PRODUCT GASES",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "3-1-case-1-the-liquid-metal-cooled-fast-breeder-reactor-lmfbr",
+      "end_line": 153,
+      "heading": "3.1 Case 1: The Liquid Metal-Cooled Fast Breeder Reactor (LMFBR)",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "3-2-case-2-the-molten-salt-breeder-reactor-msbr",
+      "end_line": 183,
+      "heading": "3.2 Case 2: The Molten Salt Breeder Reactor (MSBR)",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "3-3-case-3-pressurized-water-reactor-pwr-1",
+      "end_line": 187,
+      "heading": "3.3 Case 3: Pressurized Water Reactor (PWR-1)",
+      "level": 1,
+      "start_line": 184
+    },
+    {
+      "anchor": "4-alternative-methods-for-secondary-containment",
+      "end_line": 189,
+      "heading": "4. ALTERNATIVE METHODS FOR SECONDARY CONTAINMENT",
+      "level": 1,
+      "start_line": 188
+    },
+    {
+      "anchor": "4-1-general-considerations",
+      "end_line": 211,
+      "heading": "4.1 General Considerations",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "4-2-factors-affecting-choice-of-matrix",
+      "end_line": 221,
+      "heading": "4.2 Factors Affecting Choice of Matrix",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "4-2-1-glass",
+      "end_line": 225,
+      "heading": "4.2.1 Glass",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "4-2-2-plastics",
+      "end_line": 243,
+      "heading": "4.2.2 Plastics",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "4-2-3-metals",
+      "end_line": 249,
+      "heading": "4.2.3 Metals",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "4-3-comparison-of-specific-methods",
+      "end_line": 251,
+      "heading": "4.3 Comparison of Specific Methods",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "4-3-1-cylinder-storage",
+      "end_line": 255,
+      "heading": "4.3.1 Cylinder Storage",
+      "level": 1,
+      "start_line": 252
+    },
+    {
+      "anchor": "4-3-2-incorporation-of-loaded-capsules-loaded-zeolites-and-clathrates-into-stable-media",
+      "end_line": 283,
+      "heading": "4.3.2 Incorporation of Loaded Capsules, Loaded Zeolites and Clathrates into Stable Media",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "4-3-3-direct-dispersions-of-gas-in-stable-matrices",
+      "end_line": 322,
+      "heading": "4.3.3 Direct Dispersions of Gas in Stable Matrices",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "ornl-dwg-69-13611",
+      "end_line": 331,
+      "heading": "Ornl Dwg. 69-13611",
+      "level": 2,
+      "start_line": 323
+    },
+    {
+      "anchor": "5-discussion-conclusions-and-recommendations",
+      "end_line": 353,
+      "heading": "5. DISCUSSION, CONCLUSIONS, AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 332
+    },
+    {
+      "anchor": "6-acknowledgment",
+      "end_line": 357,
+      "heading": "6. ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "7-references",
+      "end_line": 385,
+      "heading": "7. REFERENCES",
+      "level": 1,
+      "start_line": 358
+    }
+  ],
+  "source_dir": "pdf/ORNL-4473",
+  "tables": [],
+  "title": "CRNL-4473",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing",
+    "reactor-operations",
+    "irradiation-and-damage",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "authors": [
+    "REACTIVITY BALANCE CALCULATIONS AND",
+    "LONG-TERM REACTIVITY BEHAVIOR",
+    "B. E. Prince",
+    "J.R. Engel",
+    "C. H. Gabbard",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4674.jsonl",
+  "date_text": "1972",
+  "doc_id": "ornl-4674",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 51,
+        "line_hits": [
+          83,
+          109,
+          116,
+          474,
+          477,
+          478,
+          482,
+          545,
+          549,
+          551,
+          553,
+          591,
+          601,
+          607,
+          609,
+          621,
+          639,
+          651,
+          691,
+          751,
+          755,
+          761,
+          763,
+          787,
+          794,
+          799,
+          816,
+          818,
+          821,
+          823,
+          825,
+          827,
+          864,
+          866,
+          868,
+          870,
+          880,
+          886,
+          888,
+          890,
+          893,
+          895,
+          897,
+          907,
+          957,
+          963,
+          1013,
+          1021,
+          1025,
+          1178
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          478
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          801
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 26,
+        "line_hits": [
+          109,
+          209,
+          211,
+          225,
+          233,
+          243,
+          273,
+          411,
+          419,
+          421,
+          456,
+          466,
+          505,
+          510,
+          933,
+          971,
+          977,
+          981,
+          1021,
+          1027,
+          1053,
+          1123,
+          1126,
+          1130,
+          1206,
+          1404
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          480,
+          505,
+          591,
+          595,
+          597,
+          605,
+          647,
+          1076,
+          1078,
+          1093,
+          1123,
+          1138,
+          1140,
+          1142,
+          1162,
+          1168,
+          1172,
+          1178
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          520,
+          557,
+          595,
+          601,
+          1007,
+          1045,
+          1047,
+          1076,
+          1121,
+          1123
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          520,
+          814,
+          1047
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          477,
+          591
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          799,
+          1095
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1047
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 32,
+        "line_hits": [
+          3,
+          21,
+          63,
+          959,
+          1243,
+          1244,
+          1245,
+          1246,
+          1247,
+          1248,
+          1249,
+          1250,
+          1252,
+          1253,
+          1254,
+          1255,
+          1256,
+          1257,
+          1258,
+          1259,
+          1260,
+          1261,
+          1264,
+          1265,
+          1266,
+          1268,
+          1269,
+          1271,
+          1273,
+          1274,
+          1275,
+          1276
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          29,
+          51,
+          63,
+          1483,
+          1484,
+          1486,
+          1487,
+          1488,
+          1490,
+          1491,
+          1493,
+          1494,
+          1495,
+          1496,
+          1498
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          25,
+          63
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 83,
+        "line_hits": [
+          11,
+          55,
+          79,
+          83,
+          109,
+          140,
+          142,
+          148,
+          168,
+          177,
+          271,
+          411,
+          419,
+          442,
+          454,
+          456,
+          458,
+          460,
+          464,
+          478,
+          480,
+          499,
+          543,
+          549,
+          551,
+          564,
+          582,
+          584,
+          587,
+          591,
+          593,
+          613,
+          616,
+          619,
+          641,
+          643,
+          653,
+          689,
+          789,
+          794,
+          797,
+          799,
+          816,
+          818,
+          821,
+          888,
+          893,
+          907,
+          933,
+          935
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 82,
+        "line_hits": [
+          148,
+          160,
+          162,
+          164,
+          173,
+          177,
+          179,
+          187,
+          209,
+          225,
+          243,
+          247,
+          281,
+          293,
+          331,
+          361,
+          377,
+          411,
+          419,
+          421,
+          423,
+          442,
+          446,
+          452,
+          454,
+          464,
+          466,
+          474,
+          478,
+          490,
+          492,
+          494,
+          503,
+          507,
+          534,
+          536,
+          551,
+          557,
+          582,
+          584,
+          591,
+          613,
+          653,
+          655,
+          681,
+          689,
+          717,
+          787,
+          789,
+          791
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          166
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1487
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          456
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          903,
+          905
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          142,
+          799
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "b8054a7930221f10087db8495650e96ddec7b40324f74810039618d61bf69744",
+  "markdown_path": "pdf/ORNL-4674/ORNL-4674/hybrid_ocr/ORNL-4674.md",
+  "report_number": "ORNL-4674",
+  "report_numbers": [
+    "ORNL-4674"
+  ],
+  "report_series": null,
+  "section_count": 62,
+  "sections": [
+    {
+      "anchor": "ornl-4674",
+      "end_line": 6,
+      "heading": "Ornl-4674",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "reactivity-balance-calculations-and",
+      "end_line": 8,
+      "heading": "Reactivity Balance Calculations And",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "long-term-reactivity-behavior",
+      "end_line": 10,
+      "heading": "Long-Term Reactivity Behavior",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "with-235-u-in-the-msre",
+      "end_line": 20,
+      "heading": "With 235 U In The Msre",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 28,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "oak-ridge-natural-laguarcy-central-research-library",
+      "end_line": 32,
+      "heading": "Oak Ridge Natural Laguarcy Central Research Library",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "library-loan-cdpv",
+      "end_line": 34,
+      "heading": "LIBRARY LOAN CDPV",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 60,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "february-1972",
+      "end_line": 64,
+      "heading": "February 1972",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "contents",
+      "end_line": 68,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "abstract-v",
+      "end_line": 70,
+      "heading": "ABSTRACT V",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 71,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "2-theoretical-foundations-of-the-reactivity-balance-3",
+      "end_line": 78,
+      "heading": "2. THEORETICAL FOUNDATIONS OF THE REACTIVITY BALANCE 3",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "3-description-of-individual-reactivity-effects-in-the-msre-22",
+      "end_line": 84,
+      "heading": "3. DESCRIPTION OF INDIVIDUAL REACTIVITY EFFECTS IN THE MSRE 22",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "4-sources-of-data-and-parameter-calculations-57",
+      "end_line": 92,
+      "heading": "4. SOURCES OF DATA AND PARAMETER CALCULATIONS 57",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "5-experience-with-the-reactivity-balance-68",
+      "end_line": 98,
+      "heading": "5. EXPERIENCE WITH THE REACTIVITY BALANCE 68",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "6-conclusions-89",
+      "end_line": 100,
+      "heading": "6. CONCLUSIONS 89",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "references-91",
+      "end_line": 102,
+      "heading": "References 91",
+      "level": 2,
+      "start_line": 101
+    },
+    {
+      "anchor": "appendix-95",
+      "end_line": 106,
+      "heading": "Appendix 95",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 137,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 149,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "2-theoretical-foundations-of-the-reactivity-balance",
+      "end_line": 151,
+      "heading": "2. THEORETICAL FOUNDATIONS OF THE REACTIVITY BALANCE",
+      "level": 1,
+      "start_line": 150
+    },
+    {
+      "anchor": "2-1-general-considerations",
+      "end_line": 244,
+      "heading": "2.1 General Considerations",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "2-2-simplifications",
+      "end_line": 308,
+      "heading": "2.2 Simplifications",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "2-3-approximate-techniques-in-calculation",
+      "end_line": 416,
+      "heading": "2.3 Approximate Techniques in Calculation",
+      "level": 1,
+      "start_line": 309
+    },
+    {
+      "anchor": "2-4-reactivity-measurements",
+      "end_line": 459,
+      "heading": "2.4 Reactivity Measurements",
+      "level": 1,
+      "start_line": 417
+    },
+    {
+      "anchor": "3-description-of-individual-reactivity-effects-in-the-msre",
+      "end_line": 461,
+      "heading": "3. DESCRIPTION OF INDIVIDUAL REACTIVITY EFFECTS IN THE MSRE",
+      "level": 1,
+      "start_line": 460
+    },
+    {
+      "anchor": "3-1-reference-conditions",
+      "end_line": 469,
+      "heading": "3.1 Reference Conditions",
+      "level": 1,
+      "start_line": 462
+    },
+    {
+      "anchor": "3-2-the-general-reactivity-balance-equation",
+      "end_line": 495,
+      "heading": "3.2 The General Reactivity Balance Equation",
+      "level": 1,
+      "start_line": 470
+    },
+    {
+      "anchor": "reactivity-effects",
+      "end_line": 500,
+      "heading": "Reactivity Effects:",
+      "level": 2,
+      "start_line": 496
+    },
+    {
+      "anchor": "control-rod-reactivity-worth",
+      "end_line": 517,
+      "heading": "Control-rod reactivity worth",
+      "level": 1,
+      "start_line": 501
+    },
+    {
+      "anchor": "excess-235-mathrm-u-reactivity-worth",
+      "end_line": 537,
+      "heading": "Excess $^{235}\\mathrm{U}$ reactivity worth",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "temperature-reactivity-effect",
+      "end_line": 546,
+      "heading": "Temperature reactivity effect",
+      "level": 1,
+      "start_line": 538
+    },
+    {
+      "anchor": "power-coefficient-of-reactivity",
+      "end_line": 554,
+      "heading": "Power coefficient of reactivity",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "samarium-poisoning",
+      "end_line": 588,
+      "heading": "Samarium poisoning",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "135xe-poisoning",
+      "end_line": 648,
+      "heading": "135Xe poisoning",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "other-nuclide-transmutation-effects",
+      "end_line": 815,
+      "heading": "Other nuclide transmutation effects",
+      "level": 1,
+      "start_line": 649
+    },
+    {
+      "anchor": "3-3-influence-of-graphite-irradiation-damage-on-the-msre-reactivity-balance",
+      "end_line": 824,
+      "heading": "3.3 Influence of Graphite Irradiation Damage on the MSRE Reactivity Balance",
+      "level": 1,
+      "start_line": 816
+    },
+    {
+      "anchor": "calculation-of-graphite-displacement",
+      "end_line": 871,
+      "heading": "Calculation of graphite displacement",
+      "level": 1,
+      "start_line": 825
+    },
+    {
+      "anchor": "conversion-to-reactivity-effects",
+      "end_line": 898,
+      "heading": "Conversion to reactivity effects",
+      "level": 1,
+      "start_line": 872
+    },
+    {
+      "anchor": "4-sources-of-data-and-parameter-calculations",
+      "end_line": 900,
+      "heading": "4. SOURCES OF DATA AND PARAMETER CALCULATIONS",
+      "level": 1,
+      "start_line": 899
+    },
+    {
+      "anchor": "4-1-initial-nuclide-concentrations",
+      "end_line": 910,
+      "heading": "4.1 Initial Nuclide Concentrations",
+      "level": 1,
+      "start_line": 901
+    },
+    {
+      "anchor": "4-2-average-reaction-cross-sections",
+      "end_line": 958,
+      "heading": "4.2 Average Reaction Cross Sections",
+      "level": 1,
+      "start_line": 911
+    },
+    {
+      "anchor": "ornl-dwg-71-9807",
+      "end_line": 1004,
+      "heading": "Ornl-Dwg 71-9807",
+      "level": 2,
+      "start_line": 959
+    },
+    {
+      "anchor": "4-3-neutron-flux-normalization",
+      "end_line": 1014,
+      "heading": "4.3 Neutron Flux Normalization",
+      "level": 1,
+      "start_line": 1005
+    },
+    {
+      "anchor": "4-4-flux-adjoint-flux-integrals-and-reactivity-parameters",
+      "end_line": 1022,
+      "heading": "4.4 Flux-Adjoint Flux Integrals and Reactivity Parameters",
+      "level": 1,
+      "start_line": 1015
+    },
+    {
+      "anchor": "4-5-effective-delayed-neutron-fractions",
+      "end_line": 1030,
+      "heading": "4.5 Effective Delayed-Neutron Fractions",
+      "level": 1,
+      "start_line": 1023
+    },
+    {
+      "anchor": "5-experience-with-the-reactivity-balance",
+      "end_line": 1032,
+      "heading": "5. EXPERIENCE WITH THE REACTIVITY BALANCE",
+      "level": 1,
+      "start_line": 1031
+    },
+    {
+      "anchor": "5-1-brief-history-of-nuclear-operations-with-235u",
+      "end_line": 1036,
+      "heading": "5.1 Brief History of Nuclear Operations with 235U",
+      "level": 1,
+      "start_line": 1033
+    },
+    {
+      "anchor": "5-2-results-of-on-line-reactivity-balance-calculations",
+      "end_line": 1048,
+      "heading": "5.2 Results of On-Line Reactivity Balance Calculations",
+      "level": 1,
+      "start_line": 1037
+    },
+    {
+      "anchor": "low-power-calculations",
+      "end_line": 1060,
+      "heading": "Low-power calculations",
+      "level": 1,
+      "start_line": 1049
+    },
+    {
+      "anchor": "intermediate-calculations",
+      "end_line": 1081,
+      "heading": "Intermediate calculations",
+      "level": 1,
+      "start_line": 1061
+    },
+    {
+      "anchor": "complete-calculations",
+      "end_line": 1148,
+      "heading": "Complete calculations",
+      "level": 1,
+      "start_line": 1082
+    },
+    {
+      "anchor": "december-1967-january-1968",
+      "end_line": 1189,
+      "heading": "December 1967 January 1968",
+      "level": 2,
+      "start_line": 1149
+    },
+    {
+      "anchor": "5-3-long-term-reactivity-trends",
+      "end_line": 1224,
+      "heading": "5.3 Long-Term Reactivity Trends",
+      "level": 1,
+      "start_line": 1190
+    },
+    {
+      "anchor": "6-conclusions",
+      "end_line": 1232,
+      "heading": "6. CONCLUSIONS",
+      "level": 1,
+      "start_line": 1225
+    },
+    {
+      "anchor": "references",
+      "end_line": 1277,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1233
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 1407,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 1278
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1480,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 1408
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1499,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1481
+    }
+  ],
+  "source_dir": "pdf/ORNL-4674",
+  "tables": [],
+  "title": "ORNL-4674",
+  "topics": [
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "irradiation-and-damage",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

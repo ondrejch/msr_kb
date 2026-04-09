@@ -1,0 +1,1929 @@
+{
+  "authors": [
+    "C. W. Forsberg",
+    "E. C. Beahm",
+    "L. R. Dole",
+    "A. S. Icenhour",
+    "S. N. Storch",
+    "E-mail: forsbergcw@ornl.gov",
+    "L.C.Lewis",
+    "E-mail: llewis@inel.gov",
+    "E. L. Youngblood",
+    "Advanced Integrated Management Services",
+    "Inc."
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-13553.jsonl",
+  "date_text": "June 1, 1999",
+  "doc_id": "ornl-tm-13553",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          1190,
+          1431,
+          2182
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2150
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1863
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1190
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 13,
+        "line_hits": [
+          663,
+          710,
+          713,
+          716,
+          1154,
+          1184,
+          1198,
+          1204,
+          1209,
+          1309,
+          1380,
+          2184,
+          2350
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1083
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 66,
+        "line_hits": [
+          7,
+          15,
+          178,
+          415,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          492,
+          729,
+          745,
+          753,
+          759,
+          763,
+          775,
+          789,
+          903,
+          973,
+          1221,
+          1228,
+          1291,
+          1340,
+          1457,
+          1613,
+          1615,
+          1617,
+          1627,
+          1687,
+          1713,
+          1715,
+          1889,
+          2141,
+          2142,
+          2149,
+          2152,
+          2156,
+          2161,
+          2164,
+          2168,
+          2169,
+          2170,
+          2171,
+          2177,
+          2179,
+          2180
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          1713,
+          1715,
+          2142,
+          2149,
+          2161,
+          2164,
+          2168,
+          2169,
+          2170,
+          2204,
+          2205,
+          2213,
+          2215,
+          2216,
+          2318,
+          2322,
+          2551
+        ],
+        "name": "Lockheed Martin"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          2061,
+          2072,
+          2193,
+          2206,
+          2208
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2139
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2156
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 266,
+        "line_hits": [
+          305,
+          478,
+          482,
+          492,
+          500,
+          502,
+          506,
+          514,
+          520,
+          522,
+          523,
+          525,
+          529,
+          537,
+          539,
+          551,
+          555,
+          559,
+          561,
+          572,
+          576,
+          578,
+          588,
+          592,
+          604,
+          612,
+          620,
+          624,
+          628,
+          646,
+          654,
+          661,
+          663,
+          665,
+          669,
+          673,
+          681,
+          685,
+          716,
+          718,
+          729,
+          733,
+          739,
+          741,
+          745,
+          753,
+          759,
+          777,
+          806,
+          812
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          777
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "de486e2a9aac2975d6fc25301f04399c519f4b1c027b62cf6a2ba1cb732c922a",
+  "markdown_path": "pdf/ORNL-TM-13553/ORNL-TM-13553/hybrid_ocr/ORNL-TM-13553.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 236,
+  "sections": [
+    {
+      "anchor": "disposition-options-for-uranium-233",
+      "end_line": 36,
+      "heading": "Disposition Options for Uranium-233",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "contents",
+      "end_line": 50,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 52,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "1-1-objectives-1",
+      "end_line": 53,
+      "heading": "1.1 OBJECTIVES 1",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "1-2-selection-of-storage-and-disposal-options-1",
+      "end_line": 54,
+      "heading": "1.2 SELECTION OF STORAGE AND DISPOSAL OPTIONS 1",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "1-3-caveats-1",
+      "end_line": 56,
+      "heading": "1.3 CAVEATS 1",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "1-5-report-organization-2",
+      "end_line": 60,
+      "heading": "1.5 REPORT ORGANIZATION 2",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "2-1-characteristics-3",
+      "end_line": 76,
+      "heading": "2.1 CHARACTERISTICS 3",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "2-2-1-3-lwbr-233u-16",
+      "end_line": 80,
+      "heading": "2.2.1.3 LWBR 233U 16",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 82,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "3-goals-and-constraints-17",
+      "end_line": 84,
+      "heading": "3. GOALS AND CONSTRAINTS 17",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "3-1-goals-17",
+      "end_line": 85,
+      "heading": "3.1 GOALS 17",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "3-2-storage-options-and-constraints-18",
+      "end_line": 101,
+      "heading": "3.2 STORAGE OPTIONS AND CONSTRAINTS 18",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "3-3-disposal-options-and-constraints-27",
+      "end_line": 109,
+      "heading": "3.3 DISPOSAL OPTIONS AND CONSTRAINTS 27",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "4-technical-descriptions-of-options-35",
+      "end_line": 123,
+      "heading": "4. TECHNICAL DESCRIPTIONS OF OPTIONS 35",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 139,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "4-4-fusion-melt-blending-storage-and-disposal-55",
+      "end_line": 149,
+      "heading": "4.4 FUSION-MELT BLENDING (STORAGE AND DISPOSAL) 55",
+      "level": 2,
+      "start_line": 140
+    },
+    {
+      "anchor": "4-5-dry-grinding-blending-and-sintering-storage-and-disposal-63",
+      "end_line": 162,
+      "heading": "4.5 DRY GRINDING, BLENDING, AND SINTERING (STORAGE AND DISPOSAL) 63",
+      "level": 2,
+      "start_line": 150
+    },
+    {
+      "anchor": "4-6-chemical-dilution-waste-threshold-disposal-74",
+      "end_line": 172,
+      "heading": "4.6 Chemical Dilution: Waste Threshold (Disposal) 74",
+      "level": 2,
+      "start_line": 163
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 174,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "4-7-can-in-canister-disposal-85",
+      "end_line": 175,
+      "heading": "4.7 CAN-IN-CANISTER (DISPOSAL) 85",
+      "level": 2,
+      "start_line": 175
+    },
+    {
+      "anchor": "4-8-rh-truw-processing-disposal-90",
+      "end_line": 177,
+      "heading": "4.8 RH TRUW PROCESSING (DISPOSAL) 90",
+      "level": 2,
+      "start_line": 176
+    },
+    {
+      "anchor": "4-8-1-ornl-91",
+      "end_line": 180,
+      "heading": "4.8.1 ORNL 91",
+      "level": 2,
+      "start_line": 178
+    },
+    {
+      "anchor": "4-9-ch-truw-processing-disposal-94",
+      "end_line": 181,
+      "heading": "4.9 CH TRUW PROCESSING (DISPOSAL) 94",
+      "level": 2,
+      "start_line": 181
+    },
+    {
+      "anchor": "4-10-lwr-fresh-fuel-disposal-97",
+      "end_line": 193,
+      "heading": "4.10 LWR FRESH FUEL (DISPOSAL) 97",
+      "level": 2,
+      "start_line": 182
+    },
+    {
+      "anchor": "4-11-deep-borehole-disposal-105",
+      "end_line": 201,
+      "heading": "4.11 DEEP BOREHOLE (DISPOSAL) 105",
+      "level": 2,
+      "start_line": 194
+    },
+    {
+      "anchor": "4-12-greater-confinement-disposal-gcd-disposal-112",
+      "end_line": 202,
+      "heading": "4.12 GREATER CONFINEMENT DISPOSAL (GCD) (DISPOSAL) 112",
+      "level": 2,
+      "start_line": 202
+    },
+    {
+      "anchor": "4-13-space-disposal-116",
+      "end_line": 210,
+      "heading": "4.13 SPACE (DISPOSAL) 116",
+      "level": 2,
+      "start_line": 203
+    },
+    {
+      "anchor": "4-14-subseabed-disposal-121",
+      "end_line": 222,
+      "heading": "4.14 SUBSEABED (DISPOSAL) 121",
+      "level": 2,
+      "start_line": 211
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 224,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "4-15-disposal-as-snf-disposal-129",
+      "end_line": 225,
+      "heading": "4.15 DISPOSAL AS SNF (DISPOSAL) 129",
+      "level": 2,
+      "start_line": 225
+    },
+    {
+      "anchor": "4-16-shallow-land-burial-disposal-132",
+      "end_line": 226,
+      "heading": "4.16 SHALLOW-LAND BURIAL (DISPOSAL) 132",
+      "level": 2,
+      "start_line": 226
+    },
+    {
+      "anchor": "4-17-electrometallurgical-processing-storage-and-disposal-134",
+      "end_line": 228,
+      "heading": "4.17 ELECTROMETALLURGICAL PROCESSING (STORAGE AND DISPOSAL) 134",
+      "level": 2,
+      "start_line": 227
+    },
+    {
+      "anchor": "5-conclusions-139",
+      "end_line": 231,
+      "heading": "5. CONCLUSIONS 139",
+      "level": 2,
+      "start_line": 229
+    },
+    {
+      "anchor": "5-2-storage-and-processing-options-139",
+      "end_line": 232,
+      "heading": "5.2 STORAGE AND PROCESSING OPTIONS 139",
+      "level": 2,
+      "start_line": 232
+    },
+    {
+      "anchor": "5-3-disposal-options-140",
+      "end_line": 234,
+      "heading": "5.3 DISPOSAL OPTIONS 140",
+      "level": 2,
+      "start_line": 233
+    },
+    {
+      "anchor": "6-references-143",
+      "end_line": 241,
+      "heading": "6. REFERENCES 143",
+      "level": 2,
+      "start_line": 235
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 271,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "list-of-figures-continued",
+      "end_line": 287,
+      "heading": "LIST OF FIGURES (continued)",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 317,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "list-of-tables-continued",
+      "end_line": 334,
+      "heading": "LIST OF TABLES (continued)",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "acronyms-abbreviations-scientific-notation-and-units-of-measure",
+      "end_line": 394,
+      "heading": "ACRONYMS, ABBREVIATIONS, SCIENTIFIC NOTATION, AND UNITS OF MEASURE",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "acronyms-abbreviations-scientific-notation-and-units-of-measure-continued",
+      "end_line": 454,
+      "heading": "ACRONYMS, ABBREVIATIONS, SCIENTIFIC NOTATION, AND UNITS OF MEASURE (continued)",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "acronyms-abbreviations-scientific-notation-and-units-of-measure-continued",
+      "end_line": 475,
+      "heading": "ACRONYMS, ABBREVIATIONS, SCIENTIFIC NOTATION, AND UNITS OF MEASURE (continued)",
+      "level": 1,
+      "start_line": 455
+    },
+    {
+      "anchor": "preface",
+      "end_line": 489,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 476
+    },
+    {
+      "anchor": "executive-summary",
+      "end_line": 497,
+      "heading": "EXECUTIVE SUMMARY",
+      "level": 1,
+      "start_line": 490
+    },
+    {
+      "anchor": "es-1-inventories-and-characteristics-of-233-mathrm-u",
+      "end_line": 509,
+      "heading": "ES.1 INVENTORIES AND CHARACTERISTICS OF $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 498
+    },
+    {
+      "anchor": "es-2-characteristics-of-storage-options",
+      "end_line": 515,
+      "heading": "ES.2 CHARACTERISTICS OF STORAGE OPTIONS",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "es-3-characteristics-of-disposal-options",
+      "end_line": 526,
+      "heading": "ES.3 CHARACTERISTICS OF DISPOSAL OPTIONS",
+      "level": 1,
+      "start_line": 516
+    },
+    {
+      "anchor": "es-4-storage-and-disposal-options",
+      "end_line": 542,
+      "heading": "ES.4 STORAGE AND DISPOSAL OPTIONS",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "es-4-1-conversion-to-hlw-glass-disposal",
+      "end_line": 546,
+      "heading": "ES.4.1 Conversion to HLW Glass (Disposal)",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "es-4-2-melting-233-mathrm-u-and-du-to-form-a-uranium-aluminum-alloy-storage-and-disposal",
+      "end_line": 552,
+      "heading": "ES.4.2 Melting $^{233}\\mathrm{U}$ and DU to Form a Uranium-Aluminum Alloy (Storage and Disposal)",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "es-4-3-aqueous-blending-storage-and-disposal",
+      "end_line": 556,
+      "heading": "ES.4.3 Aqueous Blending (Storage and Disposal)",
+      "level": 1,
+      "start_line": 553
+    },
+    {
+      "anchor": "es-4-4-fusion-melt-blending-storage-and-disposal",
+      "end_line": 565,
+      "heading": "ES.4.4 Fusion-Melt Blending (Storage and Disposal)",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "es-4-5-grind-blend-and-sinter-storage-and-disposal",
+      "end_line": 569,
+      "heading": "ES.4.5 Grind, Blend, and Sinter (Storage and Disposal)",
+      "level": 1,
+      "start_line": 566
+    },
+    {
+      "anchor": "es-4-6-chemical-dilution-disposal",
+      "end_line": 573,
+      "heading": "ES.4.6 Chemical Dilution (Disposal)",
+      "level": 1,
+      "start_line": 570
+    },
+    {
+      "anchor": "es-4-7-can-in-canister-disposal",
+      "end_line": 579,
+      "heading": "ES.4.7 Can-in-Canister (Disposal)",
+      "level": 1,
+      "start_line": 574
+    },
+    {
+      "anchor": "es-4-8-rh-truw-processing-disposal",
+      "end_line": 583,
+      "heading": "ES.4.8 RH TRUW Processing (Disposal)",
+      "level": 1,
+      "start_line": 580
+    },
+    {
+      "anchor": "es-4-9-ch-truw-processing-disposal",
+      "end_line": 593,
+      "heading": "ES.4.9 CH TRUW Processing (Disposal)",
+      "level": 1,
+      "start_line": 584
+    },
+    {
+      "anchor": "es-4-10-lwr-fuel-disposal",
+      "end_line": 601,
+      "heading": "ES.4.10 LWR Fuel (Disposal)",
+      "level": 1,
+      "start_line": 594
+    },
+    {
+      "anchor": "es-4-11-borehole-disposal",
+      "end_line": 605,
+      "heading": "ES.4.11 Borehole (Disposal)",
+      "level": 1,
+      "start_line": 602
+    },
+    {
+      "anchor": "es-4-12-gcd-disposal",
+      "end_line": 609,
+      "heading": "ES.4.12 GCD (Disposal)",
+      "level": 1,
+      "start_line": 606
+    },
+    {
+      "anchor": "es-4-13-space-disposal",
+      "end_line": 613,
+      "heading": "ES.4.13 Space (Disposal)",
+      "level": 1,
+      "start_line": 610
+    },
+    {
+      "anchor": "es-4-14-subseabed-disposal",
+      "end_line": 617,
+      "heading": "ES.4.14 Subseabed (Disposal)",
+      "level": 1,
+      "start_line": 614
+    },
+    {
+      "anchor": "es-4-15-shallow-land-burial-disposal",
+      "end_line": 621,
+      "heading": "ES.4.15 Shallow-Land Burial (Disposal)",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "es-4-16-define-as-snf-disposal",
+      "end_line": 625,
+      "heading": "ES.4.16 Define as SNF (Disposal)",
+      "level": 1,
+      "start_line": 622
+    },
+    {
+      "anchor": "es-4-17-electrometallurgical-processing-storage-and-disposal",
+      "end_line": 629,
+      "heading": "ES.4.17 Electrometallurgical Processing (Storage and Disposal)",
+      "level": 1,
+      "start_line": 626
+    },
+    {
+      "anchor": "es-5-conclusions",
+      "end_line": 635,
+      "heading": "ES.5 CONCLUSIONS",
+      "level": 1,
+      "start_line": 630
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 639,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 636
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 641,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 640
+    },
+    {
+      "anchor": "1-1-objectives",
+      "end_line": 647,
+      "heading": "1.1 OBJECTIVES",
+      "level": 1,
+      "start_line": 642
+    },
+    {
+      "anchor": "1-2-selection-of-storage-and-disposal-options",
+      "end_line": 651,
+      "heading": "1.2 SELECTION OF STORAGE AND DISPOSAL OPTIONS",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "1-3-caveats",
+      "end_line": 658,
+      "heading": "1.3 CAVEATS",
+      "level": 1,
+      "start_line": 652
+    },
+    {
+      "anchor": "1-4-special-issues-associated-with-233-mathbf-u",
+      "end_line": 666,
+      "heading": "1.4 SPECIAL ISSUES ASSOCIATED WITH $^{233}\\mathbf{U}$",
+      "level": 1,
+      "start_line": 659
+    },
+    {
+      "anchor": "1-5-report-organization",
+      "end_line": 670,
+      "heading": "1.5 REPORT ORGANIZATION",
+      "level": 1,
+      "start_line": 667
+    },
+    {
+      "anchor": "2-characteristics-and-inventories-of-233-mathrm-u",
+      "end_line": 674,
+      "heading": "2. CHARACTERISTICS AND INVENTORIES OF $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 671
+    },
+    {
+      "anchor": "2-1-characteristics",
+      "end_line": 678,
+      "heading": "2.1 CHARACTERISTICS",
+      "level": 1,
+      "start_line": 675
+    },
+    {
+      "anchor": "2-1-1-chemical",
+      "end_line": 682,
+      "heading": "2.1.1 Chemical",
+      "level": 1,
+      "start_line": 679
+    },
+    {
+      "anchor": "2-1-2-radiological",
+      "end_line": 726,
+      "heading": "2.1.2 Radiological",
+      "level": 1,
+      "start_line": 683
+    },
+    {
+      "anchor": "2-1-3-nuclear",
+      "end_line": 730,
+      "heading": "2.1.3 Nuclear",
+      "level": 1,
+      "start_line": 727
+    },
+    {
+      "anchor": "2-1-4-institutional",
+      "end_line": 734,
+      "heading": "2.1.4 Institutional",
+      "level": 1,
+      "start_line": 731
+    },
+    {
+      "anchor": "2-1-4-1-safeguards",
+      "end_line": 742,
+      "heading": "2.1.4.1 Safeguards",
+      "level": 1,
+      "start_line": 735
+    },
+    {
+      "anchor": "2-1-4-2-waste-management",
+      "end_line": 746,
+      "heading": "2.1.4.2 Waste Management",
+      "level": 1,
+      "start_line": 743
+    },
+    {
+      "anchor": "2-2-inventories-of-233-mathrm-u",
+      "end_line": 748,
+      "heading": "2.2 INVENTORIES OF $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 747
+    },
+    {
+      "anchor": "2-2-1-inventories",
+      "end_line": 756,
+      "heading": "2.2.1 Inventories",
+      "level": 1,
+      "start_line": 749
+    },
+    {
+      "anchor": "2-2-1-1-clean-233-mathbf-u",
+      "end_line": 760,
+      "heading": "2.2.1.1 Clean $^{233}\\mathbf{U}$",
+      "level": 1,
+      "start_line": 757
+    },
+    {
+      "anchor": "2-2-1-2-ceusp-233-mathbf-u",
+      "end_line": 783,
+      "heading": "2.2.1.2 CEUSP $^{233}\\mathbf{U}$",
+      "level": 1,
+      "start_line": 761
+    },
+    {
+      "anchor": "ornldwg-98c-481r2",
+      "end_line": 788,
+      "heading": "Ornldwg 98C-481R2",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "ornl-dwg98c-485r3",
+      "end_line": 803,
+      "heading": "Ornl Dwg98C-485R3",
+      "level": 2,
+      "start_line": 789
+    },
+    {
+      "anchor": "2-2-1-3-lwbr-233-mathrm-u",
+      "end_line": 809,
+      "heading": "2.2.1.3 LWBR $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 804
+    },
+    {
+      "anchor": "2-2-2-quality",
+      "end_line": 813,
+      "heading": "2.2.2 Quality",
+      "level": 1,
+      "start_line": 810
+    },
+    {
+      "anchor": "3-goals-and-constraints",
+      "end_line": 817,
+      "heading": "3. GOALS AND CONSTRAINTS",
+      "level": 1,
+      "start_line": 814
+    },
+    {
+      "anchor": "3-1-goals",
+      "end_line": 833,
+      "heading": "3.1 GOALS",
+      "level": 1,
+      "start_line": 818
+    },
+    {
+      "anchor": "3-2-storage-options-and-constraints",
+      "end_line": 835,
+      "heading": "3.2 STORAGE OPTIONS AND CONSTRAINTS",
+      "level": 1,
+      "start_line": 834
+    },
+    {
+      "anchor": "3-2-1-storage-policy-options",
+      "end_line": 839,
+      "heading": "3.2.1 Storage Policy Options",
+      "level": 1,
+      "start_line": 836
+    },
+    {
+      "anchor": "3-2-1-1-store-as-is",
+      "end_line": 845,
+      "heading": "3.2.1.1 Store As-Is",
+      "level": 1,
+      "start_line": 840
+    },
+    {
+      "anchor": "3-2-1-2-isotopically-dilute-to-non-weapons-usable-233-mathrm-u-for-future-use",
+      "end_line": 852,
+      "heading": "3.2.1.2 Isotopically Dilute to Non-Weapons-Usable $^{233}\\mathrm{U}$ for Future Use",
+      "level": 1,
+      "start_line": 846
+    },
+    {
+      "anchor": "3-2-1-3-isotopically-dilute-to-critically-safe-233-mathrm-u",
+      "end_line": 858,
+      "heading": "3.2.1.3 Isotopically Dilute to Critically Safe $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 853
+    },
+    {
+      "anchor": "3-2-2-impact-of-potential-uses-of-233-mathrm-u-on-storage-and-disposal-options",
+      "end_line": 864,
+      "heading": "3.2.2 Impact of Potential Uses of $^{233}\\mathrm{U}$ on Storage and Disposal Options",
+      "level": 1,
+      "start_line": 859
+    },
+    {
+      "anchor": "3-2-2-1-medical-applications",
+      "end_line": 890,
+      "heading": "3.2.2.1 Medical Applications",
+      "level": 1,
+      "start_line": 865
+    },
+    {
+      "anchor": "3-2-2-2-low-mass-reactors-for-deep-space-and-other-special-purpose-missions",
+      "end_line": 902,
+      "heading": "3.2.2.2 Low-Mass Reactors for Deep-Space and Other Special-Purpose Missions",
+      "level": 1,
+      "start_line": 891
+    },
+    {
+      "anchor": "ornl-dwg-98c-7600r",
+      "end_line": 904,
+      "heading": "Ornl Dwg 98C-7600R",
+      "level": 2,
+      "start_line": 903
+    },
+    {
+      "anchor": "top-area-of-cylinder-alpha-233-mathbf-u-inventory",
+      "end_line": 915,
+      "heading": "Top Area of Cylinder $\\alpha^{233}\\mathbf{U}$ Inventory",
+      "level": 1,
+      "start_line": 905
+    },
+    {
+      "anchor": "3-2-2-3-analytical-tracer",
+      "end_line": 919,
+      "heading": "3.2.2.3 Analytical Tracer",
+      "level": 1,
+      "start_line": 916
+    },
+    {
+      "anchor": "3-2-2-4-nuclear-weapons-research",
+      "end_line": 923,
+      "heading": "3.2.2.4 Nuclear Weapons Research",
+      "level": 1,
+      "start_line": 920
+    },
+    {
+      "anchor": "3-2-2-5-reactor-fuel-cycle-research",
+      "end_line": 934,
+      "heading": "3.2.2.5 Reactor Fuel Cycle Research",
+      "level": 1,
+      "start_line": 924
+    },
+    {
+      "anchor": "3-3-disposal-options-and-constraints",
+      "end_line": 938,
+      "heading": "3.3 DISPOSAL OPTIONS AND CONSTRAINTS",
+      "level": 1,
+      "start_line": 935
+    },
+    {
+      "anchor": "3-3-1-criticality-control",
+      "end_line": 962,
+      "heading": "3.3.1 Criticality Control",
+      "level": 1,
+      "start_line": 939
+    },
+    {
+      "anchor": "3-3-2-waste-definitions-and-legal-constraints",
+      "end_line": 976,
+      "heading": "3.3.2 Waste Definitions and Legal Constraints",
+      "level": 1,
+      "start_line": 963
+    },
+    {
+      "anchor": "3-3-3-interactions-between-and-among-disposal-site-criticality-control-waste-volumes-and-costs",
+      "end_line": 1014,
+      "heading": "3.3.3 Interactions Between and Among Disposal Site Criticality Control, Waste Volumes, and Costs",
+      "level": 1,
+      "start_line": 977
+    },
+    {
+      "anchor": "3-3-4-economics-and-schedules",
+      "end_line": 1021,
+      "heading": "3.3.4 Economics and Schedules",
+      "level": 1,
+      "start_line": 1015
+    },
+    {
+      "anchor": "3-3-5-storage-for-future-disposal",
+      "end_line": 1030,
+      "heading": "3.3.5 Storage for Future Disposal",
+      "level": 1,
+      "start_line": 1022
+    },
+    {
+      "anchor": "4-technical-descriptions-of-options",
+      "end_line": 1034,
+      "heading": "4. TECHNICAL DESCRIPTIONS OF OPTIONS",
+      "level": 1,
+      "start_line": 1031
+    },
+    {
+      "anchor": "4-1-convert-233-mathrm-u-to-hlw-glass-with-du-from-hlw-sludge-disposal",
+      "end_line": 1036,
+      "heading": "4.1 CONVERT $^{233}\\mathrm{U}$ TO HLW GLASS WITH DU FROM HLW SLUDGE (DISPOSAL)",
+      "level": 1,
+      "start_line": 1035
+    },
+    {
+      "anchor": "4-1-1-general-description",
+      "end_line": 1055,
+      "heading": "4.1.1 General Description",
+      "level": 1,
+      "start_line": 1037
+    },
+    {
+      "anchor": "4-1-2-suboptions",
+      "end_line": 1065,
+      "heading": "4.1.2 Suboptions",
+      "level": 1,
+      "start_line": 1056
+    },
+    {
+      "anchor": "4-1-3-current-srs-baseline-option",
+      "end_line": 1086,
+      "heading": "4.1.3 Current SRS Baseline Option",
+      "level": 1,
+      "start_line": 1066
+    },
+    {
+      "anchor": "4-1-4-issues",
+      "end_line": 1095,
+      "heading": "4.1.4 Issues",
+      "level": 1,
+      "start_line": 1087
+    },
+    {
+      "anchor": "4-2-convert-233-mathrm-u-and-du-to-a-uranium-aluminum-alloy-storage-and-disposal",
+      "end_line": 1097,
+      "heading": "4.2 CONVERT $^{233}\\mathrm{U}$ AND DU TO A URANIUM-ALUMINUM ALLOY (STORAGE AND DISPOSAL)",
+      "level": 1,
+      "start_line": 1096
+    },
+    {
+      "anchor": "4-2-1-snf-and-233-mathrm-u-similar-materials-and-similar-goals",
+      "end_line": 1109,
+      "heading": "4.2.1 SNF and $^{233}\\mathrm{U}$ : Similar Materials and Similar Goals",
+      "level": 1,
+      "start_line": 1098
+    },
+    {
+      "anchor": "melt-metal-and-convert-oxides-to-metal",
+      "end_line": 1111,
+      "heading": "Melt Metal and Convert Oxides to Metal",
+      "level": 1,
+      "start_line": 1110
+    },
+    {
+      "anchor": "ornldwg98c-374r2",
+      "end_line": 1132,
+      "heading": "Ornldwg98C-374R2",
+      "level": 2,
+      "start_line": 1112
+    },
+    {
+      "anchor": "transfer-ingot-to-waste-package-and-weld-lid",
+      "end_line": 1137,
+      "heading": "Transfer Ingot to Waste Package and Weld Lid",
+      "level": 1,
+      "start_line": 1133
+    },
+    {
+      "anchor": "4-2-2-melt-dilute-technology",
+      "end_line": 1175,
+      "heading": "4.2.2 Melt-Dilute Technology",
+      "level": 1,
+      "start_line": 1138
+    },
+    {
+      "anchor": "4-2-3-uranium-233-specific-uranium-aluminum-alloy-issues-and-options",
+      "end_line": 1177,
+      "heading": "4.2.3 Uranium-233: Specific Uranium-Aluminum Alloy Issues and Options",
+      "level": 1,
+      "start_line": 1176
+    },
+    {
+      "anchor": "4-2-3-1-other-chemical-species",
+      "end_line": 1185,
+      "heading": "4.2.3.1 Other Chemical Species",
+      "level": 1,
+      "start_line": 1178
+    },
+    {
+      "anchor": "4-2-3-2-direct-processing-of-ceusp-233-mathrm-u-containers",
+      "end_line": 1191,
+      "heading": "4.2.3.2 Direct Processing of CEUSP $^{233}\\mathrm{U}$ Containers",
+      "level": 1,
+      "start_line": 1186
+    },
+    {
+      "anchor": "4-2-3-3-product-volumes",
+      "end_line": 1195,
+      "heading": "4.2.3.3 Product Volumes",
+      "level": 1,
+      "start_line": 1192
+    },
+    {
+      "anchor": "4-2-3-4-option-variants",
+      "end_line": 1206,
+      "heading": "4.2.3.4 Option Variants",
+      "level": 1,
+      "start_line": 1196
+    },
+    {
+      "anchor": "4-2-4-conclusions",
+      "end_line": 1212,
+      "heading": "4.2.4 Conclusions",
+      "level": 1,
+      "start_line": 1207
+    },
+    {
+      "anchor": "4-3-aqueous-blending-of-233-mathrm-u-with-du-storage-and-disposal",
+      "end_line": 1214,
+      "heading": "4.3 AQUEOUS BLENDING OF $^{233}\\mathrm{U}$ WITH DU (STORAGE AND DISPOSAL)",
+      "level": 1,
+      "start_line": 1213
+    },
+    {
+      "anchor": "4-3-1-characteristics-of-aqueous-option",
+      "end_line": 1222,
+      "heading": "4.3.1 Characteristics of Aqueous Option",
+      "level": 1,
+      "start_line": 1215
+    },
+    {
+      "anchor": "dissolver",
+      "end_line": 1229,
+      "heading": "Dissolver",
+      "level": 1,
+      "start_line": 1223
+    },
+    {
+      "anchor": "4-3-2-process-description",
+      "end_line": 1239,
+      "heading": "4.3.2 Process Description",
+      "level": 1,
+      "start_line": 1230
+    },
+    {
+      "anchor": "ornldwg97c-36r3",
+      "end_line": 1256,
+      "heading": "Ornldwg97C-36R3",
+      "level": 2,
+      "start_line": 1240
+    },
+    {
+      "anchor": "4-4-fusion-melt-blending-storage-and-disposal",
+      "end_line": 1275,
+      "heading": "4.4 FUSION-MELT BLENDING (STORAGE AND DISPOSAL)",
+      "level": 1,
+      "start_line": 1257
+    },
+    {
+      "anchor": "ornldwg98c-370r",
+      "end_line": 1288,
+      "heading": "Ornldwg98C-370R",
+      "level": 2,
+      "start_line": 1276
+    },
+    {
+      "anchor": "4-4-1-process-descriptions",
+      "end_line": 1292,
+      "heading": "4.4.1 Process Descriptions",
+      "level": 1,
+      "start_line": 1289
+    },
+    {
+      "anchor": "4-4-1-1-glass-fusion-melt-process-description",
+      "end_line": 1304,
+      "heading": "4.4.1.1 Glass Fusion Melt Process Description",
+      "level": 1,
+      "start_line": 1293
+    },
+    {
+      "anchor": "4-4-1-2-boron-oxide-fusion-melt",
+      "end_line": 1314,
+      "heading": "4.4.1.2 Boron-Oxide Fusion Melt",
+      "level": 1,
+      "start_line": 1305
+    },
+    {
+      "anchor": "4-4-2-uncertainties",
+      "end_line": 1320,
+      "heading": "4.4.2 Uncertainties",
+      "level": 1,
+      "start_line": 1315
+    },
+    {
+      "anchor": "4-4-3-conclusions",
+      "end_line": 1324,
+      "heading": "4.4.3 Conclusions",
+      "level": 1,
+      "start_line": 1321
+    },
+    {
+      "anchor": "4-5-dry-grinding-blending-and-sintering-storage-and-disposal",
+      "end_line": 1335,
+      "heading": "4.5 DRY GRINDING, BLENDING, AND SINTERING (STORAGE AND DISPOSAL)",
+      "level": 1,
+      "start_line": 1325
+    },
+    {
+      "anchor": "4-5-1-process-description",
+      "end_line": 1355,
+      "heading": "4.5.1 Process Description",
+      "level": 1,
+      "start_line": 1336
+    },
+    {
+      "anchor": "4-5-2-variant-isotopic-mixing-methods-with-dry-blending",
+      "end_line": 1359,
+      "heading": "4.5.2 Variant Isotopic Mixing Methods with Dry Blending",
+      "level": 1,
+      "start_line": 1356
+    },
+    {
+      "anchor": "4-5-2-1-dry-blending-only",
+      "end_line": 1365,
+      "heading": "4.5.2.1 Dry Blending Only",
+      "level": 1,
+      "start_line": 1360
+    },
+    {
+      "anchor": "4-5-2-2-dry-blending-and-consolidation",
+      "end_line": 1375,
+      "heading": "4.5.2.2 Dry Blending and Consolidation",
+      "level": 1,
+      "start_line": 1366
+    },
+    {
+      "anchor": "4-5-2-3-dry-blending-with-high-temperature-sintering",
+      "end_line": 1381,
+      "heading": "4.5.2.3 Dry Blending with High-Temperature Sintering",
+      "level": 1,
+      "start_line": 1376
+    },
+    {
+      "anchor": "4-5-3-safety-issues-with-dry-blend-options",
+      "end_line": 1389,
+      "heading": "4.5.3 Safety Issues with Dry-Blend Options",
+      "level": 1,
+      "start_line": 1382
+    },
+    {
+      "anchor": "4-5-4-mechanisms-of-isotopic-dilution-with-high-temperature-sintering-and-the-implications-on-process-design",
+      "end_line": 1409,
+      "heading": "4.5.4 Mechanisms of Isotopic Dilution with High-Temperature Sintering and the Implications on Process Design",
+      "level": 1,
+      "start_line": 1390
+    },
+    {
+      "anchor": "self-diffusion-time-to-achieve-10-1-atomic-dilution",
+      "end_line": 1442,
+      "heading": "Self-Diffusion Time to Achieve 10:1 Atomic Dilution",
+      "level": 1,
+      "start_line": 1410
+    },
+    {
+      "anchor": "4-5-5-conclusions",
+      "end_line": 1446,
+      "heading": "4.5.5 Conclusions",
+      "level": 1,
+      "start_line": 1443
+    },
+    {
+      "anchor": "4-6-chemical-dilution-waste-threshold-disposal",
+      "end_line": 1456,
+      "heading": "4.6 CHEMICAL DILUTION: WASTE THRESHOLD (DISPOSAL)",
+      "level": 1,
+      "start_line": 1447
+    },
+    {
+      "anchor": "ornl-dwg98c-377r3",
+      "end_line": 1461,
+      "heading": "Ornl Dwg98C-377R3",
+      "level": 2,
+      "start_line": 1457
+    },
+    {
+      "anchor": "4-6-1-definition-of-waste-threshold",
+      "end_line": 1482,
+      "heading": "4.6.1 Definition of Waste Threshold",
+      "level": 1,
+      "start_line": 1462
+    },
+    {
+      "anchor": "concentrated-fissile-material",
+      "end_line": 1486,
+      "heading": "Concentrated Fissile Material",
+      "level": 1,
+      "start_line": 1483
+    },
+    {
+      "anchor": "exception-case-material",
+      "end_line": 1488,
+      "heading": "Exception Case Material",
+      "level": 1,
+      "start_line": 1487
+    },
+    {
+      "anchor": "future-management-dependent-upon-pu-precedent-and-unique-conditions",
+      "end_line": 1505,
+      "heading": "(Future Management Dependent Upon Pu Precedent and Unique Conditions)",
+      "level": 1,
+      "start_line": 1489
+    },
+    {
+      "anchor": "4-6-2-disposal-options",
+      "end_line": 1509,
+      "heading": "4.6.2 Disposal Options",
+      "level": 1,
+      "start_line": 1506
+    },
+    {
+      "anchor": "4-6-2-1-convert-to-waste-process-with-ch-truw",
+      "end_line": 1520,
+      "heading": "4.6.2.1 Convert to Waste: Process with CH TRUW",
+      "level": 1,
+      "start_line": 1510
+    },
+    {
+      "anchor": "ornldwg98c-392r2",
+      "end_line": 1540,
+      "heading": "Ornldwg98C-392R2",
+      "level": 2,
+      "start_line": 1521
+    },
+    {
+      "anchor": "4-6-2-2-convert-to-exception-case-material-stand-alone-disposal",
+      "end_line": 1554,
+      "heading": "4.6.2.2 Convert To Exception Case Material: Stand-Alone Disposal",
+      "level": 1,
+      "start_line": 1541
+    },
+    {
+      "anchor": "4-6-3-special-issues-with-waste-threshold-options",
+      "end_line": 1563,
+      "heading": "4.6.3 Special Issues with Waste Threshold Options",
+      "level": 1,
+      "start_line": 1555
+    },
+    {
+      "anchor": "4-7-can-in-canister-disposal",
+      "end_line": 1581,
+      "heading": "4.7 CAN-IN-CANISTER (DISPOSAL)",
+      "level": 1,
+      "start_line": 1564
+    },
+    {
+      "anchor": "ornldwg98c-438r",
+      "end_line": 1591,
+      "heading": "Ornldwg98C-438R",
+      "level": 2,
+      "start_line": 1582
+    },
+    {
+      "anchor": "ornldwg-97c-39r2",
+      "end_line": 1606,
+      "heading": "Ornldwg 97C-39R2",
+      "level": 2,
+      "start_line": 1592
+    },
+    {
+      "anchor": "4-8-rh-truw-processing-disposal",
+      "end_line": 1614,
+      "heading": "4.8 RH TRUW PROCESSING (DISPOSAL)",
+      "level": 1,
+      "start_line": 1607
+    },
+    {
+      "anchor": "4-8-1-ornl",
+      "end_line": 1620,
+      "heading": "4.8.1 ORNL",
+      "level": 1,
+      "start_line": 1615
+    },
+    {
+      "anchor": "4-8-2-hanford",
+      "end_line": 1628,
+      "heading": "4.8.2 Hanford",
+      "level": 1,
+      "start_line": 1621
+    },
+    {
+      "anchor": "ornldwg98c-431r2",
+      "end_line": 1633,
+      "heading": "Ornldwg98C-431R2",
+      "level": 2,
+      "start_line": 1629
+    },
+    {
+      "anchor": "4-9-ch-truw-processing-disposal",
+      "end_line": 1657,
+      "heading": "4.9 CH TRUW PROCESSING (DISPOSAL)",
+      "level": 1,
+      "start_line": 1634
+    },
+    {
+      "anchor": "4-10-lwr-fresh-fuel-disposal",
+      "end_line": 1659,
+      "heading": "4.10 LWR FRESH FUEL (DISPOSAL)",
+      "level": 1,
+      "start_line": 1658
+    },
+    {
+      "anchor": "4-10-1-general-description",
+      "end_line": 1682,
+      "heading": "4.10.1 General Description",
+      "level": 1,
+      "start_line": 1660
+    },
+    {
+      "anchor": "4-10-2-past-experience",
+      "end_line": 1688,
+      "heading": "4.10.2 Past Experience",
+      "level": 1,
+      "start_line": 1683
+    },
+    {
+      "anchor": "4-10-3-conversion-of-off-specification-heu-and-233-mathrm-u-to-lwr-fuel",
+      "end_line": 1704,
+      "heading": "4.10.3 Conversion of Off-Specification HEU and $^{233}\\mathrm{U}$ to LWR Fuel",
+      "level": 1,
+      "start_line": 1689
+    },
+    {
+      "anchor": "4-10-3-1-neutronics",
+      "end_line": 1738,
+      "heading": "4.10.3.1 Neutronics",
+      "level": 1,
+      "start_line": 1705
+    },
+    {
+      "anchor": "4-10-3-2-alpha-activity",
+      "end_line": 1744,
+      "heading": "4.10.3.2 Alpha Activity",
+      "level": 1,
+      "start_line": 1739
+    },
+    {
+      "anchor": "4-10-3-3-gamma-activity",
+      "end_line": 1750,
+      "heading": "4.10.3.3 Gamma Activity",
+      "level": 1,
+      "start_line": 1745
+    },
+    {
+      "anchor": "4-10-4-conclusions",
+      "end_line": 1756,
+      "heading": "4.10.4 Conclusions",
+      "level": 1,
+      "start_line": 1751
+    },
+    {
+      "anchor": "4-11-deep-borehole-disposal",
+      "end_line": 1764,
+      "heading": "4.11 DEEP BOREHOLE (DISPOSAL)",
+      "level": 1,
+      "start_line": 1757
+    },
+    {
+      "anchor": "4-11-1-general-description",
+      "end_line": 1774,
+      "heading": "4.11.1 General Description",
+      "level": 1,
+      "start_line": 1765
+    },
+    {
+      "anchor": "4-11-2-waste-form-and-site-characteristics",
+      "end_line": 1781,
+      "heading": "4.11.2 Waste Form and Site Characteristics",
+      "level": 1,
+      "start_line": 1775
+    },
+    {
+      "anchor": "4-11-3-deep-borehole-alternative-applications",
+      "end_line": 1785,
+      "heading": "4.11.3 Deep-Borehole Alternative Applications",
+      "level": 1,
+      "start_line": 1782
+    },
+    {
+      "anchor": "4-11-4-issues",
+      "end_line": 1796,
+      "heading": "4.11.4 Issues",
+      "level": 1,
+      "start_line": 1786
+    },
+    {
+      "anchor": "typical-arrangement-of-deep-borehole-with-emplaced-ceramic-pellet-grout-mix",
+      "end_line": 1801,
+      "heading": "TYPICAL ARRANGEMENT OF DEEP BOREHOLE WITH EMPLACED CERAMIC PELLET-GROUT MIX",
+      "level": 1,
+      "start_line": 1797
+    },
+    {
+      "anchor": "4-11-5-conclusions",
+      "end_line": 1805,
+      "heading": "4.11.5 Conclusions",
+      "level": 1,
+      "start_line": 1802
+    },
+    {
+      "anchor": "4-12-greater-confinement-disposal-gcd-disposal",
+      "end_line": 1830,
+      "heading": "4.12 GREATER CONFINEMENT DISPOSAL (GCD) (DISPOSAL)",
+      "level": 1,
+      "start_line": 1806
+    },
+    {
+      "anchor": "4-13-space-disposal",
+      "end_line": 1836,
+      "heading": "4.13 SPACE (DISPOSAL)",
+      "level": 1,
+      "start_line": 1831
+    },
+    {
+      "anchor": "4-13-1-general-description",
+      "end_line": 1842,
+      "heading": "4.13.1 General Description",
+      "level": 1,
+      "start_line": 1837
+    },
+    {
+      "anchor": "4-13-2-waste-form-characteristics",
+      "end_line": 1864,
+      "heading": "4.13.2 Waste Form Characteristics",
+      "level": 1,
+      "start_line": 1843
+    },
+    {
+      "anchor": "4-13-3-space-disposal-options-and-destinations",
+      "end_line": 1874,
+      "heading": "4.13.3 Space Disposal Options and Destinations",
+      "level": 1,
+      "start_line": 1865
+    },
+    {
+      "anchor": "4-13-4-issues",
+      "end_line": 1901,
+      "heading": "4.13.4 Issues",
+      "level": 1,
+      "start_line": 1875
+    },
+    {
+      "anchor": "4-13-5-conclusions",
+      "end_line": 1911,
+      "heading": "4.13.5 Conclusions",
+      "level": 1,
+      "start_line": 1902
+    },
+    {
+      "anchor": "4-14-subseabed-disposal",
+      "end_line": 1921,
+      "heading": "4.14 SUBSEABED (DISPOSAL)",
+      "level": 1,
+      "start_line": 1912
+    },
+    {
+      "anchor": "4-14-1-engineering-description",
+      "end_line": 1927,
+      "heading": "4.14.1 Engineering Description",
+      "level": 1,
+      "start_line": 1922
+    },
+    {
+      "anchor": "4-14-2-performance-capabilities",
+      "end_line": 1944,
+      "heading": "4.14.2 Performance Capabilities",
+      "level": 1,
+      "start_line": 1928
+    },
+    {
+      "anchor": "4-14-2-1-predictability",
+      "end_line": 1952,
+      "heading": "4.14.2.1 Predictability",
+      "level": 1,
+      "start_line": 1945
+    },
+    {
+      "anchor": "4-14-2-2-intrinsic-isolation",
+      "end_line": 1963,
+      "heading": "4.14.2.2 Intrinsic Isolation",
+      "level": 1,
+      "start_line": 1953
+    },
+    {
+      "anchor": "4-14-2-3-independent-isolation-mechanisms",
+      "end_line": 1973,
+      "heading": "4.14.2.3 Independent Isolation Mechanisms",
+      "level": 1,
+      "start_line": 1964
+    },
+    {
+      "anchor": "4-14-3-institutional-considerations",
+      "end_line": 1981,
+      "heading": "4.14.3 Institutional Considerations",
+      "level": 1,
+      "start_line": 1974
+    },
+    {
+      "anchor": "4-14-4-issues",
+      "end_line": 1989,
+      "heading": "4.14.4 Issues",
+      "level": 1,
+      "start_line": 1982
+    },
+    {
+      "anchor": "4-15-disposal-as-snf-disposal",
+      "end_line": 2029,
+      "heading": "4.15 DISPOSAL AS SNF (DISPOSAL)",
+      "level": 1,
+      "start_line": 1990
+    },
+    {
+      "anchor": "4-16-shallow-land-burial-disposal",
+      "end_line": 2052,
+      "heading": "4.16 SHALLOW-LAND BURIAL (DISPOSAL)",
+      "level": 1,
+      "start_line": 2030
+    },
+    {
+      "anchor": "4-17-electrometallurgical-processing-storage-and-disposal",
+      "end_line": 2062,
+      "heading": "4.17 ELECTROMETALLURGICAL PROCESSING (STORAGE AND DISPOSAL)",
+      "level": 1,
+      "start_line": 2053
+    },
+    {
+      "anchor": "reduction-to-metal",
+      "end_line": 2066,
+      "heading": "Reduction to Metal",
+      "level": 1,
+      "start_line": 2063
+    },
+    {
+      "anchor": "dissolve-in-salt-electrolytic-recovery-of-uranium-metal",
+      "end_line": 2086,
+      "heading": "Dissolve in Salt/Electrolytic Recovery of Uranium Metal",
+      "level": 1,
+      "start_line": 2067
+    },
+    {
+      "anchor": "5-conclusions",
+      "end_line": 2090,
+      "heading": "5. CONCLUSIONS",
+      "level": 1,
+      "start_line": 2087
+    },
+    {
+      "anchor": "5-1-special-characteristics-of-233-mathrm-u",
+      "end_line": 2100,
+      "heading": "5.1 SPECIAL CHARACTERISTICS OF $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 2091
+    },
+    {
+      "anchor": "5-2-storage-and-processing-options",
+      "end_line": 2106,
+      "heading": "5.2 STORAGE AND PROCESSING OPTIONS",
+      "level": 1,
+      "start_line": 2101
+    },
+    {
+      "anchor": "5-3-disposal-options",
+      "end_line": 2131,
+      "heading": "5.3 DISPOSAL OPTIONS",
+      "level": 1,
+      "start_line": 2107
+    },
+    {
+      "anchor": "6-references",
+      "end_line": 2288,
+      "heading": "6. REFERENCES",
+      "level": 1,
+      "start_line": 2132
+    },
+    {
+      "anchor": "b-1-medical-uses-of-bismuth-213",
+      "end_line": 2296,
+      "heading": "B.1 MEDICAL USES OF BISMUTH-213",
+      "level": 1,
+      "start_line": 2289
+    },
+    {
+      "anchor": "b-2-bismuth-recovery-process",
+      "end_line": 2309,
+      "heading": "B.2 BISMUTH RECOVERY PROCESS",
+      "level": 1,
+      "start_line": 2297
+    },
+    {
+      "anchor": "b-3-recovery-of-thorium-229-from-uranium-233",
+      "end_line": 2315,
+      "heading": "B.3 RECOVERY OF THORIUM-229 FROM URANIUM-233",
+      "level": 1,
+      "start_line": 2310
+    },
+    {
+      "anchor": "b-4-references-for-appendix-b",
+      "end_line": 2326,
+      "heading": "B.4. REFERENCES FOR APPENDIX B",
+      "level": 1,
+      "start_line": 2316
+    },
+    {
+      "anchor": "recovery-of-uranium-from-ceusp-cans",
+      "end_line": 2328,
+      "heading": "Recovery Of Uranium From Ceusp Cans",
+      "level": 2,
+      "start_line": 2327
+    },
+    {
+      "anchor": "c-1-introduction",
+      "end_line": 2332,
+      "heading": "C.1. INTRODUCTION",
+      "level": 1,
+      "start_line": 2329
+    },
+    {
+      "anchor": "c-2-filling-of-ceusp-cans",
+      "end_line": 2336,
+      "heading": "C.2 FILLING OF CEUSP CANS",
+      "level": 1,
+      "start_line": 2333
+    },
+    {
+      "anchor": "c-3-removal-of-uranium-from-ceusp-cans",
+      "end_line": 2342,
+      "heading": "C.3 REMOVAL OF URANIUM FROM CEUSP CANS",
+      "level": 1,
+      "start_line": 2337
+    },
+    {
+      "anchor": "ornldwg97c-37r",
+      "end_line": 2347,
+      "heading": "Ornldwg97C-37R",
+      "level": 2,
+      "start_line": 2343
+    },
+    {
+      "anchor": "c-5",
+      "end_line": 2351,
+      "heading": "C-5",
+      "level": 1,
+      "start_line": 2348
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 2353,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 2352
+    },
+    {
+      "anchor": "current-technical-constraints-for-wipp",
+      "end_line": 2355,
+      "heading": "CURRENT TECHNICAL CONSTRAINTS FOR WIPP",
+      "level": 1,
+      "start_line": 2354
+    },
+    {
+      "anchor": "d-1-introduction",
+      "end_line": 2365,
+      "heading": "D.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 2356
+    },
+    {
+      "anchor": "d-2-wacs-for-233-mathrm-u",
+      "end_line": 2384,
+      "heading": "D.2 WACs FOR $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 2366
+    },
+    {
+      "anchor": "d-3-wipp-wac",
+      "end_line": 2454,
+      "heading": "D.3 WIPP WAC",
+      "level": 1,
+      "start_line": 2385
+    },
+    {
+      "anchor": "d-3-1-case-a",
+      "end_line": 2478,
+      "heading": "D.3.1 Case A",
+      "level": 1,
+      "start_line": 2455
+    },
+    {
+      "anchor": "d-3-2-case-b",
+      "end_line": 2487,
+      "heading": "D.3.2 Case B",
+      "level": 1,
+      "start_line": 2479
+    },
+    {
+      "anchor": "d-3-3-case-c",
+      "end_line": 2496,
+      "heading": "D.3.3 Case C",
+      "level": 1,
+      "start_line": 2488
+    },
+    {
+      "anchor": "d-3-4-case-d",
+      "end_line": 2512,
+      "heading": "D.3.4 Case D",
+      "level": 1,
+      "start_line": 2497
+    },
+    {
+      "anchor": "d-16",
+      "end_line": 2516,
+      "heading": "D-16",
+      "level": 1,
+      "start_line": 2513
+    },
+    {
+      "anchor": "d-4-glossary-of-terms-for-appendix-d",
+      "end_line": 2547,
+      "heading": "D.4 GLOSSARY OF TERMS FOR APPENDIX D",
+      "level": 1,
+      "start_line": 2517
+    },
+    {
+      "anchor": "d-5-references-for-appendix-d",
+      "end_line": 2558,
+      "heading": "D.5 REFERENCES FOR APPENDIX D",
+      "level": 1,
+      "start_line": 2548
+    },
+    {
+      "anchor": "d-18",
+      "end_line": 2562,
+      "heading": "D-18",
+      "level": 1,
+      "start_line": 2559
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2617,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2563
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2715,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2618
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-13553",
+  "tables": [],
+  "title": "Disposition Options for Uranium-233",
+  "topics": [
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

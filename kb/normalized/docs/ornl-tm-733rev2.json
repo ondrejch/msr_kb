@@ -1,0 +1,310 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "COPY NO. -",
+    "C",
+    "Part VI",
+    "REACTOR EXPERIMENT"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-733rev2.jsonl",
+  "date_text": "1966",
+  "doc_id": "ornl-tm-733rev2",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          109,
+          119,
+          121,
+          125
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          85
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          108
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          13,
+          72,
+          78,
+          84,
+          228,
+          229,
+          230,
+          231,
+          232
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          3,
+          17,
+          45,
+          156
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          7
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 4,
+        "line_hits": [
+          29,
+          62,
+          66,
+          72
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          51,
+          72,
+          121
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d5065cbbdb681b3dd71a3235cd89db78bebb736fb301fd450796735c45d3159a",
+  "markdown_path": "pdf/ORNL-TM-0733REV2/ORNL-TM-0733REV2/hybrid_ocr/ORNL-TM-0733REV2.md",
+  "report_number": "ORNL-TM-733",
+  "report_numbers": [
+    "ORNL-TM-733"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 27,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 12,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 18,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 26,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "h-c-1-00-m-n-50",
+      "end_line": 28,
+      "heading": "H.C. $ 1.00; M.N. 50",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 32,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "operating-safety-limits-for-the-molten-salt",
+      "end_line": 34,
+      "heading": "Operating Safety Limits For The Molten-Salt",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "reactor-experiment",
+      "end_line": 42,
+      "heading": "Reactor Experiment",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "in-nuclear-science-abstracts",
+      "end_line": 46,
+      "heading": "In Nuclear Science Abstracts",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "this-document-has-been-reviewed",
+      "end_line": 48,
+      "heading": "This Document Has Been Reviewed.",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "no-inventions-of-patent-interest",
+      "end_line": 50,
+      "heading": "No Inventions Of Patent Interest",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "to-the-a-e-c-are-disclosed-therein",
+      "end_line": 52,
+      "heading": "To The A.E.C. Are Disclosed, Therein.",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 61,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 65,
+      "heading": "MSRE DESIGN AND OPERATIONS REPORT",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "operating-safety-limits-for-the-molten-salt-reactor-experiment",
+      "end_line": 73,
+      "heading": "Operating Safety Limits For The Molten-Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "1-0-containment",
+      "end_line": 79,
+      "heading": "1.0 Containment",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 81,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "1-0-containment-continued",
+      "end_line": 97,
+      "heading": "1.0 Containment (continued)",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "2-0-fuel-system",
+      "end_line": 101,
+      "heading": "2.0 Fuel System",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "2-0-fuel-system-continued",
+      "end_line": 114,
+      "heading": "2.0 Fuel System (continued)",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "3-0-coolant-system",
+      "end_line": 118,
+      "heading": "3.0 Coolant System",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "4-0-control-rods",
+      "end_line": 149,
+      "heading": "4.0 Control Rods",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "7-0-personnel-and-procedures-continued",
+      "end_line": 153,
+      "heading": "7.0 Personnel and Procedures (continued)",
+      "level": 1,
+      "start_line": 150
+    },
+    {
+      "anchor": "8-0-experimental-limits",
+      "end_line": 159,
+      "heading": "8.0 Experimental Limits",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 224,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 232,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 225
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0733REV2",
+  "tables": [],
+  "title": "![](images/062ba0d0366726432f54ee2f1d6d0223d905b56904c988684e1c40c9232df7d4.jpg)",
+  "topics": [
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

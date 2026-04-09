@@ -1,0 +1,1085 @@
+{
+  "authors": [
+    "Operated by",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "Post Office Box X",
+    "Oak Ridge",
+    "Tennessee",
+    "EXTERNAL TRANSMITTAL AUTHORIZED",
+    "ORNL"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-58-8-33.jsonl",
+  "date_text": "August 13, 1958",
+  "doc_id": "ornl-cf-58-8-33",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 18,
+        "line_hits": [
+          178,
+          184,
+          418,
+          422,
+          468,
+          472,
+          590,
+          601,
+          603,
+          623,
+          628,
+          632,
+          636,
+          658,
+          1061,
+          1064,
+          1137,
+          1138
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 83,
+        "line_hits": [
+          64,
+          87,
+          97,
+          110,
+          111,
+          113,
+          119,
+          123,
+          134,
+          140,
+          182,
+          192,
+          194,
+          202,
+          208,
+          210,
+          212,
+          214,
+          217,
+          222,
+          224,
+          226,
+          228,
+          234,
+          260,
+          262,
+          264,
+          268,
+          270,
+          272,
+          276,
+          285,
+          296,
+          298,
+          302,
+          306,
+          316,
+          351,
+          360,
+          362,
+          364,
+          366,
+          368,
+          378,
+          382,
+          395,
+          397,
+          399,
+          403,
+          411
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 24,
+        "line_hits": [
+          97,
+          204,
+          206,
+          208,
+          210,
+          212,
+          214,
+          217,
+          219,
+          224,
+          228,
+          230,
+          240,
+          241,
+          242,
+          243,
+          253,
+          260,
+          262,
+          264,
+          266,
+          274,
+          1087,
+          1113
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          97
+        ],
+        "name": "salt pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 16,
+        "line_hits": [
+          3,
+          19,
+          129,
+          282,
+          287,
+          355,
+          392,
+          461,
+          651,
+          668,
+          1009,
+          1035,
+          1038,
+          1074,
+          1092,
+          1307
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          7,
+          9,
+          890,
+          892
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1166,
+          1315
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 28,
+        "line_hits": [
+          41,
+          43,
+          140,
+          150,
+          184,
+          194,
+          212,
+          348,
+          409,
+          446,
+          450,
+          454,
+          480,
+          482,
+          503,
+          507,
+          515,
+          539,
+          541,
+          562,
+          572,
+          574,
+          636,
+          656,
+          658,
+          678,
+          730,
+          869
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          21
+        ],
+        "name": "ORNL Central Files"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 8,
+        "line_hits": [
+          37,
+          109,
+          264,
+          276,
+          278,
+          298,
+          368,
+          397
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f064dac10d58311a0456d3ddd3c31db0087ded8a4d21f1960fef92131dbedc45",
+  "markdown_path": "pdf/ORNL-CF-58-8-33/ORNL-CF-58-8-33/hybrid_ocr/ORNL-CF-58-8-33.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 117,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 16,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "external-transmittal-authorized",
+      "end_line": 18,
+      "heading": "EXTERNAL TRANSMITTAL AUTHORIZED",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 20,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "central-files-number",
+      "end_line": 24,
+      "heading": "CENTRAL FILES NUMBER",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "copy-no-7",
+      "end_line": 34,
+      "heading": "Copy No. 7",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 44,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 53,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 88,
+      "heading": "Table of Contents",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 94,
+      "heading": "1.0 Introduction",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "2-0-summary",
+      "end_line": 102,
+      "heading": "2.0 Summary",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "3-0-description-of-test-joints",
+      "end_line": 104,
+      "heading": "3.0 Description of Test Joints",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "3-1-criteria-for-joint-performance",
+      "end_line": 116,
+      "heading": "3.1 Criteria for Joint Performance",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "3-2-freeze-flange-joint",
+      "end_line": 126,
+      "heading": "3.2 Freeze Flange Joint",
+      "level": 1,
+      "start_line": 117
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 128,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 127
+    },
+    {
+      "anchor": "ornl-lr-dwg-27895",
+      "end_line": 147,
+      "heading": "Ornl-Lr-Dwg 27895",
+      "level": 2,
+      "start_line": 129
+    },
+    {
+      "anchor": "3-3-indented-seal-joint",
+      "end_line": 157,
+      "heading": "3.3 Indented Seal Joint",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "indentation-seal-flange-test-no-1-thermocouple-locations",
+      "end_line": 162,
+      "heading": "INDENTATION SEAL FLANGE TEST NO.1. THERMOCOUPLE LOCATIONS",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "unclassified-photo-30662",
+      "end_line": 172,
+      "heading": "Unclassified Photo 30662",
+      "level": 2,
+      "start_line": 163
+    },
+    {
+      "anchor": "unclassified-photo-31519",
+      "end_line": 179,
+      "heading": "Unclassified Photo 31519",
+      "level": 2,
+      "start_line": 173
+    },
+    {
+      "anchor": "3-4-cast-seal-joint",
+      "end_line": 191,
+      "heading": "3.4 Cast Seal Joint",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "3-5-the-test-loop",
+      "end_line": 231,
+      "heading": "3.5 The Test Loop",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "3-6-instrumentation",
+      "end_line": 255,
+      "heading": "3.6 Instrumentation",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "4-0-test-procedure",
+      "end_line": 257,
+      "heading": "4.0 Test Procedure",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "4-1-freeze-flange-joint",
+      "end_line": 279,
+      "heading": "4.1 Freeze Flange Joint",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 281,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 280
+    },
+    {
+      "anchor": "ornl-lr-dwg31973",
+      "end_line": 286,
+      "heading": "Ornl-Lr-Dwg31973",
+      "level": 2,
+      "start_line": 282
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg27897r",
+      "end_line": 303,
+      "heading": "Unclassified Ornl-Lr-Dwg27897R",
+      "level": 2,
+      "start_line": 287
+    },
+    {
+      "anchor": "4-2-cast-seal-joint",
+      "end_line": 307,
+      "heading": "4.2 Cast Seal Joint",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "table-no-1",
+      "end_line": 309,
+      "heading": "Table No. 1",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "time-required-for-assembly-and-disassembly-for-freeze-flanges",
+      "end_line": 311,
+      "heading": "TIME REQUIRED FOR ASSEMBLY AND DISASSEMBLY FOR FREEZE FLANGES",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "disassembly",
+      "end_line": 313,
+      "heading": "DISASSEMBLY",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "operation-performed",
+      "end_line": 320,
+      "heading": "Operation Performed",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "time-required",
+      "end_line": 333,
+      "heading": "Time Required",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "assembly",
+      "end_line": 345,
+      "heading": "ASSEMBLY",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "note",
+      "end_line": 352,
+      "heading": "Note:",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 354,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 353
+    },
+    {
+      "anchor": "ornl-lr-dwg-31975",
+      "end_line": 379,
+      "heading": "Ornl-Lr-Dwg 31975",
+      "level": 2,
+      "start_line": 355
+    },
+    {
+      "anchor": "4-3-indented-seal-joint",
+      "end_line": 389,
+      "heading": "4.3 Indented Seal Joint",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 391,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 390
+    },
+    {
+      "anchor": "ornl-lr-dwg-31978",
+      "end_line": 404,
+      "heading": "Ornl-Lr-Dwg 31978",
+      "level": 2,
+      "start_line": 392
+    },
+    {
+      "anchor": "5-0-discussion-of-results",
+      "end_line": 406,
+      "heading": "5.0 Discussion of Results",
+      "level": 1,
+      "start_line": 405
+    },
+    {
+      "anchor": "5-1-freeze-flange-joint",
+      "end_line": 412,
+      "heading": "5.1 Freeze Flange Joint",
+      "level": 1,
+      "start_line": 407
+    },
+    {
+      "anchor": "indentation-seal-flange-test-no-2-thermocouple-locations",
+      "end_line": 417,
+      "heading": "INDENTATION SEAL FLANGE TEST NO. 2. THERMOCOUPLE LOCATIONS",
+      "level": 1,
+      "start_line": 413
+    },
+    {
+      "anchor": "flange-a-nickel-plated-iron-gasket",
+      "end_line": 419,
+      "heading": "Flange A-Nickel Plated Iron Gasket",
+      "level": 2,
+      "start_line": 418
+    },
+    {
+      "anchor": "tc-no-27-28-29-30-31-32",
+      "end_line": 421,
+      "heading": "Tc No. 27, 28, 29, 30, 31, 32",
+      "level": 2,
+      "start_line": 420
+    },
+    {
+      "anchor": "flange-b-nickel-gasket",
+      "end_line": 423,
+      "heading": "Flange B-Nickel Gasket",
+      "level": 2,
+      "start_line": 422
+    },
+    {
+      "anchor": "tc-no-33-34-35-36-37-38",
+      "end_line": 426,
+      "heading": "Tc No. 33, 34, 35, 36, 37, 38",
+      "level": 2,
+      "start_line": 424
+    },
+    {
+      "anchor": "freeze-flange-temperatures-measured-during-thermal-cycles",
+      "end_line": 435,
+      "heading": "Freeze Flange Temperatures Measured During Thermal Cycles",
+      "level": 2,
+      "start_line": 427
+    },
+    {
+      "anchor": "freeze-flange-temperatures-measured-during-thermal-cycles",
+      "end_line": 456,
+      "heading": "Freeze Flange Temperatures Measured During Thermal Cycles",
+      "level": 2,
+      "start_line": 436
+    },
+    {
+      "anchor": "leak-rates-of-freeze-flanges-and-indented-seal-flanges",
+      "end_line": 504,
+      "heading": "Leak Rates Of Freeze Flanges And Indented Seal Flanges",
+      "level": 2,
+      "start_line": 457
+    },
+    {
+      "anchor": "5-2-cast-seal-joint",
+      "end_line": 517,
+      "heading": "5.2 Cast Seal Joint",
+      "level": 1,
+      "start_line": 505
+    },
+    {
+      "anchor": "cast-seal-flange-temperatures-measured-during-thermal-cycles",
+      "end_line": 530,
+      "heading": "Cast Seal Flange Temperatures Measured During Thermal Cycles",
+      "level": 2,
+      "start_line": 518
+    },
+    {
+      "anchor": "note",
+      "end_line": 551,
+      "heading": "Note:",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "time-required-for-assembly-and-disassembly-for-cast-seal-flanges",
+      "end_line": 559,
+      "heading": "Time Required For Assembly And Disassembly For Cast Seal Flanges",
+      "level": 2,
+      "start_line": 552
+    },
+    {
+      "anchor": "5-3-indented-seal-joint",
+      "end_line": 576,
+      "heading": "5.3 Indented Seal Joint",
+      "level": 1,
+      "start_line": 560
+    },
+    {
+      "anchor": "indentation-seal-flange-temperatures-measured-during-thermal-cycles-test-no-1",
+      "end_line": 586,
+      "heading": "Indentation Seal Flange Temperatures Measured During Thermal Cycles - Test No. 1",
+      "level": 2,
+      "start_line": 577
+    },
+    {
+      "anchor": "indentation-seal-flange-temperatures-measured-during-thermal-cycles-test-no-2",
+      "end_line": 633,
+      "heading": "Indentation Seal Flange Temperatures Measured During Thermal Cycles - Test No. 2",
+      "level": 2,
+      "start_line": 587
+    },
+    {
+      "anchor": "6-0-future-tests",
+      "end_line": 648,
+      "heading": "6.0 Future Tests",
+      "level": 1,
+      "start_line": 634
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 650,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 649
+    },
+    {
+      "anchor": "ornl-lr-dwg-31980",
+      "end_line": 663,
+      "heading": "Ornl-Lr-Dwg 31980",
+      "level": 2,
+      "start_line": 651
+    },
+    {
+      "anchor": "appendix-1",
+      "end_line": 667,
+      "heading": "APPENDIX 1",
+      "level": 1,
+      "start_line": 664
+    },
+    {
+      "anchor": "intra-laboratory-correspondence-oak-ridge-national-laboratory",
+      "end_line": 697,
+      "heading": "INTRA-LABORATORY CORRESPONDENCE OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "preliminary-mechanical-joint-specification",
+      "end_line": 699,
+      "heading": "PRELIMINARY MECHANICAL JOINT SPECIFICATION",
+      "level": 1,
+      "start_line": 698
+    },
+    {
+      "anchor": "i-scope",
+      "end_line": 703,
+      "heading": "I. Scope",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "ii-service-requirements",
+      "end_line": 707,
+      "heading": "II. Service Requirements",
+      "level": 1,
+      "start_line": 704
+    },
+    {
+      "anchor": "iii-materials-of-construction",
+      "end_line": 711,
+      "heading": "III. Materials of Construction",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "iv-mechanical-design",
+      "end_line": 747,
+      "heading": "IV. Mechanical Design",
+      "level": 1,
+      "start_line": 712
+    },
+    {
+      "anchor": "v-leak-tightness",
+      "end_line": 756,
+      "heading": "V. Leak Tightness",
+      "level": 1,
+      "start_line": 748
+    },
+    {
+      "anchor": "b-fluid-leakage",
+      "end_line": 762,
+      "heading": "B. Fluid Leakage",
+      "level": 1,
+      "start_line": 757
+    },
+    {
+      "anchor": "c-special-leak-testing",
+      "end_line": 770,
+      "heading": "C. Special Leak Testing",
+      "level": 1,
+      "start_line": 763
+    },
+    {
+      "anchor": "appendix-2",
+      "end_line": 783,
+      "heading": "APPENDIX 2",
+      "level": 1,
+      "start_line": 771
+    },
+    {
+      "anchor": "qiitssvioni-1",
+      "end_line": 790,
+      "heading": "Qiitssvioni 1",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "unclassified-ofnl-ir-dwg-31986",
+      "end_line": 809,
+      "heading": "Unclassified Ofnl-Ir-Dwg.31986",
+      "level": 2,
+      "start_line": 791
+    },
+    {
+      "anchor": "cettssyton",
+      "end_line": 813,
+      "heading": "Cettssyton",
+      "level": 2,
+      "start_line": 810
+    },
+    {
+      "anchor": "cettssvton",
+      "end_line": 814,
+      "heading": "Cettssvton",
+      "level": 2,
+      "start_line": 814
+    },
+    {
+      "anchor": "6016-3m1917nio",
+      "end_line": 820,
+      "heading": "6016-3M1917Nio",
+      "level": 2,
+      "start_line": 815
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 821,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 821
+    },
+    {
+      "anchor": "onl-ir-dwg-31994",
+      "end_line": 823,
+      "heading": "Onl-Ir-Dwg.31994",
+      "level": 2,
+      "start_line": 822
+    },
+    {
+      "anchor": "appendix-3",
+      "end_line": 833,
+      "heading": "APPENDIX 3",
+      "level": 1,
+      "start_line": 824
+    },
+    {
+      "anchor": "166te-2mq-etinno",
+      "end_line": 836,
+      "heading": "166Te-2Mq-Etinno",
+      "level": 2,
+      "start_line": 834
+    },
+    {
+      "anchor": "chlissvtonn-966te-agt-tnho",
+      "end_line": 838,
+      "heading": "Chlissvtonn 966Te-°Agt-Tnho",
+      "level": 2,
+      "start_line": 837
+    },
+    {
+      "anchor": "appendix-4",
+      "end_line": 842,
+      "heading": "APPENDIX 4",
+      "level": 1,
+      "start_line": 839
+    },
+    {
+      "anchor": "indentation-seal-flange-test-no1-iron-seal",
+      "end_line": 860,
+      "heading": "Indentation Seal Flange Test No1- Iron Seal",
+      "level": 2,
+      "start_line": 843
+    },
+    {
+      "anchor": "appendix-5",
+      "end_line": 864,
+      "heading": "APPENDIX 5",
+      "level": 1,
+      "start_line": 861
+    },
+    {
+      "anchor": "solidified-metal-seal-development",
+      "end_line": 872,
+      "heading": "SOLIDIFIED METAL SEAL DEVELOPMENT",
+      "level": 1,
+      "start_line": 865
+    },
+    {
+      "anchor": "uncl-assified-y-26029",
+      "end_line": 883,
+      "heading": "Uncl Assified Y-26029",
+      "level": 2,
+      "start_line": 873
+    },
+    {
+      "anchor": "appendix-6",
+      "end_line": 887,
+      "heading": "Appendix 6",
+      "level": 2,
+      "start_line": 884
+    },
+    {
+      "anchor": "inter-company-correspondence",
+      "end_line": 889,
+      "heading": "INTER-COMPANY CORRESPONDENCE",
+      "level": 1,
+      "start_line": 888
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 929,
+      "heading": "UNION CARBIDE NUCLEAR COMPANY",
+      "level": 1,
+      "start_line": 890
+    },
+    {
+      "anchor": "appendix-7",
+      "end_line": 965,
+      "heading": "APPENDIX 7",
+      "level": 1,
+      "start_line": 930
+    },
+    {
+      "anchor": "section-a-a",
+      "end_line": 967,
+      "heading": "Section A-A",
+      "level": 2,
+      "start_line": 966
+    },
+    {
+      "anchor": "note",
+      "end_line": 968,
+      "heading": "Note.",
+      "level": 2,
+      "start_line": 968
+    },
+    {
+      "anchor": "i-all-welding-to-be-completed-before",
+      "end_line": 969,
+      "heading": "I-All Welding To Be Completed Before",
+      "level": 2,
+      "start_line": 969
+    },
+    {
+      "anchor": "finish-machining-both-faces-groove",
+      "end_line": 970,
+      "heading": "Finish Machining Both Faces, Groove",
+      "level": 2,
+      "start_line": 970
+    },
+    {
+      "anchor": "406-dia-bore-503-dia-cbore-eend",
+      "end_line": 971,
+      "heading": "406 Dia. Bore, 503 Dia.Cbore, Eend",
+      "level": 2,
+      "start_line": 971
+    },
+    {
+      "anchor": "milledplacesand-504-dia",
+      "end_line": 1001,
+      "heading": "Milledplacesand 504 Dia.",
+      "level": 2,
+      "start_line": 972
+    },
+    {
+      "anchor": "d-2-02-054-6777",
+      "end_line": 1016,
+      "heading": "D-2-02-054-6777",
+      "level": 2,
+      "start_line": 1002
+    },
+    {
+      "anchor": "silver-alloy-ring-is",
+      "end_line": 1018,
+      "heading": "Silver Alloy Ring Is",
+      "level": 2,
+      "start_line": 1017
+    },
+    {
+      "anchor": "melted-after-joint",
+      "end_line": 1020,
+      "heading": "Melted After Joint",
+      "level": 2,
+      "start_line": 1019
+    },
+    {
+      "anchor": "is-assembled-joint-is",
+      "end_line": 1022,
+      "heading": "Is Assembled. Joint Is",
+      "level": 2,
+      "start_line": 1021
+    },
+    {
+      "anchor": "surrounded-by-electric",
+      "end_line": 1024,
+      "heading": "Surrounded By Electric",
+      "level": 2,
+      "start_line": 1023
+    },
+    {
+      "anchor": "clamshell-heaters-of",
+      "end_line": 1026,
+      "heading": "Clamshell Heaters Of",
+      "level": 2,
+      "start_line": 1025
+    },
+    {
+      "anchor": "quick-removal-type",
+      "end_line": 1028,
+      "heading": "Quick Removal Type",
+      "level": 2,
+      "start_line": 1027
+    },
+    {
+      "anchor": "for-joint-replacement",
+      "end_line": 1030,
+      "heading": "For Joint Replacement.",
+      "level": 2,
+      "start_line": 1029
+    },
+    {
+      "anchor": "c-2-02-054-6837",
+      "end_line": 1043,
+      "heading": "C-2-02-054-6837",
+      "level": 2,
+      "start_line": 1031
+    },
+    {
+      "anchor": "designed-to-specifications-of-mr-a-olsen",
+      "end_line": 1056,
+      "heading": "Designed To Specifications Of Mr A. Olsen.",
+      "level": 2,
+      "start_line": 1044
+    },
+    {
+      "anchor": "d-2-02-054-7249",
+      "end_line": 1058,
+      "heading": "D-2-02-054-7249",
+      "level": 2,
+      "start_line": 1057
+    },
+    {
+      "anchor": "material-interchangeable",
+      "end_line": 1059,
+      "heading": "Material: Interchangeable",
+      "level": 2,
+      "start_line": 1059
+    },
+    {
+      "anchor": "seals-to-bc-fabricated-of",
+      "end_line": 1064,
+      "heading": "Seals To Bc Fabricated Of:-",
+      "level": 2,
+      "start_line": 1060
+    },
+    {
+      "anchor": "plate-2015-thick",
+      "end_line": 1085,
+      "heading": "(Plate :2015 Thick.)",
+      "level": 2,
+      "start_line": 1065
+    },
+    {
+      "anchor": "scer-in-campon-3tet",
+      "end_line": 1097,
+      "heading": "Scer-In/Campon 3Tet",
+      "level": 2,
+      "start_line": 1086
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 1099,
+      "heading": "List of Figures",
+      "level": 1,
+      "start_line": 1098
+    },
+    {
+      "anchor": "figure-no",
+      "end_line": 1146,
+      "heading": "Figure No.",
+      "level": 1,
+      "start_line": 1100
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 1161,
+      "heading": "List of Tables",
+      "level": 1,
+      "start_line": 1147
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 1314,
+      "heading": "Distribution",
+      "level": 1,
+      "start_line": 1162
+    },
+    {
+      "anchor": "27-tise-aec",
+      "end_line": 1315,
+      "heading": "27. TISE, AEC",
+      "level": 2,
+      "start_line": 1315
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-58-8-33",
+  "tables": [],
+  "title": "![](images/864e78d37360aeaf15dfab3d6a3e5cb46cca08effcfdfef28b196422146a54f3.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

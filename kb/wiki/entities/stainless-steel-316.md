@@ -1,0 +1,243 @@
+# stainless steel 316
+
+## Overview
+
+- Type: alloy-material
+- Documents: 183
+- First seen: March 3, 1901
+- Last seen: unknown
+
+## Topic Profile
+
+- materials-and-corrosion (170)
+- reactor-operations (166)
+- pumps-loops-and-heat-exchangers (146)
+- salt-chemistry-and-redox (132)
+- salt-systems-and-thermophysics (121)
+- reactor-physics-neutronics (113)
+- safety-shielding-and-remote-maintenance (97)
+- off-gas-fission-products-and-tritium (87)
+
+## Related Entities
+
+- ARE [reactor] (183)
+- ORNL [organization] (179)
+- AEC [organization] (164)
+- nickel [alloy-material] (159)
+- Union Carbide [organization] (157)
+- graphite [alloy-material] (145)
+- pump [component] (139)
+- fluoride salt [salt-system] (138)
+- loop [component] (137)
+- molybdenum [alloy-material] (135)
+- zirconium [alloy-material] (133)
+- heat exchanger [component] (131)
+
+## Representative Claims
+
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td>T(K)</td><td>K(ohm-1cm-1)</td><td>T(K)</td><td>K(ohm-1cm-1)</td></tr><tr><td>470</td><td>0.019</td><td>580</td><td>0.197</td></tr><tr><td>480</td><td>0.028</td><td>590</td><td>0.220</td></tr><tr><td>490</td><td>0.038</td><td>600</td><td>0.243</td></tr><tr><td>500</td><td>0.050</td><td>610</td><td>0.267</td></tr><tr><td>510</td><td>0.063</td><td>620</td><td>0.291</td></tr><tr><td>520</td><td>0.079</td><td>630</td><td>0.316</td></tr><tr><td>530</td><td>0.096</td><td>640</td><td>0.340</td></tr><tr><td>540</td><td>0.114</td><td>650</td><td>0.365</td></tr><tr><td>550</td><td>0.133</td><td>660</td><td>0.390</td></tr><tr><td>560</td><td>0.153</td><td>670</td><td>0.415</td></tr><tr><td>570</td><td>0.175</td><td>.680</td><td>0.440</td></tr></table>
+- [[../documents/ornl-cf-44-11-236.md|AQUEOUS HOMOGENEOUS REACTORS]] - December 2, 1942
+  - <table><tr><td>Fiscal year</td><td>Millions of dollars</td><td>Man-years (technical)</td></tr><tr><td>1949</td><td>0.15</td><td>5</td></tr><tr><td>1950</td><td>0.54</td><td>15</td></tr><tr><td>1951</td><td>2.2</td><td>75</td></tr><tr><td>1952</td><td>4.1</td><td>127</td></tr><tr><td>1953</td><td>3.4</td><td>119</td></tr><tr><td>1954</td><td>3.9</td><td>133</td></tr><tr><td>1955</td><td>7.7</td><td>219</td></tr><tr><td>1956</td><td>9.1</td><td>238</td></tr><tr><td>1957</td><td>10.0</td><td>316</td></tr><tr><td>1958</td><td>11.5</td><td>333</td></tr></table>
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949
+  - 37 Sections of Hot and Cold Legs of a Type-316 Stainless Steel Convection Loop After Circulating the Fluoride Fuel (NaF-KF-LiF-UF $_4$ ) for 123 Hours 126
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949
+  - <table><tr><td rowspan="2">LOOP NO.</td><td rowspan="2">MATERIAL</td><td rowspan="2">COOLANT</td><td rowspan="2">TIME OF CIRCULATION (hr)</td><td rowspan="2">REASON FOR TERMINATION</td><td rowspan="2">HOT LEG TEMPERATURE (°F)</td><td rowspan="2">MINIMUM TEMPERATURE (start) (°F)</td><td rowspan="2">MINIMUM TEMPERATURE (termination) (°F)(a)</td><td rowspan="2">X-RAY STUDIES</td><td colspan="2">METALLOGRAPHIC NOTES</td></tr><tr><td>HOT LEG</td><td>COLD LEG</td></tr><tr><td>78</td><td>Inconel</td><td>Flinak 12(b)</td><td>1000</td><td>Scheduled</td><td>1500</td><td>1220</td><td>1220</td><td></td><td>Intermittent layer of pits, 5 mils, intergranular attack, 10 mils</td><td>No attack, no mass transfer</td></tr><tr><td>111</td><td>Type-316 stainless steel</td><td>Flinak 12</td><td>173</td><td>Leak</td><td>1525</td><td>1210</td><td>1150</td><td></td><td>Very coarse-grained metal, inter-granular attack 10 mils, some reduction of wall</td><td>Very coarse-grained metal, continuous layer, 1 mil, no attack</td></tr><tr><td>112</td><td>Type-316 stainless steel</td><td>Flinak 14(c)</td><td>82</td><td>Plug</td><td>1500</td><td>1210</td><td>960</td><td>Second phase in hot leg, possibly in cold leg</td><td>Intergranular attack up to 8 mils</td><td>Intermittent mass transfer layer</td></tr><tr><td>113</td><td>Type-316 stainless steel</td><td>Flinak 14</td><td>123</td><td>Plug</td><td>1600(d)</td><td>1250</td><td>?</td><td></td><td>Intergranular attack 8 mils, some pitting</td><td>Thin mass transfer layer</td></tr><tr><td>210</td><td>Inconel</td><td>Flinak 14</td><td>500</td><td>Scheduled</td><td>1500</td><td>1245</td><td>1245</td><td></td><td>Layer of pits 10 mils, with maximum of 15 mils; layer on surface 2 mils</td><td>Slight surface roughening</td></tr><tr><td>211</td><td>Inconel</td><td>Flinak 14</td><td>500</td><td>Scheduled</td><td>1500</td><td>1250</td><td>1245</td><td>Second phase in hot horizontal end cold legs</td><td>Layer of pits, 4 to 8 mils, rough surface</td><td>Thin continuous layer on surface, surface rough</td></tr><tr><td>212</td><td>Inconel</td><td>Flinak 14</td><td>38</td><td>Leak</td><td>1500</td><td>1230</td><td>1230</td><td></td><td>Intermittent layer of pits, 5 mils</td><td></td></tr><tr><td>40</td><td>Type-410 stainless steel</td><td>Flinak 14</td><td>9</td><td>Plug</td><td>1500</td><td>1240</td><td>1115</td><td>Second phase in hot horizontal and cold legs, possibly in hot leg</td><td></td><td></td></tr><tr><td>43</td><td>Type-410 stainless steel</td><td>Flinak 14</td><td>12</td><td>Plug</td><td>1500</td><td>1230</td><td>1160</td><td>Second phase in both parts of hot leg</td><td></td><td></td></tr><tr><td>48</td><td>Type-430 stainless steel</td><td>Flinak 14</td><td>8</td><td>Plug</td><td>1500</td><td>1250</td><td>?</td><td>Second phase found in all sections</td><td></td><td></td></tr><tr><td>49</td><td>Type-430 stainless steel</td><td>Flinak 14</td><td>9</td><td>Leak</td><td>1500</td><td>1250</td><td>1150</td><td></td><td></td><td></td></tr><tr><td>275</td><td>Type-347 stainless steel</td><td>Flinak 14</td><td>39</td><td>Leak</td><td>1500</td><td>1250</td><td>1100</td><td>Second phase in hot horizontal leg</td><td>Intergranular attack, 8 to 13 mils, grains 50 times larger than in cold leg</td><td>Layer of 1 mil with nonmetallic particles on and in it</td></tr><tr><td>251</td><td>Type-310 stainless steel</td><td>Flinak 14</td><td>73</td><td>Plug</td><td>1500</td><td>1260</td><td>1140</td><td>Second phase in hot horizontal leg, possibly in cold leg</td><td></td><td></td></tr><tr><td>104</td><td>Nickel</td><td>Flinak 14</td><td>500</td><td>Scheduled</td><td>1500</td><td>1260</td><td>1185</td><td>Second phase in all parts of hot leg, possibly in cold leg</td><td></td><td></td></tr><tr><td>118</td><td>Type-316 stainless steel(e)</td><td>Flinak 14</td><td>147</td><td>Plug(f)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>214</td><td>Inconel</td><td>Flinak 12 + NaK</td><td>500</td><td>Scheduled(f)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>116</td><td>Type-316 stainless steel</td><td>Flinak 12</td><td>350</td><td>(g)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>119</td><td>Type-316 stainless steel</td><td>Flinak 12 + NaK</td><td>350</td><td>(g)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>213</td><td>Inconel(g)</td><td>Flinak 14</td><td>200</td><td>(g)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>216</td><td>Inconel</td><td>Fubena 17(h)</td><td>225</td><td>(g)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>217</td><td>Inconel</td><td>Fubena 17</td><td>375</td><td>(g)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>365</td><td>Nimonic(i)</td><td>Flinak 14</td><td>225</td><td>(g)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>276</td><td>Type-347 stainless steel</td><td>Flinak 14</td><td>19</td><td>(g)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949
+  - <table><tr><td></td><td>APPROXIMATE MELTING POINT (°C)</td><td>HEAT CAPACITY (cal/°C·g)</td><td>THERMAL CONDUCTIVITY (Btu/hr·ft2·°F/ft)</td><td>VISCOSITY (centipoise)</td></tr><tr><td rowspan="3">Sodium hydroxide</td><td rowspan="3">323(a)</td><td rowspan="3">Liquid, 0.49 at 340°C &lt; T &lt; 990°C (b)</td><td rowspan="3">0.81 at 520°C(c)</td><td>4.0 at 350°C(d)</td></tr><tr><td>2.2 at 450°C</td></tr><tr><td>1.5 at 550°C</td></tr><tr><td rowspan="2">Lead-bismuth alloy (55.3 mole % Bi)</td><td rowspan="2">125(e)</td><td rowspan="2">Liquid, 0.035 at 175°C &lt; T &lt; 1000°C (b)</td><td>5.32 at 160°C(e)</td><td rowspan="2">1.0 at 650°C</td></tr><tr><td>6.53 at 320°C</td></tr><tr><td rowspan="2">Nickel</td><td rowspan="2">1452(f)</td><td rowspan="2">Solid, 0.12 + 3.1 x 10-5T at 240°C &lt; T&lt; 980°C(b)</td><td>36 at 0°C(g)</td><td rowspan="2"></td></tr><tr><td>32 at 300°C</td></tr><tr><td rowspan="2">Type-316 stainless steel</td><td rowspan="2">1370 to 1400(h)</td><td rowspan="2">Solid, 0.1093 + 5.66 x 10-5T at 150°C &lt; T &lt; 1000°C(i)</td><td>9.02 at 100°C(h)</td><td rowspan="2"></td></tr><tr><td>12.4 at 500°C</td></tr><tr><td rowspan="2">Lithium</td><td rowspan="2">186(f)</td><td rowspan="2">Liquid, 1.001 + 2.76 x 10-5T at 250°C &lt; T &lt; 1000°C(i)</td><td rowspan="2">20.6 to 26.6 at m.p.(e)</td><td>0.60 at 205°C(d)</td></tr><tr><td>0.41 at 1000°C</td></tr><tr><td rowspan="3">Zirconium</td><td rowspan="3">1700(f)</td><td rowspan="3">Solid, 0.0697 + 3.62 x 10-5T at 150°C &lt; T &lt; 1050°C(i)</td><td>11.3 at room temp.(j)</td><td rowspan="3"></td></tr><tr><td>11.2 at 200°C</td></tr><tr><td>10.7 at 500°C</td></tr><tr><td rowspan="3">Molybdenum</td><td rowspan="3">2620(f)</td><td rowspan="3">Solid, 0.0675 at 150°C &lt; T &lt; 1050°C(i)</td><td>70.3 at 540°C(k)</td><td rowspan="3"></td></tr><tr><td>62.9 at 870°C</td></tr><tr><td>56.5 at 1145°C</td></tr></table>
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949
+  - <table><tr><td>MATERIAL</td><td>ADDITIVE</td><td>WEIGHT CHANGE (mg/in.2)</td><td>DEPTH OF METAL AFFECTED (mils)</td><td>METALLOGRAPHIC NOTES</td></tr><tr><td>Type-304 stainless steel</td><td></td><td></td><td>2</td><td>5-mil oxide layer</td></tr><tr><td>Type-304 stainless steel</td><td>10% Zr</td><td></td><td>2 1/2</td><td>6-mil oxide layer</td></tr><tr><td>Type-304 stainless steel</td><td>30% Na2CO3</td><td></td><td>3</td><td>6-mil oxide layer</td></tr><tr><td>A-Nickel</td><td>7% Zr</td><td></td><td></td><td>No attack</td></tr><tr><td>Inconel</td><td>12% Zr</td><td></td><td>3</td><td>11-mil oxide layer</td></tr><tr><td>Type-316 stainless steel</td><td>48% NaCN</td><td>-286.6</td><td>2</td><td>Intergranular attack</td></tr><tr><td>Inconel</td><td>49% NaCN</td><td>-207.3</td><td>7</td><td>Intergranular attack</td></tr><tr><td>Inconel</td><td>7.4% Na</td><td></td><td>Complete penetration</td><td>Specimen converted completely to corrosion product</td></tr><tr><td>Inconel</td><td>50% Na</td><td></td><td>Complete penetration</td><td>Specimen converted completely to corrosion product</td></tr><tr><td>A-Nickel</td><td>14% Na</td><td>+51.1</td><td></td><td>No corrosion product, but edge of specimen rough</td></tr><tr><td>A-Nickel</td><td>54% Na</td><td>-2.5</td><td></td><td>No attack</td></tr><tr><td>Inconel</td><td>31% NaH</td><td></td><td>Complete penetration</td><td>Specimen converted completely to corrosion product</td></tr><tr><td>Type-304 stainless steel</td><td>31% NaH</td><td>-24.9</td><td>4 1/2</td><td>Oxide layer</td></tr></table>
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949
+  - A Durco centrifugal pump (Model H 34MDVX-80) made of type-316 stainless steel has been modified to incorporate a frozen sodium seal.
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949
+  - A type-316 stainless steel Durco pump similar to that described above has been modified to incorporate a copper-finned-sleeve frozen sodium seal that will be cooled by forced-air convection.
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949
+  - Construction is under way on a type-316 stainless steel Durco centrifugal pump having a conventional stuffing box packed with Inconel braid and a lubricant similar to that described in the first part of this section.
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949
+  - Even so, weight change and penetration data from the recent tests with dilute fuels do not justify a conclusion as to which metal among Inconel and stainless steels types-316, -321, -347 and -316 ELC is superior.
+
+## Chronology
+
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901 - mentions: 4
+- [[../documents/ornl-cf-44-11-236.md|AQUEOUS HOMOGENEOUS REACTORS]] - December 2, 1942 - ORNL-CF-44-11-236 - mentions: 7
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949 - ORNL-1227 - mentions: 27
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950 - ORNL-2396 - mentions: 2
+- [[../documents/ornl-768.md|![](images/2320d333e10a25961655804d1d96e2b4430e9026c7e2efa85383bdac53ac4871.jpg)]] - May 31, 1950 - mentions: 3
+- [[../documents/ornl-858.md|OAK RIDGE NATIONAL LABORATORY LIBRARIES]] - August 31, 1950 - mentions: 15
+- [[../documents/ornl-919.md|![](images/d56634a82ca37bdef522a781b40ef7fdd1ffb9df4521294bc9d2f7c338e38c9c.jpg)]] - December 10, 1950 - ANP-53 - mentions: 28
+- [[../documents/ornl-1368.md|ORNL 1368]] - 1951 - ORNL-1368 - mentions: 1
+- [[../documents/anp-60.md|ANP-60(Dol.)]] - March 10, 1951 - ANP-60 - mentions: 23
+- [[../documents/anp-65.md|LEGAL NOTICE]] - June 10, 1951 - ANP-65 - mentions: 30
+- [[../documents/ornl-1154.md|![](images/569ae7f7c4c2e5fcc4c9c5621eb57a821febcbce214d7ad5885ee1e58160dbb2.jpg)]] - September 10, 1951 - ORNL-528 - mentions: 53
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951 - ORNL-1170 - mentions: 32
+- [[../documents/ornl-1234.md|![](images/b3ecd7f476e9459b128de5e6d74121df5dc5fd4e39228b814db47431e850b02f.jpg)]] - June 2, 1952 - ORNL-1234 - mentions: 8
+- [[../documents/ornl-1294.md|ASSIFIED]] - June 10, 1952 - ORNL-1294 - mentions: 29
+- [[../documents/ornl-1491.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - September 1952 - ORNL-1491 - mentions: 3
+- [[../documents/ornl-1375.md|![](images/375b6eaad5730c3389afc4dc53449468f7637184e63a5fd69d2d1c0c412530df.jpg)]] - September 10, 1952 - ORNL-1375 - mentions: 26
+- [[../documents/mit-5001.md|MIT-5001]] - October 15, 1952 - mentions: 3
+- [[../documents/nuclear-problems.md|NUCLEAR PROBLEMS]] - October 15, 1952 - mentions: 2
+- [[../documents/ornl-1439.md|![](images/fc02949994d760b22c2ed04a0d81a713f8c686040afa93e0e53c859df3f83b19.jpg)]] - December 10, 1952 - ORNL-1439 - mentions: 35
+- [[../documents/ornl-1634.md|CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION]] - 1953 - mentions: 1
+- [[../documents/ornl-1515.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - March 10, 1953 - ORNL-1515 - mentions: 13
+- [[../documents/ornl-2337.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - May 1, 1953 - ORNL-118 - mentions: 17
+- [[../documents/ornl-2338.md|ORNL-2338]] - May 1, 1953 - ORNL-2338 - mentions: 3
+- [[../documents/ornl-1556.md|![](images/c369b356e067aec6a42047b4dd870b23726bf44bc6d9ad4322706be0e93e00d1.jpg)]] - June 10, 1953 - ORNL-1556 - mentions: 22
+- [[../documents/ornl-1609.md|DECLASSIFIED]] - September 10, 1953 - ORNL-1609 - mentions: 17
+- [[../documents/ornl-1649.md|DECLASSIFIED]] - December 10, 1953 - ORNL-1449 - mentions: 9
+- [[../documents/ornl-1702.md|DECLASSIFIED]] - 1954 - mentions: 2
+- [[../documents/ornl-1716.md|DECLASSIFIED]] - 1954 - mentions: 3
+- [[../documents/ornl-1770.md|LEG RESEARCH AND DEVELOPMENT REPORT]] - 1954 - ORNL-1615 - mentions: 2
+- [[../documents/ornl-1692.md|![](images/ac719642e9213280d3c16ec9f3ea45551575992f2d409365b68e0a3d073c02a2.jpg)]] - March 10, 1954 - ORNL-528 - mentions: 11
+- [[../documents/ornl-1721.md|AEG RESEARCH AND DEVELOPMENT REPORT FORM-1721]] - May 1954 - ORNL-1721 - mentions: 2
+- [[../documents/ornl-1729.md|![](images/b54a392e6f8c9768ec6ae55cbf2539b5e7b81adcde8c4a0a0424955e3e870da6.jpg)]] - June 10, 1954 - ORNL-1729 - mentions: 21
+- [[../documents/ornl-1771.md|![](images/d8f8ec27cf5780aed4f301ea659c6fb81b8e6216d4dbabd345b92b60b29a22ff.jpg)]] - September 10, 1954 - ORNL-1771 - mentions: 15
+- [[../documents/ornl-1816.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - December 10, 1954 - ORNL-1816 - mentions: 9
+- [[../documents/ornl-2095.md|ORNL-2095]] - December 10, 1954 - ORNL-2095 - mentions: 2
+- [[../documents/ornl-1777.md|![](images/2162c866e45ff7251413a38197b6da08d0298fd55e10f9de80ab1fd2ad797e5d.jpg)]] - 1955 - mentions: 6
+- [[../documents/ornl-1810.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1955 - ORNL-1810 - mentions: 1
+- [[../documents/ornl-1864.md|CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION]] - March 10, 1955 - ORNL-1864 - mentions: 14
+- [[../documents/ornl-1896.md|ANP Authorization Required]] - June 10, 1955 - ORNL-1896 - mentions: 8
+- [[../documents/ornl-1845.md|OPERATION OF THE AIRCRAFT REACTOR EXPERIMENT]] - September 6, 1955 - ORNL-1845 - mentions: 2
+- [[../documents/ornl-1947.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 10, 1955 - ORNL-528 - mentions: 12
+- [[../documents/ornl-2012.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 10, 1955 - ORNL-2012 - mentions: 7
+- [[../documents/ornl-2103.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1956 - ORNL-2103 - mentions: 2
+- [[../documents/ornl-2150.md|ORNL MASTER COPY]] - 1956 - mentions: 1
+- [[../documents/ornl-2061.md|AEC RESEARCH AND DEVELOPMENT REPORT CENTRAL RESEARCH LIBRARY DOCUMENTATION]] - March 10, 1956 - ORNL-528 - mentions: 14
+- [[../documents/ornl-2157.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 10, 1956 - ORNL-2157 - mentions: 22
+- [[../documents/ornl-2373.md|AEC RESEARCH AND DEVELOPMENT REPORT ORNL-2373 C-84 - Reactors]] - 1957 - ORNL-2373 - mentions: 1
+- [[../documents/ornl-cf-56-8-208.md|FOR INTERNAL USE ONLY]] - March 4, 1957 - mentions: 5
+- [[../documents/ornl-cf-56-8-204.md|UNITED STATES ATOMIC ENERGY COMMISSION]] - March 5, 1957 - CF-56-8-204 - mentions: 1
+- [[../documents/ornl-2274.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - March 31, 1957 - ORNL-528 - mentions: 16
+- [[../documents/ornl-cf-57-4-27.md|![](images/3f7cf0a8001da7322a0b64862847fd098bcc14dff6f113c0f2b93b24ab9b98f8.jpg)]] - April 29, 1957 - CF-57-1-10 - mentions: 4
+- [[../documents/ornl-2340-p-1-5.md|DECLASSIFIED]] - June 30, 1957 - ORNL-2340 - mentions: 4
+- [[../documents/ornl-2378.md|AEC RESE CRFMENT REPORT]] - September 1, 1957 - ORNL-2378 - mentions: 1
+- [[../documents/ornl-2387.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 30, 1957 - ORNL-2387 - mentions: 21
+- [[../documents/ornl-2440.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 31, 1957 - ORNL-2440 - mentions: 3
+- [[../documents/ornl-4865.md|![](images/721f0108e98d763d8cd0e48fd43ed482bb883f99405b5a08e694334c66f2d9dd.jpg)]] - January 31, 1958 - ORNL-2474 - mentions: 1
+- [[../documents/ornl-2474.md|ORNL-2474]] - January 31, 1958 - ORNL-2474 - mentions: 3
+- [[../documents/ornl-2348.md|![](images/8e6b8d932129bafb5d8bd19c42cd9523689223a3e18ed2cd5cbfe74b77bae858.jpg)]] - February 15, 1958 - ORNL-2348 - mentions: 2
+- [[../documents/ornl-2551.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - February 15, 1958 - ORNL-2551 - mentions: 2
+- [[../documents/ornl-cf-58-2-40.md|![](images/0c538bb6e92b5c6673ab71f9608cf1053b2861e424730db343ba9f9ec18e714f.jpg)]] - February 18, 1958 - mentions: 3
+- [[../documents/ornl-2517.md|DECLASSIFIED]] - March 31, 1958 - ORNL-2517 - mentions: 1
+- [[../documents/ornl-2634.md|ORNL-2634]] - May 1, 1958 - ORNL-2634 - mentions: 6
+- [[../documents/molten-salt-reactors.md|MOLTEN-SALT REACTORS]] - June 1958 - mentions: 6
+- [[../documents/anl-4342.md|Part III]] - June 1958 - ANL-4342 - mentions: 6
+- [[../documents/ornl-tm-4272.md|![](images/39a504e821f9634b797d93754f178abf89a6fbddacb1fa0530dd4a8f4342ce4f.jpg)]] - June 30, 1958 - ORNL-4254 - mentions: 1
+- [[../documents/fluid-fuel-reactors.md|FLUID FUEL REACTORS]] - September 1958 - mentions: 2
+- [[../documents/ornl-2760.md|ORNL-2760]] - September 1958 - ORNL-2760 - mentions: 2
+- [[../documents/ornl-2599.md|![](images/5d44b831448e7d54cd570a819efc121753866f220a0f543baad87009e02a8d8f.jpg)]] - September 30, 1958 - ORNL-2599 - mentions: 3
+- [[../documents/ornl-2626.md|ORNL-2626]] - October 31, 1958 - ORNL-2626 - mentions: 1
+- [[../documents/ornl-2751.md|![](images/95066d96705fecd506bbc5cc50e1eb4c9cef1806ce5ba44eba157d4a1ee94121.jpg)]] - 1959 - ORNL-2751 - mentions: 1
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959 - ORNL-TM-1993 - mentions: 2
+- [[../documents/ornl-2677.md|![](images/cdeafc586139ac9534e06094b47ca65a41696be77bb2d56e6ea3f3ad2db1f6da.jpg)]] - 1959 - ORNL-2677 - mentions: 1
+- [[../documents/tid-8507.md|CENTRAL RESEARCH LIBRAR]] - January 2, 1959 - mentions: 5
+- [[../documents/ornl-2684.md|ORNL-2684]] - January 31, 1959 - ORNL-2684 - mentions: 3
+- [[../documents/ornl-2711.md|CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION]] - March 31, 1959 - ORNL-2711 - mentions: 11
+- [[../documents/ornl-2799.md|![](images/e196c8971f9cbd257f2fbb5070322e5c08ad2686223df5233b579472fdad4e95.jpg)]] - July 31, 1959 - ORNL-2799 - mentions: 2
+- [[../documents/ornl-2796.md|Contract No. W-7405-eng-26]] - 1960 - mentions: 1
+- [[../documents/ornl-2942.md|ORNL-2942]] - April 30, 1960 - ORNL-2942 - mentions: 12
+- [[../documents/ornl-cf-60-6-97.md|OAK RIDGE NATIONAL LABORATORY]] - July 25, 1960 - mentions: 1
+- [[../documents/ornl-3029.md|ORNL-3029]] - October 31, 1960 - ORNL-3029 - mentions: 11
+- [[../documents/ornl-2780.md|MASTER COPY]] - 1961 - ORNL-2780 - mentions: 1
+- [[../documents/ornl-2832.md|ORNL-2832]] - 1961 - ORNL-2832 - mentions: 1
+- [[../documents/ornl-3144.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - April 30, 1961 - ORNL-3144 - mentions: 16
+- [[../documents/ornl-tm-1060.md|ORNL-TM-1060]] - July 1961 - ORNL-TM-1060 - mentions: 1
+- [[../documents/ornl-tm-326.md|![](images/3d8d3e1b57d12f28ca78e18580ea72a55d088ce771256a28cc504d757a0968cb.jpg)]] - 1962 - ORNL-TM-326 - mentions: 1
+- [[../documents/nas-ns-3050.md|National Research Council]] - March 1962 - mentions: 8
+- [[../documents/ornl-3593.md|ORNL-3593]] - 1964 - ORNL-3593 - mentions: 2
+- [[../documents/ornl-3708.md|![](images/50503ced8a785d6711476b9d883192f94a77603d1c0894f00fd35b69e5171bf6.jpg)]] - July 31, 1964 - ORNL-3708 - mentions: 1
+- [[../documents/ornl-tm-4286.md|![](images/efcbf614eaf10c25932c7194f018f827dd8994802174e2a19b1489f8dd55aeaf.jpg)]] - July 31, 1964 - ORNL-TM-4286 - mentions: 9
+- [[../documents/ornl-tm-3832.md|![](images/1300c978e545fa137f7c638f011312135b3d51a64be678af13c0b08dfc7b58c9.jpg)]] - December 1964 - ORNL-TM-3832 - mentions: 1
+- [[../documents/ornl-tm-728.md|ORNL-TM-728]] - 1965 - ORNL-TM-728 - mentions: 8
+- [[../documents/ornl-tm-2359.md|ORNL-TM-2359]] - June 1, 1965 - ORNL-TM-2359 - mentions: 1
+- [[../documents/ornl-3872.md|ORNL-3872]] - August 31, 1965 - ORNL-3872 - mentions: 1
+- [[../documents/nas-ns-3058.md|National]] - September 1, 1965 - mentions: 2
+- [[../documents/ornl-3913.md|ORNL.3913]] - December 31, 1965 - mentions: 1
+- [[../documents/ornl-3996.md|ORNL-3996]] - 1966 - ORNL-3996 - mentions: 1
+- [[../documents/ornl-3936.md|ORNL-3936]] - February 28, 1966 - ORNL-3936 - mentions: 2
+- [[../documents/anl-7228.md|Argonne National Laboratory]] - June 1966 - ANL-6892 - mentions: 2
+- [[../documents/ornl-4037.md|ORNL-4037]] - August 31, 1966 - ORNL-4037 - mentions: 2
+- [[../documents/ornl-tm-3595.md|ORNL-TM-3595]] - June 1967 - ORNL-TM-3595 - mentions: 2
+- [[../documents/ornl-4528.md|![](images/efa4c365b6bf3e13da5500ec9fed0e63178b1fa0c3de881bcc6d38a1bdf4d24f.jpg)]] - August 1967 - ORNL-4528 - mentions: 1
+- [[../documents/ornl-4191.md|ORNL-4191]] - August 31, 1967 - ORNL-4191 - mentions: 1
+- [[../documents/ornl-tm-3139.md|![](images/efc1abe274c498a9db59a30c589c9d4566585d1e4adbb7fa33858f0a873a6b41.jpg)]] - September 1967 - ORNL-TM-3139 - mentions: 3
+- [[../documents/ornl-tm-3488.md|ORNL-TM-3488]] - October 1967 - ORNL-TM-3488 - mentions: 1
+- [[../documents/ornl-tm-1855.md|![](images/1b350d6b5cc04bc7d7604b9dd9cc29d2a51787f05b2cf8392565028b4005a7ea.jpg)]] - October 3, 1967 - ORNL-TM-1855 - mentions: 1
+- [[../documents/ornl-tm-3140.md|![](images/aa4541a23bb514df42f9211c6010a03b9d789c27b843e025572af5620d0ac9d1.jpg)]] - December 1967 - ORNL-TM-3140 - mentions: 1
+- [[../documents/ornl-tm-2305.md|![](images/db6785ee9eb6ca62c9623a7b9062899cbbe388e95f136cbcc441191fe9416eae.jpg)]] - December 1967 - ORNL-TM-2305 - mentions: 1
+- [[../documents/ornl-tm-2258.md|IRRADIATION BEHAVIOR OF CLADDING AND STRUCTURAL MATERIALS]] - 1968 - mentions: 1
+- [[../documents/ornl-tm-2213.md|ORNL TM-2213]] - 1968 - mentions: 1
+- [[../documents/ornl-4451.md|ORNL-4451]] - February 16, 1968 - ORNL-4451 - mentions: 1
+- [[../documents/ornl-tm-3141.md|![](images/c5e87338712dcc44c6589519e8f64eb28633941075e2834073cfb39af3caccb3.jpg)]] - March 1968 - ORNL-TM-314 - mentions: 1
+- [[../documents/ornl-tm-2741.md|ORNL-TM-2741]] - June 20, 1968 - ORNL-TM-2741 - mentions: 1
+- [[../documents/ornl-tm-3258.md|![](images/e1be72165e0d80134a5333c2fc49d4731fd163664688c43428428cc222ef1efa.jpg)]] - September 1968 - ORNL-TM-3258 - mentions: 1
+- [[../documents/ornl-tm-3259.md|![](images/e1861e548ef7d28210275552f525729eae0f3f742a266d286ee2bd5b68ed37e9.jpg)]] - December 1968 - ORNL-TM-3259 - mentions: 2
+- [[../documents/ornl-tm-4870.md|Engineering Development Studies for Mollen-Salt Breeder Reactor Processing No. 20]] - December 1968 - ORNL-TM-4870 - mentions: 1
+- [[../documents/ornl-tm-2696.md|![](images/c9c56a5050b308189d21a1a66f8e1e25bf85df050eea34e2be76f0b316de50ae.jpg)]] - 1969 - mentions: 1
+- [[../documents/oak-ridge-national-laboratory.md|OAK RIDGE NATIONAL LABORATORY]] - 1969 - mentions: 1
+- [[../documents/ornl-tm-2136.md|ORNL-TM-2136]] - 1969 - ORNL-TM-2136 - mentions: 1
+- [[../documents/ornl-tm-2478.md|ORNL-TM-2478]] - 1969 - ORNL-TM-2478 - mentions: 1
+- [[../documents/ornl-tm-2780.md|ORNL-TM-2780]] - 1969 - ORNL-TM-2780 - mentions: 1
+- [[../documents/ornl-4396.md|ORNL-4396]] - February 28, 1969 - ORNL-4396 - mentions: 1
+- [[../documents/symposium-on.md|Symposium on]] - August 1969 - mentions: 3
+- [[../documents/ornl-4449.md|ORNL-4449]] - August 31, 1969 - ORNL-4449 - mentions: 5
+- [[../documents/ornl-tm-3039.md|ORNL-TM-3039]] - December 1969 - ORNL-TM-3039 - mentions: 5
+- [[../documents/ornl-4473.md|CRNL-4473]] - 1970 - mentions: 1
+- [[../documents/ornl-4548.md|ORNL-4548]] - February 28, 1970 - ORNL-4548 - mentions: 6
+- [[../documents/ornl-4622.md|ORNL-4622]] - August 31, 1970 - ORNL-4622 - mentions: 4
+- [[../documents/ornl-tm-3064.md|![](images/cc78534ad0c78ee41ed8f6799d218eeb89e015ac987a03d6169e70cd9764946b.jpg)]] - 1971 - ORNL-TM-3064 - mentions: 2
+- [[../documents/ornl-4574.md|ORNL-4574]] - 1971 - ORNL-4574 - mentions: 1
+- [[../documents/ornl-4658.md|ORNL-4658]] - 1971 - ORNL-4658 - mentions: 3
+- [[../documents/ornl-tm-3528.md|ORNL-TM-3528]] - 1971 - ORNL-TM-3528 - mentions: 1
+- [[../documents/wash-1184.md|UPDATED (1970)]] - June 4, 1971 - mentions: 1
+- [[../documents/ornl-4728.md|![](images/75792d190f38fb318248f14df749be3ce5abb65eaf2a821ff2d87b4b580840ca.jpg)]] - August 31, 1971 - ORNL-2474 - mentions: 4
+- [[../documents/ornl-tm-3777.md|![](images/4e80ebbc34b88b5e66a9fbae9c7feebdc76c592fd4d469e4de02ed435b41e679.jpg)]] - 1972 - mentions: 5
+- [[../documents/ornl-tm-729b.md|![](images/bd0e590860934051f779e249050f37a09d2a097cccb825dcab2d262da64b6af1.jpg)]] - 1972 - mentions: 6
+- [[../documents/ornl-tm-3718.md|![](images/bf6b765dcde8655ab98c9773a0ef76b278184e6e491e3c65859aae14bfb70462.jpg)]] - 1972 - ORNL-TM-3718 - mentions: 1
+- [[../documents/ornl-tm-3151.md|ORNL-TM-3151]] - 1972 - ORNL-TM-3151 - mentions: 1
+- [[../documents/ornl-4782.md|MOLTEN-SALT REACTOR PROGRAM]] - February 29, 1972 - ORNL-2474 - mentions: 1
+- [[../documents/ornl-4812.md|The Development Status of]] - August 1972 - ORNL-4812 - mentions: 8
+- [[../documents/ornl-4832.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1972 - ORNL-2474 - mentions: 5
+- [[../documents/ornl-tm-3352.md|![](images/c9d1896fe0bb8997d171ed30cf7af2e6b763d9d0feaec58c6c5e8ba169f5fece.jpg)]] - December 1972 - ORNL-TM-3053 - mentions: 1
+- [[../documents/ornl-4831.md|![](images/bfb6139644898cc80bad93f341035cfebace2c7ec7e1439bbe0db86b92b4ae05.jpg)]] - 1973 - ORNL-4831 - mentions: 3
+- [[../documents/nd-74-66.md|JAN 10 1975]] - January 31, 1973 - ND/71/66 - mentions: 13
+- [[../documents/ornl-5018.md|![](images/96c48f13787c31854c9814da24c925e11be9013ba9fe9d693aa56a180614d0c1.jpg)]] - 1974 - ORNL-5018 - mentions: 4
+- [[../documents/ornl-5011.md|Molten-Salt Reactor Program]] - August 31, 1974 - ORNL-5011 - mentions: 5
+- [[../documents/nas-ns-3060.md|NAS-NS-3060]] - December 1974 - NAS-NS-3060 - mentions: 3
+- [[../documents/ornl-4995.md|![](images/a0572ccd70b274bcc5d02b451d7771bd945023e67f3685acf557e224b9ff80d3.jpg)]] - 1975 - ORNL-4995 - mentions: 4
+- [[../documents/ornl-5047.md|Molten-Salt]] - February 28, 1975 - ORNL-5047 - mentions: 1
+- [[../documents/ornl-5078.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1975 - ORNL-5078 - mentions: 4
+- [[../documents/ornl-tm-5104.md|A Study of Tritium Removal from Fusion Reactor Blankets of Molten Salt and Lithium-Aluminum]] - 1976 - mentions: 1
+- [[../documents/ornl-5132.md|![](images/d06517328823504576c5fcd7ace4c6cff5e8189745eaac1344265330e4180ef8.jpg)]] - February 29, 1976 - ORNL-2474 - mentions: 6
+- [[../documents/ornl-tm-5503.md|![](images/fa350c33801302759f13b1a6013405f50acb394a4a0e8ebc66a8299da33a2484.jpg)]] - November 1976 - mentions: 3
+- [[../documents/ornl-5143.md|ORNL5143]] - November 1976 - mentions: 1
+- [[../documents/carbon-14-production-in-nuclear-reactors.md|Carbon-14 Production in Nuclear Reactors]] - January 1977 - mentions: 5
+- [[../documents/ornl-tm-5682.md|![](images/70c0c27f9a692cb026f0224e45db71674f309ffd7b7fe01af09e3fce72eb4f98.jpg)]] - January 18, 1977 - mentions: 2
+- [[../documents/ornl-tm-5782.md|The Corrosion Resistance of Type 316 Stainless Steel to $\mathsf{Li}_2\mathsf{BeF}_4$]] - April 1977 - mentions: 11
+- [[../documents/ornl-tm-5781.md|![](images/a196266181650abc0bf276526fc9796ac3e6c3ce5b32bd5fc4cb4a12a79ce122.jpg)]] - May 1977 - mentions: 6
+- [[../documents/ornl-tm-5783.md|ORNL/TM-5783]] - May 1977 - mentions: 6
+- [[../documents/ornl-cf-77-391.md|OAK RIDGE NATIONAL LABORATORY]] - August 25, 1977 - mentions: 1
+- [[../documents/ornl-5388.md|![](images/d72845dd72114e2f306d1c4d023fd2be870df3b40c2bb15c58dda3cd8e787ec3.jpg)]] - 1978 - ORNL-5388 - mentions: 1
+- [[../documents/ornl-tm-5920.md|Status of Materials Development for Molen Salt Reactors]] - January 1978 - ORNL-5132 - mentions: 1
+- [[../documents/ornl-tm-6415.md|![](images/6f25af79db8446bcce7c7fe0081ce804cba28cc58dc153e91a50e4f262e223ad.jpg)]] - March 1979 - mentions: 1
+- [[../documents/ornl-tm-5565.md|Assessment of the Thorium Fuel Cycle in Power Reactors]] - October 3, 1979 - ORNL-5565 - mentions: 1
+- [[../documents/pnl-3116.md|PNL-3116]] - January 1980 - mentions: 4
+- [[../documents/nas-ns-3025.md|National]] - October 1980 - mentions: 1
+- [[../documents/ornl-tm-8298.md|![](images/583cba07e70dfe88395f9277198c43972cd63499a4b739dd26fbcc236f756818.jpg)]] - December 1982 - Y-17723 - mentions: 29
+- [[../documents/ornl-tm-9756.md|ORNL/TM-9756]] - September 1985 - mentions: 1
+- [[../documents/ornl-tm-11792.md|Chemical Technology Division]] - November 1991 - mentions: 1
+- [[../documents/ornl-tm-11955.md|OAK RIDGE NATIONAL LABORATORY]] - February 1992 - mentions: 1
+- [[../documents/ornl-tm-12925.md|OAK RIDGE NATIONAL LABORATORY]] - March 1995 - mentions: 4
+- [[../documents/ornl-tm-13553.md|Disposition Options for Uranium-233]] - June 1, 1999 - mentions: 1
+- [[../documents/ornl-2840.md|![](images/5b749ff087384a6cd1d37ce3213610645a94a0a690a19ed1d5dee122aa3ebbd0.jpg)]] - December 21, 2015 - ORNL-2840 - mentions: 11
+- [[../documents/ornl-2106.md|![](images/7d78504371385c303da41eecaec5b71388fca55a9dfe800a12dc0dee2de169f1.jpg)]] - ORNL-2012 - mentions: 10
+- [[../documents/ornl-2349.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - ORNL-2349 - mentions: 2
+- [[../documents/chapter-13.md|CHAPTER 13]] - mentions: 4
+- [[../documents/chapter-21.md|CHAPTER 21]] - mentions: 1
+- [[../documents/chapter-23.md|CHAPTER 23]] - mentions: 1
+- [[../documents/chapter-24.md|CHAPTER 24]] - mentions: 4
+- [[../documents/chapter-5.md|CHAPTER 5]] - mentions: 4
+- [[../documents/chapter-9.md|CHAPTER 9]] - mentions: 2
+- [[../documents/ornl-1653.md|ORNL 1653]] - mentions: 1
+- [[../documents/ornl-tm-1129.md|OXIDE CHEMISTRY AND THERMODYNAMICS OF MOLTEN]] - mentions: 29
+- [[../documents/parti-index.md|PARTI INDEX]] - mentions: 10

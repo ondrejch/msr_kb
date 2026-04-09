@@ -1,0 +1,1007 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "UNION CANGIBLE",
+    "L. E. McNeese",
+    "GENERAL RESEARCH LITERARY",
+    "COWORKING COOLING",
+    "L"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3137.jsonl",
+  "date_text": "March 1967",
+  "doc_id": "ornl-tm-3137",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          100,
+          153,
+          157,
+          185,
+          191,
+          211,
+          223,
+          231,
+          233,
+          241,
+          243,
+          249,
+          808
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          135,
+          181,
+          706,
+          714,
+          720,
+          744,
+          746,
+          758,
+          762,
+          778
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          185,
+          583,
+          808
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          153,
+          833
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 17,
+        "line_hits": [
+          102,
+          191,
+          263,
+          265,
+          280,
+          282,
+          286,
+          299,
+          302,
+          409,
+          413,
+          415,
+          425,
+          716,
+          722,
+          764,
+          774
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          143,
+          185,
+          848,
+          850,
+          852,
+          859,
+          862
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          189,
+          482,
+          513,
+          519
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          850
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          864
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 31,
+        "line_hits": [
+          3,
+          19,
+          45,
+          49,
+          61,
+          75,
+          77,
+          79,
+          81,
+          83,
+          85,
+          87,
+          89,
+          270,
+          421,
+          468,
+          484,
+          587,
+          615,
+          669,
+          674,
+          825,
+          856,
+          872,
+          873,
+          874,
+          875,
+          876,
+          1000,
+          1008,
+          1020
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          11,
+          47,
+          71,
+          1008,
+          1012,
+          1016,
+          1018,
+          1020,
+          1021,
+          1024
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1019,
+          1023
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          67
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 52,
+        "line_hits": [
+          177,
+          185,
+          189,
+          191,
+          201,
+          209,
+          211,
+          213,
+          217,
+          227,
+          229,
+          233,
+          241,
+          243,
+          259,
+          265,
+          274,
+          280,
+          316,
+          323,
+          325,
+          337,
+          365,
+          373,
+          375,
+          379,
+          401,
+          437,
+          482,
+          487,
+          489,
+          491,
+          519,
+          538,
+          544,
+          568,
+          570,
+          579,
+          592,
+          598,
+          630,
+          644,
+          646,
+          652,
+          692,
+          706,
+          732,
+          738,
+          744,
+          772
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 49,
+        "line_hits": [
+          23,
+          55,
+          96,
+          97,
+          102,
+          104,
+          111,
+          112,
+          149,
+          151,
+          155,
+          157,
+          159,
+          165,
+          167,
+          169,
+          171,
+          189,
+          191,
+          193,
+          197,
+          199,
+          205,
+          219,
+          223,
+          255,
+          261,
+          263,
+          265,
+          268,
+          272,
+          282,
+          286,
+          299,
+          302,
+          305,
+          308,
+          310,
+          314,
+          319,
+          476,
+          480,
+          487,
+          570,
+          575,
+          579,
+          583,
+          808,
+          875
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          138,
+          183,
+          185,
+          191,
+          804,
+          808,
+          810,
+          812,
+          816,
+          820,
+          823,
+          831,
+          841
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 7,
+        "line_hits": [
+          211,
+          223,
+          316,
+          363,
+          692,
+          762,
+          796
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          189,
+          808
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          808
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          734
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "1cce7515012294a0ca89ddaf0434d8646821db337ad460249f44d734d14d757c",
+  "markdown_path": "pdf/ORNL-TM-3137/ORNL-TM-3137/hybrid_ocr/ORNL-TM-3137.md",
+  "report_number": "ORNL-TM-3137",
+  "report_numbers": [
+    "ORNL-TM-3137",
+    "ORNL-4139",
+    "ORNL-4204",
+    "ORNL-4234",
+    "ORNL-4235",
+    "ORNL-364",
+    "ORNL-4365",
+    "ORNL-4366",
+    "ORNL-TM-3053"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 86,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 10,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 16,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "union-cangible",
+      "end_line": 18,
+      "heading": "Union Cangible",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl-tm-3137",
+      "end_line": 26,
+      "heading": "Ornl-Tm-3137",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "oak-practice-yarbocks-laboratory",
+      "end_line": 28,
+      "heading": "Oak Practice Yarbocks Laboratory",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "general-research-literary",
+      "end_line": 30,
+      "heading": "General Research Literary",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "coworking-cooling",
+      "end_line": 34,
+      "heading": "Coworking Cooling",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "do-not-transfer-to-and-then-person",
+      "end_line": 48,
+      "heading": "Do Not Transfer To And Then Person",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "ornl-tm-3137",
+      "end_line": 52,
+      "heading": "Ornl-Tm-3137",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 54,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "engineering-development-studies-for-molten-salt-breeder-reactor-processing-no-2",
+      "end_line": 58,
+      "heading": "Engineering Development Studies For Molten-Salt Breeder Reactor Processing No. 2",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "february-1971",
+      "end_line": 60,
+      "heading": "February 1971",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 66,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 70,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 90,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "contents",
+      "end_line": 92,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "summaries-v",
+      "end_line": 94,
+      "heading": "Summaries V",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 95,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 95
+    },
+    {
+      "anchor": "2-proposed-flowsheet-for-processing-a-single-fluid-msbr-by-reductive-extraction-1",
+      "end_line": 96,
+      "heading": "2. PROPOSED FLOWSHEET FOR PROCESSING A SINGLE-FLUID MSBR BY REDUCTIVE EXTRACTION 1",
+      "level": 2,
+      "start_line": 96
+    },
+    {
+      "anchor": "3-msbr-material-balance-calculations-5",
+      "end_line": 103,
+      "heading": "3. MSBR MATERIAL-BALANCE CALCULATIONS 5",
+      "level": 2,
+      "start_line": 97
+    },
+    {
+      "anchor": "4-removal-of-protactinium-from-a-single-fluid-msbr-22",
+      "end_line": 111,
+      "heading": "4. REMOVAL OF PROTACTINIUM FROM A SINGLE-FLUID MSBR 22",
+      "level": 2,
+      "start_line": 104
+    },
+    {
+      "anchor": "6-removal-of-rare-earth-s-from-a-single-fluid-msbr-52",
+      "end_line": 121,
+      "heading": "6. Removal Of Rare Earth'S From A Single-Fluid Msbr 52",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 123,
+      "heading": "CONTENTS (Continued)",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "7-semicontinuous-engineering-experiments-on-reductive-extraction-78",
+      "end_line": 131,
+      "heading": "7. SEMICONTINUOUS ENGINEERING EXPERIMENTS ON REDUCTIVE EXTRACTION 78",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "8-electrolytic-cell-development-82",
+      "end_line": 137,
+      "heading": "8. ELECTROLYTIC CELL DEVELOPMENT 82",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "9-msre-distillation-experiment-89",
+      "end_line": 144,
+      "heading": "9. MSRE DISTILLATION EXPERIMENT 89",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "10-references-100",
+      "end_line": 146,
+      "heading": "10. REFERENCES 100",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "summaries",
+      "end_line": 148,
+      "heading": "SUMMARIES",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "proposed-flowsheet-for-processing-a-single-fluid-msbr-by-reductive-extraction",
+      "end_line": 154,
+      "heading": "PROPOSED FLOWSHEET FOR PROCESSING A SINGLE-FLUID MSBR BY REDUCTIVE EXTRACTION",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "msbr-material-balance-calculations",
+      "end_line": 158,
+      "heading": "MSBR MATERIAL-BALANCE CALCULATIONS",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "removal-of-protactinium-from-a-single-fluid-msbr",
+      "end_line": 164,
+      "heading": "REMOVAL OF PROTACTINIUM FROM A SINGLE-FLUID MSBR",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "use-of-the-protactinium-isolation-system-for-controlling-the-uranium-concentration-in-the-blanket-of-a-single-fluid-msbr",
+      "end_line": 168,
+      "heading": "USE OF THE PROTACTINIUM ISOLATION SYSTEM FOR CONTROLLING THE URANIUM CONCENTRATION IN THE BLANKET OF A SINGLE-FLUID MSBR",
+      "level": 1,
+      "start_line": 165
+    },
+    {
+      "anchor": "removal-of-rare-earth-s-from-a-single-fluid-msbr",
+      "end_line": 172,
+      "heading": "REMOVAL OF RARE EARTH'S FROM A SINGLE-FLUID MSBR",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "semicontoinuous-engineering-experiments-on-reductive-extraction",
+      "end_line": 178,
+      "heading": "SEMICONTOINUOUS ENGINEERING EXPERIMENTS ON REDUCTIVE EXTRACTION",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "electrolytic-cell-development",
+      "end_line": 182,
+      "heading": "ELECTROLYTIC CELL DEVELOPMENT",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "msre-distillation-experiment",
+      "end_line": 186,
+      "heading": "MSRE DISTILLATION EXPERIMENT",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 192,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "2-proposed-flowsheet-for-processing-a-single-fluid-msbr-by-reductive-extraction",
+      "end_line": 206,
+      "heading": "2. PROPOSED FLOWSHEET FOR PROCESSING A SINGLE-FLUID MSBR BY REDUCTIVE EXTRACTION",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "orn-owg69-2333ra",
+      "end_line": 218,
+      "heading": "Orn-Owg69-2333Ra",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "3-msbr-material-balance-calculations",
+      "end_line": 224,
+      "heading": "3. MSBR MATERIAL-BALANCE CALCULATIONS",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "3-1-effect-of-fuel-salt-discard-cycle",
+      "end_line": 230,
+      "heading": "3.1 Effect of Fuel-Salt Discard Cycle",
+      "level": 1,
+      "start_line": 225
+    },
+    {
+      "anchor": "3-2-effects-of-removing-zirconium-and-seminoble-metals",
+      "end_line": 244,
+      "heading": "3.2 Effects of Removing Zirconium and Seminoble Metals",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "3-3-effect-of-protactinium-removal-efficiency",
+      "end_line": 262,
+      "heading": "3.3 Effect of Protactinium Removal Efficiency",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "3-4-quantities-of-heat-and-mass-in-the-msbr-off-gas-system",
+      "end_line": 269,
+      "heading": "3.4 Quantities of Heat and Mass in the MSBR Off-Gas System",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "ornl-dwg70-10033",
+      "end_line": 309,
+      "heading": "Ornl-Dwg70-10033",
+      "level": 2,
+      "start_line": 270
+    },
+    {
+      "anchor": "4-removal-of-protactinium-from-a-single-fluid-msbr",
+      "end_line": 320,
+      "heading": "4. REMOVAL OF PROTACTINIUM FROM A SINGLE-FLUID MSBR",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "4-1-mathematical-analysis-of-a-reductive-extraction-system",
+      "end_line": 360,
+      "heading": "4.1 Mathematical Analysis of a Reductive Extraction System",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "4-2-calculated-system-performance",
+      "end_line": 376,
+      "heading": "4.2 Calculated System Performance",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "4-3-stabilization-of-the-protactinium-isolation-system",
+      "end_line": 420,
+      "heading": "4.3 Stabilization of the Protactinium Isolation System",
+      "level": 1,
+      "start_line": 377
+    },
+    {
+      "anchor": "ornl-dwg-68-2086",
+      "end_line": 423,
+      "heading": "Ornl Dwg 68-2086",
+      "level": 2,
+      "start_line": 421
+    },
+    {
+      "anchor": "uf-6-concentration-from-fluorinator-maximum-uf-6-concentration",
+      "end_line": 461,
+      "heading": "$Uf_{6}$ Concentration From Fluorinator/Maximum $Uf_{6}$ Concentration",
+      "level": 2,
+      "start_line": 424
+    },
+    {
+      "anchor": "4-4-transient-performance",
+      "end_line": 467,
+      "heading": "4.4 Transient Performance",
+      "level": 1,
+      "start_line": 462
+    },
+    {
+      "anchor": "ornl-dwg-68-4090r1",
+      "end_line": 475,
+      "heading": "Ornl Dwg 68-4090R1",
+      "level": 2,
+      "start_line": 468
+    },
+    {
+      "anchor": "5-use-of-the-protactinium-isolation-system-for-controlling-the-uranium-concentration-in-the-blanket-of-a-single-fluid-msbr",
+      "end_line": 483,
+      "heading": "5. USE OF THE PROTACTINIUM-ISOLATION SYSTEM FOR CONTROLLING THE URANIUM CONCENTRATION IN THE BLANKET OF A SINGLE-FLUID MSBR",
+      "level": 1,
+      "start_line": 476
+    },
+    {
+      "anchor": "ornl-dwg-68-12267",
+      "end_line": 574,
+      "heading": "Ornl Dwg 68-12267",
+      "level": 2,
+      "start_line": 484
+    },
+    {
+      "anchor": "6-removal-of-rare-earth-s-from-a-single-fluid-msbr",
+      "end_line": 576,
+      "heading": "6. REMOVAL OF RARE EARTH'S FROM A SINGLE-FLUID MSBR",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "l-e-mcneese",
+      "end_line": 580,
+      "heading": "L. E. McNeese",
+      "level": 1,
+      "start_line": 577
+    },
+    {
+      "anchor": "6-1-proposed-rare-earth-removal-flowsheet",
+      "end_line": 586,
+      "heading": "6.1 Proposed Rare-Earth Removal Flowsheet",
+      "level": 1,
+      "start_line": 581
+    },
+    {
+      "anchor": "ornl-dwg-68-9443",
+      "end_line": 614,
+      "heading": "Ornl Dwg 68-9443",
+      "level": 2,
+      "start_line": 587
+    },
+    {
+      "anchor": "ornl-dwg-70-1473",
+      "end_line": 627,
+      "heading": "Ornl-Dwg-70-1473",
+      "level": 2,
+      "start_line": 615
+    },
+    {
+      "anchor": "6-3-effect-of-location-of-feed-point",
+      "end_line": 631,
+      "heading": "6.3 Effect of Location of Feed Point",
+      "level": 1,
+      "start_line": 628
+    },
+    {
+      "anchor": "6-4-effect-of-the-fraction-of-mathrm-thf-4-that-is-reduced-in-the-electrolytic-cell",
+      "end_line": 641,
+      "heading": "6.4 Effect of the Fraction of $\\mathrm{ThF}_4$ That Is Reduced in the Electrolytic Cell",
+      "level": 1,
+      "start_line": 632
+    },
+    {
+      "anchor": "6-5-effect-of-number-of-stages-in-the-extraction-column",
+      "end_line": 647,
+      "heading": "6.5 Effect of Number of Stages in the Extraction Column",
+      "level": 1,
+      "start_line": 642
+    },
+    {
+      "anchor": "6-6-effect-of-processing-cycle-time",
+      "end_line": 668,
+      "heading": "6.6 Effect of Processing Cycle Time",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "ornl-dwg-70-99",
+      "end_line": 673,
+      "heading": "Ornl-Dwg-70-99",
+      "level": 2,
+      "start_line": 669
+    },
+    {
+      "anchor": "ornl-dwg-70-100",
+      "end_line": 687,
+      "heading": "Ornl-Dwg-70-100",
+      "level": 2,
+      "start_line": 674
+    },
+    {
+      "anchor": "6-7-rare-earth-removal-times-for-reference-conditions",
+      "end_line": 699,
+      "heading": "6.7 Rare-Earth Removal Times for Reference Conditions",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "7-semicontinuous-engineering-experiments-on-reductive-extraction",
+      "end_line": 707,
+      "heading": "7. SEMICONTINUOUS ENGINEERING EXPERIMENTS ON REDUCTIVE EXTRACTION",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "7-1-pressure-tests-of-the-feed-and-catch-tanks",
+      "end_line": 711,
+      "heading": "7.1 Pressure Tests of the Feed-and-Catch Tanks",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "7-2-initial-cleanup-of-experimental-system",
+      "end_line": 717,
+      "heading": "7.2 Initial Cleanup of Experimental System",
+      "level": 1,
+      "start_line": 712
+    },
+    {
+      "anchor": "7-3-loading-and-treatment-of-bismuth",
+      "end_line": 723,
+      "heading": "7.3 Loading and Treatment of Bismuth",
+      "level": 1,
+      "start_line": 718
+    },
+    {
+      "anchor": "7-4-operation-of-gas-purification-and-supply-systems",
+      "end_line": 729,
+      "heading": "7.4 Operation of Gas Purification and Supply Systems",
+      "level": 1,
+      "start_line": 724
+    },
+    {
+      "anchor": "7-5-planned-experiments",
+      "end_line": 739,
+      "heading": "7.5 Planned Experiments",
+      "level": 1,
+      "start_line": 730
+    },
+    {
+      "anchor": "8-electrolytic-cell-development",
+      "end_line": 747,
+      "heading": "8. ELECTROLYTIC CELL DEVELOPMENT",
+      "level": 1,
+      "start_line": 740
+    },
+    {
+      "anchor": "8-1-comparison-of-cell-resistance-with-ac-and-dc-power",
+      "end_line": 803,
+      "heading": "8.1 Comparison of Cell Resistance with AC and DC Power",
+      "level": 1,
+      "start_line": 748
+    },
+    {
+      "anchor": "9-msre-distillation-experiment",
+      "end_line": 813,
+      "heading": "9. MSRE DISTILLATION EXPERIMENT",
+      "level": 1,
+      "start_line": 804
+    },
+    {
+      "anchor": "9-1-instrument-panel",
+      "end_line": 817,
+      "heading": "9.1 Instrument Panel",
+      "level": 1,
+      "start_line": 814
+    },
+    {
+      "anchor": "9-2-main-process-vessels",
+      "end_line": 824,
+      "heading": "9.2 Main Process Vessels",
+      "level": 1,
+      "start_line": 818
+    },
+    {
+      "anchor": "ornl-photo-93564a",
+      "end_line": 836,
+      "heading": "Ornl Photo 93564A",
+      "level": 2,
+      "start_line": 825
+    },
+    {
+      "anchor": "9-3-valve-box",
+      "end_line": 847,
+      "heading": "9.3 Valve Box",
+      "level": 1,
+      "start_line": 837
+    },
+    {
+      "anchor": "9-4-condensate-sampler",
+      "end_line": 855,
+      "heading": "9.4 Condensate Sampler",
+      "level": 1,
+      "start_line": 848
+    },
+    {
+      "anchor": "ornl-photo-94943a",
+      "end_line": 869,
+      "heading": "Ornl Photo-94943A",
+      "level": 2,
+      "start_line": 856
+    },
+    {
+      "anchor": "1-0-references",
+      "end_line": 877,
+      "heading": "1.0. REFERENCES",
+      "level": 1,
+      "start_line": 870
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1001,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 878
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1030,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1002
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3137",
+  "tables": [],
+  "title": "![](images/b7d503a5057ebf01185fcb26351497fd4c46440ee273007d9022efcae45192a2.jpg)",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "breeder-and-converter-design",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": []
+}

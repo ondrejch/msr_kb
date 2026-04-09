@@ -1,0 +1,1834 @@
+{
+  "authors": [
+    "R.E.Thoma",
+    "Editor",
+    "UNION CARBIDE CORPORATION",
+    "Office of Technical Services",
+    "Department of Commerce",
+    "LEGAL NOTICE",
+    "DISCLAIMER"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2548.jsonl",
+  "date_text": "1950",
+  "doc_id": "ornl-2548",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 17,
+        "line_hits": [
+          76,
+          77,
+          78,
+          79,
+          263,
+          265,
+          267,
+          270,
+          273,
+          277,
+          279,
+          281,
+          284,
+          291,
+          293,
+          295,
+          298
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          615,
+          647
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          281
+        ],
+        "name": "titanium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 128,
+        "line_hits": [
+          7,
+          54,
+          243,
+          247,
+          251,
+          302,
+          306,
+          322,
+          338,
+          367,
+          382,
+          406,
+          419,
+          437,
+          448,
+          459,
+          468,
+          479,
+          492,
+          505,
+          518,
+          529,
+          553,
+          555,
+          562,
+          570,
+          583,
+          592,
+          607,
+          635,
+          666,
+          673,
+          675,
+          682,
+          695,
+          708,
+          721,
+          734,
+          747,
+          777,
+          790,
+          803,
+          818,
+          833,
+          851,
+          866,
+          878,
+          880,
+          902,
+          910
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          15,
+          64,
+          2075,
+          2326,
+          2338,
+          2339,
+          2340,
+          2341
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          11,
+          60,
+          2337
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 27,
+        "line_hits": [
+          40,
+          243,
+          245,
+          247,
+          583,
+          842,
+          1172,
+          1596,
+          1637,
+          1647,
+          1655,
+          1657,
+          1711,
+          1720,
+          1730,
+          1752,
+          1770,
+          1779,
+          1825,
+          1828,
+          1842,
+          1851,
+          1860,
+          1954,
+          1991,
+          2048,
+          2054
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 167,
+        "line_hits": [
+          91,
+          95,
+          96,
+          98,
+          99,
+          101,
+          103,
+          104,
+          106,
+          107,
+          108,
+          110,
+          114,
+          116,
+          117,
+          118,
+          123,
+          128,
+          129,
+          130,
+          131,
+          132,
+          134,
+          136,
+          143,
+          146,
+          147,
+          155,
+          158,
+          159,
+          161,
+          162,
+          164,
+          166,
+          345,
+          347,
+          349,
+          352,
+          356,
+          395,
+          397,
+          399,
+          402,
+          404,
+          408,
+          413,
+          426,
+          428,
+          430,
+          433
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 142,
+        "line_hits": [
+          91,
+          92,
+          93,
+          94,
+          98,
+          99,
+          100,
+          109,
+          115,
+          121,
+          122,
+          133,
+          135,
+          144,
+          145,
+          155,
+          156,
+          157,
+          160,
+          165,
+          167,
+          345,
+          347,
+          349,
+          352,
+          354,
+          356,
+          358,
+          361,
+          365,
+          373,
+          378,
+          380,
+          388,
+          391,
+          397,
+          426,
+          428,
+          430,
+          433,
+          435,
+          439,
+          441,
+          444,
+          446,
+          450,
+          455,
+          516,
+          520,
+          523
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 79,
+        "line_hits": [
+          92,
+          95,
+          97,
+          98,
+          100,
+          101,
+          108,
+          111,
+          116,
+          119,
+          125,
+          129,
+          137,
+          148,
+          156,
+          158,
+          163,
+          329,
+          331,
+          347,
+          354,
+          356,
+          358,
+          361,
+          395,
+          397,
+          399,
+          402,
+          417,
+          421,
+          424,
+          426,
+          428,
+          430,
+          433,
+          446,
+          450,
+          455,
+          457,
+          461,
+          464,
+          544,
+          551,
+          555,
+          558,
+          590,
+          598,
+          600,
+          603,
+          671
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 75,
+        "line_hits": [
+          93,
+          96,
+          97,
+          99,
+          100,
+          101,
+          105,
+          112,
+          115,
+          117,
+          120,
+          126,
+          130,
+          138,
+          149,
+          157,
+          159,
+          365,
+          373,
+          378,
+          404,
+          408,
+          413,
+          417,
+          421,
+          424,
+          435,
+          439,
+          441,
+          444,
+          446,
+          450,
+          455,
+          457,
+          461,
+          464,
+          503,
+          511,
+          514,
+          605,
+          613,
+          615,
+          618,
+          654,
+          662,
+          669,
+          680,
+          688,
+          691,
+          719
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 28,
+        "line_hits": [
+          1052,
+          1056,
+          1074,
+          1076,
+          1080,
+          1087,
+          1091,
+          1096,
+          1098,
+          1102,
+          1115,
+          1118,
+          1135,
+          1148,
+          1166,
+          1170,
+          1221,
+          1224,
+          1230,
+          1244,
+          1261,
+          1268,
+          1273,
+          1293,
+          1302,
+          1312,
+          1316,
+          1327
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          142,
+          160,
+          161,
+          566,
+          581,
+          598,
+          613,
+          628,
+          641,
+          647,
+          662,
+          688,
+          1008,
+          1015,
+          1244,
+          1261,
+          1268
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          131,
+          751,
+          766,
+          783,
+          796,
+          809,
+          824,
+          839,
+          857,
+          859,
+          862,
+          893,
+          1022,
+          1030,
+          1293,
+          1298,
+          1302
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          929,
+          940,
+          953,
+          966,
+          995,
+          1008,
+          1015,
+          1022,
+          1030,
+          1312,
+          1316,
+          1325
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          98,
+          347,
+          356,
+          397,
+          426,
+          428,
+          430,
+          433
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1022,
+          1298
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          160
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1312
+        ],
+        "name": "LiF-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1293
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1069
+        ],
+        "name": "UF3"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "1729b6bdee7d28202007accd5dc34931d82ab6a48957d4b19a87de697853b365",
+  "markdown_path": "pdf/ORNL-2548/ORNL-2548/hybrid_ocr/ORNL-2548.md",
+  "report_number": "ORNL-2396",
+  "report_numbers": [
+    "ORNL-2396",
+    "ORNL-2386",
+    "ORNL-2584"
+  ],
+  "report_series": null,
+  "section_count": 180,
+  "sections": [
+    {
+      "anchor": "phase-diagrams-of-nuclear-reactor-materials",
+      "end_line": 6,
+      "heading": "Phase Diagrams Of Nuclear Reactor Materials",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 10,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 14,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 24,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 33,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 37,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 34
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 43,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 45,
+      "heading": "REACTOR CHEMISTRY DIVISION",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "phase-diagrams-of-nuclear-reactor-materials",
+      "end_line": 49,
+      "heading": "PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 53,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 59,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 63,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 69,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "contents",
+      "end_line": 71,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 73,
+      "heading": "INTRODUCTION 1",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "1-metal-systems-2",
+      "end_line": 80,
+      "heading": "1.METAL SYSTEMS 2",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "2-metal-fused-salt-systems-9",
+      "end_line": 88,
+      "heading": "2.METAL-FUSED-SALT SYSTEMS. 9",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "3-fused-salt-systems-14",
+      "end_line": 181,
+      "heading": "3. FUSED-SALT SYSTEMS 14",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "4-oxide-and-hydroxide-systems-139",
+      "end_line": 190,
+      "heading": "4. OXIDE AND HYDROXIDE SYSTEMS 139",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "5-aqueous-systems-145",
+      "end_line": 238,
+      "heading": "5.AQUEOUS SYSTEMS 145",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "phase-diagrams-of-nuclear-reactor-materials",
+      "end_line": 240,
+      "heading": "PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 260,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "1-metal-systems",
+      "end_line": 262,
+      "heading": "1. METAL SYSTEMS",
+      "level": 1,
+      "start_line": 261
+    },
+    {
+      "anchor": "1-1-the-system-silver-zirconium",
+      "end_line": 276,
+      "heading": "1.1. The System Silver-Zirconium",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "1-2-the-system-indium-zirconium",
+      "end_line": 285,
+      "heading": "1.2. The System Indium-Zirconium",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "blank",
+      "end_line": 287,
+      "heading": "Blank",
+      "level": 2,
+      "start_line": 286
+    },
+    {
+      "anchor": "blank",
+      "end_line": 292,
+      "heading": "Blank",
+      "level": 2,
+      "start_line": 288
+    },
+    {
+      "anchor": "1-4-the-system-lead-zirconium",
+      "end_line": 299,
+      "heading": "1.4. The System Lead-Zirconium",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "2-1-the-sodium-metal-sodium-halide-systems",
+      "end_line": 303,
+      "heading": "2.1. The Sodium Metal-Sodium Halide Systems",
+      "level": 1,
+      "start_line": 300
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 305,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 304
+    },
+    {
+      "anchor": "ornl-lr-dwg-21894a",
+      "end_line": 310,
+      "heading": "Ornl-Lr-Dwg.21894A",
+      "level": 2,
+      "start_line": 306
+    },
+    {
+      "anchor": "2-2-the-potassium-metal-potassium-halide-systems",
+      "end_line": 319,
+      "heading": "2.2. The Potassium Metal-Potassium Halide Systems",
+      "level": 1,
+      "start_line": 311
+    },
+    {
+      "anchor": "2-3-the-rubidium-metal-rubidium-halide-systems",
+      "end_line": 326,
+      "heading": "2.3. The Rubidium Metal-Rubidium Halide Systems",
+      "level": 1,
+      "start_line": 320
+    },
+    {
+      "anchor": "2-4-the-cesium-metal-cesium-halide-systems",
+      "end_line": 335,
+      "heading": "2.4. The Cesium Metal-Cesium Halide Systems",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "2-5-the-alkali-metal-alkali-metal-fluoride-systems",
+      "end_line": 342,
+      "heading": "2.5. The Alkali Metal-Alkali Metal Fluoride Systems",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "3-fused-salt-systems",
+      "end_line": 344,
+      "heading": "3. FUSED-SALT SYSTEMS",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "3-1-the-system-lif-naf",
+      "end_line": 353,
+      "heading": "3.1. The System LiF--NaF",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "3-2-the-system-lif-kf",
+      "end_line": 364,
+      "heading": "3.2. The System LiF-KF",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "3-3-the-system-lif-rbf",
+      "end_line": 379,
+      "heading": "3.3. The System LiF-RbF",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "3-4-the-system-lif-csf",
+      "end_line": 394,
+      "heading": "3.4. The System LiF-CsF",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "3-5-the-system-naf-kf",
+      "end_line": 403,
+      "heading": "3.5. The System NaF-KF",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "3-6-the-system-naf-rbf",
+      "end_line": 416,
+      "heading": "3.6. The System NaF-RbF",
+      "level": 1,
+      "start_line": 404
+    },
+    {
+      "anchor": "3-7-the-system-kf-rbf",
+      "end_line": 425,
+      "heading": "3.7. The System KF-RbF",
+      "level": 1,
+      "start_line": 417
+    },
+    {
+      "anchor": "3-8-the-system-lif-naf-kf",
+      "end_line": 434,
+      "heading": "3.8. The System LiF-NaF-KF",
+      "level": 1,
+      "start_line": 426
+    },
+    {
+      "anchor": "3-9-the-system-lif-naf-rbf",
+      "end_line": 445,
+      "heading": "3.9. The System LiF-NaF-RbF",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "3-10-the-system-lif-kf-rbf",
+      "end_line": 456,
+      "heading": "3.10. The System LiF-KF-RbF",
+      "level": 1,
+      "start_line": 446
+    },
+    {
+      "anchor": "3-11-the-system-naf-kf-rbf",
+      "end_line": 465,
+      "heading": "3.11. The System NaF-KF-RbF",
+      "level": 1,
+      "start_line": 457
+    },
+    {
+      "anchor": "3-12-the-system-mathsf-nabf-4-kbf",
+      "end_line": 476,
+      "heading": "3.12. The System $\\mathsf{NaBF}_4$ -KBF",
+      "level": 1,
+      "start_line": 466
+    },
+    {
+      "anchor": "3-13-the-system-naf-fef-2",
+      "end_line": 489,
+      "heading": "3.13. The System NaF-FeF $_2$",
+      "level": 1,
+      "start_line": 477
+    },
+    {
+      "anchor": "3-14-the-system-naf-nif",
+      "end_line": 502,
+      "heading": "3.14. The System NaF-NiF",
+      "level": 1,
+      "start_line": 490
+    },
+    {
+      "anchor": "3-15-the-system-rbf-caf",
+      "end_line": 515,
+      "heading": "3.15. The System RbF-CaF",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "3-16-the-system-lif-naf-caf",
+      "end_line": 526,
+      "heading": "3.16. The System LiF-NaF-CaF",
+      "level": 1,
+      "start_line": 516
+    },
+    {
+      "anchor": "3-17-the-system-mathsf-naf-mgf-2-caf-2",
+      "end_line": 550,
+      "heading": "3.17. The System $\\mathsf{NaF - MgF_2 - CaF_2}$",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "3-18-the-system-naf-kf-alf-sub-3-sub",
+      "end_line": 559,
+      "heading": "3.18. The System NaF-KF-AlF<sub>3</sub>",
+      "level": 1,
+      "start_line": 551
+    },
+    {
+      "anchor": "3-19-the-system-lif-bef-2",
+      "end_line": 574,
+      "heading": "3.19. The System LiF-BeF $_2$",
+      "level": 1,
+      "start_line": 560
+    },
+    {
+      "anchor": "3-20-the-system-naf-bef",
+      "end_line": 578,
+      "heading": "3.20. The System NaF-BeF",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "invariant-equilibria",
+      "end_line": 589,
+      "heading": "Invariant Equilibria*",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "3-21-the-system-mathsf-kf-bef-2",
+      "end_line": 604,
+      "heading": "3.21. The System $\\mathsf{KF - BeF}_2$",
+      "level": 1,
+      "start_line": 590
+    },
+    {
+      "anchor": "3-22-the-system-rbf-bef",
+      "end_line": 621,
+      "heading": "3.22. The System RbF-BeF",
+      "level": 1,
+      "start_line": 605
+    },
+    {
+      "anchor": "3-23-the-system-csf-bef",
+      "end_line": 632,
+      "heading": "3.23. The System CsF-BeF",
+      "level": 1,
+      "start_line": 622
+    },
+    {
+      "anchor": "3-24-the-system-lif-naf-bef",
+      "end_line": 653,
+      "heading": "3.24. The System LiF-NaF-BeF",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "3-25-the-system-lif-rbf-bef",
+      "end_line": 663,
+      "heading": "3.25. The System LiF-RbF-BeF",
+      "level": 1,
+      "start_line": 654
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 665,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 664
+    },
+    {
+      "anchor": "ornl-lr-dwg-38113",
+      "end_line": 670,
+      "heading": "Ornl-Lr-Dwg 38113",
+      "level": 2,
+      "start_line": 666
+    },
+    {
+      "anchor": "3-26-the-system-naf-kf-bef",
+      "end_line": 679,
+      "heading": "3.26. The System NaF-KF-BeF",
+      "level": 1,
+      "start_line": 671
+    },
+    {
+      "anchor": "3-27-the-system-naf-rbf-bef",
+      "end_line": 692,
+      "heading": "3.27. The System NaF-RbF-BeF",
+      "level": 1,
+      "start_line": 680
+    },
+    {
+      "anchor": "3-28-the-system-mathsf-naf-znf-2",
+      "end_line": 705,
+      "heading": "3.28. The System $\\mathsf{NaF - ZnF}_2$",
+      "level": 1,
+      "start_line": 693
+    },
+    {
+      "anchor": "3-29-the-system-mathsf-kf-mathsf-znf-2",
+      "end_line": 718,
+      "heading": "3.29. The System $\\mathsf{KF} - \\mathsf{ZnF}_2$",
+      "level": 1,
+      "start_line": 706
+    },
+    {
+      "anchor": "3-30-the-system-rbf-znf",
+      "end_line": 731,
+      "heading": "3.30. The System RbF-ZnF",
+      "level": 1,
+      "start_line": 719
+    },
+    {
+      "anchor": "3-31-the-system-mathsf-lif-sim-mathsf-yf-3",
+      "end_line": 744,
+      "heading": "3.31. The System $\\mathsf{LiF}_{\\sim}\\mathsf{YF}_{3}$",
+      "level": 1,
+      "start_line": 732
+    },
+    {
+      "anchor": "3-32-the-system-lif-zrf-sub-4-sub",
+      "end_line": 759,
+      "heading": "3.32. The System LiF-ZrF<sub>4</sub>",
+      "level": 1,
+      "start_line": 745
+    },
+    {
+      "anchor": "3-33-the-system-naf-zrf-sub-4-sub",
+      "end_line": 774,
+      "heading": "3.33. The System NaF-ZrF<sub>4</sub>",
+      "level": 1,
+      "start_line": 760
+    },
+    {
+      "anchor": "3-34-the-system-mathsf-kf-mathsf-zrf-4",
+      "end_line": 787,
+      "heading": "3.34. The System $\\mathsf{KF} - \\mathsf{ZrF}_4$",
+      "level": 1,
+      "start_line": 775
+    },
+    {
+      "anchor": "3-35-the-system-rbf-zrf-sub-4-sub",
+      "end_line": 800,
+      "heading": "3.35. The System RbF-ZrF<sub>4</sub>",
+      "level": 1,
+      "start_line": 788
+    },
+    {
+      "anchor": "3-36-the-system-csf-zrf",
+      "end_line": 815,
+      "heading": "3.36. The System CsF-ZrF",
+      "level": 1,
+      "start_line": 801
+    },
+    {
+      "anchor": "3-37-the-system-lif-naf-zrf-sub-4-sub",
+      "end_line": 830,
+      "heading": "3.37. The System LiF-NaF-ZrF<sub>4</sub>",
+      "level": 1,
+      "start_line": 816
+    },
+    {
+      "anchor": "3-38-the-system-naf-kf-zrf-sub-4-sub",
+      "end_line": 848,
+      "heading": "3.38. The System NaF-KF-ZrF<sub>4</sub>",
+      "level": 1,
+      "start_line": 831
+    },
+    {
+      "anchor": "3-39-the-system-naf-rbf-zrf-sub-4-sub",
+      "end_line": 872,
+      "heading": "3.39. The System NaF-RbF-ZrF<sub>4</sub>",
+      "level": 1,
+      "start_line": 849
+    },
+    {
+      "anchor": "3-41-the-system-mathsf-naf-cef-3-mathsf-zrf-4",
+      "end_line": 877,
+      "heading": "3.41. The System $\\mathsf{NaF - CeF}_3 - \\mathsf{ZrF}_4$",
+      "level": 1,
+      "start_line": 873
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-29164r",
+      "end_line": 879,
+      "heading": "Unclassified Ornl-Lr-Dwg 29164R",
+      "level": 2,
+      "start_line": 878
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-29165r",
+      "end_line": 899,
+      "heading": "Unclassified Ornl-Lr-Dwg 29165R",
+      "level": 2,
+      "start_line": 880
+    },
+    {
+      "anchor": "3-42-the-system-lif-mathsf-cef-3",
+      "end_line": 907,
+      "heading": "3.42. The System LiF- $\\mathsf{CeF}_3$",
+      "level": 1,
+      "start_line": 900
+    },
+    {
+      "anchor": "3-43-the-system-naf-hff-sub-4-sub",
+      "end_line": 922,
+      "heading": "3.43. The System NaF-HfF<sub>4</sub>",
+      "level": 1,
+      "start_line": 908
+    },
+    {
+      "anchor": "3-44-the-system-lif-thf-sub-4-sub",
+      "end_line": 933,
+      "heading": "3.44. The System LiF-ThF<sub>4</sub>",
+      "level": 1,
+      "start_line": 923
+    },
+    {
+      "anchor": "3-45-the-system-naf-thf",
+      "end_line": 944,
+      "heading": "3.45. The System NaF-ThF",
+      "level": 1,
+      "start_line": 934
+    },
+    {
+      "anchor": "3-46-the-system-mathsf-kf-thf-4",
+      "end_line": 959,
+      "heading": "3.46. The System $\\mathsf{KF - ThF}_4$",
+      "level": 1,
+      "start_line": 945
+    },
+    {
+      "anchor": "3-47-the-system-rbf-thf-sub-4-sub",
+      "end_line": 970,
+      "heading": "3.47. The System RbF-ThF<sub>4</sub>",
+      "level": 1,
+      "start_line": 960
+    },
+    {
+      "anchor": "3-48-the-system-mathsf-bef-2-mathsf-thf-4",
+      "end_line": 979,
+      "heading": "3.48. The System $\\mathsf{BeF}_2 - \\mathsf{ThF}_4$",
+      "level": 1,
+      "start_line": 971
+    },
+    {
+      "anchor": "3-49-the-system-mathsf-bef-2-mathsf-uf-4",
+      "end_line": 988,
+      "heading": "3.49. The System $\\mathsf{BeF}_2 - \\mathsf{UF}_4$",
+      "level": 1,
+      "start_line": 980
+    },
+    {
+      "anchor": "3-50-the-system-mathsf-mgf-2-text-mathsf-thf-4",
+      "end_line": 1001,
+      "heading": "3.50. The System $\\mathsf{MgF}_2\\text{-}\\mathsf{ThF}_4$",
+      "level": 1,
+      "start_line": 989
+    },
+    {
+      "anchor": "3-51-the-system-lif-bef-2-thf-4",
+      "end_line": 1021,
+      "heading": "3.51. The System LiF-BeF $_2$ -ThF $_4$",
+      "level": 1,
+      "start_line": 1002
+    },
+    {
+      "anchor": "3-52-the-system-naf-zrf4-thf4",
+      "end_line": 1036,
+      "heading": "3.52. The System NaF-ZrF4-ThF4",
+      "level": 1,
+      "start_line": 1022
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 1037,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 1037
+    },
+    {
+      "anchor": "ornl-lr-dwg-20466a",
+      "end_line": 1040,
+      "heading": "Ornl-Lr-Dwg 20466A",
+      "level": 2,
+      "start_line": 1038
+    },
+    {
+      "anchor": "3-53-the-system-lif-uf-sub-3-sub",
+      "end_line": 1049,
+      "heading": "3.53. The System LiF-UF<sub>3</sub>",
+      "level": 1,
+      "start_line": 1041
+    },
+    {
+      "anchor": "3-54-the-system-lif-uf",
+      "end_line": 1060,
+      "heading": "3.54. The System LiF-UF",
+      "level": 1,
+      "start_line": 1050
+    },
+    {
+      "anchor": "3-55-the-system-naf-uf-sub-3-sub",
+      "end_line": 1073,
+      "heading": "3.55. The System NaF-UF<sub>3</sub>",
+      "level": 1,
+      "start_line": 1061
+    },
+    {
+      "anchor": "3-56-the-system-naf-uf4",
+      "end_line": 1084,
+      "heading": "3.56. The System NaF-UF4",
+      "level": 1,
+      "start_line": 1074
+    },
+    {
+      "anchor": "3-57-the-system-mathsf-kf-uf-4",
+      "end_line": 1095,
+      "heading": "3.57. The System $\\mathsf{KF - UF}_4$",
+      "level": 1,
+      "start_line": 1085
+    },
+    {
+      "anchor": "3-58-the-system-rbf-uf4",
+      "end_line": 1106,
+      "heading": "3.58. The System RbF-UF4",
+      "level": 1,
+      "start_line": 1096
+    },
+    {
+      "anchor": "3-59-the-system-csf-uf",
+      "end_line": 1119,
+      "heading": "3.59. The System CsF-UF",
+      "level": 1,
+      "start_line": 1107
+    },
+    {
+      "anchor": "3-60-the-system-mathsf-zrf-4-sim-mathsf-uf-4",
+      "end_line": 1128,
+      "heading": "3.60. The System $\\mathsf{ZrF}_4\\sim \\mathsf{UF}_4$",
+      "level": 1,
+      "start_line": 1120
+    },
+    {
+      "anchor": "3-61-the-system-mathsf-snf-2-text-mathsf-uf-4",
+      "end_line": 1139,
+      "heading": "3.61. The System $\\mathsf{SnF}_2\\text{-}\\mathsf{UF}_4$",
+      "level": 1,
+      "start_line": 1129
+    },
+    {
+      "anchor": "3-62-the-system-mathsf-pbf-2-mathsf-uf-4",
+      "end_line": 1154,
+      "heading": "3.62. The System $\\mathsf{PbF}_2\\mathsf{-UF}_4$",
+      "level": 1,
+      "start_line": 1140
+    },
+    {
+      "anchor": "3-63-the-system-mathsf-thf-4-mathsf-uf-4",
+      "end_line": 1163,
+      "heading": "3.63. The System $\\mathsf{ThF}_4 - \\mathsf{UF}_4$",
+      "level": 1,
+      "start_line": 1155
+    },
+    {
+      "anchor": "3-64-the-system-lif-naf-uf",
+      "end_line": 1173,
+      "heading": "3.64. The System LiF-NaF-UF",
+      "level": 1,
+      "start_line": 1164
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 1175,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 1174
+    },
+    {
+      "anchor": "ornl-lr-dwg28214r",
+      "end_line": 1185,
+      "heading": "Ornl-Lr-Dwg28214R",
+      "level": 2,
+      "start_line": 1176
+    },
+    {
+      "anchor": "3-65-the-system-lif-kf-uf-sub-4-sub",
+      "end_line": 1194,
+      "heading": "3.65. The System LiF-KF-UF<sub>4</sub>",
+      "level": 1,
+      "start_line": 1186
+    },
+    {
+      "anchor": "3-66-the-system-lif-rbf-uf",
+      "end_line": 1203,
+      "heading": "3.66. The System LiF-RbF-UF",
+      "level": 1,
+      "start_line": 1195
+    },
+    {
+      "anchor": "3-67-the-system-naf-kf-uf",
+      "end_line": 1212,
+      "heading": "3.67. The System NaF-KF-UF",
+      "level": 1,
+      "start_line": 1204
+    },
+    {
+      "anchor": "3-68-the-system-naf-rbf-uf",
+      "end_line": 1234,
+      "heading": "3.68. The System NaF-RbF-UF",
+      "level": 1,
+      "start_line": 1213
+    },
+    {
+      "anchor": "3-69-the-system-mathsf-lif-bef-2-mathsf-uf-4",
+      "end_line": 1252,
+      "heading": "3.69. The System $\\mathsf{LiF - BeF}_2 - \\mathsf{UF}_4$",
+      "level": 1,
+      "start_line": 1235
+    },
+    {
+      "anchor": "3-70-the-system-naf-bef-2-uf-4",
+      "end_line": 1272,
+      "heading": "3.70. The System NaF-BeF $_2$ -UF $_4$",
+      "level": 1,
+      "start_line": 1253
+    },
+    {
+      "anchor": "3-71-the-system-naf-pbf2-uf4",
+      "end_line": 1283,
+      "heading": "3.71. The System NaF-PbF2-UF4",
+      "level": 1,
+      "start_line": 1273
+    },
+    {
+      "anchor": "3-72-the-system-mathsf-kf-pbf-2-mathsf-uf-4",
+      "end_line": 1292,
+      "heading": "3.72. The system $\\mathsf{KF - PbF}_2 - \\mathsf{UF}_4$",
+      "level": 1,
+      "start_line": 1284
+    },
+    {
+      "anchor": "3-73-the-system-naf-zrf4-uf4",
+      "end_line": 1309,
+      "heading": "3.73. The System NaF-ZrF4-UF4",
+      "level": 1,
+      "start_line": 1293
+    },
+    {
+      "anchor": "3-74-the-system-mathsf-lif-thf-4-mathsf-uf-4",
+      "end_line": 1356,
+      "heading": "3.74. The System $\\mathsf{LiF - ThF}_4 - \\mathsf{UF}_4$",
+      "level": 1,
+      "start_line": 1310
+    },
+    {
+      "anchor": "3-75-the-system-mathsf-naf-thf-4-uf-4-the-section-2naf-thf-2naf-uf",
+      "end_line": 1365,
+      "heading": "3.75. The System $\\mathsf{NaF - ThF_4 - UF_4}$ : The Section 2NaF.ThF-2NaF.UF",
+      "level": 1,
+      "start_line": 1357
+    },
+    {
+      "anchor": "3-76-the-system-mathsf-lif-puf-3",
+      "end_line": 1374,
+      "heading": "3.76. The System $\\mathsf{LiF - PuF}_3$",
+      "level": 1,
+      "start_line": 1366
+    },
+    {
+      "anchor": "3-77-the-system-mathsf-licl-fecl-2",
+      "end_line": 1383,
+      "heading": "3.77. The System $\\mathsf{LiCl - FeCl}_2$",
+      "level": 1,
+      "start_line": 1375
+    },
+    {
+      "anchor": "3-78-the-system-kcl-fecl-2",
+      "end_line": 1394,
+      "heading": "3.78. The System KCl-FeCl $_2$",
+      "level": 1,
+      "start_line": 1384
+    },
+    {
+      "anchor": "3-79-the-system-nacl-zrcl4",
+      "end_line": 1409,
+      "heading": "3.79. The System NaCl-ZrCl4",
+      "level": 1,
+      "start_line": 1395
+    },
+    {
+      "anchor": "3-80-the-system-kcl-zrcl-sub-4-sub",
+      "end_line": 1424,
+      "heading": "3.80. The System KCl-ZrCl<sub>4</sub>",
+      "level": 1,
+      "start_line": 1410
+    },
+    {
+      "anchor": "3-81-the-system-licl-uci-sub-3-sub",
+      "end_line": 1433,
+      "heading": "3.81. The System LiCl-UCI<sub>3</sub>",
+      "level": 1,
+      "start_line": 1425
+    },
+    {
+      "anchor": "3-82-the-system-licl-uci",
+      "end_line": 1448,
+      "heading": "3.82. The System LiCl-UCI",
+      "level": 1,
+      "start_line": 1434
+    },
+    {
+      "anchor": "3-83-the-system-nacl-uci-sub-3-sub",
+      "end_line": 1459,
+      "heading": "3.83. The System NaCl-UCI<sub>3</sub>",
+      "level": 1,
+      "start_line": 1449
+    },
+    {
+      "anchor": "3-84-the-system-nacl-uci",
+      "end_line": 1474,
+      "heading": "3.84. The System NaCl-UCI",
+      "level": 1,
+      "start_line": 1460
+    },
+    {
+      "anchor": "3-85-the-system-kcl-uci",
+      "end_line": 1489,
+      "heading": "3.85. The System KCl-UCI",
+      "level": 1,
+      "start_line": 1475
+    },
+    {
+      "anchor": "3-86-the-system-mathsf-rbcl-ucl-3",
+      "end_line": 1502,
+      "heading": "3.86. The System $\\mathsf{RbCl - UCl}_3$",
+      "level": 1,
+      "start_line": 1490
+    },
+    {
+      "anchor": "3-87-the-system-cscl-uci4",
+      "end_line": 1515,
+      "heading": "3.87. The System CsCl-UCI4",
+      "level": 1,
+      "start_line": 1503
+    },
+    {
+      "anchor": "3-88-the-system-k-3-crf-6-na-3-crf-6-li-3-crf-6",
+      "end_line": 1524,
+      "heading": "3.88. The System $K_{3}CrF_{6} - Na_{3}CrF_{6} - Li_{3}CrF_{6}$",
+      "level": 1,
+      "start_line": 1516
+    },
+    {
+      "anchor": "4-oxide-and-hydroxide-systems",
+      "end_line": 1526,
+      "heading": "4. OXIDE AND HYDROXIDE SYSTEMS",
+      "level": 1,
+      "start_line": 1525
+    },
+    {
+      "anchor": "4-1-the-system-mathsf-sio-2-mathsf-tho-2",
+      "end_line": 1533,
+      "heading": "4.1. The System $\\mathsf{SiO}_2\\mathsf{-ThO}_2$",
+      "level": 1,
+      "start_line": 1527
+    },
+    {
+      "anchor": "4-2-the-system-lioh-naoh",
+      "end_line": 1546,
+      "heading": "4.2. The System LiOH-NaOH",
+      "level": 1,
+      "start_line": 1534
+    },
+    {
+      "anchor": "4-3-the-system-lioh-koh",
+      "end_line": 1559,
+      "heading": "4.3. The System LiOH-KOH",
+      "level": 1,
+      "start_line": 1547
+    },
+    {
+      "anchor": "4-4-the-system-naoh-koh",
+      "end_line": 1566,
+      "heading": "4.4. The System NaOH-KOH",
+      "level": 1,
+      "start_line": 1560
+    },
+    {
+      "anchor": "4-5-the-system-naoh-rboh",
+      "end_line": 1573,
+      "heading": "4.5. The System NaOH-RbOH",
+      "level": 1,
+      "start_line": 1567
+    },
+    {
+      "anchor": "4-6-the-system-mathsf-ba-oh-2-mathsf-sr-oh-2",
+      "end_line": 1582,
+      "heading": "4.6. The System $\\mathsf{Ba(OH)}_2 - \\mathsf{Sr(OH)}_2$",
+      "level": 1,
+      "start_line": 1574
+    },
+    {
+      "anchor": "5-1-the-system-mathsf-uo-2-mathsf-p-2-mathsf-o-5-mathsf-h-2-mathsf-o-25-circ-mathsf-c-isotherm",
+      "end_line": 1591,
+      "heading": "5.1. The System $\\mathsf{UO}_2 - \\mathsf{P}_2\\mathsf{O}_5 - \\mathsf{H}_2\\mathsf{O}, 25^{\\circ}\\mathsf{C}$ Isotherm",
+      "level": 1,
+      "start_line": 1583
+    },
+    {
+      "anchor": "5-2-the-system-mathsf-uo-3-mathsf-h-3-mathsf-po-4-mathsf-h-2-mathsf-o-25-circ-mathsf-c-isotherm",
+      "end_line": 1597,
+      "heading": "5.2. The System $\\mathsf{UO}_3 - \\mathsf{H}_3\\mathsf{PO}_4 - \\mathsf{H}_2\\mathsf{O}, 25^{\\circ}\\mathsf{C}$ Isotherm",
+      "level": 1,
+      "start_line": 1592
+    },
+    {
+      "anchor": "compound",
+      "end_line": 1611,
+      "heading": "Compound",
+      "level": 1,
+      "start_line": 1598
+    },
+    {
+      "anchor": "total-phosphate-molarity",
+      "end_line": 1625,
+      "heading": "Total Phosphate Molarity",
+      "level": 1,
+      "start_line": 1612
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 1627,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 1626
+    },
+    {
+      "anchor": "dwg-20233",
+      "end_line": 1632,
+      "heading": "Dwg 20233",
+      "level": 2,
+      "start_line": 1628
+    },
+    {
+      "anchor": "5-3-the-system-mathsf-u-mathsf-hpo-4-2-mathsf-cl-2-mathsf-o-7-mathsf-h-2-mathsf-o-25-circ-mathsf-c-isotherm",
+      "end_line": 1641,
+      "heading": "5.3. The System $\\mathsf{U}(\\mathsf{HPO}_4)_2 - \\mathsf{Cl}_2\\mathsf{O}_7 - \\mathsf{H}_2\\mathsf{O}, 25^{\\circ}\\mathsf{C}$ Isotherm",
+      "level": 1,
+      "start_line": 1633
+    },
+    {
+      "anchor": "5-4-the-system-mathsf-uo-3-text-na-2-mathsf-o-text-co-2-text-h-2-mathsf-o-26-circ-mathsf-c-isotherm",
+      "end_line": 1661,
+      "heading": "5.4. The System $\\mathsf{UO}_3\\text{-Na}_2\\mathsf{O}\\text{-CO}_2\\text{-H}_2\\mathsf{O}, 26^{\\circ}\\mathsf{C}$ Isotherm",
+      "level": 1,
+      "start_line": 1642
+    },
+    {
+      "anchor": "5-5-portions-of-the-system-mathsf-tho-2-mathsf-na-2-mathsf-o-mathsf-co-2-mathsf-h-2-mathsf-o-25-circ-c-isotherm",
+      "end_line": 1680,
+      "heading": "5.5. Portions of the System $\\mathsf{ThO}_2\\mathsf{-Na}_2\\mathsf{O}\\mathsf{-CO}_2\\mathsf{-H}_2\\mathsf{O},$ $25^{\\circ}C$ Isotherm",
+      "level": 1,
+      "start_line": 1662
+    },
+    {
+      "anchor": "5-6-the-system-mathsf-na-2-mathsf-o-mathsf-co-2-mathsf-h-2-mathsf-o-25-circ-mathsf-c-isotherm",
+      "end_line": 1699,
+      "heading": "5.6. The System $\\mathsf{Na}_2\\mathsf{O} - \\mathsf{CO}_2 - \\mathsf{H}_2\\mathsf{O}$ , $25^{\\circ}\\mathsf{C}$ Isotherm",
+      "level": 1,
+      "start_line": 1681
+    },
+    {
+      "anchor": "5-7-solubility-of-uranyl-sulfate-in-water",
+      "end_line": 1715,
+      "heading": "5.7. Solubility of Uranyl Sulfate in Water",
+      "level": 1,
+      "start_line": 1700
+    },
+    {
+      "anchor": "5-8-two-liquid-phase-region-of-mathsf-uo-2-mathsf-so-4-in-ordinary-and-heavy-water",
+      "end_line": 1724,
+      "heading": "5.8. Two-Liquid-Phase Region of $\\mathsf{UO}_2\\mathsf{SO}_4$ in Ordinary and Heavy Water",
+      "level": 1,
+      "start_line": 1716
+    },
+    {
+      "anchor": "5-9-the-system-mathsf-uo-3-mathsf-so-3-mathsf-h-2-mathsf-o",
+      "end_line": 1734,
+      "heading": "5.9. The System $\\mathsf{UO}_3 - \\mathsf{SO}_3 - \\mathsf{H}_2\\mathsf{O}$",
+      "level": 1,
+      "start_line": 1725
+    },
+    {
+      "anchor": "unclassified-dwg-21935",
+      "end_line": 1739,
+      "heading": "Unclassified Dwg 21935",
+      "level": 2,
+      "start_line": 1735
+    },
+    {
+      "anchor": "unclassified-dwg-21936",
+      "end_line": 1756,
+      "heading": "Unclassified Dwg 21936",
+      "level": 2,
+      "start_line": 1740
+    },
+    {
+      "anchor": "5-11-two-liquid-phase-region-of-the-system-mathsf-uo-2-mathsf-so-4-mathsf-h-2-mathsf-so-4-mathsf-h-2-mathsf-o",
+      "end_line": 1774,
+      "heading": "5.11. Two-Liquid-Phase Region of the System $\\mathsf{UO}_2\\mathsf{SO}_4 - \\mathsf{H}_2\\mathsf{SO}_4 - \\mathsf{H}_2\\mathsf{O}$",
+      "level": 1,
+      "start_line": 1757
+    },
+    {
+      "anchor": "5-13-solubility-of-mathsf-uo-3-in-mathsf-h-2-mathsf-so-4-mathsf-h-2-mathsf-o-mixtures",
+      "end_line": 1793,
+      "heading": "5.13. Solubility of $\\mathsf{UO}_3$ in $\\mathsf{H}_2\\mathsf{SO}_4 - \\mathsf{H}_2\\mathsf{O}$ Mixtures",
+      "level": 1,
+      "start_line": 1775
+    },
+    {
+      "anchor": "5-15-second-liquid-phase-temperatures-of-mathsf-uo-2-mathsf-so-4-mathsf-li-2-mathsf-so-4-solutions",
+      "end_line": 1811,
+      "heading": "5.15. Second-Liquid-Phase Temperatures of $\\mathsf{UO}_2\\mathsf{SO}_4 - \\mathsf{Li}_2\\mathsf{SO}_4$ Solutions",
+      "level": 1,
+      "start_line": 1794
+    },
+    {
+      "anchor": "5-17-second-liquid-phase-temperatures-for-mathsf-beso-4-solutions-containing-mathsf-uo-3",
+      "end_line": 1820,
+      "heading": "5.17. Second-Liquid-Phase Temperatures for $\\mathsf{BeSO}_4$ Solutions Containing $\\mathsf{UO}_3$",
+      "level": 1,
+      "start_line": 1812
+    },
+    {
+      "anchor": "5-18-the-system-mathsf-niso-4-mathsf-uo-2-mathsf-so-4-mathsf-h-2-mathsf-o-at-25-circ-c",
+      "end_line": 1864,
+      "heading": "5.18. The System $\\mathsf{NiSO}_4 - \\mathsf{UO}_2\\mathsf{SO}_4 - \\mathsf{H}_2\\mathsf{O}$ at $25^{\\circ}C$",
+      "level": 1,
+      "start_line": 1821
+    },
+    {
+      "anchor": "5-23-solubility-of-mathsf-l-alpha-2-mathsf-so-4-3-in-mathsf-uo-2-mathsf-so-4-solutions",
+      "end_line": 1873,
+      "heading": "5.23. Solubility of $\\mathsf{L}\\alpha_{2}(\\mathsf{SO}_{4})_{3}$ in $\\mathsf{UO}_2\\mathsf{SO}_4$ Solutions",
+      "level": 1,
+      "start_line": 1865
+    },
+    {
+      "anchor": "5-24-solubility-of-mathsf-cdso-4-in-mathsf-uo-2-mathsf-so-4-solutions",
+      "end_line": 1882,
+      "heading": "5.24. Solubility of $\\mathsf{CdSO}_4$ in $\\mathsf{UO}_2\\mathsf{SO}_4$ Solutions",
+      "level": 1,
+      "start_line": 1874
+    },
+    {
+      "anchor": "5-25-solubility-of-mathsf-c-mathsf-s-2-mathsf-so-4-in-mathsf-uo-2-mathsf-so-4-solutions",
+      "end_line": 1891,
+      "heading": "5.25. Solubility of $\\mathsf{C}\\mathsf{s}_2\\mathsf{SO}_4$ in $\\mathsf{UO}_2\\mathsf{SO}_4$ Solutions",
+      "level": 1,
+      "start_line": 1883
+    },
+    {
+      "anchor": "5-26-solubility-of-mathsf-y-2-mathsf-so-4-3-in-mathsf-uo-2-mathsf-so-4-solutions",
+      "end_line": 1900,
+      "heading": "5.26. Solubility of $\\mathsf{Y}_2(\\mathsf{SO}_4)_3$ in $\\mathsf{UO}_2\\mathsf{SO}_4$ Solutions",
+      "level": 1,
+      "start_line": 1892
+    },
+    {
+      "anchor": "5-27-solubility-of-mathsf-ag-2-mathsf-so-4-in-mathsf-uo-2-mathsf-so-4-solutions",
+      "end_line": 1909,
+      "heading": "5.27. Solubility of $\\mathsf{Ag}_2\\mathsf{SO}_4$ in $\\mathsf{UO}_2\\mathsf{SO}_4$ Solutions",
+      "level": 1,
+      "start_line": 1901
+    },
+    {
+      "anchor": "5-28-solubility-at-250-circ-mathrm-c-of-mathsf-baso-4-in-mathsf-uo-2-mathsf-so-4-mathsf-h-2-mathsf-o-solutions",
+      "end_line": 1939,
+      "heading": "5.28. Solubility at $250^{\\circ}\\mathrm{C}$ of $\\mathsf{BaSO}_4$ in $\\mathsf{UO}_2\\mathsf{SO}_4 - \\mathsf{H}_2\\mathsf{O}$ Solutions",
+      "level": 1,
+      "start_line": 1910
+    },
+    {
+      "anchor": "5-31-the-system-mathsf-uo-2-mathsf-no-3-2-mathsf-h-2-mathsf-o",
+      "end_line": 1949,
+      "heading": "5.31. The System $\\mathsf{UO}_2(\\mathsf{NO}_3)_2 - \\mathsf{H}_2\\mathsf{O}$",
+      "level": 1,
+      "start_line": 1940
+    },
+    {
+      "anchor": "5-32-phase-equilibria-of-mathsf-uo-3-and-hf-in-stoichiometric-concentrations-aqueous-system",
+      "end_line": 1958,
+      "heading": "5.32. Phase Equilibria of $\\mathsf{UO}_3$ and HF in Stoichiometric Concentrations (Aqueous System)",
+      "level": 1,
+      "start_line": 1950
+    },
+    {
+      "anchor": "5-33-solubility-of-uranium-trioxide-in-orthophosphoric-acid-solutions",
+      "end_line": 1967,
+      "heading": "5.33. Solubility of Uranium Trioxide in Orthophosphoric Acid Solutions",
+      "level": 1,
+      "start_line": 1959
+    },
+    {
+      "anchor": "5-34-solubility-of-uranium-trioxide-in-phosphoric-acid-at-250-circ-mathrm-c",
+      "end_line": 1976,
+      "heading": "5.34. Solubility of Uranium Trioxide in Phosphoric Acid at $250^{\\circ}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 1968
+    },
+    {
+      "anchor": "5-35-solubility-of-mathsf-uo-3-in-mathsf-h-3-mathsf-po-4-solution",
+      "end_line": 1985,
+      "heading": "5.35. Solubility of $\\mathsf{UO}_3$ in $\\mathsf{H}_3\\mathsf{PO}_4$ Solution",
+      "level": 1,
+      "start_line": 1977
+    },
+    {
+      "anchor": "5-36-the-system-mathsf-uo-2-mathsf-cro-4-mathsf-h-2-mathsf-o",
+      "end_line": 2012,
+      "heading": "5.36. The System $\\mathsf{UO}_2\\mathsf{CrO}_4 - \\mathsf{H}_2\\mathsf{O}$",
+      "level": 1,
+      "start_line": 1986
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 2014,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 2013
+    },
+    {
+      "anchor": "ornl-lr-dwg11342b",
+      "end_line": 2019,
+      "heading": "Ornl-Lr-Dwg11342B",
+      "level": 2,
+      "start_line": 2015
+    },
+    {
+      "anchor": "5-39-the-system-mathrm-th-no-3-4-h-2o",
+      "end_line": 2029,
+      "heading": "5.39. The System $\\mathrm{Th(NO_3)_4 - H_2O}$",
+      "level": 1,
+      "start_line": 2020
+    },
+    {
+      "anchor": "5-40-hydrolytic-stability-of-thorium-nitrate-nitric-acid-and-uranyl-nitrate-solutions",
+      "end_line": 2039,
+      "heading": "5.40. Hydrolytic Stability of Thorium Nitrate-Nitric Acid and Uranyl Nitrate Solutions",
+      "level": 1,
+      "start_line": 2030
+    },
+    {
+      "anchor": "5-41-the-system-mathsf-tho-2-mathsf-cro-3-mathsf-h-2-mathsf-o-at-25-circ-c",
+      "end_line": 2049,
+      "heading": "5.41. The System $\\mathsf{ThO}_2 - \\mathsf{CrO}_3 - \\mathsf{H}_2\\mathsf{O}$ at $25^{\\circ}C$",
+      "level": 1,
+      "start_line": 2040
+    },
+    {
+      "anchor": "5-42-phase-stability-of-mathsf-tho-2-mathsf-h-3-mathsf-po-4-mathsf-h-2-mathsf-o-solutions-at-high-concentrations-of-mathsf-tho-2",
+      "end_line": 2058,
+      "heading": "5.42. Phase Stability of $\\mathsf{ThO}_2\\mathsf{-H}_3\\mathsf{PO}_4\\mathsf{-H}_2\\mathsf{O}$ Solutions at High Concentrations of $\\mathsf{ThO}_2$",
+      "level": 1,
+      "start_line": 2050
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 2080,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 2059
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2318,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2081
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2343,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2319
+    }
+  ],
+  "source_dir": "pdf/ORNL-2548",
+  "tables": [],
+  "title": "PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "aqueous-homogeneous-reactors",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

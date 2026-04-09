@@ -1,0 +1,421 @@
+{
+  "authors": [
+    "J. R. Weir",
+    "J. O. Stiegler",
+    "E. E. Bloom",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2258.jsonl",
+  "date_text": "1968",
+  "doc_id": "ornl-tm-2258",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 37,
+        "line_hits": [
+          194,
+          196,
+          199,
+          202,
+          207,
+          215,
+          218,
+          223,
+          242,
+          244,
+          255,
+          262,
+          264,
+          270,
+          272,
+          275,
+          280,
+          282,
+          302,
+          329,
+          336,
+          339,
+          353,
+          355,
+          358,
+          361,
+          367,
+          373,
+          379,
+          381,
+          384,
+          409,
+          432,
+          435,
+          439,
+          451,
+          613
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          156,
+          327,
+          438,
+          445,
+          447
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          259,
+          264,
+          377,
+          438
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          229,
+          418,
+          419
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          379,
+          381
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          442
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          624
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          309
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 24,
+        "line_hits": [
+          46,
+          409,
+          621,
+          622,
+          623,
+          624,
+          629,
+          639,
+          642,
+          648,
+          650,
+          652,
+          655,
+          657,
+          658,
+          660,
+          662,
+          663,
+          665,
+          666,
+          668,
+          670,
+          672,
+          673
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          36,
+          336,
+          339,
+          435,
+          457,
+          461,
+          462,
+          621,
+          648
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          409,
+          618,
+          625,
+          632,
+          649,
+          669
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          615,
+          638,
+          640,
+          651,
+          659
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          42,
+          644
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 36,
+        "line_hits": [
+          78,
+          82,
+          84,
+          88,
+          94,
+          150,
+          152,
+          154,
+          164,
+          168,
+          196,
+          204,
+          212,
+          215,
+          218,
+          225,
+          229,
+          233,
+          235,
+          239,
+          246,
+          253,
+          257,
+          264,
+          307,
+          327,
+          329,
+          331,
+          347,
+          369,
+          375,
+          377,
+          390,
+          394,
+          396,
+          400
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "923770044ad40f6a31181b81b724d323d4b5ddb0397fc269197d9ebb9390fa9f",
+  "markdown_path": "pdf/ORNL-TM-2258/ORNL-TM-2258/hybrid_ocr/ORNL-TM-2258.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 22,
+  "sections": [
+    {
+      "anchor": "irradiation-behavior-of-cladding-and-structural-materials",
+      "end_line": 4,
+      "heading": "Irradiation Behavior Of Cladding And Structural Materials",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 15,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 17,
+      "heading": "METALS AND CERAMICS DIVISION",
+      "level": 1,
+      "start_line": 16
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 27,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 18
+    },
+    {
+      "anchor": "irradiation-behavior-of-cladding-and-structural-materials",
+      "end_line": 33,
+      "heading": "Irradiation Behavior Of Cladding And Structural Materials",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "september-1968",
+      "end_line": 35,
+      "heading": "September 1968",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 41,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 45,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 47,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "contents",
+      "end_line": 75,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 79,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 89,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "production-of-defects",
+      "end_line": 165,
+      "heading": "PRODUCTION OF DEFECTS",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "effects-of-irradiation-on-mechanical-properties",
+      "end_line": 173,
+      "heading": "EFFECTS OF IRRADIATION ON MECHANICAL PROPERTIES",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "low-temperatures",
+      "end_line": 250,
+      "heading": "Low Temperatures",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "intermediate-temperatures",
+      "end_line": 324,
+      "heading": "Intermediate Temperatures",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "high-temperatures",
+      "end_line": 387,
+      "heading": "High Temperatures",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "summary",
+      "end_line": 397,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 401,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "references",
+      "end_line": 453,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 402
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 609,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 454
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 674,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 610
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2258",
+  "tables": [],
+  "title": "IRRADIATION BEHAVIOR OF CLADDING AND STRUCTURAL MATERIALS",
+  "topics": [
+    "irradiation-and-damage",
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

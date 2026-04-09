@@ -1,0 +1,731 @@
+{
+  "authors": [
+    "Operated By",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "UCC",
+    "POST OFFICE BOX P",
+    "OAK RIDGE",
+    "TENNESSEE",
+    "EXTERNAL TRANSMITTAL: AUTHORIZED"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-57-4-92.jsonl",
+  "date_text": "April 8, 1957",
+  "doc_id": "ornl-cf-57-4-92",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 6,
+        "line_hits": [
+          226,
+          228,
+          232,
+          240,
+          248,
+          455
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          214
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 17,
+        "line_hits": [
+          140,
+          184,
+          194,
+          196,
+          198,
+          212,
+          218,
+          220,
+          230,
+          232,
+          236,
+          301,
+          321,
+          325,
+          337,
+          355,
+          423
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          162,
+          182,
+          200,
+          228,
+          232,
+          278,
+          325,
+          327,
+          331,
+          333,
+          335,
+          351,
+          411,
+          485
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          200,
+          236,
+          278,
+          311,
+          325,
+          331,
+          333,
+          351,
+          463
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          232,
+          325,
+          327,
+          331,
+          351
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          299,
+          307,
+          309,
+          325
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          254,
+          509
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          5,
+          19,
+          99,
+          110,
+          576
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          103,
+          106
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          561
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          323
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          9
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 39,
+        "line_hits": [
+          118,
+          120,
+          124,
+          132,
+          136,
+          140,
+          150,
+          170,
+          174,
+          176,
+          182,
+          184,
+          196,
+          200,
+          212,
+          216,
+          218,
+          228,
+          238,
+          256,
+          264,
+          268,
+          272,
+          278,
+          301,
+          303,
+          311,
+          315,
+          325,
+          327,
+          331,
+          347,
+          349,
+          363,
+          369,
+          413,
+          463,
+          473,
+          475
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          343,
+          347,
+          545
+        ],
+        "name": "LMFR"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          339,
+          353
+        ],
+        "name": "AHR"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          21
+        ],
+        "name": "ORNL Central Files"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          335
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e8ed40e2dd5d7b5e834bb5c1e20dd44b7562129130bbeca1b0d3ca7136c8598b",
+  "markdown_path": "pdf/ORNL-CF-57-4-92/ORNL-CF-57-4-92/hybrid_ocr/ORNL-CF-57-4-92.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 65,
+  "sections": [
+    {
+      "anchor": "unclassified",
+      "end_line": 4,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 8,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 12,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "post-office-box-p",
+      "end_line": 14,
+      "heading": "Post Office Box P",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "oak-ridge-tennessee",
+      "end_line": 16,
+      "heading": "Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "external-transmittal-authorized",
+      "end_line": 18,
+      "heading": "External Transmittal: Authorized",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 20,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "central-files-number",
+      "end_line": 22,
+      "heading": "CENTRAL FILES NUMBER",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "cf-57-4-92",
+      "end_line": 26,
+      "heading": "${Cf} - {57} - 4 = {92}$",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "date",
+      "end_line": 32,
+      "heading": "Date:",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "subject",
+      "end_line": 40,
+      "heading": "Subject:",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "from",
+      "end_line": 44,
+      "heading": "From:",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 62,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "7-j-w-h11",
+      "end_line": 105,
+      "heading": "7.J.W.H11",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "81-tise-aec-15",
+      "end_line": 107,
+      "heading": "81. TISE-AEC (15)",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "notice",
+      "end_line": 111,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 113,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 115,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 121,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "ii-types-of-maintenance",
+      "end_line": 125,
+      "heading": "II. TYPES OF MAINTENANCE",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 133,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 126
+    },
+    {
+      "anchor": "iii-application",
+      "end_line": 137,
+      "heading": "III. APPLICATION",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "a-solid-fuel-types",
+      "end_line": 141,
+      "heading": "A. Solid Fuel Types",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 145,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "1-gas-cooled-reactors",
+      "end_line": 155,
+      "heading": "1. Gas-Cooled Reactors",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 167,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 171,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 168
+    },
+    {
+      "anchor": "2-organic-reactors",
+      "end_line": 189,
+      "heading": "2. Organic Reactors",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "3-pressurized-water-reactors",
+      "end_line": 207,
+      "heading": "3. Pressurized Water Reactors",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "4-boiling-water-reactors",
+      "end_line": 221,
+      "heading": "4.Boiling Water Reactors",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 225,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "5-sodium-graphite-reactors",
+      "end_line": 249,
+      "heading": "5. Sodium Graphite Reactors",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "6-fast-reactors",
+      "end_line": 257,
+      "heading": "6. Fast Reactors",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 269,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "b-circulating-fuel-reactors",
+      "end_line": 275,
+      "heading": "B. Circulating Fuel Reactors",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "1-aqueous-homogeneous-fuel-reactor",
+      "end_line": 288,
+      "heading": "1. Aqueous Homogeneous Fuel Reactor",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 316,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "2-fused-salt-homogeneous-reactors",
+      "end_line": 340,
+      "heading": "2. Fused Salt Homogeneous Reactors",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "3-liquid-metal-fueled-reactor",
+      "end_line": 356,
+      "heading": "3. Liquid Metal Fueled Reactor",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 366,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "summary",
+      "end_line": 386,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 390,
+      "heading": "Disadvantages",
+      "level": 2,
+      "start_line": 387
+    },
+    {
+      "anchor": "organic-moderated",
+      "end_line": 392,
+      "heading": "Organic-Moderated",
+      "level": 2,
+      "start_line": 391
+    },
+    {
+      "anchor": "advantages",
+      "end_line": 406,
+      "heading": "Advantages",
+      "level": 2,
+      "start_line": 393
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 414,
+      "heading": "Disadvantages",
+      "level": 2,
+      "start_line": 407
+    },
+    {
+      "anchor": "advantages",
+      "end_line": 426,
+      "heading": "ADVANTAGES",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "disavantages",
+      "end_line": 436,
+      "heading": "DISAVANTAGES",
+      "level": 1,
+      "start_line": 427
+    },
+    {
+      "anchor": "boiling-water",
+      "end_line": 438,
+      "heading": "BOILING WATER",
+      "level": 1,
+      "start_line": 437
+    },
+    {
+      "anchor": "advantages",
+      "end_line": 444,
+      "heading": "ADVANTAGES",
+      "level": 1,
+      "start_line": 439
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 454,
+      "heading": "DISADVANTAGES",
+      "level": 1,
+      "start_line": 445
+    },
+    {
+      "anchor": "sodium-graphite",
+      "end_line": 456,
+      "heading": "SODIUM GRAPHITE",
+      "level": 1,
+      "start_line": 455
+    },
+    {
+      "anchor": "advantages",
+      "end_line": 466,
+      "heading": "ADVANTAGES",
+      "level": 1,
+      "start_line": 457
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 476,
+      "heading": "DISADVANTAGES",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "fast-reactor",
+      "end_line": 478,
+      "heading": "FAST REACTOR",
+      "level": 1,
+      "start_line": 477
+    },
+    {
+      "anchor": "advantages",
+      "end_line": 488,
+      "heading": "ADVANTAGES",
+      "level": 1,
+      "start_line": 479
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 502,
+      "heading": "DISADVANTAGES",
+      "level": 1,
+      "start_line": 489
+    },
+    {
+      "anchor": "aqueous-eomogeneous",
+      "end_line": 504,
+      "heading": "AQUEOUS EOMOGENEOUS",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "advantage",
+      "end_line": 510,
+      "heading": "ADVANTAGE",
+      "level": 1,
+      "start_line": 505
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 526,
+      "heading": "DISADVANTAGES",
+      "level": 1,
+      "start_line": 511
+    },
+    {
+      "anchor": "fused-salt-homogeneous",
+      "end_line": 528,
+      "heading": "FUSED SALT HOMOGENEOUS",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "advantages",
+      "end_line": 534,
+      "heading": "ADVANTAGES",
+      "level": 1,
+      "start_line": 529
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 544,
+      "heading": "DISADVANTAGES",
+      "level": 1,
+      "start_line": 535
+    },
+    {
+      "anchor": "liquid-metal-fuel-reactor",
+      "end_line": 546,
+      "heading": "LIQUID METAL FUEL REACTOR",
+      "level": 1,
+      "start_line": 545
+    },
+    {
+      "anchor": "advantages",
+      "end_line": 552,
+      "heading": "ADVANTAGES",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 577,
+      "heading": "DISADVANTAGES",
+      "level": 1,
+      "start_line": 553
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-57-4-92",
+  "tables": [],
+  "title": "UNCLASSIFIED",
+  "topics": [
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "aircraft-nuclear-propulsion",
+    "irradiation-and-damage",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

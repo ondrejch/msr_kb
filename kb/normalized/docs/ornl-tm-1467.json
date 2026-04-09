@@ -1,0 +1,581 @@
+{
+  "authors": [
+    "Paul R. Kasten",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1467.jsonl",
+  "date_text": "April 7, 1966",
+  "doc_id": "ornl-tm-1467",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 8,
+        "line_hits": [
+          25,
+          172,
+          203,
+          205,
+          226,
+          329,
+          335,
+          351
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          201,
+          244
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          172
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 9,
+        "line_hits": [
+          178,
+          180,
+          182,
+          201,
+          203,
+          244,
+          246,
+          250,
+          259
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          178,
+          180,
+          201,
+          203,
+          255,
+          257,
+          265
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          201,
+          289
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          289
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          178
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          289
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          178
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          289
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          7,
+          38,
+          40,
+          64,
+          218,
+          390,
+          391,
+          392
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          317,
+          458,
+          459,
+          460,
+          462,
+          463
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 42,
+        "line_hits": [
+          13,
+          25,
+          44,
+          64,
+          76,
+          170,
+          172,
+          174,
+          178,
+          185,
+          199,
+          205,
+          210,
+          213,
+          216,
+          221,
+          224,
+          228,
+          238,
+          248,
+          253,
+          271,
+          273,
+          287,
+          295,
+          299,
+          303,
+          333,
+          339,
+          341,
+          345,
+          349,
+          356,
+          362,
+          366,
+          368,
+          370,
+          372,
+          374,
+          379,
+          381,
+          391
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 27,
+        "line_hits": [
+          178,
+          201,
+          203,
+          205,
+          226,
+          232,
+          236,
+          238,
+          240,
+          246,
+          257,
+          259,
+          265,
+          285,
+          291,
+          292,
+          313,
+          317,
+          319,
+          335,
+          339,
+          341,
+          343,
+          362,
+          366,
+          368,
+          386
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          294
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          271
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          172,
+          250,
+          335
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          172,
+          250
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          180
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          250
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          250
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "518b755ad5c98dd6b44239f647eaec49dc1c100792f80efc53119e237571b0ff",
+  "markdown_path": "pdf/ORNL-TM-1467/ORNL-TM-1467/hybrid_ocr/ORNL-TM-1467.md",
+  "report_number": "ORNL-TM-1467",
+  "report_numbers": [
+    "ORNL-TM-1467"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 38,
+  "sections": [
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 6,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-tm-1467",
+      "end_line": 8,
+      "heading": "Ornl-Tm-1467",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "copy-no-1",
+      "end_line": 12,
+      "heading": "Copy No. - 1",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "summary-of-molten-salt-breeder-reactor-design-studies",
+      "end_line": 22,
+      "heading": "Summary Of Molten-Salt Breeder Reactor Design Studies",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 26,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 61,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 69,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "contents",
+      "end_line": 71,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "foreword-3",
+      "end_line": 73,
+      "heading": "Foreword 3",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "introduction-7",
+      "end_line": 75,
+      "heading": "Introduction 7",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "msbr-plant-design-7",
+      "end_line": 85,
+      "heading": "Msbr Plant Design 7",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "capital-cost-estimates-19",
+      "end_line": 91,
+      "heading": "Capital Cost Estimates 19",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "nuclear-performance-and-fuel-cycle-analyses-19",
+      "end_line": 99,
+      "heading": "Nuclear Performance And Fuel Cycle Analyses 19",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "power-cost-and-fuel-utilization-characteristics-28",
+      "end_line": 101,
+      "heading": "Power Cost And Fuel Utilization Characteristics 28",
+      "level": 2,
+      "start_line": 100
+    },
+    {
+      "anchor": "references-30",
+      "end_line": 105,
+      "heading": "References 30",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "cbov5x01",
+      "end_line": 167,
+      "heading": "Cbov5X01",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 173,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 168
+    },
+    {
+      "anchor": "msbr-plant-design",
+      "end_line": 175,
+      "heading": "MSBR PLANT DESIGN",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "flowsheet",
+      "end_line": 186,
+      "heading": "Flowsheet",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "perfonnance",
+      "end_line": 191,
+      "heading": "Perfonnance",
+      "level": 2,
+      "start_line": 187
+    },
+    {
+      "anchor": "fuel",
+      "end_line": 192,
+      "heading": "Fuel",
+      "level": 2,
+      "start_line": 192
+    },
+    {
+      "anchor": "blanet",
+      "end_line": 193,
+      "heading": "Blanet",
+      "level": 2,
+      "start_line": 193
+    },
+    {
+      "anchor": "coolant",
+      "end_line": 196,
+      "heading": "Coolant",
+      "level": 2,
+      "start_line": 194
+    },
+    {
+      "anchor": "reactor-design",
+      "end_line": 217,
+      "heading": "Reactor Design",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "ornl-dwg-66-794",
+      "end_line": 229,
+      "heading": "Ornl Dwg. 66-794",
+      "level": 2,
+      "start_line": 218
+    },
+    {
+      "anchor": "fuel-processing",
+      "end_line": 241,
+      "heading": "Fuel Processing",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "heat-exchange-and-steam-systems",
+      "end_line": 266,
+      "heading": "Heat Exchange and Steam Systems",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "capital-cost-estimates",
+      "end_line": 268,
+      "heading": "CAPITAL COST ESTIMATES",
+      "level": 1,
+      "start_line": 267
+    },
+    {
+      "anchor": "reactor-power-plant",
+      "end_line": 274,
+      "heading": "Reactor Power Plant",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "fuel-recycle-plant",
+      "end_line": 282,
+      "heading": "Fuel Recycle Plant",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "nuclear-performance-and-fuel-cycle-analyses",
+      "end_line": 306,
+      "heading": "NUCLEAR PERFORMANCE AND FUEL CYCLE ANALYSES",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "analysis-procedures",
+      "end_line": 314,
+      "heading": "Analysis Procedures",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "basic-assumptions",
+      "end_line": 336,
+      "heading": "Basic Assumptions",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "nuclear-design-analysis",
+      "end_line": 363,
+      "heading": "Nuclear Design Analysis",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "power-cost-and-fuel-utilization-characteristics",
+      "end_line": 387,
+      "heading": "POWER COST AND FUEL UTILIZATION CHARACTERISTICS",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "references",
+      "end_line": 394,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 455,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 488,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 456
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1467",
+  "tables": [],
+  "title": "MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES",
+  "topics": [
+    "breeder-and-converter-design",
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

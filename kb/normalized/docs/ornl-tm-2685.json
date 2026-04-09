@@ -1,0 +1,348 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "COPY NO. -",
+    "R.C.Steffy",
+    "Jr.",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2685.jsonl",
+  "date_text": "August 10, 1969",
+  "doc_id": "ornl-tm-2685",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 12,
+        "line_hits": [
+          27,
+          29,
+          50,
+          89,
+          97,
+          108,
+          113,
+          177,
+          185,
+          206,
+          245,
+          254
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          85
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          161
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          85
+        ],
+        "name": "drain tank"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          11,
+          249,
+          250,
+          251,
+          253,
+          259,
+          314
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          3,
+          13,
+          249,
+          250,
+          251,
+          256,
+          356
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 23,
+        "line_hits": [
+          21,
+          27,
+          42,
+          50,
+          59,
+          66,
+          75,
+          85,
+          93,
+          99,
+          103,
+          111,
+          117,
+          149,
+          154,
+          183,
+          199,
+          216,
+          230,
+          236,
+          239,
+          249,
+          251
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          27,
+          50,
+          56,
+          75,
+          79,
+          81,
+          85,
+          93,
+          97,
+          105,
+          149,
+          151,
+          175,
+          206,
+          236
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f6517d475b93ab72a77f93b491bdf85b954a7ddb8cd31710b2df260c772476c7",
+  "markdown_path": "pdf/ORNL-TM-2685/ORNL-TM-2685/hybrid_ocr/ORNL-TM-2685.md",
+  "report_number": "ORNL-TM-2685",
+  "report_numbers": [
+    "ORNL-TM-2685",
+    "ORNL-TM-611",
+    "ORNL-4191",
+    "ORNL-TM-935"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 25,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory-operated-by",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY operated by",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 6,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 10,
+      "heading": "NUCLEAR DIVISION",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 12,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "ornl-tm-2685",
+      "end_line": 14,
+      "heading": "Ornl-Tm-2685",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 20,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "inherent-neutron-source-in-msre-with-clean-233-u-fuel",
+      "end_line": 24,
+      "heading": "Inherent Neutron Source In Msre With Clean $^{233}$ U Fuel",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 30,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "contents",
+      "end_line": 43,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 47,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 53,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "fuel-composition",
+      "end_line": 72,
+      "heading": "FUEL COMPOSITION",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "alpha-source",
+      "end_line": 82,
+      "heading": "ALPHA SOURCE",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "neutron-source",
+      "end_line": 86,
+      "heading": "NEUTRON SOURCE",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "7li-n-10b",
+      "end_line": 90,
+      "heading": "7Li（α，n）10B",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "spontaneous-fissions",
+      "end_line": 100,
+      "heading": "Spontaneous Fissions",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 114,
+      "heading": "DISCUSSION",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 207,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "table-10",
+      "end_line": 209,
+      "heading": "Table 10",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "fractional-yield-data-for-be-and-f",
+      "end_line": 213,
+      "heading": "Fractional Yield Data for Be and F",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "source-from-7-mathrm-li-alpha-mathrm-n-10-mathrm-b",
+      "end_line": 246,
+      "heading": "Source from $7\\mathrm{Li}(\\alpha ,\\mathrm{n})^{10}\\mathrm{B}$",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "references",
+      "end_line": 260,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 358,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 261
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 362,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 359
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2685",
+  "tables": [],
+  "title": "![](images/0a855a079f24054ac94a8116e3a6846b391179ecab4de87dfa93e7e94599a1ae.jpg)",
+  "topics": [
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "program-history",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": []
+}

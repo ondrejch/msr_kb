@@ -1,0 +1,549 @@
+{
+  "authors": [
+    "L.C.Alexander J.W.Miller",
+    "B.W.Kinyon F.C.VonderLage",
+    "M.E.Lackey G.D.Whitman",
+    "H.G.MacPherson J.Zasler",
+    "DATE ISSUED",
+    "Oak Ridge",
+    "Tennessee"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2796.jsonl",
+  "date_text": "1960",
+  "doc_id": "ornl-2796",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          89,
+          313,
+          397,
+          412,
+          414
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          75,
+          470,
+          472
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          372
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          410
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          406
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 31,
+        "line_hits": [
+          103,
+          105,
+          109,
+          111,
+          113,
+          115,
+          117,
+          221,
+          223,
+          238,
+          248,
+          250,
+          252,
+          254,
+          270,
+          272,
+          274,
+          276,
+          289,
+          305,
+          307,
+          309,
+          402,
+          406,
+          410,
+          412,
+          434,
+          436,
+          443,
+          445,
+          478
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 29,
+        "line_hits": [
+          99,
+          103,
+          105,
+          107,
+          109,
+          111,
+          113,
+          115,
+          141,
+          143,
+          230,
+          240,
+          244,
+          246,
+          248,
+          250,
+          272,
+          293,
+          299,
+          364,
+          402,
+          406,
+          434,
+          436,
+          439,
+          441,
+          443,
+          445,
+          447
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          295,
+          406,
+          422,
+          447,
+          449,
+          459,
+          461,
+          468
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          37,
+          236,
+          272,
+          402
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          34,
+          151,
+          402,
+          478
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          189,
+          214
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          38,
+          242
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          472
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          16,
+          93,
+          97,
+          260,
+          266,
+          376,
+          476,
+          478,
+          582,
+          585
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          26,
+          589,
+          590
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          22
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 40,
+        "line_hits": [
+          67,
+          73,
+          81,
+          109,
+          111,
+          119,
+          141,
+          143,
+          153,
+          179,
+          187,
+          189,
+          191,
+          193,
+          195,
+          210,
+          212,
+          221,
+          223,
+          230,
+          232,
+          238,
+          240,
+          248,
+          250,
+          274,
+          278,
+          293,
+          295,
+          301,
+          307,
+          317,
+          319,
+          353,
+          364,
+          376,
+          386,
+          391,
+          414,
+          459
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          470
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          89,
+          99,
+          169,
+          315
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          89
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          89
+        ],
+        "name": "FLiBe"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "0fb8e95a9cc317bacd2cf3c26b74622a7d0f52ee9a94dddaabe0924387af8cb8",
+  "markdown_path": "pdf/ORNL-2796/ORNL-2796/hybrid_ocr/ORNL-2796.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 31,
+  "sections": [
+    {
+      "anchor": "reactor-projects-division",
+      "end_line": 4,
+      "heading": "REACTOR PROJECTS DIVISION",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "experimental-molten-salt-fueled-30-mw-power-reactor",
+      "end_line": 11,
+      "heading": "EXPERIMENTAL MOLTEN-SALT-FUELED 30-Mw POWER REACTOR",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 13,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 12
+    },
+    {
+      "anchor": "mar-8-1960",
+      "end_line": 15,
+      "heading": "Mar 8 1960",
+      "level": 2,
+      "start_line": 14
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 21,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 25,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 27,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "contents",
+      "end_line": 46,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 28
+    },
+    {
+      "anchor": "experimental-molten-salt-fueled-30-mw-power-reactor",
+      "end_line": 64,
+      "heading": "EXPERIMENTAL MOLTEN-SALT-FUELED 30-Mw POWER REACTOR",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 70,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "introduction-and-conclusions",
+      "end_line": 82,
+      "heading": "INTRODUCTION AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 71
+    },
+    {
+      "anchor": "general-description-of-reactor-and-plant-layout",
+      "end_line": 148,
+      "heading": "GENERAL DESCRIPTION OF REACTOR AND PLANT LAYOUT",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "molten-salt-system-auxiliaries",
+      "end_line": 150,
+      "heading": "MOLTEN-SALT SYSTEM AUXILIARIES",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "enriching-and-sampling-system",
+      "end_line": 184,
+      "heading": "Enriching and Sampling System",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "fill-and-drain-system",
+      "end_line": 207,
+      "heading": "Fill and Drain System",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "preheating-and-afterheat-removal-equipment",
+      "end_line": 235,
+      "heading": "Preheating and Afterheat Removal Equipment",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "off-gas-system",
+      "end_line": 241,
+      "heading": "Off-Gas System",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "molten-salt-pumps-and-heat-transfer-equipment",
+      "end_line": 257,
+      "heading": "MOLTEN-SALT PUMPS AND HEAT TRANSFER EQUIPMENT",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 259,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 258
+    },
+    {
+      "anchor": "ornl-lr-dwg-39470a",
+      "end_line": 265,
+      "heading": "Ornl-Lr-Dwg 39470A",
+      "level": 2,
+      "start_line": 260
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg3",
+      "end_line": 268,
+      "heading": "Unclassified Ornl-Lr-Dwg3",
+      "level": 2,
+      "start_line": 266
+    },
+    {
+      "anchor": "view-a-a",
+      "end_line": 290,
+      "heading": "View-A-A",
+      "level": 2,
+      "start_line": 269
+    },
+    {
+      "anchor": "steam-generating-equipment-and-turbine-electric-system",
+      "end_line": 302,
+      "heading": "STEAM GENERATING EQUIPMENT AND TURBINE-ELECTRIC SYSTEM",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "remote-maintenance",
+      "end_line": 310,
+      "heading": "REMOTE MAINTENANCE",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "nuclear-performance",
+      "end_line": 354,
+      "heading": "NUCLEAR PERFORMANCE",
+      "level": 1,
+      "start_line": 311
+    },
+    {
+      "anchor": "reactor-hazards",
+      "end_line": 394,
+      "heading": "REACTOR HAZARDS",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "costs",
+      "end_line": 431,
+      "heading": "COSTS",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "alternate-designs",
+      "end_line": 473,
+      "heading": "ALTERNATE DESIGNS",
+      "level": 1,
+      "start_line": 432
+    },
+    {
+      "anchor": "list-of-drawings",
+      "end_line": 479,
+      "heading": "LIST OF DRAWINGS",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 586,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 592,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 587
+    }
+  ],
+  "source_dir": "pdf/ORNL-2796",
+  "tables": [],
+  "title": "Contract No. W-7405-eng-26",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "off-gas-fission-products-and-tritium",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "reactor-physics-neutronics",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

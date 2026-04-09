@@ -1,0 +1,928 @@
+{
+  "authors": [
+    "Features of Aircraft Reactors",
+    "ANALYTICAL AND EXPERIMENTAL STUDIES",
+    "OF THE TEMPERATURE STRUCTURE",
+    "WITHIN THE ART CORE",
+    "H. F. Poppendiek",
+    "N. D. Greene"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2198.jsonl",
+  "date_text": "1957",
+  "doc_id": "ornl-2198",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          662,
+          668
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 11,
+        "line_hits": [
+          512,
+          520,
+          892,
+          1014,
+          1170,
+          1202,
+          1204,
+          1282,
+          1393,
+          1405,
+          1407
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          295,
+          326,
+          896,
+          911,
+          922,
+          1006,
+          1008,
+          1210,
+          1212,
+          1215,
+          1284
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 24,
+        "line_hits": [
+          3,
+          37,
+          80,
+          100,
+          518,
+          556,
+          900,
+          1059,
+          1119,
+          1173,
+          1302,
+          1374,
+          1382,
+          1419,
+          1430,
+          1431,
+          1432,
+          1434,
+          1436,
+          1440,
+          1441,
+          1443,
+          1444,
+          1450
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          41,
+          43,
+          84,
+          86
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1,
+          268
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          240
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          11
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          243
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          265
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 55,
+        "line_hits": [
+          21,
+          68,
+          280,
+          298,
+          319,
+          321,
+          330,
+          498,
+          512,
+          514,
+          516,
+          518,
+          520,
+          522,
+          526,
+          532,
+          546,
+          549,
+          554,
+          556,
+          592,
+          650,
+          658,
+          710,
+          718,
+          733,
+          741,
+          774,
+          844,
+          868,
+          881,
+          892,
+          896,
+          903,
+          906,
+          919,
+          1028,
+          1039,
+          1053,
+          1055,
+          1060,
+          1078,
+          1104,
+          1123,
+          1195,
+          1276,
+          1278,
+          1287,
+          1313,
+          1397
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 42,
+        "line_hits": [
+          319,
+          323,
+          325,
+          328,
+          330,
+          542,
+          546,
+          560,
+          563,
+          565,
+          594,
+          710,
+          718,
+          790,
+          862,
+          870,
+          888,
+          913,
+          915,
+          941,
+          943,
+          998,
+          1034,
+          1036,
+          1053,
+          1055,
+          1074,
+          1084,
+          1114,
+          1164,
+          1212,
+          1219,
+          1221,
+          1280,
+          1282,
+          1285,
+          1291,
+          1294,
+          1296,
+          1313,
+          1339,
+          1349
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          346
+        ],
+        "name": "KF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "079a8114f37c649369fdbc355504bd5b718edec8ea4333c473dd751886c56139",
+  "markdown_path": "pdf/ORNL-2198/ORNL-2198/hybrid_ocr/ORNL-2198.md",
+  "report_number": "ORNL-2198",
+  "report_numbers": [
+    "ORNL-2198",
+    "ORNL-2199",
+    "ORNL-1933"
+  ],
+  "report_series": null,
+  "section_count": 92,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-2198",
+      "end_line": 10,
+      "heading": "Ornl-2198",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 16,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "analytical-and-experimental-studies",
+      "end_line": 18,
+      "heading": "Analytical And Experimental Studies",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "of-the-temperature-structure",
+      "end_line": 20,
+      "heading": "Of The Temperature Structure",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "within-the-art-core",
+      "end_line": 28,
+      "heading": "Within The Art Core",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 30,
+      "heading": "Central Research Library Document Collection",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 32,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 36,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 38,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 40,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 46,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "post-office-box-x-oak-ridge-tennessee",
+      "end_line": 48,
+      "heading": "Post Office Box X · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 65,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "analytical-and-experimental-studies-of-the-temperature-structure",
+      "end_line": 67,
+      "heading": "Analytical And Experimental Studies Of The Temperature Structure",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "within-the-art-core",
+      "end_line": 75,
+      "heading": "Within The Art Core",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 77,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "jan-31-1957",
+      "end_line": 79,
+      "heading": "Jan 31 1957",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 83,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 91,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 101,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "29-l-b-e-e-h-t-1-25",
+      "end_line": 104,
+      "heading": "29. L. B. E. E. H. T. (1-25)",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "32-e",
+      "end_line": 105,
+      "heading": "32.E.",
+      "level": 2,
+      "start_line": 105
+    },
+    {
+      "anchor": "33-e",
+      "end_line": 152,
+      "heading": "33.E.",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "79-d-1",
+      "end_line": 166,
+      "heading": "79. D: 1",
+      "level": 2,
+      "start_line": 153
+    },
+    {
+      "anchor": "93-w",
+      "end_line": 172,
+      "heading": "93. W.",
+      "level": 2,
+      "start_line": 167
+    },
+    {
+      "anchor": "99-r",
+      "end_line": 200,
+      "heading": "99.R.",
+      "level": 2,
+      "start_line": 173
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 270,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 272,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "page",
+      "end_line": 274,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "summary-1",
+      "end_line": 275,
+      "heading": "Summary 1",
+      "level": 2,
+      "start_line": 275
+    },
+    {
+      "anchor": "nomenclature-3",
+      "end_line": 276,
+      "heading": "Nomenclature 3",
+      "level": 2,
+      "start_line": 276
+    },
+    {
+      "anchor": "introduction-8",
+      "end_line": 277,
+      "heading": "Introduction 8",
+      "level": 2,
+      "start_line": 277
+    },
+    {
+      "anchor": "mathematical-heat-transfer-analyses-12",
+      "end_line": 282,
+      "heading": "Mathematical Heat Transfer Analyses 12",
+      "level": 2,
+      "start_line": 278
+    },
+    {
+      "anchor": "experimental-system-30",
+      "end_line": 288,
+      "heading": "Experimental System 30",
+      "level": 2,
+      "start_line": 283
+    },
+    {
+      "anchor": "experimental-procedure-49",
+      "end_line": 291,
+      "heading": "Experimental Procedure 49",
+      "level": 2,
+      "start_line": 289
+    },
+    {
+      "anchor": "mean-and-transient-temperature-results-53",
+      "end_line": 295,
+      "heading": "Mean And Transient Temperature Results 53",
+      "level": 2,
+      "start_line": 292
+    },
+    {
+      "anchor": "general-comparison-of-hydrodynamic-and-thermal-fields-73",
+      "end_line": 296,
+      "heading": "General Comparison Of Hydrodynamic And Thermal Fields 73",
+      "level": 2,
+      "start_line": 296
+    },
+    {
+      "anchor": "conclusions-77",
+      "end_line": 300,
+      "heading": "Conclusions 77",
+      "level": 2,
+      "start_line": 297
+    },
+    {
+      "anchor": "acknowledgements-81",
+      "end_line": 302,
+      "heading": "Acknowledgements 81",
+      "level": 2,
+      "start_line": 301
+    },
+    {
+      "anchor": "page",
+      "end_line": 304,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "aepinie",
+      "end_line": 314,
+      "heading": "Aepinie",
+      "level": 2,
+      "start_line": 305
+    },
+    {
+      "anchor": "references-99",
+      "end_line": 316,
+      "heading": "References 99",
+      "level": 2,
+      "start_line": 315
+    },
+    {
+      "anchor": "summary",
+      "end_line": 331,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 333,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 332
+    },
+    {
+      "anchor": "letters",
+      "end_line": 431,
+      "heading": "Letters",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "terms",
+      "end_line": 495,
+      "heading": "Terms",
+      "level": 1,
+      "start_line": 432
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 509,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 496
+    },
+    {
+      "anchor": "3-transient-temperature-field",
+      "end_line": 527,
+      "heading": "3. Transient Temperature Field",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "mathematical-heat-transfer-analyses",
+      "end_line": 529,
+      "heading": "MATHEMATICAL HEAT TRANSFER ANALYSES",
+      "level": 1,
+      "start_line": 528
+    },
+    {
+      "anchor": "1-uncooled-core-wall-temperature-structure",
+      "end_line": 734,
+      "heading": "1. Uncooled Core Wall Temperature Structure",
+      "level": 1,
+      "start_line": 530
+    },
+    {
+      "anchor": "3-radial-fuel-temperature-structure-with-wall-cooling",
+      "end_line": 771,
+      "heading": "3. Radial Fuel Temperature Structure with Wall Cooling",
+      "level": 1,
+      "start_line": 735
+    },
+    {
+      "anchor": "4-transient-temperature-analyses",
+      "end_line": 775,
+      "heading": "4. Transient Temperature Analyses",
+      "level": 1,
+      "start_line": 772
+    },
+    {
+      "anchor": "a-momentary-flow-stagnation",
+      "end_line": 793,
+      "heading": "a. Momentary Flow Stagnation",
+      "level": 1,
+      "start_line": 776
+    },
+    {
+      "anchor": "table",
+      "end_line": 797,
+      "heading": "TABLE",
+      "level": 1,
+      "start_line": 794
+    },
+    {
+      "anchor": "region",
+      "end_line": 863,
+      "heading": "Region",
+      "level": 1,
+      "start_line": 798
+    },
+    {
+      "anchor": "experimental-system",
+      "end_line": 865,
+      "heading": "EXPERIMENTAL SYSTEM",
+      "level": 1,
+      "start_line": 864
+    },
+    {
+      "anchor": "1-technique",
+      "end_line": 878,
+      "heading": "1. Technique",
+      "level": 1,
+      "start_line": 866
+    },
+    {
+      "anchor": "2-electrode-geometry",
+      "end_line": 889,
+      "heading": "2. Electrode Geometry",
+      "level": 1,
+      "start_line": 879
+    },
+    {
+      "anchor": "3-flow-circuit",
+      "end_line": 893,
+      "heading": "3. Flow Circuit",
+      "level": 1,
+      "start_line": 890
+    },
+    {
+      "anchor": "4-half-scale-core-model",
+      "end_line": 899,
+      "heading": "4. Half-Scale Core Model",
+      "level": 1,
+      "start_line": 894
+    },
+    {
+      "anchor": "ornl-lr-dwg-17994",
+      "end_line": 926,
+      "heading": "Ornl-Lr-Dwg. 17994",
+      "level": 2,
+      "start_line": 900
+    },
+    {
+      "anchor": "table-2",
+      "end_line": 949,
+      "heading": "Table 2",
+      "level": 2,
+      "start_line": 927
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 971,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 950
+    },
+    {
+      "anchor": "transient-thermocouple",
+      "end_line": 979,
+      "heading": "Transient Thermocouple",
+      "level": 2,
+      "start_line": 972
+    },
+    {
+      "anchor": "experimental-procedure",
+      "end_line": 981,
+      "heading": "EXPERIMENTAL PROCEDURE",
+      "level": 1,
+      "start_line": 980
+    },
+    {
+      "anchor": "1-calibration",
+      "end_line": 1023,
+      "heading": "1. Calibration",
+      "level": 1,
+      "start_line": 982
+    },
+    {
+      "anchor": "mean-and-transient-temperature-results",
+      "end_line": 1025,
+      "heading": "MEAN AND TRANSIENT TEMPERATURE RESULTS",
+      "level": 1,
+      "start_line": 1024
+    },
+    {
+      "anchor": "1-swirl-flow-case-two-pumps",
+      "end_line": 1058,
+      "heading": "1. Swirl-Flow Case; Two Pumps",
+      "level": 1,
+      "start_line": 1026
+    },
+    {
+      "anchor": "ornl-lr-dwg-17999",
+      "end_line": 1075,
+      "heading": "Ornl-Lr-Dwg. 17999",
+      "level": 2,
+      "start_line": 1059
+    },
+    {
+      "anchor": "2-vaned-flow-case-two-pumps",
+      "end_line": 1118,
+      "heading": "2. Vaned-Flow Case; Two Pumps",
+      "level": 1,
+      "start_line": 1076
+    },
+    {
+      "anchor": "ornl-lr-dwg-18003",
+      "end_line": 1121,
+      "heading": "Ornl-Lr-Dwg. 18003",
+      "level": 2,
+      "start_line": 1119
+    },
+    {
+      "anchor": "axial-distance-x-l",
+      "end_line": 1172,
+      "heading": "Axial Distance, X / L",
+      "level": 2,
+      "start_line": 1122
+    },
+    {
+      "anchor": "ornl-lr-dwg-18005",
+      "end_line": 1216,
+      "heading": "Ornl-Lr-Dwg. 18005",
+      "level": 2,
+      "start_line": 1173
+    },
+    {
+      "anchor": "general-comparison-of-hydrodynamic-and-thermal-fields",
+      "end_line": 1261,
+      "heading": "GENERAL COMPARISON OF HYDRODYNAMIC AND THERMAL FIELDS",
+      "level": 1,
+      "start_line": 1217
+    },
+    {
+      "anchor": "transient-temperature-minus-mean-temperature-of-core-wall",
+      "end_line": 1264,
+      "heading": "Transient Temperature Minus Mean Temperature Of Core Wall",
+      "level": 2,
+      "start_line": 1262
+    },
+    {
+      "anchor": "1-500-above-midplane-of-half-scale-core",
+      "end_line": 1273,
+      "heading": "1.500\" Above Midplane Of Half-Scale Core",
+      "level": 2,
+      "start_line": 1265
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 1275,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 1274
+    },
+    {
+      "anchor": "1-art-core",
+      "end_line": 1288,
+      "heading": "1. ART Core",
+      "level": 1,
+      "start_line": 1276
+    },
+    {
+      "anchor": "2-reflector-moderated-reactor-cores-in-general",
+      "end_line": 1299,
+      "heading": "2. Reflector-Moderated Reactor Cores in General",
+      "level": 1,
+      "start_line": 1289
+    },
+    {
+      "anchor": "3-new-core-configurations",
+      "end_line": 1310,
+      "heading": "3. New Core Configurations",
+      "level": 1,
+      "start_line": 1300
+    },
+    {
+      "anchor": "acknowledgements",
+      "end_line": 1328,
+      "heading": "ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 1311
+    },
+    {
+      "anchor": "appendix-1",
+      "end_line": 1330,
+      "heading": "APPENDIX 1",
+      "level": 1,
+      "start_line": 1329
+    },
+    {
+      "anchor": "electrolysis-research",
+      "end_line": 1356,
+      "heading": "Electrolysis Research",
+      "level": 1,
+      "start_line": 1331
+    },
+    {
+      "anchor": "appendix-2",
+      "end_line": 1373,
+      "heading": "APPENDIX 2",
+      "level": 1,
+      "start_line": 1357
+    },
+    {
+      "anchor": "ornl-lr-dwg-18014",
+      "end_line": 1381,
+      "heading": "Ornl-Lr-Dwg. 18014",
+      "level": 2,
+      "start_line": 1374
+    },
+    {
+      "anchor": "ornl-lr-dwg-18016",
+      "end_line": 1386,
+      "heading": "Ornl-Lr-Dwg. 18016",
+      "level": 2,
+      "start_line": 1382
+    },
+    {
+      "anchor": "appendix-3",
+      "end_line": 1408,
+      "heading": "APPENDIX 3",
+      "level": 1,
+      "start_line": 1387
+    },
+    {
+      "anchor": "appendix-4",
+      "end_line": 1410,
+      "heading": "APPENDIX 4",
+      "level": 1,
+      "start_line": 1409
+    },
+    {
+      "anchor": "calibrations",
+      "end_line": 1418,
+      "heading": "Calibrations",
+      "level": 1,
+      "start_line": 1411
+    },
+    {
+      "anchor": "ornl-lr-dwg-18018",
+      "end_line": 1427,
+      "heading": "Ornl-Lr-Dwg. 18018",
+      "level": 2,
+      "start_line": 1419
+    },
+    {
+      "anchor": "references",
+      "end_line": 1451,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1428
+    }
+  ],
+  "source_dir": "pdf/ORNL-2198",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "instrumentation-and-controls",
+    "salt-systems-and-thermophysics",
+    "pumps-loops-and-heat-exchangers",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "program-history",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

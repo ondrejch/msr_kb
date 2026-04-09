@@ -1,0 +1,386 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "COPY NO. -",
+    "L. E. McNeese",
+    "C. D. Scott",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1051.jsonl",
+  "date_text": "1965",
+  "doc_id": "ornl-tm-1051",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          163,
+          171,
+          199,
+          205
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          167
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          137,
+          165
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          1,
+          11,
+          151,
+          173,
+          178,
+          239,
+          244
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          9,
+          62,
+          361,
+          363,
+          371,
+          375
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          5,
+          58,
+          240
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          369,
+          373
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 10,
+        "line_hits": [
+          94,
+          104,
+          110,
+          114,
+          137,
+          159,
+          187,
+          199,
+          205,
+          215
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          239
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          122,
+          227,
+          234,
+          244
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          167,
+          171,
+          201
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          165,
+          167
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          40
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6a8a0502819c8ec34e2c7217f12f007f4efca77e45041854ab6c92a1eec69ba4",
+  "markdown_path": "pdf/ORNL-TM-1051/ORNL-TM-1051/hybrid_ocr/ORNL-TM-1051.md",
+  "report_number": "ORNL-TM-1051",
+  "report_numbers": [
+    "ORNL-TM-1051",
+    "ORNL-3791",
+    "K-1243"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 30,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 10,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "ornl-tm-1051",
+      "end_line": 12,
+      "heading": "Ornl-Tm-1051",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 26,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "distribution-of-this-document-unlimited",
+      "end_line": 28,
+      "heading": "Distribution Of This Document Unlimited",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 37,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 47,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "notice",
+      "end_line": 51,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "oak-rtdge-national-laboratory",
+      "end_line": 57,
+      "heading": "Oak Rtdge National Laboratory",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 61,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 67,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "contents",
+      "end_line": 83,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "reconstitution-of-msr-fuel-by-reducing",
+      "end_line": 85,
+      "heading": "RECONSTITUTION OF MSR FUEL BY REDUCING",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "uf-6-gas-to-uf-4-in-a-molten-salt",
+      "end_line": 91,
+      "heading": "Uf 6 Gas To Uf 4 In A Molten Salt",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 95,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 111,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "proposed-process-and-application-to-msr-processing",
+      "end_line": 146,
+      "heading": "PROPOSED PROCESS AND APPLICATION TO MSR PROCESSING",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "experimental-equipment-and-procedure",
+      "end_line": 150,
+      "heading": "EXPERIMENTAL EQUIPMENT AND PROCEDURE",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "ornl-dwg-65-1791",
+      "end_line": 160,
+      "heading": "Ornl Dwg 65-1791",
+      "level": 2,
+      "start_line": 151
+    },
+    {
+      "anchor": "equipment-and-materials",
+      "end_line": 168,
+      "heading": "EQUIPMENT AND MATERIALS",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "experimental-procedure",
+      "end_line": 172,
+      "heading": "EXPERIMENTAL PROCEDURE",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "ornl-dwg-65-1793",
+      "end_line": 177,
+      "heading": "Ornl Dwg 65-1793",
+      "level": 2,
+      "start_line": 173
+    },
+    {
+      "anchor": "ornl-dwg-65-1794",
+      "end_line": 184,
+      "heading": "Ornl Dwg 65-1794",
+      "level": 2,
+      "start_line": 178
+    },
+    {
+      "anchor": "discussion-of-experimental-results",
+      "end_line": 222,
+      "heading": "DISCUSSION OF EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "conclusions-and-recommendations",
+      "end_line": 236,
+      "heading": "CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "references",
+      "end_line": 246,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 358,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 376,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "68-82-dtie",
+      "end_line": 377,
+      "heading": "68-82. Dtie",
+      "level": 2,
+      "start_line": 377
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1051",
+  "tables": [],
+  "title": "OAK RIDGE NATIONAL LABORATORY",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "fuel-processing-and-reprocessing",
+    "breeder-and-converter-design",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

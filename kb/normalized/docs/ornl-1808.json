@@ -1,0 +1,640 @@
+{
+  "authors": [
+    "ENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION",
+    "M. T. Robinson",
+    "D. F. Weekes",
+    "AT",
+    "CENTRAL RESEARCH LIBRARY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1808.jsonl",
+  "date_text": "1955",
+  "doc_id": "ornl-1808",
+  "document_type": "report",
+  "entities": {
+    "component": [
+      {
+        "count": 61,
+        "line_hits": [
+          19,
+          59,
+          313,
+          318,
+          319,
+          320,
+          322,
+          327,
+          331,
+          333,
+          335,
+          337,
+          339,
+          348,
+          350,
+          360,
+          362,
+          374,
+          376,
+          763,
+          767,
+          769,
+          771,
+          776,
+          779,
+          782,
+          784,
+          811,
+          814,
+          816,
+          820,
+          822,
+          838,
+          848,
+          850,
+          852,
+          865,
+          870,
+          871,
+          881,
+          889,
+          896,
+          899,
+          902,
+          906,
+          916,
+          918,
+          922,
+          925,
+          945
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          337,
+          376,
+          912,
+          918,
+          920
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          337,
+          368,
+          382,
+          613
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          3,
+          41,
+          73,
+          237,
+          238,
+          345,
+          374,
+          761,
+          808,
+          1048
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          45,
+          47,
+          77,
+          79
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1,
+          305
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          7
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          303
+        ],
+        "name": "US Air Force"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 39,
+        "line_hits": [
+          362,
+          364,
+          366,
+          374,
+          386,
+          645,
+          673,
+          675,
+          685,
+          703,
+          705,
+          765,
+          771,
+          784,
+          786,
+          792,
+          802,
+          822,
+          842,
+          848,
+          850,
+          860,
+          873,
+          881,
+          922,
+          929,
+          957,
+          970,
+          997,
+          999,
+          1001,
+          1043,
+          1048,
+          1050,
+          1052,
+          1057,
+          1089,
+          1150,
+          1152
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          955
+        ],
+        "name": "ART"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d50e572da38740423b36149661ff82c19d3a165672a2171b3d8aaa6fbb0d130b",
+  "markdown_path": "pdf/ORNL-1808/ORNL-1808/hybrid_ocr/ORNL-1808.md",
+  "report_number": "ORNL-1808",
+  "report_numbers": [
+    "ORNL-1808",
+    "ORNL-1677"
+  ],
+  "report_series": null,
+  "section_count": 59,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-1808",
+      "end_line": 4,
+      "heading": "Ornl-1808",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "anp-limited-distribution",
+      "end_line": 6,
+      "heading": "Anp Limited Distribution",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 12,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "entral-research-library",
+      "end_line": 14,
+      "heading": "Entral Research Library",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 16,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "design-calculations-for-a-miniature-high",
+      "end_line": 18,
+      "heading": "Design Calculations For A Miniature High",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "temperature-in-pile-circulating-fuel-loop",
+      "end_line": 26,
+      "heading": "Temperature In-Pile Circulating Fuel Loop",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "aeg-research-and-development-rep-1",
+      "end_line": 30,
+      "heading": "Aeg Research And Development Rep 1",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 32,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 34,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 36,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 40,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 42,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 44,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 50,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "post-office-box-p-oak-ridge-tennessee",
+      "end_line": 54,
+      "heading": "Post Office Box P · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "solid-state-division",
+      "end_line": 56,
+      "heading": "Solid State Division",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "design-calculations-for-a-miniature-high",
+      "end_line": 58,
+      "heading": "DESIGN CALCULATIONS FOR A MINIATURE HIGH-",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "temperature-in-pile-circulating-fuel-loop",
+      "end_line": 68,
+      "heading": "TEMPERATURE IN-PILE CIRCULATING FUEL LOOP",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 70,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "sep-19-1955",
+      "end_line": 72,
+      "heading": "Sep 19 1955",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 76,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 90,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 135,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "44-a-p-f-g",
+      "end_line": 137,
+      "heading": "44. A. P. F. G",
+      "level": 2,
+      "start_line": 136
+    },
+    {
+      "anchor": "46-w-t-f",
+      "end_line": 239,
+      "heading": "46. W.T.F",
+      "level": 2,
+      "start_line": 138
+    },
+    {
+      "anchor": "ext-nal-distribution",
+      "end_line": 242,
+      "heading": "EXTÉNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "147-afdr",
+      "end_line": 243,
+      "heading": "147. AFDR",
+      "level": 2,
+      "start_line": 243
+    },
+    {
+      "anchor": "148-afswd",
+      "end_line": 246,
+      "heading": "148. AFSWD",
+      "level": 2,
+      "start_line": 244
+    },
+    {
+      "anchor": "151-at10",
+      "end_line": 250,
+      "heading": "151. AT10",
+      "level": 2,
+      "start_line": 247
+    },
+    {
+      "anchor": "155-b-dc",
+      "end_line": 270,
+      "heading": "155. B、-Dc",
+      "level": 2,
+      "start_line": 251
+    },
+    {
+      "anchor": "2-175-ge-anpd",
+      "end_line": 287,
+      "heading": "2-175. Ge - Anpd",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "187-nda",
+      "end_line": 296,
+      "heading": "187. Nda",
+      "level": 2,
+      "start_line": 288
+    },
+    {
+      "anchor": "199-sam",
+      "end_line": 310,
+      "heading": "199. Sam",
+      "level": 2,
+      "start_line": 297
+    },
+    {
+      "anchor": "contents",
+      "end_line": 326,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 311
+    },
+    {
+      "anchor": "design-calculations-for-a-miniature-high-temperature-in-pile-circulating-fuel-loop",
+      "end_line": 330,
+      "heading": "DESIGN CALCULATIONS FOR A MINIATURE HIGH-TEMPERATURE IN-PILE CIRCULATING FUEL LOOP",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "development-of-loop-model",
+      "end_line": 340,
+      "heading": "DEVELOPMENT OF LOOP MODEL",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 342,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 341
+    },
+    {
+      "anchor": "ssd-a-1052",
+      "end_line": 344,
+      "heading": "Ssd-A-1052",
+      "level": 2,
+      "start_line": 343
+    },
+    {
+      "anchor": "ornl-lr-dwg-3772",
+      "end_line": 349,
+      "heading": "Ornl-Lr-Dwg-3772",
+      "level": 2,
+      "start_line": 345
+    },
+    {
+      "anchor": "table-1-summary-of-loop-models",
+      "end_line": 379,
+      "heading": "Table 1. Summary Of Loop Models",
+      "level": 2,
+      "start_line": 350
+    },
+    {
+      "anchor": "derivation-of-heat-transfer-equations",
+      "end_line": 387,
+      "heading": "DERIVATION OF HEAT TRANSFER EQUATIONS",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 676,
+      "heading": "Nomenclature",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "numerical-data",
+      "end_line": 762,
+      "heading": "NUMERICAL DATA",
+      "level": 1,
+      "start_line": 677
+    },
+    {
+      "anchor": "selection-of-best-loop-model",
+      "end_line": 803,
+      "heading": "SELECTION OF BEST LOOP MODEL",
+      "level": 1,
+      "start_line": 763
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 805,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 804
+    },
+    {
+      "anchor": "ssd-b-988",
+      "end_line": 807,
+      "heading": "Ssd-B-988",
+      "level": 2,
+      "start_line": 806
+    },
+    {
+      "anchor": "ornl-lr-dwg-2252",
+      "end_line": 815,
+      "heading": "Ornl-Lr-Dwg-2252",
+      "level": 2,
+      "start_line": 808
+    },
+    {
+      "anchor": "table-2-calculated-thermal-behavior-of-the-mark-viii-miniature-loop",
+      "end_line": 819,
+      "heading": "Table 2. Calculated Thermal Behavior Of The Mark Viii Miniature Loop",
+      "level": 2,
+      "start_line": 816
+    },
+    {
+      "anchor": "miscellaneous-calculations-for-the-mark-viii-loop",
+      "end_line": 888,
+      "heading": "MISCELLANEOUS CALCULATIONS FOR THE MARK VIII LOOP",
+      "level": 1,
+      "start_line": 820
+    },
+    {
+      "anchor": "table-3-calculated-maximum-air-temperature-in-mark-viii-loop",
+      "end_line": 926,
+      "heading": "Table 3. Calculated Maximum Air Temperature In Mark Viii Loop",
+      "level": 2,
+      "start_line": 889
+    },
+    {
+      "anchor": "importance-of-reynolds-number-in-mass-transfer",
+      "end_line": 942,
+      "heading": "IMPORTANCE OF REYNOLDS NUMBER IN MASS TRANSFER",
+      "level": 1,
+      "start_line": 927
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 944,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 943
+    },
+    {
+      "anchor": "analog-simulation-in-an-in-pile-loop-liquid-salts-fuel-study",
+      "end_line": 1082,
+      "heading": "ANALOG SIMULATION IN AN IN-PILE LOOP-LIQUID.SALTS FUEL STUDY",
+      "level": 1,
+      "start_line": 945
+    },
+    {
+      "anchor": "table-4-numerical-data-used-in-analog-simulation-of-in-pile-loop",
+      "end_line": 1090,
+      "heading": "Table 4. Numerical Data Used In Analog Simulation Of In-Pile Loop",
+      "level": 2,
+      "start_line": 1083
+    },
+    {
+      "anchor": "table-5-results-of-the-analog-calculations",
+      "end_line": 1119,
+      "heading": "Table 5. Results Of The Analog Calculations",
+      "level": 2,
+      "start_line": 1091
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 1121,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 1120
+    },
+    {
+      "anchor": "time-constant-modification-through-positive-feedback",
+      "end_line": 1175,
+      "heading": "TIME-CONSTANT MODIFICATION THROUGH POSITIVE FEEDBACK",
+      "level": 1,
+      "start_line": 1122
+    }
+  ],
+  "source_dir": "pdf/ORNL-1808",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "irradiation-and-damage",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

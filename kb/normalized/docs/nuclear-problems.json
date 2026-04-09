@@ -1,0 +1,1743 @@
+{
+  "authors": [
+    "OF NON-AQUEOUS FLUID-FUEL REACTORS",
+    "Authors",
+    "Clark Goodman",
+    "John L. Greenstadt",
+    "Robert M. Kiehn",
+    "Abraham Klein"
+  ],
+  "claims_path": "kb/normalized/claims/nuclear-problems.jsonl",
+  "date_text": "October 15, 1952",
+  "doc_id": "nuclear-problems",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 6,
+        "line_hits": [
+          136,
+          2486,
+          2490,
+          3018,
+          3020,
+          4231
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          4264,
+          4628
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1313,
+          2744
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          3054
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          3054
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 7,
+        "line_hits": [
+          428,
+          1687,
+          1781,
+          1871,
+          1979,
+          2231,
+          2253
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          404,
+          430,
+          2143,
+          2269,
+          2277,
+          2385,
+          3541
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2267
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          712,
+          2157,
+          5040,
+          5041,
+          5042,
+          5043,
+          5044
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          33,
+          541,
+          5015,
+          5062,
+          5071
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          628,
+          712,
+          5064
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5069
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 193,
+        "line_hits": [
+          346,
+          348,
+          358,
+          367,
+          386,
+          390,
+          408,
+          426,
+          430,
+          434,
+          436,
+          451,
+          453,
+          455,
+          457,
+          467,
+          483,
+          485,
+          487,
+          495,
+          497,
+          527,
+          535,
+          539,
+          541,
+          567,
+          571,
+          580,
+          596,
+          614,
+          628,
+          630,
+          659,
+          670,
+          686,
+          690,
+          694,
+          716,
+          718,
+          720,
+          724,
+          728,
+          736,
+          742,
+          752,
+          760,
+          762,
+          766,
+          768,
+          770
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5071
+        ],
+        "name": "AHR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 7,
+        "line_hits": [
+          3,
+          350,
+          351,
+          358,
+          436,
+          457,
+          2143
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          2143
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "4cabbc404934a6ce7ea52f4ccf8891b6c952dc05f37586a4759b5dac002c9d87",
+  "markdown_path": "pdf/MIT-5000/MIT-5000/hybrid_ocr/MIT-5000.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 213,
+  "sections": [
+    {
+      "anchor": "nuclear-problems",
+      "end_line": 2,
+      "heading": "NUCLEAR PROBLEMS",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "of-non-aqueous-fluid-fuel-reactors",
+      "end_line": 6,
+      "heading": "OF NON-AQUEOUS FLUID-FUEL REACTORS",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "authors",
+      "end_line": 26,
+      "heading": "Authors",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-engineering-project",
+      "end_line": 28,
+      "heading": "NUCLEAR ENGINEERING PROJECT",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "massachusetts-institute-of-technology",
+      "end_line": 32,
+      "heading": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 34,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "new-york-operations-office",
+      "end_line": 36,
+      "heading": "New York Operations Office",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "classification-canceled",
+      "end_line": 38,
+      "heading": "Classification Canceled",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "date-feb-28-1957",
+      "end_line": 46,
+      "heading": "Date Feb 28 1957",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 57,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 61,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "chapter-i-general-considerations-11",
+      "end_line": 69,
+      "heading": "Chapter I General Considerations 11",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "chapter-ii-fast-reactors-25",
+      "end_line": 177,
+      "heading": "Chapter II Fast Reactors 25",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 265,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "b-2-232",
+      "end_line": 266,
+      "heading": "B-2 232",
+      "level": 2,
+      "start_line": 266
+    },
+    {
+      "anchor": "b-3-233",
+      "end_line": 267,
+      "heading": "B-3 233",
+      "level": 2,
+      "start_line": 267
+    },
+    {
+      "anchor": "b-4-233",
+      "end_line": 268,
+      "heading": "B-4 233",
+      "level": 2,
+      "start_line": 268
+    },
+    {
+      "anchor": "b-5-234",
+      "end_line": 269,
+      "heading": "B-5 234",
+      "level": 2,
+      "start_line": 269
+    },
+    {
+      "anchor": "b-6-234",
+      "end_line": 270,
+      "heading": "B-6 234",
+      "level": 2,
+      "start_line": 270
+    },
+    {
+      "anchor": "b-7-235",
+      "end_line": 271,
+      "heading": "B-7 235",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "b-8-235",
+      "end_line": 272,
+      "heading": "B-8 235",
+      "level": 2,
+      "start_line": 272
+    },
+    {
+      "anchor": "b-9-236",
+      "end_line": 273,
+      "heading": "B-9 236",
+      "level": 2,
+      "start_line": 273
+    },
+    {
+      "anchor": "b-10-236",
+      "end_line": 274,
+      "heading": "B-10 236",
+      "level": 2,
+      "start_line": 274
+    },
+    {
+      "anchor": "b-11-237",
+      "end_line": 283,
+      "heading": "B-11 237",
+      "level": 2,
+      "start_line": 275
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 287,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "figure-ii-2-4-1-three-media-one-velocity-systems-63",
+      "end_line": 341,
+      "heading": "FIGURE II-2.4-1 Three Media-One Velocity Systems 63",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "i-general-considerations",
+      "end_line": 343,
+      "heading": "I. GENERAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "1-1-introduction",
+      "end_line": 368,
+      "heading": "1.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "1-2-fast-reactors",
+      "end_line": 460,
+      "heading": "1.2 FAST REACTORS",
+      "level": 1,
+      "start_line": 369
+    },
+    {
+      "anchor": "1-3-thermal-converters",
+      "end_line": 506,
+      "heading": "1.3 THERMAL CONVERTERS",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "glossary-chapter-i",
+      "end_line": 530,
+      "heading": "GLOSSARY - CHAPTER I",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "ii-fast-reactors",
+      "end_line": 532,
+      "heading": "II. FAST REACTORS",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "1-nuclear-constants",
+      "end_line": 536,
+      "heading": "1. NUCLEAR CONSTANTS",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "1-1-total-cross-sections",
+      "end_line": 542,
+      "heading": "1.1 TOTAL CROSS-SECTIONS",
+      "level": 1,
+      "start_line": 537
+    },
+    {
+      "anchor": "1-2-transport-cross-sections",
+      "end_line": 554,
+      "heading": "1.2 TRANSPORT CROSS-SECTIONS",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "table-ii-1-2-1-transport-cross-sections",
+      "end_line": 568,
+      "heading": "TABLE II-1.2-1. Transport Cross-Sections",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "1-3-inelastic-cross-sections",
+      "end_line": 581,
+      "heading": "1.3 INELASTIC CROSS-SECTIONS",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "29",
+      "end_line": 593,
+      "heading": "29",
+      "level": 1,
+      "start_line": 582
+    },
+    {
+      "anchor": "1-4-fission-cross-sections",
+      "end_line": 609,
+      "heading": "1.4 FISSION CROSS-SECTIONS",
+      "level": 1,
+      "start_line": 594
+    },
+    {
+      "anchor": "1-5-capture-cross-sections",
+      "end_line": 652,
+      "heading": "1.5 CAPTURE CROSS-SECTIONS",
+      "level": 1,
+      "start_line": 610
+    },
+    {
+      "anchor": "table-ii-1-5-2",
+      "end_line": 656,
+      "heading": "Table Ii-1.5-2",
+      "level": 2,
+      "start_line": 653
+    },
+    {
+      "anchor": "1-6-scattering-cross-sections",
+      "end_line": 660,
+      "heading": "1.6 SCATTERING CROSS-SECTIONS",
+      "level": 1,
+      "start_line": 657
+    },
+    {
+      "anchor": "37",
+      "end_line": 671,
+      "heading": "37",
+      "level": 1,
+      "start_line": 661
+    },
+    {
+      "anchor": "1-7-neutron-yields",
+      "end_line": 687,
+      "heading": "1.7 NEUTRON YIELDS",
+      "level": 1,
+      "start_line": 672
+    },
+    {
+      "anchor": "1-8-neutron-spectra",
+      "end_line": 705,
+      "heading": "1.8 NEUTRON SPECTRA",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "1-9-recommendations",
+      "end_line": 777,
+      "heading": "1.9 RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 706
+    },
+    {
+      "anchor": "resume-of-nuclear-data-needed",
+      "end_line": 814,
+      "heading": "RESUME OF NUCLEAR DATA NEEDED:",
+      "level": 1,
+      "start_line": 778
+    },
+    {
+      "anchor": "2-calculation-methods",
+      "end_line": 816,
+      "heading": "2. CALCULATION METHODS",
+      "level": 1,
+      "start_line": 815
+    },
+    {
+      "anchor": "2-1-bare-reactor-multigroup-method",
+      "end_line": 865,
+      "heading": "2.1 BARE REACTOR MULTIGROUP METHOD",
+      "level": 1,
+      "start_line": 817
+    },
+    {
+      "anchor": "2-2-multigroup-estimates-for-blanket",
+      "end_line": 948,
+      "heading": "2.2 MULTIGROUP ESTIMATES FOR BLANKET",
+      "level": 1,
+      "start_line": 866
+    },
+    {
+      "anchor": "2-3-two-group-two-region-method",
+      "end_line": 1050,
+      "heading": "2.3 TWO-GROUP TWO-REGION METHOD",
+      "level": 1,
+      "start_line": 949
+    },
+    {
+      "anchor": "2-4-one-group-calculations",
+      "end_line": 1134,
+      "heading": "2.4 ONE-GROUP CALCULATIONS",
+      "level": 1,
+      "start_line": 1051
+    },
+    {
+      "anchor": "table-ii-2-4-1",
+      "end_line": 1159,
+      "heading": "Table Ii-2.4-1",
+      "level": 2,
+      "start_line": 1135
+    },
+    {
+      "anchor": "figure-ii-2-4-1",
+      "end_line": 1160,
+      "heading": "Figure Ii-2.4-1",
+      "level": 2,
+      "start_line": 1160
+    },
+    {
+      "anchor": "three-media-one-velocity-systems",
+      "end_line": 1179,
+      "heading": "Three Media - One Velocity Systems",
+      "level": 2,
+      "start_line": 1161
+    },
+    {
+      "anchor": "detailed-neutron-balance",
+      "end_line": 1209,
+      "heading": "DETAILED NEUTRON BALANCE",
+      "level": 1,
+      "start_line": 1180
+    },
+    {
+      "anchor": "3-results-of-fast-reactor-calculations",
+      "end_line": 1211,
+      "heading": "3. RESULTS OF FAST REACTOR CALCULATIONS",
+      "level": 1,
+      "start_line": 1210
+    },
+    {
+      "anchor": "3-1-introduction",
+      "end_line": 1226,
+      "heading": "3.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 1212
+    },
+    {
+      "anchor": "3-2-bare-reactor",
+      "end_line": 1260,
+      "heading": "3.2 BARE REACTOR",
+      "level": 1,
+      "start_line": 1227
+    },
+    {
+      "anchor": "tables-and-graphs",
+      "end_line": 1306,
+      "heading": "TABLES AND GRAPHS",
+      "level": 1,
+      "start_line": 1261
+    },
+    {
+      "anchor": "table-ii-3-2-2-breeders",
+      "end_line": 1308,
+      "heading": "TABLE II-3.2-2. Breeders",
+      "level": 1,
+      "start_line": 1307
+    },
+    {
+      "anchor": "results-of-multigroup-bare-reactor-calculations",
+      "end_line": 1314,
+      "heading": "Results of Multigroup Bare Reactor Calculations",
+      "level": 1,
+      "start_line": 1309
+    },
+    {
+      "anchor": "table-ii-3-2-3-converters",
+      "end_line": 1335,
+      "heading": "TABLE II-3.2-3. Converters",
+      "level": 1,
+      "start_line": 1315
+    },
+    {
+      "anchor": "systems-1-to-4",
+      "end_line": 1347,
+      "heading": "Systems 1 To 4",
+      "level": 2,
+      "start_line": 1336
+    },
+    {
+      "anchor": "systems-14-to-17",
+      "end_line": 1367,
+      "heading": "Systems 14 To 17",
+      "level": 2,
+      "start_line": 1348
+    },
+    {
+      "anchor": "3-3-two-group-two-region-calculations",
+      "end_line": 1406,
+      "heading": "3.3 TWO-GROUP TWO-REGION CALCULATIONS",
+      "level": 1,
+      "start_line": 1368
+    },
+    {
+      "anchor": "segred",
+      "end_line": 1408,
+      "heading": "Segred",
+      "level": 2,
+      "start_line": 1407
+    },
+    {
+      "anchor": "3-4-one-group-three-region",
+      "end_line": 1423,
+      "heading": "3.4 ONE GROUP - THREE REGION",
+      "level": 1,
+      "start_line": 1409
+    },
+    {
+      "anchor": "3-5-special-multigroup-calculations",
+      "end_line": 1435,
+      "heading": "3.5 SPECIAL MULTIGROUP CALCULATIONS",
+      "level": 1,
+      "start_line": 1424
+    },
+    {
+      "anchor": "tables-and-graphs",
+      "end_line": 1445,
+      "heading": "TABLES AND GRAPHS",
+      "level": 1,
+      "start_line": 1436
+    },
+    {
+      "anchor": "figures-3-5-1-2-comparison-of-neutron-spectrums-by-strong-coupling-theory",
+      "end_line": 1449,
+      "heading": "Figures 3.5-1,2: Comparison of neutron spectrums by strong-coupling theory.",
+      "level": 1,
+      "start_line": 1446
+    },
+    {
+      "anchor": "99",
+      "end_line": 1469,
+      "heading": "99",
+      "level": 1,
+      "start_line": 1450
+    },
+    {
+      "anchor": "3-6-general-trends",
+      "end_line": 1563,
+      "heading": "3.6 GENERAL TRENDS",
+      "level": 1,
+      "start_line": 1470
+    },
+    {
+      "anchor": "c-total-breeding-ratio-t-b-r",
+      "end_line": 1567,
+      "heading": "c). Total breeding ratio (T.B.R.)",
+      "level": 1,
+      "start_line": 1564
+    },
+    {
+      "anchor": "trends-of-size-and-critical-mass",
+      "end_line": 1569,
+      "heading": "TRENDS OF SIZE AND CRITICAL MASS.",
+      "level": 1,
+      "start_line": 1568
+    },
+    {
+      "anchor": "a-trends-of-size",
+      "end_line": 1678,
+      "heading": "a). Trends of size",
+      "level": 1,
+      "start_line": 1570
+    },
+    {
+      "anchor": "3-7-final-design-of-fused-salt-reactor",
+      "end_line": 1690,
+      "heading": "3.7 FINAL DESIGN OF FUSED SALT REACTOR",
+      "level": 1,
+      "start_line": 1679
+    },
+    {
+      "anchor": "table-ii-3-7-1",
+      "end_line": 1703,
+      "heading": "Table Ii-3.7-1",
+      "level": 2,
+      "start_line": 1691
+    },
+    {
+      "anchor": "x-c-r-0-7-4-4",
+      "end_line": 1707,
+      "heading": "X. C. R. = 0. 7 4 4",
+      "level": 2,
+      "start_line": 1704
+    },
+    {
+      "anchor": "i-c-r-0-3-8-2",
+      "end_line": 1730,
+      "heading": "I. C. R. = 0. 3 8 2",
+      "level": 2,
+      "start_line": 1708
+    },
+    {
+      "anchor": "neutron-production",
+      "end_line": 1742,
+      "heading": "Neutron Production",
+      "level": 1,
+      "start_line": 1731
+    },
+    {
+      "anchor": "neutron-consumption",
+      "end_line": 1884,
+      "heading": "Neutron Consumption",
+      "level": 1,
+      "start_line": 1743
+    },
+    {
+      "anchor": "4-fast-reactor-poisoning",
+      "end_line": 1886,
+      "heading": "4. FAST REACTOR POISONING",
+      "level": 1,
+      "start_line": 1885
+    },
+    {
+      "anchor": "4-1-introduction",
+      "end_line": 1898,
+      "heading": "4.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 1887
+    },
+    {
+      "anchor": "4-2-fission-products",
+      "end_line": 1926,
+      "heading": "4.2 FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 1899
+    },
+    {
+      "anchor": "4-3-higher-isotopes",
+      "end_line": 1962,
+      "heading": "4.3 HIGHER ISOTOPES",
+      "level": 1,
+      "start_line": 1927
+    },
+    {
+      "anchor": "4-4-engineering-considerations",
+      "end_line": 1968,
+      "heading": "4.4 ENGINEERING CONSIDERATIONS",
+      "level": 1,
+      "start_line": 1963
+    },
+    {
+      "anchor": "5-control-methods",
+      "end_line": 1970,
+      "heading": "5. CONTROL METHODS",
+      "level": 1,
+      "start_line": 1969
+    },
+    {
+      "anchor": "5-1-general-considerations",
+      "end_line": 1988,
+      "heading": "5.1 GENERAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 1971
+    },
+    {
+      "anchor": "5-2-control-calculations",
+      "end_line": 2248,
+      "heading": "5.2 CONTROL CALCULATIONS",
+      "level": 1,
+      "start_line": 1989
+    },
+    {
+      "anchor": "5-3-control-of-the-fused-salt-reactor",
+      "end_line": 2284,
+      "heading": "5.3 CONTROL OF THE FUSED-SALT REACTOR",
+      "level": 1,
+      "start_line": 2249
+    },
+    {
+      "anchor": "glossary-chapter-ii",
+      "end_line": 2424,
+      "heading": "GLOSSARY - CHAPTER II",
+      "level": 1,
+      "start_line": 2285
+    },
+    {
+      "anchor": "e-4-87-2-51-924-367-173-076-025-0048",
+      "end_line": 2431,
+      "heading": "E: 4.87,2.51,.924,.367, .173, .076, .025,.0048",
+      "level": 2,
+      "start_line": 2425
+    },
+    {
+      "anchor": "y-n-28-n-49",
+      "end_line": 2471,
+      "heading": "Y = N(28)/N(49)",
+      "level": 2,
+      "start_line": 2432
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 2479,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 2472
+    },
+    {
+      "anchor": "iii-thermal-reactors",
+      "end_line": 2481,
+      "heading": "III. THERMAL REACTORS",
+      "level": 1,
+      "start_line": 2480
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 2499,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 2482
+    },
+    {
+      "anchor": "2-bare-homogeneous-reactor",
+      "end_line": 2503,
+      "heading": "2. BARE HOMOGENEOUS REACTOR",
+      "level": 1,
+      "start_line": 2500
+    },
+    {
+      "anchor": "2-1-definitions-and-basic-constants",
+      "end_line": 2535,
+      "heading": "2.1 DEFINITIONS AND BASIC CONSTANTS",
+      "level": 1,
+      "start_line": 2504
+    },
+    {
+      "anchor": "table-iii-2-1-1-temperature-corrections-for-nuclear-data",
+      "end_line": 2603,
+      "heading": "TABLE III-2.1-1 Temperature Corrections for Nuclear Data",
+      "level": 1,
+      "start_line": 2536
+    },
+    {
+      "anchor": "segre",
+      "end_line": 2607,
+      "heading": "Segre",
+      "level": 2,
+      "start_line": 2604
+    },
+    {
+      "anchor": "table-iii-2-1-4",
+      "end_line": 2615,
+      "heading": "Table Iii-2.1-4",
+      "level": 2,
+      "start_line": 2608
+    },
+    {
+      "anchor": "2-2-analytical-expressions",
+      "end_line": 2679,
+      "heading": "2.2 ANALYTICAL EXPRESSIONS",
+      "level": 1,
+      "start_line": 2616
+    },
+    {
+      "anchor": "table-iii-2-2-1",
+      "end_line": 2749,
+      "heading": "Table Iii-2.2-1",
+      "level": 2,
+      "start_line": 2680
+    },
+    {
+      "anchor": "2-3-the-conversion-ratio-c-r",
+      "end_line": 2803,
+      "heading": "2.3 THE CONVERSION RATIO, C.R.",
+      "level": 1,
+      "start_line": 2750
+    },
+    {
+      "anchor": "2-4-results-of-calculations",
+      "end_line": 2811,
+      "heading": "2.4 RESULTS OF CALCULATIONS",
+      "level": 1,
+      "start_line": 2804
+    },
+    {
+      "anchor": "3-poisoning-effects",
+      "end_line": 2813,
+      "heading": "3. POISONING EFFECTS",
+      "level": 1,
+      "start_line": 2812
+    },
+    {
+      "anchor": "3-1-uranium-236",
+      "end_line": 2833,
+      "heading": "3.1 URANIUM-236",
+      "level": 1,
+      "start_line": 2814
+    },
+    {
+      "anchor": "figure-iii-3-1-1",
+      "end_line": 2835,
+      "heading": "FIGURE III-3.1-1",
+      "level": 1,
+      "start_line": 2834
+    },
+    {
+      "anchor": "reaction-equations",
+      "end_line": 2989,
+      "heading": "Reaction Equations",
+      "level": 1,
+      "start_line": 2836
+    },
+    {
+      "anchor": "table-iii-3-1-1",
+      "end_line": 3017,
+      "heading": "Table Iii-3.1-1",
+      "level": 2,
+      "start_line": 2990
+    },
+    {
+      "anchor": "3-2-fast-neutron-reactions-of-beryllium",
+      "end_line": 3045,
+      "heading": "3.2 FAST NEUTRON REACTIONS OF BERYLLIUM",
+      "level": 1,
+      "start_line": 3018
+    },
+    {
+      "anchor": "3-3-fission-products",
+      "end_line": 3105,
+      "heading": "3.3 FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 3046
+    },
+    {
+      "anchor": "4-heterogenous-reactors",
+      "end_line": 3107,
+      "heading": "4. HETEROGENOUS REACTORS",
+      "level": 1,
+      "start_line": 3106
+    },
+    {
+      "anchor": "4-1-the-immoderate-blanket",
+      "end_line": 3176,
+      "heading": "4.1 THE \"IMMODERATE\" BLANKET",
+      "level": 1,
+      "start_line": 3108
+    },
+    {
+      "anchor": "4-2-the-effect-of-be-lumping",
+      "end_line": 3214,
+      "heading": "4.2 THE EFFECT OF BE LUMPING",
+      "level": 1,
+      "start_line": 3177
+    },
+    {
+      "anchor": "e-o-r-e-t",
+      "end_line": 3237,
+      "heading": "E O R E T",
+      "level": 2,
+      "start_line": 3215
+    },
+    {
+      "anchor": "r-0-0-3",
+      "end_line": 3241,
+      "heading": "R = 0. 0 3",
+      "level": 2,
+      "start_line": 3238
+    },
+    {
+      "anchor": "figure-iii-4-2-2",
+      "end_line": 3243,
+      "heading": "Figure Iii-4.2-2",
+      "level": 2,
+      "start_line": 3242
+    },
+    {
+      "anchor": "5-final-design-calculations",
+      "end_line": 3245,
+      "heading": "5. FINAL DESIGN CALCULATIONS",
+      "level": 1,
+      "start_line": 3244
+    },
+    {
+      "anchor": "5-1-reactor-constituents-and-properties",
+      "end_line": 3249,
+      "heading": "5.1 REACTOR CONSTITUENTS AND PROPERTIES",
+      "level": 1,
+      "start_line": 3246
+    },
+    {
+      "anchor": "5-2-calculation-procedure",
+      "end_line": 3272,
+      "heading": "5.2 CALCULATION PROCEDURE",
+      "level": 1,
+      "start_line": 3250
+    },
+    {
+      "anchor": "table-iii-5-1-1b",
+      "end_line": 3312,
+      "heading": "Table Iii-5.1-1B",
+      "level": 2,
+      "start_line": 3273
+    },
+    {
+      "anchor": "5-3-results",
+      "end_line": 3386,
+      "heading": "5.3 RESULTS",
+      "level": 1,
+      "start_line": 3313
+    },
+    {
+      "anchor": "5-4-critique-of-results",
+      "end_line": 3448,
+      "heading": "5.4 CRITIQUE OF RESULTS",
+      "level": 1,
+      "start_line": 3387
+    },
+    {
+      "anchor": "6-recommendations",
+      "end_line": 3452,
+      "heading": "6. RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 3449
+    },
+    {
+      "anchor": "6-1-design-studies",
+      "end_line": 3460,
+      "heading": "6.1 DESIGN STUDIES",
+      "level": 1,
+      "start_line": 3453
+    },
+    {
+      "anchor": "6-2-nuclear-data-studies",
+      "end_line": 3486,
+      "heading": "6.2 NUCLEAR DATA STUDIES",
+      "level": 1,
+      "start_line": 3461
+    },
+    {
+      "anchor": "glossary-chapter-iii",
+      "end_line": 3580,
+      "heading": "GLOSSARY - CHAPTER III",
+      "level": 1,
+      "start_line": 3487
+    },
+    {
+      "anchor": "iv-comparison-of-fast-and-thermal-converters",
+      "end_line": 3588,
+      "heading": "IV. COMPARISON OF FAST AND THERMAL CONVERTERS",
+      "level": 1,
+      "start_line": 3581
+    },
+    {
+      "anchor": "1-core-structure",
+      "end_line": 3590,
+      "heading": "1. Core Structure",
+      "level": 1,
+      "start_line": 3589
+    },
+    {
+      "anchor": "dimensions",
+      "end_line": 3596,
+      "heading": "Dimensions:",
+      "level": 1,
+      "start_line": 3591
+    },
+    {
+      "anchor": "fuel",
+      "end_line": 3618,
+      "heading": "Fuel:",
+      "level": 1,
+      "start_line": 3597
+    },
+    {
+      "anchor": "mean-operating-temperature",
+      "end_line": 3624,
+      "heading": "Mean Operating Temperature:",
+      "level": 1,
+      "start_line": 3619
+    },
+    {
+      "anchor": "container",
+      "end_line": 3632,
+      "heading": "Container:",
+      "level": 1,
+      "start_line": 3625
+    },
+    {
+      "anchor": "fast-converter",
+      "end_line": 3634,
+      "heading": "Fast Converter",
+      "level": 1,
+      "start_line": 3633
+    },
+    {
+      "anchor": "thermal-converter",
+      "end_line": 3636,
+      "heading": "Thermal Converter",
+      "level": 1,
+      "start_line": 3635
+    },
+    {
+      "anchor": "2-reflector-structure",
+      "end_line": 3638,
+      "heading": "2. Reflector Structure",
+      "level": 1,
+      "start_line": 3637
+    },
+    {
+      "anchor": "dimensions-and-materials",
+      "end_line": 3644,
+      "heading": "Dimensions and Materials:",
+      "level": 1,
+      "start_line": 3639
+    },
+    {
+      "anchor": "operation",
+      "end_line": 3648,
+      "heading": "Operation:",
+      "level": 1,
+      "start_line": 3645
+    },
+    {
+      "anchor": "3-blanket-structure",
+      "end_line": 3650,
+      "heading": "3. Blanket Structure",
+      "level": 1,
+      "start_line": 3649
+    },
+    {
+      "anchor": "dimensions",
+      "end_line": 3656,
+      "heading": "Dimensions:",
+      "level": 1,
+      "start_line": 3651
+    },
+    {
+      "anchor": "composition",
+      "end_line": 3666,
+      "heading": "Composition:",
+      "level": 1,
+      "start_line": 3657
+    },
+    {
+      "anchor": "4-critical-mass-and-inventory",
+      "end_line": 3668,
+      "heading": "4. Critical Mass and Inventory",
+      "level": 1,
+      "start_line": 3667
+    },
+    {
+      "anchor": "critical-mass-25",
+      "end_line": 3674,
+      "heading": "Critical Mass: (25)",
+      "level": 1,
+      "start_line": 3669
+    },
+    {
+      "anchor": "total-inventory",
+      "end_line": 3680,
+      "heading": "Total Inventory:",
+      "level": 1,
+      "start_line": 3675
+    },
+    {
+      "anchor": "fast-converter",
+      "end_line": 3690,
+      "heading": "Fast Converter",
+      "level": 1,
+      "start_line": 3681
+    },
+    {
+      "anchor": "thermal-converter",
+      "end_line": 3712,
+      "heading": "Thermal Converter",
+      "level": 1,
+      "start_line": 3691
+    },
+    {
+      "anchor": "5-conversion-ratio",
+      "end_line": 3717,
+      "heading": "5. Conversion Ratio",
+      "level": 1,
+      "start_line": 3713
+    },
+    {
+      "anchor": "i-c-r-3-8-2",
+      "end_line": 3721,
+      "heading": "I. C. R. = . 3 8 2",
+      "level": 2,
+      "start_line": 3718
+    },
+    {
+      "anchor": "c-r-8-7-6",
+      "end_line": 3731,
+      "heading": "C. R. = . 8 7 6",
+      "level": 2,
+      "start_line": 3722
+    },
+    {
+      "anchor": "p-r-1-1-2-6",
+      "end_line": 3738,
+      "heading": "P. R. = 1. 1 2 6",
+      "level": 2,
+      "start_line": 3732
+    },
+    {
+      "anchor": "fast-converter",
+      "end_line": 3740,
+      "heading": "Fast Converter",
+      "level": 1,
+      "start_line": 3739
+    },
+    {
+      "anchor": "thermal-converter",
+      "end_line": 3744,
+      "heading": "Thermal Converter",
+      "level": 1,
+      "start_line": 3741
+    },
+    {
+      "anchor": "parasitic-capture-loss",
+      "end_line": 3776,
+      "heading": "Parasitic Capture Loss:",
+      "level": 1,
+      "start_line": 3745
+    },
+    {
+      "anchor": "pu-captures",
+      "end_line": 3788,
+      "heading": "Pu Captures:",
+      "level": 1,
+      "start_line": 3777
+    },
+    {
+      "anchor": "leakage-loss",
+      "end_line": 3796,
+      "heading": "Leakage Loss:",
+      "level": 1,
+      "start_line": 3789
+    },
+    {
+      "anchor": "fast-converter",
+      "end_line": 3802,
+      "heading": "Fast Converter",
+      "level": 1,
+      "start_line": 3797
+    },
+    {
+      "anchor": "thermal-converter",
+      "end_line": 3806,
+      "heading": "Thermal Converter",
+      "level": 1,
+      "start_line": 3803
+    },
+    {
+      "anchor": "6-parameters-and-processing-of-poisons",
+      "end_line": 3824,
+      "heading": "6. Parameters and Processing of Poisons",
+      "level": 1,
+      "start_line": 3807
+    },
+    {
+      "anchor": "u-236",
+      "end_line": 3858,
+      "heading": "U-236:",
+      "level": 2,
+      "start_line": 3825
+    },
+    {
+      "anchor": "fast-converters",
+      "end_line": 3860,
+      "heading": "Fast Converters",
+      "level": 1,
+      "start_line": 3859
+    },
+    {
+      "anchor": "thermal-converters",
+      "end_line": 3878,
+      "heading": "Thermal Converters",
+      "level": 1,
+      "start_line": 3861
+    },
+    {
+      "anchor": "cooling-times",
+      "end_line": 3896,
+      "heading": "Cooling Times:",
+      "level": 1,
+      "start_line": 3879
+    },
+    {
+      "anchor": "7-control",
+      "end_line": 3898,
+      "heading": "7. Control",
+      "level": 1,
+      "start_line": 3897
+    },
+    {
+      "anchor": "fast-converters",
+      "end_line": 3900,
+      "heading": "Fast Converters",
+      "level": 1,
+      "start_line": 3899
+    },
+    {
+      "anchor": "thermal-converters",
+      "end_line": 3902,
+      "heading": "Thermal Converters",
+      "level": 1,
+      "start_line": 3901
+    },
+    {
+      "anchor": "natural-stability",
+      "end_line": 3908,
+      "heading": "Natural Stability:",
+      "level": 1,
+      "start_line": 3903
+    },
+    {
+      "anchor": "power-level-control",
+      "end_line": 3914,
+      "heading": "Power Level Control:",
+      "level": 1,
+      "start_line": 3909
+    },
+    {
+      "anchor": "glossary-chapter-iv",
+      "end_line": 3942,
+      "heading": "GLOSSARY - CHAPTER IV",
+      "level": 1,
+      "start_line": 3915
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 3944,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 3943
+    },
+    {
+      "anchor": "procedure-for-homogeneous-fast-bare-reactor",
+      "end_line": 4216,
+      "heading": "Procedure for Homogeneous, Fast, Bare Reactor",
+      "level": 1,
+      "start_line": 3945
+    },
+    {
+      "anchor": "u235-u238",
+      "end_line": 4226,
+      "heading": "U235 U238",
+      "level": 2,
+      "start_line": 4217
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 4228,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 4227
+    },
+    {
+      "anchor": "summary-of-calculations-on-bare-homogeneous-thermal-reactors",
+      "end_line": 4238,
+      "heading": "SUMMARY OF CALCULATIONS ON BARE HOMOGENEOUS THERMAL REACTORS",
+      "level": 1,
+      "start_line": 4229
+    },
+    {
+      "anchor": "table-b-2",
+      "end_line": 4247,
+      "heading": "Table B-2",
+      "level": 2,
+      "start_line": 4239
+    },
+    {
+      "anchor": "table-b-3",
+      "end_line": 4254,
+      "heading": "Table B-3",
+      "level": 2,
+      "start_line": 4248
+    },
+    {
+      "anchor": "r-0-0-7",
+      "end_line": 4261,
+      "heading": "R = 0. 0 7",
+      "level": 2,
+      "start_line": 4255
+    },
+    {
+      "anchor": "table-b-4",
+      "end_line": 4270,
+      "heading": "Table B-4",
+      "level": 2,
+      "start_line": 4262
+    },
+    {
+      "anchor": "r-0-0-3",
+      "end_line": 4281,
+      "heading": "R = 0. 0 3",
+      "level": 2,
+      "start_line": 4271
+    },
+    {
+      "anchor": "table-b-5",
+      "end_line": 4284,
+      "heading": "Table B-5",
+      "level": 2,
+      "start_line": 4282
+    },
+    {
+      "anchor": "n-u-n-b-1-0-0-3",
+      "end_line": 4288,
+      "heading": "N _ {U} / N _ {B 1} = 0. 0 3",
+      "level": 2,
+      "start_line": 4285
+    },
+    {
+      "anchor": "r-0-0-5",
+      "end_line": 4295,
+      "heading": "R = 0. 0 5",
+      "level": 2,
+      "start_line": 4289
+    },
+    {
+      "anchor": "table-b-6",
+      "end_line": 4304,
+      "heading": "Table B-6",
+      "level": 2,
+      "start_line": 4296
+    },
+    {
+      "anchor": "r-0-0-7",
+      "end_line": 4319,
+      "heading": "R = 0. 0 7",
+      "level": 2,
+      "start_line": 4305
+    },
+    {
+      "anchor": "table-b-7",
+      "end_line": 4322,
+      "heading": "TABLE B-7",
+      "level": 1,
+      "start_line": 4320
+    },
+    {
+      "anchor": "n-u-n-b-1-0-0-2",
+      "end_line": 4326,
+      "heading": "N _ {U} / N _ {B 1} = 0. 0 2",
+      "level": 2,
+      "start_line": 4323
+    },
+    {
+      "anchor": "r-0-0-3",
+      "end_line": 4344,
+      "heading": "R = 0. 0 3",
+      "level": 2,
+      "start_line": 4327
+    },
+    {
+      "anchor": "r-0-0-5",
+      "end_line": 4353,
+      "heading": "R = 0. 0 5",
+      "level": 2,
+      "start_line": 4345
+    },
+    {
+      "anchor": "table-b-9",
+      "end_line": 4360,
+      "heading": "Table B-9",
+      "level": 2,
+      "start_line": 4354
+    },
+    {
+      "anchor": "r-0-0-7",
+      "end_line": 4367,
+      "heading": "R = 0. 0 7",
+      "level": 2,
+      "start_line": 4361
+    },
+    {
+      "anchor": "table-b-10",
+      "end_line": 4380,
+      "heading": "Table B-10",
+      "level": 2,
+      "start_line": 4368
+    },
+    {
+      "anchor": "r-0-0-3",
+      "end_line": 4396,
+      "heading": "R = 0. 0 3",
+      "level": 2,
+      "start_line": 4381
+    },
+    {
+      "anchor": "r-0-0-7",
+      "end_line": 4405,
+      "heading": "R = 0. 0 7",
+      "level": 2,
+      "start_line": 4397
+    },
+    {
+      "anchor": "table-b-11",
+      "end_line": 4411,
+      "heading": "Table B-11",
+      "level": 2,
+      "start_line": 4406
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 4413,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 4412
+    },
+    {
+      "anchor": "secular-equations",
+      "end_line": 4509,
+      "heading": "SECULAR EQUATIONS",
+      "level": 1,
+      "start_line": 4414
+    },
+    {
+      "anchor": "se-or",
+      "end_line": 4535,
+      "heading": "Se-Or",
+      "level": 2,
+      "start_line": 4510
+    },
+    {
+      "anchor": "c-equilibrium-values-time-scale",
+      "end_line": 4539,
+      "heading": "C. Equilibrium Values, Time Scale",
+      "level": 1,
+      "start_line": 4536
+    },
+    {
+      "anchor": "lower-chain",
+      "end_line": 4547,
+      "heading": "Lower chain",
+      "level": 1,
+      "start_line": 4540
+    },
+    {
+      "anchor": "upper-chain",
+      "end_line": 4623,
+      "heading": "Upper chain",
+      "level": 1,
+      "start_line": 4548
+    },
+    {
+      "anchor": "246",
+      "end_line": 4646,
+      "heading": "246",
+      "level": 1,
+      "start_line": 4624
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 4648,
+      "heading": "APPENDIX D",
+      "level": 1,
+      "start_line": 4647
+    },
+    {
+      "anchor": "effect-of-fast-neutron-reactions-of-re-on-the-conversion-ratio",
+      "end_line": 4853,
+      "heading": "EFFECT OF FAST NEUTRON REACTIONS OF RE ON THE CONVERSION RATIO",
+      "level": 1,
+      "start_line": 4649
+    },
+    {
+      "anchor": "figure-d-2",
+      "end_line": 4859,
+      "heading": "Figure D-2",
+      "level": 2,
+      "start_line": 4854
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 4861,
+      "heading": "APPENDIX E",
+      "level": 1,
+      "start_line": 4860
+    },
+    {
+      "anchor": "two-group-two-region-reactor-equations",
+      "end_line": 4863,
+      "heading": "TWO-GROUP, TWO-REGION REACTOR EQUATIONS",
+      "level": 1,
+      "start_line": 4862
+    },
+    {
+      "anchor": "e-1-equations-for-the-fluxes",
+      "end_line": 4955,
+      "heading": "E.1 EQUATIONS FOR THE FLUXES",
+      "level": 1,
+      "start_line": 4864
+    },
+    {
+      "anchor": "e-2-the-conversion-ratio",
+      "end_line": 5011,
+      "heading": "E.2 THE CONVERSION RATIO",
+      "level": 1,
+      "start_line": 4956
+    },
+    {
+      "anchor": "references",
+      "end_line": 5055,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 5012
+    },
+    {
+      "anchor": "s-e-c-r-e-t",
+      "end_line": 5057,
+      "heading": "S E C R E T",
+      "level": 2,
+      "start_line": 5056
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 5086,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 5058
+    },
+    {
+      "anchor": "seor",
+      "end_line": 5089,
+      "heading": "Seor",
+      "level": 2,
+      "start_line": 5087
+    }
+  ],
+  "source_dir": "pdf/MIT-5000",
+  "tables": [],
+  "title": "NUCLEAR PROBLEMS",
+  "topics": [
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

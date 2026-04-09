@@ -1,0 +1,442 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "COPY NO.",
+    "S.J. Ball",
+    "RELEASED FOR ANNUNCEMENT",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1445.jsonl",
+  "date_text": "April 5, 1966",
+  "doc_id": "ornl-tm-1445",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 8,
+        "line_hits": [
+          144,
+          155,
+          161,
+          168,
+          437,
+          451,
+          507,
+          510
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 5,
+        "line_hits": [
+          163,
+          168,
+          169,
+          171,
+          181
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          95
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          459
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          3,
+          12,
+          82,
+          103,
+          132,
+          146,
+          196,
+          355,
+          605,
+          606
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          8,
+          610,
+          613
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          6
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 13,
+        "line_hits": [
+          99,
+          126,
+          161,
+          194,
+          223,
+          243,
+          389,
+          403,
+          433,
+          437,
+          457,
+          505,
+          536
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          18,
+          24,
+          72,
+          101,
+          103,
+          130,
+          159,
+          165,
+          199,
+          233
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d823791cf1fdd239bb66eed96c4505e3a4336cb4f27ce3b6ab763f4c07c769ba",
+  "markdown_path": "pdf/ORNL-TM-1445/ORNL-TM-1445/hybrid_ocr/ORNL-TM-1445.md",
+  "report_number": "ORNL-TM-1445",
+  "report_numbers": [
+    "ORNL-TM-1445",
+    "ORNL-TM-732"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 41,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 5,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 7,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 6
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 11,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 8
+    },
+    {
+      "anchor": "ornl-tm-1445",
+      "end_line": 13,
+      "heading": "Ornl-Tm-1445",
+      "level": 2,
+      "start_line": 12
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 17,
+      "heading": "Copy No.",
+      "level": 2,
+      "start_line": 14
+    },
+    {
+      "anchor": "simulators-for-training-molten-salt-reactor-experiment-operators",
+      "end_line": 21,
+      "heading": "Simulators For Training Molten-Salt Reactor Experiment Operators",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 27,
+      "heading": "Abstract",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "released-for-annuncement",
+      "end_line": 29,
+      "heading": "Released For Annuncement",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "in-nuclear-science-abstracts",
+      "end_line": 31,
+      "heading": "In Nuclear Science Abstracts",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 40,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "contents",
+      "end_line": 42,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 59,
+      "heading": "Abstract 1",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "released-for-announcement-in-nuclear-science-abstracts",
+      "end_line": 61,
+      "heading": "Released For Announcement In Nuclear Science Abstracts",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 69,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 77,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "2-startup-zero-power-simulator",
+      "end_line": 81,
+      "heading": "2. STARTUP (ZERO POWER) SIMULATOR",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "ornl-dwg-66-4834",
+      "end_line": 86,
+      "heading": "Ornl Dwg. 66-4834",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "reactor-instrumentation",
+      "end_line": 88,
+      "heading": "REACTOR INSTRUMENTATION",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "rr-8100",
+      "end_line": 89,
+      "heading": "Rr-8100",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "rr-8200",
+      "end_line": 90,
+      "heading": "Rr-8200",
+      "level": 2,
+      "start_line": 90
+    },
+    {
+      "anchor": "console-meter-channel-1",
+      "end_line": 91,
+      "heading": "Console Meter: Channel 1",
+      "level": 2,
+      "start_line": 91
+    },
+    {
+      "anchor": "console-meter-channel-2",
+      "end_line": 92,
+      "heading": "Console Meter: Channel 2",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "special-on-console",
+      "end_line": 127,
+      "heading": "Special: On Console",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "3-power-level-simulator",
+      "end_line": 131,
+      "heading": "3. POWER LEVEL SIMULATOR",
+      "level": 1,
+      "start_line": 128
+    },
+    {
+      "anchor": "ornl-dwg-66-4837",
+      "end_line": 145,
+      "heading": "Ornl Dwg. 66-4837",
+      "level": 2,
+      "start_line": 132
+    },
+    {
+      "anchor": "ornl-dwg-66-4339",
+      "end_line": 195,
+      "heading": "Ornl Dwg. 66-4339",
+      "level": 2,
+      "start_line": 146
+    },
+    {
+      "anchor": "ornl-dwg-66-4840",
+      "end_line": 224,
+      "heading": "Ornl Dwg. 66-4840",
+      "level": 2,
+      "start_line": 196
+    },
+    {
+      "anchor": "4-time-required-for-setup-of-simulators",
+      "end_line": 230,
+      "heading": "4. TIME REQUIRED FOR SETUP OF SIMULATORS",
+      "level": 1,
+      "start_line": 225
+    },
+    {
+      "anchor": "5-conclusions",
+      "end_line": 238,
+      "heading": "5. CONCLUSIONS",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "6-appendix",
+      "end_line": 240,
+      "heading": "6. APPENDIX",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "6-1-details-of-startup-simulation",
+      "end_line": 354,
+      "heading": "6.1 Details of Startup Simulation",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "ornl-dwg-66-4841",
+      "end_line": 384,
+      "heading": "Ornl Dwg. 66-4841",
+      "level": 2,
+      "start_line": 355
+    },
+    {
+      "anchor": "6-2-1-neutron-kinetics-equations",
+      "end_line": 414,
+      "heading": "6.2.1 Neutron Kinetics Equations",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "note",
+      "end_line": 434,
+      "heading": "Note:",
+      "level": 2,
+      "start_line": 415
+    },
+    {
+      "anchor": "6-2-2-core-thermal-dynamic-equations",
+      "end_line": 466,
+      "heading": "6.2.2 Core Thermal Dynamic Equations",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "6-2-3-radiator-effectiveness",
+      "end_line": 502,
+      "heading": "6.2.3 Radiator Effectiveness",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "6-2-4-xenon-poisoning",
+      "end_line": 531,
+      "heading": "6.2.4 Xenon Poisoning",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "reactor-themal-model",
+      "end_line": 539,
+      "heading": "Reactor Themal Model",
+      "level": 2,
+      "start_line": 532
+    },
+    {
+      "anchor": "time-scale-real",
+      "end_line": 543,
+      "heading": "Time Scale - Real",
+      "level": 2,
+      "start_line": 540
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 614,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 619,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 615
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1445",
+  "tables": [],
+  "title": "![](images/e8af35a52a27764baa44441a0f04785f31da5ad7db293c981ffa782fc05ebfee.jpg)",
+  "topics": [
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "graphite-and-moderator-behavior",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion"
+  ],
+  "warnings": []
+}

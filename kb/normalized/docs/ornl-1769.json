@@ -1,0 +1,278 @@
+{
+  "authors": [
+    "D C Hamilton",
+    "H F Poppendiek",
+    "R F Redmond",
+    "L D Palmer",
+    "DATE ISSUED",
+    "Operated by"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1769.jsonl",
+  "date_text": "1954",
+  "doc_id": "ornl-1769",
+  "document_type": "report",
+  "entities": {
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          489
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          23,
+          37,
+          41,
+          501,
+          788,
+          789,
+          790,
+          792
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          29
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 23,
+        "line_hits": [
+          49,
+          51,
+          57,
+          237,
+          239,
+          244,
+          252,
+          262,
+          266,
+          288,
+          310,
+          318,
+          366,
+          376,
+          550,
+          616,
+          627,
+          668,
+          754,
+          770,
+          780,
+          784,
+          794
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c03bc1b57b3faf4d216cfa81fb29867ad39750964a0c8c50458eb2182e1718fa",
+  "markdown_path": "pdf/ORNL-1769/ORNL-1769/hybrid_ocr/ORNL-1769.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 24,
+  "sections": [
+    {
+      "anchor": "date-issued",
+      "end_line": 20,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "nov-15-1954",
+      "end_line": 22,
+      "heading": "Nov 15 1954",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 34,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 38,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 42,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 46,
+      "heading": "Table Of Contents",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "summary",
+      "end_line": 52,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 58,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 200,
+      "heading": "NOMENCLATURE*",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "greek-symbols",
+      "end_line": 234,
+      "heading": "Greek Symbols",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "general-discussion-of-the-problem",
+      "end_line": 361,
+      "heading": "GENERAL DISCUSSION OF THE PROBLEM",
+      "level": 1,
+      "start_line": 235
+    },
+    {
+      "anchor": "ideal-system-i-parallel-plates",
+      "end_line": 397,
+      "heading": "IDEAL SYSTEM I (PARALLEL PLATES)",
+      "level": 1,
+      "start_line": 362
+    },
+    {
+      "anchor": "velocity-solution",
+      "end_line": 450,
+      "heading": "Velocity Solution",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "temperature-solution",
+      "end_line": 482,
+      "heading": "Temperature Solution",
+      "level": 1,
+      "start_line": 451
+    },
+    {
+      "anchor": "ideal-system-ii-parallel-plates-approximate",
+      "end_line": 486,
+      "heading": "IDEAL SYSTEM II (PARALLEL PLATES - APPROXIMATE)",
+      "level": 1,
+      "start_line": 483
+    },
+    {
+      "anchor": "velocity-solution",
+      "end_line": 500,
+      "heading": "Velocity Solution",
+      "level": 1,
+      "start_line": 487
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-3562",
+      "end_line": 541,
+      "heading": "Unclassified Ornl-Lr-Dwg 3562",
+      "level": 2,
+      "start_line": 501
+    },
+    {
+      "anchor": "temperature-solution",
+      "end_line": 620,
+      "heading": "Temperature Solution",
+      "level": 1,
+      "start_line": 542
+    },
+    {
+      "anchor": "ideal-system-iii-cylindrical-pipe-approximate",
+      "end_line": 624,
+      "heading": "IDEAL SYSTEM III (CYLINDRICAL PIPE - APPROXIMATE)",
+      "level": 1,
+      "start_line": 621
+    },
+    {
+      "anchor": "velocity-solution",
+      "end_line": 687,
+      "heading": "Velocity Solution",
+      "level": 1,
+      "start_line": 625
+    },
+    {
+      "anchor": "temperature-solution",
+      "end_line": 777,
+      "heading": "Temperature Solution",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 785,
+      "heading": "DISCUSSION",
+      "level": 1,
+      "start_line": 778
+    },
+    {
+      "anchor": "references",
+      "end_line": 794,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 786
+    }
+  ],
+  "source_dir": "pdf/ORNL-1769",
+  "tables": [],
+  "title": "![](images/9d6a112197e1656e6ba58462e6838fa429a52d8c61b6d84e234493bb6fb8c527.jpg)",
+  "topics": [
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

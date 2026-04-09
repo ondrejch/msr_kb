@@ -1,0 +1,981 @@
+{
+  "authors": [
+    "TRAI",
+    "DOCUMENT",
+    "DECLASSIFIED",
+    "C",
+    "USE IN BEARINGS",
+    "SEALS",
+    "AND VALVES IN",
+    "W.C.Tunnell"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2103.jsonl",
+  "date_text": "1956",
+  "doc_id": "ornl-2103",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 10,
+        "line_hits": [
+          380,
+          477,
+          507,
+          537,
+          551,
+          565,
+          585,
+          756,
+          878,
+          900
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          507,
+          517,
+          649
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          530,
+          635
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          507
+        ],
+        "name": "Hastelloy B"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          507
+        ],
+        "name": "Hastelloy C"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          384,
+          386
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          39,
+          60,
+          78,
+          98,
+          261,
+          265,
+          413,
+          497,
+          507,
+          513,
+          519
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          45,
+          82,
+          84
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1,
+          338
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          309,
+          507
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          11,
+          92
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          292,
+          312
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          289
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          330
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          335
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 11,
+        "line_hits": [
+          366,
+          390,
+          392,
+          394,
+          413,
+          463,
+          487,
+          537,
+          544,
+          585,
+          741
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          384
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 11,
+        "line_hits": [
+          23,
+          70,
+          366,
+          368,
+          384,
+          413,
+          417,
+          499,
+          505,
+          507,
+          511
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          499,
+          501,
+          502,
+          503
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          499,
+          501,
+          502
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          499,
+          501,
+          502
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          499,
+          501,
+          502
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          503
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          503
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          503
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e7a11a98f63b20e003f9dfc1feaf1a29aff4974259fbb224a1089e58fd82be51",
+  "markdown_path": "pdf/ORNL-2103/ORNL-2103/hybrid_ocr/ORNL-2103.md",
+  "report_number": "ORNL-2103",
+  "report_numbers": [
+    "ORNL-2103"
+  ],
+  "report_series": null,
+  "section_count": 99,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "trai",
+      "end_line": 4,
+      "heading": "Trai",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "document",
+      "end_line": 6,
+      "heading": "Document",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "declassified",
+      "end_line": 10,
+      "heading": "Declassified",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-librahies",
+      "end_line": 18,
+      "heading": "Martin Marietta Energy Systems Librahies",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "compatibility-tests-of-materials-for",
+      "end_line": 20,
+      "heading": "Compatibility Tests Of Materials For",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "use-in-bearings-seals-and-valves-in",
+      "end_line": 30,
+      "heading": "Use In Bearings, Seals, And Valves In",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "dcjm",
+      "end_line": 32,
+      "heading": "Dcjm",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "l1bary",
+      "end_line": 34,
+      "heading": "L1Bary",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "do-not-transfer-to",
+      "end_line": 38,
+      "heading": "Do Not Transfer To",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 40,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 42,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "union-candidenuclearcompany",
+      "end_line": 48,
+      "heading": "Union Candidenuclearcompany",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "post-office-box-p-oak-ridge-tennessee",
+      "end_line": 50,
+      "heading": "Post Office Box P·Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 59,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "ornl-2103",
+      "end_line": 67,
+      "heading": "ORNL-2103",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "aircraft-reactor-engineering-division",
+      "end_line": 69,
+      "heading": "AIRCRAFT REACTOR ENGINEERING DIVISION",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "compatibility-tests-of-materials-for-use-in-bearings-seals-and-valves-in-fused-fluoride-salts-at-1200-circ-f",
+      "end_line": 73,
+      "heading": "COMPATIBILITY TESTS OF MATERIALS FOR USE IN BEARINGS, SEALS, AND VALVES IN FUSED FLUORIDE SALTS AT $1200^{\\circ}$ F",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 75,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "sep-21-1956",
+      "end_line": 77,
+      "heading": "Sep 21 1956",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 81,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 91,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 97,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "ornl-2103",
+      "end_line": 99,
+      "heading": "ORNL-2103",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "c-84-reactors-special-features-of-aircraft-reactors",
+      "end_line": 101,
+      "heading": "C-84 - Reactors-Special Features of Aircraft Reactors",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 268,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "external-disribution",
+      "end_line": 341,
+      "heading": "EXTERNAL DISRIBUTION",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "contents",
+      "end_line": 359,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "compatibility-tests-of-materials-for-use-in-bearings-seals-and-valves-in-fused-fluorides-at-1200-circ-f",
+      "end_line": 363,
+      "heading": "COMPATIBILITY TESTS OF MATERIALS FOR USE IN BEARINGS, SEALS, AND VALVES IN FUSED FLUORIDES AT $1200^{\\circ}$ F",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 381,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "materials-requirements",
+      "end_line": 387,
+      "heading": "MATERIALS REQUIREMENTS",
+      "level": 1,
+      "start_line": 382
+    },
+    {
+      "anchor": "self-welding-and-friction-effects",
+      "end_line": 395,
+      "heading": "SELF-WELDING AND FRICTION EFFECTS",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "test-apparatus",
+      "end_line": 410,
+      "heading": "TEST APPARATUS",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "selection-of-materials",
+      "end_line": 414,
+      "heading": "SELECTION OF MATERIALS",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "test-procedure",
+      "end_line": 424,
+      "heading": "TEST PROCEDURE",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "criteria-for-rating-materials",
+      "end_line": 434,
+      "heading": "CRITERIA FOR RATING MATERIALS",
+      "level": 1,
+      "start_line": 425
+    },
+    {
+      "anchor": "unclassified-photo-18266",
+      "end_line": 437,
+      "heading": "Unclassified Photo 18266",
+      "level": 2,
+      "start_line": 435
+    },
+    {
+      "anchor": "0-001-in-cut",
+      "end_line": 440,
+      "heading": "0.001-In.Cut",
+      "level": 2,
+      "start_line": 438
+    },
+    {
+      "anchor": "0-002-in-cut",
+      "end_line": 443,
+      "heading": "0.002-In.Cut",
+      "level": 2,
+      "start_line": 441
+    },
+    {
+      "anchor": "0-003-in-cut",
+      "end_line": 446,
+      "heading": "0.003-In.Cut",
+      "level": 2,
+      "start_line": 444
+    },
+    {
+      "anchor": "0-005-in-cut",
+      "end_line": 449,
+      "heading": "0.005-In.Cut",
+      "level": 2,
+      "start_line": 447
+    },
+    {
+      "anchor": "0-010-in-cut",
+      "end_line": 452,
+      "heading": "0.010-In.Cut",
+      "level": 2,
+      "start_line": 450
+    },
+    {
+      "anchor": "0-015-in-cut",
+      "end_line": 455,
+      "heading": "0.015-In.Cut",
+      "level": 2,
+      "start_line": 453
+    },
+    {
+      "anchor": "0-030-in-cut",
+      "end_line": 460,
+      "heading": "0.030-In.Cut",
+      "level": 2,
+      "start_line": 456
+    },
+    {
+      "anchor": "evaluation-of-results",
+      "end_line": 484,
+      "heading": "EVALUATION OF RESULTS",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "conclusions-and-recommendations",
+      "end_line": 492,
+      "heading": "CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 485
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 520,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 493
+    },
+    {
+      "anchor": "table-2-summary-of-data-of-materials-compatibility-test",
+      "end_line": 562,
+      "heading": "Table 2. Summary Of Data Of Materials Compatibility Test",
+      "level": 2,
+      "start_line": 521
+    },
+    {
+      "anchor": "table-3-results-of-spectrographic-analysis-of-the-fluoride-after-various-tests",
+      "end_line": 568,
+      "heading": "Table 3. Results Of Spectrographic Analysis Of The Fluoride After Various Tests",
+      "level": 2,
+      "start_line": 563
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 570,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "index-for-tests-of-various-pin-and-plate-combinations",
+      "end_line": 578,
+      "heading": "INDEX FOR TESTS OF VARIOUS PIN AND PLATE COMBINATIONS",
+      "level": 1,
+      "start_line": 571
+    },
+    {
+      "anchor": "index-for-tests-of-various-pin-and-plate-combinations",
+      "end_line": 589,
+      "heading": "INDEX FOR TESTS OF VARIOUS PIN AND PLATE COMBINATIONS",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 591,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 590
+    },
+    {
+      "anchor": "material-compatibility-tests-correlation-series",
+      "end_line": 619,
+      "heading": "MATERIAL COMPATIBILITY TESTS - CORRELATION SERIES",
+      "level": 1,
+      "start_line": 592
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 621,
+      "heading": "Appendix C",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "photographic-record-of-wear-patterns",
+      "end_line": 626,
+      "heading": "Photographic Record Of Wear Patterns",
+      "level": 2,
+      "start_line": 622
+    },
+    {
+      "anchor": "unclassifiedphoto-18276",
+      "end_line": 640,
+      "heading": "Unclassifiedphoto 18276",
+      "level": 2,
+      "start_line": 627
+    },
+    {
+      "anchor": "unclassified-photo-18277",
+      "end_line": 653,
+      "heading": "Unclassified Photo 18277",
+      "level": 2,
+      "start_line": 641
+    },
+    {
+      "anchor": "unclassified-photo-18278",
+      "end_line": 664,
+      "heading": "Unclassified Photo 18278",
+      "level": 2,
+      "start_line": 654
+    },
+    {
+      "anchor": "unclassified-photo-18279",
+      "end_line": 671,
+      "heading": "Unclassified Photo 18279",
+      "level": 2,
+      "start_line": 665
+    },
+    {
+      "anchor": "unclassified-photo-18280",
+      "end_line": 679,
+      "heading": "Unclassified Photo 18280",
+      "level": 2,
+      "start_line": 672
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 681,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 680
+    },
+    {
+      "anchor": "photo-18281",
+      "end_line": 703,
+      "heading": "Photo 18281",
+      "level": 2,
+      "start_line": 682
+    },
+    {
+      "anchor": "unclassified-photo-18283",
+      "end_line": 716,
+      "heading": "Unclassified Photo 18283",
+      "level": 2,
+      "start_line": 704
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 718,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 717
+    },
+    {
+      "anchor": "photo-18284",
+      "end_line": 720,
+      "heading": "Photo 18284",
+      "level": 2,
+      "start_line": 719
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 722,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 721
+    },
+    {
+      "anchor": "photo-18285",
+      "end_line": 735,
+      "heading": "Photo 18285",
+      "level": 2,
+      "start_line": 723
+    },
+    {
+      "anchor": "unclassified-photo-18286",
+      "end_line": 743,
+      "heading": "Unclassified Photo 18286",
+      "level": 2,
+      "start_line": 736
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 745,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 744
+    },
+    {
+      "anchor": "photo-18287",
+      "end_line": 758,
+      "heading": "Photo 18287",
+      "level": 2,
+      "start_line": 746
+    },
+    {
+      "anchor": "unclassified-photo-18288",
+      "end_line": 766,
+      "heading": "Unclassified Photo 18288",
+      "level": 2,
+      "start_line": 759
+    },
+    {
+      "anchor": "unclassified-photo-18289",
+      "end_line": 774,
+      "heading": "Unclassified Photo 18289",
+      "level": 2,
+      "start_line": 767
+    },
+    {
+      "anchor": "unclassified-photo-18290",
+      "end_line": 785,
+      "heading": "Unclassified Photo 18290",
+      "level": 2,
+      "start_line": 775
+    },
+    {
+      "anchor": "unclassified-photo-18291",
+      "end_line": 791,
+      "heading": "Unclassified Photo 18291",
+      "level": 2,
+      "start_line": 786
+    },
+    {
+      "anchor": "unclassified-photo-18292",
+      "end_line": 798,
+      "heading": "Unclassified Photo 18292",
+      "level": 2,
+      "start_line": 792
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 800,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 799
+    },
+    {
+      "anchor": "photo-18293",
+      "end_line": 812,
+      "heading": "Photo 18293",
+      "level": 2,
+      "start_line": 801
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 814,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 813
+    },
+    {
+      "anchor": "photo-18294",
+      "end_line": 826,
+      "heading": "Photo 18294",
+      "level": 2,
+      "start_line": 815
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 828,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 827
+    },
+    {
+      "anchor": "photo-18295",
+      "end_line": 841,
+      "heading": "Photo 18295",
+      "level": 2,
+      "start_line": 829
+    },
+    {
+      "anchor": "unclassified-photo-18296",
+      "end_line": 849,
+      "heading": "Unclassified Photo 18296",
+      "level": 2,
+      "start_line": 842
+    },
+    {
+      "anchor": "unclassified-photo-18297",
+      "end_line": 862,
+      "heading": "Unclassified Photo 18297",
+      "level": 2,
+      "start_line": 850
+    },
+    {
+      "anchor": "unclassified-photo-18298",
+      "end_line": 871,
+      "heading": "Unclassified Photo 18298",
+      "level": 2,
+      "start_line": 863
+    },
+    {
+      "anchor": "unclassified-photo-18299",
+      "end_line": 879,
+      "heading": "Unclassified Photo 18299",
+      "level": 2,
+      "start_line": 872
+    },
+    {
+      "anchor": "unclassified-photo-18300",
+      "end_line": 891,
+      "heading": "Unclassified Photo 18300",
+      "level": 2,
+      "start_line": 880
+    },
+    {
+      "anchor": "unclassified-photo-18301",
+      "end_line": 909,
+      "heading": "Unclassified Photo 18301",
+      "level": 2,
+      "start_line": 892
+    },
+    {
+      "anchor": "unclassified-photo-18303",
+      "end_line": 916,
+      "heading": "Unclassified Photo 18303",
+      "level": 2,
+      "start_line": 910
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 918,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 917
+    },
+    {
+      "anchor": "photo-18304",
+      "end_line": 931,
+      "heading": "Photo 18304",
+      "level": 2,
+      "start_line": 919
+    },
+    {
+      "anchor": "unclassified-photo-18305",
+      "end_line": 939,
+      "heading": "Unclassified Photo 18305",
+      "level": 2,
+      "start_line": 932
+    },
+    {
+      "anchor": "unclassified-photo-18306",
+      "end_line": 947,
+      "heading": "Unclassified Photo 18306",
+      "level": 2,
+      "start_line": 940
+    },
+    {
+      "anchor": "unclassified-photo-18307",
+      "end_line": 954,
+      "heading": "Unclassified Photo 18307",
+      "level": 2,
+      "start_line": 948
+    },
+    {
+      "anchor": "unclassified-photo-18308",
+      "end_line": 966,
+      "heading": "Unclassified Photo 18308",
+      "level": 2,
+      "start_line": 955
+    },
+    {
+      "anchor": "unclassified-photo-18309",
+      "end_line": 979,
+      "heading": "Unclassified Photo 18309",
+      "level": 2,
+      "start_line": 967
+    },
+    {
+      "anchor": "unclassified-photo-18310",
+      "end_line": 989,
+      "heading": "Unclassified Photo 18310",
+      "level": 2,
+      "start_line": 980
+    },
+    {
+      "anchor": "unclassified-photo-18311",
+      "end_line": 994,
+      "heading": "Unclassified Photo 18311",
+      "level": 2,
+      "start_line": 990
+    },
+    {
+      "anchor": "unclassified-photo-18312",
+      "end_line": 1009,
+      "heading": "Unclassified Photo 18312",
+      "level": 2,
+      "start_line": 995
+    }
+  ],
+  "source_dir": "pdf/ORNL-2103",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "salt-systems-and-thermophysics",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

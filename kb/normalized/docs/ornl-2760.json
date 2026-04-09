@@ -1,0 +1,551 @@
+{
+  "authors": [
+    "Metallurgy",
+    "Ceramics",
+    "WELDING OF NICKEL-MOLYBDENUM ALLOYS",
+    "G. M. Slaughter",
+    "P. Patriarca",
+    "R. E. Clausing",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2760.jsonl",
+  "date_text": "September 1958",
+  "doc_id": "ornl-2760",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 20,
+        "line_hits": [
+          68,
+          95,
+          97,
+          101,
+          103,
+          112,
+          120,
+          167,
+          198,
+          209,
+          211,
+          218,
+          224,
+          227,
+          229,
+          231,
+          244,
+          281,
+          299,
+          308
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          5,
+          38,
+          60,
+          68,
+          74,
+          76,
+          78,
+          82,
+          95,
+          169,
+          172,
+          204,
+          235,
+          239,
+          279,
+          287,
+          290,
+          308
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          5,
+          38,
+          60,
+          68,
+          74,
+          76,
+          78,
+          95,
+          169,
+          172,
+          204,
+          235,
+          239,
+          279,
+          287,
+          290,
+          308
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          68,
+          70,
+          87,
+          88,
+          268
+        ],
+        "name": "Hastelloy B"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          78,
+          91
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          88
+        ],
+        "name": "Hastelloy W"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          74
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          1,
+          15,
+          48,
+          80,
+          87,
+          88,
+          141,
+          154,
+          182,
+          308,
+          326,
+          409
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          23,
+          58,
+          415,
+          417
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          19,
+          54
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 10,
+        "line_hits": [
+          70,
+          76,
+          78,
+          95,
+          105,
+          202,
+          229,
+          231,
+          287,
+          288
+        ],
+        "name": "ARE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          85
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          85
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          78,
+          86
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "02ff93a47d2603b40ee2d4d41375638572f35ee4d282d11def8fe2e74be2bcaf",
+  "markdown_path": "pdf/ORNL-2760/ORNL-2760/hybrid_ocr/ORNL-2760.md",
+  "report_number": "ORNL-2760",
+  "report_numbers": [
+    "ORNL-2760",
+    "ORNL-2314",
+    "ORNL-2402",
+    "Y-28738",
+    "Y-27652",
+    "Y-27843",
+    "Y-26642",
+    "Y-28005"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 44,
+  "sections": [
+    {
+      "anchor": "ornl-2760",
+      "end_line": 4,
+      "heading": "Ornl-2760",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "welding-of-nickel-molybdenum-alloys",
+      "end_line": 14,
+      "heading": "Welding Of Nickel-Molybdenum Alloys",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 18,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 22,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 24,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 35,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "metallurgy-division",
+      "end_line": 37,
+      "heading": "Metallurgy Division",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "welding-of-nickel-molybdenum-alloys",
+      "end_line": 43,
+      "heading": "Welding Of Nickel-Molybdenum Alloys",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 45,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "aug-11-1959",
+      "end_line": 47,
+      "heading": "Aug 11 1959",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 53,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 57,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 59,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "welding-of-nickel-molybdenum-alloys",
+      "end_line": 65,
+      "heading": "WELDING OF NICKEL-MOLYBDENUM ALLOYS",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 71,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 98,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "material",
+      "end_line": 106,
+      "heading": "MATERIAL",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "equipment",
+      "end_line": 113,
+      "heading": "EQUIPMENT",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "tablei",
+      "end_line": 115,
+      "heading": "TABLEI",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "chemical-composition-of-wrought-plate-and-weld-filler-wire",
+      "end_line": 129,
+      "heading": "CHEMICAL COMPOSITION OF WROUGHT PLATE AND WELD FILLER WIRE",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "experimental-procedure",
+      "end_line": 138,
+      "heading": "EXPERIMENTAL PROCEDURE",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 140,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 139
+    },
+    {
+      "anchor": "ornl-lr-dwg-34798",
+      "end_line": 143,
+      "heading": "Ornl-Lr-Dwg 34798",
+      "level": 2,
+      "start_line": 141
+    },
+    {
+      "anchor": "welding-conditions",
+      "end_line": 147,
+      "heading": "Welding Conditions:",
+      "level": 2,
+      "start_line": 144
+    },
+    {
+      "anchor": "welding-speed",
+      "end_line": 164,
+      "heading": "Welding Speed:",
+      "level": 2,
+      "start_line": 148
+    },
+    {
+      "anchor": "results",
+      "end_line": 173,
+      "heading": "RESULTS",
+      "level": 1,
+      "start_line": 165
+    },
+    {
+      "anchor": "a-hardness-studies",
+      "end_line": 212,
+      "heading": "A. Hardness Studies",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "b-room-temperature-and-elevated-temperature-tensile-studies",
+      "end_line": 232,
+      "heading": "B. Room-Temperature and Elevated-Temperature Tensile Studies",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "c-metallographic-studies",
+      "end_line": 252,
+      "heading": "C. Metallographic Studies",
+      "level": 1,
+      "start_line": 233
+    },
+    {
+      "anchor": "y-28738",
+      "end_line": 258,
+      "heading": "Y-28738",
+      "level": 2,
+      "start_line": 253
+    },
+    {
+      "anchor": "1200-f",
+      "end_line": 261,
+      "heading": "1200 F",
+      "level": 2,
+      "start_line": 259
+    },
+    {
+      "anchor": "1300-f",
+      "end_line": 264,
+      "heading": "1300 F",
+      "level": 2,
+      "start_line": 262
+    },
+    {
+      "anchor": "1500-f",
+      "end_line": 265,
+      "heading": "1500 F",
+      "level": 2,
+      "start_line": 265
+    },
+    {
+      "anchor": "1000x",
+      "end_line": 270,
+      "heading": "1000X",
+      "level": 2,
+      "start_line": 266
+    },
+    {
+      "anchor": "y-27652-200x",
+      "end_line": 274,
+      "heading": "Y-27652 200X",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "y-27843-1000x",
+      "end_line": 282,
+      "heading": "Y-27843 1000X",
+      "level": 2,
+      "start_line": 275
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 293,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "y-26642",
+      "end_line": 295,
+      "heading": "Y-26642",
+      "level": 2,
+      "start_line": 294
+    },
+    {
+      "anchor": "200x",
+      "end_line": 300,
+      "heading": "200X",
+      "level": 2,
+      "start_line": 296
+    },
+    {
+      "anchor": "y-28005",
+      "end_line": 302,
+      "heading": "Y-28005",
+      "level": 2,
+      "start_line": 301
+    },
+    {
+      "anchor": "1000-x",
+      "end_line": 309,
+      "heading": "1000 X",
+      "level": 2,
+      "start_line": 303
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 315,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 412,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 316
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 418,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 413
+    }
+  ],
+  "source_dir": "pdf/ORNL-2760",
+  "tables": [],
+  "title": "ORNL-2760",
+  "topics": [
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

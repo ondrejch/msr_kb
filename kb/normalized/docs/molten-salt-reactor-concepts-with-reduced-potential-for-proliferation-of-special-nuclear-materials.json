@@ -1,0 +1,340 @@
+{
+  "authors": [
+    "H.C. Ott",
+    "INTRODUCTION",
+    "CANDIDATE SYSTEMS",
+    "General"
+  ],
+  "claims_path": "kb/normalized/claims/molten-salt-reactor-concepts-with-reduced-potential-for-proliferation-of-special-nuclear-materials.jsonl",
+  "date_text": null,
+  "doc_id": "molten-salt-reactor-concepts-with-reduced-potential-for-proliferation-of-special-nuclear-materials",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          97
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          119
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          68,
+          76
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          89,
+          109
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          173
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          31
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          3,
+          17,
+          206,
+          207,
+          208,
+          209,
+          210
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 25,
+        "line_hits": [
+          9,
+          17,
+          25,
+          27,
+          41,
+          43,
+          45,
+          46,
+          51,
+          53,
+          55,
+          64,
+          66,
+          68,
+          76,
+          80,
+          151,
+          157,
+          159,
+          161,
+          165,
+          177,
+          179,
+          200,
+          206
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          9,
+          19,
+          25,
+          27,
+          41,
+          57,
+          58,
+          59,
+          91,
+          109,
+          115,
+          131,
+          139,
+          157,
+          187,
+          194,
+          198
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          47,
+          129,
+          131,
+          135,
+          141,
+          143,
+          193
+        ],
+        "name": "MSCR"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          27,
+          111
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          47,
+          131
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 3,
+        "line_hits": [
+          207,
+          208,
+          210
+        ],
+        "name": "MSR Program Semiannual Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          61,
+          78,
+          93,
+          111,
+          115
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          27,
+          91
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e02ad3090e5c43267bbd2466f15841b0758dc59d30d8d94d4024578d0d35d70d",
+  "markdown_path": "pdf/ORAU-IEA-77-13/ORAU-IEA-77-13/hybrid_ocr/ORAU-IEA-77-13.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "natural-language-summaries",
+  "section_count": 15,
+  "sections": [
+    {
+      "anchor": "molten-salt-reactor-concepts-with-reduced-potential-for-proliferation-of-special-nuclear-materials",
+      "end_line": 6,
+      "heading": "MOLTEN-SALT REACTOR CONCEPTS WITH REDUCED POTENTIAL FOR PROLIFERATION OF SPECIAL NUCLEAR MATERIALS",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 10,
+      "heading": "Abstract*",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 20,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "candidate-systems",
+      "end_line": 22,
+      "heading": "CANDIDATE SYSTEMS",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "general",
+      "end_line": 50,
+      "heading": "General",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "break-even-msbr-with-reference-fuel-processing",
+      "end_line": 73,
+      "heading": "Break-Even MSBR with Reference Fuel Processing",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "reductive-extraction-without-protactinium-isolation",
+      "end_line": 128,
+      "heading": "Reductive Extraction Without Protactinium Isolation",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "mscr-with-no-on-site-fuel-processing",
+      "end_line": 144,
+      "heading": "MSCR with No On-Site Fuel Processing",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "development-perspective",
+      "end_line": 154,
+      "heading": "DEVELOPMENT PERSPECTIVE",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "development-needs",
+      "end_line": 168,
+      "heading": "Development Needs",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "availability-of-fissile-material",
+      "end_line": 174,
+      "heading": "Availability of Fissile Material",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "cost-and-time-for-development-and-deployment",
+      "end_line": 180,
+      "heading": "Cost and Time for Development and Deployment",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "incentives-for-development",
+      "end_line": 188,
+      "heading": "Incentives for Development",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "summary-and-conclusions",
+      "end_line": 203,
+      "heading": "SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 189
+    },
+    {
+      "anchor": "references",
+      "end_line": 210,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 204
+    }
+  ],
+  "source_dir": "pdf/ORAU-IEA-77-13",
+  "tables": [],
+  "title": "MOLTEN-SALT REACTOR CONCEPTS WITH REDUCED POTENTIAL FOR PROLIFERATION OF SPECIAL NUCLEAR MATERIALS",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

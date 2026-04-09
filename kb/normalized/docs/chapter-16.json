@@ -1,0 +1,141 @@
+{
+  "authors": [
+    "AIRCRAFT REACTOR EXPERIMENT*"
+  ],
+  "claims_path": "kb/normalized/claims/chapter-16.jsonl",
+  "date_text": "1954",
+  "doc_id": "chapter-16",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          12
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          16,
+          37,
+          41,
+          48
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          25,
+          39,
+          59
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          9,
+          39,
+          57
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          14,
+          16,
+          25
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 1,
+        "line_hits": [
+          5
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 10,
+        "line_hits": [
+          3,
+          5,
+          7,
+          12,
+          21,
+          30,
+          33,
+          44,
+          52,
+          55
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a88742eb60db9a33d35967a0accaea3f61839eb3615d15d8f02c272975ba6a74",
+  "markdown_path": "pdf/FFR_chap16/FFR_chap16/hybrid_ocr/FFR_chap16.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 2,
+  "sections": [
+    {
+      "anchor": "chapter-16",
+      "end_line": 2,
+      "heading": "CHAPTER 16",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "aircraft-reactor-experiment",
+      "end_line": 67,
+      "heading": "AIRCRAFT REACTOR EXPERIMENT*",
+      "level": 1,
+      "start_line": 3
+    }
+  ],
+  "source_dir": "pdf/FFR_chap16",
+  "tables": [],
+  "title": "CHAPTER 16",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "graphite-and-moderator-behavior",
+    "safety-shielding-and-remote-maintenance",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

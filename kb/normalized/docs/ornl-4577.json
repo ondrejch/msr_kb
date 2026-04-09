@@ -1,0 +1,625 @@
+{
+  "authors": [
+    "J. R. Hightower",
+    "Jr.",
+    "L. E. McNeese",
+    "B. A. Hannaford",
+    "H. D. Cochran",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4577.jsonl",
+  "date_text": "1971",
+  "doc_id": "ornl-4577",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          396,
+          436,
+          485
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          99,
+          111
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          436
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          115
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 10,
+        "line_hits": [
+          51,
+          189,
+          191,
+          193,
+          200,
+          208,
+          212,
+          222,
+          227,
+          246
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          117,
+          149,
+          202,
+          234,
+          448
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          115,
+          216,
+          232
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          161,
+          191
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          151
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 20,
+        "line_hits": [
+          1,
+          19,
+          103,
+          167,
+          197,
+          224,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          517,
+          525,
+          528,
+          633
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          15,
+          29,
+          632,
+          633,
+          635,
+          637,
+          639,
+          640,
+          642,
+          643
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          25,
+          638
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 33,
+        "line_hits": [
+          7,
+          52,
+          70,
+          79,
+          87,
+          89,
+          91,
+          97,
+          113,
+          115,
+          123,
+          126,
+          139,
+          161,
+          170,
+          185,
+          200,
+          206,
+          208,
+          210,
+          219,
+          222,
+          227,
+          230,
+          254,
+          434,
+          448,
+          464,
+          468,
+          494,
+          501,
+          509,
+          511
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          79,
+          91,
+          111,
+          256,
+          322,
+          346,
+          396,
+          412,
+          414,
+          416,
+          434,
+          436,
+          442,
+          448,
+          468,
+          472,
+          476,
+          488
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          85,
+          89
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 16,
+        "line_hits": [
+          79,
+          81,
+          87,
+          262,
+          382,
+          392,
+          396,
+          414,
+          422,
+          426,
+          428,
+          434,
+          488,
+          490,
+          498,
+          499
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          256,
+          501
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3aa1c738e0909dd98bf14a013705c188be268b669de580f1eee37f6de12e997d",
+  "markdown_path": "pdf/ORNL-4577/ORNL-4577/hybrid_ocr/ORNL-4577.md",
+  "report_number": "ORNL-4577",
+  "report_numbers": [
+    "ORNL-4577"
+  ],
+  "report_series": null,
+  "section_count": 48,
+  "sections": [
+    {
+      "anchor": "ornl-4577",
+      "end_line": 4,
+      "heading": "Ornl-4577",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "chemical-technology-division-unit-operations-section",
+      "end_line": 16,
+      "heading": "Chemical Technology Division Unit Operations Section",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "august-1971",
+      "end_line": 18,
+      "heading": "August 1971",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 28,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 32,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "contents",
+      "end_line": 36,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 38,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 39,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "2-description-of-equipment-3",
+      "end_line": 53,
+      "heading": "2.Description Of Equipment. 3",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "3-description-of-distillation-operation-20",
+      "end_line": 54,
+      "heading": "3. DESCRIPTION OF DISTILLATION OPERATION 20",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "4-experimental-results-27",
+      "end_line": 66,
+      "heading": "4. EXPERIMENTAL RESULTS 27",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "5-conclusions-47",
+      "end_line": 67,
+      "heading": "5. CONCLUSIONS 47",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "6-acknowledgments-48",
+      "end_line": 68,
+      "heading": "6. ACKNOWLEDGMENTS 48",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "7-references-49",
+      "end_line": 69,
+      "heading": "7. REFERENCES 49",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "8-appendix-analyses-of-samples-from-the-msre-distillation-experiment-51",
+      "end_line": 76,
+      "heading": "8. Appendix: Analyses Of Samples From The Msre Distillation Experiment 51",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 82,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 92,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "2-description-of-equipment",
+      "end_line": 94,
+      "heading": "2. DESCRIPTION OF EQUIPMENT",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "2-1-process-equipment",
+      "end_line": 102,
+      "heading": "2.1 Process Equipment",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "ornl-dwg-66-10983",
+      "end_line": 131,
+      "heading": "Ornl Dwg. 66-10983",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "2-2-instrumentation",
+      "end_line": 133,
+      "heading": "2.2 Instrumentation",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "2-2-1-measurement-and-control-of-temperature",
+      "end_line": 142,
+      "heading": "2.2.1 Measurement and Control of Temperature",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "2-2-2-measurement-and-control-of-pressure",
+      "end_line": 154,
+      "heading": "2.2.2 Measurement and Control of Pressure",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "2-2-3-measurement-and-control-of-liquid-level",
+      "end_line": 166,
+      "heading": "2.2.3 Measurement and Control of Liquid Level",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "ornl-dwg67-4778r1",
+      "end_line": 173,
+      "heading": "Ornl-Dwg67-4778R1",
+      "level": 2,
+      "start_line": 167
+    },
+    {
+      "anchor": "2-2-4-radiation-instrumentation",
+      "end_line": 179,
+      "heading": "2.2.4 Radiation Instrumentation",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "2-2-5-instrument-panel",
+      "end_line": 188,
+      "heading": "2.2.5 Instrument Panel",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "2-3-condensate-sampler",
+      "end_line": 196,
+      "heading": "2.3 Condensate Sampler",
+      "level": 1,
+      "start_line": 189
+    },
+    {
+      "anchor": "ornl-dwg-69-4945",
+      "end_line": 209,
+      "heading": "Ornl Dwg 69-4945",
+      "level": 2,
+      "start_line": 197
+    },
+    {
+      "anchor": "2-4-location-of-equipment-at-the-msre",
+      "end_line": 213,
+      "heading": "2.4 Location of Equipment at the MSRE",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "3-description-of-distillation-operation",
+      "end_line": 223,
+      "heading": "3. DESCRIPTION OF DISTILLATION OPERATION",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "ornl-dwg-68-130r1",
+      "end_line": 247,
+      "heading": "Ornl Dwg 68-130R1",
+      "level": 2,
+      "start_line": 224
+    },
+    {
+      "anchor": "4-experimental-results",
+      "end_line": 249,
+      "heading": "4. EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "4-1-summary-of-experimental-data",
+      "end_line": 257,
+      "heading": "4.1 Summary of Experimental Data",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "4-2-material-balance-calculations",
+      "end_line": 393,
+      "heading": "4.2 Material Balance Calculations",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "4-3-results-of-relative-volatility-calculations",
+      "end_line": 437,
+      "heading": "4.3 Results of Relative Volatility Calculations",
+      "level": 1,
+      "start_line": 394
+    },
+    {
+      "anchor": "4-4-possible-explanations-of-calculated-results",
+      "end_line": 443,
+      "heading": "4.4 Possible Explanations of Calculated Results",
+      "level": 1,
+      "start_line": 438
+    },
+    {
+      "anchor": "4-4-1-entrainment-of-droplets-of-still-pot-liquid",
+      "end_line": 453,
+      "heading": "4.4.1 Entrainment of Droplets of Still-Pot Liquid",
+      "level": 1,
+      "start_line": 444
+    },
+    {
+      "anchor": "4-4-2-concentration-polarization",
+      "end_line": 465,
+      "heading": "4.4.2 Concentration Polarization",
+      "level": 1,
+      "start_line": 454
+    },
+    {
+      "anchor": "4-4-3-contamination-of-samples",
+      "end_line": 479,
+      "heading": "4.4.3 Contamination of Samples",
+      "level": 1,
+      "start_line": 466
+    },
+    {
+      "anchor": "5-conclusions",
+      "end_line": 491,
+      "heading": "5. CONCLUSIONS",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "6-acknowledgments",
+      "end_line": 495,
+      "heading": "6. ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 492
+    },
+    {
+      "anchor": "7-references",
+      "end_line": 508,
+      "heading": "7. REFERENCES",
+      "level": 1,
+      "start_line": 496
+    },
+    {
+      "anchor": "8-appendix-analyses-of-samples-from-the-msre-distillation-experiment",
+      "end_line": 516,
+      "heading": "8. Appendix : Analyses Of Samples From The Msre Distillation Experiment",
+      "level": 2,
+      "start_line": 509
+    },
+    {
+      "anchor": "ornl-4577",
+      "end_line": 520,
+      "heading": "Ornl-4577",
+      "level": 2,
+      "start_line": 517
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 629,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 521
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 644,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 630
+    }
+  ],
+  "source_dir": "pdf/ORNL-4577",
+  "tables": [],
+  "title": "ORNL-4577",
+  "topics": [
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

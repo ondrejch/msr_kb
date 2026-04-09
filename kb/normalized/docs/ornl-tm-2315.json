@@ -1,0 +1,488 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "D. N. Fry",
+    "R. C. Kryter",
+    "J. C. Robinson"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2315.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-tm-2315",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 19,
+        "line_hits": [
+          67,
+          89,
+          91,
+          185,
+          194,
+          231,
+          232,
+          233,
+          253,
+          268,
+          270,
+          272,
+          274,
+          278,
+          289,
+          302,
+          308,
+          331,
+          349
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          234,
+          249,
+          253,
+          262,
+          286,
+          308
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          183,
+          191,
+          214,
+          253,
+          272,
+          349
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          185
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          9,
+          455,
+          458,
+          462,
+          463,
+          465,
+          470,
+          476,
+          481
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          1,
+          11,
+          119,
+          132,
+          353,
+          443,
+          444
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          456,
+          483
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 38,
+        "line_hits": [
+          19,
+          31,
+          33,
+          35,
+          89,
+          91,
+          95,
+          99,
+          101,
+          105,
+          111,
+          115,
+          124,
+          126,
+          132,
+          134,
+          148,
+          159,
+          168,
+          191,
+          249,
+          262,
+          264,
+          268,
+          272,
+          289,
+          295,
+          298,
+          304,
+          308,
+          313,
+          331,
+          339,
+          341,
+          343,
+          347,
+          349,
+          353
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 21,
+        "line_hits": [
+          97,
+          101,
+          128,
+          134,
+          148,
+          150,
+          153,
+          175,
+          181,
+          208,
+          214,
+          216,
+          228,
+          238,
+          253,
+          268,
+          286,
+          304,
+          308,
+          331,
+          349
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7f25579fa5c5e718520114c739cb079ff3f431d471c365ddcf7dcc92d8b5ead6",
+  "markdown_path": "pdf/ORNL-TM-2315/ORNL-TM-2315/hybrid_ocr/ORNL-TM-2315.md",
+  "report_number": "ORNL-TM-2315",
+  "report_numbers": [
+    "ORNL-TM-2315"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 39,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 10,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "ornl-tm-2315",
+      "end_line": 12,
+      "heading": "Ornl-Tm-2315",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "copy-no-105",
+      "end_line": 14,
+      "heading": "Copy No. -105",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "date-8-27-68",
+      "end_line": 20,
+      "heading": "Date - 8/27/68",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "fuel-salt-using-neutron-noise-analysis",
+      "end_line": 28,
+      "heading": "Fuel Salt Using Neutron-Noise Analysis",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 36,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 45,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "contents",
+      "end_line": 47,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "1-introduction-4",
+      "end_line": 48,
+      "heading": "1. INTRODUCTION 4",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "2-data-acquisition-and-reduction-5",
+      "end_line": 53,
+      "heading": "2. DATA ACQUISITION AND REDUCTION 5",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "3-theoretical-calculations-and-modeling-8",
+      "end_line": 59,
+      "heading": "3. THEORETICAL CALCULATIONS AND MODELING 8",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "4-measurements-and-results-13",
+      "end_line": 73,
+      "heading": "4. MEASUREMENTS AND RESULTS 13",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "5-conclusions-18",
+      "end_line": 74,
+      "heading": "5. CONCLUSIONS 18",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "6-future-investigations-18",
+      "end_line": 76,
+      "heading": "6. FUTURE INVESTIGATIONS 18",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 86,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 102,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "2-data-acquisition-and-reduction",
+      "end_line": 108,
+      "heading": "2. DATA ACQUISITION AND REDUCTION",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "2-1-data-acquisition",
+      "end_line": 118,
+      "heading": "2.1 Data Acquisition",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "ornl-dwg-68-8415",
+      "end_line": 129,
+      "heading": "Ornl-Dwg 68-8415",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "2-2-data-reduction",
+      "end_line": 137,
+      "heading": "2.2 Data Reduction",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "3-theoretical-calculations-and-modeling",
+      "end_line": 139,
+      "heading": "3. THEORETICAL CALCULATIONS AND MODELING",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "3-1-introduction",
+      "end_line": 162,
+      "heading": "3.1 Introduction",
+      "level": 1,
+      "start_line": 140
+    },
+    {
+      "anchor": "3-2-development-of-the-model",
+      "end_line": 225,
+      "heading": "3.2 Development of the Model",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "3-3-consideration-of-possible-driving-functions",
+      "end_line": 244,
+      "heading": "3.3 Consideration of Possible Driving Functions",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "4-measurements-and-results",
+      "end_line": 246,
+      "heading": "4. MEASUREMENTS AND RESULTS",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "4-1-establishment-of-measurement-reproducibility-and-method-of-spectrum-interpretation",
+      "end_line": 259,
+      "heading": "4.1 Establishment of Measurement Reproducibility and Method of Spectrum Interpretation",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "4-2-results-of-tests-at-7-mw-reactor-power",
+      "end_line": 265,
+      "heading": "4.2 Results of Tests at 7 Mw Reactor Power",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "4-3-results-of-tests-at-5-mw-reactor-power",
+      "end_line": 269,
+      "heading": "4.3 Results of Tests at 5 Mw Reactor Power",
+      "level": 1,
+      "start_line": 266
+    },
+    {
+      "anchor": "4-3-1-neutron-noise-level-vs-pump-bowl-level",
+      "end_line": 275,
+      "heading": "4.3.1 Neutron Noise Level vs Pump Bowl Level",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "4-3-2-neutron-noise-level-vs-cover-gas-pressure",
+      "end_line": 279,
+      "heading": "4.3.2 Neutron Noise Level vs Cover Gas Pressure",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "4-3-3-neutron-noise-level-vs-average-reactor-outlet-temperature",
+      "end_line": 283,
+      "heading": "4.3.3 Neutron Noise Level vs Average Reactor Outlet Temperature",
+      "level": 1,
+      "start_line": 280
+    },
+    {
+      "anchor": "4-3-4-neutron-noise-vs-net-reactivity",
+      "end_line": 305,
+      "heading": "4.3.4 Neutron Noise vs Net Reactivity",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "4-4-dominant-source-of-observed-neutron-noise",
+      "end_line": 336,
+      "heading": "4.4 Dominant Source of Observed Neutron Noise",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "5-conclusions",
+      "end_line": 344,
+      "heading": "5. CONCLUSIONS",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "6-future-investigations",
+      "end_line": 354,
+      "heading": "6. FUTURE INVESTIGATIONS",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 450,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 486,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 451
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2315",
+  "tables": [],
+  "title": "OAK RIDGE NATIONAL LABORATORY",
+  "topics": [
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

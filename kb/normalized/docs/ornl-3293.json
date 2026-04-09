@@ -1,0 +1,678 @@
+{
+  "authors": [
+    "THERMODYNAMIC PROPERTIES OF",
+    "MOLTEN-SALT SOLUTIONS",
+    "Milton Blander",
+    "UNION CARBIDE CORPORATION",
+    "CENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-3293.jsonl",
+  "date_text": "1962",
+  "doc_id": "ornl-3293",
+  "document_type": "report",
+  "entities": {
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          5,
+          19,
+          48,
+          68,
+          1686,
+          2313,
+          2451,
+          2454
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          27,
+          78,
+          2517
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          23,
+          74
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2367
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 163,
+        "line_hits": [
+          134,
+          140,
+          150,
+          158,
+          170,
+          182,
+          188,
+          198,
+          202,
+          204,
+          210,
+          222,
+          276,
+          278,
+          280,
+          290,
+          326,
+          380,
+          408,
+          424,
+          428,
+          432,
+          434,
+          456,
+          492,
+          498,
+          542,
+          550,
+          563,
+          616,
+          627,
+          631,
+          639,
+          647,
+          652,
+          662,
+          678,
+          682,
+          690,
+          692,
+          719,
+          734,
+          784,
+          786,
+          806,
+          842,
+          868,
+          870,
+          882,
+          892
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 30,
+        "line_hits": [
+          540,
+          914,
+          950,
+          1045,
+          1057,
+          1059,
+          1062,
+          1064,
+          1067,
+          1069,
+          1072,
+          1074,
+          1079,
+          1081,
+          1084,
+          1232,
+          1346,
+          1359,
+          1414,
+          1416,
+          1419,
+          1441,
+          1578,
+          1618,
+          1701,
+          1809,
+          1813,
+          2262,
+          2284,
+          2286
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          540,
+          912,
+          1064,
+          1067,
+          1232,
+          1346,
+          1359,
+          1419,
+          1495,
+          1618,
+          1701,
+          1809,
+          1813,
+          1815,
+          1821,
+          1829,
+          1833,
+          2284
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          540,
+          912,
+          914,
+          950,
+          1064,
+          1067,
+          1069,
+          1701,
+          2284
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          540,
+          912,
+          914,
+          950,
+          1346,
+          1352,
+          1359,
+          1419
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2284
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2284
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2284
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2250
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "1e6aab31a729a30bacc8c7734c2946bb340ec7e31244e537f03fd10c565ee77a",
+  "markdown_path": "pdf/ORNL-3293/ORNL-3293/hybrid_ocr/ORNL-3293.md",
+  "report_number": "ORNL-3293",
+  "report_numbers": [
+    "ORNL-3293"
+  ],
+  "report_series": null,
+  "section_count": 60,
+  "sections": [
+    {
+      "anchor": "ornl-3293",
+      "end_line": 10,
+      "heading": "Ornl-3293",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "thermodynamic-properties-of",
+      "end_line": 12,
+      "heading": "Thermodynamic Properties Of",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "molten-salt-solutions",
+      "end_line": 18,
+      "heading": "Molten-Salt Solutions",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 30,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 32,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 34,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 38,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 47,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "ornl-3293",
+      "end_line": 55,
+      "heading": "Ornl-3293",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 57,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "thermodynamic-properties-of-molten-salt-solutions",
+      "end_line": 61,
+      "heading": "THERMODYNAMIC PROPERTIES OF MOLTEN-SALT SOLUTIONS*",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 63,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "oct-12-1962",
+      "end_line": 67,
+      "heading": "Oct 12 1962",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 73,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 77,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 85,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "contents",
+      "end_line": 87,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 95,
+      "heading": "INTRODUCTION 1",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "solutions-with-common-anions-or-common-cations-11",
+      "end_line": 105,
+      "heading": "SOLUTIONS WITH COMMON ANIONS OR COMMON CATIONS 11",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "reciprocal-systems-61",
+      "end_line": 117,
+      "heading": "RECIPROCAL SYSTEMS 61",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "miscellaneous-89",
+      "end_line": 119,
+      "heading": "MISCELLANEOUS 89",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "references-93",
+      "end_line": 123,
+      "heading": "REFERENCES 93",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "thermodynamic-properties-of-molten-salt-solutions",
+      "end_line": 127,
+      "heading": "THERMODYNAMIC PROPERTIES OF MOLTEN-SALT SOLUTIONS",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 129,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 128
+    },
+    {
+      "anchor": "1-1-general",
+      "end_line": 141,
+      "heading": "1.1 General",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "i-2-the-limiting-laws",
+      "end_line": 199,
+      "heading": "I.2 The Limiting Laws",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "i-3-the-temkin-ideal-solution-sup-127-sup",
+      "end_line": 281,
+      "heading": "I.3 The Temkin Ideal Solution<sup>127</sup>",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "ax-bx-by",
+      "end_line": 283,
+      "heading": "Ax-Bx-By",
+      "level": 2,
+      "start_line": 282
+    },
+    {
+      "anchor": "ay-bx-by",
+      "end_line": 285,
+      "heading": "Ay-Bx-By",
+      "level": 2,
+      "start_line": 284
+    },
+    {
+      "anchor": "ax-ay-bx",
+      "end_line": 287,
+      "heading": "Ax-Ay-Bx",
+      "level": 2,
+      "start_line": 286
+    },
+    {
+      "anchor": "ax-ay-by",
+      "end_line": 377,
+      "heading": "Ax-Ay-By",
+      "level": 2,
+      "start_line": 288
+    },
+    {
+      "anchor": "1-4-salts-containing-ions-of-different-charge",
+      "end_line": 429,
+      "heading": "1.4 Salts Containing Ions of Different Charge",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "1-5-standard-states-and-units-of-concentration",
+      "end_line": 473,
+      "heading": "1.5 Standard States and Units of Concentration",
+      "level": 1,
+      "start_line": 430
+    },
+    {
+      "anchor": "solutions-with-common-anions-or-common-cations",
+      "end_line": 475,
+      "heading": "SOLUTIONS WITH COMMON ANIONS OR COMMON CATIONS",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "ii-1-cryoscopic-methods-of-investigation",
+      "end_line": 525,
+      "heading": "II.1 Cryoscopic Methods of Investigation",
+      "level": 1,
+      "start_line": 476
+    },
+    {
+      "anchor": "ii-2-electromotive-force-measurements",
+      "end_line": 628,
+      "heading": "II.2 Electromotive Force Measurements",
+      "level": 1,
+      "start_line": 526
+    },
+    {
+      "anchor": "ii-3-strongly-ionic-salts-containing-monovalent-cations-and-a-common-anion",
+      "end_line": 915,
+      "heading": "II.3 Strongly Ionic Salts Containing Monovalent Cations and a Common Anion",
+      "level": 1,
+      "start_line": 629
+    },
+    {
+      "anchor": "ii-4-mixtures-containing-polarizable-cations-and-a-common-anion",
+      "end_line": 1026,
+      "heading": "II.4 Mixtures Containing Polarizable Cations and a Common Anion",
+      "level": 1,
+      "start_line": 916
+    },
+    {
+      "anchor": "ii-5-binary-mixtures-containing-polyvalent-ions",
+      "end_line": 1399,
+      "heading": "II.5 Binary Mixtures Containing Polyvalent Ions",
+      "level": 1,
+      "start_line": 1027
+    },
+    {
+      "anchor": "ii-6-discussion-of-binary-systems-with-a-common-anion",
+      "end_line": 1466,
+      "heading": "II.6 Discussion of Binary Systems with a Common Anion",
+      "level": 1,
+      "start_line": 1400
+    },
+    {
+      "anchor": "ii-7-other-systems",
+      "end_line": 1585,
+      "heading": "II.7 Other Systems",
+      "level": 1,
+      "start_line": 1467
+    },
+    {
+      "anchor": "reciprocal-systems",
+      "end_line": 1587,
+      "heading": "RECIPROCAL SYSTEMS",
+      "level": 1,
+      "start_line": 1586
+    },
+    {
+      "anchor": "iii-1-general",
+      "end_line": 1631,
+      "heading": "III.1 General",
+      "level": 1,
+      "start_line": 1588
+    },
+    {
+      "anchor": "iii-2-the-random-mixing-nearest-neighbor-approximation-sup-54-sup",
+      "end_line": 1685,
+      "heading": "III.2 The Random Mixing Nearest-Neighbor Approximation<sup>54</sup>",
+      "level": 1,
+      "start_line": 1632
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-31158a",
+      "end_line": 1704,
+      "heading": "Unclassified Ornl-Lr-Dwg 31158A",
+      "level": 2,
+      "start_line": 1686
+    },
+    {
+      "anchor": "iii-3-corrections-for-nonrandom-mixing-the-symmetric-approximation",
+      "end_line": 1784,
+      "heading": "III.3 Corrections for Nonrandom Mixing: The Symmetric Approximation",
+      "level": 1,
+      "start_line": 1705
+    },
+    {
+      "anchor": "iii-4-comparison-of-the-symmetric-approximation-with-the-random-mixing-approximation",
+      "end_line": 1874,
+      "heading": "III.4 Comparison of the Symmetric Approximation with the Random Mixing Approximation",
+      "level": 1,
+      "start_line": 1785
+    },
+    {
+      "anchor": "iii-5-the-asymmetric-approximation",
+      "end_line": 1936,
+      "heading": "III.5 The Asymmetric Approximation",
+      "level": 1,
+      "start_line": 1875
+    },
+    {
+      "anchor": "iii-6-conventional-association-constants",
+      "end_line": 1979,
+      "heading": "III.6 Conventional Association Constants",
+      "level": 1,
+      "start_line": 1937
+    },
+    {
+      "anchor": "k-1",
+      "end_line": 2048,
+      "heading": "K _ {1}",
+      "level": 2,
+      "start_line": 1980
+    },
+    {
+      "anchor": "iii-7-comparison-of-theory-with-experiments-in-dilute-solutions",
+      "end_line": 2104,
+      "heading": "III.7 Comparison of Theory with Experiments in Dilute Solutions",
+      "level": 1,
+      "start_line": 2049
+    },
+    {
+      "anchor": "iii-8-generalized-quasi-lattice-calculations-sup-14-sup",
+      "end_line": 2188,
+      "heading": "III.8 Generalized Quasi-Lattice Calculations<sup>14</sup>",
+      "level": 1,
+      "start_line": 2105
+    },
+    {
+      "anchor": "iii-9-association-constants-in-dilute-solutions",
+      "end_line": 2247,
+      "heading": "III.9 Association Constants in Dilute Solutions",
+      "level": 1,
+      "start_line": 2189
+    },
+    {
+      "anchor": "miscellaneous",
+      "end_line": 2305,
+      "heading": "MISCELLANEOUS",
+      "level": 1,
+      "start_line": 2248
+    },
+    {
+      "anchor": "references",
+      "end_line": 2444,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 2306
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2513,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2445
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2518,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2514
+    }
+  ],
+  "source_dir": "pdf/ORNL-3293",
+  "tables": [],
+  "title": "![](images/e0a2a11a0d4c64b2e295e296219457d344f3890b9768feee0867bcfc7e3c6396.jpg)",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

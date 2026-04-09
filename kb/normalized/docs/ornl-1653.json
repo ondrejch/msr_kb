@@ -1,0 +1,493 @@
+{
+  "authors": [
+    "Engineering",
+    "AND ALKALINE EARTH HYDROXIDES",
+    "AT HIGH TEMPERATURES",
+    "W. D. Powers",
+    "G.C.Balock",
+    "OPERATED BY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1653.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-1653",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          230,
+          241,
+          242,
+          323
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          542,
+          585
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          548
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "organization": [
+      {
+        "count": 14,
+        "line_hits": [
+          1,
+          17,
+          44,
+          66,
+          301,
+          305,
+          310,
+          517,
+          521,
+          522,
+          523,
+          524,
+          525,
+          526
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          48
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 19,
+        "line_hits": [
+          299,
+          301,
+          329,
+          341,
+          345,
+          367,
+          372,
+          378,
+          388,
+          401,
+          411,
+          425,
+          427,
+          443,
+          453,
+          477,
+          493,
+          507,
+          509
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "254f51532ea24e6f1430207968b217b6db8c6d2ffa647e0ac9967baa00b99775",
+  "markdown_path": "pdf/ORNL-1653/ORNL-1653/hybrid_ocr/ORNL-1653.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 53,
+  "sections": [
+    {
+      "anchor": "ornl-1653",
+      "end_line": 4,
+      "heading": "Ornl 1653",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "enthalpies-and-specific-heats-of-alkali",
+      "end_line": 6,
+      "heading": "Enthalpies And Specific Heats Of Alkali",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "and-alkaline-earth-hydroxides",
+      "end_line": 8,
+      "heading": "And Alkaline Earth Hydroxides",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "at-high-temperatures",
+      "end_line": 16,
+      "heading": "At High Temperatures",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 18,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 20,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 22,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "a-division-of-union-cambid-and-cann-chn-compohation",
+      "end_line": 26,
+      "heading": "A Division Of Union Cambid And Cann Chn Compohation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "post-office-box",
+      "end_line": 28,
+      "heading": "Post Office Box",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "oak-ridge-tennesce",
+      "end_line": 41,
+      "heading": "Oak Ridge, Tennesce",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "date-issued-7-1084",
+      "end_line": 43,
+      "heading": "Date Issued 7 1084",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 46,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 51,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 219,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 244,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 220
+    },
+    {
+      "anchor": "distribution-page-to-be-removed-if-report-is-given-public-distribution",
+      "end_line": 246,
+      "heading": "Distribution Page To Be Removed If Report Is Given Public Distribution",
+      "level": 2,
+      "start_line": 245
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 248,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "page",
+      "end_line": 250,
+      "heading": "PAGE",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "summary-5",
+      "end_line": 251,
+      "heading": "Summary. 5",
+      "level": 2,
+      "start_line": 251
+    },
+    {
+      "anchor": "introduction-5",
+      "end_line": 252,
+      "heading": "Introduction. 5",
+      "level": 2,
+      "start_line": 252
+    },
+    {
+      "anchor": "aluminum-oxide-determinations-2",
+      "end_line": 253,
+      "heading": "Aluminum Oxide Determinations. 2",
+      "level": 2,
+      "start_line": 253
+    },
+    {
+      "anchor": "chemical-purity-of-the-hydroxides-2",
+      "end_line": 254,
+      "heading": "Chemical Purity Of The Hydroxides. 2",
+      "level": 2,
+      "start_line": 254
+    },
+    {
+      "anchor": "enthalpy-and-heat-capacity-8",
+      "end_line": 263,
+      "heading": "Enthalpy And Heat Capacity. 8",
+      "level": 2,
+      "start_line": 255
+    },
+    {
+      "anchor": "discussion-of-results-21",
+      "end_line": 264,
+      "heading": "Discussion Of Results. 21",
+      "level": 2,
+      "start_line": 264
+    },
+    {
+      "anchor": "references-23",
+      "end_line": 275,
+      "heading": "References. 23",
+      "level": 2,
+      "start_line": 265
+    },
+    {
+      "anchor": "enthalptes-and-specific-heats-of-alkali-and-alkaline-earth-hydroxides-at-high-temperatures",
+      "end_line": 277,
+      "heading": "ENTHALPTES AND SPECIFIC HEATS OF ALKALI AND ALKALINE EARTH HYDROXIDES AT HIGH TEMPERATURES",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "summary",
+      "end_line": 281,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 278
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 302,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 282
+    },
+    {
+      "anchor": "aluminum-oxide-determinations",
+      "end_line": 306,
+      "heading": "ALUMINUM OXIDE DETERMINATIONS",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "table-i",
+      "end_line": 307,
+      "heading": "Table I",
+      "level": 2,
+      "start_line": 307
+    },
+    {
+      "anchor": "enthalpy-and-heat-capacity-of-aluminum-oxide",
+      "end_line": 311,
+      "heading": "Enthalpy And Heat Capacity Of Aluminum Oxide",
+      "level": 2,
+      "start_line": 308
+    },
+    {
+      "anchor": "chemical-purity-of-the-hydroxides",
+      "end_line": 319,
+      "heading": "CHEMICAL PURITY OF THE HYDROXIDES",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 320,
+      "heading": "Table Ii",
+      "level": 2,
+      "start_line": 320
+    },
+    {
+      "anchor": "analysis-of-materials",
+      "end_line": 326,
+      "heading": "Analysis Of Materials",
+      "level": 2,
+      "start_line": 321
+    },
+    {
+      "anchor": "sodium-hydroxide",
+      "end_line": 342,
+      "heading": "SODIUM HYDROXIDE",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "potassium-hydroxide",
+      "end_line": 364,
+      "heading": "POTASSIUM HYDROXIDE",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "lithium-hydroxide",
+      "end_line": 385,
+      "heading": "LITHIUM HYDROXIDE",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "eutectic-of-lithium-and-sodium-hydroxides",
+      "end_line": 398,
+      "heading": "EUTECTIC OF LITHIUM AND SODIUM HYDROXIDES",
+      "level": 1,
+      "start_line": 386
+    },
+    {
+      "anchor": "strontium-hydroxide",
+      "end_line": 422,
+      "heading": "STRONTIUM HYDROXIDE",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "barium-hydroxide",
+      "end_line": 450,
+      "heading": "BARIUM HYDROXIDE",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "discussion-of-results",
+      "end_line": 481,
+      "heading": "DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 451
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 497,
+      "heading": "Table Iii",
+      "level": 2,
+      "start_line": 482
+    },
+    {
+      "anchor": "table-iv",
+      "end_line": 510,
+      "heading": "Table Iv",
+      "level": 2,
+      "start_line": 498
+    },
+    {
+      "anchor": "table-v",
+      "end_line": 514,
+      "heading": "Table V",
+      "level": 2,
+      "start_line": 511
+    },
+    {
+      "anchor": "references",
+      "end_line": 534,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 515
+    },
+    {
+      "anchor": "sodium-hydroxide-individual-enthalpies",
+      "end_line": 553,
+      "heading": "Sodium Hydroxide Individual Enthalpies",
+      "level": 2,
+      "start_line": 535
+    },
+    {
+      "anchor": "potassium-hydroxide",
+      "end_line": 554,
+      "heading": "Potassium Hydroxide",
+      "level": 2,
+      "start_line": 554
+    },
+    {
+      "anchor": "individual-enthalpies",
+      "end_line": 568,
+      "heading": "Individual Enthalpies",
+      "level": 2,
+      "start_line": 555
+    },
+    {
+      "anchor": "lithium-hydroxide-individual-enthalpies",
+      "end_line": 582,
+      "heading": "Lithium Hydroxide Individual Enthalpies",
+      "level": 2,
+      "start_line": 569
+    },
+    {
+      "anchor": "lithium-sodium-hydroxide-eutectic-individual-enthalpies",
+      "end_line": 596,
+      "heading": "Lithium-Sodium Hydroxide Eutectic Individual Enthalpies",
+      "level": 2,
+      "start_line": 583
+    },
+    {
+      "anchor": "strontium-hydroxide",
+      "end_line": 597,
+      "heading": "Strontium Hydroxide",
+      "level": 2,
+      "start_line": 597
+    },
+    {
+      "anchor": "individual-enthalpies",
+      "end_line": 618,
+      "heading": "Individual Enthalpies",
+      "level": 2,
+      "start_line": 598
+    },
+    {
+      "anchor": "barium-hydroxide-individual-enthalpies",
+      "end_line": 625,
+      "heading": "Barium Hydroxide Individual Enthalpies",
+      "level": 2,
+      "start_line": 619
+    }
+  ],
+  "source_dir": "pdf/ORNL-1653",
+  "tables": [],
+  "title": "ORNL 1653",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox",
+    "materials-and-corrosion",
+    "instrumentation-and-controls"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

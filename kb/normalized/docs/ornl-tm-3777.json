@@ -1,0 +1,684 @@
+{
+  "authors": [
+    "HEAT TRANSFER SALT FOR",
+    "HIGH TEMPERATURE STEAM GENERATION",
+    "E. G. Bohlmann",
+    "MASTER"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3777.jsonl",
+  "date_text": "1972",
+  "doc_id": "ornl-tm-3777",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 9,
+        "line_hits": [
+          111,
+          133,
+          533,
+          539,
+          541,
+          545,
+          549,
+          551,
+          553
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          109,
+          278,
+          280,
+          288,
+          431
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          194,
+          237,
+          288,
+          292,
+          305
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          109,
+          141
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          141
+        ],
+        "name": "Incoloy 800"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          288
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          288
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          591
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 14,
+        "line_hits": [
+          101,
+          107,
+          111,
+          113,
+          135,
+          138,
+          139,
+          141,
+          143,
+          196,
+          237,
+          247,
+          249,
+          278
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          101,
+          111,
+          119,
+          127,
+          135
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          133
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          133
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          192
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          17,
+          19,
+          33,
+          45,
+          746,
+          766,
+          906,
+          908
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          15,
+          35,
+          346,
+          358,
+          374,
+          571
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          17,
+          41
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 27,
+        "line_hits": [
+          109,
+          127,
+          131,
+          161,
+          169,
+          179,
+          194,
+          233,
+          247,
+          251,
+          256,
+          270,
+          274,
+          278,
+          280,
+          297,
+          299,
+          311,
+          323,
+          352,
+          384,
+          411,
+          413,
+          425,
+          427,
+          453,
+          469
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          107,
+          111,
+          119,
+          138,
+          143,
+          301,
+          309,
+          329,
+          334,
+          335,
+          571
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          143
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          539
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          135,
+          139,
+          331,
+          555
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          138,
+          139,
+          331
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          133,
+          138
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          331
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          331
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          555
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "014a92d09b8fc83e7361d89d501f75228ae44bf641d6c8f64f7ca2307c1f0905",
+  "markdown_path": "pdf/ORNL-TM-3777/ORNL-TM-3777/hybrid_ocr/ORNL-TM-3777.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 52,
+  "sections": [
+    {
+      "anchor": "heat-transfer-salt-for",
+      "end_line": 4,
+      "heading": "HEAT TRANSFER SALT FOR",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "high-temperature-steam-generation",
+      "end_line": 8,
+      "heading": "HIGH TEMPERATURE STEAM GENERATION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "master",
+      "end_line": 10,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "distribution-of-this-document-is-uninform",
+      "end_line": 14,
+      "heading": "Distribution Of This Document Is Uninform",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 16,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 24,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "heat-transfer-salt-for-high-temperature-steam-generation",
+      "end_line": 28,
+      "heading": "Heat Transfer Salt For High Temperature Steam Generation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "december-1972",
+      "end_line": 30,
+      "heading": "December 1972",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "notice",
+      "end_line": 34,
+      "heading": "-NOTICE",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 40,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 44,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 50,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "contents",
+      "end_line": 54,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "abstract-and-summary-1",
+      "end_line": 56,
+      "heading": "Abstract And Summary. 1",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "introduction-3",
+      "end_line": 58,
+      "heading": "Introduction. 3",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "composition-and-stability-4",
+      "end_line": 60,
+      "heading": "Composition And Stability 4",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "corrosion-16",
+      "end_line": 62,
+      "heading": "Corrosion 16",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "physical-properties-23",
+      "end_line": 82,
+      "heading": "Physical Properties 23",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "safety-precautions-31",
+      "end_line": 88,
+      "heading": "Safety Precautions. 31",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "appendix-a-35",
+      "end_line": 90,
+      "heading": "Appendix A. 35",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "appendix-b-37",
+      "end_line": 92,
+      "heading": "Appendix B. 37",
+      "level": 2,
+      "start_line": 91
+    },
+    {
+      "anchor": "references-39",
+      "end_line": 98,
+      "heading": "References. 39",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "abstract-and-summary",
+      "end_line": 116,
+      "heading": "ABSTRACT AND SUMMARY",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 144,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 117
+    },
+    {
+      "anchor": "composition-and-stability",
+      "end_line": 182,
+      "heading": "COMPOSITION AND STABILITY",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "48-kno3",
+      "end_line": 271,
+      "heading": "48% Kno3",
+      "level": 2,
+      "start_line": 183
+    },
+    {
+      "anchor": "corrosion",
+      "end_line": 285,
+      "heading": "CORROSION",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "table-6",
+      "end_line": 306,
+      "heading": "Table 6",
+      "level": 2,
+      "start_line": 286
+    },
+    {
+      "anchor": "physical-properties",
+      "end_line": 316,
+      "heading": "PHYSICAL PROPERTIES",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "freezing-point",
+      "end_line": 320,
+      "heading": "Freezing Point",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 324,
+      "heading": "Viscosity",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "electrical-resistivity",
+      "end_line": 339,
+      "heading": "Electrical Resistivity",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "density",
+      "end_line": 343,
+      "heading": "Density",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 349,
+      "heading": "Thermal Conductivity",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "heat-transfer-coefficient",
+      "end_line": 371,
+      "heading": "Heat Transfer Coefficient",
+      "level": 1,
+      "start_line": 350
+    },
+    {
+      "anchor": "thermal-expansion",
+      "end_line": 375,
+      "heading": "Thermal Expansion",
+      "level": 1,
+      "start_line": 372
+    },
+    {
+      "anchor": "specific-and-latent-heat",
+      "end_line": 379,
+      "heading": "Specific and Latent Heat",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "efficiency",
+      "end_line": 388,
+      "heading": "Efficiency",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "tablei",
+      "end_line": 390,
+      "heading": "TABLEI",
+      "level": 1,
+      "start_line": 389
+    },
+    {
+      "anchor": "comparison-of-hitec-and-air-as-heat-transfer-fluids",
+      "end_line": 402,
+      "heading": "COMPARISON OF \"HITEC\" AND AIR AS HEAT TRANSFER FLUIDS",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "hitec",
+      "end_line": 406,
+      "heading": "\"HITEC\"",
+      "level": 1,
+      "start_line": 403
+    },
+    {
+      "anchor": "safety-precautions",
+      "end_line": 408,
+      "heading": "SAFETY PRECAUTIONS",
+      "level": 1,
+      "start_line": 407
+    },
+    {
+      "anchor": "principal-hazards",
+      "end_line": 414,
+      "heading": "Principal Hazards",
+      "level": 1,
+      "start_line": 409
+    },
+    {
+      "anchor": "combustion-hazards",
+      "end_line": 440,
+      "heading": "Combustion Hazards",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 524,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "s-cantor",
+      "end_line": 530,
+      "heading": "S. Cantor",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 540,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "no-graphite-introduced",
+      "end_line": 544,
+      "heading": "No graphite introduced",
+      "level": 1,
+      "start_line": 541
+    },
+    {
+      "anchor": "graphite-in-the-melt",
+      "end_line": 564,
+      "heading": "Graphite in the Melt",
+      "level": 1,
+      "start_line": 545
+    },
+    {
+      "anchor": "references",
+      "end_line": 595,
+      "heading": "References",
+      "level": 1,
+      "start_line": 565
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 895,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 596
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 908,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 896
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3777",
+  "tables": [],
+  "title": "![](images/4e80ebbc34b88b5e66a9fbae9c7feebdc76c592fd4d469e4de02ed435b41e679.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "graphite-and-moderator-behavior",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,1162 @@
+{
+  "authors": [
+    "Academy",
+    "Sciences",
+    "National Research Council",
+    "NUCLEAR SCIENCE SERIES",
+    "The Radiochemistry of Beryllium",
+    "PLEASE DO NOT"
+  ],
+  "claims_path": "kb/normalized/claims/nas-ns-3013.jsonl",
+  "date_text": "May 1960",
+  "doc_id": "nas-ns-3013",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 161,
+        "line_hits": [
+          13,
+          167,
+          201,
+          203,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          213,
+          214,
+          216,
+          218,
+          222,
+          224,
+          225,
+          228,
+          232,
+          238,
+          240,
+          244,
+          246,
+          248,
+          250,
+          252,
+          254,
+          256,
+          258,
+          260,
+          264,
+          268,
+          270,
+          274,
+          276,
+          278,
+          280,
+          282,
+          284,
+          288,
+          294,
+          296,
+          298,
+          300,
+          302,
+          304,
+          306,
+          308,
+          311,
+          313
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          270,
+          288
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          675
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          939
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          449
+        ],
+        "name": "titanium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 3,
+        "line_hits": [
+          89,
+          191,
+          1181
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          75,
+          135,
+          1181
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          63,
+          143
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          127,
+          1082
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          97
+        ],
+        "name": "US Air Force"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 43,
+        "line_hits": [
+          232,
+          234,
+          244,
+          246,
+          252,
+          256,
+          268,
+          272,
+          276,
+          278,
+          280,
+          298,
+          300,
+          302,
+          308,
+          313,
+          327,
+          333,
+          386,
+          392,
+          396,
+          424,
+          426,
+          473,
+          485,
+          487,
+          505,
+          511,
+          531,
+          535,
+          541,
+          573,
+          659,
+          676,
+          728,
+          744,
+          803,
+          902,
+          908,
+          1070,
+          1077,
+          1078,
+          1154
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          491
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3410e654caf7fb35ebd48bebc6019ad82acd19aca1e6bd969fcbf753177782d8",
+  "markdown_path": "pdf/NAS-NS-3013/NAS-NS-3013/hybrid_ocr/NAS-NS-3013.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "nas-ns-series",
+  "section_count": 133,
+  "sections": [
+    {
+      "anchor": "nuclear-science-series",
+      "end_line": 12,
+      "heading": "Nuclear Science Series",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "the-radiochemistry-of-beryllium",
+      "end_line": 14,
+      "heading": "The Radiochemistry of Beryllium",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "please-do-not",
+      "end_line": 16,
+      "heading": "Please Do Not",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "from-library",
+      "end_line": 18,
+      "heading": "From Library",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "u-s",
+      "end_line": 26,
+      "heading": "U.S.",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "committee-on-nuclear-science",
+      "end_line": 40,
+      "heading": "COMMITTEE ON NUCLEAR SCIENCE",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "h-j-curtis",
+      "end_line": 44,
+      "heading": "H.J.Curtis",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "samuel-epstein",
+      "end_line": 48,
+      "heading": "Samuel Epstein",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "herbert-goldstein",
+      "end_line": 52,
+      "heading": "Herbert Goldstein",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "h-j-gomberg",
+      "end_line": 56,
+      "heading": "H.J.Gomberg",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "e-d-klema",
+      "end_line": 60,
+      "heading": "E.D.Klema",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "robert-l-platzman",
+      "end_line": 64,
+      "heading": "Robert L. Platzman",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "g-g-manov",
+      "end_line": 68,
+      "heading": "G.G.Manov",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "w-wayne-meinke",
+      "end_line": 72,
+      "heading": "W. Wayne Meinke",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "a-h-snell",
+      "end_line": 76,
+      "heading": "A. H. Snell",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "e-a-uehling",
+      "end_line": 80,
+      "heading": "E.A. Uehling",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "d-m-van-pattern",
+      "end_line": 84,
+      "heading": "D. M. Van Pattern",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "liaison-members",
+      "end_line": 86,
+      "heading": "LIAISON MEMBERS",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "paul-c-aebersold",
+      "end_line": 94,
+      "heading": "Paul C. Aebersold",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "w-d-urry",
+      "end_line": 98,
+      "heading": "W.D. Urry",
+      "level": 2,
+      "start_line": 95
+    },
+    {
+      "anchor": "william-e-wright",
+      "end_line": 102,
+      "heading": "William E. Wright",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "subcommittee-on-radiochemistry",
+      "end_line": 108,
+      "heading": "SUBCOMMITTEE ON RADIOCHEMISTRY",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "gregory-r-choppin",
+      "end_line": 112,
+      "heading": "Gregory R. Choppin",
+      "level": 2,
+      "start_line": 109
+    },
+    {
+      "anchor": "george-a-cowan",
+      "end_line": 116,
+      "heading": "George A. Cowan",
+      "level": 2,
+      "start_line": 113
+    },
+    {
+      "anchor": "arthur-w-fairhall",
+      "end_line": 120,
+      "heading": "Arthur W. Fairhall",
+      "level": 2,
+      "start_line": 117
+    },
+    {
+      "anchor": "jerome-hudis",
+      "end_line": 124,
+      "heading": "Jerome Hudis",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "earl-hyde",
+      "end_line": 128,
+      "heading": "Earl Hyde",
+      "level": 2,
+      "start_line": 125
+    },
+    {
+      "anchor": "harold-kirby",
+      "end_line": 132,
+      "heading": "Harold Kirby",
+      "level": 2,
+      "start_line": 129
+    },
+    {
+      "anchor": "georgeleddicotte",
+      "end_line": 136,
+      "heading": "Georgeleddicotte",
+      "level": 2,
+      "start_line": 133
+    },
+    {
+      "anchor": "julian-nielsen",
+      "end_line": 140,
+      "heading": "Julian Nielsen",
+      "level": 2,
+      "start_line": 137
+    },
+    {
+      "anchor": "ellis-p-steinberg",
+      "end_line": 144,
+      "heading": "Ellis P. Steinberg",
+      "level": 2,
+      "start_line": 141
+    },
+    {
+      "anchor": "peter-c-stevenson",
+      "end_line": 148,
+      "heading": "Peter C. Stevenson",
+      "level": 2,
+      "start_line": 145
+    },
+    {
+      "anchor": "leo-yaffe",
+      "end_line": 152,
+      "heading": "Leo Yaffe",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "consultants",
+      "end_line": 154,
+      "heading": "CONSULTANTS",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "nathan-ballou",
+      "end_line": 162,
+      "heading": "Nathan Ballou",
+      "level": 2,
+      "start_line": 155
+    },
+    {
+      "anchor": "william-marlow",
+      "end_line": 166,
+      "heading": "William Marlow",
+      "level": 2,
+      "start_line": 163
+    },
+    {
+      "anchor": "the-radiochemistry-of-beryllium",
+      "end_line": 182,
+      "heading": "The Radiochemistry of Beryllium",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 198,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "contents",
+      "end_line": 200,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "i-general-reviews-of-the-inorganic-and-analytical-chemistry-of-beryllium-1",
+      "end_line": 201,
+      "heading": "I. GENERAL REVIEWS OF THE INORGANIC AND ANALYTICAL CHEMISTRY OF BERYLLIUM 1",
+      "level": 2,
+      "start_line": 201
+    },
+    {
+      "anchor": "ii-isotopesofberyllium-2",
+      "end_line": 202,
+      "heading": "Ii.Isotopesofberyllium 2",
+      "level": 2,
+      "start_line": 202
+    },
+    {
+      "anchor": "iii-review-of-beryllium-chemistry-of-interest-to-radiochemists-3",
+      "end_line": 212,
+      "heading": "III. REVIEW OF BERYLLIUM CHEMISTRY OF INTEREST TO RADIOCHEMISTS 3",
+      "level": 2,
+      "start_line": 203
+    },
+    {
+      "anchor": "iv-procedures-for-dissolving-samples-containing-compounds-of-beryllium-21",
+      "end_line": 213,
+      "heading": "IV. PROCEDURES FOR DISSOLVING SAMPLES CONTAINING COMPOUNDS OF BERYLLIUM 21",
+      "level": 2,
+      "start_line": 213
+    },
+    {
+      "anchor": "v-counting-techniques-for-use-with-isotopes-of-beryllium-22",
+      "end_line": 215,
+      "heading": "V. COUNTING TECHNIQUES FOR USE WITH ISOTOPES OF BERYLLIUM 22",
+      "level": 2,
+      "start_line": 214
+    },
+    {
+      "anchor": "vi-collection-of-detailed-radiochemical-procedures-for-beryllium-28",
+      "end_line": 217,
+      "heading": "VI. COLLECTION OF DETAILED RADIOCHEMICAL PROCEDURES FOR BERYLLIUM 28",
+      "level": 2,
+      "start_line": 216
+    },
+    {
+      "anchor": "the-radiochemistry-of-beryllium",
+      "end_line": 221,
+      "heading": "The Radiochemistry of Beryllium*",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "i-general-reviews-of-the-inorganic-and-analytical-chemistry-of-beryllium",
+      "end_line": 239,
+      "heading": "I. GENERAL REVIEWS OF THE INORGANIC AND ANALYTICAL CHEMISTRY OF BERYLLIUM",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "iii-review-of-beryllium-chemistry-of-interest-to-radiochemists",
+      "end_line": 241,
+      "heading": "III. REVIEW OF BERYLLIUM CHEMISTRY OF INTEREST TO RADIOCHEMISTS",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "1-general-considerations",
+      "end_line": 253,
+      "heading": "1. General Considerations",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "2-complex-ions-of-beryllium",
+      "end_line": 273,
+      "heading": "2. Complex Ions of Beryllium",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "3-chelate-complexes-of-beryllium",
+      "end_line": 305,
+      "heading": "3. Chelate Complexes of Beryllium",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "4-soluble-compounds-of-beryllium",
+      "end_line": 320,
+      "heading": "4. Soluble Compounds of Beryllium",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "5-insoluble-compounds-of-beryllium",
+      "end_line": 334,
+      "heading": "5. Insoluble Compounds of Beryllium",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "6-solvent-extraction-of-beryllium-compounds",
+      "end_line": 340,
+      "heading": "6. Solvent Extraction of Beryllium Compounds",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "acetylacetone",
+      "end_line": 357,
+      "heading": "Acetylacetone:",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "alpha-thenoyltrifluoroacetetone",
+      "end_line": 375,
+      "heading": "$\\alpha$ -Thenoyltrifluoroacetetone:",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "acetic-acid",
+      "end_line": 383,
+      "heading": "Acetic acid.",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "7-ion-exchange-behavior-of-beryllium",
+      "end_line": 387,
+      "heading": "7. Ion Exchange Behavior of Beryllium",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "cation-exchange-resins",
+      "end_line": 438,
+      "heading": "Cation Exchange Resins:",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "phosphoric-acid-a-0-05mh-hr",
+      "end_line": 470,
+      "heading": "+Phosphoric Acid (A-0.05Mh-Hr",
+      "level": 2,
+      "start_line": 439
+    },
+    {
+      "anchor": "anion-exchange-resins",
+      "end_line": 482,
+      "heading": "Anion Exchange Resins:",
+      "level": 1,
+      "start_line": 471
+    },
+    {
+      "anchor": "iv-procedures-for-dissolving-samples-containing-compounds-of-beryllium",
+      "end_line": 492,
+      "heading": "IV. PROCEDURES FOR DISSOLVING SAMPLES CONTAINING COMPOUNDS OF BERYLLIUM",
+      "level": 1,
+      "start_line": 483
+    },
+    {
+      "anchor": "v-counting-techniques-for-use-with-isotopes-of-beryllium",
+      "end_line": 494,
+      "heading": "V. COUNTING TECHNIQUES FOR USE WITH ISOTOPES OF BERYLLIUM",
+      "level": 1,
+      "start_line": 493
+    },
+    {
+      "anchor": "counting-of-be",
+      "end_line": 526,
+      "heading": "Counting of Be",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "counting-of-be-10",
+      "end_line": 554,
+      "heading": "Counting of Be 10",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "vi-collection-of-detailed-radiochemical-procedures-for-beryllium",
+      "end_line": 556,
+      "heading": "VI. COLLECTION OF DETAILED RADIOCHEMICAL PROCEDURES FOR BERYLLIUM",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "procedure-1",
+      "end_line": 562,
+      "heading": "Procedure 1",
+      "level": 2,
+      "start_line": 557
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 574,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 563
+    },
+    {
+      "anchor": "step-8",
+      "end_line": 578,
+      "heading": "Step 8.",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "step-9",
+      "end_line": 582,
+      "heading": "Step 9.",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "step-10",
+      "end_line": 586,
+      "heading": "Step 10.",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "step-11",
+      "end_line": 590,
+      "heading": "Step 11.",
+      "level": 1,
+      "start_line": 587
+    },
+    {
+      "anchor": "step-12",
+      "end_line": 594,
+      "heading": "Step 12.",
+      "level": 1,
+      "start_line": 591
+    },
+    {
+      "anchor": "step-13",
+      "end_line": 598,
+      "heading": "Step 13.",
+      "level": 1,
+      "start_line": 595
+    },
+    {
+      "anchor": "step-14",
+      "end_line": 626,
+      "heading": "Step 14.",
+      "level": 1,
+      "start_line": 599
+    },
+    {
+      "anchor": "procedure-1-continued",
+      "end_line": 630,
+      "heading": "PROCEDURE 1 (CONTINUED)",
+      "level": 1,
+      "start_line": 627
+    },
+    {
+      "anchor": "step-2",
+      "end_line": 634,
+      "heading": "Step 2.",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "step-3",
+      "end_line": 638,
+      "heading": "Step 3.",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "step-4",
+      "end_line": 642,
+      "heading": "Step 4.",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "step-5",
+      "end_line": 646,
+      "heading": "Step 5.",
+      "level": 1,
+      "start_line": 643
+    },
+    {
+      "anchor": "step-6",
+      "end_line": 650,
+      "heading": "Step 6.",
+      "level": 1,
+      "start_line": 647
+    },
+    {
+      "anchor": "step-7",
+      "end_line": 654,
+      "heading": "Step 7.",
+      "level": 1,
+      "start_line": 651
+    },
+    {
+      "anchor": "notes",
+      "end_line": 663,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 655
+    },
+    {
+      "anchor": "procedure-2",
+      "end_line": 678,
+      "heading": "PROCEDURE 2",
+      "level": 1,
+      "start_line": 664
+    },
+    {
+      "anchor": "notes",
+      "end_line": 683,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 679
+    },
+    {
+      "anchor": "procedure-3",
+      "end_line": 691,
+      "heading": "PROCEDURE 3",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 705,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 692
+    },
+    {
+      "anchor": "procedure-3-continued",
+      "end_line": 723,
+      "heading": "PROCEDURE 3 (CONTINUED)",
+      "level": 1,
+      "start_line": 706
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 737,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 724
+    },
+    {
+      "anchor": "notes",
+      "end_line": 741,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "procedure-4-continued",
+      "end_line": 747,
+      "heading": "PROCEDURE 4 (CONTINUED)",
+      "level": 1,
+      "start_line": 742
+    },
+    {
+      "anchor": "procedure-5",
+      "end_line": 751,
+      "heading": "PROCEDURE 5",
+      "level": 1,
+      "start_line": 748
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 773,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 752
+    },
+    {
+      "anchor": "notes",
+      "end_line": 782,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 774
+    },
+    {
+      "anchor": "procedure-6",
+      "end_line": 787,
+      "heading": "PROCEDURE 6",
+      "level": 1,
+      "start_line": 783
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 798,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 788
+    },
+    {
+      "anchor": "notes",
+      "end_line": 805,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 799
+    },
+    {
+      "anchor": "procedure-7",
+      "end_line": 815,
+      "heading": "PROCEDURE 7",
+      "level": 1,
+      "start_line": 806
+    },
+    {
+      "anchor": "procedure-7-continued",
+      "end_line": 826,
+      "heading": "PROCEDURE 7 (CONTINUED)",
+      "level": 1,
+      "start_line": 816
+    },
+    {
+      "anchor": "procedure-8",
+      "end_line": 834,
+      "heading": "PROCEDURE 8",
+      "level": 1,
+      "start_line": 827
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 861,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 835
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 871,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 862
+    },
+    {
+      "anchor": "procedure-9-continued",
+      "end_line": 887,
+      "heading": "PROCEDURE 9 (CONTINUED)",
+      "level": 1,
+      "start_line": 872
+    },
+    {
+      "anchor": "notes",
+      "end_line": 893,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 888
+    },
+    {
+      "anchor": "procedure-10",
+      "end_line": 903,
+      "heading": "PROCEDURE 10",
+      "level": 1,
+      "start_line": 894
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 913,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 904
+    },
+    {
+      "anchor": "procedure-10-continued",
+      "end_line": 925,
+      "heading": "PROCEDURE 10 (CONTINUED)",
+      "level": 1,
+      "start_line": 914
+    },
+    {
+      "anchor": "notes",
+      "end_line": 936,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 926
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 940,
+      "heading": "1. Introduction",
+      "level": 1,
+      "start_line": 937
+    },
+    {
+      "anchor": "2-reagents",
+      "end_line": 956,
+      "heading": "2. Reagents",
+      "level": 1,
+      "start_line": 941
+    },
+    {
+      "anchor": "hc1-6-m",
+      "end_line": 962,
+      "heading": "Hc1: 6 M",
+      "level": 2,
+      "start_line": 957
+    },
+    {
+      "anchor": "procedure-11-continued",
+      "end_line": 976,
+      "heading": "PROCEDURE 11 (CONTINUED)",
+      "level": 1,
+      "start_line": 963
+    },
+    {
+      "anchor": "3-equipment",
+      "end_line": 1026,
+      "heading": "3. Equipment",
+      "level": 1,
+      "start_line": 977
+    },
+    {
+      "anchor": "procedure-11-continued",
+      "end_line": 1028,
+      "heading": "PROCEDURE 11 (CONTINUED)",
+      "level": 1,
+      "start_line": 1027
+    },
+    {
+      "anchor": "4-preparation-of-standard-beryllium-carrier",
+      "end_line": 1032,
+      "heading": "4. Preparation of Standard Beryllium Carrier",
+      "level": 1,
+      "start_line": 1029
+    },
+    {
+      "anchor": "5-procedure",
+      "end_line": 1042,
+      "heading": "5. Procedure",
+      "level": 1,
+      "start_line": 1033
+    },
+    {
+      "anchor": "procedure-11-continued",
+      "end_line": 1066,
+      "heading": "PROCEDURE 11 (CONTINUED)",
+      "level": 1,
+      "start_line": 1043
+    },
+    {
+      "anchor": "notes",
+      "end_line": 1073,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 1067
+    },
+    {
+      "anchor": "addendum-to-beryllium-procedure",
+      "end_line": 1103,
+      "heading": "Addendum to Beryllium Procedure",
+      "level": 1,
+      "start_line": 1074
+    },
+    {
+      "anchor": "step-8",
+      "end_line": 1107,
+      "heading": "Step 8.",
+      "level": 1,
+      "start_line": 1104
+    },
+    {
+      "anchor": "step-9",
+      "end_line": 1111,
+      "heading": "Step 9.",
+      "level": 1,
+      "start_line": 1108
+    },
+    {
+      "anchor": "step-10",
+      "end_line": 1115,
+      "heading": "Step 10.",
+      "level": 1,
+      "start_line": 1112
+    },
+    {
+      "anchor": "step-11",
+      "end_line": 1119,
+      "heading": "Step 11.",
+      "level": 1,
+      "start_line": 1116
+    },
+    {
+      "anchor": "step-12",
+      "end_line": 1123,
+      "heading": "Step 12.",
+      "level": 1,
+      "start_line": 1120
+    },
+    {
+      "anchor": "step-13",
+      "end_line": 1127,
+      "heading": "Step 13.",
+      "level": 1,
+      "start_line": 1124
+    },
+    {
+      "anchor": "step-14",
+      "end_line": 1131,
+      "heading": "Step 14.",
+      "level": 1,
+      "start_line": 1128
+    },
+    {
+      "anchor": "step-15",
+      "end_line": 1135,
+      "heading": "Step 15.",
+      "level": 1,
+      "start_line": 1132
+    },
+    {
+      "anchor": "step-16",
+      "end_line": 1139,
+      "heading": "Step 16.",
+      "level": 1,
+      "start_line": 1136
+    },
+    {
+      "anchor": "step-17",
+      "end_line": 1143,
+      "heading": "Step 17.",
+      "level": 1,
+      "start_line": 1140
+    },
+    {
+      "anchor": "step-18",
+      "end_line": 1147,
+      "heading": "Step 18.",
+      "level": 1,
+      "start_line": 1144
+    },
+    {
+      "anchor": "procedure-12-continued",
+      "end_line": 1149,
+      "heading": "PROCEDURE 12 (CONTINUED)",
+      "level": 1,
+      "start_line": 1148
+    },
+    {
+      "anchor": "notes",
+      "end_line": 1155,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 1150
+    },
+    {
+      "anchor": "references",
+      "end_line": 1208,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1156
+    }
+  ],
+  "source_dir": "pdf/NAS-NS-3013",
+  "tables": [],
+  "title": "National",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "graphite-and-moderator-behavior",
+    "irradiation-and-damage"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "authors": [
+    "ENGINE AIR RADIATORS",
+    "CENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION",
+    "LIBRARY LOAN COPY",
+    "OPERATED BY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1287.jsonl",
+  "date_text": "1953",
+  "doc_id": "ornl-1287",
+  "document_type": "paper",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 18,
+        "line_hits": [
+          768,
+          819,
+          843,
+          845,
+          854,
+          858,
+          884,
+          1799,
+          1849,
+          1863,
+          1967,
+          2065,
+          2133,
+          2291,
+          2298,
+          2314,
+          2338,
+          2373
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 8,
+        "line_hits": [
+          911,
+          980,
+          984,
+          1000,
+          1006,
+          1064,
+          1709,
+          1723
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          760,
+          766,
+          776,
+          827,
+          1037,
+          1045,
+          2387
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2417
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          13,
+          33,
+          43,
+          61,
+          788
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          587,
+          589
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          39,
+          67
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          195
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          191
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1106
+        ],
+        "name": "Foster Wheeler"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 79,
+        "line_hits": [
+          740,
+          758,
+          762,
+          766,
+          778,
+          784,
+          786,
+          788,
+          790,
+          806,
+          823,
+          845,
+          848,
+          858,
+          866,
+          870,
+          874,
+          896,
+          902,
+          924,
+          939,
+          941,
+          943,
+          945,
+          951,
+          953,
+          970,
+          974,
+          986,
+          1004,
+          1010,
+          1026,
+          1028,
+          1037,
+          1045,
+          1047,
+          1049,
+          1069,
+          1072,
+          1074,
+          1170,
+          1172,
+          1182,
+          1184,
+          1186,
+          1192,
+          1204,
+          1216,
+          1225,
+          1543
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2419
+        ],
+        "name": "ART"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          179
+        ],
+        "name": "ORNL Central Files"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          768,
+          856,
+          986
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          768,
+          856,
+          986
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6cd60c6398b9daa9b94efb8f6c7dd5f09f56d57cbffbd75823c1fb63b8933a24",
+  "markdown_path": "pdf/ORNL-1287/ORNL-1287/hybrid_ocr/ORNL-1287.md",
+  "report_number": "ORNL-1287",
+  "report_numbers": [
+    "ORNL-1287"
+  ],
+  "report_series": "ornl-central-files",
+  "section_count": 79,
+  "sections": [
+    {
+      "anchor": "a-design-study-of-a-nuclear-powered",
+      "end_line": 6,
+      "heading": "A Design Study Of A Nuclear-Powered",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "airplane-in-which-circulating-fuel",
+      "end_line": 8,
+      "heading": "Airplane In Which Circulating Fuel",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "is-piped-directly-to-the",
+      "end_line": 10,
+      "heading": "Is Piped Directly To The",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "engine-air-radiators",
+      "end_line": 12,
+      "heading": "Engine Air Radiators",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 14,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 16,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 18,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 20,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 28,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "cn-7769",
+      "end_line": 32,
+      "heading": "Cn-7769",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 34,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 36,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 38,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "a-division-of-union-carbide-and-carbon-corporation",
+      "end_line": 42,
+      "heading": "A Division Of Union Carbide And Carbon Corporation",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "ornl-1287",
+      "end_line": 50,
+      "heading": "Ornl-1287",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "a-design-study-of-a-nuclear-powered-airplane-in-which-circulating-fuel-is-piped-directly",
+      "end_line": 52,
+      "heading": "A DESIGN STUDY OF A NUCLEAR-POWERED AIRPLANE IN WHICH CIRCULATING FUEL IS PIPED DIRECTLY",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "to-the-engine-air-radiators",
+      "end_line": 56,
+      "heading": "TO THE ENGINE AIR RADIATORS",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 58,
+      "heading": "Date Issued:",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "mar-31-1953",
+      "end_line": 60,
+      "heading": "Mar 31 1953",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 64,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-corporation",
+      "end_line": 86,
+      "heading": "Carbide And Carbon Chemicals Corporation",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 188,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 631,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 189
+    },
+    {
+      "anchor": "contents",
+      "end_line": 633,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 632
+    },
+    {
+      "anchor": "introduction-and-summary-1",
+      "end_line": 681,
+      "heading": "Introduction And Summary 1",
+      "level": 2,
+      "start_line": 634
+    },
+    {
+      "anchor": "sea-level-performance-33",
+      "end_line": 683,
+      "heading": "Sea-Level Performance 33",
+      "level": 2,
+      "start_line": 682
+    },
+    {
+      "anchor": "shielding-analysis-35",
+      "end_line": 726,
+      "heading": "Shielding Analysis 35",
+      "level": 2,
+      "start_line": 684
+    },
+    {
+      "anchor": "static-characteristics-of-the-reactor-45",
+      "end_line": 727,
+      "heading": "Static Characteristics Of The Reactor 45",
+      "level": 2,
+      "start_line": 727
+    },
+    {
+      "anchor": "reactor-control-56",
+      "end_line": 737,
+      "heading": "Reactor Control 56",
+      "level": 2,
+      "start_line": 728
+    },
+    {
+      "anchor": "acknowledgement",
+      "end_line": 747,
+      "heading": "ACKNOWLEDGEMENT",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "a-design-study-of-a-nuclear-powered-airplane-in-which-circulating-fuel-is-piped-directly-to-the-engine-air-radiators",
+      "end_line": 753,
+      "heading": "A DESIGN STUDY OF A NUCLEAR-POWERED AIRPLANE IN WHICH CIRCULATING FUEL IS PIPED DIRECTLY TO THE ENGINE AIR RADIATORS",
+      "level": 1,
+      "start_line": 748
+    },
+    {
+      "anchor": "introduction-and-summary",
+      "end_line": 771,
+      "heading": "INTRODUCTION AND SUMMARY",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 799,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 772
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 812,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 800
+    },
+    {
+      "anchor": "design-of-airplane-and-power-plant-for-mach-1-5-at-45-000-feet",
+      "end_line": 814,
+      "heading": "DESIGN OF AIRPLANE AND POWER PLANT FOR MACH 1.5 AT 45,000 FEET",
+      "level": 1,
+      "start_line": 813
+    },
+    {
+      "anchor": "reactor-core",
+      "end_line": 893,
+      "heading": "REACTOR CORE",
+      "level": 1,
+      "start_line": 815
+    },
+    {
+      "anchor": "enginese-and-accessories",
+      "end_line": 967,
+      "heading": "ENGINESE AND ACCESSORIES",
+      "level": 1,
+      "start_line": 894
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 1001,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 968
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 1040,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 1002
+    },
+    {
+      "anchor": "power-plant-radiators",
+      "end_line": 1068,
+      "heading": "POWER PLANT RADIATORS",
+      "level": 1,
+      "start_line": 1041
+    },
+    {
+      "anchor": "all-dimensions-are-in-inches",
+      "end_line": 1086,
+      "heading": "All Dimensions Are In Inches",
+      "level": 2,
+      "start_line": 1069
+    },
+    {
+      "anchor": "note-all-dimensions-in-inches",
+      "end_line": 1091,
+      "heading": "Note: All Dimensions In Inches",
+      "level": 2,
+      "start_line": 1087
+    },
+    {
+      "anchor": "section-a-a",
+      "end_line": 1102,
+      "heading": "Section A-A",
+      "level": 2,
+      "start_line": 1092
+    },
+    {
+      "anchor": "section-b-b-typical-tube-pattern-note-see-alternate-construction",
+      "end_line": 1177,
+      "heading": "Section B-B-Typical Tube Pattern Note: See Alternate Construction.",
+      "level": 2,
+      "start_line": 1103
+    },
+    {
+      "anchor": "table-8-fuel-to-air-radiators",
+      "end_line": 1189,
+      "heading": "Table 8. Fuel-To-Air Radiators",
+      "level": 2,
+      "start_line": 1178
+    },
+    {
+      "anchor": "airplane",
+      "end_line": 1197,
+      "heading": "AIRPLANE",
+      "level": 1,
+      "start_line": 1190
+    },
+    {
+      "anchor": "table-9-reflector-and-shield-coolant-radiators",
+      "end_line": 1332,
+      "heading": "Table 9. Reflector- And Shield-Coolant Radiators",
+      "level": 2,
+      "start_line": 1198
+    },
+    {
+      "anchor": "tail",
+      "end_line": 1364,
+      "heading": "Tail",
+      "level": 1,
+      "start_line": 1333
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 1465,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 1365
+    },
+    {
+      "anchor": "a-4-6-2-0",
+      "end_line": 1469,
+      "heading": "A = 4 6 2 0",
+      "level": 2,
+      "start_line": 1466
+    },
+    {
+      "anchor": "l-2-9-1-1-0-0",
+      "end_line": 1473,
+      "heading": "L = 2 9 1, 1 0 0",
+      "level": 2,
+      "start_line": 1470
+    },
+    {
+      "anchor": "d-2-6-5-4-0",
+      "end_line": 1479,
+      "heading": "D = 2 6, 5 4 0",
+      "level": 2,
+      "start_line": 1474
+    },
+    {
+      "anchor": "c-d-0-0-0-2-2-7",
+      "end_line": 1533,
+      "heading": "C _ {D} = 0. 0 0 2 2 7",
+      "level": 2,
+      "start_line": 1480
+    },
+    {
+      "anchor": "a-8-3-2",
+      "end_line": 1600,
+      "heading": "A = 8 3 2",
+      "level": 2,
+      "start_line": 1534
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 1706,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 1601
+    },
+    {
+      "anchor": "sea-level-performance",
+      "end_line": 1720,
+      "heading": "SEA-LEVEL PERFORMANCE",
+      "level": 1,
+      "start_line": 1707
+    },
+    {
+      "anchor": "table-10-sea-level-static-performance",
+      "end_line": 1748,
+      "heading": "Table 10. Sea-Level Static Performance",
+      "level": 2,
+      "start_line": 1721
+    },
+    {
+      "anchor": "design-point-sea-level",
+      "end_line": 1772,
+      "heading": "Design Point Sea Level",
+      "level": 2,
+      "start_line": 1749
+    },
+    {
+      "anchor": "shielding-analysis",
+      "end_line": 1780,
+      "heading": "SHIELDING ANALYSIS",
+      "level": 1,
+      "start_line": 1773
+    },
+    {
+      "anchor": "assignment-of-radiation-contributions",
+      "end_line": 1796,
+      "heading": "ASSIGNMENT OF RADIATION CONTRIBUTIONS",
+      "level": 1,
+      "start_line": 1781
+    },
+    {
+      "anchor": "configuration-to-be-shielded",
+      "end_line": 1802,
+      "heading": "CONFIGURATION TO BE SHIELDED",
+      "level": 1,
+      "start_line": 1797
+    },
+    {
+      "anchor": "table-11-allowed-contributions-to-the-total-dose",
+      "end_line": 1808,
+      "heading": "Table 11. Allowed Contributions To The Total Dose",
+      "level": 2,
+      "start_line": 1803
+    },
+    {
+      "anchor": "basic-data-for-shield-design",
+      "end_line": 1894,
+      "heading": "BASIC DATA FOR SHIELD DESIGN",
+      "level": 1,
+      "start_line": 1809
+    },
+    {
+      "anchor": "calculation-of-shield-dimensions",
+      "end_line": 1964,
+      "heading": "CALCULATION OF SHIELD DIMENSIONS",
+      "level": 1,
+      "start_line": 1895
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 2052,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 1965
+    },
+    {
+      "anchor": "specification-of-reactor-shield-thickness",
+      "end_line": 2070,
+      "heading": "SPECIFICATION OF REACTOR SHIELD THICKNESS",
+      "level": 1,
+      "start_line": 2053
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 2182,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 2071
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 2190,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 2183
+    },
+    {
+      "anchor": "special-shielding-considerations",
+      "end_line": 2244,
+      "heading": "SPECIAL SHIELDING CONSIDERATIONS",
+      "level": 1,
+      "start_line": 2191
+    },
+    {
+      "anchor": "physical-description-of-shield",
+      "end_line": 2249,
+      "heading": "PHYSICAL DESCRIPTION OF SHIELD",
+      "level": 1,
+      "start_line": 2245
+    },
+    {
+      "anchor": "longitudinal-section",
+      "end_line": 2252,
+      "heading": "Longitudinal Section",
+      "level": 2,
+      "start_line": 2250
+    },
+    {
+      "anchor": "vertical-section",
+      "end_line": 2288,
+      "heading": "Vertical Section",
+      "level": 2,
+      "start_line": 2253
+    },
+    {
+      "anchor": "static-characteristics-of-the-reactor",
+      "end_line": 2353,
+      "heading": "STATIC CHARACTERISTICS OF THE REACTOR",
+      "level": 1,
+      "start_line": 2289
+    },
+    {
+      "anchor": "table-13-some-results-of-the-reflected-reactor-calculations",
+      "end_line": 2359,
+      "heading": "Table 13. Some Results Of The Reflected-Reactor Calculations",
+      "level": 2,
+      "start_line": 2354
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 2377,
+      "heading": "DESIGN STUDY",
+      "level": 1,
+      "start_line": 2360
+    },
+    {
+      "anchor": "table-14-reactivity-coefficients-for-the-reactor",
+      "end_line": 2388,
+      "heading": "Table 14. Reactivity Coefficients For The Reactor",
+      "level": 2,
+      "start_line": 2378
+    },
+    {
+      "anchor": "reactor-control",
+      "end_line": 2412,
+      "heading": "REACTOR CONTROL",
+      "level": 1,
+      "start_line": 2389
+    },
+    {
+      "anchor": "control-features-determined-by-simulator-study",
+      "end_line": 2424,
+      "heading": "CONTROL FEATURES DETERMINED BY SIMULATOR STUDY",
+      "level": 1,
+      "start_line": 2413
+    },
+    {
+      "anchor": "pressure-in-fuel-tubes",
+      "end_line": 2439,
+      "heading": "PRESSURE IN FUEL TUBES",
+      "level": 1,
+      "start_line": 2425
+    }
+  ],
+  "source_dir": "pdf/ORNL-1287",
+  "tables": [],
+  "title": "![](images/a9964f33bc3d06cd7db9bf5b0ac95133f806e5fe0d2f825e7e1c24c148c04c50.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "graphite-and-moderator-behavior",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": []
+}

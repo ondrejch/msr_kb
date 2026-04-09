@@ -1,0 +1,6519 @@
+{
+  "authors": [
+    "ANP FLUORIDE MIXTURES",
+    "S. I. Cohen",
+    "W. D. Powers",
+    "N. D. Greene",
+    "OPERATED BY",
+    "UNION CARBIDE NUCLEAR COMPANY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2150.jsonl",
+  "date_text": "1956",
+  "doc_id": "ornl-2150",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          1854
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          500
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 51,
+        "line_hits": [
+          1,
+          17,
+          54,
+          392,
+          396,
+          482,
+          486,
+          488,
+          536,
+          578,
+          10033,
+          10039,
+          10042,
+          10043,
+          10044,
+          10045,
+          10046,
+          10048,
+          10049,
+          10050,
+          10051,
+          10052,
+          10053,
+          10054,
+          10055,
+          10057,
+          10058,
+          10059,
+          10061,
+          10062,
+          10063,
+          10064,
+          10065,
+          10066,
+          10067,
+          10068,
+          10069,
+          10070,
+          10071,
+          10072,
+          10075,
+          10076,
+          10077,
+          10078,
+          10079,
+          10080,
+          10081,
+          10082,
+          10083,
+          10087
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          21,
+          23,
+          58,
+          60
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          430,
+          478
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          428,
+          447
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          425
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          444
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          466
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          474
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 36,
+        "line_hits": [
+          486,
+          488,
+          490,
+          546,
+          548,
+          564,
+          574,
+          580,
+          586,
+          588,
+          980,
+          1128,
+          1176,
+          1304,
+          1494,
+          1656,
+          1722,
+          1842,
+          2023,
+          2747,
+          2967,
+          3108,
+          3488,
+          3596,
+          3708,
+          3992,
+          4038,
+          4152,
+          4229,
+          4487,
+          4909,
+          5307,
+          5459,
+          7332,
+          8296,
+          10035
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          486
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 74,
+        "line_hits": [
+          614,
+          616,
+          626,
+          730,
+          852,
+          986,
+          1070,
+          1188,
+          1314,
+          1432,
+          1732,
+          1846,
+          1892,
+          2025,
+          2075,
+          2193,
+          2251,
+          2377,
+          2483,
+          2591,
+          2773,
+          3089,
+          3118,
+          3236,
+          3348,
+          3442,
+          3496,
+          3604,
+          3718,
+          3852,
+          3994,
+          4046,
+          4154,
+          4196,
+          4233,
+          4373,
+          4491,
+          4799,
+          4921,
+          5049,
+          5191,
+          5311,
+          5425,
+          5469,
+          5587,
+          5608,
+          5732,
+          5848,
+          6238,
+          6352
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 31,
+        "line_hits": [
+          614,
+          1736,
+          1896,
+          2253,
+          5313,
+          5734,
+          5850,
+          5962,
+          6096,
+          6506,
+          6630,
+          6750,
+          6832,
+          7047,
+          7142,
+          7334,
+          7376,
+          7608,
+          7888,
+          8158,
+          8190,
+          8236,
+          8300,
+          8350,
+          8476,
+          8568,
+          8662,
+          8694,
+          8814,
+          9366,
+          10086
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 27,
+        "line_hits": [
+          614,
+          732,
+          854,
+          1070,
+          1192,
+          1314,
+          1734,
+          1894,
+          2025,
+          2379,
+          2485,
+          2591,
+          2629,
+          2755,
+          2871,
+          2975,
+          3089,
+          3116,
+          7492,
+          8008,
+          8478,
+          8570,
+          8814,
+          8910,
+          9268,
+          9726,
+          9912
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 26,
+        "line_hits": [
+          614,
+          616,
+          626,
+          734,
+          856,
+          986,
+          1070,
+          1846,
+          1898,
+          2025,
+          2193,
+          2591,
+          2633,
+          3089,
+          3500,
+          4154,
+          4196,
+          4801,
+          5587,
+          6832,
+          7047,
+          8116,
+          8236,
+          8274,
+          8698,
+          8914
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          614,
+          626,
+          986,
+          1190,
+          1502,
+          2025,
+          2193,
+          4048,
+          4154,
+          5962,
+          6354,
+          7047,
+          7334,
+          7378,
+          7494,
+          8158,
+          8190,
+          8236,
+          9366,
+          9726,
+          9768,
+          9912
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          614,
+          2591,
+          2631,
+          3089,
+          3442,
+          3994,
+          5049,
+          5587,
+          6832,
+          8116,
+          8274
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          614,
+          1846,
+          7236,
+          8116,
+          8662,
+          8696,
+          9168,
+          9766
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          482,
+          490,
+          500,
+          506,
+          546,
+          578,
+          594,
+          598
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          614,
+          5962,
+          7047,
+          9366
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          614,
+          616,
+          5425
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          614,
+          8814
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          614,
+          7047
+        ],
+        "name": "LiF-BeF2-UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          614,
+          5473
+        ],
+        "name": "UF3"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          614
+        ],
+        "name": "LiF-BeF2-ThF4-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          614
+        ],
+        "name": "LiF-NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          614
+        ],
+        "name": "LiF-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          614
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          614
+        ],
+        "name": "NaF-ZrF4-UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2d334ad66fcf09daa834af190f43175dc20923631bbb385b12e66de7cfc2dbf5",
+  "markdown_path": "pdf/ORNL-2150/ORNL-2150/hybrid_ocr/ORNL-2150.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 855,
+  "sections": [
+    {
+      "anchor": "ornl-master-copy",
+      "end_line": 2,
+      "heading": "ORNL MASTER COPY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "a-physical-property-summary-for",
+      "end_line": 4,
+      "heading": "A Physical Property Summary For",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "anp-fluoride-mixtures",
+      "end_line": 16,
+      "heading": "Anp Fluoride Mixtures",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 18,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 20,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 26,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "post-office-box-p-oak-ridge-tennessee",
+      "end_line": 28,
+      "heading": "Post Office Box P · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 41,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "a-physical-property-summary-for-anp-fluoride-mixtures",
+      "end_line": 51,
+      "heading": "A Physical Property Summary For Anp Fluoride Mixtures",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "date-issued-aug-23-1956",
+      "end_line": 53,
+      "heading": "Date Issued Aug 23 1956",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 57,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 65,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 397,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 479,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 509,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 511,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "page",
+      "end_line": 513,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 512
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 515,
+      "heading": "Foreword",
+      "level": 2,
+      "start_line": 514
+    },
+    {
+      "anchor": "summary",
+      "end_line": 517,
+      "heading": "Summary",
+      "level": 2,
+      "start_line": 516
+    },
+    {
+      "anchor": "introduction-2",
+      "end_line": 519,
+      "heading": "Introduction- 2",
+      "level": 2,
+      "start_line": 518
+    },
+    {
+      "anchor": "a-density-2",
+      "end_line": 520,
+      "heading": "A. Density- 2",
+      "level": 2,
+      "start_line": 520
+    },
+    {
+      "anchor": "b-heat-capacity-3",
+      "end_line": 521,
+      "heading": "B. Heat Capacity- 3",
+      "level": 2,
+      "start_line": 521
+    },
+    {
+      "anchor": "c-thermal-conductivity-4",
+      "end_line": 522,
+      "heading": "C. THERMAL CONDUCTIVITY 4",
+      "level": 2,
+      "start_line": 522
+    },
+    {
+      "anchor": "d-viscosity-5",
+      "end_line": 523,
+      "heading": "D. Viscosity- 5",
+      "level": 2,
+      "start_line": 523
+    },
+    {
+      "anchor": "e-electrical-conductivity-6",
+      "end_line": 524,
+      "heading": "E. Electrical Conductivity 6",
+      "level": 2,
+      "start_line": 524
+    },
+    {
+      "anchor": "f-surface-tension-6",
+      "end_line": 525,
+      "heading": "F. Surface Tension 6",
+      "level": 2,
+      "start_line": 525
+    },
+    {
+      "anchor": "g-table-i-accuracy-summary-7",
+      "end_line": 526,
+      "heading": "G. Table I: Accuracy Summary 7",
+      "level": 2,
+      "start_line": 526
+    },
+    {
+      "anchor": "h-table-ii-tabulation-of-mixtures-according-to-chemical-system-8",
+      "end_line": 528,
+      "heading": "H. Table Ii: Tabulation Of Mixtures According To Chemical System 8",
+      "level": 2,
+      "start_line": 527
+    },
+    {
+      "anchor": "tabulated-fluoride-property-data-9",
+      "end_line": 529,
+      "heading": "Tabulated Fluoride Property Data 9",
+      "level": 2,
+      "start_line": 529
+    },
+    {
+      "anchor": "viscosity-worksheet-109",
+      "end_line": 530,
+      "heading": "Viscosity Worksheet 109",
+      "level": 2,
+      "start_line": 530
+    },
+    {
+      "anchor": "concluding-remarks-110",
+      "end_line": 531,
+      "heading": "Concluding Remarks 110",
+      "level": 2,
+      "start_line": 531
+    },
+    {
+      "anchor": "references-111",
+      "end_line": 533,
+      "heading": "References 111",
+      "level": 2,
+      "start_line": 532
+    },
+    {
+      "anchor": "summary",
+      "end_line": 537,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 534
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 543,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 538
+    },
+    {
+      "anchor": "a-density",
+      "end_line": 559,
+      "heading": "A. Density.",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "b-heat-capacity",
+      "end_line": 567,
+      "heading": "B. Heat Capacity.",
+      "level": 1,
+      "start_line": 560
+    },
+    {
+      "anchor": "c-thermal-conductivity",
+      "end_line": 575,
+      "heading": "C. Thermal Conductivity.",
+      "level": 1,
+      "start_line": 568
+    },
+    {
+      "anchor": "d-viscosity",
+      "end_line": 591,
+      "heading": "D. Viscosity.",
+      "level": 1,
+      "start_line": 576
+    },
+    {
+      "anchor": "e-electrical-conductivity",
+      "end_line": 595,
+      "heading": "E. Electrical Conductivity.",
+      "level": 1,
+      "start_line": 592
+    },
+    {
+      "anchor": "f-surface-tension",
+      "end_line": 599,
+      "heading": "F. Surface Tension.",
+      "level": 1,
+      "start_line": 596
+    },
+    {
+      "anchor": "g-accuracy-summary",
+      "end_line": 603,
+      "heading": "G. Accuracy Summary.",
+      "level": 1,
+      "start_line": 600
+    },
+    {
+      "anchor": "table-1",
+      "end_line": 607,
+      "heading": "Table 1",
+      "level": 2,
+      "start_line": 604
+    },
+    {
+      "anchor": "h-tabulation-of-mixtures-according-to-chemical-system",
+      "end_line": 611,
+      "heading": "H. Tabulation of Mixtures According to Chemical System.",
+      "level": 1,
+      "start_line": 608
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 617,
+      "heading": "Table Ii",
+      "level": 2,
+      "start_line": 612
+    },
+    {
+      "anchor": "tabulated-fluoride-property-data",
+      "end_line": 635,
+      "heading": "TABULATED FLUORIDE PROPERTY DATA",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "density",
+      "end_line": 655,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 636
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 703,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 656
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 707,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 704
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 713,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "0f-1300-1500",
+      "end_line": 757,
+      "heading": "0F 1300 1500",
+      "level": 2,
+      "start_line": 714
+    },
+    {
+      "anchor": "530-c-986-f",
+      "end_line": 759,
+      "heading": "530°C (986°F)",
+      "level": 2,
+      "start_line": 758
+    },
+    {
+      "anchor": "density",
+      "end_line": 781,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 760
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 783,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 782
+    },
+    {
+      "anchor": "solid-240-480-c",
+      "end_line": 791,
+      "heading": "Solid (240°-480°C)",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "liquid-540-1000-c",
+      "end_line": 829,
+      "heading": "Liquid (540°-1000°C)",
+      "level": 2,
+      "start_line": 792
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 835,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 830
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 881,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 836
+    },
+    {
+      "anchor": "density",
+      "end_line": 901,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 882
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 903,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 902
+    },
+    {
+      "anchor": "solid",
+      "end_line": 923,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 904
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 949,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 924
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 953,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 950
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 995,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 954
+    },
+    {
+      "anchor": "density",
+      "end_line": 1015,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 996
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1017,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1016
+    },
+    {
+      "anchor": "solid",
+      "end_line": 1047,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 1018
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1051,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1048
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1071,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1052
+    },
+    {
+      "anchor": "density",
+      "end_line": 1085,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1072
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1087,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1086
+    },
+    {
+      "anchor": "solid",
+      "end_line": 1101,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 1088
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 1117,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 1102
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1121,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1118
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1133,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1122
+    },
+    {
+      "anchor": "density",
+      "end_line": 1143,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1134
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1145,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1144
+    },
+    {
+      "anchor": "solid",
+      "end_line": 1153,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 1146
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 1163,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 1154
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1167,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1164
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1217,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1168
+    },
+    {
+      "anchor": "density",
+      "end_line": 1237,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1218
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1239,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1238
+    },
+    {
+      "anchor": "solid",
+      "end_line": 1259,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 1240
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 1285,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 1260
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1289,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1286
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1323,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1290
+    },
+    {
+      "anchor": "density",
+      "end_line": 1343,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1324
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1345,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 1344
+    },
+    {
+      "anchor": "solid",
+      "end_line": 1365,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 1346
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 1391,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 1366
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1395,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 1392
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1433,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1396
+    },
+    {
+      "anchor": "density",
+      "end_line": 1443,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1434
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1453,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1444
+    },
+    {
+      "anchor": "liquid-992-1027-c",
+      "end_line": 1475,
+      "heading": "Liquid (992° - 1027°C)",
+      "level": 2,
+      "start_line": 1454
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1479,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1476
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1517,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1480
+    },
+    {
+      "anchor": "543-c-1009-f",
+      "end_line": 1519,
+      "heading": "543°C (1009°F)",
+      "level": 2,
+      "start_line": 1518
+    },
+    {
+      "anchor": "density",
+      "end_line": 1533,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1520
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1535,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 1534
+    },
+    {
+      "anchor": "solid",
+      "end_line": 1561,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 1536
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 1593,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 1562
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1597,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 1594
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1615,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1598
+    },
+    {
+      "anchor": "density",
+      "end_line": 1619,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1616
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1657,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1620
+    },
+    {
+      "anchor": "density",
+      "end_line": 1669,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1658
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1671,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1670
+    },
+    {
+      "anchor": "solid-25-857-c",
+      "end_line": 1679,
+      "heading": "Solid (25°-857°C)",
+      "level": 2,
+      "start_line": 1672
+    },
+    {
+      "anchor": "liquid-857-927-c",
+      "end_line": 1701,
+      "heading": "Liquid (857°-927°C)",
+      "level": 2,
+      "start_line": 1680
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1705,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1702
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1761,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1706
+    },
+    {
+      "anchor": "density",
+      "end_line": 1783,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1762
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1785,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1784
+    },
+    {
+      "anchor": "solid-60-454-c",
+      "end_line": 1793,
+      "heading": "Solid (60°-454°C)",
+      "level": 2,
+      "start_line": 1786
+    },
+    {
+      "anchor": "liquid-475-875-c",
+      "end_line": 1823,
+      "heading": "Liquid (475°-875°C)",
+      "level": 2,
+      "start_line": 1794
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1831,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1824
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1847,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1832
+    },
+    {
+      "anchor": "density",
+      "end_line": 1857,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1848
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1859,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1858
+    },
+    {
+      "anchor": "solid",
+      "end_line": 1867,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 1860
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 1877,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 1868
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1881,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1878
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 1927,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1882
+    },
+    {
+      "anchor": "density",
+      "end_line": 1947,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 1928
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 1949,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 1948
+    },
+    {
+      "anchor": "solid-90-450-c",
+      "end_line": 1979,
+      "heading": "Solid (90°-450°C)",
+      "level": 2,
+      "start_line": 1950
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 1986,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 1980
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2034,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 1987
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2036,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 2035
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2044,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2037
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2054,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 2045
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2058,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 2055
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2068,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2059
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 2072,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 2069
+    },
+    {
+      "anchor": "component",
+      "end_line": 2080,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 2073
+    },
+    {
+      "anchor": "mol",
+      "end_line": 2088,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 2081
+    },
+    {
+      "anchor": "wt",
+      "end_line": 2096,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 2089
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 2100,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 2097
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 2104,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 2101
+    },
+    {
+      "anchor": "density",
+      "end_line": 2126,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2105
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2128,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 2127
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2148,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2129
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2168,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 2149
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 2174,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 2169
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2178,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 2175
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2180,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2179
+    },
+    {
+      "anchor": "mathrm-o-c-centipoises",
+      "end_line": 2182,
+      "heading": "$\\mathrm{^o C}$ (Centipoises)",
+      "level": 1,
+      "start_line": 2181
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 2184,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 2183
+    },
+    {
+      "anchor": "0f",
+      "end_line": 2186,
+      "heading": "0F",
+      "level": 1,
+      "start_line": 2185
+    },
+    {
+      "anchor": "lb-ft-hr",
+      "end_line": 2188,
+      "heading": "(lb./ft-hr)",
+      "level": 1,
+      "start_line": 2187
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 2194,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 2189
+    },
+    {
+      "anchor": "density",
+      "end_line": 2208,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2195
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2210,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 2209
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2218,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2211
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2232,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 2219
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2236,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 2233
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2280,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2237
+    },
+    {
+      "anchor": "density",
+      "end_line": 2302,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2281
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2304,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 2303
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2324,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2305
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2344,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 2325
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 2347,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 2345
+    },
+    {
+      "anchor": "e-l-h-s",
+      "end_line": 2350,
+      "heading": "E _ {L} - H _ {S} ^ {*} =",
+      "level": 2,
+      "start_line": 2348
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2354,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 2351
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2356,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2355
+    },
+    {
+      "anchor": "c-centipoises",
+      "end_line": 2358,
+      "heading": "C (Centipoises)",
+      "level": 1,
+      "start_line": 2357
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 2360,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 2359
+    },
+    {
+      "anchor": "0f",
+      "end_line": 2362,
+      "heading": "0F",
+      "level": 1,
+      "start_line": 2361
+    },
+    {
+      "anchor": "lb-ft-hr",
+      "end_line": 2364,
+      "heading": "(lb./ft-hr)",
+      "level": 1,
+      "start_line": 2363
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 2412,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 2365
+    },
+    {
+      "anchor": "density",
+      "end_line": 2432,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2413
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2434,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 2433
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2442,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2435
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2464,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 2443
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2468,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 2465
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2476,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2469
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 2480,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 2477
+    },
+    {
+      "anchor": "component",
+      "end_line": 2488,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 2481
+    },
+    {
+      "anchor": "mol",
+      "end_line": 2496,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 2489
+    },
+    {
+      "anchor": "wt",
+      "end_line": 2504,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 2497
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 2508,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 2505
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 2512,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 2509
+    },
+    {
+      "anchor": "density",
+      "end_line": 2532,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2513
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2534,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 2533
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2554,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2535
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2574,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 2555
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 2580,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 2575
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2584,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 2581
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2592,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2585
+    },
+    {
+      "anchor": "density",
+      "end_line": 2602,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2593
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2604,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 2603
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2612,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2605
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2616,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 2613
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2620,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 2617
+    },
+    {
+      "anchor": "exponential-form-centipoises",
+      "end_line": 2658,
+      "heading": "Exponential Form (centipoises)",
+      "level": 1,
+      "start_line": 2621
+    },
+    {
+      "anchor": "density",
+      "end_line": 2678,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2659
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2680,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 2679
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2700,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 2681
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2726,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 2701
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2730,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 2727
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2748,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2731
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 2752,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 2749
+    },
+    {
+      "anchor": "component",
+      "end_line": 2756,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 2753
+    },
+    {
+      "anchor": "mol",
+      "end_line": 2760,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 2757
+    },
+    {
+      "anchor": "wt",
+      "end_line": 2764,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 2761
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 2768,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 2765
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 2786,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 2769
+    },
+    {
+      "anchor": "density",
+      "end_line": 2806,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2787
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2808,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 2807
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2828,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2809
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2854,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 2829
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2858,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 2855
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2864,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2859
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 2868,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 2865
+    },
+    {
+      "anchor": "component",
+      "end_line": 2872,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 2869
+    },
+    {
+      "anchor": "mol",
+      "end_line": 2876,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 2873
+    },
+    {
+      "anchor": "wt",
+      "end_line": 2880,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 2877
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 2884,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 2881
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 2888,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 2885
+    },
+    {
+      "anchor": "density",
+      "end_line": 2908,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 2889
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 2910,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 2909
+    },
+    {
+      "anchor": "solid",
+      "end_line": 2930,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 2911
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 2950,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 2931
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 2956,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 2951
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 2960,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 2957
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 2968,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 2961
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 2972,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 2969
+    },
+    {
+      "anchor": "component",
+      "end_line": 2976,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 2973
+    },
+    {
+      "anchor": "mol",
+      "end_line": 2986,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 2977
+    },
+    {
+      "anchor": "wt",
+      "end_line": 2996,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 2987
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 3000,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 2997
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 3004,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 3001
+    },
+    {
+      "anchor": "density",
+      "end_line": 3024,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3005
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3026,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 3025
+    },
+    {
+      "anchor": "solid",
+      "end_line": 3050,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 3027
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 3076,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 3051
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3080,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 3077
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3084,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3081
+    },
+    {
+      "anchor": "exponential-form-centipoises",
+      "end_line": 3086,
+      "heading": "Exponential Form (centipoises)",
+      "level": 1,
+      "start_line": 3085
+    },
+    {
+      "anchor": "density",
+      "end_line": 3090,
+      "heading": "Density",
+      "level": 2,
+      "start_line": 3087
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3096,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 3091
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3102,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 3097
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3121,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 3103
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 3151,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 3122
+    },
+    {
+      "anchor": "density",
+      "end_line": 3171,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3152
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3173,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 3172
+    },
+    {
+      "anchor": "solid",
+      "end_line": 3193,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 3174
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 3219,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 3194
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3223,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 3220
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3229,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3224
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 3233,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 3230
+    },
+    {
+      "anchor": "component",
+      "end_line": 3241,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 3234
+    },
+    {
+      "anchor": "mol",
+      "end_line": 3249,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 3242
+    },
+    {
+      "anchor": "wt",
+      "end_line": 3257,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 3250
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 3261,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 3258
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 3265,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 3262
+    },
+    {
+      "anchor": "density",
+      "end_line": 3285,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3266
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3287,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 3286
+    },
+    {
+      "anchor": "solid",
+      "end_line": 3307,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 3288
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 3327,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 3308
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 3333,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 3328
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3339,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 3334
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3363,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3340
+    },
+    {
+      "anchor": "density",
+      "end_line": 3383,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3364
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3385,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 3384
+    },
+    {
+      "anchor": "solid",
+      "end_line": 3405,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 3386
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 3431,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 3406
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3435,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 3432
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3443,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3436
+    },
+    {
+      "anchor": "density",
+      "end_line": 3453,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3444
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3455,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 3454
+    },
+    {
+      "anchor": "solid",
+      "end_line": 3463,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 3456
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 3477,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 3464
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3481,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 3478
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3525,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3482
+    },
+    {
+      "anchor": "density",
+      "end_line": 3545,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3526
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3577,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 3546
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3585,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 3578
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3597,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3586
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 3601,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 3598
+    },
+    {
+      "anchor": "component",
+      "end_line": 3607,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 3602
+    },
+    {
+      "anchor": "mol",
+      "end_line": 3613,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 3608
+    },
+    {
+      "anchor": "wt",
+      "end_line": 3619,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 3614
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 3623,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 3620
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 3627,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 3624
+    },
+    {
+      "anchor": "density",
+      "end_line": 3647,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3628
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3649,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 3648
+    },
+    {
+      "anchor": "solid-54-488-c",
+      "end_line": 3669,
+      "heading": "Solid (54°-488°C)",
+      "level": 2,
+      "start_line": 3650
+    },
+    {
+      "anchor": "liquid-546-899-c",
+      "end_line": 3695,
+      "heading": "Liquid (546°-899°C)",
+      "level": 2,
+      "start_line": 3670
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3699,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 3696
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3741,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3700
+    },
+    {
+      "anchor": "density",
+      "end_line": 3761,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3742
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3763,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 3762
+    },
+    {
+      "anchor": "solid",
+      "end_line": 3783,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 3764
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 3803,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 3784
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 3809,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 3804
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3813,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 3810
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3815,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3814
+    },
+    {
+      "anchor": "underline-mathbf-o-mathbf-c-centipoises",
+      "end_line": 3823,
+      "heading": "$\\underline{\\mathbf{O}}_{\\mathbf{C}}$ (Centipoises)",
+      "level": 1,
+      "start_line": 3816
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 3833,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 3824
+    },
+    {
+      "anchor": "lb-ft-hr",
+      "end_line": 3841,
+      "heading": "(lb./ft-hr)",
+      "level": 1,
+      "start_line": 3834
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 3845,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 3842
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 3849,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 3846
+    },
+    {
+      "anchor": "component",
+      "end_line": 3855,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 3850
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 3857,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 3856
+    },
+    {
+      "anchor": "mol",
+      "end_line": 3865,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 3858
+    },
+    {
+      "anchor": "wt",
+      "end_line": 3873,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 3866
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 3877,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 3874
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 3881,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 3878
+    },
+    {
+      "anchor": "density",
+      "end_line": 3901,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3882
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 3949,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 3902
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 3953,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 3950
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 3995,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 3954
+    },
+    {
+      "anchor": "density",
+      "end_line": 4005,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 3996
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4007,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 4006
+    },
+    {
+      "anchor": "solid",
+      "end_line": 4015,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 4008
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 4025,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 4016
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4029,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 4026
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4039,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 4030
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 4043,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 4040
+    },
+    {
+      "anchor": "component",
+      "end_line": 4049,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 4044
+    },
+    {
+      "anchor": "mol",
+      "end_line": 4055,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 4050
+    },
+    {
+      "anchor": "wt",
+      "end_line": 4061,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 4056
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 4065,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 4062
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 4069,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 4066
+    },
+    {
+      "anchor": "density",
+      "end_line": 4089,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4070
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4091,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 4090
+    },
+    {
+      "anchor": "solid",
+      "end_line": 4111,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 4092
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 4131,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 4112
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 4137,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 4132
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4143,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4138
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4155,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 4144
+    },
+    {
+      "anchor": "density",
+      "end_line": 4165,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4156
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4167,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 4166
+    },
+    {
+      "anchor": "solid",
+      "end_line": 4175,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 4168
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 4185,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 4176
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4189,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4186
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4197,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 4190
+    },
+    {
+      "anchor": "density",
+      "end_line": 4202,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4198
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4204,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 4203
+    },
+    {
+      "anchor": "solid",
+      "end_line": 4208,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 4205
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 4212,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 4209
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 4215,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 4213
+    },
+    {
+      "anchor": "e-l-e-s",
+      "end_line": 4218,
+      "heading": "E _ {L} - E _ {S} ^ {*} =",
+      "level": 2,
+      "start_line": 4216
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4222,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 4219
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4224,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 4223
+    },
+    {
+      "anchor": "c-centipoises-centistokes-underline-mathbf-o-mathrm-f-1b-ft-hr-ft-hr",
+      "end_line": 4254,
+      "heading": "C (Centipoises) (Centistokes) $\\underline{\\mathbf{o}}_{\\mathrm{F}}$ (1b./ft-hr) ft²/hr",
+      "level": 1,
+      "start_line": 4225
+    },
+    {
+      "anchor": "density",
+      "end_line": 4274,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4255
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4276,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 4275
+    },
+    {
+      "anchor": "solid",
+      "end_line": 4296,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 4277
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 4316,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 4297
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 4322,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 4317
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4326,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4323
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4366,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 4327
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 4370,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 4367
+    },
+    {
+      "anchor": "component",
+      "end_line": 4378,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 4371
+    },
+    {
+      "anchor": "mol",
+      "end_line": 4386,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 4379
+    },
+    {
+      "anchor": "wt",
+      "end_line": 4394,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 4387
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 4398,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 4395
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 4402,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 4399
+    },
+    {
+      "anchor": "density",
+      "end_line": 4424,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4403
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4426,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 4425
+    },
+    {
+      "anchor": "solid-90-610-c",
+      "end_line": 4446,
+      "heading": "Solid (90° - 610°C)",
+      "level": 2,
+      "start_line": 4427
+    },
+    {
+      "anchor": "liquid-653-924-c",
+      "end_line": 4472,
+      "heading": "Liquid (653° - 924°C)",
+      "level": 2,
+      "start_line": 4447
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4476,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4473
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4494,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 4477
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 4512,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 4495
+    },
+    {
+      "anchor": "density",
+      "end_line": 4532,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4513
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4584,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 4533
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4588,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4585
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4592,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 4589
+    },
+    {
+      "anchor": "exponential-form-centipoises",
+      "end_line": 4594,
+      "heading": "Exponential Form (centipoises)",
+      "level": 1,
+      "start_line": 4593
+    },
+    {
+      "anchor": "density",
+      "end_line": 4614,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4595
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4616,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 4615
+    },
+    {
+      "anchor": "solid",
+      "end_line": 4636,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 4617
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 4656,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 4637
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 4662,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 4657
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4666,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4663
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4682,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 4667
+    },
+    {
+      "anchor": "density",
+      "end_line": 4702,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4683
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4704,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 4703
+    },
+    {
+      "anchor": "solid",
+      "end_line": 4724,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 4705
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 4744,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 4725
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 4750,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 4745
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4754,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4751
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4764,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 4755
+    },
+    {
+      "anchor": "centipoises",
+      "end_line": 4772,
+      "heading": "(Centipoises)",
+      "level": 1,
+      "start_line": 4765
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 4782,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 4773
+    },
+    {
+      "anchor": "1b-ft-hr",
+      "end_line": 4788,
+      "heading": "(1b./ft-hr)",
+      "level": 1,
+      "start_line": 4783
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 4822,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 4789
+    },
+    {
+      "anchor": "density",
+      "end_line": 4844,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 4823
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 4846,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 4845
+    },
+    {
+      "anchor": "solid",
+      "end_line": 4866,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 4847
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 4892,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 4867
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4896,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 4893
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 4914,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 4897
+    },
+    {
+      "anchor": "density",
+      "end_line": 4948,
+      "heading": "Density",
+      "level": 2,
+      "start_line": 4915
+    },
+    {
+      "anchor": "540-c-1004-f",
+      "end_line": 4974,
+      "heading": "540°C (1004°F)",
+      "level": 2,
+      "start_line": 4949
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5040,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 4975
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5046,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 5041
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5050,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 5047
+    },
+    {
+      "anchor": "density",
+      "end_line": 5060,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5051
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5062,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 5061
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5070,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5063
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5080,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 5071
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5084,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 5081
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5090,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 5085
+    },
+    {
+      "anchor": "density",
+      "end_line": 5112,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5091
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5114,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 5113
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5134,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5115
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5154,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 5135
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 5160,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 5155
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5164,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 5161
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5184,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 5165
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 5188,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 5185
+    },
+    {
+      "anchor": "component",
+      "end_line": 5194,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 5189
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 5196,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 5195
+    },
+    {
+      "anchor": "mol",
+      "end_line": 5204,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 5197
+    },
+    {
+      "anchor": "wt",
+      "end_line": 5212,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 5205
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 5216,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 5213
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 5220,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 5217
+    },
+    {
+      "anchor": "density",
+      "end_line": 5240,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5221
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5242,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 5241
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5262,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5243
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5282,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 5263
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 5288,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 5283
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5292,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 5289
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5294,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 5293
+    },
+    {
+      "anchor": "c-centipoises",
+      "end_line": 5296,
+      "heading": "C (Centipoises)",
+      "level": 1,
+      "start_line": 5295
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 5300,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 5297
+    },
+    {
+      "anchor": "lb-ft-hr",
+      "end_line": 5302,
+      "heading": "(lb./ft-hr)",
+      "level": 1,
+      "start_line": 5301
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 5332,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 5303
+    },
+    {
+      "anchor": "density",
+      "end_line": 5352,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5333
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5354,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 5353
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5374,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5355
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5394,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 5375
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 5400,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 5395
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5404,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 5401
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5406,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 5405
+    },
+    {
+      "anchor": "c",
+      "end_line": 5412,
+      "heading": "C",
+      "level": 1,
+      "start_line": 5407
+    },
+    {
+      "anchor": "of",
+      "end_line": 5426,
+      "heading": "OF",
+      "level": 1,
+      "start_line": 5413
+    },
+    {
+      "anchor": "density",
+      "end_line": 5436,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5427
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5438,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 5437
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5442,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5439
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5448,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 5443
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5452,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 5449
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5462,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 5453
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 5466,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 5463
+    },
+    {
+      "anchor": "component",
+      "end_line": 5474,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 5467
+    },
+    {
+      "anchor": "mol",
+      "end_line": 5482,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 5475
+    },
+    {
+      "anchor": "wt",
+      "end_line": 5490,
+      "heading": "wt. %",
+      "level": 1,
+      "start_line": 5483
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 5494,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 5491
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 5498,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 5495
+    },
+    {
+      "anchor": "density",
+      "end_line": 5518,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5499
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5520,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 5519
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5540,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5521
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5560,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 5541
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 5566,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 5561
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5570,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 5567
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5572,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 5571
+    },
+    {
+      "anchor": "c",
+      "end_line": 5574,
+      "heading": "C",
+      "level": 1,
+      "start_line": 5573
+    },
+    {
+      "anchor": "centipoises",
+      "end_line": 5576,
+      "heading": "(Centipoises)",
+      "level": 1,
+      "start_line": 5575
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 5578,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 5577
+    },
+    {
+      "anchor": "of",
+      "end_line": 5580,
+      "heading": "oF",
+      "level": 1,
+      "start_line": 5579
+    },
+    {
+      "anchor": "lb-ft-hr",
+      "end_line": 5582,
+      "heading": "(lb./ft-hr)",
+      "level": 1,
+      "start_line": 5581
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 5588,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 5583
+    },
+    {
+      "anchor": "density",
+      "end_line": 5592,
+      "heading": "Density",
+      "level": 2,
+      "start_line": 5589
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5593,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 5593
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5631,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 5594
+    },
+    {
+      "anchor": "density",
+      "end_line": 5641,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5632
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5643,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 5642
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5663,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 5644
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5689,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 5664
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5693,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 5690
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5725,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 5694
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 5729,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 5726
+    },
+    {
+      "anchor": "component",
+      "end_line": 5737,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 5730
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 5739,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 5738
+    },
+    {
+      "anchor": "mol",
+      "end_line": 5749,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 5740
+    },
+    {
+      "anchor": "wt",
+      "end_line": 5759,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 5750
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 5763,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 5760
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 5767,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 5764
+    },
+    {
+      "anchor": "density",
+      "end_line": 5787,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5768
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5789,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 5788
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5809,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5790
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5829,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 5810
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 5835,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 5830
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5839,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 5836
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5869,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 5840
+    },
+    {
+      "anchor": "density",
+      "end_line": 5891,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5870
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5893,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 5892
+    },
+    {
+      "anchor": "solid",
+      "end_line": 5913,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5894
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 5933,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 5914
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 5939,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 5934
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 5943,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 5940
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 5947,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 5944
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 5971,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 5948
+    },
+    {
+      "anchor": "density",
+      "end_line": 5993,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 5972
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 5995,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 5994
+    },
+    {
+      "anchor": "solid",
+      "end_line": 6015,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 5996
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 6035,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 6016
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 6041,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 6036
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6045,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 6042
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6047,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 6046
+    },
+    {
+      "anchor": "mathrm-o-c-centipoises",
+      "end_line": 6055,
+      "heading": "$\\mathrm{^o C}$ (Centipoises)",
+      "level": 1,
+      "start_line": 6048
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 6063,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 6056
+    },
+    {
+      "anchor": "of",
+      "end_line": 6071,
+      "heading": "OF",
+      "level": 1,
+      "start_line": 6064
+    },
+    {
+      "anchor": "lb-ft-hr",
+      "end_line": 6079,
+      "heading": "(lb./ft-hr)",
+      "level": 1,
+      "start_line": 6072
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 6099,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 6080
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 6125,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 6100
+    },
+    {
+      "anchor": "density",
+      "end_line": 6145,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6126
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6147,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 6146
+    },
+    {
+      "anchor": "solid",
+      "end_line": 6167,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 6148
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 6193,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 6168
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6197,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 6194
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6227,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 6198
+    },
+    {
+      "anchor": "exponential-form-centipoises",
+      "end_line": 6231,
+      "heading": "Exponential Form (centipoises)",
+      "level": 1,
+      "start_line": 6228
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 6235,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 6232
+    },
+    {
+      "anchor": "component",
+      "end_line": 6241,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 6236
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 6243,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 6242
+    },
+    {
+      "anchor": "mol",
+      "end_line": 6251,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 6244
+    },
+    {
+      "anchor": "wt",
+      "end_line": 6259,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 6252
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 6263,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 6260
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 6267,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 6264
+    },
+    {
+      "anchor": "density",
+      "end_line": 6287,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6268
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6289,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 6288
+    },
+    {
+      "anchor": "solid",
+      "end_line": 6309,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 6290
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 6329,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 6310
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 6335,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 6330
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6339,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 6336
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6345,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 6340
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 6349,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 6346
+    },
+    {
+      "anchor": "component",
+      "end_line": 6355,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 6350
+    },
+    {
+      "anchor": "mol",
+      "end_line": 6361,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 6356
+    },
+    {
+      "anchor": "wt",
+      "end_line": 6367,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 6362
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 6371,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 6368
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 6375,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 6372
+    },
+    {
+      "anchor": "density",
+      "end_line": 6385,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6376
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6387,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 6386
+    },
+    {
+      "anchor": "solid",
+      "end_line": 6395,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 6388
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 6403,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 6396
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 6413,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 6404
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6417,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 6414
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6423,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 6418
+    },
+    {
+      "anchor": "density",
+      "end_line": 6443,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6424
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6445,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 6444
+    },
+    {
+      "anchor": "solid",
+      "end_line": 6465,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 6446
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 6485,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 6466
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 6491,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 6486
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6495,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 6492
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6509,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 6496
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 6531,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 6510
+    },
+    {
+      "anchor": "density",
+      "end_line": 6551,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6532
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6553,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 6552
+    },
+    {
+      "anchor": "solid",
+      "end_line": 6561,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 6554
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 6569,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 6562
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 6575,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 6570
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6587,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 6576
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6589,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 6588
+    },
+    {
+      "anchor": "underline-mathbf-o-mathrm-c-centipoises",
+      "end_line": 6597,
+      "heading": "$\\underline{\\mathbf{O}}_{\\mathrm{C}}$ (Centipoises)",
+      "level": 1,
+      "start_line": 6590
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 6621,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 6598
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 6625,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 6622
+    },
+    {
+      "anchor": "component",
+      "end_line": 6633,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 6626
+    },
+    {
+      "anchor": "mol",
+      "end_line": 6641,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 6634
+    },
+    {
+      "anchor": "wt",
+      "end_line": 6649,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 6642
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 6653,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 6650
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 6657,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 6654
+    },
+    {
+      "anchor": "density",
+      "end_line": 6677,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6658
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6679,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 6678
+    },
+    {
+      "anchor": "solid",
+      "end_line": 6699,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 6680
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 6719,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 6700
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 6725,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 6720
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6729,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 6726
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6731,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 6730
+    },
+    {
+      "anchor": "c",
+      "end_line": 6733,
+      "heading": "C",
+      "level": 1,
+      "start_line": 6732
+    },
+    {
+      "anchor": "centipoises",
+      "end_line": 6735,
+      "heading": "(Centipoises)",
+      "level": 1,
+      "start_line": 6734
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 6737,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 6736
+    },
+    {
+      "anchor": "of",
+      "end_line": 6739,
+      "heading": "OF",
+      "level": 1,
+      "start_line": 6738
+    },
+    {
+      "anchor": "lb-ft-hr",
+      "end_line": 6741,
+      "heading": "(lb./ft-hr)",
+      "level": 1,
+      "start_line": 6740
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 6769,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 6742
+    },
+    {
+      "anchor": "density",
+      "end_line": 6789,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6770
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6791,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 6790
+    },
+    {
+      "anchor": "solid-106-368-c",
+      "end_line": 6823,
+      "heading": "Solid (106°-368°C)",
+      "level": 2,
+      "start_line": 6792
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6825,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 6824
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6835,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 6826
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6836,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 6836
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6842,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 6837
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6848,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 6843
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 6852,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 6849
+    },
+    {
+      "anchor": "component",
+      "end_line": 6858,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 6853
+    },
+    {
+      "anchor": "mol",
+      "end_line": 6864,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 6859
+    },
+    {
+      "anchor": "wt",
+      "end_line": 6870,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 6865
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 6874,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 6871
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 6878,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 6875
+    },
+    {
+      "anchor": "density",
+      "end_line": 6898,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6879
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6900,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 6899
+    },
+    {
+      "anchor": "solid",
+      "end_line": 6920,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 6901
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 6940,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 6921
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 6946,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 6941
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 6950,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 6947
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 6966,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 6951
+    },
+    {
+      "anchor": "density",
+      "end_line": 6986,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 6967
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 6988,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 6987
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7008,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 6989
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7028,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7009
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 7034,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 7029
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7038,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 7035
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7059,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 7039
+    },
+    {
+      "anchor": "density",
+      "end_line": 7081,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7060
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7083,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 7082
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7103,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 7084
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7129,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7104
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7133,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 7130
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7151,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 7134
+    },
+    {
+      "anchor": "density",
+      "end_line": 7171,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7152
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7173,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 7172
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7193,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 7174
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7213,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7194
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 7219,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 7214
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7223,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 7220
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7239,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 7224
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 7265,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 7240
+    },
+    {
+      "anchor": "density",
+      "end_line": 7285,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7266
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7287,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 7286
+    },
+    {
+      "anchor": "solid-142-398-c",
+      "end_line": 7295,
+      "heading": "Solid (142°-398°C)",
+      "level": 2,
+      "start_line": 7288
+    },
+    {
+      "anchor": "liquid-458-880-c",
+      "end_line": 7317,
+      "heading": "Liquid (458°-880°C)",
+      "level": 2,
+      "start_line": 7296
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7323,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 7318
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7335,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 7324
+    },
+    {
+      "anchor": "density",
+      "end_line": 7341,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7336
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7343,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 7342
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7347,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 7344
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7351,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7348
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 7357,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 7352
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7361,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 7358
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7403,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 7362
+    },
+    {
+      "anchor": "density",
+      "end_line": 7423,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7404
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7425,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 7424
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7445,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 7426
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7471,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7446
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7475,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 7472
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7483,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 7476
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 7487,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 7484
+    },
+    {
+      "anchor": "component",
+      "end_line": 7495,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 7488
+    },
+    {
+      "anchor": "mol",
+      "end_line": 7503,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 7496
+    },
+    {
+      "anchor": "wt",
+      "end_line": 7511,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 7504
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 7515,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 7512
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 7519,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 7516
+    },
+    {
+      "anchor": "density",
+      "end_line": 7539,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7520
+    },
+    {
+      "anchor": "enthalfy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7541,
+      "heading": "Enthalfy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 7540
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7561,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 7542
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7581,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7562
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 7587,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 7582
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7591,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 7588
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7611,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 7592
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 7641,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 7612
+    },
+    {
+      "anchor": "density",
+      "end_line": 7651,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7642
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7653,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 7652
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7661,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 7654
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7683,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7662
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7687,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 7684
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7739,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 7688
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 7765,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 7740
+    },
+    {
+      "anchor": "density",
+      "end_line": 7787,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7766
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7789,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 7788
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7809,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 7790
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7835,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7810
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7839,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 7836
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 7891,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 7840
+    },
+    {
+      "anchor": "uf-4",
+      "end_line": 7917,
+      "heading": "Uf 4",
+      "level": 2,
+      "start_line": 7892
+    },
+    {
+      "anchor": "density",
+      "end_line": 7937,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 7918
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 7939,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 7938
+    },
+    {
+      "anchor": "solid",
+      "end_line": 7959,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 7940
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 7985,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 7960
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 7989,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 7986
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8027,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 7990
+    },
+    {
+      "anchor": "density",
+      "end_line": 8047,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8028
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8049,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8048
+    },
+    {
+      "anchor": "solid",
+      "end_line": 8069,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 8050
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 8089,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 8070
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 8095,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 8090
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8099,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8096
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8117,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 8100
+    },
+    {
+      "anchor": "density",
+      "end_line": 8127,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8118
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8129,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 8128
+    },
+    {
+      "anchor": "solid",
+      "end_line": 8137,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 8130
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 8151,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 8138
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8155,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 8152
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8159,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 8156
+    },
+    {
+      "anchor": "density",
+      "end_line": 8163,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8160
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8165,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8164
+    },
+    {
+      "anchor": "solid",
+      "end_line": 8169,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 8166
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 8173,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 8170
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 8179,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 8174
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8183,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8180
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8191,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 8184
+    },
+    {
+      "anchor": "density",
+      "end_line": 8201,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8192
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8203,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8202
+    },
+    {
+      "anchor": "solid",
+      "end_line": 8211,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 8204
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 8219,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 8212
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 8225,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 8220
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8229,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8226
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8243,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 8230
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8245,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 8244
+    },
+    {
+      "anchor": "solid",
+      "end_line": 8253,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 8246
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 8263,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 8254
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8267,
+      "heading": "Thermal Conductivity",
+      "level": 2,
+      "start_line": 8264
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8275,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 8268
+    },
+    {
+      "anchor": "density",
+      "end_line": 8279,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8276
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8285,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8280
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8289,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8286
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8301,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 8290
+    },
+    {
+      "anchor": "density",
+      "end_line": 8311,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8302
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8313,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8312
+    },
+    {
+      "anchor": "solid-112-572-c",
+      "end_line": 8331,
+      "heading": "Solid (112°-572°C)",
+      "level": 2,
+      "start_line": 8314
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8335,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8332
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8343,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 8336
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 8347,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 8344
+    },
+    {
+      "anchor": "component",
+      "end_line": 8355,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 8348
+    },
+    {
+      "anchor": "mol",
+      "end_line": 8363,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 8356
+    },
+    {
+      "anchor": "wt",
+      "end_line": 8371,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 8364
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 8375,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 8372
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 8379,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 8376
+    },
+    {
+      "anchor": "density",
+      "end_line": 8399,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8380
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8401,
+      "heading": "Enthalpy, Heat Capacity And Heat Of Fusion",
+      "level": 2,
+      "start_line": 8400
+    },
+    {
+      "anchor": "solid-97-594-c",
+      "end_line": 8409,
+      "heading": "Solid (97°-594°C)",
+      "level": 2,
+      "start_line": 8402
+    },
+    {
+      "anchor": "liquid-655-916-c",
+      "end_line": 8431,
+      "heading": "Liquid (655°-916°C)",
+      "level": 2,
+      "start_line": 8410
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8435,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8432
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8443,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 8436
+    },
+    {
+      "anchor": "centipoises",
+      "end_line": 8449,
+      "heading": "(Centipoises)",
+      "level": 1,
+      "start_line": 8444
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 8451,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 8450
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 8453,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 8452
+    },
+    {
+      "anchor": "0f",
+      "end_line": 8458,
+      "heading": "0F",
+      "level": 1,
+      "start_line": 8454
+    },
+    {
+      "anchor": "lb-ft-hr",
+      "end_line": 8463,
+      "heading": "(lb./ft-hr)",
+      "level": 1,
+      "start_line": 8459
+    },
+    {
+      "anchor": "ft-hr",
+      "end_line": 8469,
+      "heading": "ft²/hr",
+      "level": 1,
+      "start_line": 8464
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 8473,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 8470
+    },
+    {
+      "anchor": "component",
+      "end_line": 8479,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 8474
+    },
+    {
+      "anchor": "mol",
+      "end_line": 8485,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 8480
+    },
+    {
+      "anchor": "wt",
+      "end_line": 8491,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 8486
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 8495,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 8492
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 8499,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 8496
+    },
+    {
+      "anchor": "density",
+      "end_line": 8519,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8500
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8521,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8520
+    },
+    {
+      "anchor": "solid-107-466-c",
+      "end_line": 8551,
+      "heading": "Solid (107°-466°C)",
+      "level": 2,
+      "start_line": 8522
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8555,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8552
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8597,
+      "heading": "Viscosity",
+      "level": 2,
+      "start_line": 8556
+    },
+    {
+      "anchor": "density",
+      "end_line": 8617,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8598
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8619,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8618
+    },
+    {
+      "anchor": "solid-127-465-c",
+      "end_line": 8649,
+      "heading": "Solid (127°-465°C)",
+      "level": 2,
+      "start_line": 8620
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8655,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8650
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8659,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 8656
+    },
+    {
+      "anchor": "exponential-form-centipoises",
+      "end_line": 8663,
+      "heading": "Exponential Form (centipoises)",
+      "level": 1,
+      "start_line": 8660
+    },
+    {
+      "anchor": "density",
+      "end_line": 8667,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8664
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8673,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8668
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8677,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8674
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8687,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 8678
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 8691,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 8688
+    },
+    {
+      "anchor": "component",
+      "end_line": 8699,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 8692
+    },
+    {
+      "anchor": "mol",
+      "end_line": 8707,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 8700
+    },
+    {
+      "anchor": "wt",
+      "end_line": 8715,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 8708
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 8719,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 8716
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 8723,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 8720
+    },
+    {
+      "anchor": "density",
+      "end_line": 8743,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8724
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8745,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8744
+    },
+    {
+      "anchor": "solid",
+      "end_line": 8765,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 8746
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 8785,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 8766
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 8791,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 8786
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8795,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8792
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8799,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 8796
+    },
+    {
+      "anchor": "centipoises",
+      "end_line": 8801,
+      "heading": "(Centipoises)",
+      "level": 1,
+      "start_line": 8800
+    },
+    {
+      "anchor": "centistokes",
+      "end_line": 8823,
+      "heading": "(Centistokes)",
+      "level": 1,
+      "start_line": 8802
+    },
+    {
+      "anchor": "density",
+      "end_line": 8843,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8824
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8845,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8844
+    },
+    {
+      "anchor": "solid",
+      "end_line": 8865,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 8846
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 8891,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 8866
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 8895,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 8892
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 8943,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 8896
+    },
+    {
+      "anchor": "density",
+      "end_line": 8963,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 8944
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 8965,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 8964
+    },
+    {
+      "anchor": "solid",
+      "end_line": 8985,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 8966
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9011,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 8986
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9015,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9012
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 9051,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 9016
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 9055,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 9052
+    },
+    {
+      "anchor": "component",
+      "end_line": 9063,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 9056
+    },
+    {
+      "anchor": "mol",
+      "end_line": 9071,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 9064
+    },
+    {
+      "anchor": "wt",
+      "end_line": 9079,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 9072
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 9083,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 9080
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 9087,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 9084
+    },
+    {
+      "anchor": "density",
+      "end_line": 9107,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9088
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9109,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9108
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9129,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 9110
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9149,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 9130
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 9155,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 9150
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9159,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9156
+    },
+    {
+      "anchor": "viscostity",
+      "end_line": 9177,
+      "heading": "Viscostity",
+      "level": 2,
+      "start_line": 9160
+    },
+    {
+      "anchor": "density",
+      "end_line": 9197,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9178
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9199,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9198
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9219,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 9200
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9245,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 9220
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9249,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9246
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 9277,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 9250
+    },
+    {
+      "anchor": "density",
+      "end_line": 9299,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9278
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9301,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9300
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9321,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 9302
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9347,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 9322
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9351,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9348
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 9375,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 9352
+    },
+    {
+      "anchor": "density",
+      "end_line": 9395,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9376
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9397,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9396
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9417,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 9398
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9443,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 9418
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9447,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9444
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 9462,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 9448
+    },
+    {
+      "anchor": "density",
+      "end_line": 9482,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9463
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9484,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9483
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9504,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 9485
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9524,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 9505
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 9530,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 9525
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9534,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9531
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 9605,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 9535
+    },
+    {
+      "anchor": "density",
+      "end_line": 9627,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9606
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9629,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9628
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9649,
+      "heading": "Solid",
+      "level": 2,
+      "start_line": 9630
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9675,
+      "heading": "Liquid",
+      "level": 2,
+      "start_line": 9650
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9679,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9676
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 9727,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 9680
+    },
+    {
+      "anchor": "density",
+      "end_line": 9731,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9728
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9733,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9732
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9737,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 9734
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9741,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 9738
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 9747,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 9742
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9751,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9748
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 9759,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 9752
+    },
+    {
+      "anchor": "mixture",
+      "end_line": 9763,
+      "heading": "Mixture",
+      "level": 1,
+      "start_line": 9760
+    },
+    {
+      "anchor": "component",
+      "end_line": 9769,
+      "heading": "Component",
+      "level": 1,
+      "start_line": 9764
+    },
+    {
+      "anchor": "mol",
+      "end_line": 9775,
+      "heading": "Mol %",
+      "level": 1,
+      "start_line": 9770
+    },
+    {
+      "anchor": "wt",
+      "end_line": 9781,
+      "heading": "Wt. %",
+      "level": 1,
+      "start_line": 9776
+    },
+    {
+      "anchor": "avg-m-w",
+      "end_line": 9785,
+      "heading": "Avg. M.W.",
+      "level": 1,
+      "start_line": 9782
+    },
+    {
+      "anchor": "liquidus-temp",
+      "end_line": 9789,
+      "heading": "Liquidus Temp.",
+      "level": 1,
+      "start_line": 9786
+    },
+    {
+      "anchor": "density",
+      "end_line": 9799,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9790
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9801,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9800
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9821,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 9802
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9841,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 9822
+    },
+    {
+      "anchor": "heat-of-fusion-cal-gm",
+      "end_line": 9847,
+      "heading": "HEAT OF FUSION (cal/gm)",
+      "level": 1,
+      "start_line": 9842
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 9851,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9848
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 9930,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 9852
+    },
+    {
+      "anchor": "density",
+      "end_line": 9950,
+      "heading": "DENSITY",
+      "level": 1,
+      "start_line": 9931
+    },
+    {
+      "anchor": "enthalpy-heat-capacity-and-heat-of-fusion",
+      "end_line": 9952,
+      "heading": "ENTHALPY, HEAT CAPACITY AND HEAT OF FUSION",
+      "level": 1,
+      "start_line": 9951
+    },
+    {
+      "anchor": "solid",
+      "end_line": 9972,
+      "heading": "SOLID",
+      "level": 1,
+      "start_line": 9953
+    },
+    {
+      "anchor": "liquid",
+      "end_line": 9998,
+      "heading": "LIQUID",
+      "level": 1,
+      "start_line": 9973
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 10002,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 9999
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 10028,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 10003
+    },
+    {
+      "anchor": "concluding-remarks",
+      "end_line": 10036,
+      "heading": "CONCLUDING REMARKS",
+      "level": 1,
+      "start_line": 10029
+    },
+    {
+      "anchor": "references",
+      "end_line": 10088,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 10037
+    }
+  ],
+  "source_dir": "pdf/ORNL-2150",
+  "tables": [],
+  "title": "ORNL MASTER COPY",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "materials-and-corrosion",
+    "program-history",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,1210 @@
+{
+  "authors": [
+    "C.W.Kee",
+    "L.E.McNeese",
+    "NOTICE",
+    "UNION CARBIDE CORPORATION",
+    "Page No."
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4210.jsonl",
+  "date_text": "1976",
+  "doc_id": "ornl-tm-4210",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 12,
+        "line_hits": [
+          107,
+          115,
+          116,
+          127,
+          523,
+          569,
+          623,
+          847,
+          851,
+          853,
+          857,
+          1364
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          321,
+          1364
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          115,
+          116
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          127
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          19,
+          327,
+          505,
+          506,
+          507,
+          508,
+          510,
+          511,
+          699
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          25
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 94,
+        "line_hits": [
+          83,
+          91,
+          93,
+          95,
+          101,
+          105,
+          123,
+          125,
+          127,
+          131,
+          137,
+          173,
+          175,
+          177,
+          193,
+          281,
+          321,
+          335,
+          385,
+          451,
+          465,
+          469,
+          477,
+          485,
+          493,
+          499,
+          525,
+          527,
+          529,
+          533,
+          537,
+          541,
+          565,
+          569,
+          577,
+          587,
+          591,
+          605,
+          625,
+          653,
+          655,
+          667,
+          671,
+          675,
+          677,
+          697,
+          727,
+          741,
+          745,
+          776
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          83,
+          87,
+          101,
+          105,
+          506
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          507
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          541
+        ],
+        "name": "KF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "40e9294a8416e7c5e7161255bec3163a929eb0c008fdd563736ae47d045e4332",
+  "markdown_path": "pdf/ORNL-TM-4210/ORNL-TM-4210/hybrid_ocr/ORNL-TM-4210.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 145,
+  "sections": [
+    {
+      "anchor": "ornl-tm-4210",
+      "end_line": 6,
+      "heading": "Ornl/Tm-4210",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 8,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "mrpp-multiregion-processing-plant-code",
+      "end_line": 12,
+      "heading": "Mrpp - Multiregion Processing Plant Code",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "september-1976",
+      "end_line": 14,
+      "heading": "September 1976",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "notice",
+      "end_line": 18,
+      "heading": "Notice",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 28,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 30,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 34,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 36,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 38,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "2-equations-and-assumptions-3",
+      "end_line": 44,
+      "heading": "2. EQUATIONS AND ASSUMPTIONS 3",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "3-numerical-methods-employed-13",
+      "end_line": 58,
+      "heading": "3. NUMERICAL METHODS EMPLOYED 13",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "4-limitations-and-special-considerations-21",
+      "end_line": 68,
+      "heading": "4. LIMITATIONS AND SPECIAL CONSIDERATIONS 21",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "5-references-25",
+      "end_line": 70,
+      "heading": "5. REFERENCES 25",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "appendix-a-description-of-subroutines-used-27",
+      "end_line": 72,
+      "heading": "Appendix A: Description Of Subroutines Used 27",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "appendix-b-input-42",
+      "end_line": 74,
+      "heading": "Appendix B: Input 42",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "appendix-c-output-60",
+      "end_line": 76,
+      "heading": "Appendix C: Output 60",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "mrpp-multiregion-processing-plant-code",
+      "end_line": 80,
+      "heading": "MRPP - MULTIREGION PROCESSING PLANT CODE",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 84,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 98,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "2-equations-and-assumptions",
+      "end_line": 102,
+      "heading": "2. EQUATIONS AND ASSUMPTIONS",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "2-1-model-for-the-reactor",
+      "end_line": 112,
+      "heading": "2.1 Model for the Reactor",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "where",
+      "end_line": 132,
+      "heading": "where",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "2-2-model-for-the-processing-plant",
+      "end_line": 138,
+      "heading": "2.2 Model for the Processing Plant",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "2-2-1-material-balance-equations",
+      "end_line": 212,
+      "heading": "2.2.1 Material balance equations",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "2-2-2-mass-transfer-coefficients",
+      "end_line": 316,
+      "heading": "2.2.2 Mass transfer coefficients",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "3-numerical-methods-employed",
+      "end_line": 318,
+      "heading": "3. NUMERICAL METHODS EMPLOYED",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "3-1-solution-of-reactor-material-balance-equations",
+      "end_line": 322,
+      "heading": "3.1 Solution of Reactor Material Balance Equations",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "3-2-solution-of-the-processing-plant-material-balance-equations",
+      "end_line": 328,
+      "heading": "3.2 Solution of the Processing Plant Material Balance Equations",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "3-3-iteration-with-reactor-code",
+      "end_line": 336,
+      "heading": "3.3 Iteration with Reactor Code",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "3-4-calculation-of-molar-volumes",
+      "end_line": 342,
+      "heading": "3.4 Calculation of Molar Volumes",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "3-5-correction-of-distribution-coefficients",
+      "end_line": 361,
+      "heading": "3.5 Correction of Distribution Coefficients",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "e-e-0-0",
+      "end_line": 466,
+      "heading": "E - E _ {0} = 0,",
+      "level": 2,
+      "start_line": 362
+    },
+    {
+      "anchor": "3-6-investigation-of-faster-solution-methods",
+      "end_line": 472,
+      "heading": "3.6 Investigation of Faster Solution Methods",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "4-limitations-and-special-considerations",
+      "end_line": 474,
+      "heading": "4. LIMITATIONS AND SPECIAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 473
+    },
+    {
+      "anchor": "4-1-limitations-of-steady-state-calculation",
+      "end_line": 482,
+      "heading": "4.1 Limitations of Steady State Calculation",
+      "level": 1,
+      "start_line": 475
+    },
+    {
+      "anchor": "4-2-system-of-units",
+      "end_line": 486,
+      "heading": "4.2 System of Units",
+      "level": 1,
+      "start_line": 483
+    },
+    {
+      "anchor": "4-3-description-of-particular-items-using-mass-transfer-coefficients",
+      "end_line": 494,
+      "heading": "4.3 Description of Particular Items Using Mass Transfer Coefficients",
+      "level": 1,
+      "start_line": 487
+    },
+    {
+      "anchor": "4-4-uses-requiring-modifications",
+      "end_line": 502,
+      "heading": "4.4 Uses Requiring Modifications",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "5-references",
+      "end_line": 512,
+      "heading": "5. REFERENCES",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "appendixes",
+      "end_line": 514,
+      "heading": "APPENDIXES",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "user-s-manual",
+      "end_line": 516,
+      "heading": "USER'S MANUAL",
+      "level": 1,
+      "start_line": 515
+    },
+    {
+      "anchor": "appendix-a-description-of-subroutines-used",
+      "end_line": 520,
+      "heading": "APPENDIX A: DESCRIPTION OF SUBROUTINES USED",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "subroutine-matador",
+      "end_line": 534,
+      "heading": "Subroutine MATADOR",
+      "level": 1,
+      "start_line": 521
+    },
+    {
+      "anchor": "subroutine-amatrx",
+      "end_line": 574,
+      "heading": "Subroutine AMATRX",
+      "level": 1,
+      "start_line": 535
+    },
+    {
+      "anchor": "subroutine-besi-x-n-bi-ier",
+      "end_line": 588,
+      "heading": "Subroutine BESI(X,N,BI,IER)",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "subroutine-chempl",
+      "end_line": 606,
+      "heading": "Subroutine CHEMPL",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "subroutine-kee",
+      "end_line": 610,
+      "heading": "Subroutine KEE",
+      "level": 1,
+      "start_line": 607
+    },
+    {
+      "anchor": "subroutine-result-xeql",
+      "end_line": 650,
+      "heading": "Subroutine RESULT (XEQL)",
+      "level": 1,
+      "start_line": 611
+    },
+    {
+      "anchor": "main-program",
+      "end_line": 664,
+      "heading": "MAIN Program",
+      "level": 1,
+      "start_line": 651
+    },
+    {
+      "anchor": "subroutine-eqkn",
+      "end_line": 668,
+      "heading": "Subroutine EQKN",
+      "level": 1,
+      "start_line": 665
+    },
+    {
+      "anchor": "subroutine-volume-nleft",
+      "end_line": 680,
+      "heading": "Subroutine VOLUME (NLEFT)",
+      "level": 1,
+      "start_line": 669
+    },
+    {
+      "anchor": "subroutine-matqd-a-x-nr-nv-det-na-nx",
+      "end_line": 702,
+      "heading": "Subroutine MATQD(A,X,NR,NV,DET,NA,NX)",
+      "level": 1,
+      "start_line": 681
+    },
+    {
+      "anchor": "subroutine-outo",
+      "end_line": 722,
+      "heading": "Subroutine OUTO",
+      "level": 1,
+      "start_line": 703
+    },
+    {
+      "anchor": "miscellaneous-short-routines",
+      "end_line": 730,
+      "heading": "Miscellaneous Short Routines",
+      "level": 1,
+      "start_line": 723
+    },
+    {
+      "anchor": "subroutine-zero-a-b-n",
+      "end_line": 734,
+      "heading": "Subroutine ZERO(A,B,N)",
+      "level": 1,
+      "start_line": 731
+    },
+    {
+      "anchor": "subroutine-half-a-i",
+      "end_line": 738,
+      "heading": "Subroutine HALF(A.I)",
+      "level": 1,
+      "start_line": 735
+    },
+    {
+      "anchor": "function-noaa-nucli",
+      "end_line": 742,
+      "heading": "Function NOAA (NUCLI)",
+      "level": 1,
+      "start_line": 739
+    },
+    {
+      "anchor": "appendix-b-input",
+      "end_line": 746,
+      "heading": "APPENDIX B: INPUT",
+      "level": 1,
+      "start_line": 743
+    },
+    {
+      "anchor": "nuclear-library-amatrx",
+      "end_line": 753,
+      "heading": "Nuclear Library (AMATRX)",
+      "level": 1,
+      "start_line": 747
+    },
+    {
+      "anchor": "format-f10-5-4i2",
+      "end_line": 765,
+      "heading": "Format(F10.5,4I2)",
+      "level": 2,
+      "start_line": 754
+    },
+    {
+      "anchor": "format-5i10",
+      "end_line": 779,
+      "heading": "Format(5I10)",
+      "level": 2,
+      "start_line": 766
+    },
+    {
+      "anchor": "light-elements",
+      "end_line": 782,
+      "heading": "Light Elements",
+      "level": 1,
+      "start_line": 780
+    },
+    {
+      "anchor": "nucl-i-dlam-iu-fbi-fp-fpi-ft-fa-sigth-fng1-fna-fnp-rith-fina-finp",
+      "end_line": 783,
+      "heading": "Nucl(I), Dlam,Iu,Fbi,Fp,Fpi,Ft,Fa,Sigth,Fng1,Fna,Fnp,Rith,Fina,Finp",
+      "level": 2,
+      "start_line": 783
+    },
+    {
+      "anchor": "sigmev-fn2n1-ffna-ffnp-q-fg",
+      "end_line": 784,
+      "heading": "Sigmev,Fn2N1,Ffna,Ffnp,Q,Fg",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "format-i6-f5-3-i1-5f5-3-e5-2-3f3-3-e5-2-2f3-3-e5-2-3f3-3-f4-3-f3-3-f6-3",
+      "end_line": 788,
+      "heading": "Format(I6,F5.3,I1,5F5.3,E5.2,3F3.3,E5.2,2F3.3,E5.2,3F3.3,F4.3,F3.3,F6.3)",
+      "level": 2,
+      "start_line": 785
+    },
+    {
+      "anchor": "actinides",
+      "end_line": 792,
+      "heading": "Actinides",
+      "level": 1,
+      "start_line": 789
+    },
+    {
+      "anchor": "format-i6-f5-3-i1-5f3-3-2e5-2-f3-3-4e5-2-f3-3-f4-4-f3-3-2e5-2",
+      "end_line": 797,
+      "heading": "Format(I6,F5.3,I1,5F3.3,2E5.2,F3.3,4E5.2,F3.3,F4.4,F3.3,2E5.2)",
+      "level": 2,
+      "start_line": 793
+    },
+    {
+      "anchor": "fission-products",
+      "end_line": 805,
+      "heading": "Fission Products",
+      "level": 1,
+      "start_line": 798
+    },
+    {
+      "anchor": "matador-input",
+      "end_line": 808,
+      "heading": "MATADOR Input",
+      "level": 1,
+      "start_line": 806
+    },
+    {
+      "anchor": "b-flux-power-flow1-therm-res-fast-fpabs",
+      "end_line": 810,
+      "heading": "B. Flux, Power, Flow1, Therm, Res, Fast, Fpabs",
+      "level": 2,
+      "start_line": 809
+    },
+    {
+      "anchor": "format-8f10-5",
+      "end_line": 826,
+      "heading": "Format(8F10.5)",
+      "level": 2,
+      "start_line": 811
+    },
+    {
+      "anchor": "c-eps-err-max-kard",
+      "end_line": 828,
+      "heading": "C. EPS, ERR, MAX, KARD",
+      "level": 2,
+      "start_line": 827
+    },
+    {
+      "anchor": "format-2f10-3-2i5",
+      "end_line": 840,
+      "heading": "Format(2F10.3,2I5)",
+      "level": 2,
+      "start_line": 829
+    },
+    {
+      "anchor": "matador",
+      "end_line": 842,
+      "heading": "Matador.",
+      "level": 2,
+      "start_line": 841
+    },
+    {
+      "anchor": "d-area-vol-radius-porty-film-diffy-solbty-vratio",
+      "end_line": 844,
+      "heading": "D. Area, Vol, Radius, Porty, Film, Diffy, Solbty, Vratio",
+      "level": 2,
+      "start_line": 843
+    },
+    {
+      "anchor": "format-8e10-3",
+      "end_line": 860,
+      "heading": "Format(8E10.3)",
+      "level": 2,
+      "start_line": 845
+    },
+    {
+      "anchor": "e-igas-idau-ient-i3-i3dep-next",
+      "end_line": 861,
+      "heading": "E. Igas, Idau, Ient, I3, I3Dep, Next",
+      "level": 2,
+      "start_line": 861
+    },
+    {
+      "anchor": "format-4x-16-4x-16-15-4x-16-215",
+      "end_line": 880,
+      "heading": "Format(4X,16,4X,16,15,4X,16,215)",
+      "level": 2,
+      "start_line": 862
+    },
+    {
+      "anchor": "f-film-diffy-solbty-format-3e12-5",
+      "end_line": 885,
+      "heading": "F. Film,Diffy,Solbty Format(3E12.5)",
+      "level": 2,
+      "start_line": 881
+    },
+    {
+      "anchor": "g-input-i-x-i-i-1-4",
+      "end_line": 887,
+      "heading": "G. Input(I),X(I),I=1,4",
+      "level": 2,
+      "start_line": 886
+    },
+    {
+      "anchor": "format-4-i5-f10-3",
+      "end_line": 897,
+      "heading": "Format(4(I5,F10.3))",
+      "level": 2,
+      "start_line": 888
+    },
+    {
+      "anchor": "h-time-n-n-1-10",
+      "end_line": 899,
+      "heading": "H. Time(N),N=1,10",
+      "level": 2,
+      "start_line": 898
+    },
+    {
+      "anchor": "format-10e8-1",
+      "end_line": 903,
+      "heading": "Format(10E8.1)",
+      "level": 2,
+      "start_line": 900
+    },
+    {
+      "anchor": "i-np-i-i-1-100",
+      "end_line": 905,
+      "heading": "I. Np(I), I=1, 100",
+      "level": 2,
+      "start_line": 904
+    },
+    {
+      "anchor": "format-40-12",
+      "end_line": 909,
+      "heading": "Format（40（12））",
+      "level": 2,
+      "start_line": 906
+    },
+    {
+      "anchor": "j-nz-i-eff-i-i-1-8",
+      "end_line": 911,
+      "heading": "J. Nz(I),Eff(I),I=1,8",
+      "level": 2,
+      "start_line": 910
+    },
+    {
+      "anchor": "format-8-i3-f7-4",
+      "end_line": 919,
+      "heading": "Format(8(I3,F7.4))",
+      "level": 2,
+      "start_line": 912
+    },
+    {
+      "anchor": "format-8f10-3",
+      "end_line": 933,
+      "heading": "Format(8F10.3)",
+      "level": 2,
+      "start_line": 920
+    },
+    {
+      "anchor": "l-ntime-i-punit-i-i-1-10-format-10-i4-a4",
+      "end_line": 939,
+      "heading": "L. Ntime(I),Punit(I),I=1,10 Format(10(I4,A4))",
+      "level": 2,
+      "start_line": 934
+    },
+    {
+      "anchor": "m-nz-i-eff-i-i-1-8-format-8-i3-f7-4",
+      "end_line": 946,
+      "heading": "M. Nz(I),Eff(I),I=1,8 Format(8(I3,F7.4))",
+      "level": 2,
+      "start_line": 940
+    },
+    {
+      "anchor": "main-input",
+      "end_line": 951,
+      "heading": "MAIN input",
+      "level": 1,
+      "start_line": 947
+    },
+    {
+      "anchor": "a-i1-i2-i3-i4-i5-i6-i7-i8-i9-i10-nwaste-i12-i13-i14-i15-format-16i5",
+      "end_line": 974,
+      "heading": "A. I1,I2,I3,I4,I5,I6,I7,I8,I9,I10,Nwaste,I12,I13,I14,I15 Format (16I5)",
+      "level": 2,
+      "start_line": 952
+    },
+    {
+      "anchor": "b-eps-err-max",
+      "end_line": 976,
+      "heading": "B. Eps, Err, Max",
+      "level": 2,
+      "start_line": 975
+    },
+    {
+      "anchor": "format-2f10-3-i5",
+      "end_line": 986,
+      "heading": "Format (2F10.3, I5)",
+      "level": 2,
+      "start_line": 977
+    },
+    {
+      "anchor": "c-wtdx",
+      "end_line": 988,
+      "heading": "C. WTDX",
+      "level": 2,
+      "start_line": 987
+    },
+    {
+      "anchor": "format-f10-3",
+      "end_line": 992,
+      "heading": "Format (F10.3)",
+      "level": 2,
+      "start_line": 989
+    },
+    {
+      "anchor": "d-nreg-ninx-niny-ninp-nrate-krate-jrate",
+      "end_line": 994,
+      "heading": "D. Nreg, Ninx, Niny, Ninp, Nrate, Krate, Jrate",
+      "level": 2,
+      "start_line": 993
+    },
+    {
+      "anchor": "format-1615",
+      "end_line": 1016,
+      "heading": "Format (1615)",
+      "level": 2,
+      "start_line": 995
+    },
+    {
+      "anchor": "format-a8-2x-3e10-0-i2-i3-i2-z3-a8-2x-a8-e12-0",
+      "end_line": 1055,
+      "heading": "Format (A8, 2X, 3E10.0, I2, I3, I2, Z3, A8, 2X, A8, E12.0)",
+      "level": 2,
+      "start_line": 1017
+    },
+    {
+      "anchor": "f-rinto-i-input-i-comp-i-icp-i-i-1-ninp",
+      "end_line": 1057,
+      "heading": "F. Rinto(I), Input(I), Comp(I), Icp(I), $I = 1$ , Ninp",
+      "level": 2,
+      "start_line": 1056
+    },
+    {
+      "anchor": "format-a8-2x-i10-e12-0-i3",
+      "end_line": 1071,
+      "heading": "Format (A8, 2X, I10, E12.0, I3)",
+      "level": 2,
+      "start_line": 1058
+    },
+    {
+      "anchor": "g-nset",
+      "end_line": 1077,
+      "heading": "G. Nset",
+      "level": 2,
+      "start_line": 1072
+    },
+    {
+      "anchor": "h-rdef-i-indef-i-dcomp-i-i-1-nset",
+      "end_line": 1079,
+      "heading": "H. Rdef(I), Indef(I), Dcomp(I), I=1, Nset",
+      "level": 2,
+      "start_line": 1078
+    },
+    {
+      "anchor": "format-a8-2x-i10-e12-0",
+      "end_line": 1095,
+      "heading": "Format (A8, 2X, I10, E12.0)",
+      "level": 2,
+      "start_line": 1080
+    },
+    {
+      "anchor": "i-rxfrom-j-rxto-j-xrate-j-j-1-ninx",
+      "end_line": 1097,
+      "heading": "I. Rxfrom(J), Rxto(J), Xrate(J), J=1, Ninx",
+      "level": 2,
+      "start_line": 1096
+    },
+    {
+      "anchor": "format-a8-2x-a8-e12-0",
+      "end_line": 1107,
+      "heading": "Format (A8, 2X, A8, E12.0)",
+      "level": 2,
+      "start_line": 1098
+    },
+    {
+      "anchor": "j-rxfrom-j-ryto-j-yrate-j-j-1-niny",
+      "end_line": 1109,
+      "heading": "J. Rxfrom(J), Ryto(J), Yrate(J), J=1, Niny",
+      "level": 2,
+      "start_line": 1108
+    },
+    {
+      "anchor": "format-a8-2x-a8-e12-0",
+      "end_line": 1115,
+      "heading": "Format (A8, 2X, A8, E12.0)",
+      "level": 2,
+      "start_line": 1110
+    },
+    {
+      "anchor": "k-rwaste-iw-iw-1-nwaste",
+      "end_line": 1117,
+      "heading": "K. Rwaste(Iw), Iw=1, Nwaste",
+      "level": 2,
+      "start_line": 1116
+    },
+    {
+      "anchor": "format-10a8",
+      "end_line": 1121,
+      "heading": "Format (10A8)",
+      "level": 2,
+      "start_line": 1118
+    },
+    {
+      "anchor": "l-fwaste-iw-iw-1-nwaste",
+      "end_line": 1123,
+      "heading": "L. Fwaste (Iw), Iw=1, Nwaste",
+      "level": 2,
+      "start_line": 1122
+    },
+    {
+      "anchor": "format-10f8-0",
+      "end_line": 1127,
+      "heading": "Format (10F8.0)",
+      "level": 2,
+      "start_line": 1124
+    },
+    {
+      "anchor": "m-kwaste-iw-iw-1-nwaste",
+      "end_line": 1129,
+      "heading": "M. Kwaste (Iw), Iw=1, Nwaste",
+      "level": 2,
+      "start_line": 1128
+    },
+    {
+      "anchor": "format-1018",
+      "end_line": 1133,
+      "heading": "Format (1018)",
+      "level": 2,
+      "start_line": 1130
+    },
+    {
+      "anchor": "n-det",
+      "end_line": 1135,
+      "heading": "N. Det",
+      "level": 2,
+      "start_line": 1134
+    },
+    {
+      "anchor": "format-20a4",
+      "end_line": 1143,
+      "heading": "Format (20A4)",
+      "level": 2,
+      "start_line": 1136
+    },
+    {
+      "anchor": "format-20a4",
+      "end_line": 1151,
+      "heading": "Format (20A4)",
+      "level": 2,
+      "start_line": 1144
+    },
+    {
+      "anchor": "format-20a4",
+      "end_line": 1159,
+      "heading": "Format (20A4)",
+      "level": 2,
+      "start_line": 1152
+    },
+    {
+      "anchor": "rxna-i-rxnb-i-scfact-i-nform-i-i-1-nrate",
+      "end_line": 1161,
+      "heading": "Rxna(I), Rxnb(I), Scfact(I), Nform(I), $I = 1$ , Nrate",
+      "level": 2,
+      "start_line": 1160
+    },
+    {
+      "anchor": "format-2-a8-2x-a8-e12-0-i5-5x",
+      "end_line": 1175,
+      "heading": "Format [2(A8, 2X, A8, E12.0, I5, 5X)]",
+      "level": 2,
+      "start_line": 1162
+    },
+    {
+      "anchor": "regl-regg-ith-comm",
+      "end_line": 1191,
+      "heading": "Regl, Regg, Ith, Comm",
+      "level": 2,
+      "start_line": 1176
+    },
+    {
+      "anchor": "regl-regg-akl-ab-as-xg-xl-itd-ith-itc",
+      "end_line": 1193,
+      "heading": "Regl, Regg, Akl, Ab, As, Xg, Xl, Itd, Ith, Itc",
+      "level": 2,
+      "start_line": 1192
+    },
+    {
+      "anchor": "format-a8-2x-a8-2x-5f10-7-2i3-i2",
+      "end_line": 1217,
+      "heading": "Format (A8,2X,A8,2X,5F10.7,2I3,I2)",
+      "level": 2,
+      "start_line": 1194
+    },
+    {
+      "anchor": "format-20a4",
+      "end_line": 1221,
+      "heading": "Format (20A4)",
+      "level": 2,
+      "start_line": 1218
+    },
+    {
+      "anchor": "t-rdata-i-i-1-800",
+      "end_line": 1223,
+      "heading": "T. Rdata(I), $I = 1,800$",
+      "level": 2,
+      "start_line": 1222
+    },
+    {
+      "anchor": "format-8x-8e8-0",
+      "end_line": 1231,
+      "heading": "Format (8X, 8E8.0)",
+      "level": 2,
+      "start_line": 1224
+    },
+    {
+      "anchor": "a-lz-ns-nt-an-a-b-ename",
+      "end_line": 1233,
+      "heading": "A. Lz, Ns, Nt, An, A, B, Ename",
+      "level": 2,
+      "start_line": 1232
+    },
+    {
+      "anchor": "format-i3-2i2-8x-f2-0-10x-e8-0-2x-e8-0-33x-a2",
+      "end_line": 1235,
+      "heading": "Format (I3, 2I2, 8X, F2.0, 10X, E8.0, 2X, E8.0, 33X, A2)",
+      "level": 2,
+      "start_line": 1234
+    },
+    {
+      "anchor": "b-lz2-ns2-ref",
+      "end_line": 1237,
+      "heading": "B. Lz2, Ns2, Ref",
+      "level": 2,
+      "start_line": 1236
+    },
+    {
+      "anchor": "format-i3-i2-75a1",
+      "end_line": 1273,
+      "heading": "Format (I3, I2, 75A1)",
+      "level": 2,
+      "start_line": 1238
+    },
+    {
+      "anchor": "input-to-volume",
+      "end_line": 1277,
+      "heading": "INPUT TO VOLUME",
+      "level": 1,
+      "start_line": 1274
+    },
+    {
+      "anchor": "a-nta-ntb",
+      "end_line": 1279,
+      "heading": "A. Nta, Ntb",
+      "level": 2,
+      "start_line": 1278
+    },
+    {
+      "anchor": "format-32i2",
+      "end_line": 1283,
+      "heading": "Format (32I2)",
+      "level": 2,
+      "start_line": 1280
+    },
+    {
+      "anchor": "b-volc",
+      "end_line": 1285,
+      "heading": "B. Volc",
+      "level": 2,
+      "start_line": 1284
+    },
+    {
+      "anchor": "format-8x-8e8-0",
+      "end_line": 1291,
+      "heading": "Format (8X, 8E8.0)",
+      "level": 2,
+      "start_line": 1286
+    },
+    {
+      "anchor": "c-val",
+      "end_line": 1293,
+      "heading": "C. Val",
+      "level": 2,
+      "start_line": 1292
+    },
+    {
+      "anchor": "format-8x-8e8-0",
+      "end_line": 1297,
+      "heading": "Format (8X, 8E8,0)",
+      "level": 2,
+      "start_line": 1294
+    },
+    {
+      "anchor": "appendix-c-output",
+      "end_line": 1329,
+      "heading": "APPENDIX C: OUTPUT",
+      "level": 1,
+      "start_line": 1298
+    },
+    {
+      "anchor": "printed-output",
+      "end_line": 1349,
+      "heading": "Printed Output",
+      "level": 1,
+      "start_line": 1330
+    },
+    {
+      "anchor": "output-to-be-used-by-origen",
+      "end_line": 1365,
+      "heading": "Output to be Used by ORIGEN",
+      "level": 1,
+      "start_line": 1350
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1493,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1366
+    },
+    {
+      "anchor": "consultants-and-subcontractors",
+      "end_line": 1501,
+      "heading": "CONSULTANTS AND SUBCONTRACTORS",
+      "level": 1,
+      "start_line": 1494
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1509,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1502
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4210",
+  "tables": [],
+  "title": "ORNL/TM-4210",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "reactor-operations",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

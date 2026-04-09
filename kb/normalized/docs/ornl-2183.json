@@ -1,0 +1,461 @@
+{
+  "authors": [
+    "Processes for Plutonium",
+    "Uranium",
+    "LIBRARY LOAN COPY",
+    "DISSOLUTION OF URANIUM-ZIRCONIUM",
+    "R.G.Wymer",
+    "DECLASSIFIED",
+    "CLASSIFICATION CHANGED TO:"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2183.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-2183",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          17,
+          200,
+          204,
+          275,
+          277,
+          292,
+          296,
+          328,
+          330,
+          356,
+          366,
+          378,
+          397
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          210,
+          324,
+          326
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          302,
+          348
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 6,
+        "line_hits": [
+          212,
+          214,
+          223,
+          228,
+          245,
+          354
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          228
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          35,
+          80,
+          107,
+          239,
+          344,
+          345,
+          346
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          51,
+          182
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          39,
+          41,
+          86
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          347,
+          354
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 8,
+        "line_hits": [
+          204,
+          302,
+          354,
+          356,
+          366,
+          382,
+          393,
+          397
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 17,
+        "line_hits": [
+          19,
+          70,
+          200,
+          243,
+          248,
+          261,
+          264,
+          267,
+          271,
+          273,
+          312,
+          318,
+          322,
+          326,
+          332,
+          368,
+          380
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          273
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          344
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2101c20f3bdd219ce431ea3fb94d8f9e9f61f16673a24ba7323196de011d881c",
+  "markdown_path": "pdf/ORNL-2183/ORNL-2183/hybrid_ocr/ORNL-2183.md",
+  "report_number": "ORNL-1702",
+  "report_numbers": [
+    "ORNL-1702",
+    "ORNL-1877",
+    "ORNL-1885",
+    "ANL-5422"
+  ],
+  "report_series": null,
+  "section_count": 37,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report-chemistry-separ",
+      "end_line": 4,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT Chemistry-Separ",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 6,
+      "heading": "Central Research Library Document Collection",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 8,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 16,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "dissolution-of-uranium-zirconium",
+      "end_line": 22,
+      "heading": "Dissolution Of Uranium-Zirconium",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "declassified",
+      "end_line": 24,
+      "heading": "Declassified",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "classification-changed-to",
+      "end_line": 26,
+      "heading": "Classification Changed To:",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "by-authority-of-t-10-1231",
+      "end_line": 34,
+      "heading": "By Authority Of: $T/{10} - {1231}$",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 36,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 38,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 44,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "post-office-box-x-oak-ridge-tennessee",
+      "end_line": 52,
+      "heading": "Post Office Box X · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 63,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 67,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "dissolution-of-uranium-zirionium-fuel-elements",
+      "end_line": 75,
+      "heading": "Dissolution Of Uranium-Zirionium Fuel Elements",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 77,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "jan-21-1057",
+      "end_line": 79,
+      "heading": "Jan 21 1057",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 85,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "union-carbide-and-carbon-corporati-on",
+      "end_line": 93,
+      "heading": "Union Carbide And Carbon Corporati On",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 183,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "contents",
+      "end_line": 185,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 184
+    },
+    {
+      "anchor": "page",
+      "end_line": 187,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "1-0-abstract-1",
+      "end_line": 188,
+      "heading": "1.0 ABSTRACT 1",
+      "level": 2,
+      "start_line": 188
+    },
+    {
+      "anchor": "2-0-introduction-1",
+      "end_line": 189,
+      "heading": "2.0 INTRODUCTION 1",
+      "level": 2,
+      "start_line": 189
+    },
+    {
+      "anchor": "3-0-experimental-work-2",
+      "end_line": 190,
+      "heading": "3.0 EXPERIMENTAL WORK 2",
+      "level": 2,
+      "start_line": 190
+    },
+    {
+      "anchor": "4-0-results-7",
+      "end_line": 191,
+      "heading": "4.0 RESULTS 7",
+      "level": 2,
+      "start_line": 191
+    },
+    {
+      "anchor": "5-0-dissolution-mechanism-17",
+      "end_line": 192,
+      "heading": "5.0 DISSOLUTION MECHANISM 17",
+      "level": 2,
+      "start_line": 192
+    },
+    {
+      "anchor": "6-0-references-21",
+      "end_line": 193,
+      "heading": "6.0 REFERENCES 21",
+      "level": 2,
+      "start_line": 193
+    },
+    {
+      "anchor": "7-0-appendix-22",
+      "end_line": 197,
+      "heading": "7.0 APPENDIX 22",
+      "level": 2,
+      "start_line": 194
+    },
+    {
+      "anchor": "1-0-abstract",
+      "end_line": 201,
+      "heading": "1.0 ABSTRACT",
+      "level": 1,
+      "start_line": 198
+    },
+    {
+      "anchor": "2-0-introduction",
+      "end_line": 207,
+      "heading": "2.0 INTRODUCTION",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "3-0-experimental-work",
+      "end_line": 231,
+      "heading": "3.0 EXPERIMENTAL WORK",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "4-0-results",
+      "end_line": 238,
+      "heading": "4.0 RESULTS",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-15104",
+      "end_line": 297,
+      "heading": "Unclassified Ornl-Lr-Dwg.15104",
+      "level": 2,
+      "start_line": 239
+    },
+    {
+      "anchor": "5-0-dissolution-mechanism",
+      "end_line": 340,
+      "heading": "5.0 DISSOLUTION MECHANISM",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "6-0-references",
+      "end_line": 349,
+      "heading": "6.0 REFERENCES",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "7-0-appendix",
+      "end_line": 399,
+      "heading": "7.0 APPENDIX*",
+      "level": 1,
+      "start_line": 350
+    }
+  ],
+  "source_dir": "pdf/ORNL-2183",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT Chemistry-Separ",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

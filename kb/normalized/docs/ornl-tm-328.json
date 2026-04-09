@@ -1,0 +1,623 @@
+{
+  "authors": [
+    "CABBHD",
+    "MASTER",
+    "IN FLUORIDE SALT MIXTURES",
+    "J. H. Devan",
+    "R.B.Evans",
+    "III",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-328.jsonl",
+  "date_text": "1962",
+  "doc_id": "ornl-tm-328",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 21,
+        "line_hits": [
+          95,
+          233,
+          235,
+          239,
+          244,
+          250,
+          256,
+          266,
+          274,
+          277,
+          280,
+          284,
+          286,
+          300,
+          366,
+          369,
+          373,
+          378,
+          380,
+          388,
+          390
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          75,
+          87,
+          91,
+          93,
+          95,
+          97,
+          101,
+          103,
+          120,
+          124,
+          135,
+          144,
+          151,
+          268,
+          274,
+          284,
+          404
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          93,
+          95,
+          101,
+          103,
+          120,
+          124,
+          144,
+          151,
+          268,
+          274,
+          284
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          115,
+          211,
+          217,
+          384,
+          385
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          115,
+          137,
+          231,
+          385,
+          387
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          398
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 21,
+        "line_hits": [
+          101,
+          133,
+          244,
+          246,
+          250,
+          257,
+          259,
+          266,
+          274,
+          277,
+          280,
+          286,
+          290,
+          294,
+          297,
+          298,
+          300,
+          373,
+          375,
+          378,
+          380
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          239
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 18,
+        "line_hits": [
+          5,
+          20,
+          31,
+          57,
+          71,
+          75,
+          85,
+          107,
+          128,
+          397,
+          398,
+          400,
+          401,
+          403,
+          404,
+          415,
+          421,
+          423
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          67,
+          425,
+          429,
+          507,
+          511
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          402
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          63
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 24,
+        "line_hits": [
+          73,
+          75,
+          83,
+          101,
+          115,
+          117,
+          167,
+          181,
+          211,
+          250,
+          274,
+          284,
+          286,
+          290,
+          292,
+          296,
+          302,
+          322,
+          366,
+          371,
+          373,
+          375,
+          390,
+          399
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          71
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          394,
+          399
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 15,
+        "line_hits": [
+          13,
+          41,
+          71,
+          75,
+          81,
+          83,
+          85,
+          93,
+          101,
+          133,
+          231,
+          266,
+          274,
+          394,
+          396
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          87,
+          101,
+          120,
+          122,
+          133,
+          144,
+          151,
+          284,
+          302,
+          366,
+          373,
+          378,
+          380,
+          384
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          101,
+          120,
+          122,
+          133,
+          144,
+          151,
+          241,
+          261,
+          277,
+          280,
+          373,
+          384,
+          388
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          101,
+          120,
+          122,
+          133,
+          144,
+          151,
+          384
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          101,
+          120,
+          122,
+          133,
+          144,
+          151,
+          384
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          261
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          261
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          261
+        ],
+        "name": "LiF-BeF2-ThF4-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          261
+        ],
+        "name": "LiF-BeF2-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          261
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          261
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6d253e66081b91330fcd4e22b963086ee91f97e61f45679373857d3cd2fb4766",
+  "markdown_path": "pdf/ORNL-TM-0328/ORNL-TM-0328/hybrid_ocr/ORNL-TM-0328.md",
+  "report_number": "ORNL-TM-328",
+  "report_numbers": [
+    "ORNL-TM-328"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 31,
+  "sections": [
+    {
+      "anchor": "union",
+      "end_line": 2,
+      "heading": "Union",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "cabbhd",
+      "end_line": 4,
+      "heading": "Cabbhd",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "ornl-tm-328",
+      "end_line": 8,
+      "heading": "Ornl-Tm-328",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "master",
+      "end_line": 10,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "corrosion-behavior-of-reactor-materials",
+      "end_line": 12,
+      "heading": "Corrosion Behavior Of Reactor Materials",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "in-fluoride-salt-mixtures",
+      "end_line": 17,
+      "heading": "In Fluoride Salt Mixtures",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "notice",
+      "end_line": 21,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 18
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 30,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 22
+    },
+    {
+      "anchor": "ornl-tm-328",
+      "end_line": 36,
+      "heading": "Ornl-Tm-328",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 38,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "corrosion-behavior-of-reactor-materials",
+      "end_line": 40,
+      "heading": "Corrosion Behavior Of Reactor Materials",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "in-fluoride-salt-mixtures",
+      "end_line": 52,
+      "heading": "In Fluoride Salt Mixtures",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 54,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "sep-19-1962",
+      "end_line": 56,
+      "heading": "Sep 19 1962",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 62,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 66,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 68,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 78,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 96,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "effects-of-alloying-additions-on-the-corrosion-resistance-of-nickel-alloys-in-fluoride-mixtures",
+      "end_line": 98,
+      "heading": "EFFECTS OF ALLOYING ADDITIONS ON THE CORROSION RESISTANCE OF NICKEL ALLOYS IN FLUORIDE MIXTURES",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "experimental",
+      "end_line": 112,
+      "heading": "Experimental",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "results",
+      "end_line": 152,
+      "heading": "Results",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 234,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "corrosion-properties-of-inor-8",
+      "end_line": 236,
+      "heading": "CORROSION PROPERTIES OF INOR-8",
+      "level": 1,
+      "start_line": 235
+    },
+    {
+      "anchor": "experimental",
+      "end_line": 247,
+      "heading": "Experimental",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "results",
+      "end_line": 271,
+      "heading": "Results",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 281,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "analysis-of-corrosion-processes",
+      "end_line": 381,
+      "heading": "ANALYSIS OF CORROSION PROCESSES",
+      "level": 1,
+      "start_line": 282
+    },
+    {
+      "anchor": "summary-and-conclusions",
+      "end_line": 391,
+      "heading": "SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 382
+    },
+    {
+      "anchor": "references",
+      "end_line": 408,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 511,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 409
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0328",
+  "tables": [],
+  "title": "ORNL-TM-328",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "fuel-processing-and-reprocessing",
+    "salt-systems-and-thermophysics",
+    "program-history"
+  ],
+  "warnings": []
+}

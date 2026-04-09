@@ -1,0 +1,753 @@
+{
+  "authors": [
+    "Reactors-Special",
+    "Features of Aircraft Reactors",
+    "VISCOSITY MEASUREMENTS ON MOLTEN",
+    "FLUORIDE MIXTURES",
+    "S. I. Cohen",
+    "T. N. Jones"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2278.jsonl",
+  "date_text": "1957",
+  "doc_id": "ornl-2278",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          305,
+          411,
+          518
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          357
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          564
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 38,
+        "line_hits": [
+          3,
+          45,
+          83,
+          106,
+          189,
+          291,
+          295,
+          310,
+          318,
+          396,
+          556,
+          646,
+          647,
+          649,
+          650,
+          651,
+          652,
+          653,
+          658,
+          659,
+          660,
+          661,
+          665,
+          666,
+          667,
+          668,
+          669,
+          670,
+          671,
+          672,
+          673,
+          674,
+          675,
+          676,
+          677,
+          678,
+          679,
+          682
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          49,
+          51,
+          87,
+          89
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          202,
+          261
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          200,
+          225
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          196
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          219
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          9
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          246
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          256
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 24,
+        "line_hits": [
+          291,
+          300,
+          312,
+          320,
+          324,
+          419,
+          423,
+          437,
+          465,
+          476,
+          497,
+          501,
+          507,
+          516,
+          524,
+          526,
+          562,
+          564,
+          566,
+          572,
+          596,
+          598,
+          635,
+          639
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          493
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 8,
+        "line_hits": [
+          318,
+          493,
+          495,
+          497,
+          514,
+          526,
+          564,
+          611
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          318,
+          493,
+          495,
+          497,
+          514,
+          524,
+          564,
+          611
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          318,
+          493,
+          499,
+          514,
+          526,
+          611
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          318,
+          493,
+          497,
+          514,
+          611
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          295,
+          299,
+          300,
+          312,
+          682
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          305,
+          514,
+          611
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          514,
+          611
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          514,
+          611
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          514,
+          611
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          497
+        ],
+        "name": "FLiNaK"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "8b9d81f60d25ff0ada77b8cb5839f952415ebb78e8dc15765c29278434f6bd0c",
+  "markdown_path": "pdf/ORNL-2278/ORNL-2278/hybrid_ocr/ORNL-2278.md",
+  "report_number": "ORNL-2278",
+  "report_numbers": [
+    "ORNL-2278"
+  ],
+  "report_series": null,
+  "section_count": 62,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-2278",
+      "end_line": 8,
+      "heading": "Ornl-2278",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 14,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "viscosity-measurements-on-molten",
+      "end_line": 16,
+      "heading": "Viscosity Measurements On Molten",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "fluoride-mixtures",
+      "end_line": 22,
+      "heading": "Fluoride Mixtures",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "declassified",
+      "end_line": 24,
+      "heading": "Declassified",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "classification-changed-to",
+      "end_line": 30,
+      "heading": "Classification Changed To:",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 32,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 34,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 36,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 44,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 46,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 48,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 54,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "post-office-box-x-oak-ridge-tennessee",
+      "end_line": 56,
+      "heading": "Post Office Box X • Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "reshing-data",
+      "end_line": 60,
+      "heading": "Reshing Data",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "secret",
+      "end_line": 70,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "viscosity-measurements-on-molten",
+      "end_line": 72,
+      "heading": "Viscosity Measurements On Molten",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "fluoride-mixtures",
+      "end_line": 78,
+      "heading": "Fluoride Mixtures",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 80,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "jun-28-1957",
+      "end_line": 82,
+      "heading": "Jun 28 1957",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 86,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 94,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 190,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 262,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 264,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "page",
+      "end_line": 266,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 265
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 268,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 267
+    },
+    {
+      "anchor": "introduction-2",
+      "end_line": 270,
+      "heading": "Introduction 2",
+      "level": 2,
+      "start_line": 269
+    },
+    {
+      "anchor": "experimental-apparatus-and-techniques-5",
+      "end_line": 280,
+      "heading": "Experimental Apparatus And Techniques 5",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "instrument-calibration-19",
+      "end_line": 282,
+      "heading": "Instrument Calibration 19",
+      "level": 2,
+      "start_line": 281
+    },
+    {
+      "anchor": "experimental-results-29",
+      "end_line": 284,
+      "heading": "Experimental Results 29",
+      "level": 2,
+      "start_line": 283
+    },
+    {
+      "anchor": "correlations-34",
+      "end_line": 286,
+      "heading": "Correlations 34",
+      "level": 2,
+      "start_line": 285
+    },
+    {
+      "anchor": "references-45",
+      "end_line": 288,
+      "heading": "References 45",
+      "level": 2,
+      "start_line": 287
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 292,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 321,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "experimental-apparatus-and-techniques",
+      "end_line": 341,
+      "heading": "EXPERIMENTAL APPARATUS AND TECHNIQUES",
+      "level": 1,
+      "start_line": 322
+    },
+    {
+      "anchor": "thermocouple-location",
+      "end_line": 363,
+      "heading": "Thermocouple Location",
+      "level": 2,
+      "start_line": 342
+    },
+    {
+      "anchor": "fill",
+      "end_line": 368,
+      "heading": "Fill",
+      "level": 2,
+      "start_line": 364
+    },
+    {
+      "anchor": "efflux",
+      "end_line": 373,
+      "heading": "Efflux",
+      "level": 2,
+      "start_line": 369
+    },
+    {
+      "anchor": "brookfield-spindle",
+      "end_line": 387,
+      "heading": "Brookfield Spindle",
+      "level": 2,
+      "start_line": 374
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 389,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 388
+    },
+    {
+      "anchor": "photo-27740",
+      "end_line": 393,
+      "heading": "Photo 27740",
+      "level": 2,
+      "start_line": 390
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 395,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 394
+    },
+    {
+      "anchor": "ornl-lr-dwg-19836",
+      "end_line": 399,
+      "heading": "Ornl-Lr-Dwg 19836",
+      "level": 2,
+      "start_line": 396
+    },
+    {
+      "anchor": "capillary-diameter",
+      "end_line": 428,
+      "heading": "Capillary Diameter:",
+      "level": 2,
+      "start_line": 400
+    },
+    {
+      "anchor": "instrument-calibration",
+      "end_line": 490,
+      "heading": "INSTRUMENT CALIBRATION",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "experimental-results",
+      "end_line": 510,
+      "heading": "EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 491
+    },
+    {
+      "anchor": "tablei",
+      "end_line": 511,
+      "heading": "Tablei",
+      "level": 2,
+      "start_line": 511
+    },
+    {
+      "anchor": "the-viscosities-of-fluoride-mixtures-studied-to-date",
+      "end_line": 519,
+      "heading": "The Viscosities Of Fluoride Mixtures Studied To Date",
+      "level": 2,
+      "start_line": 512
+    },
+    {
+      "anchor": "correlations",
+      "end_line": 555,
+      "heading": "CORRELATIONS",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "ornl-lr-dwg-19841",
+      "end_line": 607,
+      "heading": "Ornl-Lr-Dwg 19841",
+      "level": 2,
+      "start_line": 556
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 608,
+      "heading": "Table Ii",
+      "level": 2,
+      "start_line": 608
+    },
+    {
+      "anchor": "pure-component-viscosities-based-on-equation-8",
+      "end_line": 612,
+      "heading": "\"Pure Component Viscosities\" Based On Equation (8)",
+      "level": 2,
+      "start_line": 609
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 614,
+      "heading": "TABLE III",
+      "level": 1,
+      "start_line": 613
+    },
+    {
+      "anchor": "comparison-of-experimental-viscosities-at-700-circ-mathrm-c",
+      "end_line": 616,
+      "heading": "COMPARISON OF EXPERIMENTAL VISCOSITIES AT $700^{\\circ}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 615
+    },
+    {
+      "anchor": "and-predicted-values-based-on-equation-8",
+      "end_line": 624,
+      "heading": "AND PREDICTED VALUES BASED ON EQUATION (8)",
+      "level": 1,
+      "start_line": 617
+    },
+    {
+      "anchor": "table-iii-continued",
+      "end_line": 626,
+      "heading": "TABLE III (Continued)",
+      "level": 1,
+      "start_line": 625
+    },
+    {
+      "anchor": "comparison-of-experimental-viscosities-at-700-circ-mathrm-c",
+      "end_line": 628,
+      "heading": "COMPARISON OF EXPERIMENTAL VISCOSITIES AT $700^{\\circ}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 627
+    },
+    {
+      "anchor": "and-predicted-values-based-on-equation-8",
+      "end_line": 643,
+      "heading": "AND PREDICTED VALUES BASED ON EQUATION (8)",
+      "level": 1,
+      "start_line": 629
+    },
+    {
+      "anchor": "references",
+      "end_line": 662,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 644
+    },
+    {
+      "anchor": "references-continued",
+      "end_line": 691,
+      "heading": "REFERENCES (Continued)",
+      "level": 1,
+      "start_line": 663
+    }
+  ],
+  "source_dir": "pdf/ORNL-2278",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "program-history",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

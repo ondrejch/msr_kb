@@ -1,0 +1,392 @@
+{
+  "authors": [
+    "APPLICATION OF TEMPERATURE SOLUTIONS",
+    "FOR FORCED CONVECTION SYSTEMS",
+    "GENERAL CONVECTION PROBLEMS",
+    "H. F. Poppendiek",
+    "L. D. Palmer",
+    "LIBRARY LOAN COPY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1933.jsonl",
+  "date_text": "1955",
+  "doc_id": "ornl-1933",
+  "document_type": "report",
+  "entities": {
+    "component": [
+      {
+        "count": 9,
+        "line_hits": [
+          107,
+          115,
+          119,
+          121,
+          123,
+          127,
+          129,
+          131,
+          425
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          25,
+          53,
+          67,
+          188,
+          552,
+          553
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          29,
+          31,
+          57,
+          59
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          73
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 11,
+        "line_hits": [
+          83,
+          172,
+          176,
+          180,
+          182,
+          184,
+          298,
+          542,
+          545,
+          546,
+          548
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "34702023865d26ae91b195f926caba5df6c046185c44016e765a948d09eae6d9",
+  "markdown_path": "pdf/ORNL-1933/ORNL-1933/hybrid_ocr/ORNL-1933.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 41,
+  "sections": [
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 2,
+      "heading": "CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "application-of-temperature-solutions",
+      "end_line": 4,
+      "heading": "Application Of Temperature Solutions",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "for-forced-convection-systems",
+      "end_line": 6,
+      "heading": "For Forced Convection Systems",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "with-volume-heat-sources-to",
+      "end_line": 8,
+      "heading": "With Volume Heat Sources To",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "general-convection-problems",
+      "end_line": 16,
+      "heading": "General Convection Problems",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 18,
+      "heading": "CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 20,
+      "heading": "LIBRARY LOAN COPY",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 24,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 28,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 34,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "post-office-box-p-oak-ridge-tennessee",
+      "end_line": 48,
+      "heading": "Post Office Box P · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 50,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "sep-29-1955",
+      "end_line": 52,
+      "heading": "Sep 29 1955",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 56,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 64,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 68,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 74,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "distribution-page-to-be-removed-if-report-is-given-public-distribution",
+      "end_line": 76,
+      "heading": "Distribution Page To Be Removed If Report Is Given Public Distribution",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 80,
+      "heading": "Table Of Contents",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "summary",
+      "end_line": 84,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 86,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "letters",
+      "end_line": 145,
+      "heading": "Letters",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "terms",
+      "end_line": 151,
+      "heading": "Terms",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "dimensionless-moduli",
+      "end_line": 169,
+      "heading": "Dimensionless Moduli",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 177,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "generalized-radial-temperature-profiles",
+      "end_line": 185,
+      "heading": "GENERALIZED RADIAL TEMPERATURE PROFILES",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 187,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 186
+    },
+    {
+      "anchor": "ornl-lr-dwg-8221",
+      "end_line": 205,
+      "heading": "Ornl-Lr-Dwg 8221",
+      "level": 2,
+      "start_line": 188
+    },
+    {
+      "anchor": "tablei",
+      "end_line": 215,
+      "heading": "Tablei",
+      "level": 2,
+      "start_line": 206
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 230,
+      "heading": "Table Ii",
+      "level": 2,
+      "start_line": 216
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 243,
+      "heading": "Table Iii",
+      "level": 2,
+      "start_line": 231
+    },
+    {
+      "anchor": "table-iv",
+      "end_line": 244,
+      "heading": "Table Iv",
+      "level": 2,
+      "start_line": 244
+    },
+    {
+      "anchor": "dimensionless-radial-temperature-distribution-for-a-parallel-plates",
+      "end_line": 245,
+      "heading": "Dimensionless Radial Temperature Distribution For A Parallel Plates",
+      "level": 2,
+      "start_line": 245
+    },
+    {
+      "anchor": "system-having-heat-transferred-at-the-walls-but-containing",
+      "end_line": 246,
+      "heading": "System Having Heat Transferred At The Walls But Containing",
+      "level": 2,
+      "start_line": 246
+    },
+    {
+      "anchor": "no-volumetric-heat-source",
+      "end_line": 254,
+      "heading": "No Volumetric Heat Source",
+      "level": 2,
+      "start_line": 247
+    },
+    {
+      "anchor": "radial-temperature-profiles-for-a-pipe-system-whose-wall-is-uniformly-cooled-an-example",
+      "end_line": 313,
+      "heading": "RADIAL TEMPERATURE PROFILES FOR A PIPE SYSTEM WHOSE WALL IS UNIFORMLY COOLED (AN EXAMPLE)",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "analysis-of-the-thermal-structure-in-a-pipe-system-whose-wall-is-nonuniformly-cooled",
+      "end_line": 436,
+      "heading": "ANALYSIS OF THE THERMAL STRUCTURE IN A PIPE SYSTEM WHOSE WALL IS NONUNIFORMLY COOLED",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "temperature-structure-in-a-pipe-system-whose-wall-is-nonuniformly-cooled-an-example",
+      "end_line": 539,
+      "heading": "TEMPERATURE STRUCTURE IN A PIPE SYSTEM WHOSE WALL IS NONUNIFORMLY COOLED (AN EXAMPLE)",
+      "level": 1,
+      "start_line": 437
+    },
+    {
+      "anchor": "closing-remarks",
+      "end_line": 549,
+      "heading": "CLOSING REMARKS",
+      "level": 1,
+      "start_line": 540
+    },
+    {
+      "anchor": "references",
+      "end_line": 554,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 550
+    }
+  ],
+  "source_dir": "pdf/ORNL-1933",
+  "tables": [],
+  "title": "CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION",
+  "topics": [
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

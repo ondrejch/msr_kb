@@ -1,0 +1,1052 @@
+{
+  "authors": [
+    "L. E. McNeese",
+    "MASTER",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3352.jsonl",
+  "date_text": "December 1972",
+  "doc_id": "ornl-tm-3352",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 23,
+        "line_hits": [
+          155,
+          169,
+          201,
+          356,
+          437,
+          450,
+          458,
+          511,
+          513,
+          541,
+          545,
+          549,
+          561,
+          563,
+          952,
+          956,
+          963,
+          965,
+          969,
+          975,
+          988,
+          992,
+          1002
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          147,
+          149,
+          362,
+          374,
+          380,
+          384,
+          394,
+          400,
+          402,
+          404,
+          406,
+          411,
+          413
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          362,
+          388,
+          507,
+          516,
+          541
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          251,
+          382,
+          384,
+          969
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          394,
+          400,
+          499
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          263
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          263
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 6,
+        "line_hits": [
+          134,
+          201,
+          986,
+          990,
+          994,
+          996
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          197,
+          382,
+          384,
+          946,
+          963
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          159,
+          444,
+          484,
+          489
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          370
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          205
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          241
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 49,
+        "line_hits": [
+          13,
+          33,
+          47,
+          49,
+          51,
+          53,
+          55,
+          57,
+          59,
+          61,
+          63,
+          231,
+          452,
+          651,
+          656,
+          895,
+          941,
+          958,
+          983,
+          1019,
+          1020,
+          1021,
+          1022,
+          1023,
+          1024,
+          1025,
+          1026,
+          1027,
+          1028,
+          1029,
+          1030,
+          1033,
+          1034,
+          1035,
+          1038,
+          1039,
+          1040,
+          1041,
+          1044,
+          1045,
+          1047,
+          1048,
+          1049,
+          1050,
+          1051,
+          1052,
+          1133,
+          1137,
+          1140
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          15,
+          17,
+          31,
+          43,
+          1137,
+          1139,
+          1140,
+          1141,
+          1145,
+          1147
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          15,
+          39
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          241
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 54,
+        "line_hits": [
+          45,
+          177,
+          187,
+          201,
+          205,
+          207,
+          210,
+          225,
+          229,
+          239,
+          247,
+          255,
+          293,
+          321,
+          339,
+          348,
+          362,
+          374,
+          394,
+          402,
+          433,
+          479,
+          561,
+          571,
+          581,
+          625,
+          637,
+          641,
+          647,
+          649,
+          686,
+          736,
+          744,
+          750,
+          752,
+          806,
+          814,
+          832,
+          845,
+          875,
+          885,
+          899,
+          905,
+          907,
+          935,
+          963,
+          977,
+          988,
+          992,
+          1000
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 33,
+        "line_hits": [
+          5,
+          23,
+          191,
+          195,
+          205,
+          207,
+          211,
+          431,
+          486,
+          637,
+          744,
+          929,
+          935,
+          1019,
+          1020,
+          1021,
+          1022,
+          1023,
+          1024,
+          1025,
+          1026,
+          1027,
+          1028,
+          1029,
+          1030,
+          1033,
+          1037,
+          1041,
+          1044,
+          1049,
+          1050,
+          1051,
+          1052
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          1032
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          1032
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 12,
+        "line_hits": [
+          191,
+          205,
+          216,
+          431,
+          437,
+          462,
+          469,
+          479,
+          529,
+          875,
+          905,
+          929
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          147,
+          197,
+          201,
+          378,
+          402,
+          406,
+          437,
+          529,
+          905,
+          939,
+          975
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          406
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          406
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          406
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          406
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7d15659f245d9b852092fc43557ad28ef8b253ed3e48e25b5c57a8e182a6f851",
+  "markdown_path": "pdf/ORNL-TM-3352/ORNL-TM-3352/hybrid_ocr/ORNL-TM-3352.md",
+  "report_number": "ORNL-TM-3053",
+  "report_numbers": [
+    "ORNL-TM-3053",
+    "ORNL-TM-3137",
+    "ORNL-TM-3138",
+    "ORNL-TM-3139",
+    "ORNL-TM-3140",
+    "ORNL-TM-3141",
+    "ORNL-TM-3257",
+    "ORNL-TM-3258",
+    "ORNL-TM-3259"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 84,
+  "sections": [
+    {
+      "anchor": "engineering-development-studies-for-molten-salt-breeder-reactor-processing-no-10",
+      "end_line": 8,
+      "heading": "ENGINEERING DEVELOPMENT STUDIES FOR MOLTEN-SALT BREEDER REACTOR PROCESSING NO. 10",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "master",
+      "end_line": 12,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 14,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 20,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 28,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "notice",
+      "end_line": 32,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 38,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 42,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 64,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "contents",
+      "end_line": 68,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 74,
+      "heading": "1. Introduction. 1",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "3-semicontinuous-reductive-extraction-experiments-in-a-mild-steel-facility-12",
+      "end_line": 82,
+      "heading": "3. Semicontinuous Reductive Extraction Experiments In A Mild-Steel Facility. 12",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "4-development-of-the-metal-transfer-process-inspection-of-experiment-mte-2-21",
+      "end_line": 97,
+      "heading": "4. Development Of The Metal Transfer Process: Inspection Of Experiment Mte-2. 21",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "7-development-of-mechanically-agitated-salt-metal-contactors-52",
+      "end_line": 103,
+      "heading": "7. Development Of Mechanically Agitated Salt-Metal Contactors. 52",
+      "level": 2,
+      "start_line": 98
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 125,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "9-engineering-studies-of-uranium-oxide-precipitation-83",
+      "end_line": 130,
+      "heading": "9. Engineering Studies Of Uranium Oxide Precipitation. 83",
+      "level": 2,
+      "start_line": 126
+    },
+    {
+      "anchor": "10-study-of-the-purification-of-salt-by-continuous-methods-90",
+      "end_line": 136,
+      "heading": "10. STUDY OF THE PURIFICATION OF SALT BY CONTINUOUS METHODS 90",
+      "level": 2,
+      "start_line": 131
+    },
+    {
+      "anchor": "11-references-95",
+      "end_line": 138,
+      "heading": "11. References. 95",
+      "level": 2,
+      "start_line": 137
+    },
+    {
+      "anchor": "summaries",
+      "end_line": 144,
+      "heading": "SUMMARIES",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "semicontoinuous-reductive-extraction-experiments-in-a-mild-steel-facility",
+      "end_line": 152,
+      "heading": "SEMICONTOINUOUS REDUCTIVE EXTRACTION EXPERIMENTS IN A MILD-STEEL FACILITY",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "development-of-the-metal-transfer-process-inspection-of-experiment-mte-2",
+      "end_line": 160,
+      "heading": "DEVELOPMENT OF THE METAL TRANSFER PROCESS: INSPECTION OF EXPERIMENT MTE-2",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "development-of-the-metal-transfer-process-agitator-tests-for-experiment-mte-3",
+      "end_line": 170,
+      "heading": "DEVELOPMENT OF THE METAL TRANSFER PROCESS: AGITATOR TESTS FOR EXPERIMENT MTE-3",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "distribution-of-radium-between-licl-and-li-bi-solutions",
+      "end_line": 174,
+      "heading": "DISTRIBUTION OF RADIUM BETWEEN LiCl AND Li-Bi SOLUTIONS",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "viii",
+      "end_line": 178,
+      "heading": "viii",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "development-of-mechanically-agitated-salt-metal-contactors",
+      "end_line": 184,
+      "heading": "DEVELOPMENT OF MECHANICALLY AGITATED SALT-METAL CONTACTORS",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "analysis-of-multicomponent-mass-transfer-between-molten-salts-and-liquid-bismuth-during-counter-current-flow-in-packed-column",
+      "end_line": 192,
+      "heading": "ANALYSIS OF MULTICOMPONENT MASS TRANSFER BETWEEN MOLTEN SALTS AND LIQUID BISMUTH DURING COUNTER-CURRENT FLOW IN PACKED COLUMN",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "engineering-studies-of-uranium-oxide-precipitation",
+      "end_line": 198,
+      "heading": "ENGINEERING STUDIES OF URANIUM OXIDE PRECIPITATION",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "study-of-the-purification-of-salt-by-continuous-methods",
+      "end_line": 202,
+      "heading": "STUDY OF THE PURIFICATION OF SALT BY CONTINUOUS METHODS",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 220,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "2-frozen-wall-fluorinator-development-experiments-on-induction-heating-in-a-continuous-fluorinator-simulation",
+      "end_line": 226,
+      "heading": "2. FROZEN-WALL FLUORINATOR DEVELOPMENT: EXPERIMENTS ON INDUCTION HEATING IN A CONTINUOUS FLUORINATOR SIMULATION",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "2-1-modification-of-power-generation-and-transmission-systems",
+      "end_line": 230,
+      "heading": "2.1 Modification of Power Generation and Transmission Systems",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "ornl-dwg-71-3813",
+      "end_line": 235,
+      "heading": "Ornl Dwg. 71-3813",
+      "level": 2,
+      "start_line": 231
+    },
+    {
+      "anchor": "equivalent-circuit",
+      "end_line": 242,
+      "heading": "Equivalent Circuit",
+      "level": 2,
+      "start_line": 236
+    },
+    {
+      "anchor": "2-2-experimental-results",
+      "end_line": 357,
+      "heading": "2.2 Experimental Results",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "3-semicontinuous-reductive-extraction-experiments-in-a-mild-steel-facility",
+      "end_line": 363,
+      "heading": "3. SEMICONTINUOUS REDUCTIVE EXTRACTION EXPERIMENTS IN A MILD-STEEL FACILITY",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "3-1-replacement-of-the-salt-feed-and-catch-tank",
+      "end_line": 371,
+      "heading": "3.1 Replacement of the Salt Feed-and-Catch Tank",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "3-2-preparation-for-mass-transfer-experiment-ztr-1",
+      "end_line": 385,
+      "heading": "3.2 Preparation for Mass Transfer Experiment ZTR-1",
+      "level": 1,
+      "start_line": 372
+    },
+    {
+      "anchor": "3-3-mass-transfer-experiment-ztr-1",
+      "end_line": 395,
+      "heading": "3.3 Mass Transfer Experiment ZTR-1",
+      "level": 1,
+      "start_line": 386
+    },
+    {
+      "anchor": "3-4-variation-of-reductant-inventory-in-the-bismuth-phase-in-the-treatment-vessel",
+      "end_line": 414,
+      "heading": "3.4 Variation of Reductant Inventory in the Bismuth Phase in the Treatment Vessel",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "3-5-operation-of-the-argon-purification-system",
+      "end_line": 424,
+      "heading": "3.5 Operation of the Argon Purification System",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "4-development-of-the-metal-transfer-process-inspection-of-experiment-mte-2",
+      "end_line": 434,
+      "heading": "4. DEVELOPMENT OF THE METAL TRANSFER PROCESS: INSPECTION OF EXPERIMENT MTE-2",
+      "level": 1,
+      "start_line": 425
+    },
+    {
+      "anchor": "4-1-description-of-equipment",
+      "end_line": 447,
+      "heading": "4.1 Description of Equipment",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "4-2-inspection-of-equipment",
+      "end_line": 451,
+      "heading": "4.2 Inspection of Equipment",
+      "level": 1,
+      "start_line": 448
+    },
+    {
+      "anchor": "ornl-dwg-70-898ori",
+      "end_line": 490,
+      "heading": "Ornl Dwg 70-898Ori",
+      "level": 2,
+      "start_line": 452
+    },
+    {
+      "anchor": "5-development-of-the-metal-transfer-process-agitator-tests-for-experiment-mte-3",
+      "end_line": 496,
+      "heading": "5. DEVELOPMENT OF THE METAL TRANSFER PROCESS: AGITATOR TESTS FOR EXPERIMENT MTE-3",
+      "level": 1,
+      "start_line": 491
+    },
+    {
+      "anchor": "5-1-description-of-equipment",
+      "end_line": 517,
+      "heading": "5.1 Description of Equipment",
+      "level": 1,
+      "start_line": 497
+    },
+    {
+      "anchor": "photo-0458-71",
+      "end_line": 524,
+      "heading": "Photo 0458-71",
+      "level": 2,
+      "start_line": 518
+    },
+    {
+      "anchor": "5-2-experimental-results",
+      "end_line": 572,
+      "heading": "5.2 Experimental Results",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "6-1-description-of-equipment",
+      "end_line": 578,
+      "heading": "6.1 Description of Equipment",
+      "level": 1,
+      "start_line": 573
+    },
+    {
+      "anchor": "6-2-experimental-results",
+      "end_line": 632,
+      "heading": "6.2 Experimental Results",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "7-development-of-mechanically-agitated-salt-metal-contactors",
+      "end_line": 642,
+      "heading": "7. DEVELOPMENT OF MECHANICALLY AGITATED SALT-METAL CONTACTORS",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "7-1-studies-for-determination-of-limiting-agitator-speeds",
+      "end_line": 650,
+      "heading": "7.1 Studies for Determination of Limiting Agitator Speeds",
+      "level": 1,
+      "start_line": 643
+    },
+    {
+      "anchor": "ornl-dwg-73-2545ri",
+      "end_line": 655,
+      "heading": "Ornl Dwg. 73-2545Ri",
+      "level": 2,
+      "start_line": 651
+    },
+    {
+      "anchor": "ornl-73-2544r2",
+      "end_line": 674,
+      "heading": "Ornl 73-2544R2",
+      "level": 2,
+      "start_line": 656
+    },
+    {
+      "anchor": "7-2-determination-of-metal-flow-rate-across-contactor-partition",
+      "end_line": 733,
+      "heading": "7.2 Determination of Metal Flow Rate Across Contactor Partition",
+      "level": 1,
+      "start_line": 675
+    },
+    {
+      "anchor": "7-3-conclusions",
+      "end_line": 739,
+      "heading": "7.3 Conclusions",
+      "level": 1,
+      "start_line": 734
+    },
+    {
+      "anchor": "8-analysis-of-multicomponent-mass-transfer-between-molten-salts-and-liquid-bismuth-during-countercurrent-flow-in-packed-column",
+      "end_line": 745,
+      "heading": "8. ANALYSIS OF MULTICOMPONENT MASS TRANSFER BETWEEN MOLTEN SALTS AND LIQUID BISMUTH DURING COUNTERCURRENT FLOW IN PACKED COLUMN",
+      "level": 1,
+      "start_line": 740
+    },
+    {
+      "anchor": "8-1-mathematical-models",
+      "end_line": 819,
+      "heading": "8.1 Mathematical Models",
+      "level": 1,
+      "start_line": 746
+    },
+    {
+      "anchor": "8-2-calculated-mass-transfer-rates-for-the-case-of-binary-exchange-with-uniform-bulk-concentrations",
+      "end_line": 829,
+      "heading": "8.2 Calculated Mass Transfer Rates for the Case of Binary Exchange with Uniform Bulk Concentrations",
+      "level": 1,
+      "start_line": 820
+    },
+    {
+      "anchor": "8-2-1-effect-of-diffusion-coefficients-of-transferring-ions-in-electrolyte-phase",
+      "end_line": 836,
+      "heading": "8.2.1 Effect of Diffusion Coefficients of Transferring Ions in Electrolyte Phase",
+      "level": 1,
+      "start_line": 830
+    },
+    {
+      "anchor": "8-2-2-effect-of-individual-mass-transfer-coefficient-in-electrolyte-phase",
+      "end_line": 840,
+      "heading": "8.2.2 Effect of Individual Mass Transfer Coefficient in Electrolyte Phase",
+      "level": 1,
+      "start_line": 837
+    },
+    {
+      "anchor": "8-2-3-effect-of-individual-mass-transfer-coefficient-in-solvent-phase",
+      "end_line": 854,
+      "heading": "8.2.3 Effect of Individual Mass Transfer Coefficient in Solvent Phase",
+      "level": 1,
+      "start_line": 841
+    },
+    {
+      "anchor": "8-2-4-effect-of-equilibrium-constant",
+      "end_line": 858,
+      "heading": "8.2.4 Effect of Equilibrium Constant",
+      "level": 1,
+      "start_line": 855
+    },
+    {
+      "anchor": "8-2-5-effect-of-concentration-of-nontransferring-ions-in-the-electrolyte-phase",
+      "end_line": 872,
+      "heading": "8.2.5 Effect of Concentration of Nontransferring Ions in the Electrolyte Phase",
+      "level": 1,
+      "start_line": 859
+    },
+    {
+      "anchor": "8-3-calculated-mass-transfer-rates-in-an-extraction-column-having-nonuniform-bulk-concentrations",
+      "end_line": 876,
+      "heading": "8.3 Calculated Mass Transfer Rates in an Extraction Column Having Nonuniform Bulk Concentrations",
+      "level": 1,
+      "start_line": 873
+    },
+    {
+      "anchor": "8-3-1-binary-exchange",
+      "end_line": 894,
+      "heading": "8.3.1 Binary Exchange",
+      "level": 1,
+      "start_line": 877
+    },
+    {
+      "anchor": "ornl-dwg-74-658",
+      "end_line": 897,
+      "heading": "Ornl Dwg 74-658",
+      "level": 2,
+      "start_line": 895
+    },
+    {
+      "anchor": "o-case-i-case-ii-no-electric",
+      "end_line": 902,
+      "heading": "O Case I △ Case Ii + No Electric",
+      "level": 2,
+      "start_line": 898
+    },
+    {
+      "anchor": "8-3-2-multicomponent-exchange",
+      "end_line": 922,
+      "heading": "8.3.2 Multicomponent Exchange",
+      "level": 1,
+      "start_line": 903
+    },
+    {
+      "anchor": "8-4-summary",
+      "end_line": 930,
+      "heading": "8.4 Summary",
+      "level": 1,
+      "start_line": 923
+    },
+    {
+      "anchor": "9-engineering-studies-of-uranium-oxide-preciptation",
+      "end_line": 936,
+      "heading": "9. ENGINEERING STUDIES OF URANIUM OXIDE PRECIPTATION",
+      "level": 1,
+      "start_line": 931
+    },
+    {
+      "anchor": "9-1-description-of-facility",
+      "end_line": 940,
+      "heading": "9.1 Description of Facility",
+      "level": 1,
+      "start_line": 937
+    },
+    {
+      "anchor": "ornl-dwg-72-64",
+      "end_line": 947,
+      "heading": "Ornl Dwg 72-64",
+      "level": 2,
+      "start_line": 941
+    },
+    {
+      "anchor": "9-2-precipitator-vessel-design",
+      "end_line": 957,
+      "heading": "9.2 Precipitator Vessel Design",
+      "level": 1,
+      "start_line": 948
+    },
+    {
+      "anchor": "ornl-dwg-72-6853r1",
+      "end_line": 970,
+      "heading": "Ornl Dwg 72-6853R1",
+      "level": 2,
+      "start_line": 958
+    },
+    {
+      "anchor": "10-study-of-the-purification-of-salt-by-continuous-methods",
+      "end_line": 972,
+      "heading": "10. STUDY OF THE PURIFICATION OF SALT BY CONTINUOUS METHODS",
+      "level": 1,
+      "start_line": 971
+    },
+    {
+      "anchor": "r-b-lindauer",
+      "end_line": 978,
+      "heading": "R. B. Lindauer",
+      "level": 1,
+      "start_line": 973
+    },
+    {
+      "anchor": "10-1-tests-for-determining-the-presence-of-suspended-iron-particles-in-salt-samples",
+      "end_line": 982,
+      "heading": "10.1 Tests for Determining the Presence of Suspended Iron Particles in Salt Samples",
+      "level": 1,
+      "start_line": 979
+    },
+    {
+      "anchor": "ornl-dwg-74-661",
+      "end_line": 989,
+      "heading": "Ornl Dwg 74-661",
+      "level": 2,
+      "start_line": 983
+    },
+    {
+      "anchor": "10-2-tests-of-various-sampler-types",
+      "end_line": 1003,
+      "heading": "10.2 Tests of Various Sampler Types",
+      "level": 1,
+      "start_line": 990
+    },
+    {
+      "anchor": "10-3-correlation-of-flooding-data",
+      "end_line": 1016,
+      "heading": "10.3 Correlation of Flooding Data",
+      "level": 1,
+      "start_line": 1004
+    },
+    {
+      "anchor": "11-references",
+      "end_line": 1054,
+      "heading": "11. REFERENCES",
+      "level": 1,
+      "start_line": 1017
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1134,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1055
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1147,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1135
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3352",
+  "tables": [],
+  "title": "![](images/c9d1896fe0bb8997d171ed30cf7af2e6b763d9d0feaec58c6c5e8ba169f5fece.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

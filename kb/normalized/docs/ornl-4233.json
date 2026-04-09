@@ -1,0 +1,771 @@
+{
+  "authors": [
+    "MOLTEN-SALT REACTOR EXPERIMENT",
+    "B.E.Prince",
+    "S.J.Ball",
+    "J.R.Engel",
+    "P.N.Haubenreich",
+    "T.W.Kerlin"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4233.jsonl",
+  "date_text": "June 1965",
+  "doc_id": "ornl-4233",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 14,
+        "line_hits": [
+          190,
+          329,
+          346,
+          352,
+          513,
+          515,
+          517,
+          531,
+          550,
+          558,
+          560,
+          565,
+          580,
+          584
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          180,
+          184,
+          214
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          550,
+          552
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          180
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 28,
+        "line_hits": [
+          142,
+          186,
+          210,
+          232,
+          242,
+          244,
+          277,
+          293,
+          309,
+          318,
+          350,
+          356,
+          565,
+          580,
+          584,
+          588,
+          592,
+          596,
+          598,
+          624,
+          678,
+          680,
+          682,
+          687,
+          690,
+          693,
+          695,
+          711
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 23,
+        "line_hits": [
+          142,
+          160,
+          162,
+          164,
+          174,
+          242,
+          298,
+          305,
+          309,
+          320,
+          322,
+          329,
+          338,
+          391,
+          515,
+          531,
+          535,
+          537,
+          598,
+          632,
+          636,
+          695,
+          706
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          162,
+          188,
+          342,
+          344,
+          560,
+          565,
+          580,
+          584,
+          590,
+          592,
+          594,
+          678,
+          684
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          182,
+          186,
+          188,
+          224,
+          594
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          309,
+          580,
+          584
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          182,
+          186,
+          240
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          222
+        ],
+        "name": "freeze valve"
+      }
+    ],
+    "organization": [
+      {
+        "count": 30,
+        "line_hits": [
+          31,
+          88,
+          716,
+          717,
+          718,
+          719,
+          723,
+          724,
+          725,
+          726,
+          728,
+          730,
+          731,
+          732,
+          733,
+          734,
+          736,
+          737,
+          738,
+          739,
+          741,
+          915,
+          916,
+          917,
+          918,
+          919,
+          920,
+          921,
+          922,
+          923
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 26,
+        "line_hits": [
+          7,
+          23,
+          33,
+          47,
+          78,
+          194,
+          334,
+          716,
+          717,
+          718,
+          719,
+          723,
+          724,
+          725,
+          726,
+          731,
+          732,
+          733,
+          734,
+          736,
+          737,
+          738,
+          739,
+          740,
+          741,
+          911
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          27,
+          84
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 42,
+        "line_hits": [
+          142,
+          170,
+          192,
+          214,
+          216,
+          218,
+          230,
+          244,
+          271,
+          283,
+          293,
+          300,
+          309,
+          320,
+          322,
+          325,
+          329,
+          337,
+          356,
+          374,
+          388,
+          393,
+          457,
+          491,
+          502,
+          517,
+          519,
+          533,
+          548,
+          560,
+          573,
+          609,
+          618,
+          632,
+          638,
+          644,
+          656,
+          666,
+          672,
+          674,
+          710,
+          740
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 32,
+        "line_hits": [
+          13,
+          68,
+          94,
+          142,
+          144,
+          154,
+          158,
+          170,
+          214,
+          222,
+          228,
+          283,
+          287,
+          338,
+          350,
+          403,
+          509,
+          511,
+          529,
+          565,
+          580,
+          588,
+          618,
+          664,
+          674,
+          703,
+          712,
+          716,
+          723,
+          724,
+          736,
+          737
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          180,
+          222
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d81f189b582ce14f3dd6f804bbc21f11a86a7a8a6405bcec9e70d209bf319b36",
+  "markdown_path": "pdf/ORNL-4233/ORNL-4233/hybrid_ocr/ORNL-4233.md",
+  "report_number": "ORNL-4233",
+  "report_numbers": [
+    "ORNL-4233",
+    "ORNL-118"
+  ],
+  "report_series": null,
+  "section_count": 55,
+  "sections": [
+    {
+      "anchor": "ornl-4233",
+      "end_line": 10,
+      "heading": "Ornl-4233",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "zero-power-physics-experiments-on-the",
+      "end_line": 12,
+      "heading": "Zero-Power Physics Experiments On The",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "molten-salt-reactor-experiment",
+      "end_line": 22,
+      "heading": "Molten-Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 30,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "j-s-atomic-energy-commission",
+      "end_line": 32,
+      "heading": "J.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 34,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 36,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "circulation-section",
+      "end_line": 38,
+      "heading": "Circulation Section",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "4500n-room-175",
+      "end_line": 40,
+      "heading": "4500N Room 175",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 42,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 46,
+      "heading": "Do Not Transfer To Another Person.",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "ornl-118-6-97",
+      "end_line": 56,
+      "heading": "Ornl-118 (6-97)",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 75,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "february-1968",
+      "end_line": 77,
+      "heading": "February 1968",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 83,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 87,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 91,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "preface",
+      "end_line": 97,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "contents",
+      "end_line": 139,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 143,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 140
+    },
+    {
+      "anchor": "zero-power-physics-experiments-on-the-molten-salt-reactor-experiment",
+      "end_line": 151,
+      "heading": "ZERO-Power Physics EXPERIMENTS ON THE MOLTEN-SALT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 155,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 171,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "2-initial-critical-experiment",
+      "end_line": 193,
+      "heading": "2. INITIAL CRITICAL EXPERIMENT",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "ornl-dwg65-7575",
+      "end_line": 198,
+      "heading": "Ornl-Dwg65-7575",
+      "level": 2,
+      "start_line": 194
+    },
+    {
+      "anchor": "elevation",
+      "end_line": 235,
+      "heading": "Elevation",
+      "level": 2,
+      "start_line": 199
+    },
+    {
+      "anchor": "3-control-rod-calibration",
+      "end_line": 237,
+      "heading": "3. CONTROL-ROD CALIBRATION",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "3-1-general-description",
+      "end_line": 245,
+      "heading": "3.1 General Description",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "3-2-theoretical-guidelines",
+      "end_line": 272,
+      "heading": "3.2 Theoretical Guidelines",
+      "level": 1,
+      "start_line": 246
+    },
+    {
+      "anchor": "3-3-differential-worth-measurement-fuel-stationary",
+      "end_line": 306,
+      "heading": "3.3 Differential-Worth Measurement: Fuel Stationary",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "3-4-reactivity-equivalent-of-235-mathrm-u-additions",
+      "end_line": 315,
+      "heading": "3.4 Reactivity Equivalent of $^{235}\\mathrm{U}$ Additions",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "3-5-rod-shadowing-experiments",
+      "end_line": 331,
+      "heading": "3.5 Rod-Shadowing Experiments",
+      "level": 1,
+      "start_line": 316
+    },
+    {
+      "anchor": "typical-fuel-passage",
+      "end_line": 333,
+      "heading": "Typical Fuel Passage",
+      "level": 2,
+      "start_line": 332
+    },
+    {
+      "anchor": "ornl-dmo-4-8814",
+      "end_line": 336,
+      "heading": "Ornl Dmo 4-8814",
+      "level": 2,
+      "start_line": 334
+    },
+    {
+      "anchor": "note-stringers-nos-7-60-and-61-five-are-removable",
+      "end_line": 347,
+      "heading": "Note: Stringers Nos. 7, 60 And 61 (Five) Are Removable.",
+      "level": 2,
+      "start_line": 337
+    },
+    {
+      "anchor": "3-6-reactivity-effects-of-fuel-circulation",
+      "end_line": 394,
+      "heading": "3.6 Reactivity Effects of Fuel Circulation",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "3-7-rod-drop-experiments",
+      "end_line": 506,
+      "heading": "3.7 Rod-Drop Experiments",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "3-8-comparison-of-measurements-with-theoretical-analysis-of-control-rod-worth",
+      "end_line": 553,
+      "heading": "3.8 Comparison of Measurements with Theoretical Analysis of Control-Rod Worth",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "4-temperature-and-pressure-reactivity-effects",
+      "end_line": 555,
+      "heading": "4. TEMPERATURE AND PRESSURE REACTIVITY EFFECTS",
+      "level": 1,
+      "start_line": 554
+    },
+    {
+      "anchor": "4-1-isothermal-temperature-coefficient-of-reactivity",
+      "end_line": 577,
+      "heading": "4.1 Isothermal Temperature Coefficient of Reactivity",
+      "level": 1,
+      "start_line": 556
+    },
+    {
+      "anchor": "4-2-fuel-temperature-coefficient-of-reactivity",
+      "end_line": 585,
+      "heading": "4.2 Fuel Temperature Coefficient of Reactivity",
+      "level": 1,
+      "start_line": 578
+    },
+    {
+      "anchor": "4-3-effect-of-pressure-on-reactivity",
+      "end_line": 613,
+      "heading": "4.3 Effect of Pressure on Reactivity",
+      "level": 1,
+      "start_line": 586
+    },
+    {
+      "anchor": "5-dynamics-tests",
+      "end_line": 615,
+      "heading": "5. DYNAMICS TESTS",
+      "level": 1,
+      "start_line": 614
+    },
+    {
+      "anchor": "5-1-purpose-of-tests",
+      "end_line": 619,
+      "heading": "5.1 Purpose of Tests",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "5-2-frequency-response-measurements",
+      "end_line": 629,
+      "heading": "5.2 Frequency-Response Measurements",
+      "level": 1,
+      "start_line": 620
+    },
+    {
+      "anchor": "5-3-pulse-tests",
+      "end_line": 639,
+      "heading": "5.3 Pulse Tests",
+      "level": 1,
+      "start_line": 630
+    },
+    {
+      "anchor": "5-4-pseudorandom-binary-sequence-tests",
+      "end_line": 667,
+      "heading": "5.4 Pseudorandom Binary Sequence Tests",
+      "level": 1,
+      "start_line": 640
+    },
+    {
+      "anchor": "5-5-neutron-fluctuation-measurements",
+      "end_line": 675,
+      "heading": "5.5 Neutron Fluctuation Measurements",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "5-6-transient-flow-rate-tests",
+      "end_line": 696,
+      "heading": "5.6 Transient Flow-Rate Tests",
+      "level": 1,
+      "start_line": 676
+    },
+    {
+      "anchor": "5-7-conclusions-from-dynamics-tests",
+      "end_line": 700,
+      "heading": "5.7 Conclusions from Dynamics Tests",
+      "level": 1,
+      "start_line": 697
+    },
+    {
+      "anchor": "6-general-conclusions",
+      "end_line": 713,
+      "heading": "6. GENERAL CONCLUSIONS",
+      "level": 1,
+      "start_line": 701
+    },
+    {
+      "anchor": "references",
+      "end_line": 744,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 714
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 912,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 745
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 924,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 913
+    }
+  ],
+  "source_dir": "pdf/ORNL-4233",
+  "tables": [],
+  "title": "![](images/0f2d097e1999eb4eda5397e0d4a45e21a511df8614caf5dff3dffceed187533a.jpg)",
+  "topics": [
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "graphite-and-moderator-behavior",
+    "instrumentation-and-controls",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

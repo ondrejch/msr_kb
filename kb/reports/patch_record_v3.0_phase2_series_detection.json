@@ -1,0 +1,67 @@
+{
+  "patch_id": "v3.0-phase2-series-detection",
+  "applied_date": "2026-04-08",
+  "description": "Phase 2 report series detection improvements - EIR, NAS-NS, Natural Language Summaries, FFR chapters",
+  "files_modified": [
+    "deterministic_compiler_v2.py (REPORT_SERIES_HINTS)",
+    "deterministic_compiler_v2.py (REPORT_ID_PATTERNS)",
+    "deterministic_compiler_v2.py (detect_report_series function)",
+    "deterministic_compiler_v2.py (extract_doc_id function)"
+  ],
+  "series_patterns_added": {
+    "eir-series": {
+      "pattern": "Eidg. Institut für Reaktorforschung, EIR-Bericht, EIR-XXX",
+      "docs_detected": 3,
+      "notes": "Conservative pattern to avoid false positives from German words; EIR-215 remains undetected due to OCR 'Eldg.' vs 'Eidg.' variation"
+    },
+    "nas-ns-series": {
+      "pattern": "NAS-NS-XXXX, National Academy of Sciences, Nuclear Science",
+      "docs_detected": 27
+    },
+    "natural-language-summaries": {
+      "pattern": "New Developments in..., Assessment of...",
+      "docs_detected": 15
+    },
+    "ornl-review-series": {
+      "pattern": "ORNL Vol. X, No. Y format",
+      "docs_detected": 1
+    }
+  },
+  "impact": {
+    "before": {
+      "docs_without_series": 351,
+      "series_count": 8
+    },
+    "after": {
+      "docs_without_series": 330,
+      "series_count": 12
+    },
+    "new_series_coverage": "56 documents now have series attribution"
+  },
+  "improvements": {
+    "total_series_coverage": "355 of 637 documents (56%)",
+    "broken_down": {
+      "ornl-technical-memorandum": 169,
+      "ornl-central-files": 77,
+      "fluid-fuel-reactors": 38,
+      "nas-ns-series": 27,
+      "natural-language-summaries": 15,
+      "msr-program-quarterly-progress": 8,
+      "msr-program-semiannual-progress": 5,
+      "nuclear-science-engineering": 4,
+      "eir-series": 3,
+      "nuclear-applications-technology": 1,
+      "anp-quarterly-progress": 1,
+      "ornl-review-series": 1
+    }
+  },
+  "false_positive_management": {
+    "anl-7958_excluded": "ANL report correctly excluded from EIR detection",
+    "kontrolblatt_excluded": "Library control sheet excluded from EIR detection"
+  },
+  "remaining_improvements": {
+    "eir-215_detection": "Would require OCR variation handling (Eldg. vs Eidg.)",
+    "ffr-chapter_detection": "Already covered at 38 docs; book chapter detection complete",
+    "nat-series_expansion": "Additional patterns could be added for document title patterns"
+  }
+}

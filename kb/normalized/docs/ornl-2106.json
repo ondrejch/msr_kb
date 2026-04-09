@@ -1,0 +1,3460 @@
+{
+  "authors": [
+    "LEGAL NOTICE",
+    "AIRCRAFT REACTOR ENGINEERING",
+    "S. J. Cromer",
+    "A. P. Fraas",
+    "STATUS OF ART DESIGN",
+    "R. V. Meghreblian"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2106.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-2106",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 79,
+        "line_hits": [
+          1434,
+          1456,
+          1460,
+          1468,
+          1475,
+          1477,
+          1497,
+          1668,
+          1683,
+          1691,
+          1710,
+          1751,
+          1755,
+          1777,
+          1909,
+          2114,
+          2232,
+          2234,
+          2314,
+          2318,
+          2320,
+          2322,
+          2328,
+          2372,
+          2380,
+          2420,
+          2448,
+          2554,
+          2558,
+          2645,
+          2653,
+          2704,
+          2742,
+          2752,
+          2838,
+          2840,
+          2845,
+          2866,
+          2905,
+          2911,
+          2939,
+          2941,
+          2961,
+          2973,
+          2988,
+          2989,
+          2999,
+          3001,
+          3003,
+          3005
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 48,
+        "line_hits": [
+          165,
+          179,
+          249,
+          255,
+          257,
+          259,
+          261,
+          319,
+          385,
+          409,
+          413,
+          442,
+          1036,
+          1104,
+          2420,
+          2438,
+          2442,
+          2512,
+          2516,
+          2518,
+          2736,
+          2742,
+          2744,
+          2750,
+          2752,
+          2758,
+          2767,
+          2772,
+          3156,
+          4453,
+          4455,
+          4713,
+          4721,
+          4723,
+          4727,
+          4738,
+          4748,
+          4750,
+          4752,
+          5127,
+          5129,
+          5137,
+          5141,
+          5150,
+          5164,
+          5166,
+          5169,
+          5171
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 40,
+        "line_hits": [
+          1006,
+          1012,
+          1014,
+          1016,
+          1032,
+          2915,
+          2941,
+          2961,
+          2983,
+          2988,
+          2989,
+          2995,
+          3009,
+          3034,
+          3043,
+          3067,
+          3072,
+          3076,
+          3078,
+          3084,
+          3105,
+          3114,
+          3623,
+          3627,
+          3631,
+          3634,
+          3637,
+          3640,
+          3643,
+          3646,
+          3650,
+          3654,
+          3660,
+          3667,
+          3672,
+          3673,
+          3684,
+          3709,
+          4336,
+          4397
+        ],
+        "name": "Hastelloy B"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          2568,
+          2572,
+          2590,
+          2917,
+          2919,
+          2921,
+          2935,
+          2943,
+          2971,
+          2976,
+          2995,
+          3011,
+          3067,
+          3656,
+          3660,
+          3676,
+          3679,
+          3682,
+          3684,
+          3714
+        ],
+        "name": "Hastelloy W"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          467,
+          471,
+          2352,
+          2358,
+          2366,
+          2524,
+          2677,
+          2681,
+          2683,
+          2689,
+          2702,
+          2704,
+          2706,
+          3207,
+          3209,
+          3211,
+          3214,
+          3216,
+          3218,
+          3220
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          467,
+          471,
+          2899,
+          2901,
+          2903,
+          2905,
+          2911,
+          2999,
+          3001,
+          3030,
+          3032,
+          3034,
+          3039,
+          3051,
+          3057,
+          3067,
+          3082,
+          3660,
+          4316
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          956,
+          960,
+          1178,
+          1704,
+          1710,
+          1712,
+          2248,
+          2342,
+          2344,
+          2386,
+          2390,
+          2420,
+          2448,
+          4397,
+          4928,
+          4930,
+          4954
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          1434,
+          2139,
+          2155,
+          2306,
+          2310,
+          2312,
+          3326,
+          4449,
+          4453,
+          4475,
+          4501,
+          4505,
+          4516,
+          4598,
+          4604
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          2683,
+          2691,
+          2702,
+          2706,
+          2805,
+          2834,
+          2840,
+          2869,
+          3148,
+          3160,
+          4568
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1036,
+          1156,
+          2786,
+          2799,
+          2829,
+          2830,
+          2991,
+          3105,
+          3107,
+          3114
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          2566,
+          2572,
+          2581,
+          2588,
+          2590,
+          2976,
+          3197
+        ],
+        "name": "Hastelloy X"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          2574,
+          2578,
+          2583,
+          2586,
+          3105,
+          4328
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          623,
+          3055
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 115,
+        "line_hits": [
+          534,
+          633,
+          685,
+          695,
+          713,
+          723,
+          752,
+          776,
+          795,
+          806,
+          808,
+          863,
+          890,
+          898,
+          918,
+          994,
+          1014,
+          1016,
+          1018,
+          1026,
+          1032,
+          1036,
+          1120,
+          1136,
+          1140,
+          1156,
+          1158,
+          1160,
+          1162,
+          1164,
+          1168,
+          1172,
+          1178,
+          1536,
+          1640,
+          2296,
+          2408,
+          2410,
+          2472,
+          2474,
+          2476,
+          2480,
+          2486,
+          2488,
+          2495,
+          2496,
+          2500,
+          2508,
+          2510,
+          2518
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 115,
+        "line_hits": [
+          22,
+          92,
+          96,
+          102,
+          121,
+          123,
+          127,
+          135,
+          137,
+          551,
+          578,
+          633,
+          639,
+          651,
+          653,
+          657,
+          663,
+          677,
+          681,
+          683,
+          685,
+          687,
+          689,
+          693,
+          695,
+          701,
+          703,
+          705,
+          707,
+          711,
+          715,
+          717,
+          721,
+          723,
+          725,
+          729,
+          732,
+          734,
+          740,
+          752,
+          755,
+          757,
+          759,
+          763,
+          766,
+          768,
+          774,
+          776,
+          778,
+          781
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 64,
+        "line_hits": [
+          161,
+          165,
+          179,
+          184,
+          319,
+          321,
+          383,
+          385,
+          387,
+          409,
+          413,
+          810,
+          818,
+          824,
+          826,
+          828,
+          836,
+          838,
+          841,
+          843,
+          845,
+          849,
+          855,
+          857,
+          861,
+          863,
+          867,
+          869,
+          871,
+          879,
+          881,
+          883,
+          892,
+          896,
+          901,
+          903,
+          905,
+          909,
+          916,
+          928,
+          974,
+          1100,
+          1106,
+          1116,
+          1156,
+          1158,
+          1160,
+          3130,
+          3560,
+          3564
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          415,
+          419,
+          426,
+          450,
+          457,
+          461,
+          463,
+          465,
+          476,
+          685,
+          697,
+          962,
+          966,
+          978,
+          1052
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          133,
+          502,
+          536,
+          2851,
+          2893,
+          3187,
+          3193,
+          3197,
+          3752,
+          3758,
+          5129,
+          5133
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          818,
+          824,
+          826,
+          838,
+          841,
+          974
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          952,
+          2408,
+          2410,
+          2412
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          24,
+          783,
+          938
+        ],
+        "name": "drain tank"
+      }
+    ],
+    "organization": [
+      {
+        "count": 76,
+        "line_hits": [
+          94,
+          99,
+          421,
+          628,
+          700,
+          746,
+          838,
+          841,
+          845,
+          857,
+          863,
+          871,
+          879,
+          892,
+          896,
+          916,
+          972,
+          976,
+          1060,
+          1104,
+          1172,
+          1341,
+          1359,
+          1403,
+          1485,
+          1486,
+          1487,
+          1488,
+          1489,
+          1706,
+          2019,
+          2021,
+          2065,
+          2099,
+          2143,
+          2147,
+          2246,
+          2300,
+          2625,
+          2939,
+          2941,
+          2943,
+          2961,
+          2983,
+          2995,
+          3034,
+          3070,
+          3185,
+          3226,
+          3301
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          422,
+          744,
+          859,
+          2244,
+          3185,
+          3629,
+          4272,
+          5148
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          3185,
+          4928,
+          4956
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 326,
+        "line_hits": [
+          22,
+          24,
+          26,
+          34,
+          46,
+          64,
+          72,
+          90,
+          121,
+          127,
+          139,
+          165,
+          169,
+          181,
+          355,
+          385,
+          401,
+          403,
+          407,
+          413,
+          424,
+          426,
+          434,
+          448,
+          459,
+          471,
+          473,
+          478,
+          480,
+          508,
+          514,
+          534,
+          544,
+          546,
+          556,
+          576,
+          578,
+          597,
+          633,
+          653,
+          667,
+          673,
+          679,
+          685,
+          693,
+          703,
+          711,
+          729,
+          740,
+          763
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 120,
+        "line_hits": [
+          16,
+          20,
+          22,
+          24,
+          39,
+          50,
+          64,
+          80,
+          112,
+          133,
+          157,
+          161,
+          165,
+          184,
+          195,
+          213,
+          401,
+          440,
+          453,
+          457,
+          471,
+          482,
+          484,
+          488,
+          502,
+          524,
+          534,
+          597,
+          633,
+          651,
+          693,
+          701,
+          711,
+          729,
+          732,
+          755,
+          763,
+          766,
+          781,
+          783,
+          789,
+          800,
+          847,
+          890,
+          928,
+          938,
+          952,
+          962,
+          978,
+          986
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 169,
+        "line_hits": [
+          693,
+          944,
+          966,
+          1014,
+          1032,
+          1178,
+          1200,
+          1202,
+          1216,
+          1220,
+          1227,
+          1231,
+          1254,
+          1272,
+          1276,
+          1278,
+          1283,
+          1291,
+          1325,
+          1329,
+          1331,
+          1337,
+          1344,
+          1348,
+          1353,
+          1355,
+          1357,
+          1363,
+          1367,
+          1373,
+          1377,
+          1379,
+          1381,
+          1385,
+          1391,
+          1414,
+          1483,
+          1510,
+          1514,
+          1518,
+          1534,
+          1536,
+          1538,
+          1590,
+          1640,
+          1642,
+          1648,
+          1666,
+          1668,
+          1670
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 59,
+        "line_hits": [
+          1014,
+          1032,
+          1202,
+          1216,
+          1220,
+          1227,
+          1333,
+          1337,
+          1348,
+          1350,
+          1353,
+          1357,
+          1361,
+          1363,
+          1365,
+          1367,
+          1369,
+          1381,
+          1385,
+          1391,
+          1395,
+          1399,
+          1401,
+          1408,
+          1422,
+          1426,
+          1483,
+          1497,
+          1501,
+          1508,
+          1510,
+          1514,
+          1518,
+          1522,
+          1524,
+          1526,
+          1534,
+          1536,
+          1590,
+          1640,
+          1648,
+          2019,
+          2061,
+          2188,
+          2194,
+          2386,
+          2583,
+          2586,
+          2600,
+          2604
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 57,
+        "line_hits": [
+          966,
+          1032,
+          1220,
+          1258,
+          1272,
+          1278,
+          1283,
+          1325,
+          1497,
+          1501,
+          1518,
+          1524,
+          1534,
+          1536,
+          1648,
+          1670,
+          1700,
+          1704,
+          1826,
+          1830,
+          1880,
+          1888,
+          1890,
+          1900,
+          1903,
+          1907,
+          1909,
+          2015,
+          2033,
+          2068,
+          2093,
+          2095,
+          2110,
+          2117,
+          2175,
+          2222,
+          2262,
+          2382,
+          2478,
+          2498,
+          2542,
+          2560,
+          2581,
+          2588,
+          2604,
+          2613,
+          2649,
+          2666,
+          2778,
+          2790
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 50,
+        "line_hits": [
+          1014,
+          1032,
+          1220,
+          1381,
+          1385,
+          1420,
+          1483,
+          1491,
+          1497,
+          1510,
+          1514,
+          1518,
+          1522,
+          1524,
+          1526,
+          1534,
+          1536,
+          1590,
+          1640,
+          1648,
+          2015,
+          2019,
+          2023,
+          2025,
+          2027,
+          2029,
+          2031,
+          2033,
+          2049,
+          2059,
+          2068,
+          2087,
+          2188,
+          2194,
+          2210,
+          2214,
+          2386,
+          2583,
+          2586,
+          2600,
+          2604,
+          2608,
+          2610,
+          3057,
+          4154,
+          4162,
+          4338,
+          4397,
+          4429,
+          5150
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 47,
+        "line_hits": [
+          1198,
+          1200,
+          1220,
+          1250,
+          1254,
+          1256,
+          1258,
+          1262,
+          1264,
+          1268,
+          1270,
+          1272,
+          1276,
+          1278,
+          1281,
+          1283,
+          1291,
+          1325,
+          1329,
+          1331,
+          1344,
+          1373,
+          1377,
+          1379,
+          1391,
+          1393,
+          1399,
+          1416,
+          1420,
+          1512,
+          1890,
+          1892,
+          1900,
+          1903,
+          2015,
+          2019,
+          2047,
+          2049,
+          2093,
+          2095,
+          2103,
+          2106,
+          2222,
+          2600,
+          2604,
+          2608,
+          2613
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 40,
+        "line_hits": [
+          1032,
+          1220,
+          1250,
+          1325,
+          1381,
+          1479,
+          1501,
+          1518,
+          1534,
+          1536,
+          1640,
+          1648,
+          1890,
+          1900,
+          1907,
+          1909,
+          2222,
+          2262,
+          2382,
+          2478,
+          2498,
+          2542,
+          2560,
+          2581,
+          2586,
+          2588,
+          2604,
+          2613,
+          2649,
+          2666,
+          2778,
+          2790,
+          2901,
+          3728,
+          3734,
+          4334,
+          4338,
+          4429,
+          4651,
+          4659
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 27,
+        "line_hits": [
+          1534,
+          1536,
+          1648,
+          1890,
+          1900,
+          1907,
+          1909,
+          2222,
+          2262,
+          2382,
+          2478,
+          2498,
+          2542,
+          2560,
+          2581,
+          2588,
+          2604,
+          2649,
+          2666,
+          2778,
+          2790,
+          2901,
+          3728,
+          3734,
+          4334,
+          4429,
+          4659
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          1032,
+          1518,
+          1670,
+          1700,
+          1704,
+          1830,
+          1903,
+          2110,
+          2262,
+          2542,
+          4659
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1385,
+          1483,
+          1518,
+          1590,
+          2386,
+          2583,
+          3057,
+          4154,
+          4162,
+          4397
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          2306,
+          2310,
+          2342,
+          2352,
+          2372,
+          2484
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1518,
+          4076
+        ],
+        "name": "LiF-NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1333
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1333
+        ],
+        "name": "FLiBe"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "8b049361335de3a32f681f85cb9bf035a62700a3360b82edc42fe0b8c2fd0b41",
+  "markdown_path": "pdf/ORNL-2106/ORNL-2106/hybrid_ocr/ORNL-2106.md",
+  "report_number": "ORNL-2012",
+  "report_numbers": [
+    "ORNL-2012"
+  ],
+  "report_series": null,
+  "section_count": 316,
+  "sections": [
+    {
+      "anchor": "legal-notice",
+      "end_line": 9,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "part-1",
+      "end_line": 11,
+      "heading": "Part 1",
+      "level": 1,
+      "start_line": 10
+    },
+    {
+      "anchor": "aircraft-reactor-engineering",
+      "end_line": 15,
+      "heading": "AIRCRAFT REACTOR ENGINEERING",
+      "level": 1,
+      "start_line": 12
+    },
+    {
+      "anchor": "1-1-aircraft-reactor-test-design",
+      "end_line": 19,
+      "heading": "1.1. AIRCRAFT REACTOR TEST DESIGN",
+      "level": 1,
+      "start_line": 16
+    },
+    {
+      "anchor": "status-of-art-design",
+      "end_line": 27,
+      "heading": "STATUS OF ART DESIGN",
+      "level": 1,
+      "start_line": 20
+    },
+    {
+      "anchor": "applied-mechanics-and-stress-analysis",
+      "end_line": 31,
+      "heading": "APPLIED MECHANICS AND STRESS ANALYSIS",
+      "level": 1,
+      "start_line": 28
+    },
+    {
+      "anchor": "north-head-pressure-stresses",
+      "end_line": 53,
+      "heading": "North-Head Pressure Stresses",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "north-head-thermal-stress",
+      "end_line": 65,
+      "heading": "North-Head Thermal Stress",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "sodium-expansion-tank-design",
+      "end_line": 73,
+      "heading": "Sodium Expansion Tank Design",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "aluminum-north-head-mockup-flow-studies",
+      "end_line": 98,
+      "heading": "ALUMINUM NORTH-HEAD MockUP FLOW STUDIES",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-14949",
+      "end_line": 107,
+      "heading": "Unclassified Ornl-Lr-Dwg 14949",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "core-flow-studies",
+      "end_line": 116,
+      "heading": "CORE FLOW STUDIES",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "performance-requirements-for-pumps-in-the-nok-systems",
+      "end_line": 128,
+      "heading": "PERFORMANCE REQUIREMENTS FOR PUMPS IN THE NoK SYSTEMS",
+      "level": 1,
+      "start_line": 117
+    },
+    {
+      "anchor": "control-rod-cooling-system",
+      "end_line": 130,
+      "heading": "CONTROL-ROD COOLING SYSTEM",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "j-foster",
+      "end_line": 148,
+      "heading": "J. Foster",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "sodium-system-studies",
+      "end_line": 150,
+      "heading": "SODIUM SYSTEM STUDIES",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "r-i-gray",
+      "end_line": 156,
+      "heading": "R. I. Gray",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "1-2-art-physics",
+      "end_line": 160,
+      "heading": "1.2. ART PHYSICS",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "radiation-heating-on-the-art-equatorial-plane-in-the-vicinity-of-the-fuel-to-nok-heat-exchanger",
+      "end_line": 394,
+      "heading": "RADIATION HEATING ON THE ART EQUATORIAL PLANE IN THE VICINITY OF THE FUEL-TO-NoK HEAT EXCHANGER",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "radiation-heating-in-various-regions-of-the-north-head",
+      "end_line": 414,
+      "heading": "RADIATION HEATING IN VARIOUS REGIONS OF THE NORTH HEAD",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "beta-and-gamma-ray-activity-in-the-fuel-expansion-chamber-and-the-off-gas-system",
+      "end_line": 439,
+      "heading": "BETA- AND GAMMA-RAY ACTIVITY IN THE FUEL EXPANSION CHAMBER AND THE OFF-GAS SYSTEM",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "table-1-2-2-average-heat-generation-rates-in-members-of-art-north-head",
+      "end_line": 466,
+      "heading": "Table 1.2.2. Average Heat-Generation Rates In Members Of Art North Head",
+      "level": 2,
+      "start_line": 440
+    },
+    {
+      "anchor": "activities-of-niobium-molybdenum-ruthenium-and-their-daughter-products-after-shutdown",
+      "end_line": 487,
+      "heading": "ACTIVITIES OF NIOBIUM, MOLYBDENUM, RUTHENIUM, AND THEIR DAUGHTER PRODUCTS AFTER SHUTDOWN",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "1-3-art-instruments-and-controls",
+      "end_line": 493,
+      "heading": "1.3. ART INSTRUMENTS AND CONTROLS",
+      "level": 1,
+      "start_line": 488
+    },
+    {
+      "anchor": "louver-control-simulation",
+      "end_line": 509,
+      "heading": "LOUVER CONTROL SIMULATION",
+      "level": 1,
+      "start_line": 494
+    },
+    {
+      "anchor": "louver-actuator",
+      "end_line": 517,
+      "heading": "LOUVER ACTUATOR",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "enricher-actuator",
+      "end_line": 525,
+      "heading": "ENRICHER ACTUATOR",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "flux-servo-simulation",
+      "end_line": 535,
+      "heading": "FLUX SERVO SIMULATION",
+      "level": 1,
+      "start_line": 526
+    },
+    {
+      "anchor": "control-rod-and-drive-mechanism",
+      "end_line": 567,
+      "heading": "CONTROL ROD AND DRIVE MECHANISM",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "instrument-development",
+      "end_line": 586,
+      "heading": "INSTRUMENT DEVELOPMENT",
+      "level": 1,
+      "start_line": 568
+    },
+    {
+      "anchor": "cell-bulkhead-penetrations",
+      "end_line": 592,
+      "heading": "Cell Bulkhead Penetrations",
+      "level": 1,
+      "start_line": 587
+    },
+    {
+      "anchor": "fuel-expansion-tank-level-indicator",
+      "end_line": 608,
+      "heading": "Fuel-Expansion-Tank Level Indicator",
+      "level": 1,
+      "start_line": 593
+    },
+    {
+      "anchor": "high-temperature-pressure-transmitters",
+      "end_line": 614,
+      "heading": "High-Temperature Pressure Transmitters",
+      "level": 1,
+      "start_line": 609
+    },
+    {
+      "anchor": "high-temperature-turbine-type-flowmeter",
+      "end_line": 634,
+      "heading": "High-Temperature Turbine-Type Flowmeter",
+      "level": 1,
+      "start_line": 615
+    },
+    {
+      "anchor": "1-4-component-development-and-testing",
+      "end_line": 638,
+      "heading": "1.4. COMPONENT DEVELOPMENT AND TESTING",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "pump-development",
+      "end_line": 644,
+      "heading": "PUMP DEVELOPMENT",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "bearing-and-seal-development",
+      "end_line": 680,
+      "heading": "Bearing-and-Seal Development",
+      "level": 1,
+      "start_line": 645
+    },
+    {
+      "anchor": "pump-lube-oil-system-gas-attenuation-tests-s-m-decamp",
+      "end_line": 688,
+      "heading": "Pump Lube-Oil System Gas-Attenuation Tests S. M. DeCamp",
+      "level": 1,
+      "start_line": 681
+    },
+    {
+      "anchor": "fuel-pump-endurance-tests",
+      "end_line": 690,
+      "heading": "Fuel Pump Endurance Tests",
+      "level": 1,
+      "start_line": 689
+    },
+    {
+      "anchor": "s-m-decamp",
+      "end_line": 699,
+      "heading": "S. M. DeCamp",
+      "level": 1,
+      "start_line": 691
+    },
+    {
+      "anchor": "confidential-ornl-lr-dwg-14953",
+      "end_line": 706,
+      "heading": "Confidential Ornl-Lr-Dwg 14953",
+      "level": 2,
+      "start_line": 700
+    },
+    {
+      "anchor": "fuel-pump-development-tests",
+      "end_line": 716,
+      "heading": "Fuel Pump Development Tests",
+      "level": 1,
+      "start_line": 707
+    },
+    {
+      "anchor": "sodium-pump-endurance-tests",
+      "end_line": 724,
+      "heading": "Sodium Pump Endurance Tests",
+      "level": 1,
+      "start_line": 717
+    },
+    {
+      "anchor": "sodium-pump-development-tests",
+      "end_line": 790,
+      "heading": "Sodium Pump Development Tests",
+      "level": 1,
+      "start_line": 725
+    },
+    {
+      "anchor": "primary-and-auxiliary-nok-pump-test-stands",
+      "end_line": 809,
+      "heading": "Primary and Auxiliary NoK Pump Test Stands",
+      "level": 1,
+      "start_line": 791
+    },
+    {
+      "anchor": "heat-exchanger-development",
+      "end_line": 817,
+      "heading": "HEAT EXCHANGER DEVELOPMENT",
+      "level": 1,
+      "start_line": 810
+    },
+    {
+      "anchor": "intermediate-heat-exchanger-tests",
+      "end_line": 825,
+      "heading": "Intermediate Heat Exchanger Tests",
+      "level": 1,
+      "start_line": 818
+    },
+    {
+      "anchor": "table-1-4-2-summary-of-intermediate-heat-exchanger-test-stand-operation",
+      "end_line": 868,
+      "heading": "Table 1.4.2. Summary Of Intermediate Heat Exchanger Test Stand Operation",
+      "level": 2,
+      "start_line": 826
+    },
+    {
+      "anchor": "table-1-4-4-summary-of-small-heat-exchanger-test-stand-operation",
+      "end_line": 884,
+      "heading": "Table 1.4.4. Summary Of Small Heat Exchanger Test Stand Operation",
+      "level": 2,
+      "start_line": 869
+    },
+    {
+      "anchor": "unclassified-photo-25875",
+      "end_line": 904,
+      "heading": "Unclassified Photo 25875",
+      "level": 2,
+      "start_line": 885
+    },
+    {
+      "anchor": "cold-trap-evaluation-in-heat-exchanger-test-stands",
+      "end_line": 929,
+      "heading": "Cold-Trap Evaluation in Heat Exchanger Test Stands",
+      "level": 1,
+      "start_line": 905
+    },
+    {
+      "anchor": "auxiliary-component-development",
+      "end_line": 933,
+      "heading": "AUXILIARY COMPONENT DEVELOPMENT",
+      "level": 1,
+      "start_line": 930
+    },
+    {
+      "anchor": "dump-valve",
+      "end_line": 947,
+      "heading": "Dump Valve",
+      "level": 1,
+      "start_line": 934
+    },
+    {
+      "anchor": "cold-trap-and-plugging-indicator",
+      "end_line": 955,
+      "heading": "Cold Trap and Plugging Indicator",
+      "level": 1,
+      "start_line": 948
+    },
+    {
+      "anchor": "zirconium-fluoride-vapor-trap",
+      "end_line": 987,
+      "heading": "Zirconium Fluoride Vapor Trap",
+      "level": 1,
+      "start_line": 956
+    },
+    {
+      "anchor": "outer-core-shell-thermal-stability-test",
+      "end_line": 1001,
+      "heading": "OUTER CORE SHELL THERMAL STABILITY TEST",
+      "level": 1,
+      "start_line": 988
+    },
+    {
+      "anchor": "forced-circulation-corrosion-and-mass-transfer-tests",
+      "end_line": 1037,
+      "heading": "FORCED-CIRCULATION CORROSION AND MASS-TRANSFER TESTS",
+      "level": 1,
+      "start_line": 1002
+    },
+    {
+      "anchor": "1-5-procurement-and-construction",
+      "end_line": 1041,
+      "heading": "1.5. Procurement and Construction",
+      "level": 1,
+      "start_line": 1038
+    },
+    {
+      "anchor": "art-facility",
+      "end_line": 1067,
+      "heading": "Art Facility",
+      "level": 2,
+      "start_line": 1042
+    },
+    {
+      "anchor": "etu-facility",
+      "end_line": 1077,
+      "heading": "ETU FACILITY",
+      "level": 1,
+      "start_line": 1068
+    },
+    {
+      "anchor": "art-etu-reactor-procedure-and-assembly",
+      "end_line": 1119,
+      "heading": "ART-ETU REACTOR PROCEDURE AND ASSEMBLY",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "1-6-art-etu-and-in-pile-loop-operation",
+      "end_line": 1121,
+      "heading": "1.6. ART, ETU, AND IN-PILE LOOP OPERATION",
+      "level": 1,
+      "start_line": 1120
+    },
+    {
+      "anchor": "art-operating-manual",
+      "end_line": 1135,
+      "heading": "ART OPERATING MANUAL",
+      "level": 1,
+      "start_line": 1122
+    },
+    {
+      "anchor": "in-pile-loop-development-and-tests",
+      "end_line": 1173,
+      "heading": "IN-PILE LOOP DEVELOPMENT AND TESTS",
+      "level": 1,
+      "start_line": 1136
+    },
+    {
+      "anchor": "horizontal-shaft-sump-pump-for-in-pile-loops",
+      "end_line": 1179,
+      "heading": "Horizontal-Shaft Sump Pump for In-Pile Loops",
+      "level": 1,
+      "start_line": 1174
+    },
+    {
+      "anchor": "part-2",
+      "end_line": 1181,
+      "heading": "Part 2",
+      "level": 1,
+      "start_line": 1180
+    },
+    {
+      "anchor": "chemistry",
+      "end_line": 1185,
+      "heading": "CHEMISTRY",
+      "level": 1,
+      "start_line": 1182
+    },
+    {
+      "anchor": "2-1-phase-equilibrium-studies",
+      "end_line": 1205,
+      "heading": "2.1. PHASE EQUILIBRIUM STUDIES",
+      "level": 1,
+      "start_line": 1186
+    },
+    {
+      "anchor": "general-comparisons-of-the-binary-systems-mf-zf-4-and-mf-uf-4",
+      "end_line": 1249,
+      "heading": "GENERAL COMPARISONS OF THE BINARY SYSTEMS $MF-ZF_4$ AND $MF-UF_4$",
+      "level": 1,
+      "start_line": 1206
+    },
+    {
+      "anchor": "the-system-rbf-uf4",
+      "end_line": 1257,
+      "heading": "THE SYSTEM RbF-UF4",
+      "level": 1,
+      "start_line": 1250
+    },
+    {
+      "anchor": "the-system-rbf-zrf4",
+      "end_line": 1271,
+      "heading": "THE SYSTEM RbF-ZrF4",
+      "level": 1,
+      "start_line": 1258
+    },
+    {
+      "anchor": "the-system-naf-rbf-zrf4",
+      "end_line": 1284,
+      "heading": "THE SYSTEM NaF-RbF-ZrF4",
+      "level": 1,
+      "start_line": 1272
+    },
+    {
+      "anchor": "optical-properties-and-x-ray-patterns-for-3nof-3rbf-4zrf",
+      "end_line": 1297,
+      "heading": "OPTICAL PROPERTIES AND X-RAY PATTERNS FOR 3NoF·3RbF·4ZrF",
+      "level": 1,
+      "start_line": 1285
+    },
+    {
+      "anchor": "n-o-1-4-3-6",
+      "end_line": 1301,
+      "heading": "N _ {O} = 1. 4 3 6",
+      "level": 2,
+      "start_line": 1298
+    },
+    {
+      "anchor": "n-e-1-4-3-0",
+      "end_line": 1324,
+      "heading": "N _ {E} = 1. 4 3 0",
+      "level": 2,
+      "start_line": 1302
+    },
+    {
+      "anchor": "the-system-naf-rbf-zrf4-uf4",
+      "end_line": 1332,
+      "heading": "THE SYSTEM NaF-RbF-ZrF4-UF4",
+      "level": 1,
+      "start_line": 1325
+    },
+    {
+      "anchor": "the-system-nof-lif-bef2",
+      "end_line": 1338,
+      "heading": "THE SYSTEM NoF-LiF-BeF2",
+      "level": 1,
+      "start_line": 1333
+    },
+    {
+      "anchor": "contents",
+      "end_line": 1340,
+      "heading": "Contents",
+      "level": 2,
+      "start_line": 1339
+    },
+    {
+      "anchor": "ornl-lr-dwg-14630",
+      "end_line": 1372,
+      "heading": "Ornl-Lr-Dwg 14630",
+      "level": 2,
+      "start_line": 1341
+    },
+    {
+      "anchor": "the-system-naf-rbf-bef-2",
+      "end_line": 1374,
+      "heading": "THE SYSTEM NaF-RbF-BeF $_2$",
+      "level": 1,
+      "start_line": 1373
+    },
+    {
+      "anchor": "l-m-bratcher",
+      "end_line": 1380,
+      "heading": "L. M. Bratcher",
+      "level": 1,
+      "start_line": 1375
+    },
+    {
+      "anchor": "the-system-naf-kf-lif-uf4",
+      "end_line": 1382,
+      "heading": "THE SYSTEM NaF-KF-LiF-UF4",
+      "level": 1,
+      "start_line": 1381
+    },
+    {
+      "anchor": "r-j-sheil",
+      "end_line": 1386,
+      "heading": "R.J.Sheil",
+      "level": 1,
+      "start_line": 1383
+    },
+    {
+      "anchor": "alkali-fluoride-mathsf-cef-3-systems",
+      "end_line": 1388,
+      "heading": "ALKALI FLUORIDE- $\\mathsf{CeF}_3$ SYSTEMS",
+      "level": 1,
+      "start_line": 1387
+    },
+    {
+      "anchor": "l-m-bratcher",
+      "end_line": 1394,
+      "heading": "L. M. Bratcher",
+      "level": 1,
+      "start_line": 1389
+    },
+    {
+      "anchor": "the-system-lif-csf",
+      "end_line": 1396,
+      "heading": "THE SYSTEM LIF-CsF",
+      "level": 1,
+      "start_line": 1395
+    },
+    {
+      "anchor": "l-m-bratcher",
+      "end_line": 1409,
+      "heading": "L. M. Bratcher",
+      "level": 1,
+      "start_line": 1397
+    },
+    {
+      "anchor": "the-system-mgf-2-caf-2",
+      "end_line": 1415,
+      "heading": "THE SYSTEM MgF $_2$ -CaF $_2$",
+      "level": 1,
+      "start_line": 1410
+    },
+    {
+      "anchor": "the-system-rbf-caf",
+      "end_line": 1421,
+      "heading": "THE SYSTEM RbF-CaF",
+      "level": 1,
+      "start_line": 1416
+    },
+    {
+      "anchor": "the-system-lif-nif",
+      "end_line": 1429,
+      "heading": "THE SYSTEM LIF-NIF",
+      "level": 1,
+      "start_line": 1422
+    },
+    {
+      "anchor": "the-system-uf-4-uo-2",
+      "end_line": 1435,
+      "heading": "THE SYSTEM $UF_4 - UO_2$",
+      "level": 1,
+      "start_line": 1430
+    },
+    {
+      "anchor": "the-system-mathsf-znf-2-zno",
+      "end_line": 1445,
+      "heading": "THE SYSTEM $\\mathsf{ZnF}_2$ -ZnO",
+      "level": 1,
+      "start_line": 1436
+    },
+    {
+      "anchor": "2-2-chemical-reactions-in-molten-salts",
+      "end_line": 1455,
+      "heading": "2.2. CHEMICAL REACTIONS IN MOLTEN SALTS",
+      "level": 1,
+      "start_line": 1446
+    },
+    {
+      "anchor": "activity-of-chromium-in-chromium-nickel-alloys",
+      "end_line": 1478,
+      "heading": "ACTIVITY OF CHROMIUM IN CHROMIUM-NICKEL ALLOYS",
+      "level": 1,
+      "start_line": 1456
+    },
+    {
+      "anchor": "reduction-of-uf4-by-structural-metals",
+      "end_line": 1480,
+      "heading": "REDUCTION OF UF4 BY STRUCTURAL METALS",
+      "level": 1,
+      "start_line": 1479
+    },
+    {
+      "anchor": "j-d-redman",
+      "end_line": 1529,
+      "heading": "J.D.Redman",
+      "level": 1,
+      "start_line": 1481
+    },
+    {
+      "anchor": "some-observations-on-mass-transfer-of-chromium-by-molten-salts",
+      "end_line": 1657,
+      "heading": "SOME OBSERVATIONS ON MASS TRANSFER OF CHROMIUM BY MOLTEN SALTS",
+      "level": 1,
+      "start_line": 1530
+    },
+    {
+      "anchor": "equilibrium-reduction-of-mathsf-n-mathsf-i-mathsf-f-2-by-mathsf-h-2-in-nafzrf4-c-m-blood",
+      "end_line": 1699,
+      "heading": "EQUILIBRIUM REDUCTION OF $\\mathsf{N}\\mathsf{i}\\mathsf{F}_{2}$ BY $\\mathsf{H}_{2}$ IN NaFzrF4 C.M.Blood",
+      "level": 1,
+      "start_line": 1658
+    },
+    {
+      "anchor": "solubility-and-stability-of-structural-metal-fluorides-in-molten-naf-zrf4",
+      "end_line": 1744,
+      "heading": "SOLUBILITY AND STABILITY OF STRUCTURAL METAL FLUORIDES IN MOLTEN NaF-ZrF4",
+      "level": 1,
+      "start_line": 1700
+    },
+    {
+      "anchor": "solubility-determinations-by-measurement-of-electromotive-forces-of-concentration-cells",
+      "end_line": 1801,
+      "heading": "SOLUBILITY DETERMINATIONS BY MEASUREMENT OF ELECTROMOTIVE FORCES OF CONCENTRATION CELLS",
+      "level": 1,
+      "start_line": 1745
+    },
+    {
+      "anchor": "free-energies-of-formation-of-complex-metal-fluorides-m-f-2-cdot-z-r-f-4-l-e-topol",
+      "end_line": 1877,
+      "heading": "FREE ENERGIES OF FORMATION OF COMPLEX METAL FLUORIDES $M F_{2} \\cdot Z r F_{4}$ L. E. Topol",
+      "level": 1,
+      "start_line": 1802
+    },
+    {
+      "anchor": "table-2-2-13-selected-values-of-free-energy-of-formation",
+      "end_line": 1906,
+      "heading": "Table 2.2.13. Selected Values Of Free Energy Of Formation",
+      "level": 2,
+      "start_line": 1878
+    },
+    {
+      "anchor": "preliminary-solubility-values-of-cef3-in-naf-zrf4-uf4-c-m-blood",
+      "end_line": 1918,
+      "heading": "PRELIMINARY SOLUBILITY VALUES OF CeF3 IN NaF-ZrF4-UF4 C.M.Blood",
+      "level": 1,
+      "start_line": 1907
+    },
+    {
+      "anchor": "concentration-cells-and-transference-numbers-in-fused-salts",
+      "end_line": 2008,
+      "heading": "CONCENTRATION CELLS AND TRANSFERENCE NUMBERS IN FUSED SALTS",
+      "level": 1,
+      "start_line": 1919
+    },
+    {
+      "anchor": "2-3-physical-properties-of-molten-materials",
+      "end_line": 2014,
+      "heading": "2.3. PHYSICAL PROPERTIES OF MOLTEN MATERIALS",
+      "level": 1,
+      "start_line": 2009
+    },
+    {
+      "anchor": "pressure-composition-temperature-relations-for-the-systems-kf-zrf4-and-rbf-zrf4",
+      "end_line": 2022,
+      "heading": "PRESSURE-COMPOSITION-TEMPERATURE RELATIONS FOR THE SYSTEMS KF-ZrF4 AND RbF-ZrF4",
+      "level": 1,
+      "start_line": 2015
+    },
+    {
+      "anchor": "the-system-kf-zrf-sub-4-sub",
+      "end_line": 2046,
+      "heading": "The System KF-ZrF<sub>4</sub>",
+      "level": 1,
+      "start_line": 2023
+    },
+    {
+      "anchor": "the-system-rbf-zrf",
+      "end_line": 2062,
+      "heading": "The System RbF-ZrF",
+      "level": 1,
+      "start_line": 2047
+    },
+    {
+      "anchor": "confidential",
+      "end_line": 2064,
+      "heading": "Confidential",
+      "level": 2,
+      "start_line": 2063
+    },
+    {
+      "anchor": "ornl-lr-dwg-14637",
+      "end_line": 2096,
+      "heading": "Ornl-Lr-Dwg 14637",
+      "level": 2,
+      "start_line": 2065
+    },
+    {
+      "anchor": "confidentia",
+      "end_line": 2098,
+      "heading": "Confidentia",
+      "level": 2,
+      "start_line": 2097
+    },
+    {
+      "anchor": "ornl-lr-dwg13012a",
+      "end_line": 2101,
+      "heading": "Ornl-Lr-Dwg13012A",
+      "level": 2,
+      "start_line": 2099
+    },
+    {
+      "anchor": "temperature-c",
+      "end_line": 2107,
+      "heading": "Temperature (°C)",
+      "level": 2,
+      "start_line": 2102
+    },
+    {
+      "anchor": "surface-tension-and-density",
+      "end_line": 2134,
+      "heading": "SURFACE TENSION AND DENSITY",
+      "level": 1,
+      "start_line": 2108
+    },
+    {
+      "anchor": "surface-tensions-of-molten-salts",
+      "end_line": 2144,
+      "heading": "SURFACE TENSIONS OF MOLTEN SALTS",
+      "level": 1,
+      "start_line": 2135
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 2146,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 2145
+    },
+    {
+      "anchor": "ornl-lr-dwg14642",
+      "end_line": 2164,
+      "heading": "Ornl-Lr-Dwg14642",
+      "level": 2,
+      "start_line": 2147
+    },
+    {
+      "anchor": "specific-conductance-and-density-of-fused-lithium-potassium-and-cesium-fluorides14",
+      "end_line": 2195,
+      "heading": "SPECIFIC CONDUCTANCE AND DENSITY OF FUSED LITHIUM, POTASSIUM, AND CESIUM FLUORIDES14",
+      "level": 1,
+      "start_line": 2165
+    },
+    {
+      "anchor": "2-4-production-of-fuels",
+      "end_line": 2201,
+      "heading": "2.4. PRODUCTION OF FUELS",
+      "level": 1,
+      "start_line": 2196
+    },
+    {
+      "anchor": "experimental-preparation-of-various-fluorides",
+      "end_line": 2217,
+      "heading": "EXPERIMENTAL PREPARATION OF VARIOUS FLUORIDES",
+      "level": 1,
+      "start_line": 2202
+    },
+    {
+      "anchor": "laboratory-scale-purification-operations",
+      "end_line": 2225,
+      "heading": "LABORATORY-SCALE PURIFICATION OPERATIONS",
+      "level": 1,
+      "start_line": 2218
+    },
+    {
+      "anchor": "pilot-scale-purification-operations",
+      "end_line": 2235,
+      "heading": "PILOT-SCALE PURIFICATION OPERATIONS",
+      "level": 1,
+      "start_line": 2226
+    },
+    {
+      "anchor": "production-scale-operations",
+      "end_line": 2249,
+      "heading": "PRODUCTION-SCALE OPERATIONS",
+      "level": 1,
+      "start_line": 2236
+    },
+    {
+      "anchor": "batching-and-dispensing-operations",
+      "end_line": 2259,
+      "heading": "BATCHING AND DISPENSING OPERATIONS",
+      "level": 1,
+      "start_line": 2250
+    },
+    {
+      "anchor": "table-2-4-1-material-balance",
+      "end_line": 2265,
+      "heading": "Table 2.4.1. Material Balance",
+      "level": 2,
+      "start_line": 2260
+    },
+    {
+      "anchor": "preparation-of-mathsf-zrf-4-from-mathsf-zrcl-4",
+      "end_line": 2275,
+      "heading": "PREPARATION OF $\\mathsf{ZrF}_4$ FROM $\\mathsf{ZrCl}_4$",
+      "level": 1,
+      "start_line": 2266
+    },
+    {
+      "anchor": "special-services",
+      "end_line": 2301,
+      "heading": "SPECIAL SERVICES",
+      "level": 1,
+      "start_line": 2276
+    },
+    {
+      "anchor": "2-5-compatibility-of-materials-at-high-temperatures",
+      "end_line": 2305,
+      "heading": "2.5. COMPATIBILITY OF MATERIALS AT HIGH TEMPERATURES",
+      "level": 1,
+      "start_line": 2302
+    },
+    {
+      "anchor": "penetration-of-graphite-by-molten-fluorides",
+      "end_line": 2313,
+      "heading": "PENETRATION OF GRAPHITE BY MOLTEN FLUORIDES",
+      "level": 1,
+      "start_line": 2306
+    },
+    {
+      "anchor": "effect-of-atmosphere-on-anodic-dissolution-of-nickel-in-molten-naoh",
+      "end_line": 2331,
+      "heading": "EFFECT OF ATMOSPHERE ON ANODIC DISSOLUTION OF NICKEL IN MOLTEN NaOH",
+      "level": 1,
+      "start_line": 2314
+    },
+    {
+      "anchor": "2-6-analytical-chemistry",
+      "end_line": 2335,
+      "heading": "2.6. ANALYTICAL CHEMISTRY",
+      "level": 1,
+      "start_line": 2332
+    },
+    {
+      "anchor": "determination-of-barium-lanthanum-and-rubidium-in-fluoride-fuels",
+      "end_line": 2351,
+      "heading": "DETERMINATION OF BARIUM, LANTHANUM, AND RUBIDIUM IN FLUORIDE FUELS",
+      "level": 1,
+      "start_line": 2336
+    },
+    {
+      "anchor": "determination-of-niobium-in-fused-mixtures-of-fluoride-salts-by-the-thiocyanate-method",
+      "end_line": 2367,
+      "heading": "DETERMINATION OF NIOBIUM IN FUSED MIXTURES OF FLUORIDE SALTS BY THE THIOCYANATE METHOD",
+      "level": 1,
+      "start_line": 2352
+    },
+    {
+      "anchor": "determination-of-traces-of-copper-in-fluoride-fuel-mixtures",
+      "end_line": 2381,
+      "heading": "DETERMINATION OF TRACES OF COPPER IN FLUORIDE FUEL MIXTURES",
+      "level": 1,
+      "start_line": 2368
+    },
+    {
+      "anchor": "determination-of-tantalum-in-naf-zrf4-uf4",
+      "end_line": 2391,
+      "heading": "DETERMINATION OF TANTALUM IN NaF-ZrF4-UF4",
+      "level": 1,
+      "start_line": 2382
+    },
+    {
+      "anchor": "detection-of-traces-of-nak-in-air",
+      "end_line": 2401,
+      "heading": "DETECTION OF TRACES OF NaK IN AIR",
+      "level": 1,
+      "start_line": 2392
+    },
+    {
+      "anchor": "determination-of-oxygen-in-nak",
+      "end_line": 2413,
+      "heading": "DETERMINATION OF OXYGEN IN NaK",
+      "level": 1,
+      "start_line": 2402
+    },
+    {
+      "anchor": "examination-of-cold-traps-from-alkali-metal-systems",
+      "end_line": 2429,
+      "heading": "EXAMINATION OF COLD TRAPS FROM ALKALI-METAL SYSTEMS",
+      "level": 1,
+      "start_line": 2414
+    },
+    {
+      "anchor": "determination-of-water-in-helium",
+      "end_line": 2437,
+      "heading": "DETERMINATION OF WATER IN HELIUM",
+      "level": 1,
+      "start_line": 2430
+    },
+    {
+      "anchor": "compatibility-of-beryllium-with-some-typical-organic-degreasing-agents",
+      "end_line": 2443,
+      "heading": "COMPATIBILITY OF BERYLLIUM WITH SOME TYPICAL ORGANIC DEGREASING AGENTS",
+      "level": 1,
+      "start_line": 2438
+    },
+    {
+      "anchor": "anp-service-laboratory",
+      "end_line": 2445,
+      "heading": "ANP SERVICE LABORATORY",
+      "level": 1,
+      "start_line": 2444
+    },
+    {
+      "anchor": "w-f-vaughan",
+      "end_line": 2457,
+      "heading": "W. F. Vaughan",
+      "level": 1,
+      "start_line": 2446
+    },
+    {
+      "anchor": "metallurgy",
+      "end_line": 2463,
+      "heading": "Metallurgy",
+      "level": 2,
+      "start_line": 2458
+    },
+    {
+      "anchor": "3-1-dynamic-corrosion-studies",
+      "end_line": 2467,
+      "heading": "3.1. DYNAMIC CORROSION STUDIES",
+      "level": 1,
+      "start_line": 2464
+    },
+    {
+      "anchor": "fluoride-fuel-mixtures-in-inconel-forced-circulation-loops",
+      "end_line": 2503,
+      "heading": "FLUORIDE FUEL MIXTURES IN INCONEL FORCED-CIRCULATION LOOPS",
+      "level": 1,
+      "start_line": 2468
+    },
+    {
+      "anchor": "sodium-and-nak-in-inconel-forced-circulation-loops",
+      "end_line": 2511,
+      "heading": "SODIUM AND NaK IN INCONEL FORCED-CIRCULATION LOOPS",
+      "level": 1,
+      "start_line": 2504
+    },
+    {
+      "anchor": "sodium-beryllium-inconel-compatibility-in-dynamic-systems",
+      "end_line": 2519,
+      "heading": "SODIUM-BERYLLIUM-INCONEL COMPATIBILITY IN DYNAMIC SYSTEMS",
+      "level": 1,
+      "start_line": 2512
+    },
+    {
+      "anchor": "thermal-convection-loop-tests-of-inconel-castings",
+      "end_line": 2561,
+      "heading": "THERMAL-CONVECTION LOOP TESTS OF INCONEL CASTINGS",
+      "level": 1,
+      "start_line": 2520
+    },
+    {
+      "anchor": "fluoride-fuel-mixtures-in-hastelloy-thermal-convection-loops",
+      "end_line": 2573,
+      "heading": "FLUORIDE FUEL MIXTURES IN HASTELLOY THERMAL-CONVECTION LOOPS",
+      "level": 1,
+      "start_line": 2562
+    },
+    {
+      "anchor": "fluoride-fuel-mixtures-in-monel-thermal-convection-loops",
+      "end_line": 2593,
+      "heading": "FLUORIDE FUEL MIXTURES IN MONEL THERMAL-CONVECTION LOOPS",
+      "level": 1,
+      "start_line": 2574
+    },
+    {
+      "anchor": "special-fluoride-fuel-mixtures-in-inconel-thermal-convection-loops",
+      "end_line": 2614,
+      "heading": "SPECIAL FLUORIDE FUEL MIXTURES IN INCONEL THERMAL-CONVECTION LOOPS",
+      "level": 1,
+      "start_line": 2594
+    },
+    {
+      "anchor": "3-2-general-corrosion-studies",
+      "end_line": 2618,
+      "heading": "3.2. GENERAL CORROSION STUDIES",
+      "level": 1,
+      "start_line": 2615
+    },
+    {
+      "anchor": "brazing-alloys-in-liquid-metals-and-in-fluoride-fuel-mixtures",
+      "end_line": 2676,
+      "heading": "BRAZING ALLOYS IN LIQUID METALS AND IN FLUORIDE FUEL MIXTURES",
+      "level": 1,
+      "start_line": 2619
+    },
+    {
+      "anchor": "niobium-in-static-sodium",
+      "end_line": 2678,
+      "heading": "NIOBIUM IN STATIC SODIUM",
+      "level": 1,
+      "start_line": 2677
+    },
+    {
+      "anchor": "d-h-jansen",
+      "end_line": 2688,
+      "heading": "D. H. Jansen",
+      "level": 1,
+      "start_line": 2679
+    },
+    {
+      "anchor": "table-3-2-3-results-of-tests-of-niobium-in-static-sodium",
+      "end_line": 2707,
+      "heading": "Table 3.2.3. Results Of Tests Of Niobium In Static Sodium",
+      "level": 2,
+      "start_line": 2689
+    },
+    {
+      "anchor": "thermenol-in-static-sodium",
+      "end_line": 2709,
+      "heading": "THERMENOL IN STATIC SODIUM",
+      "level": 1,
+      "start_line": 2708
+    },
+    {
+      "anchor": "d-h-jansen",
+      "end_line": 2715,
+      "heading": "D.H.Jansen",
+      "level": 1,
+      "start_line": 2710
+    },
+    {
+      "anchor": "static-tests-of-alfenol",
+      "end_line": 2717,
+      "heading": "STATIC TESTS OF ALFENOL",
+      "level": 1,
+      "start_line": 2716
+    },
+    {
+      "anchor": "e-e-hoffman",
+      "end_line": 2735,
+      "heading": "E.E.Hoffman",
+      "level": 1,
+      "start_line": 2718
+    },
+    {
+      "anchor": "sodium-beryllium-inconel-compatibility-in-static-systems",
+      "end_line": 2773,
+      "heading": "SODIUM-BERYLLIUM-INCONEL COMPATIBILITY IN STATIC SYSTEMS",
+      "level": 1,
+      "start_line": 2736
+    },
+    {
+      "anchor": "static-tests-of-inconel-castings",
+      "end_line": 2775,
+      "heading": "STATIC TESTS OF INCONEL CASTINGS",
+      "level": 1,
+      "start_line": 2774
+    },
+    {
+      "anchor": "r-carlander",
+      "end_line": 2781,
+      "heading": "R. Carlander",
+      "level": 1,
+      "start_line": 2776
+    },
+    {
+      "anchor": "inconel-and-stainless-steel-in-nak-containing-lithium",
+      "end_line": 2800,
+      "heading": "INCONEL AND STAINLESS STEEL IN NaK CONTAINING LITHIUM",
+      "level": 1,
+      "start_line": 2782
+    },
+    {
+      "anchor": "transfer-of-carbon-between-dissimilar-metals-in-contact-with-molten-sodium",
+      "end_line": 2802,
+      "heading": "TRANSFER OF CARBON BETWEEN DISSIMILAR METALS IN CONTACT WITH MOLTEN SODIUM",
+      "level": 1,
+      "start_line": 2801
+    },
+    {
+      "anchor": "r-carlander",
+      "end_line": 2806,
+      "heading": "R. Carlander",
+      "level": 1,
+      "start_line": 2803
+    },
+    {
+      "anchor": "unclassified-y-18385",
+      "end_line": 2808,
+      "heading": "Unclassified Y-18385",
+      "level": 2,
+      "start_line": 2807
+    },
+    {
+      "anchor": "unclassified-y-18384",
+      "end_line": 2810,
+      "heading": "Unclassified Y-18384",
+      "level": 2,
+      "start_line": 2809
+    },
+    {
+      "anchor": "one-inch",
+      "end_line": 2812,
+      "heading": "One Inch",
+      "level": 2,
+      "start_line": 2811
+    },
+    {
+      "anchor": "one-inch-111",
+      "end_line": 2815,
+      "heading": "One Inch 111",
+      "level": 2,
+      "start_line": 2813
+    },
+    {
+      "anchor": "hot-zone-816-c-1500-f",
+      "end_line": 2818,
+      "heading": "Hot Zone-816°C (1500°F)",
+      "level": 2,
+      "start_line": 2816
+    },
+    {
+      "anchor": "hot-zone-816-c-1500-f",
+      "end_line": 2821,
+      "heading": "Hot Zone-816°C(1500°F)",
+      "level": 2,
+      "start_line": 2819
+    },
+    {
+      "anchor": "cold-zone-660-c-1220-f",
+      "end_line": 2824,
+      "heading": "Cold Zone-660°C(1220°F)",
+      "level": 2,
+      "start_line": 2822
+    },
+    {
+      "anchor": "cold-zone-665-c-1230-f",
+      "end_line": 2846,
+      "heading": "Cold Zone-665°C(1230°F)",
+      "level": 2,
+      "start_line": 2825
+    },
+    {
+      "anchor": "rare-earth-oxides-exposed-to-static-sodium-in-inconel-containers",
+      "end_line": 2894,
+      "heading": "RARE-EARTH OXIDES EXPOSED TO STATIC SODIUM IN INCONEL CONTAINERS",
+      "level": 1,
+      "start_line": 2847
+    },
+    {
+      "anchor": "solid-phase-bonding-screening-tests",
+      "end_line": 2906,
+      "heading": "SOLID-PHASE-BONDING SCREENING TESTS",
+      "level": 1,
+      "start_line": 2895
+    },
+    {
+      "anchor": "3-3-fabrication-research",
+      "end_line": 2910,
+      "heading": "3.3. FABRICATION RESEARCH",
+      "level": 1,
+      "start_line": 2907
+    },
+    {
+      "anchor": "development-of-nickel-molybdenum-base-alloys",
+      "end_line": 2916,
+      "heading": "DEVELOPMENT OF NICKEL-MOLYBDENUM BASE ALLOYS",
+      "level": 1,
+      "start_line": 2911
+    },
+    {
+      "anchor": "extrusion-of-hastelloy-w",
+      "end_line": 2936,
+      "heading": "Extrusion of Hastelloy W",
+      "level": 1,
+      "start_line": 2917
+    },
+    {
+      "anchor": "extrusion-of-hastelloys-b-w-and-x-on-a-commercial-scale",
+      "end_line": 2982,
+      "heading": "Extrusion of Hastelloys B, W, and X on a Commercial Scale",
+      "level": 1,
+      "start_line": 2937
+    },
+    {
+      "anchor": "05101520-hastelloy-b-tube-blanks-extruded-for-ornl-by-inco",
+      "end_line": 2996,
+      "heading": "05101520 HASTELLOY B TUBE BLANKS EXTRUDED FOR ORNL BY INCO",
+      "level": 2,
+      "start_line": 2983
+    },
+    {
+      "anchor": "extrusion-of-special-alloys",
+      "end_line": 3064,
+      "heading": "Extrusion of Special Alloys",
+      "level": 1,
+      "start_line": 2997
+    },
+    {
+      "anchor": "consumable-electrode-experiments",
+      "end_line": 3071,
+      "heading": "Consumable-Electrode Experiments",
+      "level": 1,
+      "start_line": 3065
+    },
+    {
+      "anchor": "oxidation-of-hastelloy-b",
+      "end_line": 3089,
+      "heading": "OXIDATION OF HASTELLOY B",
+      "level": 1,
+      "start_line": 3072
+    },
+    {
+      "anchor": "composite-tubing",
+      "end_line": 3099,
+      "heading": "COMPOSITE TUBING",
+      "level": 1,
+      "start_line": 3090
+    },
+    {
+      "anchor": "table-3-3-8-layer-thicknesses-of-composite-tube-blanks",
+      "end_line": 3115,
+      "heading": "Table 3.3.8. Layer Thicknesses Of Composite Tube Blanks",
+      "level": 2,
+      "start_line": 3100
+    },
+    {
+      "anchor": "neutron-shield-material-for-high-temperature-use",
+      "end_line": 3121,
+      "heading": "NEUTRON SHIELD MATERIAL FOR HIGH-TEMPERATURE USE",
+      "level": 1,
+      "start_line": 3116
+    },
+    {
+      "anchor": "ceramic-mathsf-b-4-mathsf-c-tiles",
+      "end_line": 3131,
+      "heading": "Ceramic $\\mathsf{B}_4\\mathsf{C}$ Tiles",
+      "level": 1,
+      "start_line": 3122
+    },
+    {
+      "anchor": "copper-b-4-c-cermets",
+      "end_line": 3145,
+      "heading": "Copper-B $^4 C$ Cermets",
+      "level": 1,
+      "start_line": 3132
+    },
+    {
+      "anchor": "boride-particle-dispersions-in-a-metallic-matrix",
+      "end_line": 3153,
+      "heading": "Boride Particle Dispersions in a Metallic Matrix",
+      "level": 1,
+      "start_line": 3146
+    },
+    {
+      "anchor": "boron-steels",
+      "end_line": 3163,
+      "heading": "Boron Steels",
+      "level": 1,
+      "start_line": 3154
+    },
+    {
+      "anchor": "other-boron-containing-materials",
+      "end_line": 3167,
+      "heading": "Other Boron-Containing Materials",
+      "level": 1,
+      "start_line": 3164
+    },
+    {
+      "anchor": "solid-fuel-elements",
+      "end_line": 3186,
+      "heading": "SOLID FUEL ELEMENTS",
+      "level": 1,
+      "start_line": 3168
+    },
+    {
+      "anchor": "tubular-control-rods",
+      "end_line": 3221,
+      "heading": "TUBULAR CONTROL RODS",
+      "level": 1,
+      "start_line": 3187
+    },
+    {
+      "anchor": "low-conductivity-gamma-ray-shielding-material",
+      "end_line": 3235,
+      "heading": "LOW-CONDUCTIVITY GAMMA-RAY SHIELDING MATERIAL",
+      "level": 1,
+      "start_line": 3222
+    },
+    {
+      "anchor": "lithium-magnesium-alloys",
+      "end_line": 3241,
+      "heading": "LITHIUM-MAGNESIUM ALLOYS",
+      "level": 1,
+      "start_line": 3236
+    },
+    {
+      "anchor": "table-3-3-9-data-on-tungsten-carbide-constantan-thermal-conductivity-specimens",
+      "end_line": 3272,
+      "heading": "Table 3.3.9. Data On Tungsten Carbide-Constantan Thermal-Conductivity Specimens",
+      "level": 2,
+      "start_line": 3242
+    },
+    {
+      "anchor": "3-4-welding-and-brazing-investigations",
+      "end_line": 3276,
+      "heading": "3.4. WELDING AND BRAZING INVESTIGATIONS",
+      "level": 1,
+      "start_line": 3273
+    },
+    {
+      "anchor": "pump-fabrication-experiments",
+      "end_line": 3295,
+      "heading": "PUMP FABRICATION EXPERIMENTS",
+      "level": 1,
+      "start_line": 3277
+    },
+    {
+      "anchor": "unclassified-y-17332",
+      "end_line": 3298,
+      "heading": "Unclassified Y-17332",
+      "level": 2,
+      "start_line": 3296
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 3300,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 3299
+    },
+    {
+      "anchor": "ornl-lr-dwg14719",
+      "end_line": 3305,
+      "heading": "Ornl-Lr-Dwg14719",
+      "level": 2,
+      "start_line": 3301
+    },
+    {
+      "anchor": "welding-procedure-vertical-fixed-2g",
+      "end_line": 3310,
+      "heading": "Welding Procedure: Vertical Fixed, 2G",
+      "level": 2,
+      "start_line": 3306
+    },
+    {
+      "anchor": "followed-by-tie-ins-between-tacks",
+      "end_line": 3323,
+      "heading": "Followed By Tie-Ins Between Tacks.",
+      "level": 2,
+      "start_line": 3311
+    },
+    {
+      "anchor": "brazing-studies",
+      "end_line": 3355,
+      "heading": "Brazing Studies",
+      "level": 1,
+      "start_line": 3324
+    },
+    {
+      "anchor": "table-3-4-3-results-of-micrometer-measurements-on-diameter-of-pump-barrel",
+      "end_line": 3359,
+      "heading": "Table 3.4.3. Results Of Micrometer Measurements On Diameter Of Pump Barrel",
+      "level": 2,
+      "start_line": 3356
+    },
+    {
+      "anchor": "fabrication-of-joints-between-pump-barrels-and-the-pressure-shell-of-the-art",
+      "end_line": 3375,
+      "heading": "FABRICATION OF JOINTS BETWEEN PUMP BARRELS AND THE PRESSURE SHELL OF THE ART",
+      "level": 1,
+      "start_line": 3360
+    },
+    {
+      "anchor": "table-3-4-4-results-of-micrometer-measurements-on-axis-of-pump-barrel",
+      "end_line": 3380,
+      "heading": "Table 3.4.4. Results Of Micrometer Measurements On Axis Of Pump Barrel",
+      "level": 2,
+      "start_line": 3376
+    },
+    {
+      "anchor": "unclassified-y-17244",
+      "end_line": 3388,
+      "heading": "Unclassified Y-17244",
+      "level": 2,
+      "start_line": 3381
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 3390,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 3389
+    },
+    {
+      "anchor": "ornl-lr-dwg-14722",
+      "end_line": 3395,
+      "heading": "Ornl-Lr-Dwg 14722",
+      "level": 2,
+      "start_line": 3391
+    },
+    {
+      "anchor": "welding-procedure",
+      "end_line": 3399,
+      "heading": "Welding Procedure",
+      "level": 2,
+      "start_line": 3396
+    },
+    {
+      "anchor": "notes",
+      "end_line": 3401,
+      "heading": "Notes:",
+      "level": 2,
+      "start_line": 3400
+    },
+    {
+      "anchor": "2-buildup-passes-intended-to-simulate-j-bevel-and-minimize-shrinkage",
+      "end_line": 3402,
+      "heading": "2. Buildup Passes Intended To Simulate J Bevel And Minimize Shrinkage.",
+      "level": 2,
+      "start_line": 3402
+    },
+    {
+      "anchor": "3-filler-passes-in-built-up-j-bevel",
+      "end_line": 3404,
+      "heading": "3. Filler Passes In Built Up J Bevel.",
+      "level": 2,
+      "start_line": 3403
+    },
+    {
+      "anchor": "unclassified-photo-17243",
+      "end_line": 3409,
+      "heading": "Unclassified Photo 17243",
+      "level": 2,
+      "start_line": 3405
+    },
+    {
+      "anchor": "investigation-of-shrinkage-of-inconel-core-shell-welds",
+      "end_line": 3424,
+      "heading": "INVESTIGATION OF SHRINKAGE OF INCONEL CORE SHELL WELDS",
+      "level": 1,
+      "start_line": 3410
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 3425,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 3425
+    },
+    {
+      "anchor": "ornl-lr-dwg-14723",
+      "end_line": 3430,
+      "heading": "Ornl-Lr-Dwg 14723",
+      "level": 2,
+      "start_line": 3426
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-14724",
+      "end_line": 3438,
+      "heading": "Unclassified Ornl-Lr-Dwg 14724",
+      "level": 2,
+      "start_line": 3431
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-14725",
+      "end_line": 3469,
+      "heading": "Unclassified Ornl-Lr-Dwg 14725",
+      "level": 2,
+      "start_line": 3439
+    },
+    {
+      "anchor": "unclassified-photo-17248",
+      "end_line": 3482,
+      "heading": "Unclassified Photo 17248",
+      "level": 2,
+      "start_line": 3470
+    },
+    {
+      "anchor": "unclassified-photo-17247",
+      "end_line": 3504,
+      "heading": "Unclassified Photo 17247",
+      "level": 2,
+      "start_line": 3483
+    },
+    {
+      "anchor": "examination-of-nok-to-air-radiator-pwa-no-2-after-service",
+      "end_line": 3559,
+      "heading": "EXAMINATION OF NoK-TO-AIR RADIATOR PWA NO. 2 AFTER SERVICE",
+      "level": 1,
+      "start_line": 3505
+    },
+    {
+      "anchor": "examination-of-fuel-to-nak-heat-exchanger-after-service",
+      "end_line": 3618,
+      "heading": "EXAMINATION OF FUEL-TO-NaK HEAT EXCHANGER AFTER SERVICE",
+      "level": 1,
+      "start_line": 3560
+    },
+    {
+      "anchor": "3-5-mechanical-properties-studies",
+      "end_line": 3622,
+      "heading": "3.5. MECHANICAL PROPERTIES STUDIES",
+      "level": 1,
+      "start_line": 3619
+    },
+    {
+      "anchor": "effect-of-environment-on-creep-ructure-properties-of-hastelloy-b",
+      "end_line": 3649,
+      "heading": "EFFECT OF ENVIRONMENT ON CREEP- RUCTURE PROPERTIES OF HASTELLOY B",
+      "level": 1,
+      "start_line": 3623
+    },
+    {
+      "anchor": "short-time-high-temperature-tensile-properties-of-hastelloy-b",
+      "end_line": 3655,
+      "heading": "SHORT-TIME HIGH-TEMPERATURE TENSILE PROPERTIES OF HASTELLOY B",
+      "level": 1,
+      "start_line": 3650
+    },
+    {
+      "anchor": "creep-rupture-properties-of-hastelloy-w",
+      "end_line": 3685,
+      "heading": "CREEP-RUPTURE PROPERTIES OF HASTELLOY W",
+      "level": 1,
+      "start_line": 3656
+    },
+    {
+      "anchor": "short-time-high-temperature-tensile-properties-of-inconel",
+      "end_line": 3693,
+      "heading": "SHORT-TIME HIGH-TEMPERATURE TENSILE PROPERTIES OF INCONEL",
+      "level": 1,
+      "start_line": 3686
+    },
+    {
+      "anchor": "creep-tests-of-inconel-in-fused-salts-j-r-weir-jr",
+      "end_line": 3701,
+      "heading": "CREEP TESTS OF INCONEL IN FUSED SALTS J.R.Weir, Jr.",
+      "level": 1,
+      "start_line": 3694
+    },
+    {
+      "anchor": "creep-tests-of-welded-inconel",
+      "end_line": 3740,
+      "heading": "CREEP TESTS OF WELDED INCONEL",
+      "level": 1,
+      "start_line": 3702
+    },
+    {
+      "anchor": "enclassified-y-1851",
+      "end_line": 3747,
+      "heading": "Enclassified (Y-1851)",
+      "level": 2,
+      "start_line": 3741
+    },
+    {
+      "anchor": "3-6-ceramic-research",
+      "end_line": 3751,
+      "heading": "3.6. CERAMIC RESEARCH",
+      "level": 1,
+      "start_line": 3748
+    },
+    {
+      "anchor": "rare-earth-oxide-compacts-for-art-control-rods",
+      "end_line": 3774,
+      "heading": "RARE-EARTH-OXIDE COMPACTS FOR ART CONTROL RODS",
+      "level": 1,
+      "start_line": 3752
+    },
+    {
+      "anchor": "petrographic-examinations-of-fluoride-fuels",
+      "end_line": 3783,
+      "heading": "PETROGRAPHIC EXAMINATIONS OF FLUORIDE FUELS",
+      "level": 1,
+      "start_line": 3775
+    },
+    {
+      "anchor": "3-7-nondestructive-testing-studies",
+      "end_line": 3787,
+      "heading": "3.7. NONDESTRUCTIVE TESTING STUDIES",
+      "level": 1,
+      "start_line": 3784
+    },
+    {
+      "anchor": "eddy-current-testing-of-small-diameter-tubing",
+      "end_line": 3806,
+      "heading": "EDDY-CURRENT TESTING OF SMALL-DIAMETER TUBING",
+      "level": 1,
+      "start_line": 3788
+    },
+    {
+      "anchor": "ultrasonic-inspection-of-tubing",
+      "end_line": 3821,
+      "heading": "ULTRASONIC INSPECTION OF TUBING",
+      "level": 1,
+      "start_line": 3807
+    },
+    {
+      "anchor": "ultrasonic-inspection-of-pipe",
+      "end_line": 3835,
+      "heading": "ULTRASONIC INSPECTION OF PIPE",
+      "level": 1,
+      "start_line": 3822
+    },
+    {
+      "anchor": "part-4",
+      "end_line": 3837,
+      "heading": "Part 4",
+      "level": 1,
+      "start_line": 3836
+    },
+    {
+      "anchor": "heat-transfer-and-physical-properties",
+      "end_line": 3841,
+      "heading": "HEAT TRANSFER AND PHYSICAL PROPERTIES",
+      "level": 1,
+      "start_line": 3838
+    },
+    {
+      "anchor": "radiation-damage",
+      "end_line": 3845,
+      "heading": "RADIATION DAMAGE",
+      "level": 1,
+      "start_line": 3842
+    },
+    {
+      "anchor": "fuel-recovery-and-reprocessing",
+      "end_line": 3849,
+      "heading": "FUEL RECOVERY AND REPROCESSING",
+      "level": 1,
+      "start_line": 3846
+    },
+    {
+      "anchor": "critical-experiments",
+      "end_line": 3855,
+      "heading": "CRITICAL EXPERIMENTS",
+      "level": 1,
+      "start_line": 3850
+    },
+    {
+      "anchor": "4-1-heat-transfer-and-physical-properties",
+      "end_line": 3857,
+      "heading": "4.1. HEAT TRANSFER AND PHYSICAL PROPERTIES",
+      "level": 1,
+      "start_line": 3856
+    },
+    {
+      "anchor": "h-f-poppendiek",
+      "end_line": 3859,
+      "heading": "H. F. Poppendiek",
+      "level": 1,
+      "start_line": 3858
+    },
+    {
+      "anchor": "art-fuel-to-nok-heat-exchanger",
+      "end_line": 3871,
+      "heading": "ART FUEL-TO-NoK HEAT EXCHANGER",
+      "level": 1,
+      "start_line": 3860
+    },
+    {
+      "anchor": "art-hydrodynamics",
+      "end_line": 3877,
+      "heading": "ART HYDRODYNAMICS",
+      "level": 1,
+      "start_line": 3872
+    },
+    {
+      "anchor": "sodium-flow-in-reflector-cooling-system",
+      "end_line": 3919,
+      "heading": "Sodium Flow in Reflector Cooling System",
+      "level": 1,
+      "start_line": 3878
+    },
+    {
+      "anchor": "table-4-1-1-summary-of-concentric-annulus-flow-distribution-studies",
+      "end_line": 3924,
+      "heading": "Table 4.1.1. Summary Of Concentric Annulus Flow Distribution Studies",
+      "level": 2,
+      "start_line": 3920
+    },
+    {
+      "anchor": "60neop-ornl-lr-dwg-14740",
+      "end_line": 3925,
+      "heading": "60Neop Ornl-Lr-Dwg 14740",
+      "level": 2,
+      "start_line": 3925
+    },
+    {
+      "anchor": "ornl-lr-dwg-14984",
+      "end_line": 3932,
+      "heading": "Ornl-Lr-Dwg 14984",
+      "level": 2,
+      "start_line": 3926
+    },
+    {
+      "anchor": "fuel-flow-in-core",
+      "end_line": 3943,
+      "heading": "Fuel Flow in Core",
+      "level": 1,
+      "start_line": 3933
+    },
+    {
+      "anchor": "art-core-heat-transfer-experiment",
+      "end_line": 4000,
+      "heading": "ART CORE HEAT TRANSFER EXPERIMENT",
+      "level": 1,
+      "start_line": 3944
+    },
+    {
+      "anchor": "ornl-lr-dwg-14742",
+      "end_line": 4020,
+      "heading": "Ornl-Lr-Dwg 14742",
+      "level": 2,
+      "start_line": 4001
+    },
+    {
+      "anchor": "thermal-cycling-experiment",
+      "end_line": 4039,
+      "heading": "THERMAL-CYCLING EXPERIMENT",
+      "level": 1,
+      "start_line": 4021
+    },
+    {
+      "anchor": "shield-mockup-reactor-study",
+      "end_line": 4041,
+      "heading": "SHIELD MockUP REACTOR STUDY",
+      "level": 1,
+      "start_line": 4040
+    },
+    {
+      "anchor": "l-c-palmer",
+      "end_line": 4050,
+      "heading": "L.C.Palmer",
+      "level": 1,
+      "start_line": 4042
+    },
+    {
+      "anchor": "temperature-structure-in-the-region-beyond-the-art-reflector",
+      "end_line": 4069,
+      "heading": "TEMPERATURE STRUCTURE IN THE REGION BEYOND THE ART REFLECTOR",
+      "level": 1,
+      "start_line": 4051
+    },
+    {
+      "anchor": "heat-capacity",
+      "end_line": 4071,
+      "heading": "HEAT CAPACITY",
+      "level": 1,
+      "start_line": 4070
+    },
+    {
+      "anchor": "w-d-powers",
+      "end_line": 4147,
+      "heading": "W.D. Powers",
+      "level": 1,
+      "start_line": 4072
+    },
+    {
+      "anchor": "viscosity-and-density",
+      "end_line": 4182,
+      "heading": "VISCOSITY AND DENSITY",
+      "level": 1,
+      "start_line": 4148
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 4194,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4183
+    },
+    {
+      "anchor": "electrical-conductivity",
+      "end_line": 4200,
+      "heading": "ELECTRICAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 4195
+    },
+    {
+      "anchor": "4-2-radiation-damage",
+      "end_line": 4204,
+      "heading": "4.2. RADIATION DAMAGE",
+      "level": 1,
+      "start_line": 4201
+    },
+    {
+      "anchor": "examination-of-the-disassembled-mtr-in-pile-loop-no-3",
+      "end_line": 4261,
+      "heading": "EXAMINATION OF THE DISASSEMBLED MTR IN-PILE LOOP NO.3",
+      "level": 1,
+      "start_line": 4205
+    },
+    {
+      "anchor": "investigations-of-materials-removed-from-mtr-in-pile-loops-nos-3-and-4",
+      "end_line": 4283,
+      "heading": "INVESTIGATIONS OF MATERIALS REMOVED FROM MTR IN-PILE LOOPS NOS. 3 AND 4",
+      "level": 1,
+      "start_line": 4262
+    },
+    {
+      "anchor": "creep-and-stress-corrosion-tests",
+      "end_line": 4309,
+      "heading": "CREEP AND STRESS-CORROSION TESTS",
+      "level": 1,
+      "start_line": 4284
+    },
+    {
+      "anchor": "mtr-stress-corrosion-apparatus",
+      "end_line": 4317,
+      "heading": "MTR STRESS-CORROSION APPARATUS",
+      "level": 1,
+      "start_line": 4310
+    },
+    {
+      "anchor": "ductility-of-nickel-base-alloys",
+      "end_line": 4329,
+      "heading": "DUCTILITY OF NICKEL-BASE ALLOYS",
+      "level": 1,
+      "start_line": 4318
+    },
+    {
+      "anchor": "effect-of-radiation-on-static-corrosion-of-structural-materials-by-fused-salt-fuels",
+      "end_line": 4339,
+      "heading": "EFFECT OF RADIATION ON STATIC CORROSION OF STRUCTURAL MATERIALS BY FUSED-SALT FUELS",
+      "level": 1,
+      "start_line": 4330
+    },
+    {
+      "anchor": "litr-vertical-in-pile-loop",
+      "end_line": 4386,
+      "heading": "LITR VERTICAL IN-PILE LOOP",
+      "level": 1,
+      "start_line": 4340
+    },
+    {
+      "anchor": "further-design-calculations-for-litr-vertical-in-pile-loop",
+      "end_line": 4436,
+      "heading": "FURTHER DESIGN CALCULATIONS FOR LITR VERTICAL IN-PILE LOOP",
+      "level": 1,
+      "start_line": 4387
+    },
+    {
+      "anchor": "fast-neutron-detectors",
+      "end_line": 4438,
+      "heading": "FAST-NEUTRON DETECTORS",
+      "level": 1,
+      "start_line": 4437
+    },
+    {
+      "anchor": "d-binder",
+      "end_line": 4456,
+      "heading": "D. Binder",
+      "level": 1,
+      "start_line": 4439
+    },
+    {
+      "anchor": "viscometer-for-remote-measurements-of-the-viscosity-of-irradiated-fused-salt-fuels",
+      "end_line": 4464,
+      "heading": "VISCOMETER FOR REMOTE MEASUREMENTS OF THE VISCOSITY OF IRRADIATED FUSED-SALT FUELS",
+      "level": 1,
+      "start_line": 4457
+    },
+    {
+      "anchor": "effects-of-radiation-on-electrical-components",
+      "end_line": 4468,
+      "heading": "EFFECTS OF RADIATION ON ELECTRICAL COMPONENTS",
+      "level": 1,
+      "start_line": 4465
+    },
+    {
+      "anchor": "insulation",
+      "end_line": 4476,
+      "heading": "Insulation",
+      "level": 1,
+      "start_line": 4469
+    },
+    {
+      "anchor": "barriers",
+      "end_line": 4506,
+      "heading": "Barriers",
+      "level": 1,
+      "start_line": 4477
+    },
+    {
+      "anchor": "influence-of-an-electrical-field-on-diffusion-of-interstitial-atoms",
+      "end_line": 4526,
+      "heading": "Influence of an Electrical Field on Diffusion of Interstitial Atoms",
+      "level": 1,
+      "start_line": 4507
+    },
+    {
+      "anchor": "radiation-damage-to-boron-carbide",
+      "end_line": 4569,
+      "heading": "RADIATION DAMAGE TO BORON CARBIDE",
+      "level": 1,
+      "start_line": 4527
+    },
+    {
+      "anchor": "irradiations-of-stressed-shielding-materials",
+      "end_line": 4581,
+      "heading": "IRRADIATIONS OF STRESSED SHIELDING MATERIALS",
+      "level": 1,
+      "start_line": 4570
+    },
+    {
+      "anchor": "the-effect-of-radiation-on-polymers",
+      "end_line": 4601,
+      "heading": "THE EFFECT OF RADIATION ON POLYMERS",
+      "level": 1,
+      "start_line": 4582
+    },
+    {
+      "anchor": "table-4-2-4-irradiation-dosages-of-polymers",
+      "end_line": 4634,
+      "heading": "Table 4.2.4. Irradiation Dosages Of Polymers",
+      "level": 2,
+      "start_line": 4602
+    },
+    {
+      "anchor": "4-3-fuel-recovery-and-reprocessing",
+      "end_line": 4640,
+      "heading": "4.3. FUEL RECOVERY AND REPROCESSING",
+      "level": 1,
+      "start_line": 4635
+    },
+    {
+      "anchor": "volatility-pilot-plant-design-and-construction",
+      "end_line": 4646,
+      "heading": "VOLATILITY PILOT PLANT DESIGN AND CONSTRUCTION",
+      "level": 1,
+      "start_line": 4641
+    },
+    {
+      "anchor": "nickel-fluoride-sludge-formation-studies",
+      "end_line": 4660,
+      "heading": "NICKEL FLUORIDE SLUDGE FORMATION STUDIES",
+      "level": 1,
+      "start_line": 4647
+    },
+    {
+      "anchor": "decomposition-of-uf6-3naf-complex",
+      "end_line": 4682,
+      "heading": "DECOMPOSITION OF UF6-3NaF COMPLEX",
+      "level": 1,
+      "start_line": 4661
+    },
+    {
+      "anchor": "anp-project-progress-report",
+      "end_line": 4692,
+      "heading": "ANP PROJECT PROGRESS REPORT",
+      "level": 1,
+      "start_line": 4683
+    },
+    {
+      "anchor": "4-4-critical-experiments",
+      "end_line": 4696,
+      "heading": "4.4. CRITICAL EXPERIMENTS",
+      "level": 1,
+      "start_line": 4693
+    },
+    {
+      "anchor": "critical-experiments-for-the-compact-core-reflector-moderated-reactor",
+      "end_line": 4714,
+      "heading": "CRITICAL EXPERIMENTS FOR THE COMPACT-CORE REFLECTOR-MODERATED REACTOR",
+      "level": 1,
+      "start_line": 4697
+    },
+    {
+      "anchor": "evaluation-of-stainless-steel-shell",
+      "end_line": 4720,
+      "heading": "Evaluation of Stainless Steel Shell",
+      "level": 1,
+      "start_line": 4715
+    },
+    {
+      "anchor": "measurements-of-gamma-ray-heating-in-beryllium",
+      "end_line": 4731,
+      "heading": "Measurements of Gamma-Ray Heating in Beryllium",
+      "level": 1,
+      "start_line": 4721
+    },
+    {
+      "anchor": "fast-neutron-leakage",
+      "end_line": 4766,
+      "heading": "Fast-Neutron Leakage",
+      "level": 1,
+      "start_line": 4732
+    },
+    {
+      "anchor": "reactor-shielding",
+      "end_line": 4772,
+      "heading": "Reactor Shielding",
+      "level": 2,
+      "start_line": 4767
+    },
+    {
+      "anchor": "5-1-shielding-theory",
+      "end_line": 4776,
+      "heading": "5.1. SHIELDING THEORY",
+      "level": 1,
+      "start_line": 4773
+    },
+    {
+      "anchor": "dose-rate-in-a-cylindrical-crew-compartment-resulting-from-air-scattered-gamma-rays",
+      "end_line": 4788,
+      "heading": "DOSE RATE IN A CYLINDRICAL CREW COMPARTMENT RESULTING FROM AIR-SCATTERED GAMMA RAYS",
+      "level": 1,
+      "start_line": 4777
+    },
+    {
+      "anchor": "radiation-flux-transformation-as-a-function-of-density-of-an-infinite-medium-with-anisotropic-point-sources",
+      "end_line": 4884,
+      "heading": "RADIATION FLUX TRANSFORMATION AS A FUNCTION OF DENSITY OF AN INFINITE MEDIUM WITH ANISOTROPIC POINT SOURCES",
+      "level": 1,
+      "start_line": 4789
+    },
+    {
+      "anchor": "energy-absorption-resulting-from-gamma-radiation-incident-on-a-multiregion-shield-with-slab-geometry",
+      "end_line": 4911,
+      "heading": "ENERGY ABSORPTION RESULTING FROM GAMMA RADIATION INCIDENT ON A MULTIREGION SHIELD WITH SLAB GEOMETRY",
+      "level": 1,
+      "start_line": 4885
+    },
+    {
+      "anchor": "5-2-lid-tank-shielding-facility",
+      "end_line": 4915,
+      "heading": "5.2. LID TANK SHIELDING FACILITY",
+      "level": 1,
+      "start_line": 4912
+    },
+    {
+      "anchor": "study-of-advanced-shielding-materials",
+      "end_line": 4937,
+      "heading": "STUDY OF ADVANCED SHIELDING MATERIALS",
+      "level": 1,
+      "start_line": 4916
+    },
+    {
+      "anchor": "georg",
+      "end_line": 4951,
+      "heading": "Georg",
+      "level": 2,
+      "start_line": 4938
+    },
+    {
+      "anchor": "table-5-2-2-physical-properties-of-the-shielding-materials-tested",
+      "end_line": 4986,
+      "heading": "Table 5.2.2. Physical Properties Of The Shielding Materials Tested",
+      "level": 2,
+      "start_line": 4952
+    },
+    {
+      "anchor": "5-3-bulk-shielding-facility",
+      "end_line": 4988,
+      "heading": "5.3. BULK SHIELDING FACILITY",
+      "level": 1,
+      "start_line": 4987
+    },
+    {
+      "anchor": "f-c-maienschein",
+      "end_line": 4990,
+      "heading": "F. C. Maienschein",
+      "level": 1,
+      "start_line": 4989
+    },
+    {
+      "anchor": "gamma-ray-streaming-through-the-nak-pipes-that-penetrate-the-art-shield",
+      "end_line": 4992,
+      "heading": "GAMMA-RAY STREAMING THROUGH THE NaK PIPES THAT PENETRATE THE ART SHIELD",
+      "level": 1,
+      "start_line": 4991
+    },
+    {
+      "anchor": "t-v-blosser-d-k-trubey",
+      "end_line": 5112,
+      "heading": "T. V. Blosser D. K. Trubey",
+      "level": 1,
+      "start_line": 4993
+    },
+    {
+      "anchor": "5-4-shield-mockup-core",
+      "end_line": 5124,
+      "heading": "5.4. SHIELD MockUP CORE",
+      "level": 1,
+      "start_line": 5113
+    },
+    {
+      "anchor": "the-reactor",
+      "end_line": 5134,
+      "heading": "THE REACTOR",
+      "level": 1,
+      "start_line": 5125
+    },
+    {
+      "anchor": "the-reflector",
+      "end_line": 5138,
+      "heading": "THE REFLECTOR",
+      "level": 1,
+      "start_line": 5135
+    },
+    {
+      "anchor": "regions-outside-the-reflector",
+      "end_line": 5157,
+      "heading": "REGIONS OUTSIDE THE REFLECTOR",
+      "level": 1,
+      "start_line": 5139
+    },
+    {
+      "anchor": "comparison-of-smc-and-cfrmr",
+      "end_line": 5163,
+      "heading": "COMPARISON OF SMC AND CFRMR",
+      "level": 1,
+      "start_line": 5158
+    },
+    {
+      "anchor": "neutron-captures-in-beryllium",
+      "end_line": 5172,
+      "heading": "Neutron Captures in Beryllium",
+      "level": 1,
+      "start_line": 5164
+    },
+    {
+      "anchor": "power-distribution",
+      "end_line": 5184,
+      "heading": "Power Distribution",
+      "level": 1,
+      "start_line": 5173
+    },
+    {
+      "anchor": "gamma-ray-sources",
+      "end_line": 5195,
+      "heading": "Gamma-Ray Sources",
+      "level": 1,
+      "start_line": 5185
+    }
+  ],
+  "source_dir": "pdf/ORNL-2106",
+  "tables": [],
+  "title": "![](images/7d78504371385c303da41eecaec5b71388fca55a9dfe800a12dc0dee2de169f1.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "reactor-physics-neutronics",
+    "instrumentation-and-controls",
+    "irradiation-and-damage"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

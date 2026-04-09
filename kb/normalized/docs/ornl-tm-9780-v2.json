@@ -1,0 +1,1555 @@
+{
+  "authors": [
+    "MARTIN MARIETTA",
+    "Volume II",
+    "Reactor Concepts",
+    "Descriptions",
+    "Assessments",
+    "D. B. Trauger",
+    "J. D. White",
+    "J. T. Bell",
+    "R. S. Booth"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-9780-v2.jsonl",
+  "date_text": "September 1986",
+  "doc_id": "ornl-tm-9780-v2",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          359,
+          1041,
+          1043,
+          1049,
+          1051,
+          1057,
+          1108,
+          1153,
+          1158,
+          1837,
+          1843,
+          1903,
+          1913
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1663,
+          1675
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 42,
+        "line_hits": [
+          299,
+          321,
+          323,
+          555,
+          577,
+          581,
+          583,
+          630,
+          638,
+          639,
+          641,
+          647,
+          658,
+          672,
+          685,
+          693,
+          817,
+          823,
+          824,
+          845,
+          857,
+          859,
+          861,
+          925,
+          970,
+          983,
+          994,
+          998,
+          1041,
+          1049,
+          1053,
+          1066,
+          1070,
+          1074,
+          1136,
+          1523,
+          1573,
+          1580,
+          1837,
+          1878,
+          1890,
+          1907
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          319,
+          337,
+          602,
+          604,
+          668,
+          702,
+          709,
+          713,
+          741,
+          830,
+          847,
+          863,
+          1041,
+          1057,
+          1064,
+          1167,
+          1523,
+          1573,
+          1837,
+          1909
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          581,
+          803,
+          813,
+          817,
+          819,
+          823,
+          824,
+          832,
+          843,
+          845,
+          857,
+          870,
+          929,
+          1074,
+          1533,
+          1839
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          803,
+          823,
+          845,
+          847,
+          857,
+          868,
+          1068,
+          1169,
+          1837,
+          1839
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          803,
+          823,
+          845,
+          857,
+          868,
+          1573
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          579,
+          581,
+          583,
+          647,
+          803,
+          1573
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1843
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 23,
+        "line_hits": [
+          1,
+          133,
+          159,
+          363,
+          388,
+          393,
+          394,
+          395,
+          409,
+          528,
+          839,
+          841,
+          1076,
+          1141,
+          1194,
+          1219,
+          1304,
+          1306,
+          1366,
+          1466,
+          1498,
+          1598,
+          1708
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          289,
+          545,
+          549,
+          700,
+          855,
+          866,
+          1182,
+          1196,
+          1197,
+          1199,
+          1244,
+          1515
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          801,
+          1284,
+          1541,
+          1596,
+          1598,
+          1820,
+          1822
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          3,
+          31,
+          139
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 217,
+        "line_hits": [
+          65,
+          67,
+          71,
+          161,
+          163,
+          165,
+          266,
+          270,
+          276,
+          301,
+          305,
+          307,
+          313,
+          321,
+          333,
+          337,
+          345,
+          355,
+          359,
+          369,
+          371,
+          379,
+          407,
+          413,
+          417,
+          419,
+          423,
+          427,
+          431,
+          433,
+          435,
+          441,
+          457,
+          459,
+          502,
+          520,
+          534,
+          538,
+          540,
+          557,
+          565,
+          569,
+          575,
+          577,
+          579,
+          581,
+          604,
+          628,
+          630,
+          639
+        ],
+        "name": "ARE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          59
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          1180
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "95f0cfac6cef209569299aa9b816a87aee7ea8f4cf7e26e115135d4620e7eb1d",
+  "markdown_path": "pdf/ORNL-TM-9780-V2/ORNL-TM-9780-V2/hybrid_ocr/ORNL-TM-9780-V2.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 170,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 2,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "martin-marietta",
+      "end_line": 4,
+      "heading": "Martin Marietta",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "nuclear-power-options-viability-study",
+      "end_line": 6,
+      "heading": "Nuclear Power Options Viability Study",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "volume-ii-reactor-concepts-descriptions-and-assessments",
+      "end_line": 24,
+      "heading": "Volume II, Reactor Concepts, Descriptions, and Assessments",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "applied-technology",
+      "end_line": 28,
+      "heading": "APPLIED TECHNOLOGY",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 30,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-inc",
+      "end_line": 32,
+      "heading": "Martin Marietta Energy Systems, Inc.",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "for-the-united-states",
+      "end_line": 34,
+      "heading": "For The United States",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "department-of-energy",
+      "end_line": 44,
+      "heading": "Department Of Energy",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "bsat-doe",
+      "end_line": 52,
+      "heading": "Bsat, Doe.",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "ma-28-wdm",
+      "end_line": 54,
+      "heading": "Ma-28:Wdm",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "to-addressees",
+      "end_line": 56,
+      "heading": "To Addressees",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "handling-of-applied-technology-reports",
+      "end_line": 60,
+      "heading": "HANDLING OF APPLIED TECHNOLOGY REPORTS",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "applied-technology",
+      "end_line": 78,
+      "heading": "APPLIED TECHNOLOGY",
+      "level": 1,
+      "start_line": 61
+    },
+    {
+      "anchor": "nuclear-power-options-viability-study",
+      "end_line": 80,
+      "heading": "NUCLEAR POWER OPTIONS VIABILITY STUDY",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "volume-ii",
+      "end_line": 82,
+      "heading": "Volume Ii,",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "reactor-concepts-descriptions-and-assessments",
+      "end_line": 132,
+      "heading": "Reactor Concepts, Descriptions, And Assessments",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 138,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 133
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-inc",
+      "end_line": 142,
+      "heading": "Martin Marietta Energy Systems, Inc.",
+      "level": 2,
+      "start_line": 139
+    },
+    {
+      "anchor": "u-s-department-of-energy",
+      "end_line": 146,
+      "heading": "U.S. Department Of Energy",
+      "level": 2,
+      "start_line": 143
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 150,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "master",
+      "end_line": 154,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 151
+    },
+    {
+      "anchor": "preface",
+      "end_line": 172,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "contents",
+      "end_line": 178,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "1-introduction-1-1",
+      "end_line": 180,
+      "heading": "1. INTRODUCTION 1-1",
+      "level": 2,
+      "start_line": 179
+    },
+    {
+      "anchor": "1-1-background-1-1",
+      "end_line": 181,
+      "heading": "1.1 BACKGROUND 1-1",
+      "level": 2,
+      "start_line": 181
+    },
+    {
+      "anchor": "1-2-report-organization-1-2",
+      "end_line": 182,
+      "heading": "1.2 REPORT ORGANIZATION 1-2",
+      "level": 2,
+      "start_line": 182
+    },
+    {
+      "anchor": "1-3-references-for-chapter-1-1-2",
+      "end_line": 184,
+      "heading": "1.3 REFERENCES FOR CHAPTER 1 1-2",
+      "level": 2,
+      "start_line": 183
+    },
+    {
+      "anchor": "2-ground-rules-and-criteria-2-1",
+      "end_line": 186,
+      "heading": "2. GROUND RULES AND CRITERIA 2-1",
+      "level": 2,
+      "start_line": 185
+    },
+    {
+      "anchor": "2-1-ground-rules-and-their-significance-2-1",
+      "end_line": 187,
+      "heading": "2.1 GROUND RULES AND THEIR SIGNIFICANCE 2-1",
+      "level": 2,
+      "start_line": 187
+    },
+    {
+      "anchor": "2-2-criteria-2-2",
+      "end_line": 190,
+      "heading": "2.2 CRITERIA 2-2",
+      "level": 2,
+      "start_line": 188
+    },
+    {
+      "anchor": "2-3-references-for-chapter-2-2-7",
+      "end_line": 192,
+      "heading": "2.3 REFERENCES FOR CHAPTER 2 2-7",
+      "level": 2,
+      "start_line": 191
+    },
+    {
+      "anchor": "3-concept-evaluations-3-1",
+      "end_line": 194,
+      "heading": "3. CONCEPT EVALUATIONS 3-1",
+      "level": 2,
+      "start_line": 193
+    },
+    {
+      "anchor": "3-1-concept-selection-and-classification-3-1",
+      "end_line": 195,
+      "heading": "3.1 CONCEPT SELECTION AND CLASSIFICATION 3-1",
+      "level": 2,
+      "start_line": 195
+    },
+    {
+      "anchor": "3-2-concept-evaluation-methods-and-limitations-3-2",
+      "end_line": 199,
+      "heading": "3.2 CONCEPT EVALUATION METHODS AND LIMITATIONS 3-2",
+      "level": 2,
+      "start_line": 196
+    },
+    {
+      "anchor": "3-3-1-pius-3-2",
+      "end_line": 211,
+      "heading": "3.3.1 PIUS 3-2",
+      "level": 2,
+      "start_line": 200
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 246,
+      "heading": "CONTENTS (CONTINUED)",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "3-6-references-for-chapter-3-3-61",
+      "end_line": 248,
+      "heading": "3.6 REFERENCES FOR CHAPTER 3 3-61",
+      "level": 2,
+      "start_line": 247
+    },
+    {
+      "anchor": "4-acknowledgments-4-1",
+      "end_line": 252,
+      "heading": "4. ACKNOWLEDGMENTS 4-1",
+      "level": 2,
+      "start_line": 249
+    },
+    {
+      "anchor": "appendix-b-the-outlook-for-electricity-supply-and-demand",
+      "end_line": 254,
+      "heading": "Appendix B: The Outlook For Electricity Supply And Demand",
+      "level": 2,
+      "start_line": 253
+    },
+    {
+      "anchor": "appendix-c-discussion-of-concepts-not-included-for-assessment",
+      "end_line": 256,
+      "heading": "Appendix C: Discussion Of Concepts Not Included For Assessment",
+      "level": 2,
+      "start_line": 255
+    },
+    {
+      "anchor": "contents",
+      "end_line": 263,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 302,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "summary-of-findings",
+      "end_line": 314,
+      "heading": "SUMMARY OF FINDINGS",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "pius",
+      "end_line": 324,
+      "heading": "PIUS",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "small-advanced-bwr",
+      "end_line": 330,
+      "heading": "Small Advanced BWR",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "lmr-concepts",
+      "end_line": 348,
+      "heading": "LMR Concepts",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "modular-htr-side-by-side-concepts",
+      "end_line": 360,
+      "heading": "Modular HTR Side-by-Side Concepts",
+      "level": 1,
+      "start_line": 349
+    },
+    {
+      "anchor": "1-1-background",
+      "end_line": 376,
+      "heading": "1.1 BACKGROUND",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "1-2-report-organization",
+      "end_line": 380,
+      "heading": "1.2 REPORT ORGANIZATION",
+      "level": 1,
+      "start_line": 377
+    },
+    {
+      "anchor": "1-3-references-for-chapter-1",
+      "end_line": 398,
+      "heading": "1.3 REFERENCES FOR CHAPTER 1",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "2-1-ground-rules-and-their-significance",
+      "end_line": 414,
+      "heading": "2.1 GROUND RULES AND THEIR SIGNIFICANCE",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "2-2-criteria",
+      "end_line": 420,
+      "heading": "2.2 CRITERIA",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "2-2-1-listing-of-criteria-essential-and-related-desirable-characteristics-and-discussion-of-their-applications",
+      "end_line": 521,
+      "heading": "2.2.1 Listing of Criteria, Essential and Related Desirable Characteristics, and Discussion of Their Applications",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "2-3-references-for-chapter-2",
+      "end_line": 531,
+      "heading": "2.3 REFERENCES FOR CHAPTER 2",
+      "level": 2,
+      "start_line": 522
+    },
+    {
+      "anchor": "3-concept-evaluations",
+      "end_line": 535,
+      "heading": "3. CONCEPT EVALUATIONS",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "3-1-concept-selection-and-classification",
+      "end_line": 558,
+      "heading": "3.1 CONCEPT SELECTION AND CLASSIFICATION",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "3-2-concept-evaluation-methods-and-limitations",
+      "end_line": 566,
+      "heading": "3.2 CONCEPT EVALUATION METHODS AND LIMITATIONS",
+      "level": 1,
+      "start_line": 559
+    },
+    {
+      "anchor": "3-3-light-water-reactors-lwrs",
+      "end_line": 570,
+      "heading": "3.3 LIGHT WATER REACTORS (LWRs)",
+      "level": 1,
+      "start_line": 567
+    },
+    {
+      "anchor": "3-3-1-pius",
+      "end_line": 572,
+      "heading": "3.3.1 PIUS",
+      "level": 1,
+      "start_line": 571
+    },
+    {
+      "anchor": "3-3-1-1-description",
+      "end_line": 625,
+      "heading": "3.3.1.1 Description",
+      "level": 1,
+      "start_line": 573
+    },
+    {
+      "anchor": "3-3-1-2-claims-advantages-and-disadvantages-evaluated-against-criteria-essential-and-desirable-characteristics",
+      "end_line": 677,
+      "heading": "3.3.1.2 Claims, Advantages, and Disadvantages Evaluated Against Criteria, Essential and Desirable Characteristics",
+      "level": 1,
+      "start_line": 626
+    },
+    {
+      "anchor": "3-3-1-3-r-d-needs-and-open-questions-evaluated",
+      "end_line": 695,
+      "heading": "3.3.1.3 R&D Needs and Open Questions Evaluated",
+      "level": 1,
+      "start_line": 678
+    },
+    {
+      "anchor": "3-3-2-the-small-advanced-bwr",
+      "end_line": 697,
+      "heading": "3.3.2 The Small Advanced BWR",
+      "level": 1,
+      "start_line": 696
+    },
+    {
+      "anchor": "3-3-2-1-description",
+      "end_line": 731,
+      "heading": "3.3.2.1 Description",
+      "level": 1,
+      "start_line": 698
+    },
+    {
+      "anchor": "3-3-2-2-claims-advantages-and-disadvantages-evaluated-against-criteria-essential-and-desirable-characteristics",
+      "end_line": 774,
+      "heading": "3.3.2.2. Claims, Advantages, and Disadvantages Evaluated Against Criteria, Essential and Desirable Characteristics",
+      "level": 1,
+      "start_line": 732
+    },
+    {
+      "anchor": "3-3-2-3-r-d-needs-and-open-questions-evaluated",
+      "end_line": 784,
+      "heading": "3.3.2.3 R&D Needs and Open Questions Evaluated",
+      "level": 1,
+      "start_line": 775
+    },
+    {
+      "anchor": "3-4-liquid-metal-cooled-reactors-lmrs",
+      "end_line": 786,
+      "heading": "3.4 LIQUID METAL COOLED REACTORS (LMRs)",
+      "level": 1,
+      "start_line": 785
+    },
+    {
+      "anchor": "3-4-1-introduction",
+      "end_line": 790,
+      "heading": "3.4.1 Introduction",
+      "level": 1,
+      "start_line": 787
+    },
+    {
+      "anchor": "3-4-2-design-options-challenges-and-tradeoffs",
+      "end_line": 804,
+      "heading": "3.4.2 Design Options, Challenges, and Tradeoffs",
+      "level": 1,
+      "start_line": 791
+    },
+    {
+      "anchor": "3-4-3-design-descriptions",
+      "end_line": 810,
+      "heading": "3.4.3 Design Descriptions",
+      "level": 1,
+      "start_line": 805
+    },
+    {
+      "anchor": "3-4-3-1-the-large-scale-prototype-breeder-lspb",
+      "end_line": 833,
+      "heading": "3.4.3.1 The Large Scale Prototype Breeder (LSPB)",
+      "level": 1,
+      "start_line": 811
+    },
+    {
+      "anchor": "3-4-3-2-sodium-advanced-fast-reactor-safr",
+      "end_line": 840,
+      "heading": "3.4.3.2 Sodium Advanced Fast Reactor (SAFR)",
+      "level": 1,
+      "start_line": 834
+    },
+    {
+      "anchor": "ornl-dwg-86-4051-etd",
+      "end_line": 852,
+      "heading": "Ornl-Dwg 86-4051 Etd",
+      "level": 2,
+      "start_line": 841
+    },
+    {
+      "anchor": "3-4-3-3-power-reactor-inherently-safe-module-prism",
+      "end_line": 877,
+      "heading": "3.4.3.3 Power Reactor-Inherently Safe Module (PRISM)",
+      "level": 1,
+      "start_line": 853
+    },
+    {
+      "anchor": "3-4-4-advantages-and-disadvantages-of-the-lmr-concepts-with-regard-to-the-npovs-criteria-and-essential-characteristics",
+      "end_line": 879,
+      "heading": "3.4.4 Advantages and Disadvantages of the LMR Concepts with Regard to the NPOVS Criteria and Essential Characteristics",
+      "level": 1,
+      "start_line": 878
+    },
+    {
+      "anchor": "3-4-4-1-general-overviews",
+      "end_line": 885,
+      "heading": "3.4.4.1 General Overviews",
+      "level": 1,
+      "start_line": 880
+    },
+    {
+      "anchor": "3-4-4-2-advantages-of-the-lmr-concepts",
+      "end_line": 921,
+      "heading": "3.4.4.2 Advantages of the LMR Concepts",
+      "level": 1,
+      "start_line": 886
+    },
+    {
+      "anchor": "3-4-4-3-disadvantages-of-the-lmr-concepts",
+      "end_line": 961,
+      "heading": "3.4.4.3 Disadvantages of the LMR Concepts",
+      "level": 1,
+      "start_line": 922
+    },
+    {
+      "anchor": "3-4-5-research-and-development-needs-for-the-lmr-concepts",
+      "end_line": 963,
+      "heading": "3.4.5 Research and Development Needs for the LMR Concepts",
+      "level": 1,
+      "start_line": 962
+    },
+    {
+      "anchor": "3-4-5-1-introduction",
+      "end_line": 967,
+      "heading": "3.4.5.1 Introduction",
+      "level": 1,
+      "start_line": 964
+    },
+    {
+      "anchor": "3-4-5-2-design-specific-r-d-requirements",
+      "end_line": 973,
+      "heading": "3.4.5.2 Design-Specific R&D Requirements",
+      "level": 1,
+      "start_line": 968
+    },
+    {
+      "anchor": "3-4-5-3-general-r-d-goals-for-the-u-s-national-lmr-program",
+      "end_line": 991,
+      "heading": "3.4.5.3 General R&D Goals for the U.S. National LMR Program",
+      "level": 1,
+      "start_line": 974
+    },
+    {
+      "anchor": "3-5-high-temperature-reactors-htrs",
+      "end_line": 995,
+      "heading": "3.5. HIGH TEMPERATURE REACTORS (HTRs)",
+      "level": 1,
+      "start_line": 992
+    },
+    {
+      "anchor": "3-5-1-design-descriptions",
+      "end_line": 1075,
+      "heading": "3.5.1. Design Descriptions",
+      "level": 1,
+      "start_line": 996
+    },
+    {
+      "anchor": "ornl-dwg86-4054etd",
+      "end_line": 1080,
+      "heading": "Ornl-Dwg86-4054Etd",
+      "level": 2,
+      "start_line": 1076
+    },
+    {
+      "anchor": "features",
+      "end_line": 1082,
+      "heading": "FEATURES :",
+      "level": 1,
+      "start_line": 1081
+    },
+    {
+      "anchor": "1-cools-through-panel-wall",
+      "end_line": 1083,
+      "heading": "1. COOLS THROUGH PANEL WALL",
+      "level": 2,
+      "start_line": 1083
+    },
+    {
+      "anchor": "2-operates-under-all-modes-of-reactor-operation",
+      "end_line": 1084,
+      "heading": "2 Operates Under All Modes Of Reactor Operation.",
+      "level": 2,
+      "start_line": 1084
+    },
+    {
+      "anchor": "3-simple-to-operate-virtually-maintenance-free",
+      "end_line": 1088,
+      "heading": "3. Simple To Operate, Virtually Maintenance Free.",
+      "level": 2,
+      "start_line": 1085
+    },
+    {
+      "anchor": "3-5-2-claims-advantages-and-disadvantages-evaluated-against-criteria-essential-and-desirable-characteristics",
+      "end_line": 1138,
+      "heading": "3.5.2 Claims, Advantages, and Disadvantages Evaluated Against Criteria, Essential and Desirable Characteristics",
+      "level": 1,
+      "start_line": 1089
+    },
+    {
+      "anchor": "3-5-3-modular-htr-research-and-development-needs-evaluated",
+      "end_line": 1150,
+      "heading": "3.5.3 Modular HTR Research and Development Needs Evaluated",
+      "level": 1,
+      "start_line": 1139
+    },
+    {
+      "anchor": "3-5-3-1-base-technology",
+      "end_line": 1161,
+      "heading": "3.5.3.1 Base Technology",
+      "level": 1,
+      "start_line": 1151
+    },
+    {
+      "anchor": "3-5-3-2-applied-technology",
+      "end_line": 1171,
+      "heading": "3.5.3.2 Applied Technology",
+      "level": 1,
+      "start_line": 1162
+    },
+    {
+      "anchor": "3-5-3-3-design-and-economic-studies",
+      "end_line": 1175,
+      "heading": "3.5.3.3 Design and Economic Studies",
+      "level": 1,
+      "start_line": 1172
+    },
+    {
+      "anchor": "3-6-references-for-chapter-3",
+      "end_line": 1229,
+      "heading": "3.6 REFERENCES FOR CHAPTER 3",
+      "level": 2,
+      "start_line": 1176
+    },
+    {
+      "anchor": "4-acknowledgments",
+      "end_line": 1233,
+      "heading": "4. ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 1230
+    },
+    {
+      "anchor": "reactor-vendors",
+      "end_line": 1235,
+      "heading": "Reactor Vendors",
+      "level": 1,
+      "start_line": 1234
+    },
+    {
+      "anchor": "asea-atom",
+      "end_line": 1249,
+      "heading": "Asea-Atom",
+      "level": 2,
+      "start_line": 1236
+    },
+    {
+      "anchor": "architect-engineers",
+      "end_line": 1259,
+      "heading": "Architect-Engineers",
+      "level": 1,
+      "start_line": 1250
+    },
+    {
+      "anchor": "utility-companies-and-associations",
+      "end_line": 1281,
+      "heading": "Utility Companies and Associations",
+      "level": 1,
+      "start_line": 1260
+    },
+    {
+      "anchor": "laboratories-institutions-and-universities",
+      "end_line": 1305,
+      "heading": "Laboratories, Institutions, and Universities",
+      "level": 1,
+      "start_line": 1282
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 1337,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 1,
+      "start_line": 1306
+    },
+    {
+      "anchor": "tennessee-valley-authority",
+      "end_line": 1353,
+      "heading": "Tennessee Valley Authority",
+      "level": 1,
+      "start_line": 1338
+    },
+    {
+      "anchor": "the-university-of-tennessee",
+      "end_line": 1357,
+      "heading": "The University of Tennessee",
+      "level": 1,
+      "start_line": 1354
+    },
+    {
+      "anchor": "npovs-advisory-committee-members",
+      "end_line": 1391,
+      "heading": "NPOVS Advisory Committee Members",
+      "level": 1,
+      "start_line": 1358
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1393,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 1392
+    },
+    {
+      "anchor": "basic-outline-for-nuclear-power-options-viability-study",
+      "end_line": 1395,
+      "heading": "BASIC OUTLINE FOR NUCLEAR POWER OPTIONS VIABILITY STUDY",
+      "level": 1,
+      "start_line": 1394
+    },
+    {
+      "anchor": "final-report",
+      "end_line": 1397,
+      "heading": "FINAL REPORT",
+      "level": 1,
+      "start_line": 1396
+    },
+    {
+      "anchor": "volume-i-executive-summary",
+      "end_line": 1401,
+      "heading": "Volume I Executive Summary",
+      "level": 2,
+      "start_line": 1398
+    },
+    {
+      "anchor": "volume-iii-nuclear-discipline-topics",
+      "end_line": 1403,
+      "heading": "Volume Iii Nuclear Discipline Topics",
+      "level": 2,
+      "start_line": 1402
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 1405,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 1404
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 1406,
+      "heading": "1. INTRODUCTION",
+      "level": 2,
+      "start_line": 1406
+    },
+    {
+      "anchor": "2-construction",
+      "end_line": 1407,
+      "heading": "2. CONSTRUCTION",
+      "level": 2,
+      "start_line": 1407
+    },
+    {
+      "anchor": "3-economics",
+      "end_line": 1408,
+      "heading": "3. ECONOMICS",
+      "level": 2,
+      "start_line": 1408
+    },
+    {
+      "anchor": "4-regulation",
+      "end_line": 1409,
+      "heading": "4. REGULATION",
+      "level": 2,
+      "start_line": 1409
+    },
+    {
+      "anchor": "5-safety-and-economic-risk",
+      "end_line": 1410,
+      "heading": "5. SAFETY AND ECONOMIC RISK",
+      "level": 2,
+      "start_line": 1410
+    },
+    {
+      "anchor": "6-nuclear-waste-transportation-and-disposal",
+      "end_line": 1411,
+      "heading": "6. NUCLEAR WASTE TRANSPORTATION AND DISPOSAL",
+      "level": 2,
+      "start_line": 1411
+    },
+    {
+      "anchor": "7-market-acceptance",
+      "end_line": 1412,
+      "heading": "7. MARKET ACCEPTANCE",
+      "level": 2,
+      "start_line": 1412
+    },
+    {
+      "anchor": "8-acknowledgments",
+      "end_line": 1416,
+      "heading": "8. ACKNOWLEDGMENTS",
+      "level": 2,
+      "start_line": 1413
+    },
+    {
+      "anchor": "appendix-b-tables-on-the-sample-used-for-the-issue-identification-research",
+      "end_line": 1418,
+      "heading": "Appendix B. Tables On The Sample Used For The Issue Identification Research",
+      "level": 2,
+      "start_line": 1417
+    },
+    {
+      "anchor": "volume-iv-bibliography",
+      "end_line": 1420,
+      "heading": "Volume Iv Bibliography",
+      "level": 2,
+      "start_line": 1419
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 1422,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 1421
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 1423,
+      "heading": "1. INTRODUCTION",
+      "level": 2,
+      "start_line": 1423
+    },
+    {
+      "anchor": "2-organization-and-retrieval",
+      "end_line": 1424,
+      "heading": "2. ORGANIZATION AND RETRIEVAL",
+      "level": 2,
+      "start_line": 1424
+    },
+    {
+      "anchor": "3-keyword-list",
+      "end_line": 1425,
+      "heading": "3. KEYWORD LIST",
+      "level": 2,
+      "start_line": 1425
+    },
+    {
+      "anchor": "4-keyword-index",
+      "end_line": 1426,
+      "heading": "4. KEYWORD INDEX",
+      "level": 2,
+      "start_line": 1426
+    },
+    {
+      "anchor": "5-nuclear-options-citations",
+      "end_line": 1427,
+      "heading": "5. NUCLEAR OPTIONS CITATIONS",
+      "level": 2,
+      "start_line": 1427
+    },
+    {
+      "anchor": "6-light-water-reactors-citations",
+      "end_line": 1428,
+      "heading": "6. LIGHT WATER REACTORS CITATIONS",
+      "level": 2,
+      "start_line": 1428
+    },
+    {
+      "anchor": "7-liquid-metal-reactors-citations",
+      "end_line": 1429,
+      "heading": "7. LIQUID METAL REACTORS CITATIONS",
+      "level": 2,
+      "start_line": 1429
+    },
+    {
+      "anchor": "8-high-temperature-reactors-citations",
+      "end_line": 1430,
+      "heading": "8. HIGH TEMPERATURE REACTORS CITATIONS",
+      "level": 2,
+      "start_line": 1430
+    },
+    {
+      "anchor": "9-acknowledgments",
+      "end_line": 1431,
+      "heading": "9. ACKNOWLEDGMENTS",
+      "level": 2,
+      "start_line": 1431
+    },
+    {
+      "anchor": "10-references",
+      "end_line": 1435,
+      "heading": "10. REFERENCES",
+      "level": 2,
+      "start_line": 1432
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1437,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 1436
+    },
+    {
+      "anchor": "the-outlook-for-electricity-supply-and-demand",
+      "end_line": 1504,
+      "heading": "THE OUTLOOK FOR ELECTRICITY SUPPLY AND DEMAND*",
+      "level": 1,
+      "start_line": 1438
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 1506,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 1505
+    },
+    {
+      "anchor": "discussion-of-concepts-not-included-for-assessment",
+      "end_line": 1510,
+      "heading": "DISCUSSION OF CONCEPTS NOT INCLUDED FOR ASSESSMENT",
+      "level": 1,
+      "start_line": 1507
+    },
+    {
+      "anchor": "lwr",
+      "end_line": 1524,
+      "heading": "LWR",
+      "level": 1,
+      "start_line": 1511
+    },
+    {
+      "anchor": "hwr",
+      "end_line": 1528,
+      "heading": "HwR",
+      "level": 1,
+      "start_line": 1525
+    },
+    {
+      "anchor": "lmr",
+      "end_line": 1558,
+      "heading": "LMR",
+      "level": 1,
+      "start_line": 1529
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 1560,
+      "heading": "APPENDIX D",
+      "level": 1,
+      "start_line": 1559
+    },
+    {
+      "anchor": "r-d-goals-and-specific-requirements-for-liquid-metal-reactor-lmr-concepts",
+      "end_line": 1581,
+      "heading": "R&D GOALS AND SPECIFIC REQUIREMENTS FOR LIQUID METAL REACTOR (LMR) CONCEPTS",
+      "level": 1,
+      "start_line": 1561
+    },
+    {
+      "anchor": "references-for-appendix-d",
+      "end_line": 1589,
+      "heading": "REFERENCES FOR APPENDIX D",
+      "level": 1,
+      "start_line": 1582
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 1591,
+      "heading": "APPENDIX E",
+      "level": 1,
+      "start_line": 1590
+    },
+    {
+      "anchor": "liquid-metal-reactor-lmr-fuel-reprocessing-refabrication-evaluation",
+      "end_line": 1609,
+      "heading": "LIQUID METAL REACTOR (LMR) FUEL REPROCESSING-REFABRICATION EVALUATION",
+      "level": 1,
+      "start_line": 1592
+    },
+    {
+      "anchor": "e-1-schedules-for-development-of-commercial-demonstration",
+      "end_line": 1647,
+      "heading": "E.1 Schedules for Development of Commercial Demonstration",
+      "level": 1,
+      "start_line": 1610
+    },
+    {
+      "anchor": "e-2-the-two-processes",
+      "end_line": 1651,
+      "heading": "E.2 The Two Processes",
+      "level": 1,
+      "start_line": 1648
+    },
+    {
+      "anchor": "e-2-1-the-pyrochemical-process-for-metal-fuels",
+      "end_line": 1664,
+      "heading": "E.2.1 The Pyrochemical Process for Metal Fuels",
+      "level": 1,
+      "start_line": 1652
+    },
+    {
+      "anchor": "e-2-2-the-purex-process-for-oxide-fuels",
+      "end_line": 1672,
+      "heading": "E.2.2 The Purex Process for Oxide Fuels",
+      "level": 1,
+      "start_line": 1665
+    },
+    {
+      "anchor": "e-2-3-fabrication-of-metal-fuels-for-ifr",
+      "end_line": 1686,
+      "heading": "E.2.3 Fabrication of Metal Fuels for IFR",
+      "level": 1,
+      "start_line": 1673
+    },
+    {
+      "anchor": "e-2-4-fabrication-of-oxide-fuels",
+      "end_line": 1695,
+      "heading": "E.2.4 Fabrication of Oxide Fuels",
+      "level": 1,
+      "start_line": 1687
+    },
+    {
+      "anchor": "e-3-costs-of-demonstration-plants-for-reprocessing-and-refabricating-metal-and-oxide-fuels",
+      "end_line": 1731,
+      "heading": "E.3 COSTS OF DEMONSTRATION PLANTS FOR REPROCESSING AND REFABRICATING METAL AND OXIDE FUELS",
+      "level": 1,
+      "start_line": 1696
+    },
+    {
+      "anchor": "e-4-issues-that-need-attention",
+      "end_line": 1789,
+      "heading": "E.4 ISSUES THAT NEED ATTENTION",
+      "level": 1,
+      "start_line": 1732
+    },
+    {
+      "anchor": "6-reactor-interfaces",
+      "end_line": 1807,
+      "heading": "6. Reactor Interfaces",
+      "level": 1,
+      "start_line": 1790
+    },
+    {
+      "anchor": "e-5-conclusions",
+      "end_line": 1817,
+      "heading": "E.5 Conclusions",
+      "level": 1,
+      "start_line": 1808
+    },
+    {
+      "anchor": "references-for-appendix-e",
+      "end_line": 1830,
+      "heading": "REFERENCES FOR APPENDIX E",
+      "level": 1,
+      "start_line": 1818
+    },
+    {
+      "anchor": "appendix-f",
+      "end_line": 1832,
+      "heading": "APPENDIX F",
+      "level": 1,
+      "start_line": 1831
+    },
+    {
+      "anchor": "860-mw-e-large-high-temperature",
+      "end_line": 1834,
+      "heading": "860 MW(e) LARGE HIGH TEMPERATURE",
+      "level": 1,
+      "start_line": 1833
+    },
+    {
+      "anchor": "gas-cooled-reactor-htgr",
+      "end_line": 1846,
+      "heading": "GAS-COOLED REACTOR (HTGR)",
+      "level": 1,
+      "start_line": 1835
+    },
+    {
+      "anchor": "references-for-appendix-f",
+      "end_line": 1850,
+      "heading": "REFERENCES FOR APPENDIX F",
+      "level": 1,
+      "start_line": 1847
+    },
+    {
+      "anchor": "appendix-g",
+      "end_line": 1852,
+      "heading": "APPENDIX G",
+      "level": 1,
+      "start_line": 1851
+    },
+    {
+      "anchor": "evaluation-of-claims-for-the-modular",
+      "end_line": 1854,
+      "heading": "EVALUATION OF CLAIMS FOR THE MODULAR",
+      "level": 1,
+      "start_line": 1853
+    },
+    {
+      "anchor": "high-temperature-reactor-htr",
+      "end_line": 1858,
+      "heading": "HIGH TEMPERATURE REACTOR (HTR)",
+      "level": 1,
+      "start_line": 1855
+    },
+    {
+      "anchor": "1-modular-htr-safety-claims",
+      "end_line": 1871,
+      "heading": "1. Modular HTR Safety Claims",
+      "level": 1,
+      "start_line": 1859
+    },
+    {
+      "anchor": "2-modular-htr-claims-for-core-heatup-accidents-with-scram",
+      "end_line": 1910,
+      "heading": "2. Modular HTR Claims for Core Heatup Accidents (with Scram)",
+      "level": 1,
+      "start_line": 1872
+    },
+    {
+      "anchor": "5-modular-htr-safety-claims-for-air-ingress",
+      "end_line": 1916,
+      "heading": "5. Modular HTR Safety Claims for Air Ingress",
+      "level": 1,
+      "start_line": 1911
+    },
+    {
+      "anchor": "6-economics-and-constructibility-claims",
+      "end_line": 1976,
+      "heading": "6. Economics and Constructibility Claims",
+      "level": 1,
+      "start_line": 1917
+    },
+    {
+      "anchor": "references-for-appendix-g",
+      "end_line": 1988,
+      "heading": "REFERENCES FOR APPENDIX G",
+      "level": 1,
+      "start_line": 1977
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2074,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1989
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2081,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2075
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-9780-V2",
+  "tables": [],
+  "title": "OAK RIDGE NATIONAL LABORATORY",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "fuel-processing-and-reprocessing",
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

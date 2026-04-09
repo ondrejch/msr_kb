@@ -1,0 +1,635 @@
+{
+  "authors": [
+    "REACTORS",
+    "INTRODUCTION"
+  ],
+  "claims_path": "kb/normalized/claims/the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor.jsonl",
+  "date_text": "August 4, 1969",
+  "doc_id": "the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 37,
+        "line_hits": [
+          13,
+          15,
+          23,
+          29,
+          31,
+          33,
+          35,
+          41,
+          43,
+          63,
+          105,
+          107,
+          109,
+          116,
+          120,
+          124,
+          129,
+          131,
+          135,
+          140,
+          144,
+          146,
+          148,
+          150,
+          152,
+          239,
+          268,
+          286,
+          288,
+          300,
+          309,
+          311,
+          315,
+          323,
+          325,
+          327,
+          344
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          13,
+          41,
+          72,
+          109,
+          122,
+          150,
+          152,
+          164,
+          179,
+          309,
+          311,
+          327
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          41,
+          75
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          27
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          75
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          75
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 18,
+        "line_hits": [
+          29,
+          54,
+          56,
+          60,
+          96,
+          99,
+          158,
+          160,
+          166,
+          173,
+          175,
+          181,
+          183,
+          185,
+          189,
+          241,
+          266,
+          311
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          47,
+          54,
+          56,
+          60,
+          90,
+          189,
+          201,
+          203,
+          205,
+          221,
+          235,
+          237,
+          241,
+          243,
+          270,
+          278
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          25,
+          29,
+          90,
+          99,
+          187,
+          189,
+          191,
+          193,
+          199,
+          259,
+          266,
+          270,
+          282
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          25,
+          88,
+          99,
+          216,
+          223,
+          227,
+          229,
+          300,
+          311
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          56,
+          99,
+          189,
+          221,
+          270,
+          278,
+          282
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          150,
+          268,
+          270,
+          272,
+          288,
+          300
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          29,
+          67,
+          189,
+          212,
+          276,
+          278
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          25,
+          231,
+          243,
+          245
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 4,
+        "line_hits": [
+          4,
+          212,
+          214,
+          245
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          294,
+          339
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          339
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 48,
+        "line_hits": [
+          25,
+          31,
+          33,
+          41,
+          43,
+          56,
+          58,
+          67,
+          90,
+          107,
+          120,
+          122,
+          129,
+          135,
+          140,
+          142,
+          144,
+          150,
+          152,
+          154,
+          160,
+          164,
+          170,
+          179,
+          181,
+          183,
+          185,
+          189,
+          191,
+          203,
+          212,
+          218,
+          223,
+          225,
+          229,
+          233,
+          235,
+          241,
+          249,
+          259,
+          266,
+          268,
+          272,
+          284,
+          290,
+          294,
+          296,
+          309
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 39,
+        "line_hits": [
+          1,
+          8,
+          13,
+          21,
+          23,
+          25,
+          27,
+          31,
+          39,
+          50,
+          63,
+          81,
+          84,
+          99,
+          105,
+          112,
+          114,
+          127,
+          138,
+          156,
+          173,
+          181,
+          205,
+          212,
+          221,
+          249,
+          253,
+          257,
+          264,
+          270,
+          272,
+          290,
+          294,
+          298,
+          309,
+          318,
+          331,
+          335,
+          345
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          54,
+          212,
+          245,
+          290
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          154
+        ],
+        "name": "single-fluid breeder"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          52,
+          160,
+          225
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          13,
+          52
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          27,
+          31
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          52
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          52
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          52
+        ],
+        "name": "LiF-BeF2-ThF4-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          52
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          52
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          52
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2183f86d7a00a996c6ea26683845d9dde6d7779af63852dfdd357fe85191760a",
+  "markdown_path": "pdf/NAT_MSBRdesign/NAT_MSBRdesign/hybrid_ocr/NAT_MSBRdesign.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "natural-language-summaries",
+  "section_count": 23,
+  "sections": [
+    {
+      "anchor": "the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor",
+      "end_line": 5,
+      "heading": "THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "reactors",
+      "end_line": 18,
+      "heading": "Reactors",
+      "level": 2,
+      "start_line": 6
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 44,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "plant-description",
+      "end_line": 48,
+      "heading": "PLANT DESCRIPTION",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "tablei",
+      "end_line": 61,
+      "heading": "Tablei",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 70,
+      "heading": "Table Ii",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 102,
+      "heading": "Table Iii",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "reactor",
+      "end_line": 157,
+      "heading": "REACTOR",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "primary-heat-exchangers",
+      "end_line": 186,
+      "heading": "PRIMARY HEAT EXCHANGERS",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "steam-generators-and-reheaters",
+      "end_line": 200,
+      "heading": "STEAM GENERATORS AND REHEATERS",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "salt-circulating-pumps",
+      "end_line": 206,
+      "heading": "SALT-CIRCULATING PUMPS",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "table-vii",
+      "end_line": 215,
+      "heading": "Table Vii",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "drain-tanks",
+      "end_line": 230,
+      "heading": "DRAIN TANKS",
+      "level": 1,
+      "start_line": 216
+    },
+    {
+      "anchor": "off-gas-system",
+      "end_line": 246,
+      "heading": "OFF-GAS SYSTEM",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "fuel-salt-processing",
+      "end_line": 250,
+      "heading": "FUEL-SALT PROCESSING",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "steam-power-system",
+      "end_line": 273,
+      "heading": "STEAM-POWER SYSTEM",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "afterheat-removal",
+      "end_line": 279,
+      "heading": "AFTERHEAT REMOVAL",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "maintenance",
+      "end_line": 291,
+      "heading": "MAINTENANCE",
+      "level": 1,
+      "start_line": 280
+    },
+    {
+      "anchor": "cost-estimates",
+      "end_line": 303,
+      "heading": "COST ESTIMATES",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "table-ix",
+      "end_line": 316,
+      "heading": "Table Ix",
+      "level": 2,
+      "start_line": 304
+    },
+    {
+      "anchor": "table-x",
+      "end_line": 336,
+      "heading": "Table X",
+      "level": 2,
+      "start_line": 317
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 340,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "references",
+      "end_line": 347,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 341
+    }
+  ],
+  "source_dir": "pdf/NAT_MSBRdesign",
+  "tables": [],
+  "title": "THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

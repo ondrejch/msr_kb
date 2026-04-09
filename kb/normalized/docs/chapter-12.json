@@ -1,0 +1,588 @@
+{
+  "authors": [
+    "MELTING POINTS",
+    "HEAT CAPACITIES"
+  ],
+  "claims_path": "kb/normalized/claims/chapter-12.jsonl",
+  "date_text": "1941",
+  "doc_id": "chapter-12",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          18,
+          140,
+          161,
+          254,
+          258
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          11,
+          148,
+          150,
+          163
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          18,
+          246,
+          259
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          223,
+          239
+        ],
+        "name": "niobium"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          182,
+          188,
+          190
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          150,
+          163
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          11
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          188
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 2,
+        "line_hits": [
+          253,
+          259
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          249,
+          250
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 40,
+        "line_hits": [
+          5,
+          7,
+          11,
+          18,
+          20,
+          38,
+          49,
+          53,
+          74,
+          80,
+          85,
+          90,
+          92,
+          99,
+          105,
+          109,
+          113,
+          117,
+          128,
+          130,
+          142,
+          144,
+          148,
+          150,
+          159,
+          163,
+          188,
+          194,
+          196,
+          200,
+          210,
+          212,
+          221,
+          223,
+          225,
+          229,
+          231,
+          239,
+          241,
+          263
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 35,
+        "line_hits": [
+          14,
+          20,
+          26,
+          29,
+          36,
+          38,
+          44,
+          47,
+          49,
+          53,
+          59,
+          64,
+          67,
+          83,
+          85,
+          92,
+          94,
+          119,
+          124,
+          128,
+          133,
+          135,
+          142,
+          178,
+          182,
+          200,
+          204,
+          212,
+          215,
+          217,
+          233,
+          239,
+          258,
+          259,
+          261
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          14,
+          20,
+          26,
+          36,
+          41,
+          47,
+          49,
+          51,
+          53,
+          59,
+          64,
+          70,
+          88,
+          92,
+          94,
+          97,
+          99,
+          101,
+          102,
+          103,
+          105,
+          107,
+          109,
+          142,
+          200,
+          204,
+          212,
+          215,
+          217,
+          245
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          11,
+          16,
+          24,
+          74,
+          99,
+          109,
+          115,
+          144,
+          167,
+          196,
+          202,
+          212,
+          219,
+          229,
+          247,
+          260,
+          261
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          26,
+          36,
+          59,
+          101,
+          133,
+          135,
+          178,
+          217,
+          246,
+          259
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          14,
+          20,
+          26,
+          36,
+          64,
+          178,
+          200,
+          204,
+          212
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          26,
+          59,
+          64,
+          124,
+          178,
+          182,
+          204,
+          217,
+          256
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          14,
+          20,
+          26,
+          36,
+          200,
+          204,
+          212
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          59,
+          64,
+          107,
+          124,
+          178
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          26,
+          182,
+          204,
+          217
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          26,
+          59,
+          217
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          59,
+          64,
+          178
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          20,
+          256
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          101,
+          107
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          59
+        ],
+        "name": "LiF-BeF2-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          178
+        ],
+        "name": "UF3"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "ebe6d82aa8c33160e392ea2c90d57fa3710b4598c3fdbd3e5d19438c280e7d19",
+  "markdown_path": "pdf/FFR_chap12/FFR_chap12/hybrid_ocr/FFR_chap12.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 26,
+  "sections": [
+    {
+      "anchor": "chapter-12",
+      "end_line": 2,
+      "heading": "CHAPTER 12",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "chemical-aspects-of-molten-fluoride-salt-reactor-fuels",
+      "end_line": 8,
+      "heading": "CHEMICAL ASPECTS OF MOLTEN-FLUORIDE-SALT REACTOR FUELS*",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "12-1-choice-of-base-or-solvent-salts",
+      "end_line": 21,
+      "heading": "12-1. CHOICE OF BASE OR SOLVENT SALTS",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "table-12-1",
+      "end_line": 23,
+      "heading": "TABLE 12-1",
+      "level": 1,
+      "start_line": 22
+    },
+    {
+      "anchor": "melting-points-heat-capacities-and-equations-for-density-and-viscosity-of-typical-molten-fluorides",
+      "end_line": 32,
+      "heading": "MELTING POINTS, HEAT CAPACITIES, AND EQUATIONS FOR DENSITY AND VISCOSITY OF TYPICAL MOLTEN FLUORIDES",
+      "level": 1,
+      "start_line": 24
+    },
+    {
+      "anchor": "table-12-2",
+      "end_line": 33,
+      "heading": "Table 12-2",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "thermal-conductivity-of-typical-fluoride-mixtures",
+      "end_line": 54,
+      "heading": "Thermal Conductivity Of Typical Fluoride Mixtures",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "table-12-3",
+      "end_line": 56,
+      "heading": "TABLE 12-3",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "melting-points-heat-capacities-and-equations-for-density-and-viscosity-of-fuel-bearing-salts",
+      "end_line": 60,
+      "heading": "MELTING POINTS, HEAT CAPACITIES, AND EQUATIONS FOR DENSITY AND VISCOSITY OF FUEL BEARING SALTS",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "table-12-4",
+      "end_line": 61,
+      "heading": "Table 12-4",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "thermal-conductivity-of-typical-fluoride-fuels",
+      "end_line": 71,
+      "heading": "Thermal Conductivity Of Typical Fluoride Fuels",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "12-2-fuel-and-blanket-solutions",
+      "end_line": 110,
+      "heading": "12-2. FUEL AND BLANKET SOLUTIONS",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "12-3-physical-and-thermal-properties-of-fluoride-mixtures",
+      "end_line": 120,
+      "heading": "12-3. PHYSICAL AND THERMAL PROPERTIES OF FLUORIDE MIXTURES",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "table-12-5",
+      "end_line": 131,
+      "heading": "Table 12-5",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "table-12-6",
+      "end_line": 132,
+      "heading": "Table 12-6",
+      "level": 2,
+      "start_line": 132
+    },
+    {
+      "anchor": "vapor-pressures-of-naf-bef2-mixtures",
+      "end_line": 145,
+      "heading": "Vapor Pressures Of Naf-Bef2 Mixtures\\*",
+      "level": 2,
+      "start_line": 133
+    },
+    {
+      "anchor": "12-4-production-and-purification-of-fluoride-mixtures",
+      "end_line": 164,
+      "heading": "12-4. PRODUCTION AND PURIFICATION OF FLUORIDE MIXTURES",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "12-5-radiation-stability-of-fluoride-mixtures",
+      "end_line": 172,
+      "heading": "12-5. RADIATION STABILITY OF FLUORIDE MIXTURES",
+      "level": 1,
+      "start_line": 165
+    },
+    {
+      "anchor": "table-12-7",
+      "end_line": 173,
+      "heading": "Table 12-7",
+      "level": 2,
+      "start_line": 173
+    },
+    {
+      "anchor": "molten-salts-which-have-been-studied",
+      "end_line": 174,
+      "heading": "Molten Salts Which Have Been Studied",
+      "level": 2,
+      "start_line": 174
+    },
+    {
+      "anchor": "in-in-pile-capsule-tests",
+      "end_line": 175,
+      "heading": "In In-Pile Capsule Tests",
+      "level": 2,
+      "start_line": 175
+    },
+    {
+      "anchor": "table-12-8",
+      "end_line": 191,
+      "heading": "Table 12-8",
+      "level": 2,
+      "start_line": 176
+    },
+    {
+      "anchor": "12-6-behavior-of-fission-products",
+      "end_line": 213,
+      "heading": "12-6. BEHAVIOR OF FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "table-12-10",
+      "end_line": 226,
+      "heading": "Table 12-10",
+      "level": 2,
+      "start_line": 214
+    },
+    {
+      "anchor": "12-7-fuel-reprocessing",
+      "end_line": 242,
+      "heading": "12-7. FUEL REPROCESSING",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "references",
+      "end_line": 266,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 243
+    }
+  ],
+  "source_dir": "pdf/FFR_chap12",
+  "tables": [],
+  "title": "CHAPTER 12",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "pumps-loops-and-heat-exchangers",
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

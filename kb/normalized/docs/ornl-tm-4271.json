@@ -1,0 +1,506 @@
+{
+  "authors": [
+    "MASS TRANSFER BETWEEN",
+    "J. W. Koger",
+    "MASTER",
+    "J.W.Koger",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4271.jsonl",
+  "date_text": "December 1969",
+  "doc_id": "ornl-tm-4271",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 22,
+        "line_hits": [
+          5,
+          29,
+          76,
+          82,
+          86,
+          88,
+          96,
+          97,
+          109,
+          115,
+          117,
+          122,
+          143,
+          165,
+          167,
+          173,
+          187,
+          190,
+          209,
+          257,
+          284,
+          332
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          82,
+          126,
+          192,
+          257,
+          259,
+          282,
+          284,
+          333,
+          500
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          192,
+          257
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          117,
+          122
+        ],
+        "name": "titanium-modified Hastelloy-N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          95
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          117
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 28,
+        "line_hits": [
+          5,
+          29,
+          64,
+          76,
+          82,
+          86,
+          92,
+          109,
+          111,
+          115,
+          117,
+          132,
+          134,
+          137,
+          141,
+          143,
+          145,
+          161,
+          163,
+          165,
+          167,
+          171,
+          199,
+          257,
+          284,
+          308,
+          332,
+          335
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          137,
+          199
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          143
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          482
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 21,
+        "line_hits": [
+          17,
+          23,
+          39,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          115,
+          346,
+          352,
+          354,
+          530
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          19,
+          21,
+          37,
+          49,
+          508,
+          526,
+          530,
+          538,
+          542
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          19,
+          45,
+          504
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 7,
+        "line_hits": [
+          86,
+          117,
+          192,
+          194,
+          196,
+          310,
+          328
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          86
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 14,
+        "line_hits": [
+          5,
+          29,
+          76,
+          82,
+          86,
+          88,
+          94,
+          95,
+          117,
+          126,
+          143,
+          161,
+          264,
+          332
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          82,
+          86,
+          94,
+          97,
+          109,
+          187,
+          190,
+          209,
+          284,
+          332
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          308,
+          328
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "89057ac57eb041b64fa622e1f43d2c6b48f82a0eb73a1d466efaab46e101b305",
+  "markdown_path": "pdf/ORNL-TM-4271/ORNL-TM-4271/hybrid_ocr/ORNL-TM-4271.md",
+  "report_number": "ORNL-TM-4271",
+  "report_numbers": [
+    "ORNL-TM-4271",
+    "ORNL-TM-2490",
+    "ORNL-TM-2741",
+    "ORNL-TM-2978",
+    "ORNL-TM-3866",
+    "ORNL-4354",
+    "ORNL-4434",
+    "ORNL-4369",
+    "ORNL-4449",
+    "ORNL-4548"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 29,
+  "sections": [
+    {
+      "anchor": "mass-transfer-between",
+      "end_line": 4,
+      "heading": "MASS TRANSFER BETWEEN",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "hastelloy-n-and-a-molten-sodium-fluoroborate-mixture-in-a-thermal-convection-loop",
+      "end_line": 8,
+      "heading": "HASTELLOY N AND A MOLTEN SODIUM FLUOROBORATE MIXTURE IN A THERMAL CONVECTION LOOP",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "master",
+      "end_line": 16,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 18,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 22,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "ornl-tm-4271",
+      "end_line": 26,
+      "heading": "Ornl-Tm-4271",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 28,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "mass-transfer-between-hastelloy-n-and-a-molten-sodium-fluoroborate-mixture-in-a-thermal-convection-loop",
+      "end_line": 32,
+      "heading": "MASS TRANSFER BETWEEN HASTELLOY N AND A MOLTEN SODIUM FLUOROBORATE MIXTURE IN A THERMAL CONVECTION LOOP",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "december-1972",
+      "end_line": 34,
+      "heading": "December 1972",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "notice",
+      "end_line": 38,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 44,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 48,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 50,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "master",
+      "end_line": 54,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "contents",
+      "end_line": 75,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "mass-transfer-between-hastelloy-n-and-a-molten-sodium-fluoroborate-mixture-in-a-thermal-convection-loop",
+      "end_line": 79,
+      "heading": "MASS TRANSFER BETWEEN HASTELLOY N AND A MOLTEN SODIUM FLUOROBORATE MIXTURE IN A THERMAL CONVECTION LOOP",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 83,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 89,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "2-experimental-details",
+      "end_line": 112,
+      "heading": "2. EXPERIMENTAL DETAILS",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "2-1-materials",
+      "end_line": 123,
+      "heading": "2.1 Materials",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "2-2-salt-preparation",
+      "end_line": 131,
+      "heading": "2.2 Salt Preparation",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "2-3-loop-operation",
+      "end_line": 148,
+      "heading": "2.3 Loop Operation",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "3-results",
+      "end_line": 150,
+      "heading": "3. RESULTS",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "3-1-operation-weight-changes-and-salt-chemistry",
+      "end_line": 168,
+      "heading": "3.1 Operation, Weight Changes, and Salt Chemistry",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "3-2-specimen-analysis",
+      "end_line": 254,
+      "heading": "3.2 Specimen Analysis",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "4-discussion",
+      "end_line": 329,
+      "heading": "4. DISCUSSION",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "5-conclusions",
+      "end_line": 339,
+      "heading": "5. CONCLUSIONS",
+      "level": 1,
+      "start_line": 330
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 469,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 544,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 470
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4271",
+  "tables": [],
+  "title": "MASS TRANSFER BETWEEN",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "instrumentation-and-controls",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

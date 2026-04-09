@@ -1,0 +1,1166 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "COCURRENT TURBULENT PIPELINE FLOW",
+    "T. S. Kress"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3718.jsonl",
+  "date_text": "1972",
+  "doc_id": "ornl-tm-3718",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          723
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1637
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 14,
+        "line_hits": [
+          65,
+          685,
+          723,
+          727,
+          807,
+          820,
+          830,
+          1054,
+          1056,
+          1057,
+          1064,
+          2061,
+          2069,
+          2410
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          125,
+          711,
+          713,
+          715,
+          723,
+          727,
+          737,
+          815,
+          1056,
+          1805
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          711,
+          723,
+          737
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          13,
+          25,
+          39,
+          51,
+          55,
+          1823,
+          1824,
+          2579,
+          2585,
+          2607,
+          2672,
+          2674
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          3,
+          15,
+          41,
+          55,
+          59,
+          339,
+          1107,
+          1823,
+          1824,
+          2323
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          5,
+          47,
+          55
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 71,
+        "line_hits": [
+          59,
+          61,
+          337,
+          353,
+          361,
+          369,
+          371,
+          377,
+          443,
+          479,
+          481,
+          493,
+          499,
+          517,
+          545,
+          549,
+          559,
+          595,
+          637,
+          649,
+          691,
+          701,
+          703,
+          705,
+          711,
+          727,
+          731,
+          753,
+          755,
+          790,
+          792,
+          956,
+          993,
+          1007,
+          1021,
+          1048,
+          1083,
+          1101,
+          1105,
+          1107,
+          1111,
+          1115,
+          1205,
+          1211,
+          1237,
+          1239,
+          1258,
+          1264,
+          1277,
+          1281
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          339,
+          345,
+          371,
+          1824
+        ],
+        "name": "MSBR"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "1aca4950e222ed9b9025304e9ba6fcd2f42d75ba87515a48f27153ed786bd3d5",
+  "markdown_path": "pdf/ORNL-TM-3718/ORNL-TM-3718/hybrid_ocr/ORNL-TM-3718.md",
+  "report_number": "ORNL-TM-3718",
+  "report_numbers": [
+    "ORNL-TM-3718"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 136,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory-operated-by",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY. operated by",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 6,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 12,
+      "heading": "NUCLEAR DIVISION",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 14,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-tm-3718",
+      "end_line": 16,
+      "heading": "Ornl-Tm-3718",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "mass-transfer-between-small-bubbles-and-liquids-in",
+      "end_line": 18,
+      "heading": "Mass Transfer Between Small Bubbles And Liquids In",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "cocurrent-turbulent-pipeline-flow",
+      "end_line": 34,
+      "heading": "Cocurrent Turbulent Pipeline Flow",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "april-1972",
+      "end_line": 36,
+      "heading": "April 1972",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "notice",
+      "end_line": 40,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 46,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 50,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 52,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 62,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 90,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 92,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "chapter",
+      "end_line": 94,
+      "heading": "CHAPTER",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "page",
+      "end_line": 96,
+      "heading": "Page",
+      "level": 2,
+      "start_line": 95
+    },
+    {
+      "anchor": "i-introduction-1",
+      "end_line": 98,
+      "heading": "I. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 97
+    },
+    {
+      "anchor": "ii-literature-review-5",
+      "end_line": 118,
+      "heading": "II. LITERATURE REVIEW 5",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "iii-description-of-experiment-19",
+      "end_line": 148,
+      "heading": "III. DESCRIPTION OF EXPERIMENT 19",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "iv-experimental-results-55",
+      "end_line": 168,
+      "heading": "IV. EXPERIMENTAL RESULTS 55",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "v-theoretical-considerations-76",
+      "end_line": 174,
+      "heading": "V. THEORETICAL CONSIDERATIONS 76",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "vi-summary-and-conclusions-94",
+      "end_line": 176,
+      "heading": "VI. SUMMARY AND CONCLUSIONS 94",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "vii-recommendations-for-further-study-100",
+      "end_line": 182,
+      "heading": "VII. RECOMMENDATIONS FOR FURTHER STUDY 100",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "list-of-references-105",
+      "end_line": 184,
+      "heading": "LIST OF REFERENCES 105",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "appendices-111",
+      "end_line": 186,
+      "heading": "APPENDICES 111",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "a-physical-properties-of-aqueous-glycerol-mixtures-111",
+      "end_line": 188,
+      "heading": "A PHYSICAL PROPERTIES OF AQUEOUS-GLYCEROL MIXTURES 111",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "chapter",
+      "end_line": 190,
+      "heading": "CHAPTER",
+      "level": 1,
+      "start_line": 189
+    },
+    {
+      "anchor": "page",
+      "end_line": 192,
+      "heading": "Page",
+      "level": 2,
+      "start_line": 191
+    },
+    {
+      "anchor": "b-derivation-of-equations-for-concentration-changes",
+      "end_line": 194,
+      "heading": "B Derivation Of Equations For Concentration Changes",
+      "level": 2,
+      "start_line": 193
+    },
+    {
+      "anchor": "across-a-gas-liquid-contactor-117",
+      "end_line": 196,
+      "heading": "Across A Gas-Liquid Contactor 117",
+      "level": 2,
+      "start_line": 195
+    },
+    {
+      "anchor": "c-instrument-application-drawing-121",
+      "end_line": 198,
+      "heading": "C INSTRUMENT APPLICATION DRAWING 121",
+      "level": 2,
+      "start_line": 197
+    },
+    {
+      "anchor": "d-instrument-calibrations-123",
+      "end_line": 200,
+      "heading": "D Instrument Calibrations 123",
+      "level": 2,
+      "start_line": 199
+    },
+    {
+      "anchor": "e-evaluation-of-effect-of-oxygen-sensor-response-speed-on",
+      "end_line": 202,
+      "heading": "E Evaluation Of Effect Of Oxygen Sensor Response Speed On",
+      "level": 2,
+      "start_line": 201
+    },
+    {
+      "anchor": "the-measured-transient-response-of-the-system-129",
+      "end_line": 204,
+      "heading": "The Measured Transient Response Of The System 129",
+      "level": 2,
+      "start_line": 203
+    },
+    {
+      "anchor": "f-mass-balances-for-the-surface-renewal-model-131",
+      "end_line": 206,
+      "heading": "F Mass Balances For The Surface Renewal Model 131",
+      "level": 2,
+      "start_line": 205
+    },
+    {
+      "anchor": "estimate-of-error-due-to-end-effect-adjustments-134",
+      "end_line": 208,
+      "heading": "Estimate Of Error Due To End-Effect Adjustments 134",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "h-mass-transfer-data-137",
+      "end_line": 210,
+      "heading": "H Mass Transfer Data 137",
+      "level": 2,
+      "start_line": 209
+    },
+    {
+      "anchor": "list-of-symbols-163",
+      "end_line": 212,
+      "heading": "List Of Symbols 163",
+      "level": 2,
+      "start_line": 211
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 214,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "table-fage",
+      "end_line": 241,
+      "heading": "TABLE FAGE",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 243,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "figure",
+      "end_line": 257,
+      "heading": "FIGURE",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "figure",
+      "end_line": 259,
+      "heading": "FIGURE",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "page",
+      "end_line": 271,
+      "heading": "PAGE",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "figure",
+      "end_line": 288,
+      "heading": "FIGURE",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "figure-page",
+      "end_line": 302,
+      "heading": "Figure Page",
+      "level": 2,
+      "start_line": 289
+    },
+    {
+      "anchor": "figure",
+      "end_line": 304,
+      "heading": "FIGURE",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "page",
+      "end_line": 317,
+      "heading": "Page",
+      "level": 2,
+      "start_line": 305
+    },
+    {
+      "anchor": "xvi",
+      "end_line": 319,
+      "heading": "XVI",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "figure",
+      "end_line": 332,
+      "heading": "FIGURE",
+      "level": 1,
+      "start_line": 320
+    },
+    {
+      "anchor": "chapter-i",
+      "end_line": 334,
+      "heading": "CHAPTER I",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 372,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "chapter-ii",
+      "end_line": 374,
+      "heading": "CHAPTER II",
+      "level": 1,
+      "start_line": 373
+    },
+    {
+      "anchor": "literature-review",
+      "end_line": 378,
+      "heading": "LITERATURE REVIEW",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "experimental-cocurrent-flow",
+      "end_line": 440,
+      "heading": "Experimental-Cocurrent Flow",
+      "level": 1,
+      "start_line": 379
+    },
+    {
+      "anchor": "experimental-agitated-vessels",
+      "end_line": 494,
+      "heading": "Experimental-Agitated Vessels",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "discussion-of-available-experimental-data",
+      "end_line": 506,
+      "heading": "Discussion of Available Experimental Data",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "theoretical",
+      "end_line": 512,
+      "heading": "Theoretical",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "surface-renewal-models",
+      "end_line": 546,
+      "heading": "Surface Renewal Models",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "14",
+      "end_line": 556,
+      "heading": "14",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "modeling-of-the-eddy-structure",
+      "end_line": 592,
+      "heading": "Modeling of the Eddy Structure",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "turbulence-interactions",
+      "end_line": 628,
+      "heading": "Turbulence Interactions",
+      "level": 1,
+      "start_line": 593
+    },
+    {
+      "anchor": "dimensional-analysis-empiricism",
+      "end_line": 634,
+      "heading": "Dimensional Analysis (Empiricism)",
+      "level": 1,
+      "start_line": 629
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 644,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "chapter-iii",
+      "end_line": 646,
+      "heading": "CHAPTER III",
+      "level": 1,
+      "start_line": 645
+    },
+    {
+      "anchor": "description-of-experiment",
+      "end_line": 650,
+      "heading": "DESCRIPTION OF EXPERIMENT",
+      "level": 1,
+      "start_line": 647
+    },
+    {
+      "anchor": "transient-response-technique",
+      "end_line": 706,
+      "heading": "Transient Response Technique",
+      "level": 1,
+      "start_line": 651
+    },
+    {
+      "anchor": "apparatus",
+      "end_line": 712,
+      "heading": "Apparatus",
+      "level": 1,
+      "start_line": 707
+    },
+    {
+      "anchor": "pump",
+      "end_line": 724,
+      "heading": "Pump",
+      "level": 1,
+      "start_line": 713
+    },
+    {
+      "anchor": "liquid-flow-measurement",
+      "end_line": 734,
+      "heading": "Liquid Flow Measurement",
+      "level": 1,
+      "start_line": 725
+    },
+    {
+      "anchor": "temperature-stabilization",
+      "end_line": 738,
+      "heading": "Temperature Stabilization",
+      "level": 1,
+      "start_line": 735
+    },
+    {
+      "anchor": "gas-flow-measurement",
+      "end_line": 746,
+      "heading": "Gas Flow Measurement",
+      "level": 1,
+      "start_line": 739
+    },
+    {
+      "anchor": "dissolved-oxygen-measurement",
+      "end_line": 756,
+      "heading": "Dissolved Oxygen Measurement",
+      "level": 1,
+      "start_line": 747
+    },
+    {
+      "anchor": "bubble-generation",
+      "end_line": 804,
+      "heading": "Bubble Generation",
+      "level": 1,
+      "start_line": 757
+    },
+    {
+      "anchor": "bubble-separation",
+      "end_line": 825,
+      "heading": "Bubble Separation",
+      "level": 1,
+      "start_line": 805
+    },
+    {
+      "anchor": "test-section",
+      "end_line": 831,
+      "heading": "Test Section",
+      "level": 1,
+      "start_line": 826
+    },
+    {
+      "anchor": "bubble-surface-area-determination-photographic-system",
+      "end_line": 994,
+      "heading": "Bubble Surface Area Determination - Photographic System",
+      "level": 1,
+      "start_line": 832
+    },
+    {
+      "anchor": "end-effect",
+      "end_line": 1011,
+      "heading": "End Effect",
+      "level": 1,
+      "start_line": 995
+    },
+    {
+      "anchor": "photographs",
+      "end_line": 1013,
+      "heading": "Photographs",
+      "level": 2,
+      "start_line": 1012
+    },
+    {
+      "anchor": "function",
+      "end_line": 1014,
+      "heading": "Function)",
+      "level": 2,
+      "start_line": 1014
+    },
+    {
+      "anchor": "volume-from-photos-raphs",
+      "end_line": 1016,
+      "heading": "Volume From Photos Raphs",
+      "level": 2,
+      "start_line": 1015
+    },
+    {
+      "anchor": "where-n-number-of-bubble-per-unit",
+      "end_line": 1017,
+      "heading": "Where N = Number Of Bubble Per Unit",
+      "level": 2,
+      "start_line": 1017
+    },
+    {
+      "anchor": "volume-from-photos-raphs",
+      "end_line": 1018,
+      "heading": "Volume From Photos Raphs",
+      "level": 2,
+      "start_line": 1018
+    },
+    {
+      "anchor": "volume-fraction-occupied-by",
+      "end_line": 1019,
+      "heading": "Φ = Volume Fraction Occupied By",
+      "level": 2,
+      "start_line": 1019
+    },
+    {
+      "anchor": "the-bubble",
+      "end_line": 1020,
+      "heading": "The Bubble",
+      "level": 2,
+      "start_line": 1020
+    },
+    {
+      "anchor": "run-numbers-shown-are-identified",
+      "end_line": 1021,
+      "heading": "Run Numbers Shown Are Identified",
+      "level": 2,
+      "start_line": 1021
+    },
+    {
+      "anchor": "el-sewhere",
+      "end_line": 1043,
+      "heading": "El Sewhere",
+      "level": 2,
+      "start_line": 1022
+    },
+    {
+      "anchor": "summary-of-experimental-procedure",
+      "end_line": 1089,
+      "heading": "Summary of Experimental Procedure",
+      "level": 1,
+      "start_line": 1044
+    },
+    {
+      "anchor": "photo-1854-71",
+      "end_line": 1096,
+      "heading": "Photo 1854-71",
+      "level": 2,
+      "start_line": 1090
+    },
+    {
+      "anchor": "chapter-iv",
+      "end_line": 1098,
+      "heading": "CHAPTER IV",
+      "level": 1,
+      "start_line": 1097
+    },
+    {
+      "anchor": "experimental-results",
+      "end_line": 1102,
+      "heading": "EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 1099
+    },
+    {
+      "anchor": "unadjusted-results",
+      "end_line": 1112,
+      "heading": "Unadjusted Results",
+      "level": 1,
+      "start_line": 1103
+    },
+    {
+      "anchor": "equivalence-of-horizontal-and-vertical-flow-mass-transfer",
+      "end_line": 1214,
+      "heading": "Equivalence of Horizontal and Vertical Flow Mass Transfer",
+      "level": 1,
+      "start_line": 1113
+    },
+    {
+      "anchor": "vertical-orientation-low-flow-asymptotes",
+      "end_line": 1234,
+      "heading": "Vertical Orientation Low-Flow Asymptotes",
+      "level": 1,
+      "start_line": 1215
+    },
+    {
+      "anchor": "mass-transfer-coefficients",
+      "end_line": 1259,
+      "heading": "Mass-Transfer Coefficients",
+      "level": 1,
+      "start_line": 1235
+    },
+    {
+      "anchor": "calculating-vertical-flow-mass-transfer-coefficients",
+      "end_line": 1278,
+      "heading": "Calculating Vertical Flow Mass-Transfer Coefficients",
+      "level": 1,
+      "start_line": 1260
+    },
+    {
+      "anchor": "comparison-with-agitated-vessels",
+      "end_line": 1289,
+      "heading": "Comparison with Agitated Vessels",
+      "level": 1,
+      "start_line": 1279
+    },
+    {
+      "anchor": "recommended-correlations",
+      "end_line": 1319,
+      "heading": "Recommended Correlations",
+      "level": 1,
+      "start_line": 1290
+    },
+    {
+      "anchor": "chapter-v",
+      "end_line": 1321,
+      "heading": "CHAPTER V",
+      "level": 1,
+      "start_line": 1320
+    },
+    {
+      "anchor": "theoretical-considerations",
+      "end_line": 1327,
+      "heading": "THEORETICAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 1322
+    },
+    {
+      "anchor": "turbulence-interaction-model",
+      "end_line": 1363,
+      "heading": "Turbulence Interaction Model",
+      "level": 1,
+      "start_line": 1328
+    },
+    {
+      "anchor": "regime-1-mathbf-re-mathfrak-b-leq-2",
+      "end_line": 1403,
+      "heading": "Regime-1: $\\mathbf{Re}_{\\mathfrak{b}}\\leq 2$",
+      "level": 1,
+      "start_line": 1364
+    },
+    {
+      "anchor": "regime-2-mathsf-re-mathsf-b-2",
+      "end_line": 1431,
+      "heading": "Regime-2: $\\mathsf{Re}_{\\mathsf{b}} > 2$",
+      "level": 1,
+      "start_line": 1404
+    },
+    {
+      "anchor": "surface-renewal-model",
+      "end_line": 1694,
+      "heading": "Surface Renewal Model",
+      "level": 1,
+      "start_line": 1432
+    },
+    {
+      "anchor": "chapter-vi",
+      "end_line": 1696,
+      "heading": "CHAPTER VI",
+      "level": 1,
+      "start_line": 1695
+    },
+    {
+      "anchor": "summary-and-conclusions",
+      "end_line": 1788,
+      "heading": "SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 1697
+    },
+    {
+      "anchor": "chapter-vii",
+      "end_line": 1790,
+      "heading": "CHAPTER VII",
+      "level": 1,
+      "start_line": 1789
+    },
+    {
+      "anchor": "recommendations-for-further-study",
+      "end_line": 1792,
+      "heading": "RECOMMENDATIONS FOR FURTHER STUDY",
+      "level": 1,
+      "start_line": 1791
+    },
+    {
+      "anchor": "experimental",
+      "end_line": 1806,
+      "heading": "Experimental",
+      "level": 1,
+      "start_line": 1793
+    },
+    {
+      "anchor": "theoretical",
+      "end_line": 1820,
+      "heading": "Theoretical",
+      "level": 1,
+      "start_line": 1807
+    },
+    {
+      "anchor": "list-of-references",
+      "end_line": 1890,
+      "heading": "LIST OF REFERENCES",
+      "level": 1,
+      "start_line": 1821
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1892,
+      "heading": "Appendix A",
+      "level": 2,
+      "start_line": 1891
+    },
+    {
+      "anchor": "physical-properties-of-aqueous-clycerol-mixtures",
+      "end_line": 1909,
+      "heading": "Physical Properties Of Aqueous-Clycerol Mixtures",
+      "level": 2,
+      "start_line": 1893
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1911,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 1910
+    },
+    {
+      "anchor": "derivation-of-equations-for-concentration-changes",
+      "end_line": 1913,
+      "heading": "DERIVATION OF EQUATIONS FOR CONCENTRATION CHANGES",
+      "level": 1,
+      "start_line": 1912
+    },
+    {
+      "anchor": "across-a-gas-liquid-contactor",
+      "end_line": 2013,
+      "heading": "ACROSS A GAS-LIQUID CONTACTOR",
+      "level": 1,
+      "start_line": 1914
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 2015,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 2014
+    },
+    {
+      "anchor": "instrument-application-drawing",
+      "end_line": 2056,
+      "heading": "INSTRUMENT APPLICATION DRAWING",
+      "level": 1,
+      "start_line": 2016
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 2058,
+      "heading": "APPENDIX E",
+      "level": 1,
+      "start_line": 2057
+    },
+    {
+      "anchor": "evaluation-of-effect-of-oxygen-sensor-response-speed-on-the-measured-transient-response-of-the-system",
+      "end_line": 2094,
+      "heading": "EVALUATION OF EFFECT OF OXYGEN SENSOR RESPONSE SPEED ON THE MEASURED TRANSIENT RESPONSE OF THE SYSTEM",
+      "level": 1,
+      "start_line": 2059
+    },
+    {
+      "anchor": "130",
+      "end_line": 2108,
+      "heading": "130",
+      "level": 1,
+      "start_line": 2095
+    },
+    {
+      "anchor": "appendix-f",
+      "end_line": 2110,
+      "heading": "APPENDIX F",
+      "level": 1,
+      "start_line": 2109
+    },
+    {
+      "anchor": "mass-balances-for-the-surface-renewal-model",
+      "end_line": 2118,
+      "heading": "MASS BALANCES FOR THE SURFACE RENEWAL MODEL",
+      "level": 1,
+      "start_line": 2111
+    },
+    {
+      "anchor": "convection",
+      "end_line": 2132,
+      "heading": "Convection",
+      "level": 1,
+      "start_line": 2119
+    },
+    {
+      "anchor": "diffusion",
+      "end_line": 2146,
+      "heading": "Diffusion",
+      "level": 1,
+      "start_line": 2133
+    },
+    {
+      "anchor": "storage",
+      "end_line": 2188,
+      "heading": "Storage",
+      "level": 1,
+      "start_line": 2147
+    },
+    {
+      "anchor": "estimate-of-error-due-to-end-effect-adjustments",
+      "end_line": 2252,
+      "heading": "ESTIMATE OF ERROR DUE TO END-EFFECT ADJUSTMENTS",
+      "level": 1,
+      "start_line": 2189
+    },
+    {
+      "anchor": "appendix-h",
+      "end_line": 2254,
+      "heading": "Appendix H",
+      "level": 2,
+      "start_line": 2253
+    },
+    {
+      "anchor": "mass-transfer-data",
+      "end_line": 2322,
+      "heading": "Mass Transfer Data",
+      "level": 2,
+      "start_line": 2255
+    },
+    {
+      "anchor": "ornl-dwg-71-7981",
+      "end_line": 2333,
+      "heading": "Ornl-Dwg 71-7981",
+      "level": 2,
+      "start_line": 2323
+    },
+    {
+      "anchor": "list-of-symbols",
+      "end_line": 2475,
+      "heading": "LIST OF SYMBOLS",
+      "level": 1,
+      "start_line": 2334
+    },
+    {
+      "anchor": "greek-symbols",
+      "end_line": 2485,
+      "heading": "Greek Symbols",
+      "level": 1,
+      "start_line": 2476
+    },
+    {
+      "anchor": "dimensionless-quantities",
+      "end_line": 2513,
+      "heading": "Dimensionless Quantities",
+      "level": 1,
+      "start_line": 2486
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2669,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2514
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2684,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2670
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3718",
+  "tables": [],
+  "title": "![](images/bf6b765dcde8655ab98c9773a0ef76b278184e6e491e3c65859aae14bfb70462.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

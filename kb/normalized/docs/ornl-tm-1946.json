@@ -1,0 +1,450 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "R. S. Carlsmith",
+    "L. L. Bennett",
+    "G. E. Edison",
+    "E. H. Gift",
+    "W.E.Thomas"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1946.jsonl",
+  "date_text": "August 16, 1967",
+  "doc_id": "ornl-tm-1946",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 12,
+        "line_hits": [
+          130,
+          138,
+          194,
+          255,
+          306,
+          398,
+          406,
+          412,
+          445,
+          449,
+          458,
+          460
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          143,
+          165,
+          194,
+          232,
+          247,
+          249
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          194,
+          228,
+          247
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          445,
+          458
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          194,
+          227
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          445,
+          458,
+          468
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 18,
+        "line_hits": [
+          15,
+          107,
+          141,
+          176,
+          253,
+          254,
+          255,
+          261,
+          265,
+          269,
+          270,
+          272,
+          274,
+          278,
+          282,
+          283,
+          284,
+          522
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          7,
+          17,
+          43,
+          85,
+          107,
+          176,
+          262,
+          278,
+          282,
+          296,
+          311,
+          389,
+          391,
+          481,
+          489,
+          503,
+          518,
+          522
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          9
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 34,
+        "line_hits": [
+          91,
+          95,
+          134,
+          140,
+          149,
+          157,
+          161,
+          163,
+          166,
+          180,
+          182,
+          298,
+          300,
+          308,
+          323,
+          325,
+          326,
+          327,
+          329,
+          335,
+          337,
+          373,
+          375,
+          379,
+          383,
+          385,
+          425,
+          429,
+          431,
+          445,
+          449,
+          460,
+          485,
+          503
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          39,
+          83,
+          107,
+          151,
+          180,
+          182,
+          188,
+          204,
+          331,
+          385,
+          387,
+          454,
+          474,
+          477,
+          522
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          176
+        ],
+        "name": "MSCR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          176
+        ],
+        "name": "converter reactor"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "59d73cf17f2f8620c31acc0c9c342dfa63fa8aa4e538d9af24a72ac5bd42e167",
+  "markdown_path": "pdf/ORNL-TM-1946/ORNL-TM-1946/hybrid_ocr/ORNL-TM-1946.md",
+  "report_number": "ORNL-TM-1946",
+  "report_numbers": [
+    "ORNL-TM-1946",
+    "ORNL-TM-1467",
+    "ORNL-TM-1060"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 29,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory-operated-by",
+      "end_line": 8,
+      "heading": "OAK RIDGE NATIONAL LABORATORY operated by",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 10,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 14,
+      "heading": "NUCLEAR DIVISION",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 16,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ornl-tm-1946",
+      "end_line": 18,
+      "heading": "Ornl-Tm-1946",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "copy-no-1",
+      "end_line": 22,
+      "heading": "Copy No. - 1",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "review-of-molten-salt-reactor-physics-calculations",
+      "end_line": 36,
+      "heading": "Review Of Molten Salt Reactor Physics Calculations",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 44,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 53,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "contents",
+      "end_line": 72,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 80,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 104,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "references",
+      "end_line": 109,
+      "heading": "References",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "2-summary-of-results-and-recommendations",
+      "end_line": 111,
+      "heading": "2. SUMMARY OF RESULTS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "summary-of-results",
+      "end_line": 158,
+      "heading": "Summary of Results",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "recommendations",
+      "end_line": 172,
+      "heading": "Recommendations",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "references",
+      "end_line": 177,
+      "heading": "References",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "3-cross-sections",
+      "end_line": 250,
+      "heading": "3. CROSS SECTIONS",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "references",
+      "end_line": 291,
+      "heading": "References",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "4-fission-product-treatment",
+      "end_line": 380,
+      "heading": "4. FISSION PRODUCT TREATMENT",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "5-cell-calculations",
+      "end_line": 388,
+      "heading": "5. CELL CALCULATIONS",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "ornl-dwg-66-8064",
+      "end_line": 390,
+      "heading": "Ornl Dwg. 66-8064",
+      "level": 2,
+      "start_line": 389
+    },
+    {
+      "anchor": "ornl-dwg-66-8065",
+      "end_line": 442,
+      "heading": "Ornl Dwg. 66-8065",
+      "level": 2,
+      "start_line": 391
+    },
+    {
+      "anchor": "6-two-dimensional-calculations",
+      "end_line": 478,
+      "heading": "6. TWO-DIMENSIONAL CALCULATIONS",
+      "level": 1,
+      "start_line": 443
+    },
+    {
+      "anchor": "references",
+      "end_line": 482,
+      "heading": "References",
+      "level": 1,
+      "start_line": 479
+    },
+    {
+      "anchor": "7-depletion-calculations",
+      "end_line": 519,
+      "heading": "7. DEPLETION CALCULATIONS",
+      "level": 1,
+      "start_line": 483
+    },
+    {
+      "anchor": "references",
+      "end_line": 523,
+      "heading": "References",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 525,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "1-5-dtie-or",
+      "end_line": 538,
+      "heading": "1-5. Dtie, Or",
+      "level": 2,
+      "start_line": 526
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1946",
+  "tables": [],
+  "title": "![](images/5a83f5d8dd8391206164d810965398f34261c54ef5391fe8eb9338e1be1ea356.jpg)",
+  "topics": [
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "graphite-and-moderator-behavior",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "fuel-processing-and-reprocessing",
+    "program-history"
+  ],
+  "warnings": []
+}

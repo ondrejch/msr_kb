@@ -1,0 +1,297 @@
+{
+  "authors": [
+    "REACTORS",
+    "INTRODUCTION"
+  ],
+  "claims_path": "kb/normalized/claims/engineering-development-of-the-msbr-fuel-recycle.jsonl",
+  "date_text": "August 4, 1969",
+  "doc_id": "engineering-development-of-the-msbr-fuel-recycle",
+  "document_type": "paper",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          18,
+          103,
+          159
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          70,
+          75,
+          95
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          66,
+          95
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          18
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          24
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          103
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 16,
+        "line_hits": [
+          3,
+          12,
+          16,
+          155,
+          169,
+          174,
+          175,
+          177,
+          180,
+          181,
+          183,
+          184,
+          185,
+          187,
+          188,
+          189
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          169,
+          174,
+          175,
+          177,
+          180,
+          181,
+          183,
+          184,
+          185,
+          187,
+          188,
+          189
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          169
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 17,
+        "line_hits": [
+          12,
+          18,
+          20,
+          66,
+          68,
+          79,
+          84,
+          91,
+          99,
+          103,
+          107,
+          111,
+          143,
+          157,
+          159,
+          161,
+          169
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          1,
+          10,
+          12,
+          16,
+          68,
+          73,
+          82,
+          89,
+          95,
+          103,
+          161,
+          163,
+          165,
+          173,
+          176,
+          189
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          93,
+          103,
+          182
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          12,
+          18,
+          38,
+          66
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          24,
+          129
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          91
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "29c926053d0c41765e243ac2df28f37457b32bf04c7495fa67534be12ffbbe57",
+  "markdown_path": "pdf/NAT_MSBRrecycle/NAT_MSBRrecycle/hybrid_ocr/NAT_MSBRrecycle.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "natural-language-summaries",
+  "section_count": 11,
+  "sections": [
+    {
+      "anchor": "engineering-development-of-the-msbr-fuel-recycle",
+      "end_line": 7,
+      "heading": "ENGINEERING DEVELOPMENT OF THE MSBR FUEL RECYCLE",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "reactors",
+      "end_line": 13,
+      "heading": "Reactors",
+      "level": 2,
+      "start_line": 8
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 21,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 14
+    },
+    {
+      "anchor": "chemistry-of-the-reductive-extraction-process",
+      "end_line": 76,
+      "heading": "CHEMISTRY OF THE REDUCTIVE EXTRACTION PROCESS",
+      "level": 1,
+      "start_line": 22
+    },
+    {
+      "anchor": "the-conceptual-process-flow-sheet",
+      "end_line": 104,
+      "heading": "THE CONCEPTUAL PROCESS FLOW SHEET",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "protactinium-isolation-system-calculations",
+      "end_line": 121,
+      "heading": "PROTACTINIUM ISOLATION SYSTEM CALCULATIONS",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "the-electrolytic-cells",
+      "end_line": 146,
+      "heading": "THE ELECTROLYTIC CELLS",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "extractors",
+      "end_line": 152,
+      "heading": "EXTRACTORS",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "status-of-the-development-work",
+      "end_line": 166,
+      "heading": "STATUS OF THE DEVELOPMENT WORK",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 170,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "references",
+      "end_line": 190,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 171
+    }
+  ],
+  "source_dir": "pdf/NAT_MSBRrecycle",
+  "tables": [],
+  "title": "ENGINEERING DEVELOPMENT OF THE MSBR FUEL RECYCLE",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "program-history",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

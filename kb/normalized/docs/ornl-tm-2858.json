@@ -1,0 +1,324 @@
+{
+  "authors": [
+    "H. E. McCoy",
+    "R. W. Gunkel",
+    "G. M. Slaughter",
+    "LEGAL NOTICE",
+    "MASTER"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2858.jsonl",
+  "date_text": "1970",
+  "doc_id": "ornl-tm-2858",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          22,
+          74,
+          80,
+          92,
+          161,
+          184,
+          186,
+          198,
+          206
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          80
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          582
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "organization": [
+      {
+        "count": 27,
+        "line_hits": [
+          48,
+          556,
+          557,
+          558,
+          560,
+          561,
+          562,
+          563,
+          564,
+          565,
+          566,
+          567,
+          570,
+          571,
+          573,
+          574,
+          576,
+          577,
+          578,
+          579,
+          580,
+          581,
+          583,
+          584,
+          585,
+          586,
+          588
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          38,
+          216,
+          220,
+          222,
+          556,
+          557,
+          567,
+          570
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          44
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 13,
+        "line_hits": [
+          78,
+          84,
+          92,
+          111,
+          113,
+          144,
+          146,
+          157,
+          192,
+          194,
+          198,
+          206,
+          210
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          80,
+          84,
+          86,
+          92,
+          121,
+          122,
+          132,
+          137,
+          176,
+          181,
+          184
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          78,
+          92,
+          142,
+          198
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          92
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f83fef7dd3f00ffca205c2dcb158097271ad6b7ccce5c1b1d23256c353e3960d",
+  "markdown_path": "pdf/ORNL-TM-2858/ORNL-TM-2858/hybrid_ocr/ORNL-TM-2858.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 20,
+  "sections": [
+    {
+      "anchor": "tensile-properties-of-hastelloy-n-welded-after-irradiation",
+      "end_line": 6,
+      "heading": "Tensile Properties Of Hastelloy N Welded After Irradiation",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 17,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 19,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "master",
+      "end_line": 21,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "tensile-properties-of-hastelloy-n-welded-after-irradiation",
+      "end_line": 25,
+      "heading": "Tensile Properties Of Hastelloy N Welded After Irradiation",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 35,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 26
+    },
+    {
+      "anchor": "april-1970",
+      "end_line": 37,
+      "heading": "April 1970",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 43,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 47,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 49,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "contents",
+      "end_line": 71,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 75,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 81,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "experimental-details",
+      "end_line": 106,
+      "heading": "EXPERIMENTAL DETAILS",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "experimental-results",
+      "end_line": 158,
+      "heading": "EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "discussion-of-results",
+      "end_line": 195,
+      "heading": "DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "summary",
+      "end_line": 207,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 211,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 551,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 589,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 552
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2858",
+  "tables": [],
+  "title": "TENSILE PROPERTIES OF HASTELLOY N WELDED AFTER IRRADIATION",
+  "topics": [
+    "materials-and-corrosion",
+    "irradiation-and-damage",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "program-history"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

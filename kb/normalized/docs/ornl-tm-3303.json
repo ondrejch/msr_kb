@@ -1,0 +1,369 @@
+{
+  "authors": [
+    "REACTOR",
+    "R. L. Moore",
+    "Keywords: Development",
+    "MSRE",
+    "MSBE",
+    "MSBR",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3303.jsonl",
+  "date_text": "May 1967",
+  "doc_id": "ornl-tm-3303",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          106
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 7,
+        "line_hits": [
+          80,
+          94,
+          112,
+          116,
+          128,
+          138,
+          140
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          80,
+          112,
+          116
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          46,
+          98
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          112
+        ],
+        "name": "salt pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          15,
+          34,
+          239,
+          240,
+          241,
+          243,
+          245
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          11,
+          64,
+          66,
+          235
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 30,
+        "line_hits": [
+          11,
+          13,
+          38,
+          42,
+          44,
+          50,
+          52,
+          56,
+          60,
+          64,
+          68,
+          70,
+          72,
+          74,
+          80,
+          90,
+          94,
+          98,
+          100,
+          104,
+          110,
+          120,
+          126,
+          128,
+          132,
+          136,
+          138,
+          140,
+          150,
+          156
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 27,
+        "line_hits": [
+          13,
+          38,
+          42,
+          48,
+          50,
+          52,
+          56,
+          60,
+          62,
+          68,
+          70,
+          78,
+          80,
+          92,
+          100,
+          102,
+          110,
+          112,
+          114,
+          120,
+          126,
+          136,
+          138,
+          140,
+          150,
+          154,
+          156
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          11,
+          42,
+          46,
+          50,
+          60,
+          62,
+          66,
+          72,
+          74,
+          80,
+          94,
+          104,
+          116,
+          118,
+          124,
+          136,
+          138,
+          140,
+          144,
+          156
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          11,
+          42
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          13
+        ],
+        "name": "MSBE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          13
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3bfab6611077248fba185b5d17d3f645d3a0fc9f6e6533be4f677d439990c2d8",
+  "markdown_path": "pdf/ORNL-TM-3303/ORNL-TM-3303/hybrid_ocr/ORNL-TM-3303.md",
+  "report_number": "ORNL-TM-1856",
+  "report_numbers": [
+    "ORNL-TM-1856"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 19,
+  "sections": [
+    {
+      "anchor": "further-discussion-of-instrumentation-and-controls",
+      "end_line": 2,
+      "heading": "FURTHER DISCUSSION OF INSTRUMENTATION AND CONTROLS",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "development-needed-for-the-molten-salt-breeder",
+      "end_line": 4,
+      "heading": "DEVELOPMENT NEEDED FOR THE MOLTEN SALT BREEDER",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "reactor",
+      "end_line": 8,
+      "heading": "Reactor",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 16,
+      "heading": "Abstract",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "contents",
+      "end_line": 31,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "notice",
+      "end_line": 35,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 39,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "2-general-comments",
+      "end_line": 53,
+      "heading": "2. GENERAL COMMENTS",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "3-temperature-measurement",
+      "end_line": 75,
+      "heading": "3. TEMPERATURE MEASUREMENT",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "4-pressure-measurement",
+      "end_line": 87,
+      "heading": "4. PRESSURE MEASUREMENT",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "5-differential-pressure-measurement",
+      "end_line": 95,
+      "heading": "5. DIFFERENTIAL PRESSURE MEASUREMENT",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "6-flow-measurement",
+      "end_line": 107,
+      "heading": "6. FLOW MEASUREMENT",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "7-level-measurement",
+      "end_line": 129,
+      "heading": "7. LEVEL MEASUREMENT",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "8-salt-inventory-measurement",
+      "end_line": 147,
+      "heading": "8. SALT INVENTORY MEASUREMENT",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "9-containment-penetration-seals",
+      "end_line": 151,
+      "heading": "9. CONTAINMENT PENETRATION SEALS",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "10-gas-system-control-valves",
+      "end_line": 157,
+      "heading": "10. GAS-SYSTEM CONTROL VALVES",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 236,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 245,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "89-103-dtie",
+      "end_line": 246,
+      "heading": "89-103. Dtie",
+      "level": 2,
+      "start_line": 246
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3303",
+  "tables": [],
+  "title": "FURTHER DISCUSSION OF INSTRUMENTATION AND CONTROLS",
+  "topics": [
+    "instrumentation-and-controls",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

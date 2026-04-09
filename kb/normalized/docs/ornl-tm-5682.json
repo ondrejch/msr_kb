@@ -1,0 +1,530 @@
+{
+  "authors": [
+    "M. D. Silverman",
+    "J. R. Engel",
+    "U.S. Department of Commerce"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-5682.jsonl",
+  "date_text": "January 18, 1977",
+  "doc_id": "ornl-tm-5682",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          212,
+          214,
+          242
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          234,
+          246
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          212,
+          226
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          230,
+          238
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          230
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          242,
+          244,
+          252,
+          291
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          226,
+          242,
+          263
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          252,
+          259
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          224,
+          240
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          263
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          224
+        ],
+        "name": "salt pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          9,
+          41,
+          271,
+          302,
+          303,
+          419
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          224,
+          306,
+          319,
+          449,
+          460
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          291,
+          463
+        ],
+        "name": "Foster Wheeler"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          11,
+          47
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          326
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 33,
+        "line_hits": [
+          87,
+          91,
+          95,
+          99,
+          101,
+          103,
+          105,
+          107,
+          115,
+          117,
+          119,
+          121,
+          129,
+          138,
+          140,
+          157,
+          166,
+          188,
+          202,
+          206,
+          220,
+          230,
+          234,
+          238,
+          240,
+          242,
+          244,
+          252,
+          256,
+          261,
+          263,
+          287,
+          290
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          66,
+          113,
+          210
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          291
+        ],
+        "name": "MSBR"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "27091c798b3c86001e5f1ac404b36353c9c5a23574af3113102ab398f5458410",
+  "markdown_path": "pdf/ORNL-TM-5682/ORNL-TM-5682/hybrid_ocr/ORNL-TM-5682.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 42,
+  "sections": [
+    {
+      "anchor": "survey-of-technology-for-storage-of-thermal-energy-in-heat-transfer-salt",
+      "end_line": 8,
+      "heading": "Survey of Technology for Storage of Thermal Energy in Heat Transfer Salt",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "survey-of-technology-for-storage-of-thermal-energy-in-heat-transfer-salt",
+      "end_line": 34,
+      "heading": "Survey Of Technology For Storage Of Thermal Energy In Heat Transfer Salt",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "notice",
+      "end_line": 40,
+      "heading": "-Notice",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 46,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 50,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 52,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "contents",
+      "end_line": 54,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 56,
+      "heading": "ABSTRACT 1",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 57,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "2-properties-of-hts-and-alternative-salt-mixtures-5",
+      "end_line": 59,
+      "heading": "2. PROPERTIES OF HTS AND ALTERNATIVE SALT MIXTURES 5",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "2-1-hts-5",
+      "end_line": 63,
+      "heading": "2.1 HTS 5",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "3-material-compatibility-12",
+      "end_line": 68,
+      "heading": "3. MATERIAL COMPATIBILITY 12",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "4-equipment-used-in-industrial-hts-systems-15",
+      "end_line": 69,
+      "heading": "4. EQUIPMENT USED IN INDUSTRIAL HTS SYSTEMS 15",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "5-conceptual-systems-for-thermal-energy-utilization-involving-nitrate-salts-17",
+      "end_line": 74,
+      "heading": "5. CONCEPTUAL SYSTEMS FOR THERMAL ENERGY UTILIZATION INVOLVING NITRATE SALTS 17",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "6-conclusions-21",
+      "end_line": 76,
+      "heading": "6. CONCLUSIONS 21",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "references-23",
+      "end_line": 80,
+      "heading": "REFERENCES 23",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "survey-of-technology-for-storage-of-thermal-energy-in-heat-transfer-salt",
+      "end_line": 84,
+      "heading": "SURVEY OF TECHNOLOGY FOR STORAGE OF THERMAL ENERGY IN HEAT TRANSFER SALT",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 88,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 122,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "2-properties-of-hts-and-alternative-salt-mixtures",
+      "end_line": 124,
+      "heading": "2. PROPERTIES OF HTS AND ALTERNATIVE SALT MIXTURES",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "2-1-hts",
+      "end_line": 126,
+      "heading": "2.1 HTS",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "physical-properties",
+      "end_line": 143,
+      "heading": "Physical properties",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "chemical-properties",
+      "end_line": 161,
+      "heading": "Chemical properties",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "effect-of-impurities",
+      "end_line": 177,
+      "heading": "Effect of impurities",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "cover-gases",
+      "end_line": 189,
+      "heading": "Cover gases",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "2-2-alternative-salts",
+      "end_line": 203,
+      "heading": "2.2 Alternative Salts",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "2-3-summary",
+      "end_line": 207,
+      "heading": "2.3 Summary",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "3-material-compatibility",
+      "end_line": 209,
+      "heading": "3. MATERIAL COMPATIBILITY",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "3-1-state-of-the-art",
+      "end_line": 215,
+      "heading": "3.1 State of the Art",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "3-2-available-corrosion-data",
+      "end_line": 217,
+      "heading": "3.2 Available Corrosion Data",
+      "level": 1,
+      "start_line": 216
+    },
+    {
+      "anchor": "carbon-steel",
+      "end_line": 227,
+      "heading": "Carbon steel",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "alloy-steels",
+      "end_line": 235,
+      "heading": "Alloy steels",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "4-equipment-used-in-industrial-hts-systems",
+      "end_line": 247,
+      "heading": "4. EQUIPMENT USED IN INDUSTRIAL HTS SYSTEMS",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "5-conceptual-systems-for-thermal-energy-utilization-involving-nitrate-salts",
+      "end_line": 249,
+      "heading": "5. CONCEPTUAL SYSTEMS FOR THERMAL ENERGY UTILIZATION INVOLVING NITRATE SALTS",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "5-1-power-generation-systems",
+      "end_line": 264,
+      "heading": "5.1 Power-Generation Systems",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "5-2-other-applications",
+      "end_line": 270,
+      "heading": "5.2 Other Applications",
+      "level": 1,
+      "start_line": 265
+    },
+    {
+      "anchor": "ornl-dwg-76-20783",
+      "end_line": 280,
+      "heading": "Ornl-Dwg 76-20783",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "6-conclusions",
+      "end_line": 292,
+      "heading": "6. CONCLUSIONS",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "references",
+      "end_line": 328,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 428,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 470,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 429
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-5682",
+  "tables": [],
+  "title": "![](images/70c0c27f9a692cb026f0224e45db71674f309ffd7b7fe01af09e3fce72eb4f98.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

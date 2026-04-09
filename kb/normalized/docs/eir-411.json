@@ -1,0 +1,710 @@
+{
+  "authors": [
+    "M. Taube",
+    "W. Heer",
+    "Zusammenfassung.",
+    "INIS DESCRIPTORS",
+    "MOLTEN SALT REACTORS",
+    "FISSION PRODUCT RELEASE"
+  ],
+  "claims_path": "kb/normalized/claims/eir-411.jsonl",
+  "date_text": "July 1980",
+  "doc_id": "eir-411",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          553,
+          854
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          251
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 10,
+        "line_hits": [
+          87,
+          418,
+          420,
+          462,
+          466,
+          482,
+          625,
+          633,
+          749,
+          751
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          177,
+          996
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          625,
+          849
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          452
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 2,
+        "line_hits": [
+          197,
+          1047
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1044
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1037
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1051
+        ],
+        "name": "EIR"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 32,
+        "line_hits": [
+          25,
+          125,
+          135,
+          204,
+          218,
+          242,
+          263,
+          273,
+          282,
+          308,
+          309,
+          385,
+          516,
+          561,
+          565,
+          583,
+          589,
+          601,
+          617,
+          623,
+          635,
+          645,
+          647,
+          657,
+          673,
+          677,
+          758,
+          762,
+          767,
+          785,
+          799,
+          917
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          50,
+          202
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1047
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1054
+        ],
+        "name": "MSCR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          396,
+          1054
+        ],
+        "name": "converter reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          263
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          263
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 14,
+        "line_hits": [
+          75,
+          198,
+          462,
+          465,
+          522,
+          526,
+          677,
+          680,
+          682,
+          702,
+          714,
+          718,
+          1050,
+          1053
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          197,
+          1058
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "fd948c8ee1b3eaeb0916825defbd5170ae0a78c33198ec8ed7b094dca06786af",
+  "markdown_path": "pdf/EIR-411/EIR-411/hybrid_ocr/EIR-411.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "eir-series",
+  "section_count": 66,
+  "sections": [
+    {
+      "anchor": "reactor-with-very-low-fission-product-inventory",
+      "end_line": 22,
+      "heading": "Reactor with very low fission product inventory",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 26,
+      "heading": "Abstract.",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "zusammenfassung",
+      "end_line": 30,
+      "heading": "Zusammenfassung.",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "inis-descriptors",
+      "end_line": 32,
+      "heading": "INIS DESCRIPTORS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "molten-salt-reactors",
+      "end_line": 34,
+      "heading": "Molten Salt Reactors",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "fission-product-release",
+      "end_line": 36,
+      "heading": "Fission Product Release",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "after-heat-removal",
+      "end_line": 38,
+      "heading": "After Heat Removal",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "reactor-safety",
+      "end_line": 40,
+      "heading": "Reactor Safety",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "loss-of-coolant",
+      "end_line": 42,
+      "heading": "Loss Of Coolant",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "melt-down",
+      "end_line": 44,
+      "heading": "Melt Down",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "contents",
+      "end_line": 46,
+      "heading": "Contents.",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 53,
+      "heading": "1. Introduction",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "2-accidental-release-of-fission-products-and-decay",
+      "end_line": 60,
+      "heading": "2. Accidental release of fission products and decay",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "3-principles-of-the-soft-reactor-19",
+      "end_line": 66,
+      "heading": "3. Principles of the \"SOFT\" Reactor 19",
+      "level": 1,
+      "start_line": 61
+    },
+    {
+      "anchor": "4-nuclear-calculations-26",
+      "end_line": 71,
+      "heading": "4. Nuclear calculations 26",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "5-continuous-extraction-of-fission-products-28",
+      "end_line": 104,
+      "heading": "5. Continuous extraction of fission products. 28",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 106,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "1-1-present-position",
+      "end_line": 291,
+      "heading": "1.1 Present position",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "trends-in-the-present",
+      "end_line": 293,
+      "heading": "Trends In The Present",
+      "level": 2,
+      "start_line": 292
+    },
+    {
+      "anchor": "development-of-the",
+      "end_line": 295,
+      "heading": "Development Of The",
+      "level": 2,
+      "start_line": 294
+    },
+    {
+      "anchor": "reactor-technology",
+      "end_line": 299,
+      "heading": "Reactor Technology",
+      "level": 2,
+      "start_line": 296
+    },
+    {
+      "anchor": "different-reactor-types-and-the",
+      "end_line": 300,
+      "heading": "Different Reactor Types And The",
+      "level": 2,
+      "start_line": 300
+    },
+    {
+      "anchor": "safety-problems",
+      "end_line": 310,
+      "heading": "Safety Problems",
+      "level": 2,
+      "start_line": 301
+    },
+    {
+      "anchor": "2-accidental-release-of-fission-products-and-decay-heat-removal",
+      "end_line": 323,
+      "heading": "2. ACCIDENTAL RELEASE OF FISSION PRODUCTS AND DECAY HEAT REMOVAL",
+      "level": 2,
+      "start_line": 311
+    },
+    {
+      "anchor": "2-2-the-problem",
+      "end_line": 329,
+      "heading": "2.2 The Problem",
+      "level": 1,
+      "start_line": 324
+    },
+    {
+      "anchor": "soft-reactor-versus-conventional-reactor",
+      "end_line": 380,
+      "heading": "SOFT'REACTOR VERSUS CONVENTIONAL REACTOR",
+      "level": 1,
+      "start_line": 330
+    },
+    {
+      "anchor": "3-principles-of-the-soft-reactor",
+      "end_line": 382,
+      "heading": "3. PRINCIPLES OF THE 'SOFT' REACTOR",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "3-1-a-schematic-view",
+      "end_line": 391,
+      "heading": "3.1 A Schematic View",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "3-2-system-description",
+      "end_line": 398,
+      "heading": "3.2 System Description",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "scheme-of",
+      "end_line": 400,
+      "heading": "Scheme Of",
+      "level": 2,
+      "start_line": 399
+    },
+    {
+      "anchor": "soft-reactor",
+      "end_line": 477,
+      "heading": "Soft-Reactor",
+      "level": 2,
+      "start_line": 401
+    },
+    {
+      "anchor": "3-3-mass-flows-and-containments",
+      "end_line": 489,
+      "heading": "3.3 Mass Flows and Containments",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "mass-flow-in-soft",
+      "end_line": 495,
+      "heading": "Mass Flow In \"Soft\"",
+      "level": 2,
+      "start_line": 490
+    },
+    {
+      "anchor": "4-nuclear-calculations",
+      "end_line": 497,
+      "heading": "4. NUCLEAR CALCULATIONS",
+      "level": 1,
+      "start_line": 496
+    },
+    {
+      "anchor": "4-1-the-method",
+      "end_line": 513,
+      "heading": "4.1 The Method",
+      "level": 1,
+      "start_line": 498
+    },
+    {
+      "anchor": "4-2-nuclear-properties-of-soft",
+      "end_line": 517,
+      "heading": "4.2 Nuclear Properties of SOFT",
+      "level": 1,
+      "start_line": 514
+    },
+    {
+      "anchor": "5-continuous-extraction-of-fission-products",
+      "end_line": 519,
+      "heading": "5. CONTINUOUS EXTRACTION OF FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "5-1-general-scheme",
+      "end_line": 525,
+      "heading": "5.1 General Scheme",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "5-2-chemical-state-of-fission-products-in-molten-chlorides",
+      "end_line": 539,
+      "heading": "5.2 Chemical State of Fission Products in Molten Chlorides",
+      "level": 1,
+      "start_line": 526
+    },
+    {
+      "anchor": "simplified-flow-of-fission-products",
+      "end_line": 554,
+      "heading": "Simplified Flow Of Fission Products",
+      "level": 2,
+      "start_line": 540
+    },
+    {
+      "anchor": "5-3-fission-product-volatility-and-gaseous-extraction",
+      "end_line": 614,
+      "heading": "5.3 Fission Product Volatility and Gaseous Extraction",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "5-4-problem-of-delayed-neutron-emitters",
+      "end_line": 637,
+      "heading": "5.4 Problem of Delayed Neutron Emitters",
+      "level": 1,
+      "start_line": 615
+    },
+    {
+      "anchor": "ova-10f-feela111-nekinon-10f-nteris",
+      "end_line": 642,
+      "heading": "制取Ova-10F-Feela111=Nekinon-10F-Nteris",
+      "level": 2,
+      "start_line": 638
+    },
+    {
+      "anchor": "5-5-gas-extraction-rate",
+      "end_line": 674,
+      "heading": "5.5 Gas Extraction Rate",
+      "level": 1,
+      "start_line": 643
+    },
+    {
+      "anchor": "5-6-reprocessing-of-non-volatile-fission-products",
+      "end_line": 699,
+      "heading": "5.6 Reprocessing of Non Volatile Fission Products.",
+      "level": 1,
+      "start_line": 675
+    },
+    {
+      "anchor": "5-7-some-technological-problems",
+      "end_line": 709,
+      "heading": "5.7 Some Technological Problems",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "5-8-possible-reprocessing-technologies",
+      "end_line": 726,
+      "heading": "5.8 Possible Reprocessing Technologies",
+      "level": 1,
+      "start_line": 710
+    },
+    {
+      "anchor": "boiling-point-of-metals-and-chlorides",
+      "end_line": 746,
+      "heading": "Boiling Point Of Metals And Chlorides",
+      "level": 2,
+      "start_line": 727
+    },
+    {
+      "anchor": "6-heat-removal",
+      "end_line": 759,
+      "heading": "6. HEAT REMOVAL",
+      "level": 2,
+      "start_line": 747
+    },
+    {
+      "anchor": "6-2-secondary-circuit",
+      "end_line": 772,
+      "heading": "6.2 Secondary Circuit",
+      "level": 1,
+      "start_line": 760
+    },
+    {
+      "anchor": "6-3-the-tertiary-circuit",
+      "end_line": 782,
+      "heading": "6.3 The Tertiary Circuit",
+      "level": 1,
+      "start_line": 773
+    },
+    {
+      "anchor": "scheme-of-heat-removal",
+      "end_line": 804,
+      "heading": "Scheme Of Heat Removal",
+      "level": 2,
+      "start_line": 783
+    },
+    {
+      "anchor": "7-accidents-problems-and-solutions",
+      "end_line": 838,
+      "heading": "7. ACCIDENTS - PROBLEMS AND SOLUTIONS",
+      "level": 2,
+      "start_line": 805
+    },
+    {
+      "anchor": "7-2-worst-accident-scenarios",
+      "end_line": 890,
+      "heading": "7.2 Worst Accident Scenarios",
+      "level": 1,
+      "start_line": 839
+    },
+    {
+      "anchor": "scenario-of-the-accidents",
+      "end_line": 894,
+      "heading": "Scenario Of The Accidents",
+      "level": 2,
+      "start_line": 891
+    },
+    {
+      "anchor": "scheme-of-the-heat",
+      "end_line": 895,
+      "heading": "Scheme Of The Heat",
+      "level": 2,
+      "start_line": 895
+    },
+    {
+      "anchor": "transport-processes",
+      "end_line": 896,
+      "heading": "Transport Processes",
+      "level": 2,
+      "start_line": 896
+    },
+    {
+      "anchor": "in-the-containment",
+      "end_line": 905,
+      "heading": "In The Containment",
+      "level": 2,
+      "start_line": 897
+    },
+    {
+      "anchor": "7-3-spontaneous-cooling-processes-in-the-containment",
+      "end_line": 970,
+      "heading": "7.3 Spontaneous Cooling Processes in the Containment",
+      "level": 1,
+      "start_line": 906
+    },
+    {
+      "anchor": "7-4-the-prompt-critical-scenario",
+      "end_line": 981,
+      "heading": "7.4 The Prompt Critical Scenario",
+      "level": 1,
+      "start_line": 971
+    },
+    {
+      "anchor": "snr-1154-c",
+      "end_line": 982,
+      "heading": "Snr 1154°C",
+      "level": 2,
+      "start_line": 982
+    },
+    {
+      "anchor": "soft-650-c",
+      "end_line": 986,
+      "heading": "Soft 650°C",
+      "level": 2,
+      "start_line": 983
+    },
+    {
+      "anchor": "snr-0-21-gj-100k",
+      "end_line": 987,
+      "heading": "Snr 0.21 Gj/100K",
+      "level": 2,
+      "start_line": 987
+    },
+    {
+      "anchor": "soft-28-2-gj-100-k",
+      "end_line": 1018,
+      "heading": "Soft 28.2 Gj/100 K",
+      "level": 2,
+      "start_line": 988
+    },
+    {
+      "anchor": "8-conclusions",
+      "end_line": 1032,
+      "heading": "8. CONCLUSIONS.",
+      "level": 1,
+      "start_line": 1019
+    },
+    {
+      "anchor": "references",
+      "end_line": 1059,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1033
+    }
+  ],
+  "source_dir": "pdf/EIR-411",
+  "tables": [],
+  "title": "Eidg. Institut für Reaktorforschung Würenlingen Schweiz",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics",
+    "fuel-processing-and-reprocessing",
+    "pumps-loops-and-heat-exchangers",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,2885 @@
+{
+  "authors": [
+    "CNINRA KUSSEALK",
+    "Document Generation",
+    "LIBRARY LOAN COPY",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4076.jsonl",
+  "date_text": "December 31, 1966",
+  "doc_id": "ornl-4076",
+  "document_type": "progress-report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 85,
+        "line_hits": [
+          287,
+          291,
+          331,
+          337,
+          471,
+          475,
+          479,
+          485,
+          515,
+          519,
+          1469,
+          1792,
+          1812,
+          1820,
+          1828,
+          1830,
+          1832,
+          1842,
+          1848,
+          1852,
+          1862,
+          1876,
+          1901,
+          1980,
+          2013,
+          2078,
+          2101,
+          2103,
+          2109,
+          2111,
+          2113,
+          2115,
+          2117,
+          2119,
+          2121,
+          2122,
+          2124,
+          2126,
+          2130,
+          2135,
+          2157,
+          2159,
+          2180,
+          2927,
+          2971,
+          2979,
+          2983,
+          2989,
+          2991,
+          2993
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 28,
+        "line_hits": [
+          243,
+          399,
+          403,
+          515,
+          988,
+          1419,
+          1469,
+          1485,
+          1489,
+          1499,
+          1544,
+          1718,
+          1724,
+          1728,
+          2376,
+          2382,
+          2614,
+          2620,
+          2622,
+          2624,
+          2626,
+          2643,
+          3169,
+          3179,
+          4528,
+          4533,
+          4561,
+          4565
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 25,
+        "line_hits": [
+          353,
+          355,
+          359,
+          365,
+          1637,
+          1775,
+          1848,
+          1854,
+          2236,
+          2242,
+          2290,
+          2301,
+          2303,
+          2318,
+          2322,
+          2324,
+          2349,
+          2358,
+          3103,
+          4070,
+          4148,
+          4440,
+          4521,
+          4557,
+          4565
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 24,
+        "line_hits": [
+          563,
+          567,
+          2198,
+          2202,
+          3374,
+          3393,
+          3403,
+          3436,
+          3448,
+          3452,
+          3458,
+          3460,
+          3463,
+          3465,
+          3467,
+          3473,
+          3475,
+          3477,
+          3479,
+          3482,
+          3486,
+          3498,
+          3660,
+          4565
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          811,
+          1115,
+          1433,
+          1674,
+          1740,
+          1775,
+          1792,
+          1798,
+          1800,
+          1802,
+          1806,
+          1808,
+          1832,
+          1844,
+          1860,
+          1893,
+          1899,
+          1965,
+          2376,
+          3393,
+          3401,
+          3460
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          331,
+          1828,
+          1832,
+          1844,
+          1848,
+          1860,
+          1862,
+          1864,
+          1876,
+          1976,
+          1978,
+          1980,
+          2080,
+          2109,
+          2137,
+          2151,
+          2155
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          241,
+          1463,
+          1471,
+          1487,
+          1744,
+          4565
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          1674,
+          1858,
+          1893,
+          2386,
+          3243
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          525,
+          3243,
+          3255
+        ],
+        "name": "Hastelloy X"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          2009,
+          2137,
+          3221
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 38,
+        "line_hits": [
+          291,
+          1483,
+          1736,
+          1744,
+          1746,
+          1749,
+          1820,
+          1822,
+          1824,
+          1828,
+          1832,
+          1834,
+          1838,
+          1840,
+          1844,
+          1850,
+          1854,
+          1856,
+          1868,
+          1870,
+          1874,
+          1876,
+          1883,
+          1885,
+          1887,
+          1889,
+          1891,
+          1895,
+          1897,
+          1901,
+          2202,
+          2214,
+          2993,
+          3008,
+          3011,
+          3013,
+          3040,
+          3469
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          325,
+          613,
+          615,
+          1736,
+          1744,
+          1746,
+          1749,
+          2078,
+          2212,
+          2214,
+          3796,
+          3802,
+          3804,
+          3806,
+          3822,
+          3824
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          1822,
+          2080,
+          4180,
+          4186,
+          4378,
+          4381,
+          4385
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 40,
+        "line_hits": [
+          5,
+          27,
+          77,
+          95,
+          97,
+          99,
+          101,
+          103,
+          105,
+          107,
+          179,
+          553,
+          809,
+          972,
+          1879,
+          2149,
+          2659,
+          2663,
+          3060,
+          3061,
+          3062,
+          3073,
+          3095,
+          3197,
+          3233,
+          3322,
+          3376,
+          3410,
+          3561,
+          3709,
+          3847,
+          3986,
+          4051,
+          4103,
+          4168,
+          4429,
+          4557,
+          4565,
+          4575,
+          4579
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          35,
+          87,
+          3853,
+          3863,
+          4037,
+          4043,
+          4340,
+          4397,
+          4561,
+          4565,
+          4751,
+          4753,
+          4754,
+          4755,
+          4756,
+          4758,
+          4760,
+          4761,
+          4763
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          31,
+          83,
+          3095
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          3847,
+          4326
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          4063
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          4561
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 289,
+        "line_hits": [
+          93,
+          149,
+          155,
+          167,
+          173,
+          223,
+          235,
+          365,
+          403,
+          445,
+          451,
+          643,
+          649,
+          701,
+          707,
+          761,
+          771,
+          799,
+          809,
+          811,
+          828,
+          832,
+          846,
+          852,
+          871,
+          881,
+          883,
+          885,
+          887,
+          908,
+          914,
+          916,
+          925,
+          936,
+          950,
+          958,
+          974,
+          982,
+          990,
+          1002,
+          1056,
+          1076,
+          1092,
+          1137,
+          1165,
+          1202,
+          1224,
+          1226,
+          1263,
+          1265
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 63,
+        "line_hits": [
+          205,
+          235,
+          293,
+          295,
+          299,
+          301,
+          305,
+          311,
+          315,
+          321,
+          325,
+          331,
+          761,
+          1135,
+          1179,
+          1185,
+          1194,
+          1445,
+          1637,
+          1644,
+          1820,
+          1832,
+          1834,
+          1903,
+          1905,
+          1911,
+          1917,
+          1941,
+          1945,
+          1951,
+          1955,
+          1961,
+          1963,
+          1967,
+          1974,
+          1978,
+          1980,
+          1982,
+          1986,
+          1988,
+          1992,
+          1996,
+          1998,
+          2013,
+          2017,
+          2021,
+          2023,
+          2043,
+          2070,
+          2074
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          273,
+          333,
+          809,
+          1105,
+          1593,
+          1626,
+          1666,
+          1736,
+          2141,
+          2147,
+          2157,
+          2175
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 101,
+        "line_hits": [
+          115,
+          119,
+          121,
+          125,
+          179,
+          183,
+          199,
+          201,
+          225,
+          243,
+          247,
+          251,
+          261,
+          267,
+          279,
+          285,
+          757,
+          761,
+          771,
+          773,
+          779,
+          781,
+          783,
+          785,
+          791,
+          793,
+          795,
+          797,
+          846,
+          968,
+          972,
+          974,
+          978,
+          982,
+          988,
+          990,
+          1010,
+          1076,
+          1105,
+          1129,
+          1135,
+          1143,
+          1149,
+          1185,
+          1233,
+          1345,
+          1386,
+          1390,
+          1394,
+          1404
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          119,
+          193,
+          231,
+          237,
+          257,
+          263,
+          269,
+          275,
+          1421,
+          1453,
+          1459,
+          1487,
+          1631,
+          1650,
+          1730,
+          1753,
+          1775,
+          1780,
+          1788,
+          1792,
+          4561,
+          4565
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          151,
+          818,
+          846,
+          854,
+          873,
+          877,
+          879,
+          898,
+          900,
+          1233,
+          1386,
+          1483,
+          4553,
+          4561
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          139,
+          143,
+          836,
+          846,
+          848,
+          852,
+          854,
+          1233,
+          1386
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          201,
+          243,
+          783,
+          1408,
+          1489,
+          1499,
+          1532,
+          1969
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          201,
+          783,
+          1969
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          131,
+          809
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          2405,
+          2414
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          195,
+          1969
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          201
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          195
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f76a3669cebae50251615a228e398e2de5b37e14ede441f31bca3cbfb701f55f",
+  "markdown_path": "pdf/ORNL-4076/ORNL-4076/hybrid_ocr/ORNL-4076.md",
+  "report_number": "ORNL-4076",
+  "report_numbers": [
+    "ORNL-4076",
+    "ORNL-2931",
+    "ORNL-3127",
+    "ORNL-3262",
+    "ORNL-3417",
+    "ORNL-3591",
+    "ORNL-3789",
+    "ORNL-3913"
+  ],
+  "report_series": null,
+  "section_count": 299,
+  "sections": [
+    {
+      "anchor": "ornl-4076",
+      "end_line": 8,
+      "heading": "Ornl-4076",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 10,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "annual-progress-report",
+      "end_line": 12,
+      "heading": "Annual Progress Report",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "for-period-ending-december-31-1966",
+      "end_line": 14,
+      "heading": "For Period Ending December 31, 1966",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "cninra-kussealk",
+      "end_line": 18,
+      "heading": "Cninra Kussealk",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 20,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 26,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 30,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 34,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 44,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "reactor-chemistry-division-annual-progress-report",
+      "end_line": 57,
+      "heading": "REACTOR CHEMISTRY DIVISION ANNUAL PROGRESS REPORT",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "for-period-ending-december-31-1966",
+      "end_line": 63,
+      "heading": "For Period Ending December 31, 1966",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "associate-directors",
+      "end_line": 69,
+      "heading": "Associate Directors",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "senior-scientific-advisors",
+      "end_line": 74,
+      "heading": "Senior Scientific Advisors",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "march-1967",
+      "end_line": 76,
+      "heading": "March 1967",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 82,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 86,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 108,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "contents",
+      "end_line": 110,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "part-i-molten-salt-reactors",
+      "end_line": 112,
+      "heading": "PART I. MOLTEN-SALT REACTORS",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "1-phase-equilibrium-and-crystallographic-studies",
+      "end_line": 114,
+      "heading": "1. Phase Equilibrium and Crystallographic Studies",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "the-equilibrium-phase-diagram-for-the-system-lif-bef-2-zrf-4",
+      "end_line": 120,
+      "heading": "THE EQUILIBRIUM PHASE DIAGRAM FOR THE SYSTEM LiF-BeF $_2$ -ZrF $_4$",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "preliminary-study-of-the-system-lif-thf-4-p-alpha-f-4",
+      "end_line": 126,
+      "heading": "PRELIMINARY STUDY OF THE SYSTEM LiF-ThF $4 - P_{\\alpha}F_{4}$",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "apparatus-for-differential-thermal-analysis",
+      "end_line": 132,
+      "heading": "APPARATUS FOR DIFFERENTIAL THERMAL ANALYSIS",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "solid-phase-equilibria-in-the-system-smf-2-smf-3-uf-3",
+      "end_line": 138,
+      "heading": "SOLID-PHASE EQUILIBRIA IN THE SYSTEM $SmF_{2} - SmF_{3} - UF_{3}$",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "phase-relations-in-the-system-kf-cef3",
+      "end_line": 144,
+      "heading": "PHASE RELATIONS IN THE SYSTEM KF-CeF3",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "the-crystal-structure-of-li-4-uf-8",
+      "end_line": 150,
+      "heading": "THE CRYSTAL STRUCTURE OF $Li_{4}UF_{8}$",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "the-crystal-structures-of-mathsf-naf-luf-3-solid-solutions",
+      "end_line": 156,
+      "heading": "THE CRYSTAL STRUCTURES OF $\\mathsf{NaF - LUF}_3$ SOLID SOLUTIONS",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "the-crystal-structure-of-gamma-csbof",
+      "end_line": 168,
+      "heading": "THE CRYSTAL STRUCTURE OF $\\gamma$ -CsBoF₃",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "central-cation-displacements-in-the-tripyramidal-coordination",
+      "end_line": 174,
+      "heading": "Central Cation Displacements In The \"Tripyramidal\" Coordination",
+      "level": 2,
+      "start_line": 169
+    },
+    {
+      "anchor": "preparation-of-fluoride-single-crystals-for-research-purposes",
+      "end_line": 180,
+      "heading": "Preparation Of Fluoride Single Crystals For Research Purposes",
+      "level": 2,
+      "start_line": 175
+    },
+    {
+      "anchor": "2-chemical-studies-of-molten-salts",
+      "end_line": 206,
+      "heading": "2. Chemical Studies of Molten Salts",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "constant-volume-heat-capacities-of-molten-salts",
+      "end_line": 218,
+      "heading": "Constant-Volume Heat Capacities Of Molten Salts",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "temperature-coefficient-of-compressibility-for-molten-salts",
+      "end_line": 224,
+      "heading": "Temperature Coefficient Of Compressibility For Molten Salts",
+      "level": 2,
+      "start_line": 219
+    },
+    {
+      "anchor": "viscosity-and-density-in-the-lif-bef-2-system",
+      "end_line": 230,
+      "heading": "VISCOSITY AND DENSITY IN THE LiF-BeF $_2$ SYSTEM",
+      "level": 1,
+      "start_line": 225
+    },
+    {
+      "anchor": "vapor-pressures-of-molten-fluoride-mixtures",
+      "end_line": 236,
+      "heading": "VAPOR PRESSURES OF MOLTEN FLUORIDE MIXTURES",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "potentiometric-measurements-in-molten-fluorides",
+      "end_line": 242,
+      "heading": "POTENTIOMETRIC MEASUREMENTS IN MOLTEN FLUORIDES",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "appearance-potentials-of-lithium-fluoride-and-lithium-beryllium-fluoride-ions",
+      "end_line": 248,
+      "heading": "APPEARANCE POTENTIALS OF LITHIUM FLUORIDE AND LITHIUM BERYLLIUM FLUORIDE IONS",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "3-separations-chemistry-and-irradiation-behavior",
+      "end_line": 250,
+      "heading": "3. Separations Chemistry and Irradiation Behavior",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "removal-of-iodide-from-lif-bef-2-melts",
+      "end_line": 256,
+      "heading": "REMOVAL OF IODIDE FROM LiF-BeF $_2$ MELTS",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "removal-of-rare-earth-s-from-molten-fluorides-by-simultaneous-precipitation-with-uf-3",
+      "end_line": 262,
+      "heading": "REMOVAL OF RARE EARTH'S FROM MOLTEN FLUORIDES BY SIMULTANEOUS PRECIPITATION WITH $UF_{3}$",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "extraction-of-rare-earth-s-from-molten-fluorides-into-molten-metals",
+      "end_line": 268,
+      "heading": "EXTRACTION OF RARE EARTH'S FROM MOLTEN FLUORIDES INTO MOLTEN METALS",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "removal-of-protactinium-from-molten-fluorides-by-reduction-processes",
+      "end_line": 274,
+      "heading": "REMOVAL OF PROTACTINIUM FROM MOLTEN FLUORIDES BY REDUCTION PROCESSES",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "removal-of-protactinium-from-molten-fluorides-by-oxide-precipitation",
+      "end_line": 280,
+      "heading": "REMOVAL OF PROTACTINIUM FROM MOLTEN FLUORIDES BY OXIDE PRECIPITATION",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "protactinium-studies-in-the-high-alpha-molten-salt-laboratory",
+      "end_line": 286,
+      "heading": "PROTACTINIUM STUDIES IN THE HIGH-ALPHA MOLTEN-SALT LABORATORY",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "graphite-molten-salt-irradiation-to-high-fission-dose",
+      "end_line": 292,
+      "heading": "GRAPHITE-MOLTEN-SALT IRRADIATION TO HIGH FISSION DOSE",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "4-direct-support-for-msre",
+      "end_line": 294,
+      "heading": "4. Direct Support for MSRE",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "extent-of-uf-4-reduction-during-msre-fuel-preparation",
+      "end_line": 300,
+      "heading": "EXTENT OF $UF_4$ REDUCTION DURING MSRE FUEL PREPARATION",
+      "level": 1,
+      "start_line": 295
+    },
+    {
+      "anchor": "chemical-behavior-of-fluorides-during-msre-operation",
+      "end_line": 306,
+      "heading": "CHEMICAL BEHAVIOR OF FLUORIDES DURING MSRE OPERATION",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "fissionproductsinmsrefuel",
+      "end_line": 312,
+      "heading": "FISSIONPRODUCTSINMSREFUEL",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "fissionproductsinmsreexitgas",
+      "end_line": 314,
+      "heading": "FISSIONPRODUCTSINMSREEXITGAS",
+      "level": 1,
+      "start_line": 313
+    },
+    {
+      "anchor": "equilibrium-pressures-of-noble-metal-fluorides-under-msre-conditions",
+      "end_line": 320,
+      "heading": "Equilibrium Pressures of Noble-Metal Fluorides Under MSRE Conditions",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "analysis-for-fission-products-in-msre-exit-gas",
+      "end_line": 326,
+      "heading": "Analysis for Fission Products in MSRE Exit Gas",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "fissionproductsonmetalandgraphitefrommsrecore",
+      "end_line": 332,
+      "heading": "FISSIONPRODUCTSONMETALANDGRAPHITEFROMMSRECORE",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "xenon-diffusion-and-formation-of-cesium-carbide-in-an-msbr",
+      "end_line": 338,
+      "heading": "XENON DIFFUSION AND FORMATION OF CESIUM CARBIDE IN AN MSBR",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "part-ii-aqueous-reactors",
+      "end_line": 340,
+      "heading": "PART II. AQUEOUS REACTORS",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "5-corrosion-and-chemical-behavior-in-reactor-environments",
+      "end_line": 342,
+      "heading": "5. Corrosion and Chemical Behavior in Reactor Environments",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "nasa-tungsten-reactor-radiation-chemistry-studies",
+      "end_line": 348,
+      "heading": "NASA TUNGSTEN REACTOR RADIATION CHEMISTRY STUDIES",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "corrosion-of-zircaloy-2-by-dilute-hydrogen-peroxide-at-280-circ-c",
+      "end_line": 354,
+      "heading": "CORROSION OF ZIRCALOY-2 BY DILUTE HYDROGEN PEROXIDE AT $280^{\\circ}C$",
+      "level": 1,
+      "start_line": 349
+    },
+    {
+      "anchor": "anodic-film-growth-on-zirconium-at-elevated-temperatures",
+      "end_line": 360,
+      "heading": "ANODIC FILM GROWTH ON ZIRCONIUM AT ELEVATED TEMPERATURES",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "ac-impedance-of-oxide-films-in-aqueous-solutions-at-elevated-temperatures",
+      "end_line": 366,
+      "heading": "AC IMPEDANCE OF OXIDE FILMS IN AQUEOUS SOLUTIONS AT ELEVATED TEMPERATURES",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "corrosion-support-for-reactor-projects",
+      "end_line": 372,
+      "heading": "CORROSION SUPPORT FOR REACTOR PROJECTS",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "6-chemistry-of-high-temperature-aqueous-solutions",
+      "end_line": 374,
+      "heading": "6. Chemistry of High-Temperature Aqueous Solutions",
+      "level": 1,
+      "start_line": 373
+    },
+    {
+      "anchor": "electrical-conductances-of-aqueous-electrolyt-esolutions-from-0-to-800-circ-c-and-to-4000-bars",
+      "end_line": 380,
+      "heading": "ELECTRICAL CONDUCTANCES OF AQUEOUS ELECTROLYT ESOLUTIONS FROM 0 TO $800^{\\circ}C$ AND TO 4000 BARS",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "dissociation-constant-of-magnesium-sulfate-to-200-circ-c-from-solubility-measurements",
+      "end_line": 386,
+      "heading": "DISSOCIATION CONSTANT OF MAGNESIUM SULFATE TO $200^{\\circ}C$ FROM SOLUBILITY MEASUREMENTS",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "dissociation-constant-of-calcium-sulfate-to-350-circ-c-obtained-from-solubility-behavior-in-mixed-electrolytes",
+      "end_line": 392,
+      "heading": "DISSOCIATION CONSTANT OF CALCIUM SULFATE TO $350^{\\circ}C$ OBTAINED FROM SOLUBILITY BEHAVIOR IN MIXED ELECTROLYTES",
+      "level": 1,
+      "start_line": 387
+    },
+    {
+      "anchor": "solubility-of-mathsf-fe-3-mathsf-o-4-at-elevated-temperature",
+      "end_line": 398,
+      "heading": "SOLUBILITY OF $\\mathsf{Fe}_{3}\\mathsf{O}_{4}$ AT ELEVATED TEMPERATURE",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "hydrolysis-of-beryllium-ion-in-1-0-m-chloride-at-25-circ-c",
+      "end_line": 404,
+      "heading": "HYDROLYSIS OF BERYLLIUM ION IN 1.0 M CHLORIDE AT $25^{\\circ}C$",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "7-interaction-of-water-with-particulate-solids",
+      "end_line": 406,
+      "heading": "7. Interaction of Water with Particulate Solids",
+      "level": 1,
+      "start_line": 405
+    },
+    {
+      "anchor": "surface-chemistry-of-thoria",
+      "end_line": 410,
+      "heading": "SURFACE CHEMISTRY OF THORIA",
+      "level": 1,
+      "start_line": 407
+    },
+    {
+      "anchor": "heats-of-immersion-and-adsorption",
+      "end_line": 416,
+      "heading": "Heats of Immersion and Adsorption",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "adsorption-of-water-and-nitrogen-on-porous-and-nonporous-thoria",
+      "end_line": 422,
+      "heading": "Adsorption of Water and Nitrogen on Porous and Nonporous Thoria",
+      "level": 1,
+      "start_line": 417
+    },
+    {
+      "anchor": "infrared-spectra-of-adsorbed-species-on-thoria",
+      "end_line": 428,
+      "heading": "Infrared Spectra of Adsorbed Species on Thoria",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "behavior-of-gases-with-sol-gel-uranium-thorium-oxide-fuels",
+      "end_line": 434,
+      "heading": "BEHAVIOR OF GASES WITH SOL-GEL URANIUM-THORIUM OXIDE FUELS",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "part-iii-gas-cooled-reactors",
+      "end_line": 436,
+      "heading": "PART III. GAS-COOLED REACTORS",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "8-diffusion-processes",
+      "end_line": 438,
+      "heading": "8. Diffusion Processes",
+      "level": 1,
+      "start_line": 437
+    },
+    {
+      "anchor": "transport-properties-of-gases",
+      "end_line": 440,
+      "heading": "TRANSPORT PROPERTIES OF GASES",
+      "level": 1,
+      "start_line": 439
+    },
+    {
+      "anchor": "gaseous-diffusion-studies-in-noble-gas-systems",
+      "end_line": 446,
+      "heading": "Gaseous Diffusion Studies in Noble-Gas Systems",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "thermal-transpiration",
+      "end_line": 452,
+      "heading": "Thermal Transpiration",
+      "level": 1,
+      "start_line": 447
+    },
+    {
+      "anchor": "gaseous-diffusion-in-porous-media",
+      "end_line": 458,
+      "heading": "Gaseous Diffusion in Porous Media",
+      "level": 1,
+      "start_line": 453
+    },
+    {
+      "anchor": "gas-transport-studies-related-to-vented-fuel-elements-for-fast-gas-cooled-reactors",
+      "end_line": 464,
+      "heading": "Gas Transport Studies Related to Vented Fuel Elements for Fast Gas-Cooled Reactors",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "recoil-phenomena-in-graphites",
+      "end_line": 470,
+      "heading": "RECOIL PHENOMENA IN GRAPHITES",
+      "level": 1,
+      "start_line": 465
+    },
+    {
+      "anchor": "9-behavior-of-graphite-with-reactive-gases",
+      "end_line": 474,
+      "heading": "9. Behavior of Graphite with Reactive Gases",
+      "level": 1,
+      "start_line": 471
+    },
+    {
+      "anchor": "oxidation-of-graphite-sleeves-by-steam",
+      "end_line": 480,
+      "heading": "OXIDATION OF GRAPHITE SLEEVES BY STEAM",
+      "level": 1,
+      "start_line": 475
+    },
+    {
+      "anchor": "transport-of-fission-products",
+      "end_line": 486,
+      "heading": "TRANSPORT OF FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "oxidation-of-coated-fuel-particles-by-water-vapor",
+      "end_line": 492,
+      "heading": "OXIDATION OF COATED FUEL PARTICLES BY WATER VAPOR",
+      "level": 1,
+      "start_line": 487
+    },
+    {
+      "anchor": "10-irradiation-behavior-of-high-temperature-fuel-materials",
+      "end_line": 496,
+      "heading": "10. Irradiation Behavior of High-Temperature Fuel Materials",
+      "level": 1,
+      "start_line": 493
+    },
+    {
+      "anchor": "irradiation-effects-on-pyrolytic-carbon-coated-fuel-particles",
+      "end_line": 502,
+      "heading": "IRRADIATION EFFECTS ON PYROLYTIC-CARBON-COATED FUEL PARTICLES",
+      "level": 1,
+      "start_line": 497
+    },
+    {
+      "anchor": "in-pile-tests-of-a-model-to-predict-the-performance-of-coated-fuel-particles",
+      "end_line": 508,
+      "heading": "IN-PILE TESTS OF A MODEL TO PREDICT THE PERFORMANCE OF COATED FUEL PARTICLES",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "postirradiation-testing-of-coated-fuel-particles",
+      "end_line": 514,
+      "heading": "POSTIRRADIATION TESTING OF COATED FUEL PARTICLES",
+      "level": 1,
+      "start_line": 509
+    },
+    {
+      "anchor": "irradiation-effects-on-compatability-of-fuel-oxides-and-beryllium-oxide-with-graphite",
+      "end_line": 520,
+      "heading": "Irradiation Effects on Compatability of Fuel Oxides And Beryllium Oxide With GRAPHITE",
+      "level": 1,
+      "start_line": 515
+    },
+    {
+      "anchor": "fast-gas-cooled-reactor-development",
+      "end_line": 526,
+      "heading": "FAST GAS-COOLED REACTOR DEVELOPMENT",
+      "level": 1,
+      "start_line": 521
+    },
+    {
+      "anchor": "fission-gas-release-during-fissioning-of-mathsf-uo-2",
+      "end_line": 532,
+      "heading": "FISSION-GAS RELEASE DURING FISSIONING OF $\\mathsf{UO}_2$",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "thermal-conductivity-of-mathsf-uo-2-during-irradiation",
+      "end_line": 538,
+      "heading": "THERMAL CONDUCTIVITY OF $\\mathsf{UO}_2$ DURING IRRADIATION",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "11-behavior-of-high-temperature-materials-under-irradiation",
+      "end_line": 540,
+      "heading": "11. Behavior of High-Temperature Materials Under Irradiation",
+      "level": 1,
+      "start_line": 539
+    },
+    {
+      "anchor": "effects-of-fast-neutron-irradiation-on-oxides",
+      "end_line": 546,
+      "heading": "EFFECTS OF FAST-NEUTRON IRRADIATION ON OXIDES",
+      "level": 1,
+      "start_line": 541
+    },
+    {
+      "anchor": "behavior-of-refractory-metal-carbides-under-irradiation",
+      "end_line": 552,
+      "heading": "BEHAVIOR OF REFRACTORY METAL CARBIDES UNDER IRRADIATION",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "part-iv-other-ornl-programs",
+      "end_line": 554,
+      "heading": "PART IV. OTHER ORNL PROGRAMS",
+      "level": 1,
+      "start_line": 553
+    },
+    {
+      "anchor": "12-chemical-support-for-the-saline-water-program",
+      "end_line": 556,
+      "heading": "12. Chemical Support for the Saline Water Program",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "solubility-of-calcium-sulfate-in-sea-salt-solutions-to-200-circ-mathrm-c-temperature-solubility-limits-for-saline-waters",
+      "end_line": 562,
+      "heading": "SOLUBILITY OF CALCIUM SULFATE IN SEA SALT SOLUTIONS TO $200^{\\circ}\\mathrm{C}$ ; TEMPERATURE-SOLUBILITY LIMITS FOR SALINE WATERS",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "corrosion-of-titanium-in-saline-water",
+      "end_line": 568,
+      "heading": "CORROSION OF TITANIUM IN SALINE WATER",
+      "level": 1,
+      "start_line": 563
+    },
+    {
+      "anchor": "13-effects-of-radiation-on-organic-materials",
+      "end_line": 572,
+      "heading": "13. Effects of Radiation on Organic Materials",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "effects-of-radiation-on-polymers",
+      "end_line": 578,
+      "heading": "EFFECTS OF RADIATION ON POLYMERS",
+      "level": 1,
+      "start_line": 573
+    },
+    {
+      "anchor": "radiation-induced-reactions-of-hydrocarbons",
+      "end_line": 584,
+      "heading": "RADIATION-INDUCED REACTIONS OF HYDROCARBONS",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "addition-reactions-of-furan-derivatives",
+      "end_line": 590,
+      "heading": "ADDITION REACTIONS OF FURAN DERIVATIVES",
+      "level": 1,
+      "start_line": 585
+    },
+    {
+      "anchor": "development-of-radiation-resistant-insulators",
+      "end_line": 596,
+      "heading": "DEVELOPMENT OF RADIATION-RESISTANT INSULATORS",
+      "level": 1,
+      "start_line": 591
+    },
+    {
+      "anchor": "14-chemical-support-for-the-controlled-thermonuclear-program",
+      "end_line": 600,
+      "heading": "14. Chemical Support for the Controlled Thermonuclear Program",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "interpretation-of-dcx-2-mass-spectra-131",
+      "end_line": 608,
+      "heading": "Interpretation Of Dcx-2 Mass Spectra 131",
+      "level": 2,
+      "start_line": 601
+    },
+    {
+      "anchor": "water-vapor-chemisorption-on-stainless-steel-134",
+      "end_line": 612,
+      "heading": "Water Vapor Chemisorption On Stainless Steel 134",
+      "level": 2,
+      "start_line": 609
+    },
+    {
+      "anchor": "decomposition-of-dc-705-diffusion-pump-fluid-138",
+      "end_line": 616,
+      "heading": "Decomposition Of Dc-705 Diffusion Pump Fluid 138",
+      "level": 2,
+      "start_line": 613
+    },
+    {
+      "anchor": "part-v-nuclear-safety",
+      "end_line": 618,
+      "heading": "PART V. NUCLEAR SAFETY",
+      "level": 1,
+      "start_line": 617
+    },
+    {
+      "anchor": "15-activities-of-nuclear-safety-technical-staff",
+      "end_line": 624,
+      "heading": "15. Activities of Nuclear Safety Technical Staff",
+      "level": 1,
+      "start_line": 619
+    },
+    {
+      "anchor": "16-correlations-of-fission-product-behavior",
+      "end_line": 626,
+      "heading": "16. Correlations of Fission Product Behavior",
+      "level": 1,
+      "start_line": 625
+    },
+    {
+      "anchor": "the-light-bulb-model-for-release-of-fission-products",
+      "end_line": 632,
+      "heading": "THE LIGHT BULB MODEL FOR RELEASE OF FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 627
+    },
+    {
+      "anchor": "effect-of-containment-system-size-on-fission-product-behavior",
+      "end_line": 638,
+      "heading": "EFFECT OF CONTAINMENT SYSTEM SIZE ON FISSION PRODUCT BEHAVIOR",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "chemical-equilibrium-studies-of-organic-iodide-formation-under-nuclear-reactor-accident-conditions",
+      "end_line": 644,
+      "heading": "CHEMICAL EQUILIBRIUM STUDIES OF ORGANIC-IODIDE FORMATION UNDER NUCLEAR REACTOR ACCIDENT CONDITIONS",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "the-adequacy-of-scaleup-in-experiments-on-fission-product-behavior-in-reactor-accidents",
+      "end_line": 650,
+      "heading": "THE ADEQUACY OF SCALEUP IN EXPERIMENTS ON FISSION PRODUCT BEHAVIOR IN REACTOR ACCIDENTS",
+      "level": 1,
+      "start_line": 645
+    },
+    {
+      "anchor": "17-nuclear-safety-tests-in-major-facilities",
+      "end_line": 652,
+      "heading": "17. Nuclear Safety Tests in Major Facilities",
+      "level": 1,
+      "start_line": 651
+    },
+    {
+      "anchor": "fission-products-from-fuels-under-reactor-transient-conditions",
+      "end_line": 658,
+      "heading": "FISSION PRODUCTS FROM FUELS UNDER REACTOR-TRANSIENT CONDITIONS",
+      "level": 1,
+      "start_line": 653
+    },
+    {
+      "anchor": "simulated-loss-of-coolant-experiments-in-the-oak-ridge-research-reactor",
+      "end_line": 664,
+      "heading": "SIMULATED LOSS-OF-COOLANT EXPERIMENTS IN THE OAK RIDGE RESEARCH REACTOR",
+      "level": 1,
+      "start_line": 659
+    },
+    {
+      "anchor": "ignition-of-charcoal-adsorbers",
+      "end_line": 670,
+      "heading": "IGNITION OF CHARCOAL. ADSORBERS",
+      "level": 1,
+      "start_line": 665
+    },
+    {
+      "anchor": "fission-products-from-zircaloy-clad-high-burnup-u-o-2",
+      "end_line": 676,
+      "heading": "FISSION PRODUCTS FROM ZIRCALOY-CLAD HIGH-BURNUP $U O_{2}$",
+      "level": 1,
+      "start_line": 671
+    },
+    {
+      "anchor": "behavior-of-i-and-hi-in-the-containment-research-installation-tank",
+      "end_line": 682,
+      "heading": "BEHAVIOR OF I, AND HI IN THE CONTAINMENT RESEARCH INSTALLATION TANK",
+      "level": 1,
+      "start_line": 677
+    },
+    {
+      "anchor": "18-laboratory-scale-supporting-studies",
+      "end_line": 684,
+      "heading": "18. Laboratory-Scale Supporting Studies",
+      "level": 1,
+      "start_line": 683
+    },
+    {
+      "anchor": "development-of-filtration-and-adsorption-technology",
+      "end_line": 690,
+      "heading": "DEVELOPMENT OF FILTRATION AND ADSORPTION TECHNOLOGY",
+      "level": 1,
+      "start_line": 685
+    },
+    {
+      "anchor": "examination-of-particulate-aerosols-with-the-fibrous-filter-analyzer",
+      "end_line": 696,
+      "heading": "EXAMINATION OF PARTICULATE AEROSOLS WITH THE FIBROUS-FILTER ANALYZER",
+      "level": 1,
+      "start_line": 691
+    },
+    {
+      "anchor": "distruishing-iodine-forms-at-high-temperatures-and-humidities",
+      "end_line": 702,
+      "heading": "DISTRUISHING IODINE FORMS AT HIGH TEMPERATURES AND HUMIDITIES",
+      "level": 1,
+      "start_line": 697
+    },
+    {
+      "anchor": "reactons-of-iodine-vapor-with-organic-materials",
+      "end_line": 708,
+      "heading": "REACTONS OF IODINE VAPOR WITH ORGANIC MATERIALS",
+      "level": 1,
+      "start_line": 703
+    },
+    {
+      "anchor": "behavior-of-fission-products-in-gas-liquid-systems",
+      "end_line": 714,
+      "heading": "BEHAVIOR OF FISSION PRODUCTS IN GAS-LIQUID SYSTEMS",
+      "level": 1,
+      "start_line": 709
+    },
+    {
+      "anchor": "high-temperature-behavior-of-gas-borne-fission-products-tellurium-dioxide",
+      "end_line": 720,
+      "heading": "HIGH-TEMPERATURE BEHAVIOR OF GAS-BORNE FISSION PRODUCTS. TELLURIUM DIOXIDE",
+      "level": 1,
+      "start_line": 715
+    },
+    {
+      "anchor": "the-cascade-impactor-as-a-tool-for-the-study-of-size-distribution-of-fission-product-aerosols",
+      "end_line": 726,
+      "heading": "THE CASCADE IMPACTOR AS A TOOL FOR THE STUDY OF SIZE DISTRIBUTION OF FISSION PRODUCT AEROSOLS",
+      "level": 1,
+      "start_line": 721
+    },
+    {
+      "anchor": "reaction-of-molecular-iodine-and-of-methyl-iodide-with-sodium-thiosulfate-sprays",
+      "end_line": 732,
+      "heading": "REACTION OF MOLECULAR IODINE AND OF METHYL IODIDE WITH SODIUM THIOSULFATE SPRAYS",
+      "level": 1,
+      "start_line": 727
+    },
+    {
+      "anchor": "studies-of-cse-type-fission-product-simulation",
+      "end_line": 738,
+      "heading": "STUDIES OF CSE-TYPE FISSION PRODUCT SIMULATION",
+      "level": 1,
+      "start_line": 733
+    },
+    {
+      "anchor": "retention-of-radioactive-methyl-iodide-by-impregnated-charcoals",
+      "end_line": 744,
+      "heading": "RETENTION OF RADIOACTIVE METHYL IODIDE BY IMPREGNATED CHARCOALS",
+      "level": 1,
+      "start_line": 739
+    },
+    {
+      "anchor": "publications-175",
+      "end_line": 746,
+      "heading": "PUBLICATIONS 175",
+      "level": 1,
+      "start_line": 745
+    },
+    {
+      "anchor": "papers-presented-at-scientific-and-technical-meetings-180",
+      "end_line": 754,
+      "heading": "PAPERS PRESENTED AT SCIENTIFIC AND TECHNICAL MEETINGS 180",
+      "level": 1,
+      "start_line": 747
+    },
+    {
+      "anchor": "1-phase-equilibrium-and-crystallographic-studies",
+      "end_line": 756,
+      "heading": "1. Phase Equilibrium and Crystallographic Studies",
+      "level": 1,
+      "start_line": 755
+    },
+    {
+      "anchor": "the-equilibrium-phase-diagram-for-the-system-lif-bef-2-zrf-4",
+      "end_line": 784,
+      "heading": "THE EQUILIBRIUM PHASE DIAGRAM FOR THE SYSTEM LiF-BeF $_2$ -ZrF $_4$",
+      "level": 1,
+      "start_line": 757
+    },
+    {
+      "anchor": "preliminary-study-of-the-system-lif-thf-paf",
+      "end_line": 800,
+      "heading": "PRELIMINARY STUDY OF THE SYSTEM LiF-ThF-PaF",
+      "level": 1,
+      "start_line": 785
+    },
+    {
+      "anchor": "apparatus-for-automatic-differential-thermal-analysis",
+      "end_line": 821,
+      "heading": "APPARATUS FOR AUTOMATIC DIFFERENTIAL THERMAL ANALYSIS",
+      "level": 1,
+      "start_line": 801
+    },
+    {
+      "anchor": "solid-phase-equilibria-in-the-system-mathsf-s-mathsf-m-mathsf-f-2-cdot-mathsf-s-mathsf-m-mathsf-f-3-cdot-mathsf-u-mathsf-f-3",
+      "end_line": 835,
+      "heading": "SOLID-PHASE EQUILIBRIA IN THE SYSTEM $\\mathsf{S}_{\\mathsf{m}}\\mathsf{F}_{2}\\cdot \\mathsf{S}_{\\mathsf{m}}\\mathsf{F}_{3}\\cdot \\mathsf{U}\\mathsf{F}_{3}$",
+      "level": 1,
+      "start_line": 822
+    },
+    {
+      "anchor": "phase-relations-in-the-system-kf-mathbf-c-e-f-3",
+      "end_line": 855,
+      "heading": "PHASE RELATIONS IN THE SYSTEM KF- $\\mathbf{C e F}_{3}$",
+      "level": 1,
+      "start_line": 836
+    },
+    {
+      "anchor": "the-crystal-structure-of-mathsf-li-4-mathsf-uf-8",
+      "end_line": 872,
+      "heading": "THE CRYSTAL STRUCTURE OF $\\mathsf{Li}_4\\mathsf{UF}_8$",
+      "level": 1,
+      "start_line": 856
+    },
+    {
+      "anchor": "the-crystal-structures-of-mathsf-naf-luf-3-solid-solutions",
+      "end_line": 901,
+      "heading": "THE CRYSTAL STRUCTURES OF $\\mathsf{NaF - LuF}_3$ SOLID SOLUTIONS",
+      "level": 1,
+      "start_line": 873
+    },
+    {
+      "anchor": "the-crystal-structure-of-gamma-csbef",
+      "end_line": 909,
+      "heading": "THE CRYSTAL STRUCTURE OF $\\gamma$ -CsBeF₃",
+      "level": 1,
+      "start_line": 902
+    },
+    {
+      "anchor": "the-crystal-structure-of-beta-1-klaf",
+      "end_line": 931,
+      "heading": "THE CRYSTAL STRUCTURE OF $\\beta_{1}$ -KLaf",
+      "level": 1,
+      "start_line": 910
+    },
+    {
+      "anchor": "central-cation-displacements-in-the-tripyramidal-coordination",
+      "end_line": 959,
+      "heading": "CENTRAL CATION DISPLACEMENTS IN THE \"TRIPYRAMIDAL\" COORDINATION",
+      "level": 1,
+      "start_line": 932
+    },
+    {
+      "anchor": "preparation-of-fluoride-single-crystals-for-research-purposes",
+      "end_line": 975,
+      "heading": "PREPARATION OF FLUORIDE SINGLE CRYSTALS FOR RESEARCH PURPOSES",
+      "level": 1,
+      "start_line": 960
+    },
+    {
+      "anchor": "2-chemical-studies-of-molten-salts",
+      "end_line": 977,
+      "heading": "2. Chemical Studies of Molten Salts",
+      "level": 1,
+      "start_line": 976
+    },
+    {
+      "anchor": "a-polymer-model-for-lif-bef-2-mixtures",
+      "end_line": 1077,
+      "heading": "A POLYMER MODEL FOR LiF-BeF $_2$ MIXTURES",
+      "level": 1,
+      "start_line": 978
+    },
+    {
+      "anchor": "phase-equilibrium-studies-in-the-mathsf-uo-2-cdot-mathsf-zro-2-system",
+      "end_line": 1096,
+      "heading": "PHASE EQUILIBRIUM STUDIES IN THE $\\mathsf{UO}_2\\cdot \\mathsf{ZrO}_2$ SYSTEM",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "the-oxide-chemistry-of-mathsf-thf-4-cdot-mathsf-uf-4-melts",
+      "end_line": 1128,
+      "heading": "THE OXIDE CHEMISTRY OF $\\mathsf{ThF}_4\\cdot \\mathsf{UF}_4$ MELTS",
+      "level": 1,
+      "start_line": 1097
+    },
+    {
+      "anchor": "the-oxide-chemistry-of-lif-bef-2-zrf-4-mixtures",
+      "end_line": 1197,
+      "heading": "THE OXIDE CHEMISTRY OF LiF-BeF $_2$ -ZrF $_4$ MIXTURES",
+      "level": 1,
+      "start_line": 1129
+    },
+    {
+      "anchor": "constant-volume-heat-capacities-of-molten-salts",
+      "end_line": 1270,
+      "heading": "CONSTANT-VOLUME HEAT CAPACITIES OF MOLTEN SALTS",
+      "level": 1,
+      "start_line": 1198
+    },
+    {
+      "anchor": "temperature-coefficient-of-c-v-for-molten-salts",
+      "end_line": 1356,
+      "heading": "TEMPERATURE COEFFICIENT OF $C_v$ FOR MOLTEN SALTS",
+      "level": 1,
+      "start_line": 1271
+    },
+    {
+      "anchor": "temperature-coefficient-of-compressibility-for-molten-salts",
+      "end_line": 1389,
+      "heading": "TEMPERATURE COEFFICIENT OF COMPRESSIBILITY FOR MOLTEN SALTS",
+      "level": 1,
+      "start_line": 1357
+    },
+    {
+      "anchor": "viscosity-and-density-in-the-lif-bef-2-system",
+      "end_line": 1420,
+      "heading": "VISCOSITY AND DENSITY IN THE LiF-BeF $_2$ SYSTEM",
+      "level": 1,
+      "start_line": 1390
+    },
+    {
+      "anchor": "vapor-pressures-of-molten-fluoride-mixtures",
+      "end_line": 1428,
+      "heading": "VAPOR PRESSURES OF MOLTEN FLUORIDE MIXTURES",
+      "level": 1,
+      "start_line": 1421
+    },
+    {
+      "anchor": "transpiration-studies-in-support-of-the-vacuum-distillation-process",
+      "end_line": 1442,
+      "heading": "Transpiration Studies in Support of the Vacuum Distillation Process",
+      "level": 1,
+      "start_line": 1429
+    },
+    {
+      "anchor": "vapor-pressures-of-73-27-mole-lif-uf-sub-4-sub",
+      "end_line": 1452,
+      "heading": "Vapor Pressures of 73-27 Mole % LiF-UF<sub>4</sub>",
+      "level": 1,
+      "start_line": 1443
+    },
+    {
+      "anchor": "potentiometric-measurements-in-molten-fluorides",
+      "end_line": 1488,
+      "heading": "POTENTIOMETRIC MEASUREMENTS IN MOLTEN FLUORIDES",
+      "level": 1,
+      "start_line": 1453
+    },
+    {
+      "anchor": "appearance-potentials-of-lithium-fluoride-and-lithium-beryllium-fluoride-ions",
+      "end_line": 1580,
+      "heading": "APPEARANCE POTENTIALS OF LITHIUM FLUORIDE AND LITHIUM BERYLLIUM FLUORIDE IONS",
+      "level": 1,
+      "start_line": 1489
+    },
+    {
+      "anchor": "3-separations-chemistry-and-irradiation-behavior",
+      "end_line": 1582,
+      "heading": "3. Separations Chemistry and Irradiation Behavior",
+      "level": 1,
+      "start_line": 1581
+    },
+    {
+      "anchor": "removal-of-iodide-from-lif-bef-2-melts",
+      "end_line": 1630,
+      "heading": "REMOVAL OF IODIDE FROM LiF-BeF $_2$ MELTS",
+      "level": 1,
+      "start_line": 1583
+    },
+    {
+      "anchor": "removal-of-rare-earth-s-from-molten-fluorides-by-simultaneous-precipitation-with-uf-sub-3-sub",
+      "end_line": 1649,
+      "heading": "REMOVAL OF RARE EARTH'S FROM MOLTEN FLUORIDES BY SIMULTANEOUS PRECIPITATION WITH UF<sub>3</sub>",
+      "level": 1,
+      "start_line": 1631
+    },
+    {
+      "anchor": "extraction-of-rare-earthsh-from-molten-fluorides-into-molten-metals",
+      "end_line": 1729,
+      "heading": "EXTRACTION OF RARE EARTHSH FROM MOLTEN FLUORIDES INTO MOLTEN METALS",
+      "level": 1,
+      "start_line": 1650
+    },
+    {
+      "anchor": "removal-of-protactinium-from-molten-fluorides-by-reduction-processes",
+      "end_line": 1752,
+      "heading": "REMOVAL OF PROTACTINIUM FROM MOLTEN FLUORIDES BY REDUCTION PROCESSES",
+      "level": 1,
+      "start_line": 1730
+    },
+    {
+      "anchor": "removal-of-protactinium-from-molten-fluorides-by-oxide-precipitation",
+      "end_line": 1783,
+      "heading": "REMOVAL OF PROTACTINIUM FROM MOLTEN FLUORIDES BY OXIDE PRECIPITATION",
+      "level": 1,
+      "start_line": 1753
+    },
+    {
+      "anchor": "protactinium-studies-in-the-high-alpha-molten-salt-laboratory",
+      "end_line": 1789,
+      "heading": "PROTACTINIUM STUDIES IN THE HIGH-ALPHA MOLTEN-SALT LABORATORY",
+      "level": 1,
+      "start_line": 1784
+    },
+    {
+      "anchor": "protactinium-recovery-experiments",
+      "end_line": 1811,
+      "heading": "Protactinium Recovery Experiments",
+      "level": 1,
+      "start_line": 1790
+    },
+    {
+      "anchor": "graphite-molten-salt-irradiation-to-high-fission-dose",
+      "end_line": 1825,
+      "heading": "GRAPHITE--MOLTEN-SALT IRRADIATION TO HIGH FISSION DOSE",
+      "level": 1,
+      "start_line": 1812
+    },
+    {
+      "anchor": "objectives-and-description",
+      "end_line": 1865,
+      "heading": "Objectives and Description",
+      "level": 1,
+      "start_line": 1826
+    },
+    {
+      "anchor": "evaluation-of-system-performance",
+      "end_line": 1902,
+      "heading": "Evaluation of System Performance",
+      "level": 1,
+      "start_line": 1866
+    },
+    {
+      "anchor": "4-direct-support-for-msre",
+      "end_line": 1904,
+      "heading": "4. Direct Support for MSRE",
+      "level": 1,
+      "start_line": 1903
+    },
+    {
+      "anchor": "extent-of-uf-4-reduction-during-msre-fuel-preparation",
+      "end_line": 1950,
+      "heading": "EXTENT OF $UF_4$ REDUCTION DURING MSRE FUEL PREPARATION",
+      "level": 1,
+      "start_line": 1905
+    },
+    {
+      "anchor": "chemical-behavior-of-fluorides-during-msre-operation",
+      "end_line": 1991,
+      "heading": "CHEMICAL BEHAVIOR OF FLUORIDES DURING MSRE OPERATION",
+      "level": 1,
+      "start_line": 1951
+    },
+    {
+      "anchor": "fission-products-in-msre-fuel",
+      "end_line": 1993,
+      "heading": "FISSION PRODUCTS IN MSRE FUEL",
+      "level": 1,
+      "start_line": 1992
+    },
+    {
+      "anchor": "s-s-kirslis-f-f-blankenship",
+      "end_line": 2014,
+      "heading": "S. S. Kirslis F. F. Blankenship",
+      "level": 1,
+      "start_line": 1994
+    },
+    {
+      "anchor": "fissionproductsinmsreexitgas",
+      "end_line": 2016,
+      "heading": "FISSIONPRODUCTSINMSREEXITGAS",
+      "level": 1,
+      "start_line": 2015
+    },
+    {
+      "anchor": "equilibrium-pressures-of-noble-metal-fluorides-under-msre-conditions",
+      "end_line": 2073,
+      "heading": "Equilibrium Pressures of Noble-Metal Fluorides Under MSRE Conditions",
+      "level": 1,
+      "start_line": 2017
+    },
+    {
+      "anchor": "analysis-for-fission-products-in-msre-exit-gas",
+      "end_line": 2075,
+      "heading": "Analysis for Fission Products in MSRE Exit Gas",
+      "level": 1,
+      "start_line": 2074
+    },
+    {
+      "anchor": "s-s-kirslis-f-f-blankenship",
+      "end_line": 2102,
+      "heading": "S. S. Kirslis F. F. Blankenship",
+      "level": 1,
+      "start_line": 2076
+    },
+    {
+      "anchor": "fission-products-on-metal-and-graphite-from-msre-core",
+      "end_line": 2140,
+      "heading": "FISSION PRODUCTS ON METAL AND GRAPHITE FROM MSRE CORE",
+      "level": 1,
+      "start_line": 2103
+    },
+    {
+      "anchor": "xenon-diffusion-and-formation-of-cesium-carbide-in-an-msbr",
+      "end_line": 2181,
+      "heading": "XENON DIFFUSION AND FORMATION OF CESIUM CARBIDE IN AN MSBR",
+      "level": 1,
+      "start_line": 2141
+    },
+    {
+      "anchor": "part-ii",
+      "end_line": 2183,
+      "heading": "Part II",
+      "level": 1,
+      "start_line": 2182
+    },
+    {
+      "anchor": "aqueous-reactors",
+      "end_line": 2185,
+      "heading": "Aqueous Reactors",
+      "level": 1,
+      "start_line": 2184
+    },
+    {
+      "anchor": "5-corrosion-and-chemical-behavior-in-reactor-environments",
+      "end_line": 2187,
+      "heading": "5. Corrosion and Chemical Behavior in Reactor Environments",
+      "level": 1,
+      "start_line": 2186
+    },
+    {
+      "anchor": "nasa-tungsten-reactor-radiation-chemistry-studies",
+      "end_line": 2217,
+      "heading": "NASA TUNGSTEN REACTOR RADIATION CHEMISTRY STUDIES",
+      "level": 1,
+      "start_line": 2188
+    },
+    {
+      "anchor": "corrosion-of-zircaloy-2-by-dilute-hydrogen-peroxide-at-280-circ-c",
+      "end_line": 2235,
+      "heading": "CORROSION OF ZIRCALOY-2 BY DILUTE HYDROGEN PEROXIDE AT $280^{\\circ}C$",
+      "level": 1,
+      "start_line": 2218
+    },
+    {
+      "anchor": "anodic-film-growth-on-zirconium-at-elevated-temperatures",
+      "end_line": 2307,
+      "heading": "ANODIC FILM GROWTH ON ZIRCONIUM AT ELEVATED TEMPERATURES",
+      "level": 1,
+      "start_line": 2236
+    },
+    {
+      "anchor": "ac-impedance-of-oxide-films-in-aqueous-solutions-at-elevated-temperatures",
+      "end_line": 2365,
+      "heading": "AC IMPEDANCE OF OXIDE FILMS IN AQUEOUS SOLUTIONS AT ELEVATED TEMPERATURES",
+      "level": 1,
+      "start_line": 2308
+    },
+    {
+      "anchor": "corrosion-support-for-reactor-projects",
+      "end_line": 2387,
+      "heading": "CORROSION SUPPORT FOR REACTOR PROJECTS",
+      "level": 1,
+      "start_line": 2366
+    },
+    {
+      "anchor": "6-chemistry-of-high-temperature-aqueous-solutions",
+      "end_line": 2389,
+      "heading": "6. Chemistry of High-Temperature Aqueous Solutions",
+      "level": 1,
+      "start_line": 2388
+    },
+    {
+      "anchor": "electrical-conductances-of-aqueous-electrolytesolutions-from-0-to-800-circ-c-and-to-4000-bars",
+      "end_line": 2417,
+      "heading": "ELECTRICAL CONDUCTANCES OF AQUEOUS ELECTROLYTESOLUTIONS FROM 0 TO $800^{\\circ}C$ AND TO 4000 BARS",
+      "level": 1,
+      "start_line": 2390
+    },
+    {
+      "anchor": "dissociation-constant-of-magnesium-sulfate-to-200-circ-c-from-solubility-measurements",
+      "end_line": 2480,
+      "heading": "DISSOCIATION CONSTANT OF MAGNESIUM SULFATE TO $200^{\\circ}C$ FROM SOLUBILITY MEASUREMENTS",
+      "level": 1,
+      "start_line": 2418
+    },
+    {
+      "anchor": "dissociation-constant-of-calcium-sulfate-to-350-circ-c-obtained-from-solubility-behavior-in-mixed-electrolytes",
+      "end_line": 2566,
+      "heading": "DISSOCIATION CONSTANT OF CALCIUM SULFATE TO $350^{\\circ}C$ OBTAINED FROM SOLUBILITY BEHAVIOR IN MIXED ELECTROLYTES",
+      "level": 1,
+      "start_line": 2481
+    },
+    {
+      "anchor": "solubility-of-mathsf-fe-3-mathsf-o-4-at-elevated-temperature19",
+      "end_line": 2613,
+      "heading": "SOLUBILITY OF $\\mathsf{Fe}_3\\mathsf{O}_4$ AT ELEVATED TEMPERATURE19",
+      "level": 1,
+      "start_line": 2567
+    },
+    {
+      "anchor": "hydrolysis-of-beryllium-ion-in-1-0-m-chloride-at-25-circ-c",
+      "end_line": 2644,
+      "heading": "HYDROLYSIS OF BERYLLIUM ION IN 1.0 M CHLORIDE AT $25^{\\circ}C$",
+      "level": 1,
+      "start_line": 2614
+    },
+    {
+      "anchor": "7-interaction-of-water-with-particulate-solids",
+      "end_line": 2646,
+      "heading": "7. Interaction of Water with Particulate Solids",
+      "level": 1,
+      "start_line": 2645
+    },
+    {
+      "anchor": "surface-chemistry-of-thoria",
+      "end_line": 2650,
+      "heading": "SURFACE CHEMISTRY OF THORIA",
+      "level": 1,
+      "start_line": 2647
+    },
+    {
+      "anchor": "heats-of-immersion-and-adsorption",
+      "end_line": 2662,
+      "heading": "Heats of Immersion and Adsorption",
+      "level": 1,
+      "start_line": 2651
+    },
+    {
+      "anchor": "ornl-dwg67-536",
+      "end_line": 2677,
+      "heading": "Ornl-Dwg67-536",
+      "level": 2,
+      "start_line": 2663
+    },
+    {
+      "anchor": "adsorption-of-water-and-nitrogen-on-porous-and-nonporous-thoria",
+      "end_line": 2707,
+      "heading": "Adsorption of Water and Nitrogen on Porous and Nonporous Thoria",
+      "level": 1,
+      "start_line": 2678
+    },
+    {
+      "anchor": "infrared-spectra-of-adsorbed-species-on-thoria",
+      "end_line": 2709,
+      "heading": "Infrared Spectra of Adsorbed Species on Thoria",
+      "level": 1,
+      "start_line": 2708
+    },
+    {
+      "anchor": "c-s-shoup-jr",
+      "end_line": 2732,
+      "heading": "C. S. Shoup, Jr.",
+      "level": 1,
+      "start_line": 2710
+    },
+    {
+      "anchor": "behavior-of-gases-with-sol-gel-uranium-thorium-oxide-fuels",
+      "end_line": 2773,
+      "heading": "BEHAVIOR OF GASES WITH SOL-GEL URANIUM-THORIUM OXIDE FUELS",
+      "level": 1,
+      "start_line": 2733
+    },
+    {
+      "anchor": "8-diffusion-processes",
+      "end_line": 2775,
+      "heading": "8. Diffusion Processes",
+      "level": 1,
+      "start_line": 2774
+    },
+    {
+      "anchor": "transport-properties-of-gases",
+      "end_line": 2777,
+      "heading": "TRANSPORT PROPERTIES OF GASES",
+      "level": 1,
+      "start_line": 2776
+    },
+    {
+      "anchor": "gaseous-diffusion-studies-in-noble-gas-systems",
+      "end_line": 2802,
+      "heading": "Gaseous Diffusion Studies in Noble-Gas Systems",
+      "level": 1,
+      "start_line": 2778
+    },
+    {
+      "anchor": "thermal-transpiration",
+      "end_line": 2816,
+      "heading": "Thermal Transpiration",
+      "level": 1,
+      "start_line": 2803
+    },
+    {
+      "anchor": "gaseous-diffusion-in-porous-media",
+      "end_line": 2848,
+      "heading": "Gaseous Diffusion in Porous Media",
+      "level": 1,
+      "start_line": 2817
+    },
+    {
+      "anchor": "gas-transport-studies-related-to-vented-fuel-elements-for-fast-gas-cooled-reactors",
+      "end_line": 2864,
+      "heading": "Gas Transport Studies Related to Vented Fuel Elements for Fast Gas-Cooled Reactors",
+      "level": 1,
+      "start_line": 2849
+    },
+    {
+      "anchor": "recoil-phenomena-in-graphites",
+      "end_line": 2978,
+      "heading": "RECOIL PHENOMENA IN GRAPHITES",
+      "level": 1,
+      "start_line": 2865
+    },
+    {
+      "anchor": "9-behavior-of-graphite-with-reactive-gases",
+      "end_line": 2982,
+      "heading": "9. Behavior of Graphite with Reactive Gases",
+      "level": 1,
+      "start_line": 2979
+    },
+    {
+      "anchor": "oxidation-of-graphite-sleeves-by-steam",
+      "end_line": 3020,
+      "heading": "OXIDATION OF GRAPHITE SLEEVES BY STEAM",
+      "level": 1,
+      "start_line": 2983
+    },
+    {
+      "anchor": "transport-of-fission-products",
+      "end_line": 3047,
+      "heading": "TRANSPORT OF FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 3021
+    },
+    {
+      "anchor": "oxidation-of-coated-fuel-particles-by-water-vapor",
+      "end_line": 3084,
+      "heading": "OXIDATION OF COATED FUEL PARTICLES BY WATER VAPOR",
+      "level": 1,
+      "start_line": 3048
+    },
+    {
+      "anchor": "10-irradiation-behavior-of-high-temperature-fuel-materials",
+      "end_line": 3090,
+      "heading": "10. Irradiation Behavior of High-Temperature Fuel Materials",
+      "level": 1,
+      "start_line": 3085
+    },
+    {
+      "anchor": "irradiation-effects-on-pyrolytic-carbon-coated-fuel-particles",
+      "end_line": 3109,
+      "heading": "IRRADIATION EFFECTS ON PYROLYTIC-CARBON-CoATED FUEL PARTICLES",
+      "level": 1,
+      "start_line": 3091
+    },
+    {
+      "anchor": "in-pile-tests-of-a-model-to-predict-the-performance-of-coated-fuel-particles",
+      "end_line": 3138,
+      "heading": "IN-PILE TESTS OF A MODEL TO PREDICT THE PERFORMANCE OF COATED FUEL PARTICLES",
+      "level": 1,
+      "start_line": 3110
+    },
+    {
+      "anchor": "postirradiation-testing-of-coated-fuel-particles",
+      "end_line": 3146,
+      "heading": "POSTIRRADIATION TESTING OF COATED FUEL PARTICLES",
+      "level": 1,
+      "start_line": 3139
+    },
+    {
+      "anchor": "evaluation-of-fuel-migration-by-metallography-and-microradiography",
+      "end_line": 3156,
+      "heading": "Evaluation of Fuel Migration by Metallography and Microradiography",
+      "level": 1,
+      "start_line": 3147
+    },
+    {
+      "anchor": "coating-stability",
+      "end_line": 3168,
+      "heading": "Coating Stability",
+      "level": 1,
+      "start_line": 3157
+    },
+    {
+      "anchor": "irradiation-effects-on-compatibility-of-fuel-oxides-and-beryllium-oxide-with-graphite",
+      "end_line": 3180,
+      "heading": "IRRADIATION EFFECTS ON COMPATIBILITY OF FUEL OXIDES AND BERYLLIUM OXIDE WITH GRAPHITE",
+      "level": 1,
+      "start_line": 3169
+    },
+    {
+      "anchor": "u-th-o-2-graphite-experiment",
+      "end_line": 3214,
+      "heading": "(U, Th)O $_2$ -Graphite Experiment",
+      "level": 1,
+      "start_line": 3181
+    },
+    {
+      "anchor": "beo-graphite-experiment",
+      "end_line": 3226,
+      "heading": "BeO-Graphite Experiment",
+      "level": 1,
+      "start_line": 3215
+    },
+    {
+      "anchor": "fast-gas-cooled-reactor-development",
+      "end_line": 3258,
+      "heading": "FAST GAS-COOLED REACTOR DEVELOPMENT",
+      "level": 1,
+      "start_line": 3227
+    },
+    {
+      "anchor": "fission-gas-release-during-fissioning-of-mathsf-uo-2",
+      "end_line": 3270,
+      "heading": "FISSION-GAS RELEASE DURING FISSIONING OF $\\mathsf{UO}_2$",
+      "level": 1,
+      "start_line": 3259
+    },
+    {
+      "anchor": "defect-trap-model",
+      "end_line": 3294,
+      "heading": "Defect-Trap Model",
+      "level": 1,
+      "start_line": 3271
+    },
+    {
+      "anchor": "thermal-conductivity-of-mathsf-uo-2-during-irradiation",
+      "end_line": 3323,
+      "heading": "THERMAL CONDUCTIVITY OF $\\mathsf{UO}_2$ DURING IRRADIATION",
+      "level": 1,
+      "start_line": 3295
+    },
+    {
+      "anchor": "11-behavior-of-high-temperature-materials-under-irradiation",
+      "end_line": 3325,
+      "heading": "11. Behavior of High-Temperature Materials Under Irradiation",
+      "level": 1,
+      "start_line": 3324
+    },
+    {
+      "anchor": "effects-of-fast-neutron-irradiation-on-oxides",
+      "end_line": 3337,
+      "heading": "EFFECTS OF FAST-NEUTRON IRRADIATION ON OXIDES",
+      "level": 1,
+      "start_line": 3326
+    },
+    {
+      "anchor": "gross-damage",
+      "end_line": 3341,
+      "heading": "Gross Damage",
+      "level": 1,
+      "start_line": 3338
+    },
+    {
+      "anchor": "metallographic-examinations",
+      "end_line": 3345,
+      "heading": "Metallographic Examinations",
+      "level": 1,
+      "start_line": 3342
+    },
+    {
+      "anchor": "dimensional-measurements",
+      "end_line": 3351,
+      "heading": "Dimensional Measurements",
+      "level": 1,
+      "start_line": 3346
+    },
+    {
+      "anchor": "x-ray-diffraction-examinations",
+      "end_line": 3357,
+      "heading": "X-Ray Diffraction Examinations",
+      "level": 1,
+      "start_line": 3352
+    },
+    {
+      "anchor": "behavior-of-refractory-metal-carbides-under-irradiation",
+      "end_line": 3371,
+      "heading": "BEHAVIOR OF REFRACTORY METAL CARBIDES UNDER IRRADIATION",
+      "level": 1,
+      "start_line": 3358
+    },
+    {
+      "anchor": "gross-damage",
+      "end_line": 3380,
+      "heading": "Gross Damage",
+      "level": 1,
+      "start_line": 3372
+    },
+    {
+      "anchor": "metallographic-examinations",
+      "end_line": 3384,
+      "heading": "Metallographic Examinations",
+      "level": 1,
+      "start_line": 3381
+    },
+    {
+      "anchor": "dimensional-measurements",
+      "end_line": 3388,
+      "heading": "Dimensional Measurements",
+      "level": 1,
+      "start_line": 3385
+    },
+    {
+      "anchor": "x-ray-diffraction-examinations",
+      "end_line": 3407,
+      "heading": "X-Ray Diffraction Examinations",
+      "level": 1,
+      "start_line": 3389
+    },
+    {
+      "anchor": "part-iv",
+      "end_line": 3409,
+      "heading": "Part IV",
+      "level": 1,
+      "start_line": 3408
+    },
+    {
+      "anchor": "other-ornl-programs",
+      "end_line": 3411,
+      "heading": "Other ORNL Programs",
+      "level": 1,
+      "start_line": 3410
+    },
+    {
+      "anchor": "12-chemical-support-for-the-saline-water-program",
+      "end_line": 3413,
+      "heading": "12. Chemical Support for the Saline Water Program",
+      "level": 1,
+      "start_line": 3412
+    },
+    {
+      "anchor": "solubility-of-calcium-sulfate-in-sea-salt-solutions-to-200-circ-mathrm-c-temperature-solubility-limits-for-saline-waters",
+      "end_line": 3435,
+      "heading": "SOLUBILITY OF CALCIUM SULFATE IN SEA SALT SOLUTIONS TO $200^{\\circ}\\mathrm{C}$ ; TEMPERATURE-SOLUBILITY LIMITS FOR SALINE WATERS",
+      "level": 1,
+      "start_line": 3414
+    },
+    {
+      "anchor": "corrosion-of-titanium-in-saline-water",
+      "end_line": 3445,
+      "heading": "CORROSION OF TITANIUM IN SALINE WATER",
+      "level": 1,
+      "start_line": 3436
+    },
+    {
+      "anchor": "crevice-attack",
+      "end_line": 3470,
+      "heading": "Crevice Attack",
+      "level": 1,
+      "start_line": 3446
+    },
+    {
+      "anchor": "pitting",
+      "end_line": 3499,
+      "heading": "Pitting",
+      "level": 1,
+      "start_line": 3471
+    },
+    {
+      "anchor": "13-effects-of-radiation-on-organic-materials",
+      "end_line": 3505,
+      "heading": "13. Effects of Radiation on Organic Materials",
+      "level": 1,
+      "start_line": 3500
+    },
+    {
+      "anchor": "effects-of-radiation-on-polymers",
+      "end_line": 3517,
+      "heading": "EFFECTS OF RADIATION ON POLYMERS",
+      "level": 1,
+      "start_line": 3506
+    },
+    {
+      "anchor": "trans",
+      "end_line": 3520,
+      "heading": "Trans",
+      "level": 2,
+      "start_line": 3518
+    },
+    {
+      "anchor": "side-vinyl",
+      "end_line": 3549,
+      "heading": "Side Vinyl",
+      "level": 2,
+      "start_line": 3521
+    },
+    {
+      "anchor": "radiation-induced-reactions-of-hydrocarbons",
+      "end_line": 3592,
+      "heading": "RADIATION-INDUCED REACTIONS OF HYDROCARBONS",
+      "level": 1,
+      "start_line": 3550
+    },
+    {
+      "anchor": "addition-reactions-of-furan-derivatives",
+      "end_line": 3620,
+      "heading": "ADDITION REACTIONS OF FURAN DERIVATIVES",
+      "level": 1,
+      "start_line": 3593
+    },
+    {
+      "anchor": "development-of-radiation-resistant-insulators",
+      "end_line": 3640,
+      "heading": "DEVELOPMENT OF RADIATION-RESISTANT INSULATORS",
+      "level": 1,
+      "start_line": 3621
+    },
+    {
+      "anchor": "14-chemical-support-for-the-controlled-thermonuclear-program",
+      "end_line": 3646,
+      "heading": "14. Chemical Support for the Controlled Thermonuclear Program",
+      "level": 1,
+      "start_line": 3641
+    },
+    {
+      "anchor": "interpretation-of-dcx-2-mass-spectra",
+      "end_line": 3713,
+      "heading": "INTERPRETATION OF DCX-2 MASS SPECTRA",
+      "level": 1,
+      "start_line": 3647
+    },
+    {
+      "anchor": "mass-spectrometer-calibration-studies",
+      "end_line": 3733,
+      "heading": "MASS SPECTROMETER CALIBRATION STUDIES",
+      "level": 1,
+      "start_line": 3714
+    },
+    {
+      "anchor": "water-vapor-chemisorption-on-stainless-steel",
+      "end_line": 3801,
+      "heading": "WATER VAPOR CHEMISORPTION ON STAINLESS STEEL",
+      "level": 1,
+      "start_line": 3734
+    },
+    {
+      "anchor": "decomposition-of-dc-705-diffusion-pump-fluid",
+      "end_line": 3830,
+      "heading": "DECOMPOSITION OF DC-705 DIFFUSION PUMP FLUID",
+      "level": 1,
+      "start_line": 3802
+    },
+    {
+      "anchor": "part-v",
+      "end_line": 3832,
+      "heading": "Part V",
+      "level": 1,
+      "start_line": 3831
+    },
+    {
+      "anchor": "nuclear-safety",
+      "end_line": 3834,
+      "heading": "Nuclear Safety",
+      "level": 1,
+      "start_line": 3833
+    },
+    {
+      "anchor": "15-activities-of-nuclear-safety-technical-staff",
+      "end_line": 3864,
+      "heading": "15. Activities of Nuclear Safety Technical Staff",
+      "level": 1,
+      "start_line": 3835
+    },
+    {
+      "anchor": "16-correlations-of-fission-product-behavior",
+      "end_line": 3866,
+      "heading": "16. Correlations of Fission Product Behavior",
+      "level": 1,
+      "start_line": 3865
+    },
+    {
+      "anchor": "the-light-bulb-model-for-release-of-fission-products",
+      "end_line": 3959,
+      "heading": "THE LIGHT BULB MODEL FOR RELEASE OF FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 3867
+    },
+    {
+      "anchor": "effect-of-containment-system-size-on-fission-product-behavior",
+      "end_line": 3997,
+      "heading": "EFFECT OF CONTAINMENT SYSTEM SIZE ON FISSION PRODUCT BEHAVIOR",
+      "level": 1,
+      "start_line": 3960
+    },
+    {
+      "anchor": "chemical-equilibrium-studies-of-organic-iodide-formation-under-nuclear-reactor-accident-conditions",
+      "end_line": 4012,
+      "heading": "CHEMICAL EQUILIBRIUM STUDIES OF ORGANIC-IODIDE FORMATION UNDER NUCLEAR REACTOR ACCIDENT CONDITIONS",
+      "level": 1,
+      "start_line": 3998
+    },
+    {
+      "anchor": "the-adequacy-of-scaleup-in-experiments-on-fission-product-behavior-in-reactor-accidents",
+      "end_line": 4044,
+      "heading": "THE ADEQUACY OF SCALEUP IN EXPERIMENTS ON FISSION PRODUCT BEHAVIOR IN REACTOR ACCIDENTS",
+      "level": 1,
+      "start_line": 4013
+    },
+    {
+      "anchor": "17-nuclear-safety-tests-in-major-facilities",
+      "end_line": 4046,
+      "heading": "17. Nuclear Safety Tests in Major Facilities",
+      "level": 1,
+      "start_line": 4045
+    },
+    {
+      "anchor": "fission-products-from-fuels-under-reactor-transient-conditions",
+      "end_line": 4075,
+      "heading": "FISSION PRODUCTS FROM FUELS UNDER REACTOR-TRANSIENT CONDITIONS",
+      "level": 1,
+      "start_line": 4047
+    },
+    {
+      "anchor": "simulated-loss-of-coolant-experiments-in-the-oak-ridge-research-reactor",
+      "end_line": 4104,
+      "heading": "SIMULATED LOSS-OF-COOLANT EXPERIMENTS IN THE OAK RIDGE RESEARCH REACTOR",
+      "level": 1,
+      "start_line": 4076
+    },
+    {
+      "anchor": "ignition-of-charcoal-adsorbers",
+      "end_line": 4125,
+      "heading": "IGNITION OF CHARCOAL ADSORBERS",
+      "level": 1,
+      "start_line": 4105
+    },
+    {
+      "anchor": "fission-products-from-zircaloy-clad-high-burnup-mathsf-u-mathsf-o-2",
+      "end_line": 4157,
+      "heading": "FISSION PRODUCTS FROM ZIRCALOY-CLAD HIGH-BURNUP $\\mathsf{U}\\mathsf{O}_{2}$",
+      "level": 1,
+      "start_line": 4126
+    },
+    {
+      "anchor": "behavior-of-i-and-hi-in-the-containment-research-installation-tank",
+      "end_line": 4194,
+      "heading": "BEHAVIOR OF I AND HI IN THE CONTAINMENT RESEARCH INSTALLATION TANK",
+      "level": 1,
+      "start_line": 4158
+    },
+    {
+      "anchor": "18-laboratory-scale-supporting-studies",
+      "end_line": 4196,
+      "heading": "18. Laboratory-Scale Supporting Studies",
+      "level": 1,
+      "start_line": 4195
+    },
+    {
+      "anchor": "development-of-filtration-and-adsorption-technology",
+      "end_line": 4225,
+      "heading": "DEVELOPMENT OF FILTRATION AND ADSORPTION TECHNOLOGY",
+      "level": 1,
+      "start_line": 4197
+    },
+    {
+      "anchor": "examination-of-particulate-aerosols-with-the-fibrous-filter-analyzer",
+      "end_line": 4249,
+      "heading": "EXAMINATION OF PARTICULATE AEROSOLS WITH THE FIBROUS-FILTER ANALYZER",
+      "level": 1,
+      "start_line": 4226
+    },
+    {
+      "anchor": "distinguishing-iodine-forms-at-high-temperatures-and-humidities",
+      "end_line": 4285,
+      "heading": "Distinguishing IODINE FORMS AT HIGH TEMPERATURES AND HUMIDITIES",
+      "level": 1,
+      "start_line": 4250
+    },
+    {
+      "anchor": "reactons-of-iodine-vapor-with-organic-materials",
+      "end_line": 4305,
+      "heading": "REACTONS OF IODINE VAPOR WITH ORGANIC MATERIALS",
+      "level": 1,
+      "start_line": 4286
+    },
+    {
+      "anchor": "behavior-of-fission-products-in-gas-liquid-systems",
+      "end_line": 4341,
+      "heading": "BEHAVIOR OF FISSION PRODUCTS IN GAS-LIQUID SYSTEMS",
+      "level": 1,
+      "start_line": 4306
+    },
+    {
+      "anchor": "high-temperature-behavior-of-gas-borne-fission-products-tellurium-dioxide",
+      "end_line": 4365,
+      "heading": "HIGH-TEMPERATURE BEHAVIOR OF GAS-BORNE FISSION PRODUCTS. TELLURIUM DIOXIDE",
+      "level": 1,
+      "start_line": 4342
+    },
+    {
+      "anchor": "the-cascade-impactor-as-a-tool-for-the-study-of-size-distribution-of-fission-product-aerosols",
+      "end_line": 4386,
+      "heading": "THE CASCADE IMPACTOR AS A TOOL FOR THE STUDY OF SIZE DISTRIBUTION OF FISSION PRODUCT AEROSOLS",
+      "level": 1,
+      "start_line": 4366
+    },
+    {
+      "anchor": "reaction-of-molecular-iodine-and-of-methyl-iodide-with-sodium-thiosulfate-sprays",
+      "end_line": 4406,
+      "heading": "REACTION OF MOLECULAR IODINE AND OF METHYL IODIDE WITH SODIUM THIOSULFATE SPRAYS",
+      "level": 1,
+      "start_line": 4387
+    },
+    {
+      "anchor": "test-with-molecular-lodine-mathbb-i-2",
+      "end_line": 4410,
+      "heading": "Test with Molecular lodine $(\\mathbb{I}_2)$",
+      "level": 1,
+      "start_line": 4407
+    },
+    {
+      "anchor": "tests-with-methyl-iodide-mathsf-ch-3-mathsf-i",
+      "end_line": 4414,
+      "heading": "Tests with Methyl Iodide $(\\mathsf{CH}_3\\mathsf{I})$",
+      "level": 1,
+      "start_line": 4411
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 4420,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 4415
+    },
+    {
+      "anchor": "studies-of-cse-type-fission-product-simulation",
+      "end_line": 4447,
+      "heading": "STUDIES OF CSE-TYPE FISSION PRODUCT SIMULATION",
+      "level": 1,
+      "start_line": 4421
+    },
+    {
+      "anchor": "retention-of-radioactive-methyl-iodide-by-impregnated-charcoals",
+      "end_line": 4497,
+      "heading": "RETENTION OF RADIOACTIVE METHYL IODIDE BY IMPREGNATED CHARCOALS",
+      "level": 1,
+      "start_line": 4448
+    },
+    {
+      "anchor": "publications",
+      "end_line": 4499,
+      "heading": "Publications",
+      "level": 1,
+      "start_line": 4498
+    },
+    {
+      "anchor": "journal-articles",
+      "end_line": 4501,
+      "heading": "JOURNAL ARTICLES",
+      "level": 1,
+      "start_line": 4500
+    },
+    {
+      "anchor": "author-s",
+      "end_line": 4518,
+      "heading": "AUTHOR(s)",
+      "level": 1,
+      "start_line": 4502
+    },
+    {
+      "anchor": "title",
+      "end_line": 4535,
+      "heading": "TITLE",
+      "level": 1,
+      "start_line": 4519
+    },
+    {
+      "anchor": "publication",
+      "end_line": 4554,
+      "heading": "PUBLICATION",
+      "level": 1,
+      "start_line": 4536
+    },
+    {
+      "anchor": "reports-issued",
+      "end_line": 4558,
+      "heading": "REPORTS ISSUED",
+      "level": 1,
+      "start_line": 4555
+    },
+    {
+      "anchor": "books-and-proceedings",
+      "end_line": 4562,
+      "heading": "BOOKS AND PROCEEDINGS",
+      "level": 1,
+      "start_line": 4559
+    },
+    {
+      "anchor": "papers-presented-at-scientific-and-technical-meetings",
+      "end_line": 4568,
+      "heading": "Papers Presented at Scientific and Technical Meetings",
+      "level": 1,
+      "start_line": 4563
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 4748,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 4569
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 4765,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 4749
+    }
+  ],
+  "source_dir": "pdf/ORNL-4076",
+  "tables": [],
+  "title": "HeoHcTo 95hE",
+  "topics": [
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "off-gas-fission-products-and-tritium",
+    "irradiation-and-damage",
+    "graphite-and-moderator-behavior",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

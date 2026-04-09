@@ -1,0 +1,382 @@
+{
+  "authors": [],
+  "claims_path": "kb/normalized/claims/chapter-14.jsonl",
+  "date_text": "1981",
+  "doc_id": "chapter-14",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 7,
+        "line_hits": [
+          7,
+          11,
+          15,
+          109,
+          153,
+          361,
+          376
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          21,
+          337,
+          348,
+          351,
+          361,
+          363,
+          365
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          25,
+          33,
+          105,
+          166,
+          192
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          7,
+          13,
+          15,
+          361
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          42
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          42
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          370,
+          371,
+          372,
+          375,
+          376,
+          378
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 31,
+        "line_hits": [
+          13,
+          31,
+          40,
+          42,
+          44,
+          70,
+          72,
+          91,
+          95,
+          103,
+          105,
+          107,
+          109,
+          135,
+          137,
+          198,
+          200,
+          230,
+          232,
+          239,
+          252,
+          272,
+          274,
+          279,
+          327,
+          331,
+          333,
+          353,
+          361,
+          363,
+          365
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          351,
+          365,
+          378
+        ],
+        "name": "LMFR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 24,
+        "line_hits": [
+          29,
+          33,
+          38,
+          48,
+          66,
+          81,
+          84,
+          87,
+          98,
+          101,
+          113,
+          133,
+          237,
+          246,
+          252,
+          256,
+          272,
+          287,
+          304,
+          325,
+          327,
+          341,
+          361,
+          375
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          11,
+          13,
+          33,
+          50,
+          103,
+          115,
+          117,
+          295,
+          296,
+          297,
+          298,
+          325,
+          351
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          13,
+          15,
+          133,
+          155,
+          157
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          109,
+          153,
+          351,
+          376
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          256,
+          351
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2396a66312329a8d5a22f1a8e4bc777d1a28a887e1c96ecf99d68e918683bbe6",
+  "markdown_path": "pdf/FFR_chap14/FFR_chap14/hybrid_ocr/FFR_chap14.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 18,
+  "sections": [
+    {
+      "anchor": "chapter-14",
+      "end_line": 2,
+      "heading": "CHAPTER 14",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "nuclear-aspects-of-molten-salt-reactors",
+      "end_line": 26,
+      "heading": "NUCLEAR ASPECTS OF MOLTEN-SALT REACTORS*",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "14-1-homogeneous-reactors-fueled-with-mathbf-u-235",
+      "end_line": 45,
+      "heading": "14-1. HOMOGENEOUS REACTORS FUELED WITH $\\mathbf{U}^{235}$",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "table-14-1",
+      "end_line": 47,
+      "heading": "TABLE 14-1",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "initial-state-nuclear-characteristics-of-two-region-homogeneous-molten-fluoride-salt-reactors-fueled-with-u235",
+      "end_line": 110,
+      "heading": "INITIAL-STATE NUCLEAR CHARACTERISTICS OF TWO-REGION, HOMOGENEOUS, MOLTEN FLUORIDE-SALT REACTORS FUELED WITH U235",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "table-14-2",
+      "end_line": 112,
+      "heading": "TABLE 14-2",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "initial-state-nuclear-characteristics-of-two-region-homogeneous-molten-fluoride-salt-reactors-fueled-with-u235",
+      "end_line": 150,
+      "heading": "INITIAL-STATE NUCLEAR CHARACTERISTICS OF TWO-REGION, HOMOGENEOUS, MOLTEN FLUORIDE-SALT REACTORS FUELED WITH U235",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "table-14-3",
+      "end_line": 249,
+      "heading": "TABLE 14-3",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "14-2-homogeneous-reactors-fueled-with-mathbf-u-233",
+      "end_line": 253,
+      "heading": "14-2. HOMOGENEOUS REACTORS FUELED WITH $\\mathbf{U}^{233}$",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "table-14-4",
+      "end_line": 285,
+      "heading": "TABLE 14-4",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "table-14-5",
+      "end_line": 310,
+      "heading": "Table 14-5",
+      "level": 2,
+      "start_line": 286
+    },
+    {
+      "anchor": "table-14-6",
+      "end_line": 322,
+      "heading": "Table 14-6",
+      "level": 2,
+      "start_line": 311
+    },
+    {
+      "anchor": "14-3-homogeneous-reactors-fueled-with-plutonium",
+      "end_line": 336,
+      "heading": "14-3. HOMOGENEOUS REACTORS FUELED WITH PLUTONIUM",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "14-4-heterogeneous-graphite-moderated-reactors",
+      "end_line": 346,
+      "heading": "14-4. HETEROGENEOUS GRAPHITE-MODERATED REACTORS",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "table-14-8",
+      "end_line": 347,
+      "heading": "Table 14-8",
+      "level": 2,
+      "start_line": 347
+    },
+    {
+      "anchor": "comparison-of-graphite-moderated-molten-salt",
+      "end_line": 348,
+      "heading": "Comparison Of Graphite-Moderated Molten-Salt",
+      "level": 2,
+      "start_line": 348
+    },
+    {
+      "anchor": "and-liquid-metal-fueled-reactors",
+      "end_line": 366,
+      "heading": "And Liquid-Metal-Fueled Reactors",
+      "level": 2,
+      "start_line": 349
+    },
+    {
+      "anchor": "references",
+      "end_line": 378,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 367
+    }
+  ],
+  "source_dir": "pdf/FFR_chap14",
+  "tables": [],
+  "title": "CHAPTER 14",
+  "topics": [
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "graphite-and-moderator-behavior",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "authors_not_detected",
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,731 @@
+{
+  "authors": [
+    "K. R. Elam",
+    "C. W. Forsberg",
+    "C. M. Hopper",
+    "R. Q. Wright",
+    "LIST OF FIGURES V",
+    "LIST OF TABLES vii",
+    "ACRONYMS ix"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-13524.jsonl",
+  "date_text": "July 29, 1996",
+  "doc_id": "ornl-tm-13524",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          407,
+          768
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          5,
+          122,
+          282,
+          423,
+          427,
+          437,
+          543,
+          738,
+          778,
+          781,
+          782
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          437,
+          778,
+          781,
+          782
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          874,
+          889,
+          892,
+          902
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          112,
+          423,
+          430
+        ],
+        "name": "Lockheed Martin"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          241
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          850
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 50,
+        "line_hits": [
+          138,
+          142,
+          144,
+          150,
+          185,
+          187,
+          195,
+          197,
+          199,
+          203,
+          221,
+          225,
+          228,
+          240,
+          246,
+          252,
+          254,
+          259,
+          261,
+          263,
+          269,
+          284,
+          286,
+          290,
+          294,
+          304,
+          319,
+          321,
+          334,
+          340,
+          354,
+          364,
+          381,
+          385,
+          466,
+          496,
+          504,
+          529,
+          535,
+          543,
+          551,
+          565,
+          608,
+          672,
+          682,
+          696,
+          698,
+          706,
+          756,
+          764
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3e56d83730cc676c758b4c541a6d8c4531f89a34d6867df5b30b648cd728dbf6",
+  "markdown_path": "pdf/ORNL-TM-13524/ORNL-TM-13524/hybrid_ocr/ORNL-TM-13524.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 80,
+  "sections": [
+    {
+      "anchor": "isotopic-dilution-requirements-for-233-mathrm-u-criticality-safety-in-processing-and-disposal-facilities",
+      "end_line": 9,
+      "heading": "ISOTOPIC DILUTION REQUIREMENTS FOR $^{233}\\mathrm{U}$ CRITICALITY SAFETY IN PROCESSING AND DISPOSAL FACILITIES",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "contents",
+      "end_line": 11,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 10
+    },
+    {
+      "anchor": "list-of-figures-v",
+      "end_line": 19,
+      "heading": "List Of Figures V",
+      "level": 2,
+      "start_line": 12
+    },
+    {
+      "anchor": "abstract-xv",
+      "end_line": 21,
+      "heading": "Abstract Xv",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 23,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "1-1-background-1",
+      "end_line": 24,
+      "heading": "1.1 BACKGROUND 1",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "1-2-goals-of-this-report-1",
+      "end_line": 25,
+      "heading": "1.2 GOALS OF THIS REPORT 1",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "1-3-report-structure-2",
+      "end_line": 26,
+      "heading": "1.3 REPORT STRUCTURE 2",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "1-4-methodology-2",
+      "end_line": 28,
+      "heading": "1.4 METHODOLOGY 2",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "2-approaches-to-criticality-control-3",
+      "end_line": 29,
+      "heading": "2. APPROACHES TO CRITICALITY CONTROL 3",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "3-basis-for-nuclear-criticality-control-by-isotopic-dilution-5",
+      "end_line": 32,
+      "heading": "3. BASIS FOR NUCLEAR CRITICALITY CONTROL BY ISOTOPIC DILUTION 5",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "3-2-criticality-control-in-waste-processing-operations-6",
+      "end_line": 39,
+      "heading": "3.2 CRITICALITY CONTROL IN WASTE PROCESSING OPERATIONS 6",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "3-3-criticality-control-in-disposal-facilities-9",
+      "end_line": 55,
+      "heading": "3.3 CRITICALITY CONTROL IN DISPOSAL FACILITIES 9",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 59,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "4-1-methodology-17",
+      "end_line": 60,
+      "heading": "4.1 METHODOLOGY 17",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "4-2-results-18",
+      "end_line": 61,
+      "heading": "4.2 RESULTS 18",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "4-3-neutronic-conclusions-18",
+      "end_line": 63,
+      "heading": "4.3 NEUTRONIC CONCLUSIONS 18",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "5-conclusion-19",
+      "end_line": 64,
+      "heading": "5. CONCLUSION 19",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "6-references-21",
+      "end_line": 68,
+      "heading": "6. REFERENCES 21",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 74,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 85,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "acronyms-and-abbreviations",
+      "end_line": 131,
+      "heading": "ACRONYMS AND ABBREVIATIONS",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "executive-summary",
+      "end_line": 133,
+      "heading": "EXECUTIVE SUMMARY",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "background",
+      "end_line": 139,
+      "heading": "BACKGROUND",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "characteristics-of-processing-and-disposal-of-233-mathrm-u",
+      "end_line": 151,
+      "heading": "CHARACTERISTICS OF PROCESSING AND DISPOSAL OF $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 140
+    },
+    {
+      "anchor": "legal-and-institutional-considerations",
+      "end_line": 155,
+      "heading": "LEGAL AND INSTITUTIONAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "control-of-nuclear-criticality-by-isotopic-dilution",
+      "end_line": 175,
+      "heading": "CONTROL OF NUCLEAR CRITICALITY BY ISOTOPIC DILUTION",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "references",
+      "end_line": 182,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 188,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 190,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 189
+    },
+    {
+      "anchor": "1-1-background",
+      "end_line": 200,
+      "heading": "1.1 BACKGROUND",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "1-2-goals-of-this-report",
+      "end_line": 210,
+      "heading": "1.2 GOALS OF THIS REPORT",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "1-3-report-structure",
+      "end_line": 214,
+      "heading": "1.3 REPORT STRUCTURE",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "1-4-methodology",
+      "end_line": 218,
+      "heading": "1.4 METHODOLOGY",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "2-approaches-to-criticality-control",
+      "end_line": 229,
+      "heading": "2. APPROACHES TO CRITICALITY CONTROL",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "3-basis-for-nuclear-criticality-control-by-isotopic-dilution",
+      "end_line": 233,
+      "heading": "3. BASIS FOR NUCLEAR CRITICALITY CONTROL BY ISOTOPIC DILUTION",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "3-1-precedents-the-strategy-for-criticality-control-of-waste-235-mathrm-u",
+      "end_line": 247,
+      "heading": "3.1 PRECEDENTS: THE STRATEGY FOR CRITICALITY CONTROL OF WASTE $^{235}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 234
+    },
+    {
+      "anchor": "3-2-criticality-control-in-waste-processing-operations",
+      "end_line": 249,
+      "heading": "3.2 CRITICALITY CONTROL IN WASTE PROCESSING OPERATIONS",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "3-2-1-process-options-for-233-mathrm-u",
+      "end_line": 256,
+      "heading": "3.2.1 Process Options for $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "3-2-2-characteristics-of-waste-process-operations",
+      "end_line": 266,
+      "heading": "3.2.2 Characteristics of Waste Process Operations",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "3-2-3-current-criticality-control-practices",
+      "end_line": 287,
+      "heading": "3.2.3 Current Criticality Control Practices",
+      "level": 1,
+      "start_line": 267
+    },
+    {
+      "anchor": "3-2-4-233-mathrm-u-processing-example-case",
+      "end_line": 291,
+      "heading": "3.2.4 $^{233}\\mathrm{U}$ Processing Example Case",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "3-3-criticality-control-in-disposal-facilities",
+      "end_line": 295,
+      "heading": "3.3 CRITICALITY CONTROL IN DISPOSAL FACILITIES",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "3-3-1-concerns-about-nuclear-criticality-in-repositories",
+      "end_line": 301,
+      "heading": "3.3.1 Concerns About Nuclear Criticality in Repositories",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "3-3-2-specific-nuclear-criticality-scenarios",
+      "end_line": 312,
+      "heading": "3.3.2 Specific Nuclear Criticality Scenarios",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "3-3-2-1-package-criticality",
+      "end_line": 316,
+      "heading": "3.3.2.1 Package Criticality",
+      "level": 1,
+      "start_line": 313
+    },
+    {
+      "anchor": "3-3-2-2-zone-criticality",
+      "end_line": 325,
+      "heading": "3.3.2.2 Zone Criticality",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "formation-of-uranium-ore-deposits-from-uranium-in-rock",
+      "end_line": 328,
+      "heading": "Formation Of Uranium Ore Deposits From Uranium In Rock",
+      "level": 2,
+      "start_line": 326
+    },
+    {
+      "anchor": "formation-of-uranium-ore-deposits-from-uranium-wastes",
+      "end_line": 335,
+      "heading": "Formation Of Uranium Ore Deposits From Uranium Wastes",
+      "level": 2,
+      "start_line": 329
+    },
+    {
+      "anchor": "3-3-2-3-factors-affecting-isotopic-dilution-requirements-for-233-mathrm-u",
+      "end_line": 345,
+      "heading": "3.3.2.3 Factors Affecting Isotopic Dilution Requirements for $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "3-3-3-institutional-and-legal-requirements-for-repository-criticality-control",
+      "end_line": 349,
+      "heading": "3.3.3 Institutional and Legal Requirements for Repository Criticality Control",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "3-3-3-1-current-requirements",
+      "end_line": 361,
+      "heading": "3.3.3.1 Current Requirements",
+      "level": 1,
+      "start_line": 350
+    },
+    {
+      "anchor": "3-3-3-2-nwtrb-recommendations",
+      "end_line": 367,
+      "heading": "3.3.3.2 NWTRB Recommendations",
+      "level": 1,
+      "start_line": 362
+    },
+    {
+      "anchor": "3-3-4-conclusions",
+      "end_line": 376,
+      "heading": "3.3.4 Conclusions",
+      "level": 1,
+      "start_line": 368
+    },
+    {
+      "anchor": "4-isotopic-dilution-of-233-mathrm-u",
+      "end_line": 378,
+      "heading": "4. ISOTOPIC DILUTION OF $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 377
+    },
+    {
+      "anchor": "4-1-methodology",
+      "end_line": 386,
+      "heading": "4.1 METHODOLOGY",
+      "level": 1,
+      "start_line": 379
+    },
+    {
+      "anchor": "4-2-results",
+      "end_line": 404,
+      "heading": "4.2 RESULTS",
+      "level": 1,
+      "start_line": 387
+    },
+    {
+      "anchor": "4-3-neutronic-conclusions",
+      "end_line": 410,
+      "heading": "4.3 NEUTRONIC CONCLUSIONS",
+      "level": 1,
+      "start_line": 405
+    },
+    {
+      "anchor": "5-conclusion",
+      "end_line": 414,
+      "heading": "5. CONCLUSION",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "6-references",
+      "end_line": 455,
+      "heading": "6. REFERENCES",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "neutronic-analysis-of-233-mathrm-u-criticality-control-requirements",
+      "end_line": 457,
+      "heading": "NEUTRONIC ANALYSIS OF $^{233}\\mathrm{U}$ CRITICALITY CONTROL REQUIREMENTS",
+      "level": 1,
+      "start_line": 456
+    },
+    {
+      "anchor": "a-1-introduction",
+      "end_line": 520,
+      "heading": "A.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 458
+    },
+    {
+      "anchor": "a-2-background",
+      "end_line": 530,
+      "heading": "A.2 BACKGROUND",
+      "level": 1,
+      "start_line": 521
+    },
+    {
+      "anchor": "a-3-approach",
+      "end_line": 536,
+      "heading": "A.3 APPROACH",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "a-7",
+      "end_line": 540,
+      "heading": "A-7",
+      "level": 1,
+      "start_line": 537
+    },
+    {
+      "anchor": "a-4-computational-approach-and-results",
+      "end_line": 562,
+      "heading": "A.4 COMPUTATIONAL APPROACH AND RESULTS",
+      "level": 1,
+      "start_line": 541
+    },
+    {
+      "anchor": "a-5-interpretation-of-results",
+      "end_line": 593,
+      "heading": "A.5 INTERPRETATION OF RESULTS",
+      "level": 1,
+      "start_line": 563
+    },
+    {
+      "anchor": "a-13",
+      "end_line": 615,
+      "heading": "A-13",
+      "level": 1,
+      "start_line": 594
+    },
+    {
+      "anchor": "a-7",
+      "end_line": 645,
+      "heading": "(A.7)",
+      "level": 2,
+      "start_line": 616
+    },
+    {
+      "anchor": "a-15",
+      "end_line": 651,
+      "heading": "A-15",
+      "level": 1,
+      "start_line": 646
+    },
+    {
+      "anchor": "a-9",
+      "end_line": 679,
+      "heading": "(A.9)",
+      "level": 2,
+      "start_line": 652
+    },
+    {
+      "anchor": "a-16",
+      "end_line": 693,
+      "heading": "A-16",
+      "level": 1,
+      "start_line": 680
+    },
+    {
+      "anchor": "a-6-development-of-general-dilution-equation-a-4",
+      "end_line": 733,
+      "heading": "A.6 DEVELOPMENT OF GENERAL DILUTION EQUATION (A.4)",
+      "level": 1,
+      "start_line": 694
+    },
+    {
+      "anchor": "a-7-application-of-dilution-equation",
+      "end_line": 743,
+      "heading": "A.7 APPLICATION OF DILUTION EQUATION",
+      "level": 1,
+      "start_line": 734
+    },
+    {
+      "anchor": "a-19",
+      "end_line": 757,
+      "heading": "A-19",
+      "level": 1,
+      "start_line": 744
+    },
+    {
+      "anchor": "a-20",
+      "end_line": 765,
+      "heading": "A-20",
+      "level": 1,
+      "start_line": 758
+    },
+    {
+      "anchor": "a-8-conclusions",
+      "end_line": 775,
+      "heading": "A.8 CONCLUSIONS",
+      "level": 1,
+      "start_line": 766
+    },
+    {
+      "anchor": "a-9-references",
+      "end_line": 784,
+      "heading": "A.9 REFERENCES",
+      "level": 1,
+      "start_line": 776
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 844,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 785
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 906,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 845
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-13524",
+  "tables": [],
+  "title": "ISOTOPIC DILUTION REQUIREMENTS FOR $^{233}\\mathrm{U}$ CRITICALITY SAFETY IN PROCESSING AND DISPOSAL FACILITIES",
+  "topics": [
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

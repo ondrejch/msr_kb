@@ -1,0 +1,369 @@
+{
+  "authors": [
+    "Reactors-Research",
+    "Power",
+    "Per Letter Instructions of",
+    "For: N.T. Bray",
+    "Supervisor/LRD",
+    "M. H. Lietzke",
+    "W. L. Marshall",
+    "LIBRARY LOAN COPY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1711.jsonl",
+  "date_text": "1954",
+  "doc_id": "ornl-1711",
+  "document_type": "report",
+  "entities": {
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          9,
+          41,
+          83,
+          103,
+          171,
+          257,
+          258,
+          259,
+          260
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          118,
+          120,
+          122
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          47,
+          89
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          159,
+          160
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          107
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          107
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          116
+        ],
+        "name": "Foster Wheeler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          3
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          151
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 4,
+        "line_hits": [
+          177,
+          181,
+          214,
+          242
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          195
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "607439617c1cd1f5bf82f5fac0eb1865603fcf6920df3f69ef2ab1a99eb2a766",
+  "markdown_path": "pdf/ORNL-1711/ORNL-1711/hybrid_ocr/ORNL-1711.md",
+  "report_number": "ORNL-925",
+  "report_numbers": [
+    "ORNL-925",
+    "ORNL-1658",
+    "ORNL-1587",
+    "ORNL-1605"
+  ],
+  "report_series": null,
+  "section_count": 32,
+  "sections": [
+    {
+      "anchor": "declassified",
+      "end_line": 2,
+      "heading": "DECLASSIFIED",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 8,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "ornl-1711",
+      "end_line": 18,
+      "heading": "Ornl 1711",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "e-c-bonney",
+      "end_line": 22,
+      "heading": "$E.C.{Bonney}$",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "present-status-of-the-investigation-of",
+      "end_line": 24,
+      "heading": "Present Status Of The Investigation Of",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "aqueous-solutions-suitable-for-use",
+      "end_line": 26,
+      "heading": "Aqueous Solutions Suitable For Use",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "in-a-thorium-breeder-blanket",
+      "end_line": 32,
+      "heading": "In A Thorium Breeder Blanket",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 34,
+      "heading": "Central Research Library Document Collection",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 36,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 40,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 42,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 44,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 46,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "a-division-of-union-carbide-and-carbon-corporation",
+      "end_line": 50,
+      "heading": "A Division Of Union Carbide And Carbon Corporation",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "post-office-box-p",
+      "end_line": 52,
+      "heading": "Post Office Box P",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "oak-ridge-tennessee",
+      "end_line": 54,
+      "heading": "Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "p-s-baker-oral-co",
+      "end_line": 56,
+      "heading": "P. S. Baker, Oral/Co",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "tnnnneaennnn-nnnnneaennnn",
+      "end_line": 78,
+      "heading": "Tnnnneaennnn Nnnnneaennnn",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 80,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "may-13-1954",
+      "end_line": 82,
+      "heading": "May 13 1954",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 86,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 100,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 104,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 174,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 178,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "thorium-nitrate-water-system",
+      "end_line": 182,
+      "heading": "Thorium Nitrate-Water System",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "effect-of-excess-nitric-acid-on-the-thorium-nitrate-water-systems",
+      "end_line": 211,
+      "heading": "Effect of Excess Nitric Acid on the Thorium Nitrate-Water Systems",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "mathrm-tho-2-mathrm-h-3-mathrm-po-4-mathrm-h-2-mathrm-o-system",
+      "end_line": 217,
+      "heading": "$\\mathrm{ThO}_2 = \\mathrm{H}_3\\mathrm{PO}_4 = \\mathrm{H}_2\\mathrm{O}$ System",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "the-mathsf-tho-2-mathsf-h-3-mathsf-po-4-mathsf-hno-3-system",
+      "end_line": 221,
+      "heading": "The $\\mathsf{ThO}_2\\mathsf{-H}_3\\mathsf{PO}_4\\mathsf{-HNO}_3$ System",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "table-3",
+      "end_line": 244,
+      "heading": "Table 3",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 253,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "references",
+      "end_line": 260,
+      "heading": "References",
+      "level": 1,
+      "start_line": 254
+    }
+  ],
+  "source_dir": "pdf/ORNL-1711",
+  "tables": [],
+  "title": "DECLASSIFIED",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "program-history",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

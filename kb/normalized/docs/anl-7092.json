@@ -1,0 +1,1523 @@
+{
+  "authors": [
+    "TAEGEXO NUCLEARREACTOR CONCEPIS",
+    "Homogeneous",
+    "Chronic homogeneous Reactors",
+    "E. Teefer",
+    "James A. Lecky",
+    "John H. Martens",
+    "A"
+  ],
+  "claims_path": "kb/normalized/claims/anl-7092.jsonl",
+  "date_text": "July 25, 1960",
+  "doc_id": "anl-7092",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 38,
+        "line_hits": [
+          157,
+          161,
+          236,
+          242,
+          244,
+          274,
+          276,
+          296,
+          304,
+          306,
+          521,
+          573,
+          581,
+          627,
+          629,
+          687,
+          863,
+          877,
+          949,
+          977,
+          1039,
+          1052,
+          1056,
+          1058,
+          1060,
+          1074,
+          1078,
+          1088,
+          1090,
+          1094,
+          1096,
+          1150,
+          1170,
+          1216,
+          1226,
+          1238,
+          1242,
+          1252
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 21,
+        "line_hits": [
+          155,
+          157,
+          200,
+          202,
+          204,
+          210,
+          220,
+          228,
+          244,
+          252,
+          258,
+          262,
+          276,
+          282,
+          296,
+          298,
+          310,
+          747,
+          760,
+          1078,
+          1086
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          220,
+          244,
+          246,
+          260,
+          278,
+          310,
+          418,
+          721,
+          1064
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          298,
+          949,
+          961,
+          977,
+          1090,
+          1170,
+          1226
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          258,
+          262,
+          327,
+          804
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          246,
+          262
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          715
+        ],
+        "name": "Hastelloy X"
+      }
+    ],
+    "component": [
+      {
+        "count": 60,
+        "line_hits": [
+          196,
+          198,
+          200,
+          204,
+          220,
+          222,
+          228,
+          230,
+          258,
+          276,
+          280,
+          282,
+          284,
+          286,
+          298,
+          306,
+          327,
+          339,
+          350,
+          363,
+          386,
+          400,
+          418,
+          474,
+          492,
+          495,
+          503,
+          505,
+          521,
+          539,
+          613,
+          627,
+          645,
+          659,
+          673,
+          699,
+          715,
+          756,
+          770,
+          786,
+          804,
+          818,
+          831,
+          863,
+          877,
+          891,
+          907,
+          921,
+          935,
+          961
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          218,
+          351,
+          400,
+          483,
+          629,
+          645,
+          659,
+          756,
+          786,
+          818,
+          863,
+          977
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          863,
+          949,
+          1056,
+          1074,
+          1094,
+          1150,
+          1238,
+          1252
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          286,
+          645,
+          935,
+          961,
+          977,
+          1210,
+          1238
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          222,
+          280,
+          492,
+          505,
+          1150
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          276,
+          645,
+          831
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          935
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 80,
+        "line_hits": [
+          163,
+          169,
+          177,
+          179,
+          181,
+          188,
+          208,
+          214,
+          286,
+          454,
+          456,
+          458,
+          466,
+          478,
+          488,
+          490,
+          495,
+          497,
+          513,
+          531,
+          533,
+          543,
+          545,
+          557,
+          559,
+          573,
+          575,
+          587,
+          589,
+          601,
+          603,
+          619,
+          913,
+          917,
+          925,
+          939,
+          941,
+          953,
+          955,
+          969,
+          973,
+          1001,
+          1002,
+          1008,
+          1009,
+          1011,
+          1012,
+          1013,
+          1015,
+          1016
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          188,
+          651,
+          665,
+          679,
+          707,
+          721,
+          1020,
+          1023,
+          1024,
+          1025
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          53,
+          89,
+          91,
+          101,
+          107,
+          111
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          242,
+          637,
+          1019
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          77,
+          183
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          272,
+          1074
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 52,
+        "line_hits": [
+          153,
+          155,
+          157,
+          161,
+          163,
+          165,
+          169,
+          188,
+          194,
+          204,
+          206,
+          210,
+          212,
+          214,
+          222,
+          224,
+          228,
+          230,
+          240,
+          242,
+          250,
+          266,
+          272,
+          306,
+          390,
+          462,
+          483,
+          488,
+          595,
+          629,
+          687,
+          743,
+          804,
+          863,
+          907,
+          977,
+          1003,
+          1005,
+          1007,
+          1008,
+          1009,
+          1010,
+          1012,
+          1056,
+          1058,
+          1060,
+          1066,
+          1078,
+          1082,
+          1090
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          169,
+          188,
+          288,
+          290,
+          294,
+          300,
+          302,
+          304,
+          306,
+          314,
+          967,
+          1042,
+          1045
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          1088,
+          1092,
+          1094,
+          1216,
+          1230,
+          1260,
+          1275
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          242,
+          537,
+          601,
+          1017
+        ],
+        "name": "ART"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 10,
+        "line_hits": [
+          167,
+          174,
+          183,
+          1006,
+          1010,
+          1134,
+          1202,
+          1262,
+          1263,
+          1270
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          163,
+          1019
+        ],
+        "name": "aircraft propulsion reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          314
+        ],
+        "name": "two-fluid breeder"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 8,
+        "line_hits": [
+          167,
+          174,
+          183,
+          1006,
+          1010,
+          1202,
+          1263,
+          1270
+        ],
+        "name": "Fluid Fuel Reactors"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1044,
+          1266,
+          1272
+        ],
+        "name": "MSR Program Quarterly Progress Report"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1011,
+          1015
+        ],
+        "name": "ANP Quarterly Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 23,
+        "line_hits": [
+          155,
+          286,
+          310,
+          350,
+          386,
+          400,
+          462,
+          492,
+          609,
+          673,
+          699,
+          715,
+          743,
+          756,
+          770,
+          786,
+          800,
+          818,
+          831,
+          891,
+          905,
+          933,
+          991
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          155,
+          296,
+          298,
+          306,
+          609,
+          673,
+          729,
+          818,
+          845,
+          921,
+          947,
+          961,
+          977,
+          1094,
+          1166,
+          1168,
+          1208,
+          1210,
+          1224,
+          1226,
+          1238,
+          1252
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          155,
+          180,
+          194,
+          200,
+          270,
+          310,
+          474,
+          503,
+          521,
+          539,
+          729,
+          756,
+          770,
+          786,
+          1004,
+          1078,
+          1086,
+          1090,
+          1192,
+          1269
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          155,
+          204,
+          244,
+          276,
+          296,
+          298,
+          673,
+          845,
+          1166,
+          1208,
+          1238
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          153,
+          204,
+          220,
+          296,
+          298,
+          310,
+          659,
+          673,
+          1086,
+          1094,
+          1238
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          155,
+          845,
+          1166,
+          1208,
+          1238
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          845,
+          1166,
+          1208
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          609,
+          743
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          845,
+          1208
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          609
+        ],
+        "name": "FLiNaK"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c7dca5332b004b24fb71b8941c377399e08bf2453000e9ab487879ed089d0aec",
+  "markdown_path": "pdf/ANL-7092/ANL-7092/hybrid_ocr/ANL-7092.md",
+  "report_number": "ANL-6892",
+  "report_numbers": [
+    "ANL-6892",
+    "ANL-6909",
+    "ORNL-2440"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 111,
+  "sections": [
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 8,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "taegexo-nuclearreactor-concepis",
+      "end_line": 26,
+      "heading": "Taegexo Nuclearreactor Concepis",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "hioin",
+      "end_line": 28,
+      "heading": "Hioin",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "50-0-nfr-0-im745",
+      "end_line": 30,
+      "heading": "50(0)Nfr(0)Im745",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "bibrarayancopoa",
+      "end_line": 32,
+      "heading": "Bibrarayancopoa",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "onononononononon",
+      "end_line": 38,
+      "heading": "Onononononononon",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "okinl138-6-97",
+      "end_line": 44,
+      "heading": "Okinl138(6-97)",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "imo2019-ku-3",
+      "end_line": 52,
+      "heading": "IMO2019 KU 3.",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "argonne-national-laboratory",
+      "end_line": 58,
+      "heading": "Argonne National Laboratory",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "catalog-of-nuclear-reactor-concepts",
+      "end_line": 82,
+      "heading": "CATALOG OF NUCLEAR REACTOR CONCEPTS",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 86,
+      "heading": "Table Of Contents",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "preface",
+      "end_line": 92,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "j-h-m",
+      "end_line": 96,
+      "heading": "J.H.M.",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "plan-of-catalog-of-reactor-concepts",
+      "end_line": 100,
+      "heading": "PLAN OF CATALOG OF REACTOR CONCEPTS",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "anl-6892",
+      "end_line": 106,
+      "heading": "Anl-6892",
+      "level": 2,
+      "start_line": 101
+    },
+    {
+      "anchor": "anl-6892",
+      "end_line": 110,
+      "heading": "Anl-6892",
+      "level": 2,
+      "start_line": 107
+    },
+    {
+      "anchor": "anl-6909",
+      "end_line": 144,
+      "heading": "Anl-6909",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "section-iii-reactors-fueled-with-molten-salt-solutions",
+      "end_line": 146,
+      "heading": "SECTION III. REACTORS FUELED WITH MOLTEN-SALT SOLUTIONS",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "chapter-1-introduction",
+      "end_line": 170,
+      "heading": "Chapter 1. Introduction",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "references",
+      "end_line": 185,
+      "heading": "References",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "chapter-2-one-region-reactors",
+      "end_line": 189,
+      "heading": "Chapter 2. One-region Reactors",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "reactors-for-propulsion",
+      "end_line": 191,
+      "heading": "Reactors for Propulsion",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "early-concepts",
+      "end_line": 211,
+      "heading": "Early Concepts",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "the-aircraft-reactor-experiment",
+      "end_line": 225,
+      "heading": "The Aircraft Reactor Experiment",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "the-fireball-and-related-concepts",
+      "end_line": 255,
+      "heading": "The Fireball and Related Concepts",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "reactor-for-ship-propulsion",
+      "end_line": 263,
+      "heading": "Reactor for Ship Propulsion",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "reactors-for-electrical-power-and-heat",
+      "end_line": 267,
+      "heading": "Reactors for Electrical Power and Heat",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "early-concepts",
+      "end_line": 287,
+      "heading": "Early Concepts",
+      "level": 1,
+      "start_line": 268
+    },
+    {
+      "anchor": "the-msre-and-related-concepts",
+      "end_line": 293,
+      "heading": "The MSRE and Related Concepts",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "predecessors-to-msre",
+      "end_line": 299,
+      "heading": "Predecessors to MSRE",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "msre",
+      "end_line": 307,
+      "heading": "MSRE",
+      "level": 1,
+      "start_line": 300
+    },
+    {
+      "anchor": "advanced-concept",
+      "end_line": 311,
+      "heading": "Advanced Concept",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "status",
+      "end_line": 315,
+      "heading": "Status",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 317,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 316
+    },
+    {
+      "anchor": "one-region-reactors",
+      "end_line": 319,
+      "heading": "One-Region Reactors",
+      "level": 2,
+      "start_line": 318
+    },
+    {
+      "anchor": "no-1-homogeneous-circulating-suspension-reactor-h-k-ferguson-co",
+      "end_line": 330,
+      "heading": "No. 1 Homogeneous Circulating Suspension Reactor H. K. Ferguson Co.",
+      "level": 1,
+      "start_line": 320
+    },
+    {
+      "anchor": "no-2-homogeneous-circulating-fuel-moderator-slurry-reactor-h-k-ferguson-co",
+      "end_line": 342,
+      "heading": "No. 2 Homogeneous Circulating Fuel-moderator Slurry Reactor H. K. Ferguson Co.",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "no-3-circulating-fluoride-reactor",
+      "end_line": 355,
+      "heading": "No. 3 Circulating-fluoride Reactor",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "no-4-circulating-fuel-dispersed-moderator-reactor",
+      "end_line": 365,
+      "heading": "No. 4 Circulating-fuel, Dispersed-moderator Reactor",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "no-5-circulating-fuel-reflector-moderator-reactor",
+      "end_line": 375,
+      "heading": "No. 5 Circulating-fuel, Reflector-moderator Reactor",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "no-6-circulating-moderator-coolant-reactor",
+      "end_line": 389,
+      "heading": "No. 6 Circulating Moderator-coolant Reactor",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "no-7-circulating-moderator-are",
+      "end_line": 403,
+      "heading": "No. 7 Circulating-moderator ARE",
+      "level": 1,
+      "start_line": 390
+    },
+    {
+      "anchor": "8111x",
+      "end_line": 405,
+      "heading": "8111X",
+      "level": 2,
+      "start_line": 404
+    },
+    {
+      "anchor": "no-8-unreflected-homogeneous-reactor-moderated-by",
+      "end_line": 407,
+      "heading": "No. 8 Unreflected Homogeneous Reactor Moderated by",
+      "level": 1,
+      "start_line": 406
+    },
+    {
+      "anchor": "sodium-hydroxide",
+      "end_line": 409,
+      "heading": "Sodium Hydroxide",
+      "level": 1,
+      "start_line": 408
+    },
+    {
+      "anchor": "battelle-memorial-institute",
+      "end_line": 421,
+      "heading": "Battelle Memorial Institute",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "no-9-unreflected-homogeneous-reactor-moderated-by",
+      "end_line": 423,
+      "heading": "No. 9 Unreflected Homogeneous Reactor Moderated by",
+      "level": 1,
+      "start_line": 422
+    },
+    {
+      "anchor": "lithium-7-hydroxide",
+      "end_line": 425,
+      "heading": "Lithium-7 Hydroxide",
+      "level": 1,
+      "start_line": 424
+    },
+    {
+      "anchor": "battelle-memorial-institute",
+      "end_line": 437,
+      "heading": "Battelle Memorial Institute",
+      "level": 1,
+      "start_line": 426
+    },
+    {
+      "anchor": "no-10-unreflected-homogeneous-reactor-moderated-by",
+      "end_line": 439,
+      "heading": "No. 10 Unreflected Homogeneous Reactor Moderated by",
+      "level": 1,
+      "start_line": 438
+    },
+    {
+      "anchor": "lithium-7-deuteroxide",
+      "end_line": 441,
+      "heading": "Lithium-7 Deuteroxide",
+      "level": 1,
+      "start_line": 440
+    },
+    {
+      "anchor": "battelle-memorial-institute",
+      "end_line": 453,
+      "heading": "Battelle Memorial Institute",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "no-11-200-mw-t-aircraft-reactor-ornl",
+      "end_line": 465,
+      "heading": "No.11 200-MW(t) Aircraft Reactor ORNL",
+      "level": 1,
+      "start_line": 454
+    },
+    {
+      "anchor": "no-12-circulating-fuel-reactor-for-direct-heat-transfer-to-engine-ornl",
+      "end_line": 477,
+      "heading": "No. 12 Circulating-fuel Reactor for Direct Heat Transfer to Engine ORNL",
+      "level": 1,
+      "start_line": 466
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 487,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "no-14-aircraft-reactor-experiment-are-ornl",
+      "end_line": 494,
+      "heading": "No. 14 Aircraft Reactor Experiment (ARE) ORNL",
+      "level": 1,
+      "start_line": 488
+    },
+    {
+      "anchor": "no-15-aircraft-reactor-with-tandem-heat-exchanger-ornl",
+      "end_line": 510,
+      "heading": "No. 15 Aircraft Reactor with Tandem Heat Exchanger ORNL",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "no-16-fireball-early-design",
+      "end_line": 512,
+      "heading": "No. 16 Fireball, Early Design",
+      "level": 1,
+      "start_line": 511
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 530,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "no-17-reflector-moderated-circulating-fuel-reactor-fireball-ornl",
+      "end_line": 542,
+      "heading": "No. 17 Reflector-moderated Circulating-fuel Reactor (Fireball) ORNL",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "no-18-fireball-without-central-island-ornl",
+      "end_line": 600,
+      "heading": "No. 18 Fireball without Central Island ORNL",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "no-22-aircraft-reactor-test-ornl",
+      "end_line": 616,
+      "heading": "No.22 Aircraft Reactor Test ORNL",
+      "level": 1,
+      "start_line": 601
+    },
+    {
+      "anchor": "81x1x",
+      "end_line": 618,
+      "heading": "81X1X",
+      "level": 2,
+      "start_line": 617
+    },
+    {
+      "anchor": "no-23-circulating-fluoride-fuel-high-flux-reactor-ornl",
+      "end_line": 632,
+      "heading": "No. 23 Circulating Fluoride-fuel High-flux Reactor ORNL",
+      "level": 1,
+      "start_line": 619
+    },
+    {
+      "anchor": "815xx",
+      "end_line": 634,
+      "heading": "815Xx",
+      "level": 2,
+      "start_line": 633
+    },
+    {
+      "anchor": "81x1x",
+      "end_line": 636,
+      "heading": "81X1X",
+      "level": 2,
+      "start_line": 635
+    },
+    {
+      "anchor": "no-24-reflector-moderated-lf-1-through-lf-6-general-electric-company",
+      "end_line": 775,
+      "heading": "No. 24 Reflector-moderated LF-1 through LF-6 General Electric Company",
+      "level": 1,
+      "start_line": 637
+    },
+    {
+      "anchor": "no-34-sodium-hydroxide-core-moderated-circulating-fluoride-fuel-reactor",
+      "end_line": 791,
+      "heading": "No. 34 Sodium Hydroxide Core Moderated, Circulating Fluoride-fuel Reactor",
+      "level": 1,
+      "start_line": 776
+    },
+    {
+      "anchor": "no-35-reflector-moderated-circulating-fuel-aircraft-reactor-screwball-orsort",
+      "end_line": 811,
+      "heading": "No. 35 Reflector-moderated, Circulating-fuel Aircraft Reactor (Screwball) ORSORT",
+      "level": 1,
+      "start_line": 792
+    },
+    {
+      "anchor": "no-36-high-performance-marine-reactor",
+      "end_line": 813,
+      "heading": "No. 36 High-performance Marine Reactor",
+      "level": 1,
+      "start_line": 812
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 824,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 814
+    },
+    {
+      "anchor": "no-37-modified-high-performance-marine-reactor-orsort",
+      "end_line": 834,
+      "heading": "No. 37 Modified High-performance Marine Reactor ORSORT",
+      "level": 1,
+      "start_line": 825
+    },
+    {
+      "anchor": "no-38-molten-salt-thorium-converter-for-electrical-power-production-knolls-atomic-power-laboratory",
+      "end_line": 848,
+      "heading": "No. 38 Molten-salt Thorium Converter for Electrical Power Production Knolls Atomic Power Laboratory",
+      "level": 1,
+      "start_line": 835
+    },
+    {
+      "anchor": "no-39-fused-salt-reactor-for-power-and-heat",
+      "end_line": 850,
+      "heading": "No. 39 Fused Salt Reactor for Power and Heat",
+      "level": 1,
+      "start_line": 849
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 866,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 851
+    },
+    {
+      "anchor": "no-40-fused-salt-breeder-reactor-fsbr",
+      "end_line": 868,
+      "heading": "No. 40 Fused Salt Breeder Reactor (FSBR)",
+      "level": 1,
+      "start_line": 867
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 882,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 869
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 896,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 883
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 912,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 897
+    },
+    {
+      "anchor": "no-43-molten-salt-natural-convection-reactor-american-standard-and-ornl",
+      "end_line": 924,
+      "heading": "No. 43 Molten Salt Natural Convection Reactor American Standard and ORNL",
+      "level": 1,
+      "start_line": 913
+    },
+    {
+      "anchor": "no-44-homogeneous-fused-salt-power-reactor-ornl",
+      "end_line": 938,
+      "heading": "No. 44 Homogeneous Fused Salt Power Reactor ORNL",
+      "level": 1,
+      "start_line": 925
+    },
+    {
+      "anchor": "no-45-slightly-enriched-fused-salt-fueled-reactor-ornl",
+      "end_line": 952,
+      "heading": "No. 45 Slightly Enriched, Fused-salt-fueled Reactor ORNL",
+      "level": 1,
+      "start_line": 939
+    },
+    {
+      "anchor": "no-46-experimental-molten-salt-fueled-30-mathrm-mw-t-power-reactor-ornl",
+      "end_line": 966,
+      "heading": "No. 46 Experimental Molten-salt-fueled $30\\mathrm{MW(t)}$ Power Reactor ORNL",
+      "level": 1,
+      "start_line": 953
+    },
+    {
+      "anchor": "no-47-molten-salt-reactor-experiment-msre",
+      "end_line": 968,
+      "heading": "No. 47 Molten Salt Reactor Experiment (MSRE)",
+      "level": 1,
+      "start_line": 967
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 994,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 969
+    },
+    {
+      "anchor": "references",
+      "end_line": 1049,
+      "heading": "References",
+      "level": 1,
+      "start_line": 995
+    },
+    {
+      "anchor": "chapter-3-two-region-reactors",
+      "end_line": 1061,
+      "heading": "Chapter 3. Two-region Reactors",
+      "level": 1,
+      "start_line": 1050
+    },
+    {
+      "anchor": "hydroxide-moderated-reactor",
+      "end_line": 1067,
+      "heading": "Hydroxide-moderated Reactor",
+      "level": 1,
+      "start_line": 1062
+    },
+    {
+      "anchor": "mit-fast-reactor",
+      "end_line": 1071,
+      "heading": "MIT Fast Reactor",
+      "level": 1,
+      "start_line": 1068
+    },
+    {
+      "anchor": "orsort-fast-breeder",
+      "end_line": 1075,
+      "heading": "ORSORT Fast Breeder",
+      "level": 1,
+      "start_line": 1072
+    },
+    {
+      "anchor": "internally-cooled-molten-salt-reactor",
+      "end_line": 1079,
+      "heading": "Internally Cooled Molten-salt Reactor",
+      "level": 1,
+      "start_line": 1076
+    },
+    {
+      "anchor": "thermal-convection-reactor",
+      "end_line": 1083,
+      "heading": "Thermal Convection Reactor",
+      "level": 1,
+      "start_line": 1080
+    },
+    {
+      "anchor": "molten-salt-reactor-msr",
+      "end_line": 1087,
+      "heading": "Molten Salt Reactor (MSR)",
+      "level": 1,
+      "start_line": 1084
+    },
+    {
+      "anchor": "two-region-graphite-moderated-molten-salt-breeder-reactor",
+      "end_line": 1091,
+      "heading": "Two-region, Graphite-moderated, Molten-salt Breeder Reactor",
+      "level": 1,
+      "start_line": 1088
+    },
+    {
+      "anchor": "molten-salt-breeder-reactor-msbr",
+      "end_line": 1097,
+      "heading": "Molten Salt Breeder Reactor (MSBR)",
+      "level": 1,
+      "start_line": 1092
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 1099,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 1098
+    },
+    {
+      "anchor": "two-region-reactors",
+      "end_line": 1101,
+      "heading": "Two-Region Reactors",
+      "level": 2,
+      "start_line": 1100
+    },
+    {
+      "anchor": "no-1-reflected-homogeneous-reactor-moderated-by-lithium-7-hydroxide",
+      "end_line": 1113,
+      "heading": "No. 1 Reflected Homogeneous Reactor Moderated by Lithium-7 Hydroxide",
+      "level": 1,
+      "start_line": 1102
+    },
+    {
+      "anchor": "no-2-reflected-homogeneous-reactor-moderated-by-lithium-7-deuteroxide",
+      "end_line": 1127,
+      "heading": "No. 2 Reflected Homogeneous Reactor Moderated by Lithium-7 Deuteroxide",
+      "level": 1,
+      "start_line": 1114
+    },
+    {
+      "anchor": "no-3-mit-fluid-fuel-fused-salt-reactor-mit",
+      "end_line": 1139,
+      "heading": "No. 3 MIT Fluid Fuel Fused-salt Reactor MIT",
+      "level": 1,
+      "start_line": 1128
+    },
+    {
+      "anchor": "no-4-fused-salt-fast-breeder-reactor",
+      "end_line": 1141,
+      "heading": "No. 4 Fused Salt Fast Breeder Reactor",
+      "level": 1,
+      "start_line": 1140
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1155,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1142
+    },
+    {
+      "anchor": "no-5-internally-cooled-molten-salt-reactor",
+      "end_line": 1157,
+      "heading": "No. 5 Internally Cooled Molten-salt Reactor",
+      "level": 1,
+      "start_line": 1156
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1177,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1158
+    },
+    {
+      "anchor": "no-6-5-mw-50-mw-thermal-convection-molten-salt-reactor",
+      "end_line": 1179,
+      "heading": "No. 6 5 MW(50 MW) Thermal-convection Molten Salt Reactor",
+      "level": 1,
+      "start_line": 1178
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1197,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1180
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1215,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1198
+    },
+    {
+      "anchor": "no-8-two-region-graphite-moderated-molten-salt-breeder-reactor-ornl",
+      "end_line": 1229,
+      "heading": "No. 8 Two-region, Graphite-moderated Molten-salt Breeder Reactor ORNL",
+      "level": 1,
+      "start_line": 1216
+    },
+    {
+      "anchor": "no-9-molten-salt-breeder-reactor-msbr-ornl",
+      "end_line": 1243,
+      "heading": "No. 9 Molten Salt Breeder Reactor (MSBR) ORNL",
+      "level": 1,
+      "start_line": 1230
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1257,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1244
+    },
+    {
+      "anchor": "references",
+      "end_line": 1277,
+      "heading": "References",
+      "level": 1,
+      "start_line": 1258
+    }
+  ],
+  "source_dir": "pdf/ANL-7092",
+  "tables": [],
+  "title": "MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

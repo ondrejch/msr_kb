@@ -1,0 +1,252 @@
+{
+  "authors": [
+    "KEYWORDS: reactivity",
+    "MSRE",
+    "T. W. KERLIN",
+    "S. J. BALL",
+    "R. C. STEFFY",
+    "M. R. BUCKNER\\*\\*",
+    "I. INTRODUCTION",
+    "II. PLANNING THE TESTS",
+    "A. Objective"
+  ],
+  "claims_path": "kb/normalized/claims/experiences-with-dynamic-testing-methods-at-the-molten-salt-reactor-experiment.jsonl",
+  "date_text": "May 23, 1970",
+  "doc_id": "experiences-with-dynamic-testing-methods-at-the-molten-salt-reactor-experiment",
+  "document_type": "paper",
+  "entities": {
+    "component": [
+      {
+        "count": 8,
+        "line_hits": [
+          205,
+          207,
+          218,
+          234,
+          245,
+          249,
+          253,
+          255
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          40,
+          42,
+          203,
+          205,
+          207,
+          214
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          335,
+          341,
+          342,
+          347,
+          348,
+          349,
+          350
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          9,
+          341,
+          347,
+          348,
+          349,
+          350,
+          351
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          335
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 20,
+        "line_hits": [
+          42,
+          48,
+          68,
+          70,
+          110,
+          118,
+          140,
+          142,
+          159,
+          184,
+          201,
+          222,
+          225,
+          226,
+          234,
+          236,
+          276,
+          304,
+          306,
+          322
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          1,
+          5,
+          19,
+          28,
+          40,
+          42,
+          86,
+          161,
+          188,
+          274,
+          292,
+          297,
+          302,
+          308,
+          320,
+          327,
+          331,
+          339,
+          348,
+          350
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c845bc23a76bd0bb10c0ba525aa3d5ef90ab558fd081bf060569858465e61ebc",
+  "markdown_path": "pdf/NAT_MSREdynamicsTesting/NAT_MSREdynamicsTesting/hybrid_ocr/NAT_MSREdynamicsTesting.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "natural-language-summaries",
+  "section_count": 13,
+  "sections": [
+    {
+      "anchor": "experiences-with-dynamic-testing-methods-at-the-molten-salt-reactor-experiment",
+      "end_line": 16,
+      "heading": "EXPERIENCES WITH DYNAMIC TESTING METHODS AT THE MOLTEN-SALT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 29,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "ii-planning-the-tests",
+      "end_line": 31,
+      "heading": "II. PLANNING THE TESTS",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "a-objective",
+      "end_line": 37,
+      "heading": "A. Objective",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "b-equipment-used-in-experimenta-measurements",
+      "end_line": 49,
+      "heading": "B. Equipment Used in Experimenta! Measurements",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "c-test-signals",
+      "end_line": 87,
+      "heading": "C. Test Signals",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "2-properties-of-input-signals",
+      "end_line": 219,
+      "heading": "2. Properties of Input Signals.",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "iii-data-analysis-methods",
+      "end_line": 227,
+      "heading": "III. DATA ANALYSIS METHODS",
+      "level": 1,
+      "start_line": 220
+    },
+    {
+      "anchor": "iv-results",
+      "end_line": 231,
+      "heading": "IV. RESULTS",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "frequency-response-results",
+      "end_line": 317,
+      "heading": "Frequency Response Results",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "v-conclusions",
+      "end_line": 332,
+      "heading": "V. CONCLUSIONS",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 336,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "references",
+      "end_line": 352,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 337
+    }
+  ],
+  "source_dir": "pdf/NAT_MSREdynamicsTesting",
+  "tables": [],
+  "title": "EXPERIENCES WITH DYNAMIC TESTING METHODS AT THE MOLTEN-SALT REACTOR EXPERIMENT",
+  "topics": [
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls",
+    "program-history",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

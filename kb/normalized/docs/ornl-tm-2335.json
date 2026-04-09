@@ -1,0 +1,395 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2335.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2335",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          107,
+          109
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          117
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 14,
+        "line_hits": [
+          13,
+          52,
+          657,
+          659,
+          661,
+          663,
+          665,
+          667,
+          669,
+          671,
+          673,
+          677,
+          679,
+          681
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          3,
+          15,
+          42,
+          99,
+          123,
+          127,
+          155,
+          162,
+          177,
+          218,
+          226,
+          236,
+          657
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          5,
+          48
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 6,
+        "line_hits": [
+          99,
+          101,
+          153,
+          184,
+          190,
+          192
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          95
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 21,
+        "line_hits": [
+          19,
+          34,
+          95,
+          101,
+          103,
+          123,
+          125,
+          160,
+          166,
+          169,
+          172,
+          175,
+          182,
+          194,
+          200,
+          202,
+          206,
+          209,
+          211,
+          224,
+          229
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          99,
+          101,
+          103
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          206
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          135
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          206
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "71d9ac5357edd57805fcc760873677010159cf7024db73e09885b516d2afad65",
+  "markdown_path": "pdf/ORNL-TM-2335/ORNL-TM-2335/hybrid_ocr/ORNL-TM-2335.md",
+  "report_number": "ORNL-TM-2335",
+  "report_numbers": [
+    "ORNL-TM-2335",
+    "ORNL-TM-2256"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 30,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory-operated-by",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY operated by",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 6,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 12,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 14,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-tm-2335",
+      "end_line": 16,
+      "heading": "Ornl-Tm-2335",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "solubility-of-cerium-trifluoride-in-molten-mixtures-of",
+      "end_line": 20,
+      "heading": "Solubility Of Cerium Trifluoride In Molten Mixtures Of",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 31,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 37,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "january-1969",
+      "end_line": 41,
+      "heading": "January 1969",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 47,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 51,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 53,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 66,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "contents",
+      "end_line": 92,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 96,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 104,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "equipment",
+      "end_line": 120,
+      "heading": "EQUIPMENT",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "materials",
+      "end_line": 130,
+      "heading": "MATERIALS",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 150,
+      "heading": "PROCEDURE",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "results-and-discussion",
+      "end_line": 154,
+      "heading": "RESULTS AND DISCUSSION",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "ornl-dwg-68-12064",
+      "end_line": 156,
+      "heading": "Ornl-Dwg 68-12064",
+      "level": 2,
+      "start_line": 155
+    },
+    {
+      "anchor": "temperature-c",
+      "end_line": 161,
+      "heading": "TEMPERATURE (°C)",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "ornl-dwg-68-12063",
+      "end_line": 176,
+      "heading": "Ornl-Dwg 68-12063",
+      "level": 2,
+      "start_line": 162
+    },
+    {
+      "anchor": "ornl-dwg-68-12068",
+      "end_line": 178,
+      "heading": "Ornl-Dwg 68-12068",
+      "level": 2,
+      "start_line": 177
+    },
+    {
+      "anchor": "temperature-c",
+      "end_line": 212,
+      "heading": "Temperature (°C)",
+      "level": 2,
+      "start_line": 179
+    },
+    {
+      "anchor": "references",
+      "end_line": 225,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "ornl-dwg-68-12070",
+      "end_line": 230,
+      "heading": "Ornl-Dwg 68-12070",
+      "level": 2,
+      "start_line": 226
+    },
+    {
+      "anchor": "references",
+      "end_line": 242,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 654,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 683,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 655
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2335",
+  "tables": [],
+  "title": "![](images/58a6b6f620ed6ccec527f91d5e2a9e80ae33629359cff6d9bda52a92e6bf5093.jpg)",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

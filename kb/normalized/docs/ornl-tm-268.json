@@ -1,0 +1,281 @@
+{
+  "authors": [
+    "ORNL",
+    "UNION CARBIDE CORPORATION",
+    "UNION CARBIDE",
+    "COPY NO. -",
+    "J. Zasler",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-268.jsonl",
+  "date_text": "July 5, 1962",
+  "doc_id": "ornl-tm-268",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 10,
+        "line_hits": [
+          29,
+          39,
+          45,
+          47,
+          62,
+          64,
+          66,
+          84,
+          129,
+          140
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          37,
+          47,
+          62,
+          66,
+          84
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          3,
+          5,
+          17,
+          33,
+          150,
+          151
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          15,
+          165
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          9,
+          13
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 5,
+        "line_hits": [
+          37,
+          43,
+          45,
+          76,
+          135
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7a48e9e27efb8c71e01ba751ef677a7d67e818b39e9dd39e4d2e5c715cfaf384",
+  "markdown_path": "pdf/ORNL-TM-0268/ORNL-TM-0268/hybrid_ocr/ORNL-TM-0268.md",
+  "report_number": "ORNL-TM-268",
+  "report_numbers": [
+    "ORNL-TM-268"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 24,
+  "sections": [
+    {
+      "anchor": "ornl",
+      "end_line": 4,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 8,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 12,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "union-carbide",
+      "end_line": 14,
+      "heading": "Union Carbide",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 16,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ornl-tm-268",
+      "end_line": 18,
+      "heading": "Ornl-Tm-268",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 26,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 30,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "notice",
+      "end_line": 34,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 40,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "description-of-reactor",
+      "end_line": 55,
+      "heading": "Description of Reactor",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "conversion-to-50-mw-operation",
+      "end_line": 69,
+      "heading": "Conversion to 50 Mw operation",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "cost-estimate",
+      "end_line": 77,
+      "heading": "Cost Estimate",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "acknowledgements",
+      "end_line": 85,
+      "heading": "Acknowledgements",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 87,
+      "heading": "Table II",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "cost-estimate-5-mw-experimental-reactor",
+      "end_line": 130,
+      "heading": "Cost Estimate - 5 Mw Experimental Reactor",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 132,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "selection-of-uranium-concentration-and-core-size",
+      "end_line": 147,
+      "heading": "Selection of Uranium Concentration and Core Size",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "references",
+      "end_line": 153,
+      "heading": "References",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "fig-1-elevation-of-5mw-experimental-molten-salt-reactor-plant",
+      "end_line": 155,
+      "heading": "Fig.1 Elevation Of 5Mw Experimental Molten Salt Reactor Plant",
+      "level": 2,
+      "start_line": 154
+    },
+    {
+      "anchor": "unclassified-photo-31646",
+      "end_line": 158,
+      "heading": "Unclassified Photo 31646",
+      "level": 2,
+      "start_line": 156
+    },
+    {
+      "anchor": "84ft",
+      "end_line": 162,
+      "heading": "84Ft.",
+      "level": 2,
+      "start_line": 159
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 164,
+      "heading": "Distribution",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "1-3-dtie-aec",
+      "end_line": 167,
+      "heading": "1-3. Dtie, Aec",
+      "level": 2,
+      "start_line": 165
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0268",
+  "tables": [],
+  "title": "![](images/beeaceb08151b23446ca19536be9f0710c5b1efa60625fdb4f0d8b79aefc99dc.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "program-history",
+    "instrumentation-and-controls"
+  ],
+  "warnings": []
+}

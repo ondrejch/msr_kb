@@ -1,0 +1,1098 @@
+{
+  "authors": [
+    "W. L. Carter",
+    "M. E. Whatley",
+    "CESTI PRICCS",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1852.jsonl",
+  "date_text": "June 1967",
+  "doc_id": "ornl-tm-1852",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          189,
+          199,
+          353,
+          394
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          236,
+          298,
+          413,
+          417
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          189,
+          487,
+          489,
+          497
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          143,
+          465,
+          501
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          298,
+          394
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          189
+        ],
+        "name": "niobium"
+      }
+    ],
+    "component": [
+      {
+        "count": 12,
+        "line_hits": [
+          68,
+          109,
+          197,
+          260,
+          262,
+          264,
+          266,
+          449,
+          451,
+          537,
+          565,
+          567
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          240
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 27,
+        "line_hits": [
+          1,
+          157,
+          171,
+          292,
+          296,
+          298,
+          303,
+          322,
+          332,
+          346,
+          363,
+          370,
+          372,
+          375,
+          429,
+          443,
+          605,
+          606,
+          608,
+          609,
+          610,
+          611,
+          612,
+          615,
+          616,
+          617,
+          884
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          725,
+          785,
+          815,
+          839,
+          847,
+          851,
+          861
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          298,
+          332,
+          607
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 54,
+        "line_hits": [
+          19,
+          21,
+          36,
+          38,
+          40,
+          133,
+          139,
+          143,
+          147,
+          149,
+          153,
+          189,
+          193,
+          195,
+          197,
+          199,
+          214,
+          222,
+          240,
+          246,
+          262,
+          266,
+          270,
+          282,
+          286,
+          294,
+          296,
+          298,
+          300,
+          305,
+          307,
+          309,
+          313,
+          322,
+          353,
+          355,
+          387,
+          394,
+          413,
+          425,
+          433,
+          437,
+          439,
+          443,
+          449,
+          469,
+          497,
+          511,
+          515,
+          533
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 28,
+        "line_hits": [
+          7,
+          19,
+          40,
+          58,
+          129,
+          131,
+          133,
+          137,
+          143,
+          147,
+          153,
+          174,
+          300,
+          305,
+          326,
+          340,
+          353,
+          392,
+          437,
+          447,
+          463,
+          469,
+          515,
+          529,
+          535,
+          605,
+          616,
+          617
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          95,
+          383,
+          387,
+          390,
+          394,
+          417,
+          459,
+          537,
+          547,
+          549
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          340,
+          439
+        ],
+        "name": "MSBE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          615
+        ],
+        "name": "MSR Program Semiannual Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 19,
+        "line_hits": [
+          21,
+          143,
+          157,
+          209,
+          214,
+          216,
+          220,
+          222,
+          224,
+          226,
+          228,
+          230,
+          234,
+          270,
+          313,
+          379,
+          398,
+          485,
+          489
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          147,
+          195,
+          199,
+          205,
+          270,
+          280,
+          294,
+          309,
+          313,
+          315,
+          340,
+          370,
+          437,
+          447
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          240,
+          294,
+          298,
+          309,
+          313,
+          394,
+          409,
+          443,
+          447,
+          521
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          220,
+          270
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          270
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          322
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          228
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          183
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          220
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "01873fd0db72e6e52e0e3dc441df76465a824c977f748bce52d12d293f3768dd",
+  "markdown_path": "pdf/ORNL-TM-1852/ORNL-TM-1852/hybrid_ocr/ORNL-TM-1852.md",
+  "report_number": "ORNL-TM-1852",
+  "report_numbers": [
+    "ORNL-TM-1852"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 98,
+  "sections": [
+    {
+      "anchor": "ornl-tm-1852",
+      "end_line": 2,
+      "heading": "Ornl-Tm-1852",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-227",
+      "end_line": 6,
+      "heading": "Copy No. 227",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "fuel-and-blanket-processing-development-for-molten-salt-breeder-reactors",
+      "end_line": 12,
+      "heading": "Fuel And Blanket Processing Development For Molten Salt Breeder Reactors",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "cesti-priccs",
+      "end_line": 14,
+      "heading": "Cesti Priccs",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "3-0-mn-65",
+      "end_line": 16,
+      "heading": "3.0; Mn 65",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 24,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 41,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 51,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 42
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 53,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "page-no",
+      "end_line": 98,
+      "heading": "Page No.",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "table-of-contents-cont",
+      "end_line": 126,
+      "heading": "TABLE OF CONTENTS (cont.)",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 136,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "elements-and-requirements-of-msbr-processing",
+      "end_line": 140,
+      "heading": "ELEMENTS AND REQUIREMENTS OF MSBR PROCESSING",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "objectives",
+      "end_line": 144,
+      "heading": "Objectives",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "design-features",
+      "end_line": 150,
+      "heading": "Design Features",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "process-operations",
+      "end_line": 158,
+      "heading": "Process Operations",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "description-of-process",
+      "end_line": 164,
+      "heading": "DESCRIPTION OF PROCESS",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "fuel-stream-process",
+      "end_line": 166,
+      "heading": "Fuel Stream Process",
+      "level": 1,
+      "start_line": 165
+    },
+    {
+      "anchor": "decay-holdup",
+      "end_line": 170,
+      "heading": "Decay Holdup",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "ornl-dwg-a7-3654-r1",
+      "end_line": 180,
+      "heading": "Ornl Dwg A7-3654 R1",
+      "level": 2,
+      "start_line": 171
+    },
+    {
+      "anchor": "continuous-fluorination",
+      "end_line": 190,
+      "heading": "Continuous Fluorination",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "uf6-purification-by-sorption",
+      "end_line": 202,
+      "heading": "UF6 Purification by Sorption",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "uf6-collection",
+      "end_line": 206,
+      "heading": "UF6 Collection",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "vacuum-distillation",
+      "end_line": 231,
+      "heading": "Vacuum Distillation",
+      "level": 1,
+      "start_line": 207
+    },
+    {
+      "anchor": "fuel-reconstitution",
+      "end_line": 237,
+      "heading": "Fuel Reconstitution",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "xenon-removal",
+      "end_line": 243,
+      "heading": "Xenon Removal",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "fertile-stream-process",
+      "end_line": 253,
+      "heading": "Fertile Stream Process",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "protactinium-removal",
+      "end_line": 259,
+      "heading": "Protactinium Removal",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "off-gas-treatment",
+      "end_line": 267,
+      "heading": "Off-Gas Treatment",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "waste-storage",
+      "end_line": 271,
+      "heading": "Waste Storage",
+      "level": 1,
+      "start_line": 268
+    },
+    {
+      "anchor": "aqueous-waste",
+      "end_line": 275,
+      "heading": "Aqueous Waste",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "fertile-stream-discard",
+      "end_line": 279,
+      "heading": "Fertile Stream Discard",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "naf-and-mgf-pellets",
+      "end_line": 283,
+      "heading": "NaF and MgF, Pellets",
+      "level": 1,
+      "start_line": 280
+    },
+    {
+      "anchor": "kr-and-xe-daughter-products",
+      "end_line": 287,
+      "heading": "Kr and Xe Daughter Products",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "status-of-processing-technology-and-needed-development",
+      "end_line": 289,
+      "heading": "STATUS OF PROCESSING TECHNOLOGY AND NEEDED DEVELOPMENT",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "fluoride-volatility-process",
+      "end_line": 306,
+      "heading": "Fluoride Volatility Process",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "are-fuel-processing",
+      "end_line": 310,
+      "heading": "ARE Fuel Processing",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "zr-u-and-al-u-fuels",
+      "end_line": 323,
+      "heading": "Zr-U and Al-U Fuels",
+      "level": 1,
+      "start_line": 311
+    },
+    {
+      "anchor": "continuous-fluorination",
+      "end_line": 327,
+      "heading": "Continuous Fluorination",
+      "level": 1,
+      "start_line": 324
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 333,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 328
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 337,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "mathbf-u-mathbf-f-6-purification-by-sorption",
+      "end_line": 341,
+      "heading": "$\\mathbf{U}\\mathbf{F}_{6}$ Purification by Sorption",
+      "level": 1,
+      "start_line": 338
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 345,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "ornl-dwg-65-3037ra",
+      "end_line": 350,
+      "heading": "Ornl-Dwg 65-3037Ra",
+      "level": 2,
+      "start_line": 346
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 358,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "cold-traps",
+      "end_line": 360,
+      "heading": "Cold Traps",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 364,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 371,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "ornl-lr-dwg-19091-r-i",
+      "end_line": 376,
+      "heading": "Ornl-Lr-Dwg 19091 R-I",
+      "level": 2,
+      "start_line": 372
+    },
+    {
+      "anchor": "vacuum-distillation",
+      "end_line": 380,
+      "heading": "Vacuum Distillation",
+      "level": 1,
+      "start_line": 377
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 384,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 395,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "fuel-reconstitution",
+      "end_line": 399,
+      "heading": "Fuel Reconstitution",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 406,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 400
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 410,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 407
+    },
+    {
+      "anchor": "fuel-clarification",
+      "end_line": 414,
+      "heading": "Fuel Clarification",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 418,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 422,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 419
+    },
+    {
+      "anchor": "protactinium-removal",
+      "end_line": 426,
+      "heading": "Protactinium Removal",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 430,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 427
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 434,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 431
+    },
+    {
+      "anchor": "waste-handling-and-disposal",
+      "end_line": 440,
+      "heading": "Waste Handling and Disposal",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 444,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 452,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 445
+    },
+    {
+      "anchor": "process-control",
+      "end_line": 456,
+      "heading": "Process Control",
+      "level": 1,
+      "start_line": 453
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 460,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 457
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 466,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "development-of-alternative-processes-and-improvements",
+      "end_line": 470,
+      "heading": "DEVELOPMENT OF ALTERNATIVE PROCESSES AND IMPROVEMENTS",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "iodine-stripping",
+      "end_line": 474,
+      "heading": "Iodine Stripping",
+      "level": 1,
+      "start_line": 471
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 478,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 475
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 482,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 479
+    },
+    {
+      "anchor": "use-of-additives-in-vacuum-distillation",
+      "end_line": 490,
+      "heading": "Use of Additives in Vacuum Distillation",
+      "level": 1,
+      "start_line": 483
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 494,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 491
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 498,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "reduction-coprecipitation-and-or-electrolysis",
+      "end_line": 504,
+      "heading": "Reduction-Coprecipitation and/or Electrolysis",
+      "level": 1,
+      "start_line": 499
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 508,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 505
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 512,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 509
+    },
+    {
+      "anchor": "ion-exchange-with-nonfluoride-solids",
+      "end_line": 516,
+      "heading": "Ion Exchange with Nonfluoride Solids",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "current-status",
+      "end_line": 522,
+      "heading": "Current Status",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "needed-development",
+      "end_line": 526,
+      "heading": "Needed Development",
+      "level": 1,
+      "start_line": 523
+    },
+    {
+      "anchor": "schedule-of-manpower-and-cost-for-development-program",
+      "end_line": 538,
+      "heading": "SCHEDULE OF MANPOWER AND COST FOR DEVELOPMENT PROGRAM",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "continuous-fluorination",
+      "end_line": 542,
+      "heading": "Continuous Fluorination",
+      "level": 1,
+      "start_line": 539
+    },
+    {
+      "anchor": "sorption",
+      "end_line": 546,
+      "heading": "Sorption",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "carrier-salt-distillation-and-the-msre-experiment",
+      "end_line": 552,
+      "heading": "Carrier Salt Distillation and the MSRE Experiment",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "reconstitution-of-fuel",
+      "end_line": 556,
+      "heading": "Reconstitution of Fuel",
+      "level": 1,
+      "start_line": 553
+    },
+    {
+      "anchor": "blanket-processing-pa",
+      "end_line": 560,
+      "heading": "Blanket Processing (Pa)",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "filtration-and-salt-cleanup",
+      "end_line": 564,
+      "heading": "Filtration and Salt Cleanup",
+      "level": 1,
+      "start_line": 561
+    },
+    {
+      "anchor": "process-off-gas-handling",
+      "end_line": 568,
+      "heading": "Process Off-Gas Handling",
+      "level": 1,
+      "start_line": 565
+    },
+    {
+      "anchor": "alternative-processing-schemes-and-process-improvement",
+      "end_line": 574,
+      "heading": "Alternative Processing Schemes and Process Improvement",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "special-instrumentation-and-process-control",
+      "end_line": 578,
+      "heading": "Special Instrumentation and Process Control",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "waste-handling-and-disposal",
+      "end_line": 584,
+      "heading": "Waste Handling and Disposal",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "general-design",
+      "end_line": 590,
+      "heading": "General Design",
+      "level": 1,
+      "start_line": 585
+    },
+    {
+      "anchor": "salt-production",
+      "end_line": 594,
+      "heading": "Salt Production",
+      "level": 1,
+      "start_line": 591
+    },
+    {
+      "anchor": "engineering-test-unit",
+      "end_line": 598,
+      "heading": "Engineering Test Unit",
+      "level": 1,
+      "start_line": 595
+    },
+    {
+      "anchor": "summary-of-development-costs",
+      "end_line": 602,
+      "heading": "Summary of Development Costs",
+      "level": 1,
+      "start_line": 599
+    },
+    {
+      "anchor": "references",
+      "end_line": 624,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 603
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 822,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 625
+    },
+    {
+      "anchor": "distribution-cont",
+      "end_line": 888,
+      "heading": "DISTRIBUTION (cont.)",
+      "level": 1,
+      "start_line": 823
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1852",
+  "tables": [],
+  "title": "ORNL-TM-1852",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

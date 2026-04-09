@@ -1,0 +1,1411 @@
+{
+  "authors": [
+    "PARTX",
+    "MAINTENANCE EQUIPMENT AND PROCEDURES",
+    "R. Blumberg",
+    "E. C. Hise",
+    "LEGAL NOTICE",
+    "PART X"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-910.jsonl",
+  "date_text": "1968",
+  "doc_id": "ornl-tm-910",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 28,
+        "line_hits": [
+          64,
+          129,
+          147,
+          330,
+          332,
+          336,
+          338,
+          342,
+          354,
+          357,
+          367,
+          373,
+          702,
+          704,
+          705,
+          710,
+          736,
+          761,
+          763,
+          765,
+          771,
+          782,
+          798,
+          1133,
+          1135,
+          1136,
+          1137,
+          1244
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          332,
+          336,
+          377,
+          880
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          160
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          384
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 35,
+        "line_hits": [
+          129,
+          131,
+          143,
+          147,
+          330,
+          332,
+          338,
+          342,
+          354,
+          357,
+          373,
+          404,
+          406,
+          408,
+          417,
+          420,
+          702,
+          704,
+          705,
+          710,
+          736,
+          771,
+          798,
+          929,
+          931,
+          933,
+          937,
+          944,
+          948,
+          967,
+          1049,
+          1133,
+          1135,
+          1136,
+          1137
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 32,
+        "line_hits": [
+          128,
+          140,
+          177,
+          185,
+          246,
+          258,
+          324,
+          326,
+          328,
+          515,
+          640,
+          642,
+          648,
+          659,
+          663,
+          666,
+          669,
+          670,
+          673,
+          675,
+          677,
+          678,
+          682,
+          687,
+          689,
+          931,
+          1182,
+          1200,
+          1260,
+          1280,
+          1288,
+          1292
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 29,
+        "line_hits": [
+          129,
+          141,
+          147,
+          330,
+          332,
+          341,
+          369,
+          371,
+          373,
+          380,
+          697,
+          772,
+          781,
+          796,
+          798,
+          804,
+          811,
+          819,
+          822,
+          823,
+          824,
+          826,
+          829,
+          832,
+          835,
+          837,
+          840,
+          1133,
+          1146
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          177,
+          181,
+          185,
+          206,
+          246,
+          252,
+          424,
+          439,
+          469,
+          923,
+          1055,
+          1057,
+          1196,
+          1300
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          177,
+          185,
+          246,
+          258,
+          1260
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          160,
+          177,
+          900
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          160
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 17,
+        "line_hits": [
+          13,
+          40,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          300,
+          359,
+          451,
+          724,
+          963,
+          1363
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          50,
+          963,
+          1363,
+          1472,
+          1473,
+          1474,
+          1475,
+          1476,
+          1477,
+          1478,
+          1479
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          46
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 80,
+        "line_hits": [
+          56,
+          60,
+          68,
+          154,
+          160,
+          169,
+          175,
+          177,
+          179,
+          181,
+          185,
+          187,
+          196,
+          198,
+          200,
+          202,
+          206,
+          208,
+          230,
+          232,
+          238,
+          242,
+          246,
+          256,
+          258,
+          270,
+          279,
+          283,
+          287,
+          291,
+          306,
+          310,
+          314,
+          322,
+          326,
+          332,
+          336,
+          343,
+          363,
+          369,
+          373,
+          384,
+          406,
+          408,
+          414,
+          435,
+          437,
+          439,
+          443,
+          445
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 44,
+        "line_hits": [
+          1,
+          30,
+          56,
+          58,
+          64,
+          68,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          126,
+          146,
+          154,
+          160,
+          164,
+          167,
+          169,
+          175,
+          217,
+          240,
+          314,
+          326,
+          336,
+          382,
+          424,
+          443,
+          451,
+          469,
+          744,
+          963,
+          965,
+          966,
+          969,
+          973,
+          1146,
+          1148,
+          1154,
+          1206,
+          1226
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          160
+        ],
+        "name": "BeF2"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "92cdd3900615a2771a34380832cd35585e329d055289178504989963a9b9b927",
+  "markdown_path": "pdf/ORNL-TM-0910/ORNL-TM-0910/hybrid_ocr/ORNL-TM-0910.md",
+  "report_number": "ORNL-TM-728",
+  "report_numbers": [
+    "ORNL-TM-728",
+    "ORNL-TM-729",
+    "ORNL-TM-730",
+    "ORNL-TM-732",
+    "ORNL-TM-733",
+    "ORNL-TM-907",
+    "ORNL-TM-908",
+    "ORNL-TM-909",
+    "ORNL-TM-910"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 139,
+  "sections": [
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 2,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "partx",
+      "end_line": 4,
+      "heading": "Partx",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "maintenance-equipment-and-procedures",
+      "end_line": 14,
+      "heading": "Maintenance Equipment And Procedures",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 23,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "orni-tm-910",
+      "end_line": 29,
+      "heading": "Orni-Tm-910",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 31,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "part-x",
+      "end_line": 33,
+      "heading": "Part X",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "maintenance-equipment-and-procedures",
+      "end_line": 37,
+      "heading": "Maintenance Equipment And Procedures",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "june-1968",
+      "end_line": 39,
+      "heading": "June 1968",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 45,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 49,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 53,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "preface",
+      "end_line": 61,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "acknowledgement",
+      "end_line": 65,
+      "heading": "ACKNOWLEDGEMENT",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "index-to-report-series",
+      "end_line": 113,
+      "heading": "INDEX TO REPORT SERIES",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "contents",
+      "end_line": 117,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "abstract-xi",
+      "end_line": 119,
+      "heading": "ABSTRACT xi",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 120,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 120
+    },
+    {
+      "anchor": "2-description-of-the-maintenance-system-4",
+      "end_line": 133,
+      "heading": "2.Description Of The Maintenance System 4",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "3-detailed-maintenance-procedures-41",
+      "end_line": 151,
+      "heading": "3. DETAILED MAINTENANCE PROCEDURES 41",
+      "level": 2,
+      "start_line": 134
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 157,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 170,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "2-description-of-the-maintenance-system",
+      "end_line": 172,
+      "heading": "2. DESCRIPTION OF THE MAINTENANCE SYSTEM",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "2-1-maintenance-equipment-and-general-methods",
+      "end_line": 182,
+      "heading": "2.1 Maintenance Equipment and General Methods",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "2-2-maintenance-control-room-and-facilities-for-remote-operation",
+      "end_line": 203,
+      "heading": "2.2 Maintenance Control Room and Facilities for Remote Operation",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "2-3-portable-maintenance-shield",
+      "end_line": 239,
+      "heading": "2.3 Portable Maintenance Shield",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "2-4-jigs-and-fixtures-for-assembling-msre-components",
+      "end_line": 243,
+      "heading": "2.4 Jigs and Fixtures for Assembling MSRE Components",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "2-4-1-reactor-cell-components",
+      "end_line": 249,
+      "heading": "2.4.1 Reactor Cell Components",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "2-4-2-drain-tank-cell-components",
+      "end_line": 253,
+      "heading": "2.4.2 Drain-Tank Cell Components",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "2-5-freeze-flange-maintenance",
+      "end_line": 259,
+      "heading": "2.5 Freeze-Flange Maintenance",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "2-5-1-operations-required-for-gasket-replacement",
+      "end_line": 271,
+      "heading": "2.5.1 Operations Required for Gasket Replacement",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "2-5-2-realignment-and-gasket-sealing",
+      "end_line": 280,
+      "heading": "2.5.2 Realignment and Gasket Sealing",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "2-5-3-permanently-installed-maintenance-equipment",
+      "end_line": 284,
+      "heading": "2.5.3 Permanently Installed Maintenance Equipment",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "2-5-4-hydraulic-clamp-operator",
+      "end_line": 288,
+      "heading": "2.5.4 Hydraulic Clamp Operator",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "2-5-6-clamp-handling-tool",
+      "end_line": 299,
+      "heading": "2.5.6 Clamp-Handling Tool",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "ornl-dwg-64-8821",
+      "end_line": 303,
+      "heading": "Ornl-Dwg 64-8821",
+      "level": 2,
+      "start_line": 300
+    },
+    {
+      "anchor": "2-5-7-flange-jacking-equipment",
+      "end_line": 307,
+      "heading": "2.5.7 Flange-Jacking Equipment",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "2-5-8-gasket-handling-tool",
+      "end_line": 311,
+      "heading": "2.5.8 Gasket-Handling Tool",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "2-5-9-flange-cover-handling-tool",
+      "end_line": 323,
+      "heading": "2.5.9 Flange-Cover-Handling Tool",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "2-6-fuel-pump-maintenance",
+      "end_line": 329,
+      "heading": "2.6 Fuel-Pump Maintenance",
+      "level": 1,
+      "start_line": 324
+    },
+    {
+      "anchor": "2-7-graphite-sampler-and-control-rods",
+      "end_line": 333,
+      "heading": "2.7 Graphite Sampler and Control Rods",
+      "level": 1,
+      "start_line": 330
+    },
+    {
+      "anchor": "2-7-1-surveillance-samples",
+      "end_line": 358,
+      "heading": "2.7.1 Surveillance Samples",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "ornl-dwg-64-6745",
+      "end_line": 366,
+      "heading": "Ornl-Dwg.64-6745",
+      "level": 2,
+      "start_line": 359
+    },
+    {
+      "anchor": "2-7-2-the-2-in-graphite-core-stringers",
+      "end_line": 370,
+      "heading": "2.7.2 The 2-in. Graphite Core Stringers",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "2-7-3-control-rods",
+      "end_line": 374,
+      "heading": "2.7.3 Control Rods",
+      "level": 1,
+      "start_line": 371
+    },
+    {
+      "anchor": "2-8-braze-joints",
+      "end_line": 403,
+      "heading": "2.8 Braze Joints",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "2-9-maintenance-of-the-sampler-enricher",
+      "end_line": 409,
+      "heading": "2.9 Maintenance of the Sampler-Enricher",
+      "level": 1,
+      "start_line": 404
+    },
+    {
+      "anchor": "2-10-miscellaneous-long-handled-tools",
+      "end_line": 411,
+      "heading": "2.10 Miscellaneous Long-Handled Tools",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "2-10-1-heater-and-thermocouple-maintenance-tools",
+      "end_line": 421,
+      "heading": "2.10.1 Heater and Thermocouple Maintenance Tools",
+      "level": 1,
+      "start_line": 412
+    },
+    {
+      "anchor": "2-10-2-leak-detector-disconnect-wrench-and-handling-tool",
+      "end_line": 425,
+      "heading": "2.10.2 Leak-Detector Disconnect Wrench and Handling Tool",
+      "level": 1,
+      "start_line": 422
+    },
+    {
+      "anchor": "3-detailed-maintenance-procedures",
+      "end_line": 440,
+      "heading": "3. DETAILED MAINTENANCE PROCEDURES",
+      "level": 1,
+      "start_line": 426
+    },
+    {
+      "anchor": "3-1-the-radiation-and-contamination-problem",
+      "end_line": 452,
+      "heading": "3.1 The Radiation and Contamination Problem",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "3-2-maintenance-control-room-and-remote-facilities",
+      "end_line": 466,
+      "heading": "3.2 Maintenance Control Room and Remote Facilities",
+      "level": 1,
+      "start_line": 453
+    },
+    {
+      "anchor": "3-3-procedure-for-use-with-the-portable-maintenance-shield",
+      "end_line": 472,
+      "heading": "3.3 Procedure for Use with the Portable Maintenance Shield",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "3-3-1-preparations",
+      "end_line": 480,
+      "heading": "3.3.1 Preparations",
+      "level": 1,
+      "start_line": 473
+    },
+    {
+      "anchor": "3-3-2-operations",
+      "end_line": 498,
+      "heading": "3.3.2 Operations",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "3-3-3-closure",
+      "end_line": 547,
+      "heading": "3.3.3 Closure*",
+      "level": 1,
+      "start_line": 499
+    },
+    {
+      "anchor": "3-4-2-the-clamp-handling-tool",
+      "end_line": 558,
+      "heading": "3.4.2 The Clamp-Handling Tool",
+      "level": 1,
+      "start_line": 548
+    },
+    {
+      "anchor": "3-4-3-flange-jacking-and-aligning-tools",
+      "end_line": 562,
+      "heading": "3.4.3 Flange Jacking and Aligning Tools",
+      "level": 1,
+      "start_line": 559
+    },
+    {
+      "anchor": "3-4-3-2-pulling-the-flanges-apart",
+      "end_line": 576,
+      "heading": "3.4.3.2 Pulling the Flanges Apart",
+      "level": 1,
+      "start_line": 563
+    },
+    {
+      "anchor": "3-4-3-3-pushing-the-flanges-together-while-using-the-pipe-alignment-tool",
+      "end_line": 613,
+      "heading": "3.4.3.3 Pushing the Flanges Together While Using the Pipe-Alignment Tool",
+      "level": 1,
+      "start_line": 577
+    },
+    {
+      "anchor": "3-4-5-the-flange-cover-handling-tool",
+      "end_line": 615,
+      "heading": "3.4.5 The Flange-Cover-Handling Tool",
+      "level": 1,
+      "start_line": 614
+    },
+    {
+      "anchor": "3-4-5-1-installing-flange-covers",
+      "end_line": 630,
+      "heading": "3.4.5.1 Installing Flange Covers",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "3-4-5-2-removing-flange-covers",
+      "end_line": 639,
+      "heading": "3.4.5.2 Removing Flange Covers",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "3-5-fuel-pump-maintenance",
+      "end_line": 641,
+      "heading": "3.5 Fuel-Pump Maintenance",
+      "level": 1,
+      "start_line": 640
+    },
+    {
+      "anchor": "3-5-1-removing-the-fuel-pump-motor",
+      "end_line": 658,
+      "heading": "3.5.1 Removing the Fuel-Pump Motor",
+      "level": 1,
+      "start_line": 642
+    },
+    {
+      "anchor": "3-5-2-removing-the-fuel-pump-rotary-element",
+      "end_line": 674,
+      "heading": "3.5.2 Removing the Fuel-Pump Rotary Element",
+      "level": 1,
+      "start_line": 659
+    },
+    {
+      "anchor": "3-5-3-replacing-the-fuel-pump-rotary-element",
+      "end_line": 686,
+      "heading": "3.5.3 Replacing the Fuel-Pump Rotary Element",
+      "level": 1,
+      "start_line": 675
+    },
+    {
+      "anchor": "3-5-4-replacing-the-fuel-pump-motor",
+      "end_line": 698,
+      "heading": "3.5.4 Replacing the Fuel-Pump Motor",
+      "level": 1,
+      "start_line": 687
+    },
+    {
+      "anchor": "3-6-1-removing-the-surveillance-sample-from-the-core",
+      "end_line": 723,
+      "heading": "3.6.1 Removing the Surveillance Sample from the Core",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "ornl-dwg-67-13765",
+      "end_line": 748,
+      "heading": "Ornl-Dwg 67-13765",
+      "level": 2,
+      "start_line": 724
+    },
+    {
+      "anchor": "3-6-2-replacing-the-surveillance-sample-in-the-core",
+      "end_line": 760,
+      "heading": "3.6.2 Replacing the Surveillance Sample in the Core",
+      "level": 1,
+      "start_line": 749
+    },
+    {
+      "anchor": "3-6-3-procedures-for-removing-and-replacing-the-2-in-square-graphite-stringers",
+      "end_line": 795,
+      "heading": "3.6.3 Procedures for Removing and Replacing the 2-in. Square Graphite Stringers",
+      "level": 1,
+      "start_line": 761
+    },
+    {
+      "anchor": "3-6-4-removing-control-rod-units",
+      "end_line": 831,
+      "heading": "3.6.4 Removing Control Rod Units",
+      "level": 1,
+      "start_line": 796
+    },
+    {
+      "anchor": "3-6-5-removing-the-control-rod",
+      "end_line": 841,
+      "heading": "3.6.5. Removing the Control Rod",
+      "level": 1,
+      "start_line": 832
+    },
+    {
+      "anchor": "3-7-procedure-for-brazing-a-joint",
+      "end_line": 928,
+      "heading": "3.7 Procedure for Brazing a Joint",
+      "level": 1,
+      "start_line": 842
+    },
+    {
+      "anchor": "3-8-procedures-for-maintenance-of-the-sampler-enricher",
+      "end_line": 954,
+      "heading": "3.8 Procedures for Maintenance of the Sampler-Enricher",
+      "level": 1,
+      "start_line": 929
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 958,
+      "heading": "Appendices",
+      "level": 2,
+      "start_line": 955
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 960,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 959
+    },
+    {
+      "anchor": "list-of-remote-maintenance-reference-information",
+      "end_line": 970,
+      "heading": "LIST OF REMOTE MAINTENANCE REFERENCE INFORMATION",
+      "level": 1,
+      "start_line": 961
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 972,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 971
+    },
+    {
+      "anchor": "msre-portable-maintenance-shield",
+      "end_line": 974,
+      "heading": "MSRE PORTABLE MAINTENANCE SHIELD",
+      "level": 1,
+      "start_line": 973
+    },
+    {
+      "anchor": "ll-d",
+      "end_line": 978,
+      "heading": "Ll-D",
+      "level": 2,
+      "start_line": 975
+    },
+    {
+      "anchor": "e-40660",
+      "end_line": 980,
+      "heading": "E 40660",
+      "level": 2,
+      "start_line": 979
+    },
+    {
+      "anchor": "d-40661",
+      "end_line": 982,
+      "heading": "D 40661",
+      "level": 2,
+      "start_line": 981
+    },
+    {
+      "anchor": "d-40662",
+      "end_line": 984,
+      "heading": "D 40662",
+      "level": 2,
+      "start_line": 983
+    },
+    {
+      "anchor": "d-40663",
+      "end_line": 986,
+      "heading": "D 40663",
+      "level": 2,
+      "start_line": 985
+    },
+    {
+      "anchor": "d-40664",
+      "end_line": 988,
+      "heading": "D 40664",
+      "level": 2,
+      "start_line": 987
+    },
+    {
+      "anchor": "d-40665",
+      "end_line": 990,
+      "heading": "D 40665",
+      "level": 2,
+      "start_line": 989
+    },
+    {
+      "anchor": "d-40666",
+      "end_line": 992,
+      "heading": "D 40666",
+      "level": 2,
+      "start_line": 991
+    },
+    {
+      "anchor": "d-40667",
+      "end_line": 994,
+      "heading": "D 40667",
+      "level": 2,
+      "start_line": 993
+    },
+    {
+      "anchor": "d-40668",
+      "end_line": 996,
+      "heading": "D 40668",
+      "level": 2,
+      "start_line": 995
+    },
+    {
+      "anchor": "d-40669",
+      "end_line": 998,
+      "heading": "D 40669",
+      "level": 2,
+      "start_line": 997
+    },
+    {
+      "anchor": "d-40670",
+      "end_line": 1000,
+      "heading": "D 40670",
+      "level": 2,
+      "start_line": 999
+    },
+    {
+      "anchor": "d-40671",
+      "end_line": 1002,
+      "heading": "D 40671",
+      "level": 2,
+      "start_line": 1001
+    },
+    {
+      "anchor": "d-40672",
+      "end_line": 1004,
+      "heading": "D 40672",
+      "level": 2,
+      "start_line": 1003
+    },
+    {
+      "anchor": "d-40673",
+      "end_line": 1006,
+      "heading": "D 40673",
+      "level": 2,
+      "start_line": 1005
+    },
+    {
+      "anchor": "d-40674",
+      "end_line": 1008,
+      "heading": "D 40674",
+      "level": 2,
+      "start_line": 1007
+    },
+    {
+      "anchor": "d-40675",
+      "end_line": 1010,
+      "heading": "D 40675",
+      "level": 2,
+      "start_line": 1009
+    },
+    {
+      "anchor": "d-40676",
+      "end_line": 1012,
+      "heading": "D 40676",
+      "level": 2,
+      "start_line": 1011
+    },
+    {
+      "anchor": "d-40677",
+      "end_line": 1014,
+      "heading": "D 40677",
+      "level": 2,
+      "start_line": 1013
+    },
+    {
+      "anchor": "d-40678",
+      "end_line": 1016,
+      "heading": "D 40678",
+      "level": 2,
+      "start_line": 1015
+    },
+    {
+      "anchor": "d-40679",
+      "end_line": 1018,
+      "heading": "D 40679",
+      "level": 2,
+      "start_line": 1017
+    },
+    {
+      "anchor": "d-40680",
+      "end_line": 1020,
+      "heading": "D 40680",
+      "level": 2,
+      "start_line": 1019
+    },
+    {
+      "anchor": "d-40681",
+      "end_line": 1022,
+      "heading": "D 40681",
+      "level": 2,
+      "start_line": 1021
+    },
+    {
+      "anchor": "d-40682",
+      "end_line": 1024,
+      "heading": "D 40682",
+      "level": 2,
+      "start_line": 1023
+    },
+    {
+      "anchor": "d-40683",
+      "end_line": 1026,
+      "heading": "D 40683",
+      "level": 2,
+      "start_line": 1025
+    },
+    {
+      "anchor": "d-40684",
+      "end_line": 1028,
+      "heading": "D 40684",
+      "level": 2,
+      "start_line": 1027
+    },
+    {
+      "anchor": "d-40685",
+      "end_line": 1030,
+      "heading": "D 40685",
+      "level": 2,
+      "start_line": 1029
+    },
+    {
+      "anchor": "d-40686",
+      "end_line": 1032,
+      "heading": "D 40686",
+      "level": 2,
+      "start_line": 1031
+    },
+    {
+      "anchor": "d-40687",
+      "end_line": 1092,
+      "heading": "D 40687",
+      "level": 2,
+      "start_line": 1033
+    },
+    {
+      "anchor": "ll-d",
+      "end_line": 1098,
+      "heading": "Ll-D",
+      "level": 2,
+      "start_line": 1093
+    },
+    {
+      "anchor": "d-40688",
+      "end_line": 1102,
+      "heading": "D 40688",
+      "level": 2,
+      "start_line": 1099
+    },
+    {
+      "anchor": "d-40689",
+      "end_line": 1106,
+      "heading": "D 40689",
+      "level": 2,
+      "start_line": 1103
+    },
+    {
+      "anchor": "d-40690",
+      "end_line": 1110,
+      "heading": "D 40690",
+      "level": 2,
+      "start_line": 1107
+    },
+    {
+      "anchor": "d-40691",
+      "end_line": 1114,
+      "heading": "D 40691",
+      "level": 2,
+      "start_line": 1111
+    },
+    {
+      "anchor": "d-40692",
+      "end_line": 1118,
+      "heading": "D'40692",
+      "level": 2,
+      "start_line": 1115
+    },
+    {
+      "anchor": "d-40693",
+      "end_line": 1122,
+      "heading": "D 40693",
+      "level": 2,
+      "start_line": 1119
+    },
+    {
+      "anchor": "b-m-40694",
+      "end_line": 1126,
+      "heading": "B/M 40694",
+      "level": 2,
+      "start_line": 1123
+    },
+    {
+      "anchor": "d-40695",
+      "end_line": 1130,
+      "heading": "D 40695",
+      "level": 2,
+      "start_line": 1127
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 1132,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 1131
+    },
+    {
+      "anchor": "graphite-sampler-and-control-rod-maintenance-facility",
+      "end_line": 1149,
+      "heading": "GRAPHITE SAMPLER AND CONTROL ROD MAINTENANCE FACILITY",
+      "level": 1,
+      "start_line": 1133
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 1151,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 1150
+    },
+    {
+      "anchor": "long-handled-tools-and-miscellaneous-equipment",
+      "end_line": 1153,
+      "heading": "LONG-HANDLED TOOLS AND MISCELLANEOUS EQUIPMENT",
+      "level": 1,
+      "start_line": 1152
+    },
+    {
+      "anchor": "msre-sk-no-title",
+      "end_line": 1205,
+      "heading": "MSRE-SK-No. Title",
+      "level": 1,
+      "start_line": 1154
+    },
+    {
+      "anchor": "msre-sk-no-title",
+      "end_line": 1255,
+      "heading": "MSRE-SK-No. Title",
+      "level": 1,
+      "start_line": 1206
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 1257,
+      "heading": "Appendix E",
+      "level": 1,
+      "start_line": 1256
+    },
+    {
+      "anchor": "in-cell-equipment",
+      "end_line": 1261,
+      "heading": "IN CELL EQUIPMENT",
+      "level": 1,
+      "start_line": 1258
+    },
+    {
+      "anchor": "appendix-f",
+      "end_line": 1263,
+      "heading": "Appendix F",
+      "level": 1,
+      "start_line": 1262
+    },
+    {
+      "anchor": "jigs-and-fixtures",
+      "end_line": 1265,
+      "heading": "JIGS AND FIXTURES",
+      "level": 1,
+      "start_line": 1264
+    },
+    {
+      "anchor": "number",
+      "end_line": 1267,
+      "heading": "Number",
+      "level": 1,
+      "start_line": 1266
+    },
+    {
+      "anchor": "title",
+      "end_line": 1269,
+      "heading": "Title",
+      "level": 1,
+      "start_line": 1268
+    },
+    {
+      "anchor": "e-ll-e-56269",
+      "end_line": 1275,
+      "heading": "E-Ll-E-56269",
+      "level": 2,
+      "start_line": 1270
+    },
+    {
+      "anchor": "hcv-915-956-961-962",
+      "end_line": 1277,
+      "heading": "\" , Hcv 915, 956, 961, 962",
+      "level": 2,
+      "start_line": 1276
+    },
+    {
+      "anchor": "f-gg-d-55417",
+      "end_line": 1293,
+      "heading": "F-Gg-D-55417",
+      "level": 2,
+      "start_line": 1278
+    },
+    {
+      "anchor": "e-ll-e-41830",
+      "end_line": 1309,
+      "heading": "E-Ll-E-41830",
+      "level": 2,
+      "start_line": 1294
+    },
+    {
+      "anchor": "e-ll-e-41836",
+      "end_line": 1335,
+      "heading": "E-Ll-E-41836",
+      "level": 2,
+      "start_line": 1310
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1469,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 1336
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1480,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1470
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0910",
+  "tables": [],
+  "title": "MSRE DESIGN AND OPERATIONS REPORT",
+  "topics": [
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "graphite-and-moderator-behavior",
+    "instrumentation-and-controls",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

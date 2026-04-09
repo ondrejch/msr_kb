@@ -1,0 +1,428 @@
+{
+  "authors": [
+    "MASTER",
+    "J. L. Crowley",
+    "W. B. McDonald",
+    "D. L. Clark",
+    "Macrilino",
+    "Office of Technical Services"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-528.jsonl",
+  "date_text": "1963",
+  "doc_id": "ornl-tm-528",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          216,
+          218
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          96,
+          98
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          136
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          98
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 29,
+        "line_hits": [
+          70,
+          74,
+          90,
+          94,
+          100,
+          102,
+          104,
+          106,
+          109,
+          112,
+          119,
+          123,
+          125,
+          132,
+          136,
+          138,
+          140,
+          142,
+          151,
+          171,
+          173,
+          175,
+          179,
+          181,
+          192,
+          194,
+          199,
+          212,
+          229
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          90,
+          104,
+          121,
+          123,
+          125,
+          128,
+          144,
+          147,
+          149,
+          151,
+          153,
+          155,
+          169,
+          171,
+          173,
+          175,
+          194,
+          199,
+          201
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          90,
+          104,
+          173,
+          175,
+          194,
+          199
+        ],
+        "name": "drain tank"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          1,
+          27,
+          50,
+          131,
+          144,
+          164,
+          230,
+          233,
+          234,
+          237,
+          238,
+          242
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          60,
+          246,
+          248,
+          249,
+          250,
+          251
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          56
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 17,
+        "line_hits": [
+          90,
+          94,
+          104,
+          121,
+          125,
+          142,
+          149,
+          151,
+          153,
+          155,
+          171,
+          175,
+          181,
+          190,
+          194,
+          201,
+          205
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          218,
+          237
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          236
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          236
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          90,
+          94,
+          228,
+          235,
+          238
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9b9d06f24b82d17f15fbf423f7042874adc7dda94c478bf5f8b2f765bf7e98a8",
+  "markdown_path": "pdf/ORNL-TM-0528/ORNL-TM-0528/hybrid_ocr/ORNL-TM-0528.md",
+  "report_number": "ORNL-TM-528",
+  "report_numbers": [
+    "ORNL-TM-528",
+    "CF-58-6-58",
+    "ORNL-2688",
+    "CF-61-2-46"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 25,
+  "sections": [
+    {
+      "anchor": "ornl-tm-528",
+      "end_line": 2,
+      "heading": "Ornl-Tm-528",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 4,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "design-and-operation-of-forced-circulation",
+      "end_line": 6,
+      "heading": "Design And Operation Of Forced-Circulation",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "corrosion-testing-loops-with-molten-salt",
+      "end_line": 24,
+      "heading": "Corrosion Testing Loops With Molten Salt",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "notice",
+      "end_line": 28,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 47,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "may-1-1963",
+      "end_line": 49,
+      "heading": "May - 1 1963",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 55,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 59,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 61,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "contents",
+      "end_line": 79,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "design-and-operation-of-forced-circulation-corrosion-testing-loops-with-molten-salt",
+      "end_line": 87,
+      "heading": "DESIGN AND OPERATION OF FORCED-CIRCULATION CORROSION TESTING LOOPS WITH MOLTEN SALT",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 91,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 101,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "description-of-test-loop-and-auxiliary-equipment",
+      "end_line": 130,
+      "heading": "Description of Test Loop and Auxiliary Equipment",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-65066",
+      "end_line": 161,
+      "heading": "Unclassified Ornl-Lr-Dwg 65066",
+      "level": 2,
+      "start_line": 131
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 163,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 162
+    },
+    {
+      "anchor": "ornl-lr-dwg-65062",
+      "end_line": 176,
+      "heading": "Ornl-Lr-Dwg 65062",
+      "level": 2,
+      "start_line": 164
+    },
+    {
+      "anchor": "alarm-and-automatic-action-controls",
+      "end_line": 191,
+      "heading": "Alarm and Automatic-Action Controls",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "operation-and-maintenance-of-a-test-loop",
+      "end_line": 213,
+      "heading": "Operation and Maintenance of a Test Loop",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "summary",
+      "end_line": 221,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 225,
+      "heading": "Acknowledgments",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "references",
+      "end_line": 239,
+      "heading": "References",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 243,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "external",
+      "end_line": 251,
+      "heading": "External",
+      "level": 1,
+      "start_line": 244
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0528",
+  "tables": [],
+  "title": "ORNL-TM-528",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": []
+}

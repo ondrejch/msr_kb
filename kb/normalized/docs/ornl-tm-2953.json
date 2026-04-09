@@ -1,0 +1,752 @@
+{
+  "authors": [
+    "A.P.Fraas",
+    "A. P. Fraas"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2953.jsonl",
+  "date_text": "July 15, 1968",
+  "doc_id": "ornl-tm-2953",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          330,
+          518
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          236
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          330
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 37,
+        "line_hits": [
+          17,
+          27,
+          117,
+          123,
+          127,
+          133,
+          147,
+          176,
+          200,
+          204,
+          215,
+          241,
+          243,
+          264,
+          268,
+          364,
+          368,
+          376,
+          427,
+          451,
+          458,
+          464,
+          472,
+          476,
+          480,
+          488,
+          504,
+          508,
+          512,
+          518,
+          522,
+          524,
+          526,
+          532,
+          553,
+          554,
+          562
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          57,
+          139,
+          141,
+          149,
+          176,
+          207,
+          215,
+          258,
+          472,
+          490,
+          555,
+          568
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          149,
+          180,
+          228,
+          264,
+          268,
+          566
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          472,
+          568
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          204,
+          209
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          204
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 21,
+        "line_hits": [
+          11,
+          23,
+          31,
+          45,
+          548,
+          549,
+          550,
+          552,
+          554,
+          560,
+          562,
+          563,
+          568,
+          643,
+          644,
+          645,
+          647,
+          649,
+          650,
+          655,
+          657
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          3,
+          13,
+          35,
+          131,
+          548,
+          549,
+          550,
+          551,
+          552,
+          554,
+          560,
+          562,
+          563,
+          568
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          7,
+          41,
+          559
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          435
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 39,
+        "line_hits": [
+          123,
+          127,
+          133,
+          137,
+          141,
+          154,
+          174,
+          180,
+          186,
+          196,
+          200,
+          204,
+          209,
+          215,
+          218,
+          221,
+          228,
+          236,
+          249,
+          258,
+          264,
+          268,
+          274,
+          332,
+          338,
+          364,
+          383,
+          403,
+          419,
+          439,
+          451,
+          462,
+          464,
+          472,
+          476,
+          488,
+          512,
+          518,
+          520
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          549,
+          550
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          170
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          552
+        ],
+        "name": "MSCR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          552
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          127
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "fbf580f94eb08ebdc9cb7a9ece9d5e30fefb82340219b1387d888a93ed819027",
+  "markdown_path": "pdf/ORNL-TM-2953/ORNL-TM-2953/hybrid_ocr/ORNL-TM-2953.md",
+  "report_number": "ORNL-TM-2953",
+  "report_numbers": [
+    "ORNL-TM-2953"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 63,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation-nuclear-division",
+      "end_line": 10,
+      "heading": "Union Carbide Corporation • Nuclear Division",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 12,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "ornl-tm-2953",
+      "end_line": 16,
+      "heading": "Ornl-Tm-2953",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "a-new-approach-to-the-design-of-steam-generators-for-molten-salt-reactor-power-plants",
+      "end_line": 26,
+      "heading": "A NEW APPROACH TO THE DESIGN OF STEAM GENERATORS FOR MOLTEN SALT REACTOR POWER PLANTS",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "a-new-approach-to-the-design-of-steam-generators-for-molten-salt-reactor-power-plants",
+      "end_line": 32,
+      "heading": "A NEW APPROACH TO THE DESIGN OF STEAM GENERATORS FOR MOLTEN SALT REACTOR POWER PLANTS",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "june-1971",
+      "end_line": 34,
+      "heading": "June 1971",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 40,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "union-carbide-cooperation",
+      "end_line": 44,
+      "heading": "Union Carbide Cooperation",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 46,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "contents",
+      "end_line": 48,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "page",
+      "end_line": 50,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 52,
+      "heading": "ABSTRACT 1",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 54,
+      "heading": "INTRODUCTION 1",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "review-of-boiler-designs-proposed-for-molten-salt-reactor-3-systems",
+      "end_line": 64,
+      "heading": "REVIEW OF BOILER DESIGNS PROPOSED FOR MOLTEN SALT REACTOR 3 SYSTEMS",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "design-for-good-stability-and-control-characteristics-13",
+      "end_line": 77,
+      "heading": "DESIGN FOR GOOD STABILITY AND CONTROL CHARACTERISTICS 13",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "estimated-performance-characteristics-38",
+      "end_line": 86,
+      "heading": "Estimated Performance Characteristics 38",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "turbine-control-considerations-47",
+      "end_line": 90,
+      "heading": "Turbine Control Considerations 47",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "page",
+      "end_line": 114,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "references-67",
+      "end_line": 116,
+      "heading": "References 67",
+      "level": 2,
+      "start_line": 115
+    },
+    {
+      "anchor": "a-new-approach-to-the-design-of-steam-generators-for-molten-salt-reactor-power-plants",
+      "end_line": 120,
+      "heading": "A NEW APPROACH TO THE DESIGN OF STEAM GENERATORS FOR MOLTEN SALT REACTOR POWER PLANTS",
+      "level": 1,
+      "start_line": 117
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 124,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 134,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "review-of-boiler-designs-proposed-for-molten-salt-reactor-systems",
+      "end_line": 138,
+      "heading": "REVIEW OF BOILER DESIGNS PROPOSED FOR MOLTEN SALT REACTOR SYSTEMS",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "conventional-shell-and-tube-heat-exchangers",
+      "end_line": 142,
+      "heading": "Conventional Shell-and-Tube Heat Exchangers",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "supercritical-pressure-units",
+      "end_line": 157,
+      "heading": "Supercritical Pressure Units",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "double-walled-tubes-with-a-heat-dam",
+      "end_line": 165,
+      "heading": "Double-Walled Tubes with a Heat Dam",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "flash-boiler",
+      "end_line": 171,
+      "heading": "Flash Boiler",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "loeffler-boiler",
+      "end_line": 177,
+      "heading": "Loeffler Boiler",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "triple-tube-boiler",
+      "end_line": 181,
+      "heading": "Triple Tube Boiler",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "reentry-tube-boiler",
+      "end_line": 191,
+      "heading": "Reentry Tube Boiler",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "molten-salt",
+      "end_line": 197,
+      "heading": "Molten Salt",
+      "level": 2,
+      "start_line": 192
+    },
+    {
+      "anchor": "design-for-good-stability-and-control-characteristics",
+      "end_line": 201,
+      "heading": "DESIGN FOR GOOD STABILITY AND CONTROL CHARACTERISTICS",
+      "level": 1,
+      "start_line": 198
+    },
+    {
+      "anchor": "molten-salt-temperatures-at-part-load",
+      "end_line": 212,
+      "heading": "Molten Salt Temperatures at Part Load",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "effects-of-mode-of-control-on-steam-temperatures-at-part-load",
+      "end_line": 229,
+      "heading": "Effects of Mode of Control on Steam Temperatures at Part Load",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "heat-transfer-instabilities-and-thermal-stresses",
+      "end_line": 259,
+      "heading": "Heat Transfer Instabilities and Thermal Stresses",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "flow-stability-considerations",
+      "end_line": 265,
+      "heading": "Flow Stability Considerations",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "heat-transfer-analysis",
+      "end_line": 271,
+      "heading": "Heat Transfer Analysis",
+      "level": 1,
+      "start_line": 266
+    },
+    {
+      "anchor": "typical-calculations",
+      "end_line": 350,
+      "heading": "Typical Calculations",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "temperature-differences-and-heat-fluxes",
+      "end_line": 354,
+      "heading": "Temperature Differences and Heat Fluxes",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "pressure-drop",
+      "end_line": 361,
+      "heading": "Pressure Drop",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "estimated-performance-characteristics",
+      "end_line": 365,
+      "heading": "Estimated Performance Characteristics",
+      "level": 1,
+      "start_line": 362
+    },
+    {
+      "anchor": "effects-of-design-heat-load-on-tube-length",
+      "end_line": 369,
+      "heading": "Effects of Design Heat Load on Tube Length",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "effects-of-design-heat-load-on-temperature-distribution",
+      "end_line": 384,
+      "heading": "Effects of Design Heat Load on Temperature Distribution",
+      "level": 1,
+      "start_line": 370
+    },
+    {
+      "anchor": "effects-of-part-load-operation",
+      "end_line": 398,
+      "heading": "Effects of Part Load Operation",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "pressure-drop-and-pressure-distribution",
+      "end_line": 416,
+      "heading": "Pressure Drop and Pressure Distribution",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "effects-of-the-fraction-of-heat-added-in-the-inner-tube",
+      "end_line": 420,
+      "heading": "Effects of the Fraction of Heat Added in the Inner Tube",
+      "level": 1,
+      "start_line": 417
+    },
+    {
+      "anchor": "effects-of-size-of-heat-increment-used",
+      "end_line": 424,
+      "heading": "Effects of Size of Heat Increment Used",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "turbine-control-considerations",
+      "end_line": 436,
+      "heading": "Turbine Control Considerations",
+      "level": 1,
+      "start_line": 425
+    },
+    {
+      "anchor": "limitations-on-rates-of-change-in-load",
+      "end_line": 459,
+      "heading": "Limitations on Rates of Change in Load",
+      "level": 1,
+      "start_line": 437
+    },
+    {
+      "anchor": "possibility-of-eliminating-the-throttle-valve",
+      "end_line": 469,
+      "heading": "Possibility of Eliminating the Throttle Valve",
+      "level": 1,
+      "start_line": 460
+    },
+    {
+      "anchor": "proposed-design-for-a-molten-salt-reactor-plant",
+      "end_line": 473,
+      "heading": "Proposed Design for a Molten Salt Reactor Plant",
+      "level": 1,
+      "start_line": 470
+    },
+    {
+      "anchor": "reheaters",
+      "end_line": 477,
+      "heading": "Reheaters",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "general-description",
+      "end_line": 485,
+      "heading": "General Description",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "heading-problems",
+      "end_line": 505,
+      "heading": "Heading Problems",
+      "level": 1,
+      "start_line": 486
+    },
+    {
+      "anchor": "differential-thermal-expansion",
+      "end_line": 509,
+      "heading": "Differential Thermal Expansion",
+      "level": 1,
+      "start_line": 506
+    },
+    {
+      "anchor": "geometric-and-performance-data",
+      "end_line": 515,
+      "heading": "Geometric and Performance Data",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "cost-estimate",
+      "end_line": 529,
+      "heading": "Cost Estimate",
+      "level": 1,
+      "start_line": 516
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 535,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 530
+    },
+    {
+      "anchor": "recommendations",
+      "end_line": 545,
+      "heading": "Recommendations",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "references",
+      "end_line": 569,
+      "heading": "References",
+      "level": 1,
+      "start_line": 546
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 640,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 570
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 657,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 641
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2953",
+  "tables": [],
+  "title": "![](images/046cf1b425f1e69411b3ea1754bda49148c10254a65e54afc873e28d3e018364.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,755 @@
+{
+  "authors": [
+    "P. G. Smith",
+    "LEGAL NOTICE",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2987.jsonl",
+  "date_text": "August 1964",
+  "doc_id": "ornl-tm-2987",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          91,
+          225,
+          227
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          122
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          70
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          91
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          91
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          122
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 110,
+        "line_hits": [
+          34,
+          35,
+          39,
+          43,
+          44,
+          46,
+          47,
+          66,
+          68,
+          70,
+          72,
+          74,
+          76,
+          78,
+          82,
+          84,
+          86,
+          89,
+          91,
+          93,
+          95,
+          99,
+          101,
+          105,
+          107,
+          110,
+          115,
+          118,
+          122,
+          137,
+          139,
+          143,
+          147,
+          151,
+          153,
+          155,
+          158,
+          164,
+          168,
+          170,
+          173,
+          175,
+          180,
+          184,
+          193,
+          197,
+          202,
+          204,
+          206,
+          208
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 49,
+        "line_hits": [
+          34,
+          35,
+          46,
+          51,
+          66,
+          70,
+          76,
+          80,
+          82,
+          84,
+          89,
+          105,
+          110,
+          115,
+          118,
+          139,
+          147,
+          151,
+          153,
+          155,
+          158,
+          164,
+          173,
+          202,
+          211,
+          256,
+          258,
+          262,
+          264,
+          273,
+          295,
+          297,
+          299,
+          303,
+          310,
+          315,
+          332,
+          340,
+          342,
+          346,
+          348,
+          352,
+          356,
+          358,
+          362,
+          366,
+          381,
+          391,
+          395
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          44,
+          101,
+          170,
+          237,
+          241,
+          271,
+          273,
+          299,
+          329,
+          334,
+          336,
+          344,
+          346
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          70,
+          155,
+          208,
+          215
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          107
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          107
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 24,
+        "line_hits": [
+          13,
+          27,
+          370,
+          371,
+          372,
+          375,
+          377,
+          379,
+          382,
+          384,
+          385,
+          580,
+          581,
+          582,
+          583,
+          584,
+          586,
+          587,
+          588,
+          589,
+          590,
+          591,
+          592,
+          593
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          1,
+          17,
+          112,
+          307,
+          312,
+          370,
+          371,
+          372,
+          377,
+          381,
+          382,
+          384,
+          385,
+          580,
+          584,
+          586
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          375
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          23
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 40,
+        "line_hits": [
+          7,
+          51,
+          58,
+          60,
+          66,
+          68,
+          70,
+          80,
+          101,
+          153,
+          164,
+          186,
+          215,
+          249,
+          256,
+          262,
+          264,
+          273,
+          297,
+          299,
+          329,
+          340,
+          342,
+          344,
+          346,
+          348,
+          356,
+          358,
+          360,
+          366,
+          371,
+          372,
+          381,
+          389,
+          393,
+          397,
+          435,
+          455,
+          461,
+          465
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          66,
+          70,
+          74,
+          82,
+          86,
+          91,
+          95,
+          99,
+          122,
+          164,
+          186,
+          188,
+          204,
+          208,
+          249,
+          264,
+          291,
+          317,
+          321,
+          325,
+          342,
+          377
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          122,
+          299
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          122
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          107
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d59a8af24fd17d506f30c81333dfa36e25f80ea78a08ff3ce02bfb94bb7aa334",
+  "markdown_path": "pdf/ORNL-TM-2987/ORNL-TM-2987/hybrid_ocr/ORNL-TM-2987.md",
+  "report_number": "ORNL-TM-2987",
+  "report_numbers": [
+    "ORNL-TM-2987"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 49,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2987",
+      "end_line": 10,
+      "heading": "Ornl-Tm-2987",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 14,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "october-1970",
+      "end_line": 16,
+      "heading": "October 1970",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "contents",
+      "end_line": 54,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "iv",
+      "end_line": 59,
+      "heading": "iv",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "development-of-fuel-and-coolant-salt-centrifugal-pumps-for-the-molten-salt-reactor-experiment",
+      "end_line": 63,
+      "heading": "DEVELOPMENT OF FUEL- AND COOLANT-SALT CENTRIFUGAL PUMPS FOR THE MOLTEN-SALT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 83,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "general-description-of-the-molten-salt-pump",
+      "end_line": 102,
+      "heading": "General Description of the Molten-Salt Pump",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "test-apparatus",
+      "end_line": 104,
+      "heading": "Test Apparatus",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "molten-salt-pump-test-stand",
+      "end_line": 111,
+      "heading": "Molten-Salt Pump Test Stand",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "ornl-lr-dwg72414",
+      "end_line": 119,
+      "heading": "Ornl-Lr-Dwg72414",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "molten-salt-properties",
+      "end_line": 125,
+      "heading": "Molten-Salt Properties",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "bench-tests-and-cold-shakedown-tests",
+      "end_line": 127,
+      "heading": "Bench Tests and Cold Shakedown Tests",
+      "level": 1,
+      "start_line": 126
+    },
+    {
+      "anchor": "force-deflection-characteristics-of-shaft",
+      "end_line": 131,
+      "heading": "Force-Deflection Characteristics of Shaft",
+      "level": 1,
+      "start_line": 128
+    },
+    {
+      "anchor": "critical-speed-of-shaft-assembly",
+      "end_line": 140,
+      "heading": "Critical Speed of Shaft Assembly",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "room-temperature-dry-runs",
+      "end_line": 144,
+      "heading": "Room-Temperature Dry Runs",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "molten-salt-tests",
+      "end_line": 148,
+      "heading": "Molten-Salt Tests",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "hydraulic-performance",
+      "end_line": 161,
+      "heading": "Hydraulic Performance",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "cavitation-performance",
+      "end_line": 165,
+      "heading": "Cavitation Performance",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "effectiveness-of-shaft-annulus-purge-against-back-diffusion-of-radioactive-gas",
+      "end_line": 194,
+      "heading": "Effectiveness of Shaft Annulus Purge Against Back Diffusion of Radioactive Gas",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "measurement-of-undissolved-gas-content-in-circulating-salt",
+      "end_line": 218,
+      "heading": "Measurement of Undissolved Gas Content in Circulating Salt",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "problems-encountered-during-pump-fabrication-and-molten-salt-tests",
+      "end_line": 222,
+      "heading": "Problems Encountered During Pump Fabrication and Molten-Salt Tests",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "fabrication-problems",
+      "end_line": 230,
+      "heading": "Fabrication Problems",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "shaft-annulus-plugging",
+      "end_line": 246,
+      "heading": "Shaft Annulus Plugging",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "insufficient-running-clearances",
+      "end_line": 259,
+      "heading": "Insufficient Running Clearances",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "oil-leakage-from-the-catch-basin-into-the-pump-tank",
+      "end_line": 270,
+      "heading": "Oil Leakage from the Catch Basin into the Pump Tank",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "pump-tank-off-gas-line-plugging",
+      "end_line": 274,
+      "heading": "Pump Tank Off-Gas Line Plugging",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "failure-of-weld-attachment-of-parts-of-flow-straightening-device",
+      "end_line": 294,
+      "heading": "Failure of Weld Attachment of Parts of Flow-Straightening Device",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "mark-2-fuel-salt-pump",
+      "end_line": 300,
+      "heading": "Mark-2 Fuel-Salt Pump",
+      "level": 1,
+      "start_line": 295
+    },
+    {
+      "anchor": "description-of-pump",
+      "end_line": 306,
+      "heading": "Description of Pump",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "ornl-dwg-66-2048",
+      "end_line": 311,
+      "heading": "Ornl-Dwg 66-2048",
+      "level": 2,
+      "start_line": 307
+    },
+    {
+      "anchor": "ornl-dwg-69-10459",
+      "end_line": 318,
+      "heading": "Ornl-Dwg 69-10459",
+      "level": 2,
+      "start_line": 312
+    },
+    {
+      "anchor": "hydraulic-performance",
+      "end_line": 322,
+      "heading": "Hydraulic Performance",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "measurement-of-undissolved-gas-content-in-circulating-salt",
+      "end_line": 326,
+      "heading": "Measurement of Undissolved Gas Content in Circulating Salt",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "restrictions-to-purge-gas-flow",
+      "end_line": 339,
+      "heading": "Restrictions to Purge-Gas Flow",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "performance-of-molten-salt-pumps-in-msre",
+      "end_line": 353,
+      "heading": "Performance of Molten-Salt Pumps in MSRE",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 363,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 367,
+      "heading": "Acknowledgments",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "references",
+      "end_line": 386,
+      "heading": "References",
+      "level": 1,
+      "start_line": 368
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 388,
+      "heading": "Appendix",
+      "level": 1,
+      "start_line": 387
+    },
+    {
+      "anchor": "msre-drawings",
+      "end_line": 390,
+      "heading": "MSRE DRAWINGS",
+      "level": 1,
+      "start_line": 389
+    },
+    {
+      "anchor": "fuel-salt-pump-drawings",
+      "end_line": 394,
+      "heading": "Fuel-Salt Pump Drawings",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "coolant-salt-pump-drawings",
+      "end_line": 468,
+      "heading": "Coolant-Salt Pump Drawings",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 566,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 469
+    },
+    {
+      "anchor": "internal-distribution-continued",
+      "end_line": 573,
+      "heading": "Internal Distribution (continued)",
+      "level": 1,
+      "start_line": 567
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 595,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 574
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2987",
+  "tables": [],
+  "title": "ORNL-TM-2987",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "instrumentation-and-controls",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

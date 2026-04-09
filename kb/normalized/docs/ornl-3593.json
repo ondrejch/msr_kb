@@ -1,0 +1,595 @@
+{
+  "authors": [
+    "METALS AND THEIR ALLOYS",
+    "H. E. McCoy",
+    "Jr.",
+    "R. L. Stephenson",
+    "J.R.Weir",
+    "UNION CARBIDE CORPORATION",
+    "DISCLAIMER"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-3593.jsonl",
+  "date_text": "1964",
+  "doc_id": "ornl-3593",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 35,
+        "line_hits": [
+          91,
+          97,
+          114,
+          124,
+          126,
+          134,
+          226,
+          232,
+          239,
+          242,
+          248,
+          250,
+          252,
+          255,
+          257,
+          259,
+          272,
+          276,
+          291,
+          299,
+          301,
+          307,
+          311,
+          325,
+          329,
+          333,
+          337,
+          341,
+          345,
+          353,
+          402,
+          414,
+          416,
+          418,
+          428
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 26,
+        "line_hits": [
+          90,
+          96,
+          114,
+          124,
+          126,
+          134,
+          148,
+          160,
+          184,
+          190,
+          192,
+          220,
+          222,
+          226,
+          231,
+          239,
+          242,
+          246,
+          255,
+          287,
+          291,
+          293,
+          297,
+          353,
+          414,
+          418
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          148,
+          190,
+          196,
+          250,
+          287,
+          345,
+          353
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          124,
+          134,
+          198,
+          345,
+          353,
+          426
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          188,
+          239
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          250,
+          345
+        ],
+        "name": "titanium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 15,
+        "line_hits": [
+          27,
+          72,
+          230,
+          231,
+          233,
+          547,
+          549,
+          551,
+          554,
+          555,
+          556,
+          557,
+          559,
+          561,
+          562
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          1,
+          19,
+          64,
+          439,
+          449,
+          451,
+          452
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          548,
+          552
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          23,
+          68
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 38,
+        "line_hits": [
+          35,
+          112,
+          114,
+          124,
+          126,
+          130,
+          144,
+          150,
+          162,
+          166,
+          170,
+          184,
+          186,
+          190,
+          200,
+          210,
+          216,
+          218,
+          246,
+          265,
+          276,
+          278,
+          282,
+          287,
+          305,
+          315,
+          319,
+          331,
+          345,
+          360,
+          372,
+          396,
+          414,
+          416,
+          418,
+          420,
+          424,
+          431
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2cacf084f8d0cb87c1832b9883fe3023c7f8033f8bfad895f988528d677322f7",
+  "markdown_path": "pdf/ORNL-3593/ORNL-3593/hybrid_ocr/ORNL-3593.md",
+  "report_number": "ORNL-3593",
+  "report_numbers": [
+    "ORNL-3593"
+  ],
+  "report_series": null,
+  "section_count": 48,
+  "sections": [
+    {
+      "anchor": "ornl-3593",
+      "end_line": 6,
+      "heading": "Ornl-3593",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "mechanical-properties-of-some-refractory",
+      "end_line": 8,
+      "heading": "MECHANICAL PROPERTIES OF SOME REFRACTORY",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "metals-and-their-alloys",
+      "end_line": 18,
+      "heading": "METALS AND THEIR ALLOYS",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 32,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 44,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 57,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "mechanical-properties-of-some-refractory-metals-and-their-alloys",
+      "end_line": 61,
+      "heading": "Mechanical Properties Of Some Refractory Metals And Their Alloys",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "april-1964",
+      "end_line": 63,
+      "heading": "April 1964",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 67,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 71,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 73,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "this-page",
+      "end_line": 75,
+      "heading": "THIS PAGE",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "was-intentionally",
+      "end_line": 77,
+      "heading": "WAS INTENTIONALLY",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 79,
+      "heading": "LEFT BLANK",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "contents",
+      "end_line": 81,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "page",
+      "end_line": 101,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "mechanical-properties-of-some-refractory",
+      "end_line": 103,
+      "heading": "MECHANICAL PROPERTIES OF SOME REFRACTORY",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "metals-and-their-alloys",
+      "end_line": 109,
+      "heading": "METALS AND THEIR ALLOYS",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 115,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "this-page",
+      "end_line": 117,
+      "heading": "THIS PAGE",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "was-intentionally",
+      "end_line": 119,
+      "heading": "WAS INTENTIONALLY",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 121,
+      "heading": "LEFT BLANK",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 145,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "strengthening-mechanisms-in-high-temperature-materials",
+      "end_line": 151,
+      "heading": "STRENGTHENING MECHANISMS IN HIGH-TEMPERATURE MATERIALS",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "solid-solution-strengthening",
+      "end_line": 167,
+      "heading": "Solid-Solution Strengthening",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "interstitial-and-dispersion-strengthening",
+      "end_line": 201,
+      "heading": "Interstitial and Dispersion Strengthening",
+      "level": 1,
+      "start_line": 168
+    },
+    {
+      "anchor": "the-mechanical-properties-of-nb-mo-ta-and-w",
+      "end_line": 219,
+      "heading": "THE MECHANICAL PROPERTIES OF Nb, Mo, Ta, AND W",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "niobium-base-alloys",
+      "end_line": 247,
+      "heading": "Niobium-Base Alloys",
+      "level": 1,
+      "start_line": 220
+    },
+    {
+      "anchor": "molybdenum-base-alloys",
+      "end_line": 260,
+      "heading": "Molybdenum-Base Alloys",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "tantalum-base-alloys",
+      "end_line": 273,
+      "heading": "Tantalum-Base Alloys",
+      "level": 1,
+      "start_line": 261
+    },
+    {
+      "anchor": "tungsten-base-alloys",
+      "end_line": 279,
+      "heading": "Tungsten-Base Alloys",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "internal-friction-studies-of-refractory-metal-systems",
+      "end_line": 288,
+      "heading": "INTERNAL FRICTION STUDIES OF REFRACTORY-METAL SYSTEMS",
+      "level": 1,
+      "start_line": 280
+    },
+    {
+      "anchor": "effects-of-irradiation-on-refractory-metals",
+      "end_line": 292,
+      "heading": "EFFECTS OF IRRADIATION ON REFRACTORY METALS",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "niobium",
+      "end_line": 298,
+      "heading": "Niobium",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "molybdenum",
+      "end_line": 346,
+      "heading": "Molybdenum",
+      "level": 1,
+      "start_line": 299
+    },
+    {
+      "anchor": "tantalum",
+      "end_line": 375,
+      "heading": "Tantalum",
+      "level": 1,
+      "start_line": 347
+    },
+    {
+      "anchor": "tungsten",
+      "end_line": 411,
+      "heading": "Tungsten",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "summary",
+      "end_line": 432,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 412
+    },
+    {
+      "anchor": "this-page",
+      "end_line": 434,
+      "heading": "THIS PAGE",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "was-intentionally",
+      "end_line": 436,
+      "heading": "WAS INTENTIONALLY",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 438,
+      "heading": "LEFT BLANK",
+      "level": 1,
+      "start_line": 437
+    },
+    {
+      "anchor": "ornl-3593",
+      "end_line": 444,
+      "heading": "ORNL-3593",
+      "level": 1,
+      "start_line": 439
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 543,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 445
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 563,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 544
+    }
+  ],
+  "source_dir": "pdf/ORNL-3593",
+  "tables": [],
+  "title": "ORNL-3593",
+  "topics": [
+    "materials-and-corrosion",
+    "irradiation-and-damage",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "program-history"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

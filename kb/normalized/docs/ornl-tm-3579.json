@@ -1,0 +1,1129 @@
+{
+  "authors": [
+    "FLUORINATION--REDUCTIVE EXTRACTION--METAL",
+    "W. L. Carter",
+    "E. L. Nicholson",
+    "UNION GARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3579.jsonl",
+  "date_text": "1972",
+  "doc_id": "ornl-tm-3579",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 22,
+        "line_hits": [
+          203,
+          205,
+          217,
+          237,
+          523,
+          541,
+          545,
+          549,
+          553,
+          565,
+          597,
+          605,
+          627,
+          657,
+          667,
+          717,
+          776,
+          809,
+          815,
+          921,
+          923,
+          953
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          203,
+          217,
+          274,
+          523,
+          543,
+          549,
+          553,
+          567,
+          576,
+          597,
+          605,
+          613,
+          629,
+          657,
+          667,
+          776,
+          809,
+          823,
+          825,
+          859
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          444,
+          523,
+          549,
+          597,
+          776,
+          923,
+          933
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          219,
+          221,
+          329,
+          366
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          237,
+          274,
+          923
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          578
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 17,
+        "line_hits": [
+          231,
+          259,
+          268,
+          274,
+          329,
+          527,
+          537,
+          539,
+          567,
+          578,
+          590,
+          597,
+          607,
+          776,
+          817,
+          831,
+          933
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          229,
+          382,
+          578,
+          1075
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          251,
+          253,
+          319
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          268,
+          590,
+          831
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          259,
+          268
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          268,
+          590
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          268
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          1,
+          19,
+          224,
+          750,
+          760,
+          957,
+          958,
+          959,
+          960,
+          965,
+          966,
+          967,
+          968
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          29,
+          1183,
+          1185,
+          1196,
+          1204,
+          1225
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 76,
+        "line_hits": [
+          197,
+          199,
+          201,
+          203,
+          209,
+          217,
+          219,
+          229,
+          231,
+          237,
+          241,
+          247,
+          251,
+          261,
+          282,
+          284,
+          288,
+          292,
+          319,
+          321,
+          329,
+          341,
+          343,
+          366,
+          368,
+          378,
+          380,
+          384,
+          394,
+          400,
+          402,
+          432,
+          436,
+          448,
+          452,
+          456,
+          466,
+          486,
+          509,
+          513,
+          543,
+          551,
+          553,
+          555,
+          571,
+          582,
+          599,
+          605,
+          657,
+          701
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 54,
+        "line_hits": [
+          11,
+          41,
+          47,
+          173,
+          181,
+          189,
+          191,
+          197,
+          205,
+          209,
+          225,
+          231,
+          235,
+          245,
+          253,
+          255,
+          259,
+          261,
+          265,
+          268,
+          272,
+          280,
+          286,
+          288,
+          327,
+          335,
+          339,
+          452,
+          474,
+          521,
+          543,
+          595,
+          599,
+          703,
+          741,
+          756,
+          760,
+          763,
+          765,
+          769,
+          774,
+          945,
+          953,
+          957,
+          974,
+          976,
+          1007,
+          1010,
+          1048,
+          1056
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          241,
+          683,
+          945,
+          967
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 15,
+        "line_hits": [
+          197,
+          201,
+          209,
+          221,
+          227,
+          245,
+          259,
+          278,
+          298,
+          374,
+          378,
+          382,
+          478,
+          758,
+          1069
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          85,
+          91,
+          203,
+          205,
+          237,
+          394,
+          432,
+          464,
+          466,
+          505,
+          507,
+          513,
+          523
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          278,
+          478,
+          578,
+          590,
+          745,
+          758,
+          831,
+          1069
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          278,
+          478,
+          745,
+          758,
+          1069
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          513,
+          578,
+          825
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          278,
+          1069
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          278,
+          1069
+        ],
+        "name": "LiF-BeF2-ThF4-UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          278,
+          1069
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          478,
+          1069
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          394,
+          423
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          494
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1069
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1069
+        ],
+        "name": "LiF-ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "4f5e984fbdacb5a3945618ef5250b4055e49dd2bbb68755467fbd82237373648",
+  "markdown_path": "pdf/ORNL-TM-3579/ORNL-TM-3579/hybrid_ocr/ORNL-TM-3579.md",
+  "report_number": "ORNL-TM-3579",
+  "report_numbers": [
+    "ORNL-TM-3579"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 89,
+  "sections": [
+    {
+      "anchor": "ornl-tm-3579",
+      "end_line": 4,
+      "heading": "Ornl-Tm-3579",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 6,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "design-and-cost-study-of-a",
+      "end_line": 8,
+      "heading": "Design And Cost Study Of A",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "fluorination-reductive-extraction-metal",
+      "end_line": 10,
+      "heading": "Fluorination--Reductive Extraction--Metal",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "transfer-processing-plant-for-the-msbr",
+      "end_line": 16,
+      "heading": "Transfer Processing Plant For The Msbr",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "may-1972",
+      "end_line": 18,
+      "heading": "May 1972",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-garbide-corporation",
+      "end_line": 28,
+      "heading": "Union Garbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 32,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "contents",
+      "end_line": 114,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "iv",
+      "end_line": 190,
+      "heading": "iv",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "design-and-cost-study-of-a-fluorination-reductive-extraction-metal-transfer-processing-plant-for-the-msbr",
+      "end_line": 194,
+      "heading": "DESIGN AND COST STUDY OF A FLUORINATION--REDUCTIVE EXTRACTION--METAL TRANSFER PROCESSING PLANT FOR THE MSBR",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 206,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "summary",
+      "end_line": 223,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 207
+    },
+    {
+      "anchor": "ornl-dwg-72-140",
+      "end_line": 242,
+      "heading": "Ornl Dwg 72-140",
+      "level": 2,
+      "start_line": 224
+    },
+    {
+      "anchor": "scope-of-the-design-study",
+      "end_line": 254,
+      "heading": "SCOPE OF THE DESIGN STUDY",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "the-molten-salt-breeder-reactor",
+      "end_line": 256,
+      "heading": "THE MOLTEN SALT BREEDER REACTOR",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "reactor-plant",
+      "end_line": 262,
+      "heading": "Reactor Plant",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "fuel-salt",
+      "end_line": 269,
+      "heading": "Fuel Salt",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "reactor-plant",
+      "end_line": 275,
+      "heading": "Reactor Plant",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "fuel-salt",
+      "end_line": 285,
+      "heading": "Fuel Salt",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "equilibrium-composition-of-the-msbr",
+      "end_line": 293,
+      "heading": "Equilibrium Composition of the MSBR",
+      "level": 1,
+      "start_line": 286
+    },
+    {
+      "anchor": "behavior-of-fission-products-and-fuel-salt-components-in-processing",
+      "end_line": 322,
+      "heading": "BEHAVIOR OF FISSION·PRODUCTS AND FUEL SALT COMPONENTS IN PROCESSING",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "the-fluorination-reductive-extraction-metal-transfer-process",
+      "end_line": 336,
+      "heading": "THE FLUORINATION--REDUCTIVE EXTRACTION--METAL TRANSFER PROCESS",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "fluorination",
+      "end_line": 363,
+      "heading": "Fluorination",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "protactinium-extraction-and-isolation",
+      "end_line": 375,
+      "heading": "Protactinium Extraction and Isolation",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "protactinium-isolation-system",
+      "end_line": 387,
+      "heading": "Protactinium Isolation System",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "rare-earth-extraction-and-metal-transfer",
+      "end_line": 391,
+      "heading": "Rare Earth Extraction and Metal Transfer",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "metal-transfer-to-licl",
+      "end_line": 397,
+      "heading": "Metal Transfer to LiCl",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "rare-earth-stripping",
+      "end_line": 403,
+      "heading": "Rare Earth Stripping",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "chemical-reactions-in-reductive-extraction-and-metal-transfer",
+      "end_line": 407,
+      "heading": "Chemical Reactions in Reductive Extraction and Metal Transfer",
+      "level": 1,
+      "start_line": 404
+    },
+    {
+      "anchor": "reductive-extraction",
+      "end_line": 433,
+      "heading": "Reductive Extraction:",
+      "level": 1,
+      "start_line": 408
+    },
+    {
+      "anchor": "fuel-reconstitution",
+      "end_line": 439,
+      "heading": "Fuel Reconstitution",
+      "level": 1,
+      "start_line": 434
+    },
+    {
+      "anchor": "metal-reduction-and-bismuth-removal",
+      "end_line": 445,
+      "heading": "Metal Reduction and Bismuth Removal",
+      "level": 1,
+      "start_line": 440
+    },
+    {
+      "anchor": "filtration-and-valence-adjustment",
+      "end_line": 449,
+      "heading": "Filtration and Valence Adjustment",
+      "level": 1,
+      "start_line": 446
+    },
+    {
+      "anchor": "gas-recycle",
+      "end_line": 453,
+      "heading": "Gas Recycle",
+      "level": 1,
+      "start_line": 450
+    },
+    {
+      "anchor": "halogen-removal",
+      "end_line": 457,
+      "heading": "Halogen Removal",
+      "level": 1,
+      "start_line": 454
+    },
+    {
+      "anchor": "noble-metal-and-noble-gas-removal",
+      "end_line": 461,
+      "heading": "Noble Metal and Noble Gas Removal",
+      "level": 1,
+      "start_line": 458
+    },
+    {
+      "anchor": "waste-accumulation",
+      "end_line": 463,
+      "heading": "Waste Accumulation",
+      "level": 1,
+      "start_line": 462
+    },
+    {
+      "anchor": "fluoride-salt-waste",
+      "end_line": 469,
+      "heading": "Fluoride Salt Waste",
+      "level": 1,
+      "start_line": 464
+    },
+    {
+      "anchor": "waste-from-gas-recycle-system",
+      "end_line": 497,
+      "heading": "Waste From Gas Recycle System",
+      "level": 1,
+      "start_line": 470
+    },
+    {
+      "anchor": "process-losses",
+      "end_line": 506,
+      "heading": "Process Losses",
+      "level": 1,
+      "start_line": 498
+    },
+    {
+      "anchor": "fluoride-salt-waste",
+      "end_line": 510,
+      "heading": "Fluoride Salt Waste",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "koh-scrubber-waste",
+      "end_line": 514,
+      "heading": "KOH Scrubber Waste",
+      "level": 1,
+      "start_line": 511
+    },
+    {
+      "anchor": "hydrogen-discard",
+      "end_line": 518,
+      "heading": "Hydrogen Discard",
+      "level": 1,
+      "start_line": 515
+    },
+    {
+      "anchor": "design-and-cost-estimate",
+      "end_line": 556,
+      "heading": "DESIGN AND COST ESTIMATE",
+      "level": 1,
+      "start_line": 519
+    },
+    {
+      "anchor": "capital-cost-of-the-plant",
+      "end_line": 602,
+      "heading": "CAPITAL COST OF THE PLANT",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "process-piping",
+      "end_line": 624,
+      "heading": "Process Piping",
+      "level": 1,
+      "start_line": 603
+    },
+    {
+      "anchor": "process-instrumentation",
+      "end_line": 654,
+      "heading": "Process Instrumentation",
+      "level": 1,
+      "start_line": 625
+    },
+    {
+      "anchor": "cell-electrical-connections",
+      "end_line": 664,
+      "heading": "Cell Electrical Connections",
+      "level": 1,
+      "start_line": 655
+    },
+    {
+      "anchor": "thermal-insulation",
+      "end_line": 674,
+      "heading": "Thermal Insulation",
+      "level": 1,
+      "start_line": 665
+    },
+    {
+      "anchor": "radiation-monitoring",
+      "end_line": 678,
+      "heading": "Radiation Monitoring",
+      "level": 1,
+      "start_line": 675
+    },
+    {
+      "anchor": "sampling-stations",
+      "end_line": 684,
+      "heading": "Sampling Stations",
+      "level": 1,
+      "start_line": 679
+    },
+    {
+      "anchor": "fluorine-plant",
+      "end_line": 690,
+      "heading": "Fluorine Plant",
+      "level": 1,
+      "start_line": 685
+    },
+    {
+      "anchor": "indirect-costs",
+      "end_line": 694,
+      "heading": "Indirect Costs",
+      "level": 1,
+      "start_line": 691
+    },
+    {
+      "anchor": "construction-overhead",
+      "end_line": 698,
+      "heading": "Construction Overhead",
+      "level": 1,
+      "start_line": 695
+    },
+    {
+      "anchor": "engineering-and-inspection-charge",
+      "end_line": 710,
+      "heading": "Engineering and Inspection Charge",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "taxes-and-insurance",
+      "end_line": 714,
+      "heading": "Taxes and Insurance",
+      "level": 1,
+      "start_line": 711
+    },
+    {
+      "anchor": "contingency",
+      "end_line": 730,
+      "heading": "Contingency",
+      "level": 1,
+      "start_line": 715
+    },
+    {
+      "anchor": "interest-during-construction",
+      "end_line": 734,
+      "heading": "Interest During Construction",
+      "level": 1,
+      "start_line": 731
+    },
+    {
+      "anchor": "fuel-cycle-cost",
+      "end_line": 738,
+      "heading": "FUEL CYCLE COST",
+      "level": 1,
+      "start_line": 735
+    },
+    {
+      "anchor": "capital-cost-versus-plant-size",
+      "end_line": 784,
+      "heading": "CAPITAL COST VERSUS PLANT SIZE",
+      "level": 1,
+      "start_line": 739
+    },
+    {
+      "anchor": "cost-estimate-for-a-3-33-day-fuel-cycle-time",
+      "end_line": 832,
+      "heading": "Cost Estimate for a 3.33-Day Fuel Cycle Time",
+      "level": 1,
+      "start_line": 785
+    },
+    {
+      "anchor": "process-piping",
+      "end_line": 848,
+      "heading": "Process Piping",
+      "level": 1,
+      "start_line": 833
+    },
+    {
+      "anchor": "process-instrumentation",
+      "end_line": 882,
+      "heading": "Process Instrumentation",
+      "level": 1,
+      "start_line": 849
+    },
+    {
+      "anchor": "cell-electrical-connections",
+      "end_line": 886,
+      "heading": "Cell. Electrical Connections",
+      "level": 1,
+      "start_line": 883
+    },
+    {
+      "anchor": "thermal-insulation",
+      "end_line": 894,
+      "heading": "Thermal Insulation",
+      "level": 1,
+      "start_line": 887
+    },
+    {
+      "anchor": "radiation-monitoring",
+      "end_line": 898,
+      "heading": "Radiation Monitoring",
+      "level": 1,
+      "start_line": 895
+    },
+    {
+      "anchor": "sampling-stations",
+      "end_line": 902,
+      "heading": "Sampling Stations",
+      "level": 1,
+      "start_line": 899
+    },
+    {
+      "anchor": "fluorine-plant",
+      "end_line": 910,
+      "heading": "Fluorine Plant",
+      "level": 1,
+      "start_line": 903
+    },
+    {
+      "anchor": "indirect-costs",
+      "end_line": 914,
+      "heading": "Indirect Costs",
+      "level": 1,
+      "start_line": 911
+    },
+    {
+      "anchor": "needed-development-uncertainties-and-alternatives",
+      "end_line": 918,
+      "heading": "NEEDED DEVELOPMENT, UNCERTAINTIES AND ALTERNATIVES",
+      "level": 1,
+      "start_line": 915
+    },
+    {
+      "anchor": "materials-of-construction",
+      "end_line": 924,
+      "heading": "Materials of Construction",
+      "level": 1,
+      "start_line": 919
+    },
+    {
+      "anchor": "continuous-fluorination",
+      "end_line": 930,
+      "heading": "Continuous Fluorination",
+      "level": 1,
+      "start_line": 925
+    },
+    {
+      "anchor": "bismuth-removal-from-salt",
+      "end_line": 934,
+      "heading": "Bismuth Removal From Salt",
+      "level": 1,
+      "start_line": 931
+    },
+    {
+      "anchor": "instrumentation-for-process-control",
+      "end_line": 942,
+      "heading": "Instrumentation for Process Control",
+      "level": 1,
+      "start_line": 935
+    },
+    {
+      "anchor": "noble-and-seminoble-metal-behavior",
+      "end_line": 946,
+      "heading": "Noble and Seminoble Metal Behavior",
+      "level": 1,
+      "start_line": 943
+    },
+    {
+      "anchor": "operational-and-safety-considerations",
+      "end_line": 950,
+      "heading": "Operational and Safety Considerations",
+      "level": 1,
+      "start_line": 947
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 954,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 951
+    },
+    {
+      "anchor": "references",
+      "end_line": 971,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 955
+    },
+    {
+      "anchor": "appendixes",
+      "end_line": 973,
+      "heading": "Appendixes",
+      "level": 2,
+      "start_line": 972
+    },
+    {
+      "anchor": "appendix-a-economic-comparison-of-process-gas-systems-for-the-msbr-processing-plant",
+      "end_line": 1015,
+      "heading": "Appendix A: Economic Comparison of Process Gas Systems for the MSBR Processing Plant",
+      "level": 1,
+      "start_line": 974
+    },
+    {
+      "anchor": "once-through-process-cycle",
+      "end_line": 1026,
+      "heading": "Once-Through Process Cycle",
+      "level": 1,
+      "start_line": 1016
+    },
+    {
+      "anchor": "gas-recycle-system",
+      "end_line": 1039,
+      "heading": "Gas Recycle System",
+      "level": 1,
+      "start_line": 1027
+    },
+    {
+      "anchor": "fuel-cycle-cost-comparison",
+      "end_line": 1062,
+      "heading": "Fuel Cycle Cost Comparison",
+      "level": 1,
+      "start_line": 1040
+    },
+    {
+      "anchor": "appendix-b-useful-data-for-the-msbr-and-processing-plant",
+      "end_line": 1072,
+      "heading": "Appendix B: Useful Data for the MSBR and Processing Plant",
+      "level": 1,
+      "start_line": 1063
+    },
+    {
+      "anchor": "appendix-c-steady-state-concentrations-in-the-metal-transfer-system",
+      "end_line": 1083,
+      "heading": "Appendix C: Steady State Concentrations in the Metal Transfer System",
+      "level": 1,
+      "start_line": 1073
+    },
+    {
+      "anchor": "appendix-d-flowsheet-of-the-fluorination-reductive-extraction-metal-transfer-process-1000-mw-e-msbr",
+      "end_line": 1164,
+      "heading": "Appendix D: Flowsheet of the Fluorination--Reductive Extraction--Metal Transfer Process [1000-MW(e) MSBR]",
+      "level": 1,
+      "start_line": 1084
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 1271,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 1165
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3579",
+  "tables": [],
+  "title": "ORNL-TM-3579",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

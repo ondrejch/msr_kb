@@ -1,0 +1,1890 @@
+{
+  "authors": [
+    "Part I. Homogeneous",
+    "Quasi-Homogeneous Reactors",
+    "Aqueous Solutions",
+    "Slurries",
+    "Charles E. Teeter",
+    "James A. Lecky",
+    "John H. Martens",
+    "LEGAL NOTICE",
+    "DISCLAIMER"
+  ],
+  "claims_path": "kb/normalized/claims/anl-6909.jsonl",
+  "date_text": "July 1, 1964",
+  "doc_id": "anl-6909",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 38,
+        "line_hits": [
+          185,
+          195,
+          215,
+          223,
+          269,
+          271,
+          334,
+          354,
+          364,
+          387,
+          424,
+          437,
+          467,
+          533,
+          669,
+          723,
+          775,
+          814,
+          815,
+          830,
+          832,
+          836,
+          846,
+          856,
+          1069,
+          1071,
+          1215,
+          1239,
+          1658,
+          1668,
+          1681,
+          1835,
+          1927,
+          1949,
+          2338,
+          2496,
+          2536,
+          2977
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          185,
+          195,
+          205,
+          211,
+          215,
+          277,
+          1005,
+          1069,
+          1239,
+          1897
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          836,
+          1621,
+          2017,
+          2055,
+          2122,
+          2224,
+          2252,
+          2406,
+          2803
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          1105,
+          1807,
+          1821,
+          2773,
+          2803
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 72,
+        "line_hits": [
+          372,
+          652,
+          667,
+          689,
+          703,
+          712,
+          775,
+          777,
+          779,
+          838,
+          842,
+          967,
+          981,
+          1063,
+          1071,
+          1105,
+          1115,
+          1185,
+          1187,
+          1221,
+          1245,
+          1305,
+          1318,
+          1335,
+          1356,
+          1369,
+          1411,
+          1507,
+          1608,
+          1621,
+          1643,
+          1650,
+          1681,
+          1695,
+          1787,
+          1795,
+          1807,
+          1835,
+          1869,
+          1887,
+          1897,
+          1913,
+          1949,
+          1963,
+          1981,
+          2017,
+          2034,
+          2098,
+          2118,
+          2140
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 28,
+        "line_hits": [
+          205,
+          211,
+          215,
+          223,
+          309,
+          354,
+          364,
+          372,
+          387,
+          409,
+          424,
+          469,
+          509,
+          669,
+          854,
+          1237,
+          1337,
+          1668,
+          1695,
+          1745,
+          1755,
+          1795,
+          1929,
+          2184,
+          2496,
+          2885,
+          2960,
+          2977
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          712,
+          1063,
+          1356,
+          1507,
+          1643,
+          1681,
+          1795,
+          2017,
+          2184,
+          2256,
+          2393
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          814,
+          1063,
+          1507,
+          1621,
+          1887,
+          2184,
+          2368
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          109,
+          712,
+          1071,
+          1227,
+          1821,
+          2695
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          271,
+          830,
+          836,
+          856
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          364
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 155,
+        "line_hits": [
+          675,
+          697,
+          699,
+          920,
+          925,
+          927,
+          928,
+          929,
+          930,
+          948,
+          963,
+          969,
+          1049,
+          1091,
+          1115,
+          1139,
+          1141,
+          1143,
+          1155,
+          1157,
+          1271,
+          1297,
+          1313,
+          1315,
+          1316,
+          1327,
+          1329,
+          1332,
+          1342,
+          1352,
+          1354,
+          1361,
+          1377,
+          1379,
+          1445,
+          1447,
+          1463,
+          1465,
+          1485,
+          1487,
+          1497,
+          1501,
+          1511,
+          1517,
+          1531,
+          1545,
+          1573,
+          1603,
+          1605,
+          1613
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 33,
+        "line_hits": [
+          72,
+          165,
+          227,
+          235,
+          241,
+          287,
+          303,
+          711,
+          813,
+          864,
+          867,
+          950,
+          1003,
+          1009,
+          1225,
+          1257,
+          1283,
+          1348,
+          1643,
+          1794,
+          2583,
+          2585,
+          2600,
+          2610,
+          2613,
+          2615,
+          2634,
+          2752,
+          2753,
+          2755,
+          2763,
+          2973,
+          3005
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          1,
+          40,
+          91,
+          1273,
+          2240,
+          2604,
+          2754,
+          2835,
+          2955,
+          2957,
+          3023,
+          3024
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          1099,
+          1105,
+          1267,
+          1799,
+          1803,
+          2663,
+          2752
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1103,
+          1269,
+          1793,
+          1794
+        ],
+        "name": "Foster Wheeler"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1095,
+          1211
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2654
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1223
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          225
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 89,
+        "line_hits": [
+          38,
+          101,
+          103,
+          107,
+          113,
+          115,
+          117,
+          119,
+          127,
+          129,
+          165,
+          169,
+          173,
+          193,
+          197,
+          203,
+          229,
+          231,
+          241,
+          243,
+          245,
+          255,
+          257,
+          263,
+          279,
+          285,
+          334,
+          523,
+          685,
+          763,
+          773,
+          777,
+          791,
+          814,
+          842,
+          957,
+          959,
+          967,
+          1007,
+          1009,
+          1013,
+          1033,
+          1057,
+          1071,
+          1085,
+          1113,
+          1135,
+          1141,
+          1161,
+          1163
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 55,
+        "line_hits": [
+          261,
+          530,
+          959,
+          969,
+          971,
+          973,
+          975,
+          983,
+          995,
+          997,
+          999,
+          1003,
+          1005,
+          1007,
+          1009,
+          1011,
+          1013,
+          1017,
+          1021,
+          1023,
+          1025,
+          1037,
+          1043,
+          1045,
+          1049,
+          1055,
+          1081,
+          1113,
+          1125,
+          1133,
+          1183,
+          1191,
+          1203,
+          1205,
+          1303,
+          1318,
+          1325,
+          1334,
+          1337,
+          1348,
+          1355,
+          1387,
+          1514,
+          1855,
+          2588,
+          2593,
+          2594,
+          2599,
+          2601,
+          2632
+        ],
+        "name": "HRE"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          975,
+          997,
+          1051,
+          1093,
+          1137,
+          1265,
+          1273,
+          1279,
+          1283,
+          2583,
+          2606,
+          2610,
+          2637,
+          2660,
+          2686,
+          2694,
+          2697,
+          2702,
+          2707,
+          2712,
+          2755,
+          2777
+        ],
+        "name": "AHR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 26,
+        "line_hits": [
+          1029,
+          1053,
+          1081,
+          1119,
+          1141,
+          1161,
+          1205,
+          1461,
+          1583,
+          1608,
+          1621,
+          1897,
+          1913,
+          1949,
+          1963,
+          1979,
+          2046,
+          2114,
+          2140,
+          2184,
+          2208,
+          2224,
+          2232,
+          2250,
+          2406,
+          2547
+        ],
+        "name": "two-fluid breeder"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          155,
+          341,
+          351,
+          362,
+          883,
+          969,
+          1049,
+          1271,
+          1315,
+          1330,
+          1354,
+          1499,
+          1513,
+          1648,
+          1655,
+          1793,
+          2575,
+          2587,
+          2989
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2711
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 17,
+        "line_hits": [
+          155,
+          341,
+          351,
+          362,
+          883,
+          1271,
+          1315,
+          1330,
+          1354,
+          1499,
+          1513,
+          1648,
+          1655,
+          1793,
+          2575,
+          2587,
+          2989
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          1051,
+          1135
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "b26d2fa1768b6a5f6cbeb9faf8753bbee1f6b37cddaf2918fbf25b4f6f191f99",
+  "markdown_path": "pdf/ANL-6909/ANL-6909/hybrid_ocr/ANL-6909.md",
+  "report_number": "ANL-6892",
+  "report_numbers": [
+    "ANL-6892"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 171,
+  "sections": [
+    {
+      "anchor": "argonne-national-laboratory",
+      "end_line": 2,
+      "heading": "Argonne National Laboratory",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "catalog-of-nuclear-reactor-concepts",
+      "end_line": 16,
+      "heading": "CATALOG OF NUCLEAR REACTOR CONCEPTS",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 31,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 35,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 39,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "argonne-national-laboratory",
+      "end_line": 45,
+      "heading": "Argonne National Laboratory",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "catalog-of-nuclear-reactor-concepts",
+      "end_line": 73,
+      "heading": "Catalog Of Nuclear Reactor Concepts",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 79,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "section-ii-reactors-fueled-with-homogeneous-aqueous-solutions-and-slurries",
+      "end_line": 88,
+      "heading": "Section Ii. Reactors Fueled With Homogeneous Aqueous Solutions And Slurries",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "preface",
+      "end_line": 92,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "j-h-m",
+      "end_line": 96,
+      "heading": "J.H.M.",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "section-ii-reactors-fueled-with-homogeneous-aqueous-solutions-and-slurries",
+      "end_line": 98,
+      "heading": "SECTION II REACTORS FUELED WITH HOMOGENEOUS AQUEOUS SOLUTIONS AND SLURRIES",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "chapter-1-introduction",
+      "end_line": 132,
+      "heading": "Chapter 1 Introduction",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "early-history",
+      "end_line": 166,
+      "heading": "Early History",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "zero-power-reactors",
+      "end_line": 170,
+      "heading": "Zero-Power Reactors",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "nasa-zero-power-reactor",
+      "end_line": 178,
+      "heading": "NASA Zero-Power Reactor",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "highly-enriched-homogeneous-reactor",
+      "end_line": 182,
+      "heading": "Highly Enriched Homogeneous Reactor",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "proserpine",
+      "end_line": 186,
+      "heading": "Proserpine",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "water-boilers",
+      "end_line": 198,
+      "heading": "Water Boilers",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "the-lopo-series",
+      "end_line": 216,
+      "heading": "The LOPO Series",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "atoms-international-reactors",
+      "end_line": 238,
+      "heading": "Atoms International Reactors",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "other-water-boilers",
+      "end_line": 252,
+      "heading": "Other Water Boilers",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "irradiation-and-testing-reactors",
+      "end_line": 272,
+      "heading": "Irradiation and Testing Reactors",
+      "level": 1,
+      "start_line": 253
+    },
+    {
+      "anchor": "evaluation-and-status",
+      "end_line": 292,
+      "heading": "Evaluation and Status",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "d-a-t-a-s-h-e-e-t-s",
+      "end_line": 294,
+      "heading": "D A T A S H E E T S",
+      "level": 2,
+      "start_line": 293
+    },
+    {
+      "anchor": "research-and-testing-reactors",
+      "end_line": 298,
+      "heading": "Research And Testing Reactors",
+      "level": 2,
+      "start_line": 295
+    },
+    {
+      "anchor": "zpr-i-and-zpr-ii",
+      "end_line": 300,
+      "heading": "(ZPR-I and ZPR-II)",
+      "level": 1,
+      "start_line": 299
+    },
+    {
+      "anchor": "nasa-lewis-research-center",
+      "end_line": 314,
+      "heading": "NASA Lewis Research Center",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "wapd",
+      "end_line": 338,
+      "heading": "WAPD",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 348,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 357,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 349
+    },
+    {
+      "anchor": "no-6-supo-super-power-water-boiler",
+      "end_line": 359,
+      "heading": "No. 6 SUPO, Super Power Water Boiler",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 414,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "atoms-international-model-l-8",
+      "end_line": 428,
+      "heading": "(Atoms International Model L-8)",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "naa",
+      "end_line": 440,
+      "heading": "NAA",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "no-13-research-reactor-model-l-54",
+      "end_line": 516,
+      "heading": "No. 13 Research Reactor Model L-54",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "no-17-5-watt-laboratory-reactor",
+      "end_line": 528,
+      "heading": "No. 17 5-Watt Laboratory Reactor",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "ncscr-2",
+      "end_line": 580,
+      "heading": "Ncscr-2.",
+      "level": 2,
+      "start_line": 529
+    },
+    {
+      "anchor": "no-21-water-boiler",
+      "end_line": 596,
+      "heading": "No. 21 Water Boiler",
+      "level": 1,
+      "start_line": 581
+    },
+    {
+      "anchor": "no-22-alecto-i-water-boiler",
+      "end_line": 644,
+      "heading": "No. 22 Alecto I Water Boiler",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 656,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 645
+    },
+    {
+      "anchor": "babcock-and-wilcox-company",
+      "end_line": 674,
+      "heading": "Babcock and Wilcox Company",
+      "level": 1,
+      "start_line": 657
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 696,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 675
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 786,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 697
+    },
+    {
+      "anchor": "81x11",
+      "end_line": 787,
+      "heading": "81X11",
+      "level": 2,
+      "start_line": 787
+    },
+    {
+      "anchor": "81x12",
+      "end_line": 817,
+      "heading": "81X12",
+      "level": 2,
+      "start_line": 788
+    },
+    {
+      "anchor": "bendix-aviation-corporation",
+      "end_line": 861,
+      "heading": "Bendix Aviation Corporation",
+      "level": 1,
+      "start_line": 818
+    },
+    {
+      "anchor": "8111x",
+      "end_line": 945,
+      "heading": "8111X",
+      "level": 2,
+      "start_line": 862
+    },
+    {
+      "anchor": "additional-references",
+      "end_line": 960,
+      "heading": "Additional References",
+      "level": 1,
+      "start_line": 946
+    },
+    {
+      "anchor": "early-history",
+      "end_line": 970,
+      "heading": "Early History",
+      "level": 1,
+      "start_line": 961
+    },
+    {
+      "anchor": "hre-1-and-related-concepts",
+      "end_line": 978,
+      "heading": "HRE-1 and Related Concepts",
+      "level": 1,
+      "start_line": 971
+    },
+    {
+      "anchor": "preliminary-work",
+      "end_line": 982,
+      "heading": "Preliminary Work",
+      "level": 1,
+      "start_line": 979
+    },
+    {
+      "anchor": "the-hre-project",
+      "end_line": 1046,
+      "heading": "The HRE Project",
+      "level": 1,
+      "start_line": 983
+    },
+    {
+      "anchor": "the-homogeneous-reactor-project",
+      "end_line": 1060,
+      "heading": "The Homogeneous Reactor Project",
+      "level": 1,
+      "start_line": 1047
+    },
+    {
+      "anchor": "lapre-i",
+      "end_line": 1066,
+      "heading": "LAPRE-I",
+      "level": 1,
+      "start_line": 1061
+    },
+    {
+      "anchor": "lapre-ii",
+      "end_line": 1074,
+      "heading": "LAPRE-II",
+      "level": 1,
+      "start_line": 1067
+    },
+    {
+      "anchor": "sandia-phosphoric-acid-reactor",
+      "end_line": 1078,
+      "heading": "Sandia Phosphoric Acid Reactor",
+      "level": 1,
+      "start_line": 1075
+    },
+    {
+      "anchor": "other-homogeneous-aqueous-solution-reactors",
+      "end_line": 1082,
+      "heading": "Other Homogeneous Aqueous Solution Reactors",
+      "level": 1,
+      "start_line": 1079
+    },
+    {
+      "anchor": "one-region-burners",
+      "end_line": 1110,
+      "heading": "One-Region Burners",
+      "level": 1,
+      "start_line": 1083
+    },
+    {
+      "anchor": "one-region-converters-and-breeders",
+      "end_line": 1122,
+      "heading": "One-Region Converters and Breeders",
+      "level": 1,
+      "start_line": 1111
+    },
+    {
+      "anchor": "two-region-converters-and-breeders",
+      "end_line": 1164,
+      "heading": "Two-Region Converters and Breeders",
+      "level": 1,
+      "start_line": 1123
+    },
+    {
+      "anchor": "non-homogeneous-aqueous-solution-reactors",
+      "end_line": 1170,
+      "heading": "Non-Homogeneous Aqueous Solution Reactors",
+      "level": 1,
+      "start_line": 1165
+    },
+    {
+      "anchor": "colloidal-fuels",
+      "end_line": 1174,
+      "heading": "Colloidal Fuels",
+      "level": 1,
+      "start_line": 1171
+    },
+    {
+      "anchor": "slurry-fueled-reactors",
+      "end_line": 1190,
+      "heading": "Slurry-Fueled Reactors",
+      "level": 1,
+      "start_line": 1175
+    },
+    {
+      "anchor": "slurry-development-in-the-hre-project",
+      "end_line": 1208,
+      "heading": "Slurry Development in the HRE Project",
+      "level": 1,
+      "start_line": 1191
+    },
+    {
+      "anchor": "orsort-concepts",
+      "end_line": 1212,
+      "heading": "ORSORT Concepts",
+      "level": 1,
+      "start_line": 1209
+    },
+    {
+      "anchor": "the-par-reactor",
+      "end_line": 1228,
+      "heading": "The PAR Reactor",
+      "level": 1,
+      "start_line": 1213
+    },
+    {
+      "anchor": "kema-reactors",
+      "end_line": 1248,
+      "heading": "KEMA Reactors",
+      "level": 1,
+      "start_line": 1229
+    },
+    {
+      "anchor": "other-slurry-concepts",
+      "end_line": 1262,
+      "heading": "Other Slurry Concepts",
+      "level": 1,
+      "start_line": 1249
+    },
+    {
+      "anchor": "evaluation-and-status",
+      "end_line": 1288,
+      "heading": "Evaluation and Status",
+      "level": 1,
+      "start_line": 1263
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 1290,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 1289
+    },
+    {
+      "anchor": "non-boiling-reactors-for-power-and-breeding",
+      "end_line": 1296,
+      "heading": "Non-Boiling Reactors For Power And Breeding",
+      "level": 2,
+      "start_line": 1291
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1312,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1297
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1326,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1313
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1341,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1327
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1351,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 1342
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1360,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1352
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1376,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 1361
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1444,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1377
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1462,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1445
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1484,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1463
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1496,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1485
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1510,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1497
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1516,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1511
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1528,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1517
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 1544,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 1529
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1572,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1545
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1602,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 1573
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1612,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1603
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1626,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1613
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1638,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1627
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1645,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1639
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 1652,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 1646
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 1660,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 1653
+    },
+    {
+      "anchor": "no-23-lapre-ii-type-reactor-for-dew-line-application",
+      "end_line": 1662,
+      "heading": "No. 23 LAPRE-II Type Reactor for DEW Line Application",
+      "level": 1,
+      "start_line": 1661
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 1686,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 1663
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1700,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1687
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1712,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1701
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1724,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1713
+    },
+    {
+      "anchor": "no-28-atomic-powered-locomotive",
+      "end_line": 1726,
+      "heading": "No. 28 Atomic-Powered Locomotive",
+      "level": 1,
+      "start_line": 1725
+    },
+    {
+      "anchor": "university-of-utah",
+      "end_line": 1750,
+      "heading": "University of Utah",
+      "level": 1,
+      "start_line": 1727
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1759,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1751
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1766,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1760
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1778,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1767
+    },
+    {
+      "anchor": "no-32-80-mw-aqueous-homogeneous-burner-reactor",
+      "end_line": 1780,
+      "heading": "No. 32 80 Mw Aqueous Homogeneous Burner Reactor",
+      "level": 1,
+      "start_line": 1779
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1790,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1781
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1798,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1791
+    },
+    {
+      "anchor": "general-electric-company",
+      "end_line": 1826,
+      "heading": "General Electric Company",
+      "level": 1,
+      "start_line": 1799
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 1838,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 1827
+    },
+    {
+      "anchor": "46-7x2-8xxxx",
+      "end_line": 1842,
+      "heading": "46 7X2 8Xxxx",
+      "level": 2,
+      "start_line": 1839
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1860,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 1843
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1878,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1861
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 1888,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 1879
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 1904,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 1889
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 1914,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 1905
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 1934,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 1915
+    },
+    {
+      "anchor": "8111x",
+      "end_line": 1940,
+      "heading": "8111X",
+      "level": 2,
+      "start_line": 1935
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 1952,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 1941
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 1954,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 1953
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 1966,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 1955
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 1984,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 1967
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 1986,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 1985
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 2006,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 1987
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2026,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2007
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2040,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2027
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2049,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2041
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2057,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2050
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2105,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 2058
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2131,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 2106
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2155,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 2132
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2175,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 2156
+    },
+    {
+      "anchor": "nuclear-power-group",
+      "end_line": 2199,
+      "heading": "Nuclear Power Group",
+      "level": 1,
+      "start_line": 2176
+    },
+    {
+      "anchor": "aere",
+      "end_line": 2213,
+      "heading": "AERE",
+      "level": 1,
+      "start_line": 2200
+    },
+    {
+      "anchor": "no-59-homogeneous-aqueous-reactor",
+      "end_line": 2215,
+      "heading": "No. 59 Homogeneous Aqueous Reactor",
+      "level": 1,
+      "start_line": 2214
+    },
+    {
+      "anchor": "aere",
+      "end_line": 2239,
+      "heading": "AERE",
+      "level": 1,
+      "start_line": 2216
+    },
+    {
+      "anchor": "anl",
+      "end_line": 2283,
+      "heading": "ANL",
+      "level": 1,
+      "start_line": 2240
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 2327,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 2284
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 2329,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 2328
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 2341,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 2330
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 2345,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 2342
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2359,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 2346
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2373,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 2360
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2387,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 2374
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2397,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 2388
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 2409,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 2398
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2421,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2410
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2485,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2422
+    },
+    {
+      "anchor": "rcn-kema-reactor-development-group",
+      "end_line": 2757,
+      "heading": "RCN-KEMA Reactor Development Group",
+      "level": 1,
+      "start_line": 2486
+    },
+    {
+      "anchor": "additional-references",
+      "end_line": 2778,
+      "heading": "Additional References",
+      "level": 1,
+      "start_line": 2758
+    },
+    {
+      "anchor": "feasibility-of-boiling-reactors",
+      "end_line": 2782,
+      "heading": "Feasibility of Boiling Reactors",
+      "level": 1,
+      "start_line": 2779
+    },
+    {
+      "anchor": "supo-experiments",
+      "end_line": 2796,
+      "heading": "SUPO Experiments",
+      "level": 1,
+      "start_line": 2783
+    },
+    {
+      "anchor": "teapot",
+      "end_line": 2808,
+      "heading": "Teapot",
+      "level": 1,
+      "start_line": 2797
+    },
+    {
+      "anchor": "other-concepts",
+      "end_line": 2812,
+      "heading": "Other Concepts",
+      "level": 1,
+      "start_line": 2809
+    },
+    {
+      "anchor": "one-region-solution-reactors",
+      "end_line": 2828,
+      "heading": "One-Region Solution Reactors",
+      "level": 1,
+      "start_line": 2813
+    },
+    {
+      "anchor": "one-region-boiling-slurry-core-reactors",
+      "end_line": 2842,
+      "heading": "One-Region Boiling-Slurry-Core Reactors",
+      "level": 1,
+      "start_line": 2829
+    },
+    {
+      "anchor": "two-region-slurry-core-reactors",
+      "end_line": 2848,
+      "heading": "Two-Region Slurry-Core Reactors",
+      "level": 1,
+      "start_line": 2843
+    },
+    {
+      "anchor": "miscellaneous",
+      "end_line": 2852,
+      "heading": "Miscellaneous",
+      "level": 1,
+      "start_line": 2849
+    },
+    {
+      "anchor": "status",
+      "end_line": 2858,
+      "heading": "Status",
+      "level": 1,
+      "start_line": 2853
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 2860,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 2859
+    },
+    {
+      "anchor": "boiling-reactors",
+      "end_line": 2864,
+      "heading": "Boiling Reactors",
+      "level": 2,
+      "start_line": 2861
+    },
+    {
+      "anchor": "manhattan-project",
+      "end_line": 2876,
+      "heading": "Manhattan Project",
+      "level": 1,
+      "start_line": 2865
+    },
+    {
+      "anchor": "8111x",
+      "end_line": 2888,
+      "heading": "8111X",
+      "level": 2,
+      "start_line": 2877
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2902,
+      "heading": "Orsort",
+      "level": 2,
+      "start_line": 2889
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2920,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2903
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 2922,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 2921
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2943,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2923
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2952,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2944
+    },
+    {
+      "anchor": "no-8-boiling-slurry-reactor-experiment-slurrex",
+      "end_line": 2954,
+      "heading": "No.8 Boiling Slurry Reactor Experiment (SLURREX)",
+      "level": 1,
+      "start_line": 2953
+    },
+    {
+      "anchor": "anl",
+      "end_line": 2962,
+      "heading": "ANL",
+      "level": 1,
+      "start_line": 2955
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 2986,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 2963
+    },
+    {
+      "anchor": "8111x",
+      "end_line": 3031,
+      "heading": "8111X",
+      "level": 2,
+      "start_line": 2987
+    }
+  ],
+  "source_dir": "pdf/ANL-6909",
+  "tables": [],
+  "title": "Argonne National Laboratory",
+  "topics": [
+    "aqueous-homogeneous-reactors",
+    "breeder-and-converter-design",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "program-history"
+  ],
+  "warnings": []
+}

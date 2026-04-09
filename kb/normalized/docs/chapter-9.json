@@ -1,0 +1,616 @@
+{
+  "authors": [
+    "LARGE-SCALE HOMOGENEOUS REACTOR STUDIES*"
+  ],
+  "claims_path": "kb/normalized/claims/chapter-9.jsonl",
+  "date_text": null,
+  "doc_id": "chapter-9",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          48,
+          175,
+          338,
+          393
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          199,
+          221
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          347,
+          357
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          48,
+          377
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 28,
+        "line_hits": [
+          36,
+          38,
+          44,
+          104,
+          115,
+          163,
+          167,
+          175,
+          177,
+          179,
+          191,
+          236,
+          240,
+          245,
+          260,
+          262,
+          303,
+          310,
+          319,
+          326,
+          328,
+          362,
+          391,
+          395,
+          486,
+          488,
+          490,
+          524
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 27,
+        "line_hits": [
+          20,
+          74,
+          78,
+          104,
+          108,
+          125,
+          163,
+          173,
+          229,
+          236,
+          240,
+          245,
+          247,
+          260,
+          262,
+          349,
+          351,
+          385,
+          387,
+          389,
+          411,
+          417,
+          440,
+          480,
+          486,
+          490,
+          528
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 24,
+        "line_hits": [
+          36,
+          38,
+          40,
+          42,
+          44,
+          46,
+          66,
+          78,
+          80,
+          173,
+          175,
+          210,
+          229,
+          231,
+          236,
+          303,
+          317,
+          319,
+          322,
+          330,
+          334,
+          372,
+          385,
+          528
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          104,
+          165,
+          175,
+          177,
+          266,
+          268,
+          270,
+          279,
+          292,
+          303,
+          362
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          177,
+          411,
+          451
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          214
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 25,
+        "line_hits": [
+          30,
+          32,
+          95,
+          199,
+          268,
+          336,
+          343,
+          347,
+          461,
+          494,
+          526,
+          541,
+          548,
+          550,
+          551,
+          555,
+          556,
+          557,
+          562,
+          563,
+          566,
+          568,
+          569,
+          570,
+          571
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          26,
+          93,
+          548,
+          550,
+          551,
+          562,
+          563,
+          564,
+          565,
+          566,
+          568,
+          569,
+          571
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          31,
+          336,
+          343,
+          558,
+          559
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          93,
+          95,
+          549
+        ],
+        "name": "Foster Wheeler"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 80,
+        "line_hits": [
+          7,
+          14,
+          20,
+          24,
+          28,
+          38,
+          44,
+          48,
+          50,
+          58,
+          60,
+          62,
+          64,
+          72,
+          74,
+          80,
+          89,
+          167,
+          169,
+          171,
+          173,
+          175,
+          177,
+          181,
+          183,
+          197,
+          201,
+          203,
+          212,
+          227,
+          229,
+          236,
+          238,
+          245,
+          247,
+          258,
+          260,
+          262,
+          274,
+          303,
+          305,
+          312,
+          314,
+          319,
+          326,
+          328,
+          336,
+          338,
+          349,
+          351
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          26,
+          283,
+          338,
+          368,
+          405,
+          494,
+          543,
+          563,
+          564,
+          565
+        ],
+        "name": "AHR"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          20,
+          56,
+          68,
+          197,
+          268,
+          526,
+          531,
+          539,
+          543,
+          571
+        ],
+        "name": "HRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 4,
+        "line_hits": [
+          24,
+          32,
+          366,
+          533
+        ],
+        "name": "two-fluid breeder"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2acabf67783540aa8e332dcfcad2aa4d030ae3ca37fad3bec727770d643ecb68",
+  "markdown_path": "pdf/FFR_chap09/FFR_chap09/hybrid_ocr/FFR_chap09.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 34,
+  "sections": [
+    {
+      "anchor": "chapter-9",
+      "end_line": 2,
+      "heading": "CHAPTER 9",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "large-scale-homogeneous-reactor-studies",
+      "end_line": 4,
+      "heading": "LARGE-SCALE HOMOGENEOUS REACTOR STUDIES*",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "9-1-introduction",
+      "end_line": 33,
+      "heading": "9-1. INTRODUCTION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "9-2-general-plant-layout-and-design",
+      "end_line": 90,
+      "heading": "9-2. GENERAL PLANT LAYOUT AND DESIGN",
+      "level": 1,
+      "start_line": 34
+    },
+    {
+      "anchor": "9-3-one-region-u235-burner-reactors",
+      "end_line": 109,
+      "heading": "9-3. ONE-REGION U235 BURNER REACTORS",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "table-9-1",
+      "end_line": 110,
+      "heading": "Table 9-1",
+      "level": 2,
+      "start_line": 110
+    },
+    {
+      "anchor": "design-data-for-the-revised-wolverine-primary-system-10-mwe-operation",
+      "end_line": 114,
+      "heading": "Design Data For The Revised Wolverine Primary System (10-Mwe Operation)",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "2-pump",
+      "end_line": 124,
+      "heading": "2. Pump",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "3-heat-exchanger",
+      "end_line": 142,
+      "heading": "3. Heat exchanger",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "4-pressurizer",
+      "end_line": 154,
+      "heading": "4. Pressurizer",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "5-piping",
+      "end_line": 204,
+      "heading": "5. Piping",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "one-unit",
+      "end_line": 206,
+      "heading": "(One Unit)",
+      "level": 2,
+      "start_line": 205
+    },
+    {
+      "anchor": "table-9-2",
+      "end_line": 207,
+      "heading": "Table 9-2",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "hrr-steam-generator-specifications",
+      "end_line": 217,
+      "heading": "Hrr Steam-Generator Specifications",
+      "level": 2,
+      "start_line": 208
+    },
+    {
+      "anchor": "table-9-3",
+      "end_line": 218,
+      "heading": "Table 9-3",
+      "level": 2,
+      "start_line": 218
+    },
+    {
+      "anchor": "key-design-parameters",
+      "end_line": 275,
+      "heading": "Key Design Parameters",
+      "level": 2,
+      "start_line": 219
+    },
+    {
+      "anchor": "table-9-4",
+      "end_line": 276,
+      "heading": "Table 9-4",
+      "level": 2,
+      "start_line": 276
+    },
+    {
+      "anchor": "key-design-parameters-aetr",
+      "end_line": 280,
+      "heading": "Key Design Parameters (Aetr)",
+      "level": 2,
+      "start_line": 277
+    },
+    {
+      "anchor": "9-4-one-region-breeders-and-converters",
+      "end_line": 339,
+      "heading": "9-4. ONE-REGION BREEDERS AND CONVERTERS",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "table-9-5",
+      "end_line": 340,
+      "heading": "Table 9-5",
+      "level": 2,
+      "start_line": 340
+    },
+    {
+      "anchor": "characteristics-of-large-scale-aqueous-plutonium-producers",
+      "end_line": 358,
+      "heading": "Characteristics Of Large-Scale Aqueous Plutonium Producers",
+      "level": 2,
+      "start_line": 341
+    },
+    {
+      "anchor": "table-9-6",
+      "end_line": 359,
+      "heading": "Table 9-6",
+      "level": 2,
+      "start_line": 359
+    },
+    {
+      "anchor": "operating-conditions-180-mw-electrical-plant",
+      "end_line": 365,
+      "heading": "Operating Conditions-180 Mw Electrical Plant",
+      "level": 2,
+      "start_line": 360
+    },
+    {
+      "anchor": "9-5-two-region-breeders",
+      "end_line": 400,
+      "heading": "9-5. TWO-REGION BREEDERS",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "cost-analysis",
+      "end_line": 433,
+      "heading": "Cost analysis",
+      "level": 1,
+      "start_line": 401
+    },
+    {
+      "anchor": "table-9-7-design-data-for-the-single-fluid-two-region-reactor",
+      "end_line": 473,
+      "heading": "Table 9-7 Design Data For The Single-Fluid Two-Region Reactor",
+      "level": 2,
+      "start_line": 434
+    },
+    {
+      "anchor": "table-9-8",
+      "end_line": 475,
+      "heading": "TABLE 9-8",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "design-parameters-of-a-two-region-intermediate-scale-homogeneous-reactor",
+      "end_line": 501,
+      "heading": "Design Parameters Of A Two-Region Intermediate Scale Homogeneous Reactor",
+      "level": 2,
+      "start_line": 476
+    },
+    {
+      "anchor": "table-9-9",
+      "end_line": 503,
+      "heading": "TABLE 9-9",
+      "level": 1,
+      "start_line": 502
+    },
+    {
+      "anchor": "reactor-characteristics-for-preliminary",
+      "end_line": 505,
+      "heading": "REACTOR CHARACTERISTICS FOR PRELIMINARY",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "design-of-a-300-mw-station",
+      "end_line": 529,
+      "heading": "DESIGN OF A 300-MW STATION",
+      "level": 1,
+      "start_line": 506
+    },
+    {
+      "anchor": "table-9-10",
+      "end_line": 530,
+      "heading": "Table 9-10",
+      "level": 2,
+      "start_line": 530
+    },
+    {
+      "anchor": "hre-3-design-criteria",
+      "end_line": 544,
+      "heading": "Hre-3 Design Criteria",
+      "level": 2,
+      "start_line": 531
+    },
+    {
+      "anchor": "references",
+      "end_line": 571,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 545
+    }
+  ],
+  "source_dir": "pdf/FFR_chap09",
+  "tables": [],
+  "title": "CHAPTER 9",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "breeder-and-converter-design",
+    "aqueous-homogeneous-reactors",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

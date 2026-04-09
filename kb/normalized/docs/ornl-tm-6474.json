@@ -1,0 +1,999 @@
+{
+  "authors": [
+    "V. J. Tennyery",
+    "E. S. Bomar",
+    "W. D. Bond",
+    "L. E. Morse",
+    "H. R. Meyer",
+    "J.E.Till"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-6474.jsonl",
+  "date_text": "October 1978",
+  "doc_id": "ornl-tm-6474",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          296
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          512
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 21,
+        "line_hits": [
+          29,
+          67,
+          332,
+          352,
+          356,
+          455,
+          462,
+          559,
+          875,
+          879,
+          880,
+          925,
+          929,
+          930,
+          931,
+          934,
+          1030,
+          1083,
+          1478,
+          1691,
+          1693
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          324,
+          396,
+          407,
+          409,
+          410,
+          411,
+          416,
+          417,
+          557,
+          932,
+          1084
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          73
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 92,
+        "line_hits": [
+          270,
+          272,
+          274,
+          280,
+          286,
+          294,
+          296,
+          298,
+          311,
+          315,
+          317,
+          326,
+          332,
+          352,
+          354,
+          356,
+          364,
+          370,
+          382,
+          384,
+          386,
+          438,
+          450,
+          469,
+          479,
+          498,
+          512,
+          516,
+          520,
+          530,
+          540,
+          542,
+          546,
+          550,
+          573,
+          589,
+          591,
+          593,
+          606,
+          669,
+          713,
+          739,
+          743,
+          745,
+          768,
+          779,
+          783,
+          819,
+          833,
+          856
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          396,
+          417
+        ],
+        "name": "ORNL Technical Memorandum"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "69724b0461b7baa6e88034350c419d6964b0f0de0ab217fcf0aa52b7151f7b44",
+  "markdown_path": "pdf/ORNL-TM-6474/ORNL-TM-6474/hybrid_ocr/ORNL-TM-6474.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 117,
+  "sections": [
+    {
+      "anchor": "environmental-assessment-of-alternate-fbr-fuels-radiological-assessment-of-airborne-releases-from-thorium-mining-and-milling",
+      "end_line": 28,
+      "heading": "Environmental Assessment of Alternate FBR Fuels: Radiological Assessment of Airborne Releases from Thorium Mining and Milling",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-tm-6474",
+      "end_line": 34,
+      "heading": "Ornl/Tm-6474",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 36,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 38,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "health-and-environmental-safety-division",
+      "end_line": 40,
+      "heading": "Health And Environmental Safety Division",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "environmental-assessment-of-alternate-fbr-fuels-radilogical",
+      "end_line": 42,
+      "heading": "Environmental Assessment Of Alternate Fbr Fuels: Radilogical",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "assessment-of-airborne-releases-from",
+      "end_line": 44,
+      "heading": "Assessment Of Airborne Releases From",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "thorium-mining-and-milling",
+      "end_line": 66,
+      "heading": "Thorium Mining And Milling",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 72,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 76,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "department-of-energy",
+      "end_line": 78,
+      "heading": "Department Of Energy",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "contents",
+      "end_line": 84,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 86,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "1-introduction-2",
+      "end_line": 88,
+      "heading": "1. INTRODUCTION 2",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "2-facility-siting-meteorology-and-population-characteristics-pertaining-to-thorium-ore-deposits-4",
+      "end_line": 102,
+      "heading": "2. FACILITY SITING, METEOROLOGY, AND POPULATION CHARACTERISTICS PERTAINING TO THORIUM ORE DEPOSITS 4",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "3-description-of-model-mine-and-mill-20",
+      "end_line": 134,
+      "heading": "3. DESCRIPTION OF MODEL MINE AND MILL 20",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "4-generation-of-source-terms-32",
+      "end_line": 160,
+      "heading": "4. GENERATION OF SOURCE TERMS 32",
+      "level": 2,
+      "start_line": 135
+    },
+    {
+      "anchor": "page",
+      "end_line": 162,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "5-radiological-assessment-methodology-49",
+      "end_line": 167,
+      "heading": "5. RADIOLOGICAL ASSESSMENT METHODOLOGY 49",
+      "level": 2,
+      "start_line": 163
+    },
+    {
+      "anchor": "6-analysis-of-radiological-impact-56",
+      "end_line": 178,
+      "heading": "6. ANALYSIS OF RADIOLOGICAL IMPACT 56",
+      "level": 2,
+      "start_line": 168
+    },
+    {
+      "anchor": "recommendations-for-future-work-69",
+      "end_line": 180,
+      "heading": "Recommendations For Future Work 69",
+      "level": 2,
+      "start_line": 179
+    },
+    {
+      "anchor": "acknowledgments-70",
+      "end_line": 192,
+      "heading": "Acknowledgments 70",
+      "level": 2,
+      "start_line": 181
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 194,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "figure",
+      "end_line": 207,
+      "heading": "Figure",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 209,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "table",
+      "end_line": 243,
+      "heading": "Table",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "table",
+      "end_line": 256,
+      "heading": "Table",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "environmental-assessment-of-alternate-fbr-fuels-radilogical-assessment-of-airborne-releases-from-thorium-mining-and-milling",
+      "end_line": 267,
+      "heading": "ENVIRONMENTAL ASSESSMENT OF ALTERNATE FBR FUELS: RADILOGICAL ASSESSMENT OF AIRBORNE RELEASES FROM THORIUM MINING AND MILLING*",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 275,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 268
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 289,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "2-facility-siting-meteorology-and-population-characteristics-pertaining-to-thorium-ore-deposits",
+      "end_line": 291,
+      "heading": "2. FACILITY SITING, METEOROLOGY, AND POPULATION CHARACTERISTICS PERTAINING TO THORIUM ORE DEPOSITS",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "2-1-u-s-thorium-deposits",
+      "end_line": 312,
+      "heading": "2.1 U.S. Thorium Deposits",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "2-2-sites-selected-for-analysis",
+      "end_line": 321,
+      "heading": "2.2 Sites Selected for Analysis",
+      "level": 1,
+      "start_line": 313
+    },
+    {
+      "anchor": "2-3-characteristics-of-deposits-in-the-lemhi-pass-district",
+      "end_line": 329,
+      "heading": "2.3 Characteristics of Deposits in the Lemhi Pass District",
+      "level": 1,
+      "start_line": 322
+    },
+    {
+      "anchor": "2-4-population-distribution",
+      "end_line": 333,
+      "heading": "2.4 Population Distribution",
+      "level": 1,
+      "start_line": 330
+    },
+    {
+      "anchor": "2-5-meteorological-data",
+      "end_line": 365,
+      "heading": "2.5 Meteorological Data",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "narrative-climatological-summary",
+      "end_line": 377,
+      "heading": "NARRATIVE CLIMATOLOGICAL SUMMARY",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "narrative-climatological-summary",
+      "end_line": 391,
+      "heading": "NARRATIVE CLIMATOLOGICAL SUMMARY",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "2-6-references",
+      "end_line": 433,
+      "heading": "2.6 References",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "3-description-of-model-mine-and-mill",
+      "end_line": 435,
+      "heading": "3. DESCRIPTION OF MODEL MINE AND MILL",
+      "level": 1,
+      "start_line": 434
+    },
+    {
+      "anchor": "3-1-facility-description",
+      "end_line": 454,
+      "heading": "3.1 Facility Description",
+      "level": 1,
+      "start_line": 436
+    },
+    {
+      "anchor": "ornl-dwg-78-15184",
+      "end_line": 461,
+      "heading": "Ornl-Dwg 78-15184",
+      "level": 2,
+      "start_line": 455
+    },
+    {
+      "anchor": "ornl-dwg78-12804",
+      "end_line": 466,
+      "heading": "Ornl-Dwg78-12804",
+      "level": 2,
+      "start_line": 462
+    },
+    {
+      "anchor": "3-2-thorium-mining",
+      "end_line": 470,
+      "heading": "3.2 Thorium Mining",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "3-3-thorium-milling-and-refining",
+      "end_line": 472,
+      "heading": "3.3 Thorium Milling and Refining",
+      "level": 1,
+      "start_line": 471
+    },
+    {
+      "anchor": "3-3-1-introduction",
+      "end_line": 499,
+      "heading": "3.3.1 Introduction",
+      "level": 1,
+      "start_line": 473
+    },
+    {
+      "anchor": "3-3-2-the-ore-storage-pile",
+      "end_line": 503,
+      "heading": "3.3.2 The ore storage pile",
+      "level": 1,
+      "start_line": 500
+    },
+    {
+      "anchor": "3-3-3-ore-preparation",
+      "end_line": 507,
+      "heading": "3.3.3 Ore preparation",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "3-3-4-sulfuric-acid-leaching",
+      "end_line": 513,
+      "heading": "3.3.4 Sulfuric acid leaching",
+      "level": 1,
+      "start_line": 508
+    },
+    {
+      "anchor": "3-3-5-countercurrent-decantation",
+      "end_line": 517,
+      "heading": "3.3.5 Countercurrent decantation",
+      "level": 1,
+      "start_line": 514
+    },
+    {
+      "anchor": "3-3-6-amine-solvent-extraction",
+      "end_line": 521,
+      "heading": "3.3.6 Amine solvent extraction",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "3-3-7-stripping",
+      "end_line": 527,
+      "heading": "3.3.7 Stripping",
+      "level": 1,
+      "start_line": 522
+    },
+    {
+      "anchor": "3-3-8-steam-distillation",
+      "end_line": 531,
+      "heading": "3.3.8 Steam distillation",
+      "level": 1,
+      "start_line": 528
+    },
+    {
+      "anchor": "3-3-9-filtration",
+      "end_line": 535,
+      "heading": "3.3.9 Filtration",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "3-3-10-thorium-refining",
+      "end_line": 543,
+      "heading": "3.3.10 Thorium refining",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "3-3-11-the-tailings-pond",
+      "end_line": 553,
+      "heading": "3.3.11 The tailings pond",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "3-4-references",
+      "end_line": 566,
+      "heading": "3.4 References",
+      "level": 1,
+      "start_line": 554
+    },
+    {
+      "anchor": "4-generation-of-source-terms",
+      "end_line": 568,
+      "heading": "4. GENERATION OF SOURCE TERMS",
+      "level": 1,
+      "start_line": 567
+    },
+    {
+      "anchor": "4-1-mining",
+      "end_line": 570,
+      "heading": "4.1 Mining",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "4-1-1-radon-220",
+      "end_line": 574,
+      "heading": "4.1.1 Radon-220",
+      "level": 1,
+      "start_line": 571
+    },
+    {
+      "anchor": "4-1-2-fugitive-dust",
+      "end_line": 584,
+      "heading": "4.1.2 Fugitive dust",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "4-2-milling",
+      "end_line": 586,
+      "heading": "4.2 Milling",
+      "level": 1,
+      "start_line": 585
+    },
+    {
+      "anchor": "4-2-1-introduction",
+      "end_line": 608,
+      "heading": "4.2.1 Introduction",
+      "level": 1,
+      "start_line": 587
+    },
+    {
+      "anchor": "4-2-2-the-ore-stockpile",
+      "end_line": 670,
+      "heading": "4.2.2 The ore stockpile",
+      "level": 1,
+      "start_line": 609
+    },
+    {
+      "anchor": "4-2-3-dry-crushing-and-sizing",
+      "end_line": 686,
+      "heading": "4.2.3 Dry crushing and sizing",
+      "level": 1,
+      "start_line": 671
+    },
+    {
+      "anchor": "4-2-4-acid-leaching-of-ore",
+      "end_line": 710,
+      "heading": "4.2.4 Acid leaching of ore",
+      "level": 1,
+      "start_line": 687
+    },
+    {
+      "anchor": "4-2-5-other-mill-operations",
+      "end_line": 714,
+      "heading": "4.2.5 Other mill operations",
+      "level": 1,
+      "start_line": 711
+    },
+    {
+      "anchor": "4-2-6-thorium-refining",
+      "end_line": 740,
+      "heading": "4.2.6 Thorium refining",
+      "level": 1,
+      "start_line": 715
+    },
+    {
+      "anchor": "4-2-7-source-terms-for-the-tailings-impoundment",
+      "end_line": 869,
+      "heading": "4.2.7 Source terms for the tailings impoundment",
+      "level": 1,
+      "start_line": 741
+    },
+    {
+      "anchor": "4-3-references",
+      "end_line": 883,
+      "heading": "4.3 References",
+      "level": 1,
+      "start_line": 870
+    },
+    {
+      "anchor": "5-radiological-assessment-methodology",
+      "end_line": 912,
+      "heading": "5. RADIOLOGICAL ASSESSMENT METHODOLOGY",
+      "level": 1,
+      "start_line": 884
+    },
+    {
+      "anchor": "5-1-additional-assumptions",
+      "end_line": 922,
+      "heading": "5.1 Additional Assumptions",
+      "level": 1,
+      "start_line": 913
+    },
+    {
+      "anchor": "5-2-references",
+      "end_line": 935,
+      "heading": "5.2 References",
+      "level": 1,
+      "start_line": 923
+    },
+    {
+      "anchor": "6-analysis-of-radiological-impact",
+      "end_line": 937,
+      "heading": "6. ANALYSIS OF RADIOLOGICAL IMPACT",
+      "level": 1,
+      "start_line": 936
+    },
+    {
+      "anchor": "6-1-maximum-individual-doses",
+      "end_line": 967,
+      "heading": "6.1 Maximum Individual Doses",
+      "level": 1,
+      "start_line": 938
+    },
+    {
+      "anchor": "6-2-population-doses",
+      "end_line": 993,
+      "heading": "6.2. Population Doses",
+      "level": 1,
+      "start_line": 968
+    },
+    {
+      "anchor": "6-3-dose-commitments-following-plant-shutdown",
+      "end_line": 1029,
+      "heading": "6.3 Dose Commitments Following Plant Shutdown",
+      "level": 1,
+      "start_line": 994
+    },
+    {
+      "anchor": "ornl-dwg-78-5111",
+      "end_line": 1036,
+      "heading": "Ornl Dwg.78-5111",
+      "level": 2,
+      "start_line": 1030
+    },
+    {
+      "anchor": "6-4-impact-of-mine-and-mill-generated-220-mathrm-rn-on-populations-outside-the-50-mile-radius",
+      "end_line": 1054,
+      "heading": "6.4 Impact of Mine-and Mill-Generated $^{220}\\mathrm{Rn}$ on Populations Outside the 50-mile radius",
+      "level": 1,
+      "start_line": 1037
+    },
+    {
+      "anchor": "6-5-discussion",
+      "end_line": 1070,
+      "heading": "6.5 Discussion",
+      "level": 1,
+      "start_line": 1055
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 1080,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 1071
+    },
+    {
+      "anchor": "6-6-references",
+      "end_line": 1087,
+      "heading": "6.6 References",
+      "level": 1,
+      "start_line": 1081
+    },
+    {
+      "anchor": "recommendations-for-future-work",
+      "end_line": 1098,
+      "heading": "RECOMMENDATIONS FOR FUTURE WORK",
+      "level": 1,
+      "start_line": 1088
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 1108,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 1099
+    },
+    {
+      "anchor": "summaries-of-meteorological-data",
+      "end_line": 1112,
+      "heading": "Summaries Of Meteorological Data",
+      "level": 2,
+      "start_line": 1109
+    },
+    {
+      "anchor": "sector",
+      "end_line": 1123,
+      "heading": "Sector",
+      "level": 2,
+      "start_line": 1113
+    },
+    {
+      "anchor": "sector",
+      "end_line": 1124,
+      "heading": "Sector",
+      "level": 2,
+      "start_line": 1124
+    },
+    {
+      "anchor": "fraction-of-time-in-each-stability-class",
+      "end_line": 1132,
+      "heading": "Fraction Of Time In Each Stability Class",
+      "level": 2,
+      "start_line": 1125
+    },
+    {
+      "anchor": "sector",
+      "end_line": 1133,
+      "heading": "Sector",
+      "level": 2,
+      "start_line": 1133
+    },
+    {
+      "anchor": "fraction-of-time-in-each-stability-class",
+      "end_line": 1141,
+      "heading": "Fraction Of Time In Each Stability Class",
+      "level": 2,
+      "start_line": 1134
+    },
+    {
+      "anchor": "wind-directions-are-numbred-counterclockwise-starting-at-1-for-due-north",
+      "end_line": 1145,
+      "heading": "Wind Directions Are Numbred Counterclockwise Starting At 1 For Due North",
+      "level": 2,
+      "start_line": 1142
+    },
+    {
+      "anchor": "sector",
+      "end_line": 1147,
+      "heading": "Sector",
+      "level": 2,
+      "start_line": 1146
+    },
+    {
+      "anchor": "fraction-of-time-in-each-stability-class",
+      "end_line": 1160,
+      "heading": "Fraction Of Time In Each Stability Class",
+      "level": 2,
+      "start_line": 1148
+    },
+    {
+      "anchor": "sector",
+      "end_line": 1161,
+      "heading": "Sector",
+      "level": 2,
+      "start_line": 1161
+    },
+    {
+      "anchor": "fraction-of-time-in-each-stability-class",
+      "end_line": 1169,
+      "heading": "Fraction Of Time In Each Stability Class",
+      "level": 2,
+      "start_line": 1162
+    },
+    {
+      "anchor": "wind-directions-are-numered-counterclockwise-starting-at-1-fort-dul-north",
+      "end_line": 1177,
+      "heading": "Wind Directions Are Numered Counterclockwise Starting At 1 Fort Dul North",
+      "level": 2,
+      "start_line": 1170
+    },
+    {
+      "anchor": "fraction-of-time-in-each-stability-class",
+      "end_line": 1186,
+      "heading": "Fraction Of Time In Each Stability Class",
+      "level": 2,
+      "start_line": 1178
+    },
+    {
+      "anchor": "appendix-2",
+      "end_line": 1188,
+      "heading": "Appendix 2",
+      "level": 1,
+      "start_line": 1187
+    },
+    {
+      "anchor": "diffusion-equation-used-for-the-estimation-of-radon-220-emissions",
+      "end_line": 1254,
+      "heading": "Diffusion Equation Used For The Estimation Of Radon-220 Emissions",
+      "level": 2,
+      "start_line": 1189
+    },
+    {
+      "anchor": "appendix-3",
+      "end_line": 1256,
+      "heading": "Appendix 3",
+      "level": 1,
+      "start_line": 1255
+    },
+    {
+      "anchor": "radon-220-release-from-the-open-pit-thorium-mine",
+      "end_line": 1258,
+      "heading": "RADON-220 RELEASE FROM THE OPEN-PIT THORIUM MINE",
+      "level": 1,
+      "start_line": 1257
+    },
+    {
+      "anchor": "a3-3",
+      "end_line": 1291,
+      "heading": "A3-3",
+      "level": 1,
+      "start_line": 1259
+    },
+    {
+      "anchor": "e-0-2-3",
+      "end_line": 1296,
+      "heading": "E = 0. 2 3.",
+      "level": 2,
+      "start_line": 1292
+    },
+    {
+      "anchor": "radioactivity-contained-in-dust-generated-by-mining-operations",
+      "end_line": 1344,
+      "heading": "Radioactivity Contained In Dust Generated By Mining Operations",
+      "level": 2,
+      "start_line": 1297
+    },
+    {
+      "anchor": "a4-4",
+      "end_line": 1355,
+      "heading": "A4-4",
+      "level": 2,
+      "start_line": 1345
+    },
+    {
+      "anchor": "e-7-6-1-1-5-8-s",
+      "end_line": 1378,
+      "heading": "E = (7 6) (1. 1 5 8) ^ {S},",
+      "level": 2,
+      "start_line": 1356
+    },
+    {
+      "anchor": "appendix-5",
+      "end_line": 1382,
+      "heading": "Appendix 5",
+      "level": 1,
+      "start_line": 1379
+    },
+    {
+      "anchor": "thorium-ore",
+      "end_line": 1396,
+      "heading": "Thorium Ore",
+      "level": 1,
+      "start_line": 1383
+    },
+    {
+      "anchor": "dry-tailings",
+      "end_line": 1414,
+      "heading": "Dry Tailings",
+      "level": 1,
+      "start_line": 1397
+    },
+    {
+      "anchor": "model-tailings-impoundment",
+      "end_line": 1616,
+      "heading": "Model Tailings Impoundment",
+      "level": 2,
+      "start_line": 1415
+    },
+    {
+      "anchor": "appendix-9",
+      "end_line": 1618,
+      "heading": "Appendix 9",
+      "level": 1,
+      "start_line": 1617
+    },
+    {
+      "anchor": "radon-220-flux-from-the-dry-tailings-and-from-the-pond-surface",
+      "end_line": 1620,
+      "heading": "Radon-220 Flux From The Dry Tailings And From The Pond Surface",
+      "level": 2,
+      "start_line": 1619
+    },
+    {
+      "anchor": "dry-tailings-surface",
+      "end_line": 1650,
+      "heading": "Dry Tailings Surface",
+      "level": 1,
+      "start_line": 1621
+    },
+    {
+      "anchor": "surface-of-pond",
+      "end_line": 1682,
+      "heading": "Surface of Pond",
+      "level": 1,
+      "start_line": 1651
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1719,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1683
+    },
+    {
+      "anchor": "37-g-s-h111",
+      "end_line": 1764,
+      "heading": "37. G. S. H111",
+      "level": 2,
+      "start_line": 1720
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1778,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1765
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-6474",
+  "tables": [],
+  "title": "Environmental Assessment of Alternate FBR Fuels: Radiological Assessment of Airborne Releases from Thorium Mining and Milling",
+  "topics": [
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

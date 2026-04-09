@@ -1,0 +1,84 @@
+{
+  "patch_id": "v2.0-ontology-refinements",
+  "applied_date": "2026-04-08",
+  "description": "Phase 1 ontology expansions - alloy materials, organizations, reactor concepts",
+  "file_modified": "deterministic_compiler_v2.py",
+  "functions_modified": [
+    "DEFAULT_ENTITY_PATTERNS (alloy-material)",
+    "DEFAULT_ENTITY_PATTERNS (organization)",
+    "DEFAULT_ENTITY_PATTERNS (reactor)",
+    "DEFAULT_ENTITY_PATTERNS (component)",
+    "REPORT_SERIES_HINTS"
+  ],
+  "changes_made": {
+    "alloy_material_additions": [
+      "Hastelloy N-W",
+      "Hastelloy C",
+      "Hastelloy X",
+      "Incoloy 800",
+      "Monel",
+      "HC-2000",
+      "titanium-modified Hastelloy-N",
+      "titanium"
+    ],
+    "organization_additions": [
+      "Foster Wheeler",
+      "EIR",
+      "Forschungszentrum Jülich",
+      "University of California",
+      "Martin Marietta"
+    ],
+    "reactor_concept_additions": [
+      "MOSEL",
+      "MSBE"
+    ],
+    "component_additions": [
+      "salt pump",
+      "sparger",
+      "intermediate heat exchanger"
+    ],
+    "report_series_additions": [
+      "EIR Series"
+    ]
+  },
+  "impact": {
+    "new_entity_mentions": {
+      "alloys": 4582,
+      "organizations": 373,
+      "reactors": 597
+    },
+    "alloy_entity_breakdown": {
+      "Monel": 246,
+      "Incoloy 800": 143,
+      "titanium-modified Hastelloy-N": 135,
+      "Hastelloy C": 106,
+      "Inconel 601": 87,
+      "Hastelloy X": 78
+    },
+    "organization_breakdown": {
+      "Foster Wheeler": 190,
+      "Martin Marietta": 75,
+      "Forschungszentrum Jülich": 8
+    },
+    "reactor_breakdown": {
+      "MSBE": 556,
+      "MOSEL": 41
+    }
+  },
+  "verification": {
+    "commands": [
+      "python3 compile_incremental.py --input-root pdf --output-root kb",
+      "python3 -c \"import json; from pathlib import Path; from collections import Counter; entity_dir = Path('kb/normalized/entities'); all_entities = Counter(); [all_entities.update({e['name']: int(e['count'])}) for f in entity_dir.glob('*.json') for e in json.load(open(f)).get('alloy-material', [])]\"  "
+    ]
+  },
+  "remaining_improvements": [
+    "EIR report series detection - requires improved title/report number extraction for German documents",
+    "FFR chapter series attribution",
+    "NAS-NS series pattern coverage",
+    "Natural language summary (NAT) series"
+  ],
+  "false_positive_notes": {
+    "BNL_removed": "Pattern '\\bBNL\\b' caused 149 false positive document matches",
+    "EIR_series": "Unicode handling ('für' vs 'fuer') causes some misses; current detection limited"
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "authors": [
+    "Chemistry-Separation Processes for Plutonium",
+    "Uranium",
+    "G. I. Cathers",
+    "M.R.Bennett",
+    "R. L. Jolley",
+    "LIBRARY LOAN COPY",
+    "Office of Technical Services"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2661.jsonl",
+  "date_text": "1959",
+  "doc_id": "ornl-2661",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          162,
+          170,
+          179,
+          183,
+          192,
+          193,
+          195,
+          197,
+          203,
+          213,
+          215,
+          231,
+          368
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          243,
+          247,
+          406
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          406
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          1,
+          23,
+          64,
+          113,
+          430,
+          486
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          29,
+          74,
+          490
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          27,
+          70
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 3,
+        "line_hits": [
+          80,
+          350,
+          374
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 64,
+        "line_hits": [
+          78,
+          80,
+          97,
+          104,
+          113,
+          115,
+          129,
+          131,
+          133,
+          141,
+          148,
+          156,
+          162,
+          164,
+          166,
+          181,
+          203,
+          209,
+          211,
+          213,
+          221,
+          235,
+          239,
+          243,
+          245,
+          247,
+          249,
+          255,
+          257,
+          261,
+          265,
+          267,
+          269,
+          271,
+          273,
+          275,
+          279,
+          287,
+          288,
+          290,
+          294,
+          296,
+          298,
+          308,
+          310,
+          316,
+          326,
+          328,
+          336,
+          338
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          78,
+          113,
+          141,
+          148,
+          156,
+          164,
+          181,
+          221,
+          235,
+          249,
+          273,
+          298,
+          316
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          78,
+          141,
+          156,
+          162,
+          164,
+          181,
+          235,
+          249,
+          273,
+          298,
+          316
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          141,
+          156,
+          164,
+          181,
+          235,
+          249,
+          273,
+          298,
+          316
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          78,
+          113,
+          148,
+          156,
+          164,
+          221
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          243
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7c6da6a4535460805f1843df619a95c778a4291b5659b9f6b96eafe900772c1b",
+  "markdown_path": "pdf/ORNL-2661/ORNL-2661/hybrid_ocr/ORNL-2661.md",
+  "report_number": "ORNL-2661",
+  "report_numbers": [
+    "ORNL-2661"
+  ],
+  "report_series": null,
+  "section_count": 46,
+  "sections": [
+    {
+      "anchor": "ornl-2661",
+      "end_line": 4,
+      "heading": "Ornl-2661",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "the-fused-salt-fluoride-volatility-process-for-recovering-uranum",
+      "end_line": 12,
+      "heading": "The Fused Salt-Fluoride Volatility Process For Recovering Uranum",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 14,
+      "heading": "Central Research Library Document Collection",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 16,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 22,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 28,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-5-atomic-energy-commission",
+      "end_line": 38,
+      "heading": "U.5. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 49,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 53,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "the-fused-salt-fluoride-volatility-process",
+      "end_line": 55,
+      "heading": "The Fused Salt-Fluoride Volatility Process",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "for-recovering-uranium",
+      "end_line": 59,
+      "heading": "For Recovering Uranium",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 61,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "apr-1-1959",
+      "end_line": 63,
+      "heading": "Apr 1 1959",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 69,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 73,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 75,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 81,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "contents",
+      "end_line": 85,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "1-0-introduction-4",
+      "end_line": 86,
+      "heading": "1.0 INTRODUCTION 4",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "3-0-description-of-process-4",
+      "end_line": 87,
+      "heading": "3.0 DESCRIPTION OF PROCESS 4",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "3-0-process-development-studies-6",
+      "end_line": 101,
+      "heading": "3.0 PROCESS DEVELOPMENT STUDIES 6",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "4-0-basic-chemical-studies-26",
+      "end_line": 107,
+      "heading": "4.0 BASIC CHEMICAL STUDIES 26",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "5-0-recommendations-32",
+      "end_line": 108,
+      "heading": "5.0 RECOMMENDATIONS 32",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "6-0-references-33",
+      "end_line": 110,
+      "heading": "6.0 REFERENCES 33",
+      "level": 2,
+      "start_line": 109
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 116,
+      "heading": "1.0 INTRODUCTION",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "2-0-description-of-process",
+      "end_line": 120,
+      "heading": "2.0 DESCRIPTION OF PROCESS",
+      "level": 1,
+      "start_line": 117
+    },
+    {
+      "anchor": "fused-salt-fluorination-step",
+      "end_line": 128,
+      "heading": "Fused Salt-Fluorination Step",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "naf-absorption-desorption-cycle",
+      "end_line": 134,
+      "heading": "NaF Absorption-Desorption Cycle",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "3-0-process-development-studies",
+      "end_line": 136,
+      "heading": "3.0 PROCESS DEVELOPMENT STUDIES",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "3-1-fused-salt-fluorination-work",
+      "end_line": 138,
+      "heading": "3.1 Fused Salt-Fluorination Work",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "3-1-1-fluorine-efficiency",
+      "end_line": 157,
+      "heading": "3.1.1 Fluorine Efficiency",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "theoretical-75-8",
+      "end_line": 167,
+      "heading": "Theoretical $= 75.8\\%$",
+      "level": 2,
+      "start_line": 158
+    },
+    {
+      "anchor": "3-1-2-corrosion-studies",
+      "end_line": 184,
+      "heading": "3.1.2 Corrosion Studies",
+      "level": 1,
+      "start_line": 168
+    },
+    {
+      "anchor": "3-1-3-recovery-yield-of-uf6",
+      "end_line": 206,
+      "heading": "3.1.3 Recovery Yield of UF6",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "3-1-4-behavior-of-nif2-in-corrosion",
+      "end_line": 238,
+      "heading": "3.1.4 Behavior of NiF2 in Corrosion",
+      "level": 1,
+      "start_line": 207
+    },
+    {
+      "anchor": "3-2-naf-decontamination-step",
+      "end_line": 240,
+      "heading": "3.2 NaF Decontamination Step",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "3-2-1-operation-in-a-temperature-range-of-100-400-circ-mathrm-c",
+      "end_line": 291,
+      "heading": "3.2.1 Operation in a Temperature Range of $100 - 400^{\\circ}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "3-2-2-operation-at-a-temperature-above-600-circ-mathrm-c",
+      "end_line": 333,
+      "heading": "3.2.2 Operation at a Temperature Above $600^{\\circ}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "4-0-basic-chemical-studies",
+      "end_line": 335,
+      "heading": "4.0 BASIC CHEMICAL STUDIES",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "4-1-naf-capacity-for-uf6",
+      "end_line": 341,
+      "heading": "4.1 NaF Capacity for UF6",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "4-2-pressure-of-uf6-above-uf6-3naf-complex",
+      "end_line": 371,
+      "heading": "4.2 Pressure of UF6 Above UF6·3NaF Complex",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "4-3-decomposition-of-uf6-3naf-complex",
+      "end_line": 401,
+      "heading": "4.3 Decomposition of UF6-3NaF Complex",
+      "level": 1,
+      "start_line": 372
+    },
+    {
+      "anchor": "5-0-recommendations",
+      "end_line": 409,
+      "heading": "5.0 RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 402
+    },
+    {
+      "anchor": "6-0-references",
+      "end_line": 417,
+      "heading": "6.0 REFERENCES",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 487,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 418
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 490,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 488
+    }
+  ],
+  "source_dir": "pdf/ORNL-2661",
+  "tables": [],
+  "title": "ORNL-2661",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,1321 @@
+{
+  "authors": [
+    "Eric H. Ottewitte",
+    "Technical",
+    "Economic Feasibility",
+    "Key MCFR Advantages"
+  ],
+  "claims_path": "kb/normalized/claims/cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept.jsonl",
+  "date_text": "April 1992",
+  "doc_id": "cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 30,
+        "line_hits": [
+          23,
+          67,
+          290,
+          302,
+          360,
+          412,
+          446,
+          549,
+          729,
+          814,
+          1018,
+          1022,
+          1026,
+          1028,
+          1034,
+          1079,
+          1084,
+          1127,
+          1129,
+          1131,
+          1135,
+          1143,
+          1156,
+          1169,
+          1255,
+          1262,
+          1293,
+          1378,
+          1417,
+          1431
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 25,
+        "line_hits": [
+          159,
+          729,
+          957,
+          963,
+          1043,
+          1057,
+          1059,
+          1078,
+          1083,
+          1087,
+          1091,
+          1095,
+          1097,
+          1099,
+          1101,
+          1103,
+          1119,
+          1181,
+          1185,
+          1191,
+          1193,
+          1197,
+          1199,
+          1313,
+          1423
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          814,
+          1034,
+          1059,
+          1082,
+          1088,
+          1091,
+          1097,
+          1299,
+          1417
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          430,
+          1026,
+          1077,
+          1097,
+          1303,
+          1417
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          406,
+          412
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 25,
+        "line_hits": [
+          23,
+          51,
+          65,
+          130,
+          325,
+          557,
+          818,
+          829,
+          835,
+          849,
+          1022,
+          1030,
+          1067,
+          1069,
+          1097,
+          1129,
+          1137,
+          1229,
+          1239,
+          1243,
+          1313,
+          1319,
+          1371,
+          1425,
+          1435
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          679,
+          810,
+          818,
+          822,
+          829,
+          831,
+          862,
+          1030,
+          1243,
+          1325,
+          1327,
+          1329,
+          1331
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          31,
+          286,
+          1253
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          839,
+          1317,
+          1345
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          360,
+          412
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          679,
+          1325
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          29
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          831
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1069
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          559
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 33,
+        "line_hits": [
+          17,
+          212,
+          294,
+          319,
+          404,
+          430,
+          452,
+          679,
+          802,
+          894,
+          1061,
+          1177,
+          1325,
+          1345,
+          1371,
+          1378,
+          1387,
+          1397,
+          1456,
+          1459,
+          1465,
+          1466,
+          1475,
+          1483,
+          1494,
+          1497,
+          1511,
+          1516,
+          1541,
+          1601,
+          1602,
+          1612,
+          1613
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          444,
+          480,
+          631,
+          1369,
+          1373,
+          1476,
+          1611
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          1446,
+          1448,
+          1489,
+          1495,
+          1506,
+          1552,
+          1560
+        ],
+        "name": "EIR"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          1477,
+          1485,
+          1518,
+          1549,
+          1626
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1483
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 81,
+        "line_hits": [
+          19,
+          27,
+          34,
+          119,
+          203,
+          212,
+          218,
+          245,
+          247,
+          253,
+          254,
+          255,
+          259,
+          272,
+          294,
+          296,
+          304,
+          360,
+          368,
+          370,
+          372,
+          374,
+          386,
+          394,
+          400,
+          402,
+          406,
+          412,
+          462,
+          504,
+          514,
+          533,
+          535,
+          585,
+          663,
+          670,
+          677,
+          681,
+          691,
+          766,
+          776,
+          808,
+          831,
+          872,
+          894,
+          898,
+          937,
+          939,
+          957,
+          967
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 53,
+        "line_hits": [
+          1,
+          9,
+          17,
+          25,
+          27,
+          37,
+          44,
+          46,
+          77,
+          79,
+          135,
+          151,
+          153,
+          197,
+          201,
+          203,
+          205,
+          456,
+          460,
+          466,
+          486,
+          487,
+          491,
+          496,
+          498,
+          502,
+          535,
+          727,
+          733,
+          735,
+          737,
+          833,
+          868,
+          884,
+          1032,
+          1063,
+          1065,
+          1071,
+          1073,
+          1247,
+          1351,
+          1367,
+          1371,
+          1373,
+          1375,
+          1383,
+          1394,
+          1395,
+          1403,
+          1421
+        ],
+        "name": "MCFR"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          121,
+          167,
+          271,
+          319,
+          368,
+          400,
+          432,
+          434,
+          436,
+          438,
+          816,
+          1043,
+          1241,
+          1243,
+          1325,
+          1345,
+          1431,
+          1454,
+          1465
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          323,
+          412,
+          430,
+          444,
+          448,
+          533,
+          679,
+          725,
+          729,
+          1380,
+          1387,
+          1401,
+          1413,
+          1419,
+          1456,
+          1466,
+          1614
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          193,
+          551,
+          1429
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          446,
+          1460,
+          1461
+        ],
+        "name": "MOSEL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1459
+        ],
+        "name": "DMSR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1633
+        ],
+        "name": "MSCR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 15,
+        "line_hits": [
+          1,
+          9,
+          37,
+          83,
+          85,
+          197,
+          201,
+          203,
+          205,
+          212,
+          214,
+          216,
+          220,
+          233,
+          456
+        ],
+        "name": "BATR"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          269,
+          1451,
+          1481,
+          1482
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1633
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 4,
+        "line_hits": [
+          1447,
+          1528,
+          1557,
+          1619
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 29,
+        "line_hits": [
+          1,
+          9,
+          17,
+          125,
+          197,
+          201,
+          203,
+          454,
+          490,
+          555,
+          615,
+          633,
+          641,
+          795,
+          923,
+          1045,
+          1076,
+          1383,
+          1419,
+          1443,
+          1444,
+          1448,
+          1479,
+          1487,
+          1493,
+          1496,
+          1501,
+          1552,
+          1560
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          203,
+          404,
+          533,
+          802,
+          1055,
+          1135,
+          1369,
+          1419,
+          1469
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          412,
+          1129,
+          1162,
+          1179,
+          1307,
+          1417
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          406,
+          627,
+          1307
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1417,
+          1608
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1307
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1347
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1417
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1307
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "ed71139a931769f86243e8b4fd8e49b1f766868745421219e0fbc2560afcd22c",
+  "markdown_path": "pdf/MCFR_BATR/MCFR_BATR/hybrid_ocr/MCFR_BATR.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 89,
+  "sections": [
+    {
+      "anchor": "cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept",
+      "end_line": 6,
+      "heading": "Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 12,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "summary",
+      "end_line": 14,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "technical-and-economic-feasibility",
+      "end_line": 24,
+      "heading": "Technical and Economic Feasibility",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "key-mcfr-advantages",
+      "end_line": 43,
+      "heading": "Key MCFR Advantages",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "inherent-disadvantages-and-limitations-to-mcfrs",
+      "end_line": 68,
+      "heading": "Inherent Disadvantages and Limitations to MCFRs",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "contents",
+      "end_line": 72,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "summary-v",
+      "end_line": 80,
+      "heading": "Summary V",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 82,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "batr-requirements-and-missions-2",
+      "end_line": 88,
+      "heading": "Batr Requirements And Missions 2",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "general-molten-salt-reactors-3",
+      "end_line": 124,
+      "heading": "General Molten Salt Reactors 3",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "molten-chloride-reactor-12",
+      "end_line": 146,
+      "heading": "Molten Chloride Reactor 12",
+      "level": 2,
+      "start_line": 125
+    },
+    {
+      "anchor": "structural-materials-35",
+      "end_line": 160,
+      "heading": "Structural Materials 35",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "enhanced-transmutation-of-90-mathrm-sr-and-137-mathrm-cs-44",
+      "end_line": 162,
+      "heading": "Enhanced Transmutation of $^{90}\\mathrm{Sr}$ and $^{137}\\mathrm{Cs}$ 44",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "access-and-maintenance-45",
+      "end_line": 176,
+      "heading": "Access and Maintenance 45",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "auxiliary-plant-47",
+      "end_line": 186,
+      "heading": "Auxiliary Plant 47",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "history-of-the-msfr-50",
+      "end_line": 192,
+      "heading": "History of the MSFR. 50",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "summary-msr-state-of-the-art-54",
+      "end_line": 194,
+      "heading": "Summary MSR State-of-the-Art 54",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "references-55",
+      "end_line": 196,
+      "heading": "REFERENCES 55",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept",
+      "end_line": 198,
+      "heading": "Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 213,
+      "heading": "Introduction",
+      "level": 2,
+      "start_line": 199
+    },
+    {
+      "anchor": "batr-requirements-and-missions-ry91",
+      "end_line": 215,
+      "heading": "BATR REQUIREMENTS AND MISSIONS [Ry91]",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "requirements-of-a-batr-concept",
+      "end_line": 230,
+      "heading": "Requirements of a BATR Concept",
+      "level": 1,
+      "start_line": 216
+    },
+    {
+      "anchor": "missions",
+      "end_line": 242,
+      "heading": "Missions",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "general-molten-salt-reactors",
+      "end_line": 248,
+      "heading": "GENERAL MOLTEN SALT REACTORS",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "physico-chemical-features",
+      "end_line": 260,
+      "heading": "Physico-Chemical Features",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "peritectic-melting-point",
+      "end_line": 266,
+      "heading": "Peritectic melting point.",
+      "level": 1,
+      "start_line": 261
+    },
+    {
+      "anchor": "fluid-fuel-features",
+      "end_line": 277,
+      "heading": "Fluid Fuel Features",
+      "level": 1,
+      "start_line": 267
+    },
+    {
+      "anchor": "thermohydraulic-aspects",
+      "end_line": 297,
+      "heading": "Thermohydraulic Aspects",
+      "level": 1,
+      "start_line": 278
+    },
+    {
+      "anchor": "external-cooling",
+      "end_line": 307,
+      "heading": "External Cooling",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "continuous-on-line-processing",
+      "end_line": 328,
+      "heading": "Continuous On-Line Processing",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "reactor-safety",
+      "end_line": 347,
+      "heading": "Reactor Safety",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "leakage-of-radioactive-salt",
+      "end_line": 357,
+      "heading": "Leakage of Radioactive Salt",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "criticality-accident-considerations",
+      "end_line": 363,
+      "heading": "Criticality Accident Considerations",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "other-concerns",
+      "end_line": 365,
+      "heading": "Other Concerns",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "burning-flssile-fuel-from-dismantled-weapons",
+      "end_line": 375,
+      "heading": "Burning Flssile Fuel from Dismantled Weapons",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "diversion-and-proliferation-prevention",
+      "end_line": 383,
+      "heading": "Diversion and Proliferation Prevention",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "waste-minimization",
+      "end_line": 397,
+      "heading": "Waste Minimization",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "molten-salt-thermal-reactor-experience",
+      "end_line": 401,
+      "heading": "Molten Salt Thermal Reactor Experience",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "aircraft-reactor-experiment",
+      "end_line": 409,
+      "heading": "Aircraft Reactor Experiment",
+      "level": 1,
+      "start_line": 402
+    },
+    {
+      "anchor": "civillian-oriented-molten-salt-reactor-program",
+      "end_line": 431,
+      "heading": "Civillian-Oriented Molten Salt Reactor Program.",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "molten-salt-reactor-experiment-msre",
+      "end_line": 441,
+      "heading": "Molten Salt Reactor Experiment (MSRE).",
+      "level": 1,
+      "start_line": 432
+    },
+    {
+      "anchor": "recent-work",
+      "end_line": 453,
+      "heading": "Recent Work.",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "molten-chloride-reactor",
+      "end_line": 463,
+      "heading": "MOLTEN CHLORIDE REACTOR",
+      "level": 1,
+      "start_line": 454
+    },
+    {
+      "anchor": "advantages-of-a-very-fast-neutron-spectrum",
+      "end_line": 499,
+      "heading": "Advantages of a Very Fast Neutron Spectrum",
+      "level": 1,
+      "start_line": 464
+    },
+    {
+      "anchor": "projected-reactor-geometry",
+      "end_line": 511,
+      "heading": "Projected Reactor Geometry",
+      "level": 1,
+      "start_line": 500
+    },
+    {
+      "anchor": "salt-compositions",
+      "end_line": 546,
+      "heading": "Salt Compositions",
+      "level": 1,
+      "start_line": 512
+    },
+    {
+      "anchor": "thermohydraulic-considerations",
+      "end_line": 556,
+      "heading": "Thermohydraulic Considerations",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "cooling-and-heat-exchangers",
+      "end_line": 560,
+      "heading": "Cooling and Heat Exchangers",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "continuous-processing-17-81-141-146",
+      "end_line": 580,
+      "heading": "Continuous Processing [17, 81, 141-146]",
+      "level": 1,
+      "start_line": 561
+    },
+    {
+      "anchor": "principal-salt-processing-methods",
+      "end_line": 642,
+      "heading": "Principal Salt Processing Methods",
+      "level": 1,
+      "start_line": 581
+    },
+    {
+      "anchor": "core-salt-processing",
+      "end_line": 730,
+      "heading": "Core Salt Processing",
+      "level": 1,
+      "start_line": 643
+    },
+    {
+      "anchor": "ability-to-digest-all-existing-spent-fuels",
+      "end_line": 734,
+      "heading": "Ability to Digest All Existing Spent Fuels",
+      "level": 1,
+      "start_line": 731
+    },
+    {
+      "anchor": "mcfr-fuel-cycle",
+      "end_line": 756,
+      "heading": "MCFR Fuel Cycle",
+      "level": 1,
+      "start_line": 735
+    },
+    {
+      "anchor": "in-core-continuous-gas-purging",
+      "end_line": 792,
+      "heading": "In-Core Continuous Gas Purging",
+      "level": 1,
+      "start_line": 757
+    },
+    {
+      "anchor": "safety",
+      "end_line": 803,
+      "heading": "Safety",
+      "level": 1,
+      "start_line": 793
+    },
+    {
+      "anchor": "analysis-of-accident-situations",
+      "end_line": 875,
+      "heading": "Analysis of Accident Situations",
+      "level": 1,
+      "start_line": 804
+    },
+    {
+      "anchor": "resistance-to-external-threat",
+      "end_line": 889,
+      "heading": "Resistance to external threat.",
+      "level": 1,
+      "start_line": 876
+    },
+    {
+      "anchor": "effects-of-neutron-irradiation-upon-molten-salt-chemistry",
+      "end_line": 891,
+      "heading": "Effects of Neutron Irradiation upon Molten Salt Chemistry",
+      "level": 1,
+      "start_line": 890
+    },
+    {
+      "anchor": "effect-of-chemical-stability-upon-corrosion",
+      "end_line": 909,
+      "heading": "Effect of Chemical Stability upon Corrosion",
+      "level": 1,
+      "start_line": 892
+    },
+    {
+      "anchor": "transmutations-of-sodium-and-chlorine",
+      "end_line": 920,
+      "heading": "Transmutations of Sodium and Chlorine",
+      "level": 1,
+      "start_line": 910
+    },
+    {
+      "anchor": "chemical-behavior-of-radiosulphur-obtained-by-35-mathrm-cl-n-p-35-mathrm-s-during-in-pile-irradiation-ja75",
+      "end_line": 940,
+      "heading": "Chemical Behavior of Radiosulphur Obtained by $^{35}\\mathrm{Cl}(n,p)^{35}\\mathrm{S}$ During In-Pile Irradiation [Ja75]",
+      "level": 1,
+      "start_line": 921
+    },
+    {
+      "anchor": "flssion-product-behavior-in-the-fuel",
+      "end_line": 972,
+      "heading": "Flssion Product Behavior in the Fuel",
+      "level": 1,
+      "start_line": 941
+    },
+    {
+      "anchor": "structural-materials",
+      "end_line": 978,
+      "heading": "Structural Materials",
+      "level": 1,
+      "start_line": 973
+    },
+    {
+      "anchor": "general-considerations-and-criteria",
+      "end_line": 1031,
+      "heading": "General Considerations and Criteria",
+      "level": 1,
+      "start_line": 979
+    },
+    {
+      "anchor": "chemical-reactions-in-an-mcfr",
+      "end_line": 1062,
+      "heading": "Chemical Reactions in an MCFR",
+      "level": 1,
+      "start_line": 1032
+    },
+    {
+      "anchor": "candidate-materials-for-an-mcfr",
+      "end_line": 1140,
+      "heading": "Candidate Materials for an MCFR",
+      "level": 1,
+      "start_line": 1063
+    },
+    {
+      "anchor": "materials-for-the-core-blanket-interface",
+      "end_line": 1144,
+      "heading": "Materials for the Core/Blanket Interface",
+      "level": 1,
+      "start_line": 1141
+    },
+    {
+      "anchor": "materials-for-reactor-vessel",
+      "end_line": 1157,
+      "heading": "Materials for Reactor Vessel",
+      "level": 1,
+      "start_line": 1145
+    },
+    {
+      "anchor": "chemical-stability-of-halides",
+      "end_line": 1180,
+      "heading": "Chemical Stability of Halides",
+      "level": 1,
+      "start_line": 1158
+    },
+    {
+      "anchor": "the-irradiation-of-molybdenum-and-iron-in-a-fast-high-flux-reactor",
+      "end_line": 1200,
+      "heading": "The Irradiation of Molybdenum and Iron in a Fast High Flux Reactor",
+      "level": 1,
+      "start_line": 1181
+    },
+    {
+      "anchor": "enhanced-transmutation-of-90-mathrm-sr-and-137-mathrm-cs",
+      "end_line": 1226,
+      "heading": "Enhanced Transmutation of $^{90}\\mathrm{Sr}$ and $^{137}\\mathrm{Cs}$",
+      "level": 1,
+      "start_line": 1201
+    },
+    {
+      "anchor": "access-and-maintenance",
+      "end_line": 1230,
+      "heading": "Access and Maintenance",
+      "level": 1,
+      "start_line": 1227
+    },
+    {
+      "anchor": "intrinsic-reliability",
+      "end_line": 1240,
+      "heading": "Intrinsic Reliability",
+      "level": 1,
+      "start_line": 1231
+    },
+    {
+      "anchor": "msre-experience",
+      "end_line": 1244,
+      "heading": "MSRE Experience",
+      "level": 1,
+      "start_line": 1241
+    },
+    {
+      "anchor": "comparison-of-primary-circuit-configurations",
+      "end_line": 1250,
+      "heading": "Comparison of Primary Circuit Configurations",
+      "level": 1,
+      "start_line": 1245
+    },
+    {
+      "anchor": "reactor-maintenance-replacement-procedure",
+      "end_line": 1263,
+      "heading": "Reactor Maintenance/Replacement Procedure",
+      "level": 1,
+      "start_line": 1251
+    },
+    {
+      "anchor": "reactor-shielding",
+      "end_line": 1271,
+      "heading": "Reactor Shielding",
+      "level": 1,
+      "start_line": 1264
+    },
+    {
+      "anchor": "radiation-sources-in-processing-equipment",
+      "end_line": 1277,
+      "heading": "Radiation Sources in Processing Equipment",
+      "level": 1,
+      "start_line": 1272
+    },
+    {
+      "anchor": "auxiliary-plant",
+      "end_line": 1279,
+      "heading": "Auxiliary Plant",
+      "level": 1,
+      "start_line": 1278
+    },
+    {
+      "anchor": "power-cycle-options",
+      "end_line": 1320,
+      "heading": "Power Cycle Options",
+      "level": 1,
+      "start_line": 1280
+    },
+    {
+      "anchor": "auxiliary-hardware",
+      "end_line": 1338,
+      "heading": "Auxiliary Hardware",
+      "level": 1,
+      "start_line": 1321
+    },
+    {
+      "anchor": "filling-draining-and-dump-systems",
+      "end_line": 1348,
+      "heading": "Filling, Draining and Dump Systems",
+      "level": 1,
+      "start_line": 1339
+    },
+    {
+      "anchor": "overall-plant-size",
+      "end_line": 1352,
+      "heading": "Overall Plant Size",
+      "level": 1,
+      "start_line": 1349
+    },
+    {
+      "anchor": "history-of-the-msfr",
+      "end_line": 1364,
+      "heading": "History of the MSFR",
+      "level": 1,
+      "start_line": 1353
+    },
+    {
+      "anchor": "us-activities",
+      "end_line": 1389,
+      "heading": "US Activities",
+      "level": 1,
+      "start_line": 1365
+    },
+    {
+      "anchor": "european-activity",
+      "end_line": 1428,
+      "heading": "European Activity",
+      "level": 1,
+      "start_line": 1390
+    },
+    {
+      "anchor": "summary-msr-state-of-the-art",
+      "end_line": 1436,
+      "heading": "Summary MSR State-of-the-Art",
+      "level": 1,
+      "start_line": 1429
+    },
+    {
+      "anchor": "references",
+      "end_line": 1635,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1437
+    }
+  ],
+  "source_dir": "pdf/MCFR_BATR",
+  "tables": [],
+  "title": "Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept",
+  "topics": [
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "irradiation-and-damage"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "A REVIEW.",
+    "G. D. Robbins",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2180.jsonl",
+  "date_text": "1968",
+  "doc_id": "ornl-tm-2180",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          160,
+          162,
+          164
+        ],
+        "name": "graphite"
+      }
+    ],
+    "organization": [
+      {
+        "count": 14,
+        "line_hits": [
+          3,
+          17,
+          43,
+          186,
+          206,
+          207,
+          214,
+          217,
+          223,
+          233,
+          238,
+          243,
+          248,
+          400
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          15,
+          404
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          7
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 16,
+        "line_hits": [
+          70,
+          72,
+          76,
+          96,
+          104,
+          108,
+          110,
+          112,
+          118,
+          136,
+          138,
+          152,
+          154,
+          160,
+          274,
+          282
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 8,
+        "line_hits": [
+          160,
+          162,
+          164,
+          300,
+          308,
+          330,
+          340,
+          360
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          21,
+          36,
+          48,
+          60,
+          66,
+          70
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          160,
+          162,
+          330,
+          354,
+          392
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          160,
+          162,
+          164,
+          290
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          162,
+          164
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          162,
+          164
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          160
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          162
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          162
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9a5c3f8bf5300da035cc9ee1b0ccdb1f20895fe4cc8d29d444dc913967b1ba8a",
+  "markdown_path": "pdf/ORNL-TM-2180/ORNL-TM-2180/hybrid_ocr/ORNL-TM-2180.md",
+  "report_number": "ORNL-TM-2180",
+  "report_numbers": [
+    "ORNL-TM-2180"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 32,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 14,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 16,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ornl-tm-2180",
+      "end_line": 20,
+      "heading": "Ornl-Tm-2180",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "electrical-conductivity-of-molten-fluorides",
+      "end_line": 22,
+      "heading": "Electrical Conductivity Of Molten Fluorides.",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "a-review",
+      "end_line": 26,
+      "heading": "A Review.",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 35,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "electrical-conductivity-of-molten-fluorides",
+      "end_line": 37,
+      "heading": "ELECTRICAL CONDUCTIVITY OF MOLTEN FLUORIDES.",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "a-review",
+      "end_line": 45,
+      "heading": "A Review",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "abstract-summary",
+      "end_line": 49,
+      "heading": "ABSTRACT/SUMMARY",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 59,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "electrical-conductivity-of-molten-fluorides",
+      "end_line": 61,
+      "heading": "ELECTRICAL CONDUCTIVITY OF MOLTEN FLUORIDES.",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "a-review",
+      "end_line": 63,
+      "heading": "A REVIEW",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 157,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "tabulation",
+      "end_line": 169,
+      "heading": "Tabulation",
+      "level": 2,
+      "start_line": 158
+    },
+    {
+      "anchor": "references",
+      "end_line": 232,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "ornl-dwg-68-2245",
+      "end_line": 237,
+      "heading": "Ornl-Dwg 68-2245",
+      "level": 2,
+      "start_line": 233
+    },
+    {
+      "anchor": "ornl-dwg-68-2216",
+      "end_line": 242,
+      "heading": "Ornl-Dwg 68-2216",
+      "level": 2,
+      "start_line": 238
+    },
+    {
+      "anchor": "ornl-dwg-68-2217",
+      "end_line": 247,
+      "heading": "Ornl-Dwg 68-2217",
+      "level": 2,
+      "start_line": 243
+    },
+    {
+      "anchor": "ornl-dwg-68-2218",
+      "end_line": 256,
+      "heading": "Ornl-Dwg 68-2218",
+      "level": 2,
+      "start_line": 248
+    },
+    {
+      "anchor": "a-wheatstone-bridge-no-capacitors-54",
+      "end_line": 259,
+      "heading": "A. Wheatstone Bridge, No Capacitors(54)",
+      "level": 2,
+      "start_line": 257
+    },
+    {
+      "anchor": "jones-bridge-7-55-3-wheatstone-bridge-r-and-c-in-parallel",
+      "end_line": 262,
+      "heading": "Jones Bridge(7,55) 3. (Wheatstone Bridge, R And C In Parallel)",
+      "level": 2,
+      "start_line": 260
+    },
+    {
+      "anchor": "c-kelvin-bridge-38",
+      "end_line": 265,
+      "heading": "C. KELVIN BRIDGE(38)",
+      "level": 2,
+      "start_line": 263
+    },
+    {
+      "anchor": "d-thomson-bridge-47",
+      "end_line": 266,
+      "heading": "D. Thomson Bridge(47)",
+      "level": 2,
+      "start_line": 266
+    },
+    {
+      "anchor": "z-impedance-of-connections",
+      "end_line": 269,
+      "heading": "Z=Impedance Of Connections",
+      "level": 2,
+      "start_line": 267
+    },
+    {
+      "anchor": "e-employed-by-winterhager-and-werner",
+      "end_line": 270,
+      "heading": "E. (Employed By Winterhager And Werner)",
+      "level": 2,
+      "start_line": 270
+    },
+    {
+      "anchor": "z-impedanceofconnections",
+      "end_line": 273,
+      "heading": "Z=Impedanceofconnections",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "carey-foster-bridge-48-f-cell-and-s-are-interchangeable",
+      "end_line": 275,
+      "heading": "Carey-Foster Bridge(48) F. (Cell And S Are Interchangeable)",
+      "level": 2,
+      "start_line": 274
+    },
+    {
+      "anchor": "appendix-ii",
+      "end_line": 395,
+      "heading": "APPENDIX II",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 401,
+      "heading": "Internal Distribution",
+      "level": 2,
+      "start_line": 396
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 404,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 402
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2180",
+  "tables": [],
+  "title": "![](images/222b8049da11cf5124666d77a06196c600a1a53111108b44f277a5184e001a1c.jpg)",
+  "topics": [
+    "aircraft-nuclear-propulsion",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "program-history",
+    "salt-chemistry-and-redox",
+    "instrumentation-and-controls",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,401 @@
+{
+  "authors": [],
+  "claims_path": "kb/normalized/claims/chapter-3.jsonl",
+  "date_text": null,
+  "doc_id": "chapter-3",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          87,
+          401,
+          429,
+          505
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          350
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          91
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          454
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          106
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          106
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 44,
+        "line_hits": [
+          500,
+          501,
+          503,
+          504,
+          507,
+          508,
+          512,
+          514,
+          516,
+          518,
+          520,
+          523,
+          524,
+          527,
+          530,
+          531,
+          532,
+          539,
+          540,
+          543,
+          544,
+          545,
+          548,
+          550,
+          551,
+          552,
+          553,
+          554,
+          555,
+          556,
+          557,
+          558,
+          560,
+          561,
+          563,
+          564,
+          568,
+          573,
+          575,
+          577,
+          578,
+          579,
+          582,
+          583
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 33,
+        "line_hits": [
+          350,
+          357,
+          429,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          507,
+          508,
+          515,
+          518,
+          519,
+          520,
+          523,
+          524,
+          527,
+          530,
+          531,
+          532,
+          539,
+          540,
+          544,
+          545,
+          560,
+          561,
+          563,
+          568,
+          570,
+          571,
+          573,
+          582
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          564
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 37,
+        "line_hits": [
+          7,
+          9,
+          13,
+          15,
+          34,
+          36,
+          38,
+          45,
+          54,
+          68,
+          89,
+          106,
+          108,
+          113,
+          122,
+          167,
+          171,
+          177,
+          182,
+          184,
+          214,
+          225,
+          246,
+          267,
+          307,
+          309,
+          343,
+          361,
+          363,
+          365,
+          373,
+          429,
+          431,
+          456,
+          479,
+          485,
+          494
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          25,
+          104,
+          216,
+          365,
+          561
+        ],
+        "name": "AHR"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          91,
+          273,
+          544
+        ],
+        "name": "HRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          27
+        ],
+        "name": "two-fluid breeder"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "95aa1d1b393c15cc5c6b5276ec2f9be57e1721d43ddecc23e10daf7cc5c09a64",
+  "markdown_path": "pdf/FFR_chap03/FFR_chap03/hybrid_ocr/FFR_chap03.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 21,
+  "sections": [
+    {
+      "anchor": "chapter-3",
+      "end_line": 2,
+      "heading": "CHAPTER 3",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "properties-of-aqueous-fuel-solutions",
+      "end_line": 4,
+      "heading": "PROPERTIES OF AQUEOUS FUEL SOLUTIONS*",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "3-1-introduction",
+      "end_line": 10,
+      "heading": "3-1. INTRODUCTION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "3-2-solubility-relationships-of-fissile-and-fertile-materials",
+      "end_line": 145,
+      "heading": "3-2. SOLUBILITY RELATIONSHIPS OF FISSILE AND FERTILE MATERIALS†",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "table-3-1",
+      "end_line": 146,
+      "heading": "Table 3-1",
+      "level": 2,
+      "start_line": 146
+    },
+    {
+      "anchor": "the-solubility-of-plutonium-compounds-at-room-temperature",
+      "end_line": 160,
+      "heading": "The Solubility Of Plutonium Compounds At Room Temperature",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "3-3-radiation-effects",
+      "end_line": 228,
+      "heading": "3-3. RADIATION EFFECTS*",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "table-3-2",
+      "end_line": 247,
+      "heading": "Table 3-2",
+      "level": 2,
+      "start_line": 229
+    },
+    {
+      "anchor": "table-3-3",
+      "end_line": 320,
+      "heading": "Table 3-3",
+      "level": 2,
+      "start_line": 248
+    },
+    {
+      "anchor": "table-3-4",
+      "end_line": 326,
+      "heading": "TABLE 3-4",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "table-3-5",
+      "end_line": 346,
+      "heading": "TABLE 3-5",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "table-3-6",
+      "end_line": 354,
+      "heading": "Table 3-6",
+      "level": 2,
+      "start_line": 347
+    },
+    {
+      "anchor": "3-4-physical-properties",
+      "end_line": 374,
+      "heading": "3-4. PHYSICAL PROPERTIES",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "table-3-8-densities-of-light-and-heavy-water-solutions-of-uranyl-sulfate",
+      "end_line": 410,
+      "heading": "Table 3-8 Densities Of Light- And Heavy-Water Solutions Of Uranyl Sulfate",
+      "level": 2,
+      "start_line": 375
+    },
+    {
+      "anchor": "table-3-9-viscosities-of-light-and-heavy-water-solutions-of-uranyl-sulfate",
+      "end_line": 424,
+      "heading": "Table 3-9 Viscosities Of Light- And Heavy-Water Solutions Of Uranyl Sulfate",
+      "level": 2,
+      "start_line": 411
+    },
+    {
+      "anchor": "table-3-10-estimated-heat-capacities-of-uranyl-sulfate-solutions",
+      "end_line": 434,
+      "heading": "Table 3-10 Estimated Heat Capacities Of Uranyl Sulfate Solutions",
+      "level": 2,
+      "start_line": 425
+    },
+    {
+      "anchor": "table-3-11",
+      "end_line": 436,
+      "heading": "Table 3-11",
+      "level": 2,
+      "start_line": 435
+    },
+    {
+      "anchor": "table-3-12",
+      "end_line": 450,
+      "heading": "Table 3-12",
+      "level": 2,
+      "start_line": 437
+    },
+    {
+      "anchor": "table-3-13",
+      "end_line": 457,
+      "heading": "Table 3-13",
+      "level": 2,
+      "start_line": 451
+    },
+    {
+      "anchor": "table-3-14",
+      "end_line": 495,
+      "heading": "Table 3-14",
+      "level": 2,
+      "start_line": 458
+    },
+    {
+      "anchor": "references",
+      "end_line": 583,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 496
+    }
+  ],
+  "source_dir": "pdf/FFR_chap03",
+  "tables": [],
+  "title": "CHAPTER 3",
+  "topics": [
+    "aqueous-homogeneous-reactors",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "breeder-and-converter-design",
+    "program-history",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "authors_not_detected",
+    "report_number_not_detected"
+  ]
+}

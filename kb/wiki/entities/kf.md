@@ -1,0 +1,231 @@
+# KF
+
+## Overview
+
+- Type: salt-system
+- Documents: 171
+- First seen: March 3, 1901
+- Last seen: unknown
+
+## Topic Profile
+
+- materials-and-corrosion (168)
+- reactor-operations (145)
+- pumps-loops-and-heat-exchangers (134)
+- salt-chemistry-and-redox (131)
+- salt-systems-and-thermophysics (123)
+- reactor-physics-neutronics (92)
+- aircraft-nuclear-propulsion (90)
+- graphite-and-moderator-behavior (90)
+
+## Related Entities
+
+- ARE [reactor] (171)
+- ORNL [organization] (169)
+- AEC [organization] (162)
+- NaF [salt-system] (162)
+- Union Carbide [organization] (150)
+- LiF [salt-system] (150)
+- fluoride salt [salt-system] (148)
+- nickel [alloy-material] (145)
+- UF4 [salt-system] (137)
+- graphite [alloy-material] (130)
+- zirconium [alloy-material] (128)
+- BeF2 [salt-system] (128)
+
+## Representative Claims
+
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td colspan="2">A1</td><td>- KC1</td><td>94</td><td colspan="2">K</td></tr><tr><td rowspan="2">AlCl3</td><td>9</td><td>- LiCl</td><td>89</td><td>K3AlF6</td><td>67</td></tr><tr><td>31</td><td>- MgCl2</td><td>98</td><td>- Al2O3</td><td>140</td></tr><tr><td>- KCl</td><td>29</td><td>- Na3AlF6</td><td>139</td><td></td><td></td></tr><tr><td>- LiCl</td><td>30</td><td>- NaCl</td><td>91</td><td>K2CO3</td><td>12</td></tr><tr><td>- NaCl</td><td>36</td><td></td><td></td><td>- KC1</td><td>120</td></tr><tr><td>- NaCl-KCl</td><td>36</td><td>BaF2</td><td>52</td><td>- KOH</td><td>126</td></tr><tr><td rowspan="2">AlF5</td><td rowspan="2">53</td><td>- LiF</td><td>80</td><td>- Li2CO3</td><td>43</td></tr><tr><td>- Na3AlF6</td><td>134</td><td>- Li2SO4</td><td>127</td></tr><tr><td>- KF</td><td>86</td><td>- NaF</td><td>84</td><td>- Na2CO3</td><td>44</td></tr><tr><td>- LiF</td><td>81</td><td></td><td></td><td>- Na2CO3-LiCO3</td><td>41</td></tr><tr><td>- Na3AlF6</td><td>135</td><td>Be</td><td></td><td>- NaCl</td><td>114</td></tr><tr><td>- Na3AlF6-Al2O3</td><td>154</td><td></td><td></td><td></td><td></td></tr><tr><td>- NaF</td><td>85</td><td>BeF2</td><td>131</td><td>KC1</td><td>6</td></tr><tr><td rowspan="2">Al2O3</td><td rowspan="2">140</td><td>- Na3AlF6</td><td>100</td><td>- AlCl3</td><td>31</td></tr><tr><td>Ca</td><td></td><td>- BaCl2</td><td>94</td></tr><tr><td>- Li3AlF6</td><td>141</td><td></td><td></td><td>- CaCl2</td><td>93</td></tr><tr><td>- Na3AlF6</td><td>139</td><td>CaCl2</td><td>8</td><td>- K2CO3</td><td>120</td></tr><tr><td>- Na3AlF6-AlF3</td><td>154</td><td>- BaCl2</td><td>100</td><td>- K2SO4</td><td>121</td></tr><tr><td>- Na3AlF6-CaF2</td><td>153</td><td>- KC1</td><td>93</td><td>- LiCl</td><td>27</td></tr><tr><td>- Na3AlF6-Li3AlF6</td><td>156</td><td>- KC1-MgCl2</td><td>99</td><td>- LiCl-CaCl2</td><td>37</td></tr><tr><td>- Na3AlF6-LiF</td><td>152</td><td>- KC1-NaCl</td><td>95</td><td>- MgCl2</td><td>92</td></tr><tr><td>- Na3AlF6-NaCl</td><td>155</td><td>- LiCl-KCl</td><td>37</td><td>- MgCl2-CaCl2</td><td>99</td></tr><tr><td rowspan="2">- Na3AlF6-SiO2</td><td rowspan="2">157</td><td>- MgCl2</td><td>97</td><td>- Na2CO3</td><td>119</td></tr><tr><td>- NaCl</td><td>32</td><td>- NaCl</td><td>28</td></tr><tr><td rowspan="2">Al2S3</td><td rowspan="2">64</td><td></td><td></td><td>- NaCl-AlCl3</td><td>36</td></tr><tr><td>CaF2</td><td>51</td><td>- NaCl-CaCl2</td><td>95</td></tr><tr><td>B</td><td>138</td><td>- LiF</td><td>79</td><td>- NaCl-LiCl</td><td>38</td></tr><tr><td rowspan="2">B2O3-Na3AlF6</td><td rowspan="2">138</td><td>- Na3AlF6</td><td>133</td><td>- NaCl-MgCl2</td><td>147</td></tr><tr><td>- Na3AlF6-Al2O3</td><td>153</td><td></td><td></td></tr><tr><td rowspan="2">Ba</td><td rowspan="2">54</td><td>- NaF</td><td>83</td><td>KF</td><td>5</td></tr><tr><td></td><td></td><td>- AlF3</td><td>86</td></tr><tr><td>BaCl2</td><td>54</td><td></td><td></td><td>- LiF</td><td>77</td></tr><tr><td rowspan="2">- CaCl2</td><td rowspan="2">100</td><td>Ca(NO3)2</td><td>72</td><td></td><td></td></tr><tr><td>- NaNO3</td><td>103</td><td>- Na3AlF6</td><td>130</td></tr></table>
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td rowspan="2">Table I.7 - continued Molten Salts Candidate Systems DATA STATUS SUMMARY Data Available Data Gap</td><td>ID- No.</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td>32</td><td>33</td><td>34</td><td>35</td><td>36</td><td>37</td><td>38</td><td>39</td><td>40</td><td>41</td><td>42</td><td>43</td><td>44</td><td>45</td><td>46</td><td></td></tr><tr><td>SYSTEM</td><td>Na2S5</td><td>LiBr</td><td>LiI</td><td>LiCl-KCl</td><td>NaCl-KCl</td><td>LiCl-AICl3</td><td>NaCl-AICl3</td><td>KCl-AICl3</td><td>NaCl-GaCl2</td><td>Na2Sx</td><td>NaF-KF</td><td>LiF-LiCl</td><td>NaCl-KCl-AICl3</td><td>LiCl-KCl-GaCl2</td><td>LiCl-NaCl-KCl</td><td>LiF-LiCl-LiBr</td><td>LiF-LiCl-LiI</td><td>Li2CO3-Na2CO3-K2CO3</td><td>Li2CO3-K2CO3</td><td>Na2CO3-K2CO3</td><td>NaNO3-KNO3</td><td>LiNO3-NaNO3-KNO3</td><td></td><td></td></tr><tr><td colspan="2">1.
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td rowspan="2">Table I.7 - continued Molten Salts Candidate Systems ID- No.</td><td>70</td><td>71</td><td>72</td><td>73</td><td>74</td><td>75</td><td>76</td><td>77</td><td>78</td><td>79</td><td>80</td><td>81</td><td>82</td><td>83</td><td>84</td><td>85</td><td>86</td><td>87</td><td>88</td><td>89</td><td>90</td><td>91</td><td>92</td></tr><tr><td>KOH</td><td>Mg(NO3)2</td><td>Ca(NO3)2</td><td>LiNO2</td><td>NaNO2</td><td>KNO2</td><td>LiF-NaF</td><td>LiF-KF</td><td>LiF-NaF-KF</td><td>LiF-CaF2</td><td>LiF-BaF2</td><td>LiF-A1F3</td><td>NaF-MgF2</td><td>NaF-CaF2</td><td>NaF-BaF2</td><td>NaF-A1F3</td><td>KF-A1F3</td><td>LiCl-NaCl</td><td>LiCl-MgCl2</td><td>LiCl-BaCl2</td><td>NaCl-MgCl2</td><td>NaCl-BaCl2</td><td>KCl-MgCl2</td></tr><tr><td>1.
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td rowspan="2">Table I.7Molten Salts Candidate SystemsDATA STATUS SUMMARYData AvailableData Gap</td><td>ID-No.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr><tr><td>SYSTEM</td><td>LiF</td><td>NaF</td><td>KF</td><td>LiCl</td><td>NaCl</td><td>KCl</td><td>MgCl2</td><td>CaCl2</td><td>AlCl3</td><td>Li2CO3</td><td>Na2CO3</td><td>K2CO3</td><td>LiNO3</td><td>NaNO3</td><td>KNO3</td><td>Li2SO4</td><td>Na2SO4</td><td>K2SO4</td><td>Sulfur</td><td>Na2S</td><td>Na2S2</td><td>Na2S3</td><td>Na2S4</td></tr><tr><td>1.
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td rowspan="5">LiI</td><td>26</td><td>- Li3AlF6</td><td>108</td><td>NaF</td><td>2</td></tr><tr><td rowspan="2">- LiF-LiCl</td><td>- LiF</td><td>128</td><td>- AlF3</td><td>85</td></tr><tr><td>- MgF2</td><td>132</td><td>- BaF2</td><td>84</td></tr><tr><td rowspan="2">Mg</td><td>- NaCl</td><td>136</td><td>- CaF2</td><td>83</td></tr><tr><td>- NaF</td><td>129</td><td>- KF</td><td>63</td></tr><tr><td rowspan="9">MgCl2</td><td>7</td><td></td><td></td><td>- KF-LiF</td><td>78</td></tr><tr><td>- BaCl2</td><td>Na2CO3</td><td>11</td><td>- MgF2</td><td>82</td></tr><tr><td>- CaCl2</td><td>- K2CO3</td><td>44</td><td>- LiF</td><td>76</td></tr><tr><td>- KCl</td><td>- K2CO3-Li2CO3</td><td>41</td><td>- Na3AlF6</td><td>129</td></tr><tr><td>- KCl-CaCl2</td><td>- KC1</td><td>119</td><td></td><td></td></tr><tr><td>- KCl-NaCl</td><td>- Li2CO3</td><td>42</td><td>NaNO3</td><td>14</td></tr><tr><td>- LiCl</td><td>- NaCl</td><td>113</td><td>- Ca(NO3)2</td><td>103</td></tr><tr><td>- NaCl</td><td>- NaCl-NaOH</td><td>151</td><td>- LiNO3</td><td>101</td></tr><tr><td></td><td>- NaOH</td><td>125</td><td>- KNO3</td><td>45</td></tr><tr><td rowspan="4">MgF2</td><td>50</td><td></td><td></td><td>- KNO3-LiNO3</td><td>46</td></tr><tr><td>- Na3AlF6</td><td>NaCl</td><td>5</td><td>- KNO3-NaNO3</td><td>148</td></tr><tr><td>- NaF</td><td>- AlCl3</td><td>30</td><td>- KNO2</td><td>146</td></tr><tr><td></td><td>- BaCl2</td><td>91</td><td>- NaCl</td><td>116</td></tr><tr><td rowspan="5">Mg(NO3)2</td><td>71</td><td>- CaCl2</td><td>32</td><td>- NaOH</td><td>143</td></tr><tr><td>- KNO3</td><td>- K2CO3</td><td>114</td><td>- NaNO2</td><td>145</td></tr><tr><td></td><td>- KCl</td><td>28</td><td></td><td></td></tr><tr><td>Na</td><td>- KCl-AlCl3</td><td>36</td><td>NaNO2</td><td>74</td></tr><tr><td></td><td>- KCl-CaCl2</td><td>95</td><td></td><td></td></tr><tr><td rowspan="15">Na3AlF6</td><td>66</td><td>- KCl-LiCl</td><td>38</td><td>- LiNO2</td><td>105</td></tr><tr><td>- AlF3</td><td>- KCl-MgCl2</td><td>147</td><td>- KNO3</td><td>147</td></tr><tr><td>- Al2O3</td><td>- K2SO4</td><td>118</td><td>- KNO2</td><td>106</td></tr><tr><td>- Al2O3-AlF3</td><td>- LiCl</td><td>87</td><td>- NaNO3</td><td>145</td></tr><tr><td>- Al2O3-CaF2</td><td>- Li2SO4</td><td>49</td><td></td><td></td></tr><tr><td>- Al2O3-Li3AlF6</td><td>- MgCl2</td><td>90</td><td></td><td></td></tr><tr><td>- Al2O3-LiF</td><td>- Na3AlF6</td><td>136</td><td>NaOH</td><td>69</td></tr><tr><td>- Al2O3-NaCl</td><td>- Na3AlF6-Al2O3</td><td>155</td><td>- KOH</td><td>107</td></tr><tr><td>- Al2O3-SiO2</td><td>- Na2CO3</td><td>113</td><td>- Na2CO3</td><td>125</td></tr><tr><td>- B2O3</td><td>- NaOH</td><td>115</td><td>- NaCl</td><td>115</td></tr><tr><td>- BaCl2</td><td>- NaOH-Na2CO3</td><td>151</td><td>- NaCl-Na2CO3</td><td>151</td></tr><tr><td>- BaF2</td><td>- NaNO3</td><td>116</td><td>- NaNO3</td><td>143</td></tr><tr><td>- BeF2</td><td>- Na2SO4</td><td>117</td><td></td><td></td></tr><tr><td>- CaF2</td><td>- Na2S</td><td>20</td><td></td><td></td></tr><tr><td>- KF</td><td>130</td><td></td><td></td><td></td></tr></table>
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td></td><td>- NaF</td><td>34</td><td colspan="2">Li</td><td>- LiCl-LiI</td><td>40</td></tr><tr><td></td><td>- NaF-LiF</td><td>78</td><td>Li3AlF6</td><td>65</td><td>- LiOH</td><td>109</td></tr><tr><td rowspan="8">KNO3</td><td></td><td>15</td><td>- Al2O3</td><td>141</td><td>- Na3AlF6</td><td>128</td></tr><tr><td>- KOH</td><td>144</td><td>- Na3AlF6</td><td>108</td><td>- Na3AlF6-Al2O3</td><td>152</td></tr><tr><td>- LiNO3</td><td>102</td><td>- Na3AlF6-Al2O3</td><td>156</td><td>- NaF</td><td>76</td></tr><tr><td>- Mg (NO3)2</td><td>104</td><td>Li2CO3</td><td>10</td><td>- NaF-KF</td><td>78</td></tr><tr><td>- NaNO3</td><td>45</td><td>- K2CO3</td><td>43</td><td>LiNO3</td><td>13</td></tr><tr><td>- NaNO3-LiNO3</td><td>46</td><td>- K2SO4</td><td>124</td><td>- KNO3</td><td>102</td></tr><tr><td>- NaNO3-NaNO2</td><td>148</td><td>- LiCl</td><td>112</td><td>- LiCl</td><td>111</td></tr><tr><td>- NaNO2</td><td>147</td><td>- LiOH</td><td>122</td><td>- LiOH</td><td>142</td></tr><tr><td rowspan="3">KNO2</td><td></td><td>58</td><td>- Li2SO4</td><td>123</td><td>- NaNO3</td><td>101</td></tr><tr><td>- NaNO3</td><td>146</td><td>- Na2CO3-K2CO3</td><td>42</td><td>- NaNO3-KNO3</td><td>46</td></tr><tr><td>- NaNO2</td><td>106</td><td></td><td></td><td>LiNO2</td><td>73</td></tr><tr><td rowspan="6">KOH</td><td></td><td>70</td><td>LiCl</td><td>4</td><td>- NaNO2</td><td>105</td></tr><tr><td></td><td></td><td>- AlCl3</td><td>29</td><td></td><td></td></tr><tr><td>- K2CO3</td><td>126</td><td>- BaCl2</td><td>89</td><td>LiOH</td><td>68</td></tr><tr><td>- KNO3</td><td>144</td><td>- KC1</td><td>27</td><td>- Li2CO3</td><td>122</td></tr><tr><td>- NaOH</td><td>107</td><td>- KC1-CaCl2</td><td>37</td><td>- LiCl</td><td>110</td></tr><tr><td></td><td></td><td>- KC1-NaCl</td><td>38</td><td>- LiF</td><td>109</td></tr><tr><td rowspan="7">K2SO4</td><td></td><td>18</td><td>- Li2CO3</td><td>112</td><td>- LiNO3</td><td>142</td></tr><tr><td>- Li2CO3</td><td>124</td><td>- LiF</td><td>35</td><td></td><td></td></tr><tr><td>- Li2SO4</td><td>47</td><td>- LiF-LiBr</td><td>39</td><td>Li2SO4</td><td>16</td></tr><tr><td>- KC1</td><td>121</td><td>- LiF-LiI</td><td>40</td><td>- K2CO3</td><td>127</td></tr><tr><td>- NaCl</td><td>118</td><td>- LiOH</td><td>110</td><td>- K2SO4</td><td>47</td></tr><tr><td>- Na2SO4-Li2SO4</td><td>48</td><td>- LiNO3</td><td>111</td><td>- K2SO4-Na2SO4</td><td>48</td></tr><tr><td></td><td></td><td>- MgCl2</td><td>88</td><td>- Li2CO3</td><td>123</td></tr><tr><td>K2S</td><td></td><td>58</td><td>- NaCl</td><td>87</td><td>- NaCl</td><td>49</td></tr><tr><td>K2S2</td><td></td><td>59</td><td></td><td></td><td></td><td></td></tr><tr><td>K2S3</td><td></td><td>60</td><td>LiF</td><td>1</td><td>Li2S</td><td>55</td></tr><tr><td>K2S4</td><td></td><td>61</td><td>- AlF3</td><td>81</td><td>Li2S2</td><td>56</td></tr><tr><td>K2S5</td><td></td><td>62</td><td>- BaF2</td><td>80</td><td>Li2S4</td><td>57</td></tr><tr><td>K2S6</td><td></td><td>63</td><td>- CaF2</td><td>79</td><td>Li2Sx</td><td>149</td></tr><tr><td>K2Sx</td><td></td><td>150</td><td>- KF</td><td>77</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>- LiCl</td><td>35</td><td>LiBr</td><td>25</td></tr><tr><td></td><td></td><td></td><td>- LiCl-LiBr</td><td>39</td><td>- LiF-LiCl</td><td>39</td></tr></table>
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td>kF(K mol-1kg)</td><td>Uncertainty</td></tr><tr><td>5.13</td><td>~ ± 1%</td></tr></table>
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td>Symbol</td><td>Physical quantity</td><td>Units</td></tr><tr><td>a</td><td>Thermodynamically defined activity</td><td>dimensionless</td></tr><tr><td>A</td><td>Pre-exponential factor</td><td>as in text</td></tr><tr><td>C</td><td>Concentration</td><td>mol %</td></tr><tr><td>Cp</td><td>Heat capacity</td><td>cal K-1mol-1</td></tr><tr><td>D</td><td>Diffusion coefficient</td><td>cm2s-1</td></tr><tr><td>E</td><td>Energy of activation</td><td>cal mol-1</td></tr><tr><td>ΔH°f</td><td>Heat of fusion</td><td>kcal mol-1</td></tr><tr><td>kf</td><td>Cryoscopic constant</td><td>K mol-1kg-1</td></tr><tr><td>Kd</td><td>Equilibrium dissociation constant</td><td>atm</td></tr><tr><td>Ml</td><td>Apparent molecular weight</td><td>g mol-1</td></tr><tr><td>Pvap</td><td>Vapor pressure</td><td>mm Hg</td></tr><tr><td>t</td><td>Temperature (Celsius)</td><td>°C</td></tr><tr><td>T</td><td>Temperature (Kelvin)</td><td>K</td></tr><tr><td>Tm</td><td>Melting temperature</td><td>°C</td></tr><tr><td>To</td><td>Ideal glass transition temperature</td><td>K</td></tr><tr><td>Vs</td><td>Molar volume of solid</td><td>cm3mol-1</td></tr><tr><td>ΔVf</td><td>Change in molar volume on fusion</td><td>cm3mol-1</td></tr><tr><td>(ΔVf/Vs)%</td><td>Percent molar volume change</td><td>dimensionless</td></tr><tr><td>X</td><td>Mol fraction</td><td>dimensionless</td></tr><tr><td>γ</td><td>Surface tension</td><td>dyn cm-1</td></tr><tr><td>η</td><td>Viscosity</td><td>cp or poise</td></tr><tr><td>κ</td><td>Electrical conductance</td><td>ohm-1cm-1</td></tr><tr><td>λ</td><td>Thermal conductivity</td><td>cal cm-1s-1K-1</td></tr><tr><td>ρ</td><td>Density</td><td>g cm-3</td></tr></table>
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - footnote to Table 66.5 A: studies principally in molten NaF, KF, and LiF; B: used largely in fluorides physical properties measurements; C: technological aspects, in aluminum reduction cells; D: more general studies, basic principles, and surveys
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - footnote to Table 67.3 A: studies principally in molten NaF, KF,and LiF; B: used largely in fluorides physical properties measurements; C: technological aspects, in aluminum reduction cells; D: more general studies, basic principles, and surveys
+
+## Chronology
+
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901 - mentions: 96
+- [[../documents/chapter-12.md|CHAPTER 12]] - 1941 - mentions: 9
+- [[../documents/ornl-1227.md|DECLASSIFIED]] - November 30, 1949 - ORNL-1227 - mentions: 71
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950 - ORNL-2396 - mentions: 79
+- [[../documents/ornl-858.md|OAK RIDGE NATIONAL LABORATORY LIBRARIES]] - August 31, 1950 - mentions: 4
+- [[../documents/ornl-919.md|![](images/d56634a82ca37bdef522a781b40ef7fdd1ffb9df4521294bc9d2f7c338e38c9c.jpg)]] - December 10, 1950 - ANP-53 - mentions: 7
+- [[../documents/ornl-1030.md|![](images/b4964672a88bdce91495126f3b851a754823d457e3d6c106211cd5bc2c7d960e.jpg)]] - 1951 - ORNL-1030 - mentions: 2
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951 - ORNL-2833 - mentions: 1
+- [[../documents/anp-60.md|ANP-60(Dol.)]] - March 10, 1951 - ANP-60 - mentions: 19
+- [[../documents/anp-65.md|LEGAL NOTICE]] - June 10, 1951 - ANP-65 - mentions: 34
+- [[../documents/ornl-1154.md|![](images/569ae7f7c4c2e5fcc4c9c5621eb57a821febcbce214d7ad5885ee1e58160dbb2.jpg)]] - September 10, 1951 - ORNL-528 - mentions: 42
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951 - ORNL-1170 - mentions: 54
+- [[../documents/ornl-1490.md|![](images/708f8bec4314a4c0782e91ae54b4cc6d125f0e3d313ac66c1597532fd66f4239.jpg)]] - 1952 - ORNL-1252 - mentions: 16
+- [[../documents/ornl-1252.md|GENERAL INFORMATION]] - February 19, 1952 - ORNL-1252 - mentions: 49
+- [[../documents/ornl-1234.md|![](images/b3ecd7f476e9459b128de5e6d74121df5dc5fd4e39228b814db47431e850b02f.jpg)]] - June 2, 1952 - ORNL-1234 - mentions: 44
+- [[../documents/ornl-1294.md|ASSIFIED]] - June 10, 1952 - ORNL-1294 - mentions: 130
+- [[../documents/ornl-1491.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - September 1952 - ORNL-1491 - mentions: 1
+- [[../documents/ornl-1375.md|![](images/375b6eaad5730c3389afc4dc53449468f7637184e63a5fd69d2d1c0c412530df.jpg)]] - September 10, 1952 - ORNL-1375 - mentions: 82
+- [[../documents/mit-5001.md|MIT-5001]] - October 15, 1952 - mentions: 3
+- [[../documents/ornl-1439.md|![](images/fc02949994d760b22c2ed04a0d81a713f8c686040afa93e0e53c859df3f83b19.jpg)]] - December 10, 1952 - ORNL-1439 - mentions: 65
+- [[../documents/ornl-1634.md|CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION]] - 1953 - mentions: 2
+- [[../documents/ornl-1515.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - March 10, 1953 - ORNL-1515 - mentions: 25
+- [[../documents/ornl-tm-3866.md|![](images/21d47926519d1679e8984c4291d925f12b0fad58a3797a05df44e831a5cd03ca.jpg)]] - April 20, 1953 - ORNL-4254 - mentions: 1
+- [[../documents/ornl-2337.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - May 1, 1953 - ORNL-118 - mentions: 4
+- [[../documents/ornl-2338.md|ORNL-2338]] - May 1, 1953 - ORNL-2338 - mentions: 1
+- [[../documents/ornl-1556.md|![](images/c369b356e067aec6a42047b4dd870b23726bf44bc6d9ad4322706be0e93e00d1.jpg)]] - June 10, 1953 - ORNL-1556 - mentions: 21
+- [[../documents/ornl-1517.md|CLASSIFIED]] - September 1953 - ORNL-1515 - mentions: 1
+- [[../documents/ornl-1609.md|DECLASSIFIED]] - September 10, 1953 - ORNL-1609 - mentions: 31
+- [[../documents/ornl-1649.md|DECLASSIFIED]] - December 10, 1953 - ORNL-1449 - mentions: 15
+- [[../documents/ornl-1702.md|DECLASSIFIED]] - 1954 - mentions: 6
+- [[../documents/ornl-1716.md|DECLASSIFIED]] - 1954 - mentions: 2
+- [[../documents/ornl-1770.md|LEG RESEARCH AND DEVELOPMENT REPORT]] - 1954 - ORNL-1615 - mentions: 2
+- [[../documents/ornl-1712.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - 1954 - mentions: 8
+- [[../documents/ornl-1835.md|MASTER COPY]] - 1954 - ORNL-1835 - mentions: 2
+- [[../documents/ornl-1692.md|![](images/ac719642e9213280d3c16ec9f3ea45551575992f2d409365b68e0a3d073c02a2.jpg)]] - March 10, 1954 - ORNL-528 - mentions: 14
+- [[../documents/ornl-1721.md|AEG RESEARCH AND DEVELOPMENT REPORT FORM-1721]] - May 1954 - ORNL-1721 - mentions: 7
+- [[../documents/ornl-1729.md|![](images/b54a392e6f8c9768ec6ae55cbf2539b5e7b81adcde8c4a0a0424955e3e870da6.jpg)]] - June 10, 1954 - ORNL-1729 - mentions: 29
+- [[../documents/ornl-1771.md|![](images/d8f8ec27cf5780aed4f301ea659c6fb81b8e6216d4dbabd345b92b60b29a22ff.jpg)]] - September 10, 1954 - ORNL-1771 - mentions: 61
+- [[../documents/ornl-1816.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - December 10, 1954 - ORNL-1816 - mentions: 71
+- [[../documents/ornl-2095.md|ORNL-2095]] - December 10, 1954 - ORNL-2095 - mentions: 8
+- [[../documents/ornl-1777.md|![](images/2162c866e45ff7251413a38197b6da08d0298fd55e10f9de80ab1fd2ad797e5d.jpg)]] - 1955 - mentions: 2
+- [[../documents/ornl-1864.md|CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION]] - March 10, 1955 - ORNL-1864 - mentions: 60
+- [[../documents/ornl-1896.md|ANP Authorization Required]] - June 10, 1955 - ORNL-1896 - mentions: 45
+- [[../documents/ornl-1947.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 10, 1955 - ORNL-528 - mentions: 66
+- [[../documents/ornl-2012.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 10, 1955 - ORNL-2012 - mentions: 65
+- [[../documents/ornl-1956.md|![](images/197a9478f979e629f839d81cf3223df384f69c03b095c1f7c1c47d31e41f67cc.jpg)]] - 1956 - ORNL-1040 - mentions: 3
+- [[../documents/ornl-2103.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1956 - ORNL-2103 - mentions: 1
+- [[../documents/ornl-2150.md|ORNL MASTER COPY]] - 1956 - mentions: 27
+- [[../documents/ornl-2061.md|AEC RESEARCH AND DEVELOPMENT REPORT CENTRAL RESEARCH LIBRARY DOCUMENTATION]] - March 10, 1956 - ORNL-528 - mentions: 76
+- [[../documents/ornl-2157.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 10, 1956 - ORNL-2157 - mentions: 61
+- [[../documents/ornl-cf-56-9-32.md|![](images/938086cb393a582a7728693043fb82da9b289539f7b3bdf48804f619da6ff6a9.jpg)]] - September 11, 1956 - mentions: 1
+- [[../documents/ornl-2198.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1957 - ORNL-2198 - mentions: 1
+- [[../documents/ornl-2278.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1957 - ORNL-2278 - mentions: 5
+- [[../documents/ornl-2374.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1957 - ORNL-2374 - mentions: 1
+- [[../documents/ornl-2373.md|AEC RESEARCH AND DEVELOPMENT REPORT ORNL-2373 C-84 - Reactors]] - 1957 - ORNL-2373 - mentions: 1
+- [[../documents/ornl-2295.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - March 10, 1957 - ORNL-2295 - mentions: 19
+- [[../documents/ornl-2274.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - March 31, 1957 - ORNL-528 - mentions: 70
+- [[../documents/ornl-cf-57-4-27.md|![](images/3f7cf0a8001da7322a0b64862847fd098bcc14dff6f113c0f2b93b24ab9b98f8.jpg)]] - April 29, 1957 - CF-57-1-10 - mentions: 3
+- [[../documents/the-aircraft-reactor-experiment-physics-sup-1-sup.md|The Aircraft Reactor Experiment-Physics<sup>1</sup>]] - June 13, 1957 - mentions: 1
+- [[../documents/ornl-2340-p-1-5.md|DECLASSIFIED]] - June 30, 1957 - ORNL-2340 - mentions: 40
+- [[../documents/ornl-2378.md|AEC RESE CRFMENT REPORT]] - September 1, 1957 - ORNL-2378 - mentions: 1
+- [[../documents/ornl-2387.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 30, 1957 - ORNL-2387 - mentions: 59
+- [[../documents/ornl-2431.md|MOLTEN-SALT REACTOR PROGRAM]] - October 31, 1957 - ORNL-2431 - mentions: 5
+- [[../documents/nas-ns-3016.md|National]] - November 1, 1957 - mentions: 1
+- [[../documents/ornl-2440.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 31, 1957 - ORNL-2440 - mentions: 58
+- [[../documents/ornl-2474.md|ORNL-2474]] - January 31, 1958 - ORNL-2474 - mentions: 39
+- [[../documents/ornl-2551.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - February 15, 1958 - ORNL-2551 - mentions: 20
+- [[../documents/ornl-cf-58-2-40.md|![](images/0c538bb6e92b5c6673ab71f9608cf1053b2861e424730db343ba9f9ec18e714f.jpg)]] - February 18, 1958 - mentions: 14
+- [[../documents/ornl-2517.md|DECLASSIFIED]] - March 31, 1958 - ORNL-2517 - mentions: 1
+- [[../documents/ornl-2634.md|ORNL-2634]] - May 1, 1958 - ORNL-2634 - mentions: 12
+- [[../documents/molten-salt-reactors.md|MOLTEN-SALT REACTORS]] - June 1958 - mentions: 12
+- [[../documents/anl-4342.md|Part III]] - June 1958 - ANL-4342 - mentions: 1
+- [[../documents/ornl-tm-4272.md|![](images/39a504e821f9634b797d93754f178abf89a6fbddacb1fa0530dd4a8f4342ce4f.jpg)]] - June 30, 1958 - ORNL-4254 - mentions: 1
+- [[../documents/ornl-2626.md|ORNL-2626]] - October 31, 1958 - ORNL-2626 - mentions: 16
+- [[../documents/ornl-cf-59-1-26.md|![](images/3a74bb449ed93c4da89dd5c969a24e7eba90f63087b3269a98f7b1d5691b1f3f.jpg)]] - January 13, 1959 - mentions: 1
+- [[../documents/ornl-2684.md|ORNL-2684]] - January 31, 1959 - ORNL-2684 - mentions: 8
+- [[../documents/ornl-cf-59-2-61.md|UNCLASSIFIED]] - April 1, 1959 - mentions: 3
+- [[../documents/ornl-2723.md|ORNL-2723]] - April 30, 1959 - ORNL-2723 - mentions: 4
+- [[../documents/ornl-2799.md|![](images/e196c8971f9cbd257f2fbb5070322e5c08ad2686223df5233b579472fdad4e95.jpg)]] - July 31, 1959 - ORNL-2799 - mentions: 5
+- [[../documents/ornl-2890.md|ORNL-2890]] - October 31, 1959 - ORNL-2890 - mentions: 3
+- [[../documents/ornl-3014.md|![](images/3d9e2a174651a2d79ed61a6a17515dd3051e8336e6824ebffc1c42c4f35951a5.jpg)]] - 1960 - ORNL-3014 - mentions: 7
+- [[../documents/anl-7092.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - July 25, 1960 - ANL-6892 - mentions: 2
+- [[../documents/ornl-3029.md|ORNL-3029]] - October 31, 1960 - ORNL-3029 - mentions: 1
+- [[../documents/ornl-3215.md|![](images/b390bcb067039caf88dbc5e2ee9afe97556a586516b1e8bc48fcccfe1bf4383c.jpg)]] - 1961 - ORNL-3215 - mentions: 11
+- [[../documents/ornl-2780.md|MASTER COPY]] - 1961 - ORNL-2780 - mentions: 1
+- [[../documents/ornl-2832.md|ORNL-2832]] - 1961 - ORNL-2832 - mentions: 3
+- [[../documents/ornl-2896.md|ORNL-2896]] - 1961 - ORNL-2896 - mentions: 1
+- [[../documents/ornl-3122.md|${3}^{ \times {5}^{7}}$]] - October 1961 - ORNL-3122 - mentions: 2
+- [[../documents/ornl-3293.md|![](images/e0a2a11a0d4c64b2e295e296219457d344f3890b9768feee0867bcfc7e3c6396.jpg)]] - 1962 - ORNL-3293 - mentions: 9
+- [[../documents/ornl-3282.md|ORNL-3282]] - 1962 - ORNL-3282 - mentions: 4
+- [[../documents/ornl-tm-328.md|ORNL-TM-328]] - 1962 - ORNL-TM-328 - mentions: 7
+- [[../documents/nas-ns-3050.md|National Research Council]] - March 1962 - mentions: 2
+- [[../documents/ornl-3411.md|![](images/645cc67ad16ae6849e523e4bfedf77f3092043b5982b0d096070e5ef79f9a8be.jpg)]] - 1963 - ORNL-3411 - mentions: 7
+- [[../documents/ornl-3391.md|ORNL-3391]] - 1963 - ORNL-3391 - mentions: 3
+- [[../documents/ornl-3419.md|MOLTEN-SALT REACTOR PROGRAM]] - January 31, 1963 - mentions: 6
+- [[../documents/ornl-3529.md|ORNL-3529]] - July 31, 1963 - ORNL-3529 - mentions: 2
+- [[../documents/ornl-3594.md|ORNL-3594]] - 1964 - ORNL-3594 - mentions: 38
+- [[../documents/ornl-3596.md|ORNL-3596]] - 1964 - ORNL-3596 - mentions: 17
+- [[../documents/ornl-3626.md|ORNL-3626 UCA-80- Reactor Technology TID-4500 (31st ed.)]] - January 31, 1964 - ORNL-3626 - mentions: 9
+- [[../documents/ornl-3708.md|![](images/50503ced8a785d6711476b9d883192f94a77603d1c0894f00fd35b69e5171bf6.jpg)]] - July 31, 1964 - ORNL-3708 - mentions: 10
+- [[../documents/ornl-tm-4286.md|![](images/efcbf614eaf10c25932c7194f018f827dd8994802174e2a19b1489f8dd55aeaf.jpg)]] - July 31, 1964 - ORNL-TM-4286 - mentions: 1
+- [[../documents/ornl-tm-907.md|![](images/960b792ce49a20c914f3c163ccd8f4f3d4bf050db74709272f3d285cfe468bcd.jpg)]] - 1965 - ORNL-TM-907 - mentions: 1
+- [[../documents/ornl-3804.md|ORNL-3804]] - 1965 - ORNL-3804 - mentions: 7
+- [[../documents/ornl-3812.md|ORNL-3812]] - February 28, 1965 - ORNL-3812 - mentions: 1
+- [[../documents/ornl-3913.md|ORNL.3913]] - December 31, 1965 - mentions: 11
+- [[../documents/ornl-3791.md|![](images/6a88b7b49bad0c5a62a41f205f0b4223628c001b68e171f028a1a0e51b8981ff.jpg)]] - 1966 - mentions: 5
+- [[../documents/ornl-3936.md|ORNL-3936]] - February 28, 1966 - ORNL-3936 - mentions: 1
+- [[../documents/ornl-4037.md|ORNL-4037]] - August 31, 1966 - ORNL-4037 - mentions: 4
+- [[../documents/ornl-4076.md|HeoHcTo 95hE]] - December 31, 1966 - ORNL-4076 - mentions: 9
+- [[../documents/ornl-tm-1854.md|ORNL-TM-1854]] - 1967 - ORNL-TM-1854 - mentions: 2
+- [[../documents/ornl-4119.md|ORNL-4119]] - February 28, 1967 - ORNL-4119 - mentions: 3
+- [[../documents/ornl-tm-1852.md|ORNL-TM-1852]] - June 1967 - ORNL-TM-1852 - mentions: 1
+- [[../documents/ornl-tm-3595.md|ORNL-TM-3595]] - June 1967 - ORNL-TM-3595 - mentions: 7
+- [[../documents/ornl-tm-1851.md|ORNL-TM-1851]] - June 12, 1967 - ORNL-TM-1851 - mentions: 2
+- [[../documents/ornl-4191.md|ORNL-4191]] - August 31, 1967 - ORNL-4191 - mentions: 13
+- [[../documents/ornl-tm-1855.md|![](images/1b350d6b5cc04bc7d7604b9dd9cc29d2a51787f05b2cf8392565028b4005a7ea.jpg)]] - October 3, 1967 - ORNL-TM-1855 - mentions: 2
+- [[../documents/ornl-tm-2047.md|ORNL-TM-2047]] - November 8, 1967 - ORNL-TM-2047 - mentions: 4
+- [[../documents/ornl-tm-907rev.md|![](images/d56773f4d2dc0acebada6d8804aec01e6287af75ce5bc3db3e92b839fbcddbdd.jpg)]] - December 28, 1967 - ORNL-TM-907 - mentions: 1
+- [[../documents/ornl-tm-2180.md|![](images/222b8049da11cf5124666d77a06196c600a1a53111108b44f277a5184e001a1c.jpg)]] - 1968 - ORNL-TM-2180 - mentions: 4
+- [[../documents/ornl-tm-2316.md|ORNL-TM-2316]] - 1968 - ORNL-TM-2316 - mentions: 1
+- [[../documents/ornl-4254.md|ORNL-4254]] - February 29, 1968 - ORNL-4254 - mentions: 11
+- [[../documents/ornl-tm-2741.md|ORNL-TM-2741]] - June 20, 1968 - ORNL-TM-2741 - mentions: 1
+- [[../documents/ornl-4344.md|ORNL-4344]] - August 31, 1968 - ORNL-4344 - mentions: 17
+- [[../documents/ornl-tm-2021.md|![](images/058795c71bc1bc1825b5474e74ba7771e9559f916f28593e94af89becad51159.jpg)]] - 1969 - ORNL-TM-2021 - mentions: 7
+- [[../documents/ornl-tm-202.md|![](images/c3de4ffa99a6c94ffebe8ead14e18ab6e2513de15cc9c270fa507d8c45bca7ff.jpg)]] - 1969 - ORNL-TM-2021 - mentions: 7
+- [[../documents/ornl-tm-2696.md|![](images/c9c56a5050b308189d21a1a66f8e1e25bf85df050eea34e2be76f0b316de50ae.jpg)]] - 1969 - mentions: 3
+- [[../documents/oak-ridge-national-laboratory.md|OAK RIDGE NATIONAL LABORATORY]] - 1969 - mentions: 1
+- [[../documents/ornl-tm-2490.md|ORNL-TM-2490]] - 1969 - ORNL-TM-2490 - mentions: 6
+- [[../documents/ornl-4396.md|ORNL-4396]] - February 28, 1969 - ORNL-4396 - mentions: 18
+- [[../documents/ornl-4628.md|ORIGEN - THE ORNL ISOTOPE GENERATION AND DEPLETION CODE]] - June 1969 - ORNL-2958 - mentions: 1
+- [[../documents/symposium-on.md|Symposium on]] - August 1969 - mentions: 3
+- [[../documents/molten-salt-reactor-chemistry.md|MOLTEN-SALT REACTOR CHEMISTRY]] - August 4, 1969 - mentions: 2
+- [[../documents/ornl-4449.md|ORNL-4449]] - August 31, 1969 - ORNL-4449 - mentions: 11
+- [[../documents/ornl-4548.md|ORNL-4548]] - February 28, 1970 - ORNL-4548 - mentions: 3
+- [[../documents/ornl-mit-99.md|DATE: March 5, 1970]] - March 5, 1970 - mentions: 1
+- [[../documents/ornl-tm-4802.md|The Molten-Salt Reactor Information System]] - June 1970 - ORNL-TM-4802 - mentions: 1
+- [[../documents/ornl-4622.md|ORNL-4622]] - August 31, 1970 - ORNL-4622 - mentions: 2
+- [[../documents/ornl-4541.md|ORNL-4541]] - 1971 - ORNL-4541 - mentions: 1
+- [[../documents/ornl-4574.md|ORNL-4574]] - 1971 - ORNL-4574 - mentions: 9
+- [[../documents/ornl-4658.md|ORNL-4658]] - 1971 - ORNL-4658 - mentions: 1
+- [[../documents/ornl-tm-2952.md|ORNL-TM-2952]] - 1971 - ORNL-TM-2952 - mentions: 2
+- [[../documents/ornl-4676.md|![](images/dd79b2ea7a269e4e2bdbdad98b315218b184c677fbd7fe6c21a5f930248bbf2e.jpg)]] - February 28, 1971 - ORNL-4676 - mentions: 18
+- [[../documents/ornl-cf-71-8-10.md|![](images/d932c9230f16a5826251a6cef8c31b83e258692da125cef43f73926b0c64ce50.jpg)]] - August 6, 1971 - ORNL-TM-2316 - mentions: 6
+- [[../documents/ornl-4728.md|![](images/75792d190f38fb318248f14df749be3ce5abb65eaf2a821ff2d87b4b580840ca.jpg)]] - August 31, 1971 - ORNL-2474 - mentions: 1
+- [[../documents/ornl-tm-4047.md|MOLTEN SALTS AS BLANKET FLUIDS IN CONTROLLED FUSION REACTORS]] - 1972 - mentions: 2
+- [[../documents/ornl-tm-3763.md|ORNL-TM- 3763]] - 1972 - ORNL-TM-3763 - mentions: 2
+- [[../documents/ornl-tm-3579.md|ORNL-TM-3579]] - 1972 - ORNL-TM-3579 - mentions: 1
+- [[../documents/ornl-tm-4056.md|THE EQUILIBRIUM OF DILUTE $\mathsf{UF}_3$ SOLUTIONS CONTAINED IN GRAPHITE]] - 1972 - ORNL-TM-4056 - mentions: 1
+- [[../documents/ornl-4782.md|MOLTEN-SALT REACTOR PROGRAM]] - February 29, 1972 - ORNL-2474 - mentions: 3
+- [[../documents/ornl-4812.md|The Development Status of]] - August 1972 - ORNL-4812 - mentions: 4
+- [[../documents/ornl-4832.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1972 - ORNL-2474 - mentions: 3
+- [[../documents/ornl-tm-4079.md|![](images/855cc2ed184a91567893984f89ebdf95982fc65ad652fa8117011581a93d6c44.jpg)]] - 1973 - mentions: 1
+- [[../documents/nd-74-66.md|JAN 10 1975]] - January 31, 1973 - ND/71/66 - mentions: 1
+- [[../documents/ornl-tm-5325.md|Evaluation of Alternate Secondary (and Tertiary) Coolants for the Molten-Salt Breeder Reactor]] - September 1974 - mentions: 1
+- [[../documents/nas-ns-3060.md|NAS-NS-3060]] - December 1974 - NAS-NS-3060 - mentions: 2
+- [[../documents/ornl-tm-4804.md|A Method for Calculating the Steady-State Distribution of Tritium in a Molten-Salt Breeder Reactor Plant]] - 1975 - ORNL-TM-4804 - mentions: 2
+- [[../documents/ornl-5047.md|Molten-Salt]] - February 28, 1975 - ORNL-5047 - mentions: 1
+- [[../documents/ornl-5078.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1975 - ORNL-5078 - mentions: 1
+- [[../documents/ornl-tm-5104.md|A Study of Tritium Removal from Fusion Reactor Blankets of Molten Salt and Lithium-Aluminum]] - 1976 - mentions: 1
+- [[../documents/ornl-tm-4210.md|ORNL/TM-4210]] - 1976 - mentions: 1
+- [[../documents/ornl-tm-7207.md|ORNL/TM-7207]] - October 28, 1976 - mentions: 1
+- [[../documents/ornl-tm-5335.md|ORNL/TM-5335]] - November 10, 1976 - mentions: 1
+- [[../documents/images-10652bc25eb6df8c0ddac56a47db1e25893f70f982418b12be8b35c5b1a93461-jpg.md|![](images/10652bc25eb6df8c0ddac56a47db1e25893f70f982418b12be8b35c5b1a93461.jpg)]] - 1979 - mentions: 3
+- [[../documents/nas-ns-3004.md|National]] - January 1982 - mentions: 4
+- [[../documents/ornl-2106.md|![](images/7d78504371385c303da41eecaec5b71388fca55a9dfe800a12dc0dee2de169f1.jpg)]] - ORNL-2012 - mentions: 50
+- [[../documents/chapter-13.md|CHAPTER 13]] - mentions: 3
+- [[../documents/chapter-22.md|CHAPTER 22]] - mentions: 1
+- [[../documents/ornl-tm-1853.md|OAK RIDGE NATIONAL LABORATORY]] - ORNL-TM-1853 - mentions: 10
+- [[../documents/ornl-2192.md|ORNL-2192]] - ORNL-2192 - mentions: 42
+- [[../documents/parti-index.md|PARTI INDEX]] - mentions: 3
+- [[../documents/university-of-california.md|UNIVERSITY OF CALIFORNIA]] - mentions: 1

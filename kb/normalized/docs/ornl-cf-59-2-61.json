@@ -1,0 +1,455 @@
+{
+  "authors": [
+    "Operated By",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "UCC",
+    "POST OFFICE BOX X",
+    "OAK RIDGE",
+    "TENNESSEE",
+    "EXTERNAL TRANSMITTAL AUTHORIZATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-59-2-61.jsonl",
+  "date_text": "April 1, 1959",
+  "doc_id": "ornl-cf-59-2-61",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          126,
+          171,
+          183,
+          187,
+          189
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          76,
+          207,
+          218
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          120
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          218
+        ],
+        "name": "niobium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          7,
+          21,
+          76,
+          213,
+          224
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          249
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          11
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 15,
+        "line_hits": [
+          41,
+          43,
+          66,
+          70,
+          72,
+          76,
+          101,
+          118,
+          122,
+          161,
+          167,
+          171,
+          173,
+          183,
+          220
+        ],
+        "name": "ARE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          62
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          62
+        ],
+        "name": "Fluid Fuel Reactors"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          23
+        ],
+        "name": "ORNL Central Files"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 36,
+        "line_hits": [
+          41,
+          43,
+          45,
+          78,
+          82,
+          89,
+          91,
+          97,
+          99,
+          101,
+          106,
+          108,
+          116,
+          118,
+          120,
+          122,
+          129,
+          131,
+          133,
+          135,
+          137,
+          139,
+          145,
+          147,
+          151,
+          161,
+          167,
+          175,
+          177,
+          187,
+          193,
+          199,
+          201,
+          207,
+          218,
+          220
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          137,
+          139,
+          141,
+          147,
+          177
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          66,
+          76,
+          207,
+          218,
+          220
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          207,
+          218,
+          220
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          207,
+          218,
+          220
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          62,
+          205
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          66
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          66
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "908e49ff52173de73027bc5e12980a5643b40893a5d788627d708c7e14487b4a",
+  "markdown_path": "pdf/ORNL-CF-59-2-61/ORNL-CF-59-2-61/hybrid_ocr/ORNL-CF-59-2-61.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 28,
+  "sections": [
+    {
+      "anchor": "unclassified",
+      "end_line": 6,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 10,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 12,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "ucc",
+      "end_line": 14,
+      "heading": "UCC",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "post-office-box-x",
+      "end_line": 16,
+      "heading": "Post Office Box X",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-tennessee",
+      "end_line": 18,
+      "heading": "Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "external-transmittal-authorization",
+      "end_line": 20,
+      "heading": "External Transmittal Authorization",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 22,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "central-files-number",
+      "end_line": 28,
+      "heading": "Central Files Number",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "copy-no-40",
+      "end_line": 38,
+      "heading": "Copy No. 40",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 48,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "notice",
+      "end_line": 50,
+      "heading": "Notice",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 59,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 63,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "molten-salt-reactor-description",
+      "end_line": 73,
+      "heading": "MOLTEN SALT REACTOR DESCRIPTION",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "fluoride-volatility-process-for-msr-fuel",
+      "end_line": 123,
+      "heading": "FLUORIDE VOLATILITY PROCESS FOR MSR FUEL",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "fission-product-decontamination-in-the-hf-solution-process",
+      "end_line": 162,
+      "heading": "FISSION PRODUCT DECONTAMINATION IN THE HF SOLUTION PROCESS",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "solubilities-of-heavy-elements-in-hf",
+      "end_line": 184,
+      "heading": "SOLUBILITIES OF HEAVY ELEMENTS IN HF",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "solubility-of-corrosion-product-flucrides-in-hf-solvent",
+      "end_line": 190,
+      "heading": "SOLUBILITY OF CORROSION PRODUCT FLUCRIDES IN HF SOLVENT",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "recovery-of-salt-from-solution",
+      "end_line": 194,
+      "heading": "RECOVERY OF SALT FROM SOLUTION",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "process-flowsheet-for-reactor-processing",
+      "end_line": 202,
+      "heading": "PROCESS FLOWSHEET FOR REACTOR PROCESSING",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "high-temperature-processing",
+      "end_line": 210,
+      "heading": "HIGH-TEMPERATURE PROCESSING",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 212,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 211
+    },
+    {
+      "anchor": "ornl-lr-dwg-32747-r",
+      "end_line": 221,
+      "heading": "Ornl-Lr-Dwg 32747-R",
+      "level": 2,
+      "start_line": 213
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 225,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "second-issue",
+      "end_line": 227,
+      "heading": "SECOND ISSUE",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 248,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "40-54-tise-aec",
+      "end_line": 249,
+      "heading": "40-54. Tise, Aec",
+      "level": 2,
+      "start_line": 249
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-59-2-61",
+  "tables": [],
+  "title": "UNCLASSIFIED",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

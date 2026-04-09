@@ -1,0 +1,870 @@
+{
+  "authors": [
+    "CENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION",
+    "R.J.Kedl",
+    "A. Houtzeel"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4069.jsonl",
+  "date_text": "1967",
+  "doc_id": "ornl-4069",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 104,
+        "line_hits": [
+          110,
+          132,
+          151,
+          161,
+          169,
+          175,
+          191,
+          196,
+          198,
+          201,
+          205,
+          231,
+          233,
+          241,
+          247,
+          293,
+          294,
+          323,
+          341,
+          350,
+          355,
+          357,
+          366,
+          368,
+          371,
+          433,
+          435,
+          437,
+          439,
+          445,
+          447,
+          449,
+          451,
+          495,
+          507,
+          509,
+          521,
+          523,
+          526,
+          528,
+          530,
+          532,
+          578,
+          620,
+          622,
+          640,
+          652,
+          670,
+          672,
+          684
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          175
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          175
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 42,
+        "line_hits": [
+          106,
+          161,
+          175,
+          177,
+          182,
+          185,
+          187,
+          235,
+          237,
+          239,
+          247,
+          249,
+          260,
+          280,
+          282,
+          295,
+          296,
+          297,
+          301,
+          323,
+          341,
+          355,
+          357,
+          366,
+          375,
+          377,
+          381,
+          387,
+          423,
+          425,
+          427,
+          731,
+          733,
+          809,
+          977,
+          1016,
+          1020,
+          1110,
+          1120,
+          1349,
+          1356,
+          1390
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          175,
+          180,
+          182,
+          323,
+          335,
+          674,
+          731,
+          746,
+          752,
+          764,
+          1018,
+          1020,
+          1124,
+          1356,
+          1358
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          219,
+          247,
+          260,
+          280,
+          284,
+          301,
+          308,
+          346,
+          387,
+          748
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1016
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          191
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          175
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          282
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 18,
+        "line_hits": [
+          11,
+          23,
+          43,
+          74,
+          203,
+          258,
+          328,
+          1071,
+          1072,
+          1073,
+          1074,
+          1075,
+          1076,
+          1077,
+          1080,
+          1081,
+          1085,
+          1092
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          51,
+          84,
+          1071,
+          1072,
+          1073,
+          1074,
+          1085,
+          1441,
+          1442,
+          1443,
+          1445
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          47,
+          80
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1
+        ],
+        "name": "Lockheed Martin"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 47,
+        "line_hits": [
+          17,
+          68,
+          92,
+          114,
+          140,
+          142,
+          150,
+          155,
+          161,
+          163,
+          165,
+          167,
+          171,
+          173,
+          175,
+          180,
+          185,
+          196,
+          211,
+          247,
+          727,
+          735,
+          739,
+          753,
+          758,
+          951,
+          957,
+          959,
+          981,
+          989,
+          1000,
+          1006,
+          1016,
+          1020,
+          1036,
+          1041,
+          1057,
+          1060,
+          1063,
+          1067,
+          1071,
+          1074,
+          1075,
+          1077,
+          1080,
+          1085,
+          1102
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 40,
+        "line_hits": [
+          161,
+          163,
+          167,
+          169,
+          175,
+          182,
+          196,
+          205,
+          211,
+          241,
+          247,
+          282,
+          284,
+          323,
+          333,
+          341,
+          355,
+          389,
+          431,
+          530,
+          684,
+          727,
+          739,
+          748,
+          783,
+          935,
+          945,
+          961,
+          979,
+          993,
+          1014,
+          1016,
+          1024,
+          1049,
+          1051,
+          1057,
+          1059,
+          1067,
+          1288,
+          1355
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "70d83df0b076ed9518b599d220942ac4575a5325ecdc387def3852e0c961ad2f",
+  "markdown_path": "pdf/ORNL-4069/ORNL-4069/hybrid_ocr/ORNL-4069.md",
+  "report_number": "ORNL-4069",
+  "report_numbers": [
+    "ORNL-4069"
+  ],
+  "report_series": null,
+  "section_count": 69,
+  "sections": [
+    {
+      "anchor": "lockheed-martin-energy-research-libraries",
+      "end_line": 6,
+      "heading": "Lockheed Martin Energy Research Libraries",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 8,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 10,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "ornl-4069",
+      "end_line": 14,
+      "heading": "Ornl-4069",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "development-of-a-model-for-computing",
+      "end_line": 22,
+      "heading": "Development Of A Model For Computing",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 26,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 28,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 30,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 38,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "ucn-7969",
+      "end_line": 42,
+      "heading": "Ucn-7969",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 46,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 50,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 54,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 71,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "june-1967",
+      "end_line": 73,
+      "heading": "June 1967",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 79,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 83,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 85,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "contents",
+      "end_line": 87,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "page",
+      "end_line": 154,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "development-of-a-model-for-computing-135-mathrm-xe-migration-in-the-msre",
+      "end_line": 158,
+      "heading": "DEVELOPMENT OF A MODEL FOR COMPUTING $^{135}\\mathrm{Xe}$ MIGRATION IN THE MSRE",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 172,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "description-of-the-msre",
+      "end_line": 202,
+      "heading": "DESCRIPTION OF THE MSRE",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "ornl-lr-dwg-56874-r",
+      "end_line": 206,
+      "heading": "Ornl-Lr-Dwg 56874 R",
+      "level": 2,
+      "start_line": 203
+    },
+    {
+      "anchor": "krypto-85-experiment",
+      "end_line": 208,
+      "heading": "Krypto-85 Experiment",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "description-of-the-problem",
+      "end_line": 244,
+      "heading": "Description of the Problem",
+      "level": 1,
+      "start_line": 209
+    },
+    {
+      "anchor": "description-of-the-experiment",
+      "end_line": 277,
+      "heading": "Description of the Experiment",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "procedure-and-description-of-runs",
+      "end_line": 287,
+      "heading": "Procedure and Description of Runs",
+      "level": 1,
+      "start_line": 278
+    },
+    {
+      "anchor": "run-no",
+      "end_line": 289,
+      "heading": "Run No.",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "objective",
+      "end_line": 320,
+      "heading": "Objective",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "general-approach",
+      "end_line": 327,
+      "heading": "General Approach",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "ornl-dwg-67-1962",
+      "end_line": 374,
+      "heading": "Ornl-Dwg 67-1962",
+      "level": 2,
+      "start_line": 328
+    },
+    {
+      "anchor": "pump-bowl-dynamics",
+      "end_line": 428,
+      "heading": "Pump Bowl Dynamics",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "xenon-stripper-efficiency",
+      "end_line": 432,
+      "heading": "Xenon Stripper Efficiency",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "mass-transfer-to-graphite",
+      "end_line": 728,
+      "heading": "Mass Transfer to Graphite",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "capacity-considerations",
+      "end_line": 734,
+      "heading": "Capacity Considerations",
+      "level": 1,
+      "start_line": 729
+    },
+    {
+      "anchor": "xenon-135-poisoning-in-the-msre",
+      "end_line": 736,
+      "heading": "XENON-135 POISONING IN THE MSRE",
+      "level": 1,
+      "start_line": 735
+    },
+    {
+      "anchor": "general-discussion",
+      "end_line": 740,
+      "heading": "General Discussion",
+      "level": 1,
+      "start_line": 737
+    },
+    {
+      "anchor": "dissolved-xenon-source-terms-and-considerations",
+      "end_line": 749,
+      "heading": "Dissolved Xenon Source Terms and Considerations",
+      "level": 1,
+      "start_line": 741
+    },
+    {
+      "anchor": "dissolved-xenon-sink-terms-and-considerations",
+      "end_line": 761,
+      "heading": "Dissolved Xenon Sink Terms and Considerations",
+      "level": 1,
+      "start_line": 750
+    },
+    {
+      "anchor": "other-assumptions-and-considerations",
+      "end_line": 784,
+      "heading": "Other Assumptions and Considerations",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "xenon-135-generation-rate",
+      "end_line": 788,
+      "heading": "Xenon-135 Generation Rate",
+      "level": 1,
+      "start_line": 785
+    },
+    {
+      "anchor": "xenon-135-decay-rate-in-salt",
+      "end_line": 796,
+      "heading": "Xenon-135 Decay Rate in Salt",
+      "level": 1,
+      "start_line": 789
+    },
+    {
+      "anchor": "xenon-135-burnup-rate-in-salt",
+      "end_line": 804,
+      "heading": "Xenon-135 Burnup Rate in Salt",
+      "level": 1,
+      "start_line": 797
+    },
+    {
+      "anchor": "xenon-135-stripping-rate",
+      "end_line": 814,
+      "heading": "Xenon-135 Stripping Rate",
+      "level": 1,
+      "start_line": 805
+    },
+    {
+      "anchor": "xenon-135-migration-to-graphite",
+      "end_line": 926,
+      "heading": "Xenon-135 Migration to Graphite",
+      "level": 1,
+      "start_line": 815
+    },
+    {
+      "anchor": "xenon-135-concentration-dissolved-in-salt",
+      "end_line": 936,
+      "heading": "Xenon-135 Concentration Dissolved in Salt",
+      "level": 1,
+      "start_line": 927
+    },
+    {
+      "anchor": "xenon-135-poisoning-calculations",
+      "end_line": 1052,
+      "heading": "Xenon-135 Poisoning Calculations",
+      "level": 1,
+      "start_line": 937
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 1064,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 1053
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 1068,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 1065
+    },
+    {
+      "anchor": "references",
+      "end_line": 1095,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1069
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 1099,
+      "heading": "Appendices",
+      "level": 2,
+      "start_line": 1096
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1101,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 1100
+    },
+    {
+      "anchor": "msre-parameters",
+      "end_line": 1103,
+      "heading": "MSRE PARAMETERS",
+      "level": 1,
+      "start_line": 1102
+    },
+    {
+      "anchor": "general",
+      "end_line": 1125,
+      "heading": "General",
+      "level": 1,
+      "start_line": 1104
+    },
+    {
+      "anchor": "graphite",
+      "end_line": 1151,
+      "heading": "Graphite",
+      "level": 1,
+      "start_line": 1126
+    },
+    {
+      "anchor": "fuel-salt",
+      "end_line": 1175,
+      "heading": "Fuel Salt",
+      "level": 1,
+      "start_line": 1152
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1177,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 1176
+    },
+    {
+      "anchor": "salt-to-graphite-coupling",
+      "end_line": 1283,
+      "heading": "SALT-TO-GRAPHITE COUPLING",
+      "level": 1,
+      "start_line": 1178
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 1285,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 1284
+    },
+    {
+      "anchor": "theoretical-mass-transfer-coefficients",
+      "end_line": 1344,
+      "heading": "THEORETICAL MASS TRANSFER COEFFICIENTS",
+      "level": 1,
+      "start_line": 1286
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 1346,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 1345
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 1359,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 1347
+    },
+    {
+      "anchor": "superscripts",
+      "end_line": 1365,
+      "heading": "Superscripts",
+      "level": 1,
+      "start_line": 1360
+    },
+    {
+      "anchor": "235u",
+      "end_line": 1375,
+      "heading": "235U",
+      "level": 2,
+      "start_line": 1366
+    },
+    {
+      "anchor": "subscripts",
+      "end_line": 1395,
+      "heading": "Subscripts",
+      "level": 1,
+      "start_line": 1376
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1438,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 1396
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1447,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1439
+    }
+  ],
+  "source_dir": "pdf/ORNL-4069",
+  "tables": [],
+  "title": "LOCKHEED MARTIN ENERGY RESEARCH LIBRARIES",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

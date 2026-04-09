@@ -1,0 +1,1217 @@
+{
+  "authors": [
+    "CONCEPTUAL SYSTEM DESIGN DESCRIPTION",
+    "SALT PUMP TEST STAND",
+    "Molten Salt Breeder Experiment",
+    "A. G. Grindell",
+    "C. K. McGlothlan"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2643.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2643",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          294,
+          445,
+          878,
+          880
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          445,
+          910
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          669,
+          681
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          294,
+          878
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          894
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 104,
+        "line_hits": [
+          22,
+          78,
+          147,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          228,
+          230,
+          234,
+          236,
+          255,
+          259,
+          263,
+          265,
+          267,
+          269,
+          272,
+          275,
+          278,
+          280,
+          282,
+          284,
+          292,
+          298,
+          302,
+          304,
+          308,
+          310,
+          324,
+          326,
+          328,
+          330,
+          332,
+          342,
+          358,
+          362,
+          368,
+          370,
+          374,
+          376,
+          378,
+          386,
+          390,
+          392,
+          400,
+          404,
+          406
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 54,
+        "line_hits": [
+          22,
+          216,
+          229,
+          230,
+          236,
+          253,
+          255,
+          259,
+          263,
+          265,
+          267,
+          269,
+          278,
+          280,
+          282,
+          284,
+          304,
+          308,
+          320,
+          324,
+          332,
+          362,
+          364,
+          366,
+          368,
+          376,
+          386,
+          390,
+          392,
+          406,
+          423,
+          458,
+          492,
+          553,
+          581,
+          587,
+          591,
+          595,
+          599,
+          601,
+          603,
+          620,
+          624,
+          635,
+          637,
+          650,
+          652,
+          656,
+          683,
+          691
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          120,
+          218,
+          269,
+          292,
+          298,
+          366,
+          404,
+          413,
+          460,
+          462,
+          474,
+          478,
+          514,
+          537,
+          553,
+          664,
+          665,
+          894,
+          900
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          253,
+          292,
+          376,
+          400,
+          406,
+          408,
+          419,
+          421,
+          460,
+          537,
+          541,
+          551,
+          624,
+          677
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          294,
+          302,
+          419,
+          421,
+          500,
+          516,
+          553,
+          591,
+          624,
+          639,
+          650,
+          900
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          894,
+          900
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          269
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          608
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 14,
+        "line_hits": [
+          12,
+          34,
+          240,
+          415,
+          567,
+          707,
+          711,
+          715,
+          768,
+          850,
+          910,
+          916,
+          1015,
+          1016
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          44,
+          1017,
+          1018,
+          1019,
+          1020
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          40
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 36,
+        "line_hits": [
+          257,
+          263,
+          267,
+          358,
+          362,
+          378,
+          386,
+          390,
+          392,
+          404,
+          406,
+          423,
+          425,
+          427,
+          462,
+          468,
+          482,
+          492,
+          504,
+          520,
+          541,
+          553,
+          567,
+          595,
+          665,
+          703,
+          707,
+          711,
+          721,
+          750,
+          774,
+          776,
+          792,
+          805,
+          817,
+          832
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 35,
+        "line_hits": [
+          26,
+          148,
+          216,
+          228,
+          229,
+          231,
+          232,
+          253,
+          255,
+          263,
+          265,
+          267,
+          269,
+          278,
+          282,
+          284,
+          320,
+          324,
+          328,
+          330,
+          362,
+          364,
+          378,
+          390,
+          392,
+          404,
+          427,
+          433,
+          437,
+          581,
+          618,
+          620,
+          631,
+          656,
+          732
+        ],
+        "name": "MSBE"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          390,
+          419,
+          421,
+          427,
+          581,
+          707,
+          711,
+          721,
+          723,
+          874
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          255,
+          435
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          435
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          439
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          435
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          435
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          255
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e08283aa595b686ca1166ace51f9064b981dc18b42d71be7ce936b8d5524e20d",
+  "markdown_path": "pdf/ORNL-TM-2643/ORNL-TM-2643/hybrid_ocr/ORNL-TM-2643.md",
+  "report_number": "ORNL-TM-2643",
+  "report_numbers": [
+    "ORNL-TM-2643"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 107,
+  "sections": [
+    {
+      "anchor": "legal-notice",
+      "end_line": 11,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-tm-2643",
+      "end_line": 15,
+      "heading": "Ornl-Tm-2643",
+      "level": 2,
+      "start_line": 12
+    },
+    {
+      "anchor": "reactor-division",
+      "end_line": 17,
+      "heading": "Reactor Division",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "conceptual-system-design-description",
+      "end_line": 21,
+      "heading": "Conceptual System Design Description",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "salt-pump-test-stand",
+      "end_line": 31,
+      "heading": "Salt Pump Test Stand",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "august-1969",
+      "end_line": 33,
+      "heading": "August 1969",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 39,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 43,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 45,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "contents",
+      "end_line": 47,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "page",
+      "end_line": 199,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 209,
+      "heading": "APPENDICES",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 211,
+      "heading": "List of Figures",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "figure",
+      "end_line": 221,
+      "heading": "Figure",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 223,
+      "heading": "List of Tables",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "table",
+      "end_line": 225,
+      "heading": "Table",
+      "level": 1,
+      "start_line": 224
+    },
+    {
+      "anchor": "page",
+      "end_line": 237,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "list-of-contributors",
+      "end_line": 250,
+      "heading": "List of Contributors",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 260,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "1-1-system-function",
+      "end_line": 285,
+      "heading": "1.1 System Function",
+      "level": 1,
+      "start_line": 261
+    },
+    {
+      "anchor": "1-2-summary-description-of-the-system",
+      "end_line": 287,
+      "heading": "1.2 Summary Description of the System",
+      "level": 1,
+      "start_line": 286
+    },
+    {
+      "anchor": "1-2-1-salt-circulating-system",
+      "end_line": 295,
+      "heading": "1.2.1 Salt Circulating System",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "1-2-2-heat-removal-system",
+      "end_line": 299,
+      "heading": "1.2.2 Heat Removal System",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "1-2-3-utility-systems",
+      "end_line": 305,
+      "heading": "1.2.3 Utility Systems",
+      "level": 1,
+      "start_line": 300
+    },
+    {
+      "anchor": "1-2-4-instrumentation-and-controls",
+      "end_line": 313,
+      "heading": "1.2.4 Instrumentation and Controls",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "1-2-5-safety-features",
+      "end_line": 317,
+      "heading": "1.2.5 Safety Features",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "1-3-system-design-requirements",
+      "end_line": 321,
+      "heading": "1.3 System Design Requirements",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "1-3-1-function",
+      "end_line": 325,
+      "heading": "1.3.1 Function",
+      "level": 1,
+      "start_line": 322
+    },
+    {
+      "anchor": "1-3-2-pump-size",
+      "end_line": 335,
+      "heading": "1.3.2 Pump Size",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "1-3-3-allowable-stress-for-ni-mo-cr-alloy",
+      "end_line": 339,
+      "heading": "1.3.3 Allowable Stress for Ni-Mo-Cr Alloy",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "1-3-4-instrumentation-and-controls",
+      "end_line": 343,
+      "heading": "1.3.4 Instrumentation and Controls",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "1-3-5-engineered-safety-features",
+      "end_line": 351,
+      "heading": "1.3.5 Engineered Safety Features",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "1-3-6-control-of-effluents",
+      "end_line": 355,
+      "heading": "1.3.6 Control of Effluents",
+      "level": 1,
+      "start_line": 352
+    },
+    {
+      "anchor": "1-3-7-quality-standards-and-assurance",
+      "end_line": 359,
+      "heading": "1.3.7 Quality Standards and Assurance",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "1-3-8-test-stand-parameters",
+      "end_line": 371,
+      "heading": "1.3.8 Test Stand Parameters",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "1-3-9-thermal-transients",
+      "end_line": 379,
+      "heading": "1.3.9 Thermal Transients",
+      "level": 1,
+      "start_line": 372
+    },
+    {
+      "anchor": "1-3-10-codes-and-standards",
+      "end_line": 383,
+      "heading": "1.3.10 Codes and Standards",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "2-0-detailed-description-of-system",
+      "end_line": 387,
+      "heading": "2.0 Detailed Description of System",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "2-1-test-section",
+      "end_line": 395,
+      "heading": "2.1 Test Section",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "2-2-salt-system",
+      "end_line": 397,
+      "heading": "2.2 Salt System",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "2-2-1-function",
+      "end_line": 401,
+      "heading": "2.2.1 Function",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "2-2-2-description",
+      "end_line": 449,
+      "heading": "2.2.2 Description",
+      "level": 1,
+      "start_line": 402
+    },
+    {
+      "anchor": "2-3-heat-removal-system",
+      "end_line": 451,
+      "heading": "2.3 Heat Removal System",
+      "level": 1,
+      "start_line": 450
+    },
+    {
+      "anchor": "2-3-1-function",
+      "end_line": 455,
+      "heading": "2.3.1 Function",
+      "level": 1,
+      "start_line": 452
+    },
+    {
+      "anchor": "2-3-2-description",
+      "end_line": 476,
+      "heading": "2.3.2 Description",
+      "level": 1,
+      "start_line": 456
+    },
+    {
+      "anchor": "not-to-scale",
+      "end_line": 489,
+      "heading": "Not To Scale",
+      "level": 2,
+      "start_line": 477
+    },
+    {
+      "anchor": "2-4-utility-systems",
+      "end_line": 493,
+      "heading": "2.4 Utility Systems",
+      "level": 1,
+      "start_line": 490
+    },
+    {
+      "anchor": "2-4-1-inert-gas",
+      "end_line": 497,
+      "heading": "2.4.1 Inert Gas",
+      "level": 1,
+      "start_line": 494
+    },
+    {
+      "anchor": "2-4-2-instrument-air",
+      "end_line": 501,
+      "heading": "2.4.2 Instrument Air",
+      "level": 1,
+      "start_line": 498
+    },
+    {
+      "anchor": "2-4-3-electrical",
+      "end_line": 517,
+      "heading": "2.4.3 Electrical",
+      "level": 1,
+      "start_line": 502
+    },
+    {
+      "anchor": "2-5-site-location",
+      "end_line": 530,
+      "heading": "2.5 Site Location",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "2-6-instrumentation-and-controls",
+      "end_line": 534,
+      "heading": "2.6 Instrumentation and Controls",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "2-6-1-temperature-measurement-and-control",
+      "end_line": 538,
+      "heading": "2.6.1 Temperature Measurement and Control",
+      "level": 1,
+      "start_line": 535
+    },
+    {
+      "anchor": "2-6-2-pressure-measurement-and-control",
+      "end_line": 548,
+      "heading": "2.6.2 Pressure Measurement and Control",
+      "level": 1,
+      "start_line": 539
+    },
+    {
+      "anchor": "2-6-3-flow-measurement",
+      "end_line": 554,
+      "heading": "2.6.3 Flow Measurement",
+      "level": 1,
+      "start_line": 549
+    },
+    {
+      "anchor": "2-6-4-level-measurements",
+      "end_line": 558,
+      "heading": "2.6.4 Level Measurements",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "2-6-5-alarms-and-interlocks",
+      "end_line": 564,
+      "heading": "2.6.5 Alarms and Interlocks",
+      "level": 1,
+      "start_line": 559
+    },
+    {
+      "anchor": "2-6-6-data-acquisition-computer-system",
+      "end_line": 578,
+      "heading": "2.6.6 Data Acquisition Computer System",
+      "level": 1,
+      "start_line": 565
+    },
+    {
+      "anchor": "3-0-principles-of-operation",
+      "end_line": 582,
+      "heading": "3.0 Principles of Operation",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "3-1-startup",
+      "end_line": 592,
+      "heading": "3.1 Startup",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "3-2-test-operation",
+      "end_line": 596,
+      "heading": "3.2 Test Operation",
+      "level": 1,
+      "start_line": 593
+    },
+    {
+      "anchor": "3-2-1-prototype-pump",
+      "end_line": 617,
+      "heading": "3.2.1 Prototype Pump",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "3-2-2-etu-and-msbe-pumps",
+      "end_line": 621,
+      "heading": "3.2.2 ETU and MSBE Pumps",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "3-3-shutdown",
+      "end_line": 625,
+      "heading": "3.3 Shutdown",
+      "level": 1,
+      "start_line": 622
+    },
+    {
+      "anchor": "3-4-special-or-infrequent-operation",
+      "end_line": 632,
+      "heading": "3.4 Special or Infrequent Operation",
+      "level": 1,
+      "start_line": 626
+    },
+    {
+      "anchor": "3-5-equipment-safety",
+      "end_line": 643,
+      "heading": "3.5 Equipment Safety",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "4-0-safety-precautions",
+      "end_line": 647,
+      "heading": "4.0 Safety Precautions",
+      "level": 1,
+      "start_line": 644
+    },
+    {
+      "anchor": "4-1-loss-of-normal-electrical-power",
+      "end_line": 653,
+      "heading": "4.1 Loss of Normal Electrical Power",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "4-2-incorrect-operating-procedure",
+      "end_line": 659,
+      "heading": "4.2 Incorrect Operating Procedure",
+      "level": 1,
+      "start_line": 654
+    },
+    {
+      "anchor": "consequences",
+      "end_line": 666,
+      "heading": "Consequences",
+      "level": 1,
+      "start_line": 660
+    },
+    {
+      "anchor": "protection-required",
+      "end_line": 672,
+      "heading": "Protection Required",
+      "level": 1,
+      "start_line": 667
+    },
+    {
+      "anchor": "preventive-measures",
+      "end_line": 686,
+      "heading": "Preventive Measures",
+      "level": 1,
+      "start_line": 673
+    },
+    {
+      "anchor": "5-0-maintenance",
+      "end_line": 688,
+      "heading": "5.0 Maintenance",
+      "level": 1,
+      "start_line": 687
+    },
+    {
+      "anchor": "5-1-maintenance-philosophy",
+      "end_line": 692,
+      "heading": "5.1 Maintenance Philosophy",
+      "level": 1,
+      "start_line": 689
+    },
+    {
+      "anchor": "5-2-preventive-maintenance",
+      "end_line": 696,
+      "heading": "5.2 Preventive Maintenance",
+      "level": 1,
+      "start_line": 693
+    },
+    {
+      "anchor": "6-0-standards-and-quality-assurance",
+      "end_line": 698,
+      "heading": "6.0 Standards and Quality Assurance",
+      "level": 1,
+      "start_line": 697
+    },
+    {
+      "anchor": "6-1-codes-and-standards",
+      "end_line": 700,
+      "heading": "6.1 Codes and Standards",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "6-1-1-design",
+      "end_line": 704,
+      "heading": "6.1.1 Design",
+      "level": 1,
+      "start_line": 701
+    },
+    {
+      "anchor": "6-1-2-materials",
+      "end_line": 708,
+      "heading": "6.1.2 Materials",
+      "level": 1,
+      "start_line": 705
+    },
+    {
+      "anchor": "6-1-3-fabrication-and-installation",
+      "end_line": 712,
+      "heading": "6.1.3 Fabrication and Installation",
+      "level": 1,
+      "start_line": 709
+    },
+    {
+      "anchor": "6-1-4-operations",
+      "end_line": 716,
+      "heading": "6.1.4 Operations",
+      "level": 1,
+      "start_line": 713
+    },
+    {
+      "anchor": "6-2-quality-assurance",
+      "end_line": 726,
+      "heading": "6.2 Quality Assurance",
+      "level": 1,
+      "start_line": 717
+    },
+    {
+      "anchor": "6-3-quality-assurance-program",
+      "end_line": 733,
+      "heading": "6.3 Quality Assurance Program",
+      "level": 1,
+      "start_line": 727
+    },
+    {
+      "anchor": "6-4-quality-assurance-organization",
+      "end_line": 737,
+      "heading": "6.4 Quality Assurance Organization",
+      "level": 1,
+      "start_line": 734
+    },
+    {
+      "anchor": "6-5-quality-assurance-planning",
+      "end_line": 741,
+      "heading": "6.5 Quality Assurance Planning",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "6-5-1-fabrication-and-assembly-work-plan",
+      "end_line": 745,
+      "heading": "6.5.1 Fabrication and Assembly Work Plan",
+      "level": 1,
+      "start_line": 742
+    },
+    {
+      "anchor": "6-5-2-quality-assurance-program-plan",
+      "end_line": 759,
+      "heading": "6.5.2 Quality Assurance Program Plan",
+      "level": 1,
+      "start_line": 746
+    },
+    {
+      "anchor": "6-5-3-evaluation-and-updating-of-plans",
+      "end_line": 763,
+      "heading": "6.5.3 Evaluation and Updating of Plans",
+      "level": 1,
+      "start_line": 760
+    },
+    {
+      "anchor": "6-6-quality-assurance-requirements",
+      "end_line": 765,
+      "heading": "6.6 Quality Assurance Requirements",
+      "level": 1,
+      "start_line": 764
+    },
+    {
+      "anchor": "6-6-1-document-understanding",
+      "end_line": 771,
+      "heading": "6.6.1 Document Understanding",
+      "level": 1,
+      "start_line": 766
+    },
+    {
+      "anchor": "6-6-2-document-control",
+      "end_line": 779,
+      "heading": "6.6.2 Document Control",
+      "level": 1,
+      "start_line": 772
+    },
+    {
+      "anchor": "6-6-3-records",
+      "end_line": 785,
+      "heading": "6.6.3 Records",
+      "level": 1,
+      "start_line": 780
+    },
+    {
+      "anchor": "6-6-4-audit",
+      "end_line": 789,
+      "heading": "6.6.4 Audit",
+      "level": 1,
+      "start_line": 786
+    },
+    {
+      "anchor": "6-7-quality-control-requirements",
+      "end_line": 793,
+      "heading": "6.7 Quality Control Requirements",
+      "level": 1,
+      "start_line": 790
+    },
+    {
+      "anchor": "6-7-1-off-site-inspection-procedures",
+      "end_line": 802,
+      "heading": "6.7.1 Off-Site Inspection Procedures",
+      "level": 1,
+      "start_line": 794
+    },
+    {
+      "anchor": "6-7-2-nonconformance-control",
+      "end_line": 806,
+      "heading": "6.7.2 Nonconformance Control",
+      "level": 1,
+      "start_line": 803
+    },
+    {
+      "anchor": "6-7-3-interface-control",
+      "end_line": 810,
+      "heading": "6.7.3 Interface Control",
+      "level": 1,
+      "start_line": 807
+    },
+    {
+      "anchor": "6-7-4-inspection-and-test-equipment",
+      "end_line": 814,
+      "heading": "6.7.4 Inspection and Test Equipment",
+      "level": 1,
+      "start_line": 811
+    },
+    {
+      "anchor": "6-7-5-special-precautions",
+      "end_line": 820,
+      "heading": "6.7.5 Special Precautions",
+      "level": 1,
+      "start_line": 815
+    },
+    {
+      "anchor": "6-7-6-corrective-action-and-feedback",
+      "end_line": 827,
+      "heading": "6.7.6 Corrective Action and Feedback",
+      "level": 1,
+      "start_line": 821
+    },
+    {
+      "anchor": "6-7-7-procedures-relating-to-system-operation",
+      "end_line": 841,
+      "heading": "6.7.7 Procedures Relating to System Operation",
+      "level": 1,
+      "start_line": 828
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 889,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 842
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 895,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 890
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 913,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 896
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 915,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 914
+    },
+    {
+      "anchor": "ornl-tm-2643",
+      "end_line": 1010,
+      "heading": "Ornl-Tm-2643",
+      "level": 2,
+      "start_line": 916
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1020,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1011
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2643",
+  "tables": [],
+  "title": "LEGAL NOTICE",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

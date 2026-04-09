@@ -1,0 +1,451 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "M. J. Bell",
+    "LEGAL NOTICE",
+    "LONG RANGE PLANNING GROUP"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2970.jsonl",
+  "date_text": "January 1, 1975",
+  "doc_id": "ornl-tm-2970",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          92,
+          96
+        ],
+        "name": "drain tank"
+      }
+    ],
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          3,
+          13,
+          28,
+          46,
+          92,
+          196,
+          198,
+          199,
+          200,
+          201,
+          202,
+          210,
+          216
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          11,
+          56,
+          215,
+          226
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          52
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 35,
+        "line_hits": [
+          15,
+          36,
+          88,
+          92,
+          96,
+          98,
+          100,
+          102,
+          108,
+          110,
+          114,
+          115,
+          121,
+          123,
+          125,
+          127,
+          128,
+          130,
+          132,
+          134,
+          136,
+          137,
+          141,
+          145,
+          149,
+          151,
+          155,
+          156,
+          160,
+          161,
+          171,
+          172,
+          177,
+          183,
+          184
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          88,
+          92,
+          108,
+          165
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          202
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          112
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "bb12457f07c89ab805a89d436d43ffa3223da401dbdedfc6e4a30237e9ebc5c9",
+  "markdown_path": "pdf/ORNL-TM-2970/ORNL-TM-2970/hybrid_ocr/ORNL-TM-2970.md",
+  "report_number": "ORNL-TM-2970",
+  "report_numbers": [
+    "ORNL-TM-2970"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 42,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 10,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 12,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "ornl-tm-2970",
+      "end_line": 14,
+      "heading": "Ornl-Tm-2970",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "calculated-radioactivity-of-msre-fuel-salt",
+      "end_line": 18,
+      "heading": "Calculated Radioactivity Of Msre Fuel Salt",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 27,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "ornl-tm-2970",
+      "end_line": 31,
+      "heading": "Ornl-Tm-2970",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 33,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "long-range-planning-group",
+      "end_line": 35,
+      "heading": "Long Range Planning Group",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "calculated-radioactivity-of-msre-fuel-salt",
+      "end_line": 39,
+      "heading": "Calculated Radioactivity Of Msre Fuel Salt",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "may-1970",
+      "end_line": 41,
+      "heading": "May 1970",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 45,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 42
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 51,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 55,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 59,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "contents",
+      "end_line": 61,
+      "heading": "Contents",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 63,
+      "heading": "Abstract",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 65,
+      "heading": "Introduction",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "computational-procedure",
+      "end_line": 67,
+      "heading": "Computational Procedure",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "computational-results",
+      "end_line": 69,
+      "heading": "Computational Results",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "references",
+      "end_line": 85,
+      "heading": "References",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 89,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 93,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "computational-procedure",
+      "end_line": 105,
+      "heading": "COMPUTATIONAL PROCEDURE",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "computational-results",
+      "end_line": 114,
+      "heading": "COMPUTATIONAL RESULTS",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "msre-operation-with-235-u-fuel",
+      "end_line": 127,
+      "heading": "Msre Operation With 235 U Fuel",
+      "level": 2,
+      "start_line": 115
+    },
+    {
+      "anchor": "msre-operation-with-235-u-fuel",
+      "end_line": 136,
+      "heading": "Msre Operation With 235 U Fuel",
+      "level": 2,
+      "start_line": 128
+    },
+    {
+      "anchor": "msre-233-u-fuel-ccposition-after-purification",
+      "end_line": 140,
+      "heading": "Msre 233-U Fuel Ccposition After Purification",
+      "level": 2,
+      "start_line": 137
+    },
+    {
+      "anchor": "msre-operation-with-233-u-fuel",
+      "end_line": 142,
+      "heading": "Msre Operation With 233-U Fuel",
+      "level": 2,
+      "start_line": 141
+    },
+    {
+      "anchor": "power-4-18-mw-burnup-1387-mwd-flux-3-89e-12-n-cm-2-sec",
+      "end_line": 148,
+      "heading": "Power= 4.18 Mw Burnup= 1387. Mwd Flux= 3.89E 12 N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 143
+    },
+    {
+      "anchor": "msre-operation-with-233-u-fuel",
+      "end_line": 155,
+      "heading": "Msre Operation With 233-U Fuel",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "msre-operation-with-233-u-fuel",
+      "end_line": 160,
+      "heading": "Msre Operation With 233-U Fuel",
+      "level": 2,
+      "start_line": 156
+    },
+    {
+      "anchor": "msre-operation-with-233-u-fuel",
+      "end_line": 171,
+      "heading": "Msre Operation With 233-U Fuel",
+      "level": 2,
+      "start_line": 161
+    },
+    {
+      "anchor": "msre-operation-with-233-u-fuel",
+      "end_line": 172,
+      "heading": "Msre Operation With 233-U Fuel",
+      "level": 2,
+      "start_line": 172
+    },
+    {
+      "anchor": "power-4-18-mw-burnup-1387-mwd-flux-3-89e-12-n-cm-2-sec",
+      "end_line": 183,
+      "heading": "Power= 4.18 Mw Burnup= 1387. Mwd Flux= 3.89E 12 N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 173
+    },
+    {
+      "anchor": "msre-operation-with-233-u-fuel",
+      "end_line": 184,
+      "heading": "Msre Operation With 233-U Fuel",
+      "level": 2,
+      "start_line": 184
+    },
+    {
+      "anchor": "power-4-18-mw-burnup-1387-mwd-flux-3-09e-12-n-cm-2-sec",
+      "end_line": 185,
+      "heading": "Power= 4.18 Mw Burnup= 1387. Mwd Flux= 3.09E 12 N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 185
+    },
+    {
+      "anchor": "actinide-photon-release-rates-photons-sec",
+      "end_line": 189,
+      "heading": "Actinide Photon Release Rates, Photons/Sec",
+      "level": 2,
+      "start_line": 186
+    },
+    {
+      "anchor": "actinide-energy-release-rates-mev-watt-sec",
+      "end_line": 193,
+      "heading": "Actinide Energy Release Rates, Mev/Watt-Sec",
+      "level": 2,
+      "start_line": 190
+    },
+    {
+      "anchor": "references",
+      "end_line": 204,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 194
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 214,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "aec-oro",
+      "end_line": 235,
+      "heading": "Aec-Oro",
+      "level": 2,
+      "start_line": 215
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2970",
+  "tables": [],
+  "title": "![](images/d792525a59baad234215c09f8943cb91f0c5e36932191c52f08e780698085fa0.jpg)",
+  "topics": [
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "program-history",
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": []
+}

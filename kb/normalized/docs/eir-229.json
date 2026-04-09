@@ -1,0 +1,325 @@
+{
+  "authors": [
+    "J. Ligou",
+    "Reactor Physics Calculations"
+  ],
+  "claims_path": "kb/normalized/claims/eir-229.jsonl",
+  "date_text": "November 1972",
+  "doc_id": "eir-229",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 10,
+        "line_hits": [
+          24,
+          126,
+          129,
+          247,
+          249,
+          438,
+          442,
+          496,
+          500,
+          542
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          129
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          442
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 3,
+        "line_hits": [
+          129,
+          507,
+          511
+        ],
+        "name": "EIR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          520
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 34,
+        "line_hits": [
+          52,
+          54,
+          61,
+          71,
+          97,
+          107,
+          119,
+          123,
+          129,
+          131,
+          163,
+          177,
+          191,
+          207,
+          227,
+          237,
+          245,
+          265,
+          273,
+          289,
+          319,
+          343,
+          345,
+          371,
+          409,
+          468,
+          488,
+          492,
+          498,
+          500,
+          542,
+          548,
+          552,
+          568
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          507
+        ],
+        "name": "MCFR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 11,
+        "line_hits": [
+          3,
+          11,
+          30,
+          52,
+          67,
+          432,
+          488,
+          494,
+          507,
+          511,
+          512
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          466
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          466
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "679e27bb176e56e50b8129f6180de59ee220b151ae1fd8cb01b0395a304d0f26",
+  "markdown_path": "pdf/EIR-229/EIR-229/hybrid_ocr/EIR-229.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "eir-series",
+  "section_count": 22,
+  "sections": [
+    {
+      "anchor": "molten-chlorides-fast-breeder-reactor-reactor-physics-calculations",
+      "end_line": 10,
+      "heading": "MOLTEN CHLORIDES FAST BREEDER REACTOR Reactor Physics Calculations",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "molten-chlorides-fast-breeder-reactor",
+      "end_line": 49,
+      "heading": "Molten Chlorides Fast Breeder Reactor",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 68,
+      "heading": "1. Introduction",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "2-definition-of-the-proposed-reactor",
+      "end_line": 112,
+      "heading": "2. Definition of the Proposed Reactor",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "u238-6-4203-10-3",
+      "end_line": 120,
+      "heading": "U238 6.4203·10-3",
+      "level": 2,
+      "start_line": 113
+    },
+    {
+      "anchor": "3-cross-sections-and-calculational-methods",
+      "end_line": 182,
+      "heading": "3. Cross-sections and Calculational Methods",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "4-reference-calculations-for-spherical-geometry",
+      "end_line": 232,
+      "heading": "4. Reference Calculations for Spherical Geometry",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "5-parasitic-absorptions",
+      "end_line": 234,
+      "heading": "5. Parasitic Absorptions",
+      "level": 1,
+      "start_line": 233
+    },
+    {
+      "anchor": "5-1-chlorine",
+      "end_line": 246,
+      "heading": "5.1. Chlorine",
+      "level": 1,
+      "start_line": 235
+    },
+    {
+      "anchor": "5-2-molybdenum",
+      "end_line": 250,
+      "heading": "5.2. Molybdenum",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "5-3-vessel",
+      "end_line": 262,
+      "heading": "5.3. Vessel",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "6-void-and-temperature-coefficients",
+      "end_line": 270,
+      "heading": "6. Void and Temperature Coefficients",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "note",
+      "end_line": 316,
+      "heading": "Note:",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "7-buckling-search-and-blanket-savings",
+      "end_line": 378,
+      "heading": "7. Buckling Search and Blanket Savings",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "note",
+      "end_line": 410,
+      "heading": "Note:",
+      "level": 1,
+      "start_line": 379
+    },
+    {
+      "anchor": "table-iv",
+      "end_line": 431,
+      "heading": "Table IV",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "9-fast-flux-test-facility-using-molten-chlorides",
+      "end_line": 485,
+      "heading": "9. Fast Flux Test Facility Using Molten Chlorides",
+      "level": 1,
+      "start_line": 432
+    },
+    {
+      "anchor": "10-conclusions",
+      "end_line": 504,
+      "heading": "10. Conclusions",
+      "level": 1,
+      "start_line": 486
+    },
+    {
+      "anchor": "acknowledgement",
+      "end_line": 508,
+      "heading": "Acknowledgement",
+      "level": 1,
+      "start_line": 505
+    },
+    {
+      "anchor": "references",
+      "end_line": 523,
+      "heading": "References",
+      "level": 1,
+      "start_line": 509
+    },
+    {
+      "anchor": "appendix-1",
+      "end_line": 531,
+      "heading": "APPENDIX 1",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "appendix-2",
+      "end_line": 596,
+      "heading": "APPENDIX 2",
+      "level": 1,
+      "start_line": 532
+    }
+  ],
+  "source_dir": "pdf/EIR-229",
+  "tables": [],
+  "title": "Eidg. Institut für Reaktorforschung Warenlingen Schweiz",
+  "topics": [
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "authors": [
+    "D. B. Trauger",
+    "Editor",
+    "J. D. White",
+    "R. S. Booth",
+    "H. I. Bowers",
+    "R. B. Braid",
+    "R. A. Cantor"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-9780-v1.jsonl",
+  "date_text": "September 1986",
+  "doc_id": "ornl-tm-9780-v1",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          267
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          213,
+          231,
+          235
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          229,
+          249
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 17,
+        "line_hits": [
+          32,
+          87,
+          89,
+          485,
+          487,
+          536,
+          547,
+          550,
+          551,
+          553,
+          554,
+          556,
+          557,
+          561,
+          562,
+          563,
+          564
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          203,
+          425,
+          566
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          465
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          32
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 54,
+        "line_hits": [
+          83,
+          87,
+          91,
+          93,
+          95,
+          112,
+          114,
+          119,
+          125,
+          127,
+          171,
+          188,
+          198,
+          215,
+          221,
+          223,
+          233,
+          245,
+          247,
+          249,
+          255,
+          263,
+          267,
+          271,
+          281,
+          289,
+          291,
+          297,
+          301,
+          303,
+          305,
+          309,
+          313,
+          315,
+          324,
+          328,
+          333,
+          334,
+          337,
+          341,
+          351,
+          353,
+          357,
+          359,
+          363,
+          369,
+          376,
+          378,
+          382,
+          393
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "1da2319262e287ffd4e0585d96c908d5df2bd20738fddf601f1144955c9a50b6",
+  "markdown_path": "pdf/ORNL-TM-9780-V1/ORNL-TM-9780-V1/hybrid_ocr/ORNL-TM-9780-V1.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 54,
+  "sections": [
+    {
+      "anchor": "nuclear-power-options-viability-study",
+      "end_line": 2,
+      "heading": "NUCLEAR POWER OPTIONS VIABILITY STUDY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "volume-i-executive-summary",
+      "end_line": 35,
+      "heading": "VOLUME I, EXECUTIVE SUMMARY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "notice",
+      "end_line": 39,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "preface",
+      "end_line": 43,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "contents",
+      "end_line": 49,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 50,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "2-criteria-for-evaluation-of-concepts-2",
+      "end_line": 51,
+      "heading": "2. CRITERIA FOR EVALUATION OF CONCEPTS 2",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "3-concept-selection-and-classification-5",
+      "end_line": 52,
+      "heading": "3. CONCEPT SELECTION AND CLASSIFICATION 5",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "4-summary-of-findings-for-concepts-6",
+      "end_line": 54,
+      "heading": "4. SUMMARY OF FINDINGS FOR CONCEPTS 6",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "4-1-pius-6",
+      "end_line": 55,
+      "heading": "4.1 Pius. 6",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "4-2-small-advanced-bwr-7",
+      "end_line": 56,
+      "heading": "4.2 Small Advanced Bwr. 7",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "4-3-lmr-concepts-7",
+      "end_line": 57,
+      "heading": "4.3 Lmr Concepts. 7",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "4-4-modular-high-temperature-gas-cooled-reactor-mhtr-side-by-side-concept-9",
+      "end_line": 59,
+      "heading": "4.4 Modular High-Temperature Gas-Cooled Reactor (Mhtr) Side-By-Side Concept....9",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "5-summary-of-topical-findings-9",
+      "end_line": 61,
+      "heading": "5. SUMMARY OF TOPICAL FINDINGS 9",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "5-1-construction-10",
+      "end_line": 62,
+      "heading": "5.1 CONSTRUCTION 10",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "5-2-economics-11",
+      "end_line": 63,
+      "heading": "5.2 ECONOMICS 11",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "5-3-regulation-12",
+      "end_line": 64,
+      "heading": "5.3 Regulation. 12",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "5-4-safety-and-economic-risk-13",
+      "end_line": 65,
+      "heading": "5.4 Safety And Economic Risk. 13",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "5-5-nuclear-waste-transportation-and-disposal-14",
+      "end_line": 66,
+      "heading": "5.5 Nuclear Waste Transportation And Disposal....14",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "5-6-pilot-study-of-market-acceptance-of-new-nuclear-technologies-14",
+      "end_line": 74,
+      "heading": "5.6 PILOT STUDY OF MARKET ACCEPTANCE OF NEW NUCLEAR TECHNOLOGIES 14",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "6-acknowledgments-18",
+      "end_line": 75,
+      "heading": "6. Acknowledgments. 18",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "7-list-of-publications-related-to-npovs-20",
+      "end_line": 76,
+      "heading": "7. List Of Publications Related To Npovs. 20",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "8-references-21",
+      "end_line": 80,
+      "heading": "8. REFERENCES 21",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 84,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 109,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "2-criteria-for-evaluation-of-concepts",
+      "end_line": 189,
+      "heading": "2. CRITERIA FOR EVALUATION OF CONCEPTS",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "3-concept-selection-and-classification",
+      "end_line": 218,
+      "heading": "3. CONCEPT SELECTION AND CLASSIFICATION",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "4-summary-of-findings-for-concepts",
+      "end_line": 226,
+      "heading": "4. SUMMARY OF FINDINGS FOR CONCEPTS",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "4-1-pius",
+      "end_line": 236,
+      "heading": "4.1 PIUS",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "4-2-small-advanced-bwr",
+      "end_line": 242,
+      "heading": "4.2 SMALL ADVANCED BWR",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "4-3-lmr-concepts",
+      "end_line": 258,
+      "heading": "4.3 LMR CONCEPTS",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "4-4-modular-high-temperature-gas-cooled-reactor-mhtr-side-by-side-concept",
+      "end_line": 268,
+      "heading": "4.4 MODULAR HIGH-TEMPERATURE GAS-COOLED REACTOR (MHTR) SIDE-BY-SIDE CONCEPT",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "5-summary-of-topical-findings",
+      "end_line": 272,
+      "heading": "5. SUMMARY OF TOPICAL FINDINGS",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "5-1-construction",
+      "end_line": 286,
+      "heading": "5.1 CONSTRUCTION",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "5-2-economics",
+      "end_line": 306,
+      "heading": "5.2 ECONOMICS",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "5-3-regulation",
+      "end_line": 325,
+      "heading": "5.3 REGULATION",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "5-4-safety-and-economic-risk",
+      "end_line": 348,
+      "heading": "5.4 SAFETY AND ECONOMIC RISK",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "5-5-nuclear-waste-transportation-and-disposal",
+      "end_line": 354,
+      "heading": "5.5 NUCLEAR WASTE TRANSPORTATION AND DISPOSAL",
+      "level": 1,
+      "start_line": 349
+    },
+    {
+      "anchor": "5-6-pilot-study-of-market-acceptance-of-new-nuclear-technologies",
+      "end_line": 360,
+      "heading": "5.6 PILOT STUDY OF MARKET ACCEPTANCE OF NEW NUCLEAR TECHNOLOGIES",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "5-6-1-general-conditions-for-a-future-nuclear-market",
+      "end_line": 379,
+      "heading": "5.6.1 General Conditions for a Future Nuclear Market",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "5-6-2-public-acceptance-criteria",
+      "end_line": 390,
+      "heading": "5.6.2 Public Acceptance Criteria",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "5-6-3-generalizations-about-the-electric-utility-industry",
+      "end_line": 400,
+      "heading": "5.6.3 Generalizations About the Electric Utility Industry",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "5-6-4-constraining-preferences-of-secondary-markets",
+      "end_line": 406,
+      "heading": "5.6.4 Constraining Preferences of Secondary Markets",
+      "level": 1,
+      "start_line": 401
+    },
+    {
+      "anchor": "5-6-5-future-research-directions",
+      "end_line": 410,
+      "heading": "5.6.5 Future Research Directions",
+      "level": 1,
+      "start_line": 407
+    },
+    {
+      "anchor": "6-acknowledgments",
+      "end_line": 416,
+      "heading": "6. ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "asea-atom",
+      "end_line": 486,
+      "heading": "Asea-Atom",
+      "level": 2,
+      "start_line": 417
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 507,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 1,
+      "start_line": 487
+    },
+    {
+      "anchor": "tennessee-valley-authority",
+      "end_line": 518,
+      "heading": "Tennessee Valley Authority",
+      "level": 1,
+      "start_line": 508
+    },
+    {
+      "anchor": "the-university-of-tennessee",
+      "end_line": 530,
+      "heading": "The University of Tennessee",
+      "level": 1,
+      "start_line": 519
+    },
+    {
+      "anchor": "npovs-advisory-committee-members",
+      "end_line": 542,
+      "heading": "NPOVS Advisory Committee Members",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "7-list-of-publications-related-to-npovs",
+      "end_line": 558,
+      "heading": "7. LIST OF PUBLICATIONS RELATED TO NPOVS",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "8-references",
+      "end_line": 574,
+      "heading": "8. REFERENCES",
+      "level": 1,
+      "start_line": 559
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 641,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 646,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 642
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-9780-V1",
+  "tables": [],
+  "title": "NUCLEAR POWER OPTIONS VIABILITY STUDY",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "fuel-processing-and-reprocessing",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

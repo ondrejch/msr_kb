@@ -1,0 +1,870 @@
+{
+  "authors": [
+    "A REFLECTOR MODERATED",
+    "CIRCULATING FUEL",
+    "AIRCRAFT REACTOR",
+    "A",
+    "OPERATED BY",
+    "TENNESSEE",
+    "Reactor Design",
+    "Feasibility Problem",
+    "\"A REFLECTOR MODERATED",
+    "AIRCRAFT REACTOR\""
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-53-9-84.jsonl",
+  "date_text": "August 14, 1953",
+  "doc_id": "ornl-cf-53-9-84",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          349,
+          355,
+          357,
+          359,
+          379,
+          705,
+          791,
+          919,
+          980,
+          1027,
+          1047,
+          1209,
+          1273
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          260,
+          280,
+          325,
+          337,
+          373,
+          675,
+          846,
+          853,
+          1023,
+          1157,
+          1209
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          337,
+          349
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1295
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 29,
+        "line_hits": [
+          194,
+          195,
+          211,
+          212,
+          280,
+          282,
+          300,
+          369,
+          373,
+          377,
+          905,
+          907,
+          909,
+          911,
+          913,
+          915,
+          917,
+          919,
+          925,
+          962,
+          965,
+          994,
+          1077,
+          1111,
+          1229,
+          1345,
+          1384,
+          1386,
+          1411
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          571,
+          605,
+          645,
+          651,
+          664
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1137
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          1,
+          13,
+          136,
+          976,
+          988,
+          991,
+          994,
+          996
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          978
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          132
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 57,
+        "line_hits": [
+          132,
+          134,
+          148,
+          150,
+          261,
+          268,
+          270,
+          280,
+          304,
+          321,
+          323,
+          333,
+          357,
+          365,
+          373,
+          387,
+          433,
+          439,
+          445,
+          465,
+          467,
+          468,
+          486,
+          489,
+          518,
+          546,
+          571,
+          581,
+          603,
+          609,
+          621,
+          647,
+          649,
+          658,
+          664,
+          666,
+          691,
+          710,
+          723,
+          817,
+          851,
+          855,
+          889,
+          911,
+          923,
+          929,
+          949,
+          957,
+          959,
+          967
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          1
+        ],
+        "name": "ORNL Central Files"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          333,
+          563,
+          1019
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "1c7a6ad61f922efbefcf24fe520496b448051003605495b1cdcc94b8184e99f7",
+  "markdown_path": "pdf/ORNL-CF-53-9-84/ORNL-CF-53-9-84/hybrid_ocr/ORNL-CF-53-9-84.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 87,
+  "sections": [
+    {
+      "anchor": "a-reflector-moderated-circulating-fuel-aircraft-reactor",
+      "end_line": 12,
+      "heading": "A Reflector Moderated, Circulating Fuel, Aircraft Reactor",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 14,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 16,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 18,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "a-division-of-union-carbidge-and-carbon-conparation",
+      "end_line": 22,
+      "heading": "A Division Of Union Carbidge And Carbon Conparation",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "post-office-box-pak-ridge-tennessee",
+      "end_line": 26,
+      "heading": "Post Office Box Pak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "a-reflector-moderated-circulating-fuel-aircraft-reactor",
+      "end_line": 43,
+      "heading": "\"A Reflector Moderated, Circulating Fuel, Aircraft Reactor\"",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 129,
+      "heading": "Distribution:",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "preface",
+      "end_line": 145,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "acknowledgements",
+      "end_line": 153,
+      "heading": "ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 155,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "page",
+      "end_line": 217,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 219,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "figure-number-title-page",
+      "end_line": 227,
+      "heading": "Figure Number Title Page",
+      "level": 1,
+      "start_line": 220
+    },
+    {
+      "anchor": "fuel-tubes",
+      "end_line": 233,
+      "heading": "Fuel Tubes",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "naod-velocity",
+      "end_line": 237,
+      "heading": "NaOD Velocity",
+      "level": 1,
+      "start_line": 234
+    },
+    {
+      "anchor": "velocity",
+      "end_line": 247,
+      "heading": "Velocity",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 255,
+      "heading": "I INTRODUCTION",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "ii-summary",
+      "end_line": 275,
+      "heading": "II SUMMARY",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "iii-general-plant-design",
+      "end_line": 277,
+      "heading": "III GENERAL PLANT DESIGN",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "3-1-general-description",
+      "end_line": 283,
+      "heading": "3.1 General Description",
+      "level": 1,
+      "start_line": 278
+    },
+    {
+      "anchor": "figure-1",
+      "end_line": 284,
+      "heading": "Figure 1",
+      "level": 2,
+      "start_line": 284
+    },
+    {
+      "anchor": "screwball",
+      "end_line": 285,
+      "heading": "Screwball",
+      "level": 2,
+      "start_line": 285
+    },
+    {
+      "anchor": "general-layout",
+      "end_line": 287,
+      "heading": "General Layout",
+      "level": 2,
+      "start_line": 286
+    },
+    {
+      "anchor": "approximate-scale-4-size",
+      "end_line": 293,
+      "heading": "Approximate Scale \\~ 4. Size",
+      "level": 2,
+      "start_line": 288
+    },
+    {
+      "anchor": "dwg-by-c-p-m",
+      "end_line": 295,
+      "heading": "Dwg. By C.P.M.",
+      "level": 2,
+      "start_line": 294
+    },
+    {
+      "anchor": "schematic-drawing",
+      "end_line": 297,
+      "heading": "SCHEMATIC DRAWING",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "of-fuel-tubes",
+      "end_line": 301,
+      "heading": "OF FUEL TUBES",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "3-2-design-philosophy",
+      "end_line": 328,
+      "heading": "3.2 Design Philosophy",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "iv-materials",
+      "end_line": 330,
+      "heading": "IV MATERIALS",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "4-1-fuel",
+      "end_line": 334,
+      "heading": "4.1 Fuel",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "4-2-reflector",
+      "end_line": 338,
+      "heading": "4.2 Reflector",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "4-3-moderator",
+      "end_line": 366,
+      "heading": "4.3 Moderator",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "4-4-intermediate-heat-transfer-medium",
+      "end_line": 370,
+      "heading": "4.4 Intermediate Heat Transfer Medium",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "4-5-fabrication",
+      "end_line": 382,
+      "heading": "4.5 Fabrication",
+      "level": 1,
+      "start_line": 371
+    },
+    {
+      "anchor": "v-reactor-physics",
+      "end_line": 384,
+      "heading": "V REACTOR PHYSICS",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "5-1-cross-sections",
+      "end_line": 388,
+      "heading": "5.1 Cross Sections",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "5-2-self-shielding",
+      "end_line": 410,
+      "heading": "5.2 Self-shielding",
+      "level": 1,
+      "start_line": 389
+    },
+    {
+      "anchor": "5-3-one-group-two-region-criticality-calculation",
+      "end_line": 436,
+      "heading": "5.3 One Group, Two Region, Criticality Calculation",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "5-4-two-group-three-region-calculation",
+      "end_line": 474,
+      "heading": "5.4 Two Group, Three Region Calculation",
+      "level": 1,
+      "start_line": 437
+    },
+    {
+      "anchor": "r-1-10-69-14",
+      "end_line": 475,
+      "heading": "${R}_{1} = {10.69}\\;{14}$",
+      "level": 2,
+      "start_line": 475
+    },
+    {
+      "anchor": "r-2-14-31",
+      "end_line": 478,
+      "heading": "${R}_{2} = {14.31}$",
+      "level": 2,
+      "start_line": 476
+    },
+    {
+      "anchor": "f16-6",
+      "end_line": 551,
+      "heading": "F16 6",
+      "level": 2,
+      "start_line": 479
+    },
+    {
+      "anchor": "critical-determinant",
+      "end_line": 555,
+      "heading": "Critical Determinant",
+      "level": 2,
+      "start_line": 552
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 556,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 556
+    },
+    {
+      "anchor": "figure-14",
+      "end_line": 568,
+      "heading": "Figure 14",
+      "level": 2,
+      "start_line": 557
+    },
+    {
+      "anchor": "5-5-temperature-coefficient-of-reactivity",
+      "end_line": 606,
+      "heading": "5.5 Temperature Coefficient of Reactivity",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "5-6-fission-product-handling",
+      "end_line": 612,
+      "heading": "5.6 Fission Product Handling",
+      "level": 1,
+      "start_line": 607
+    },
+    {
+      "anchor": "5-7-excess-fuel-requirements",
+      "end_line": 640,
+      "heading": "5.7 Excess Fuel Requirements",
+      "level": 1,
+      "start_line": 613
+    },
+    {
+      "anchor": "5-8-kinetics",
+      "end_line": 659,
+      "heading": "5.8 Kinetics",
+      "level": 1,
+      "start_line": 641
+    },
+    {
+      "anchor": "5-9-controls",
+      "end_line": 667,
+      "heading": "5.9 Controls",
+      "level": 1,
+      "start_line": 660
+    },
+    {
+      "anchor": "5-10-start-up",
+      "end_line": 680,
+      "heading": "5.10 Start Up",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "5-11-shut-down",
+      "end_line": 686,
+      "heading": "5.11 Shut Down",
+      "level": 1,
+      "start_line": 681
+    },
+    {
+      "anchor": "vi-reactor-engineering",
+      "end_line": 688,
+      "heading": "VI. REACTOR ENGINEERING",
+      "level": 1,
+      "start_line": 687
+    },
+    {
+      "anchor": "6-1-optimization",
+      "end_line": 692,
+      "heading": "6.1 Optimization",
+      "level": 1,
+      "start_line": 689
+    },
+    {
+      "anchor": "6-2-heat-transfer",
+      "end_line": 694,
+      "heading": "6.2 Heat Transfer",
+      "level": 1,
+      "start_line": 693
+    },
+    {
+      "anchor": "6-2-1-gamma-heating",
+      "end_line": 814,
+      "heading": "6.2.1 Gamma Heating",
+      "level": 1,
+      "start_line": 695
+    },
+    {
+      "anchor": "6-2-2-internal-heat-transfer",
+      "end_line": 820,
+      "heading": "6.2.2 Internal Heat Transfer",
+      "level": 1,
+      "start_line": 815
+    },
+    {
+      "anchor": "f1-7",
+      "end_line": 836,
+      "heading": "F1.7",
+      "level": 2,
+      "start_line": 821
+    },
+    {
+      "anchor": "f18-9",
+      "end_line": 837,
+      "heading": "F18.9",
+      "level": 2,
+      "start_line": 837
+    },
+    {
+      "anchor": "0311155770n",
+      "end_line": 843,
+      "heading": "0311155770N",
+      "level": 2,
+      "start_line": 838
+    },
+    {
+      "anchor": "6-2-3-reflector-cooling",
+      "end_line": 860,
+      "heading": "6.2.3 Reflector Cooling",
+      "level": 1,
+      "start_line": 844
+    },
+    {
+      "anchor": "fig-10",
+      "end_line": 893,
+      "heading": "Fig. 10",
+      "level": 2,
+      "start_line": 861
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 894,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 894
+    },
+    {
+      "anchor": "fis-11",
+      "end_line": 916,
+      "heading": "Fis 11",
+      "level": 2,
+      "start_line": 895
+    },
+    {
+      "anchor": "6-2-5-naod-heat-exchanger",
+      "end_line": 926,
+      "heading": "6.2.5 NaOD Heat Exchanger",
+      "level": 1,
+      "start_line": 917
+    },
+    {
+      "anchor": "6-3-fuel-flow-experiment",
+      "end_line": 944,
+      "heading": "6.3 Fuel Flow Experiment",
+      "level": 1,
+      "start_line": 927
+    },
+    {
+      "anchor": "vii-shielding",
+      "end_line": 951,
+      "heading": "VII. SHIELDING",
+      "level": 1,
+      "start_line": 945
+    },
+    {
+      "anchor": "f19-13",
+      "end_line": 952,
+      "heading": "F19 13",
+      "level": 2,
+      "start_line": 952
+    },
+    {
+      "anchor": "r-hr-at-50-fr",
+      "end_line": 971,
+      "heading": "$R/{Hr}$ At 50 Fr",
+      "level": 2,
+      "start_line": 953
+    },
+    {
+      "anchor": "ref-no",
+      "end_line": 973,
+      "heading": "Ref. No.",
+      "level": 1,
+      "start_line": 972
+    },
+    {
+      "anchor": "title",
+      "end_line": 999,
+      "heading": "Title",
+      "level": 1,
+      "start_line": 974
+    },
+    {
+      "anchor": "x-appendixes",
+      "end_line": 1160,
+      "heading": "X APPENDIXES",
+      "level": 1,
+      "start_line": 1000
+    },
+    {
+      "anchor": "atomic-densities",
+      "end_line": 1170,
+      "heading": "Atomic Densities",
+      "level": 2,
+      "start_line": 1161
+    },
+    {
+      "anchor": "atomic-densities",
+      "end_line": 1212,
+      "heading": "Atomic Densities",
+      "level": 2,
+      "start_line": 1171
+    },
+    {
+      "anchor": "appendix-5-optimization",
+      "end_line": 1214,
+      "heading": "Appendix 5, Optimization",
+      "level": 1,
+      "start_line": 1213
+    },
+    {
+      "anchor": "1-basic-assumptions",
+      "end_line": 1218,
+      "heading": "1. Basic Assumptions:",
+      "level": 1,
+      "start_line": 1215
+    },
+    {
+      "anchor": "2-factors-considered-and-their-associated-parameters",
+      "end_line": 1278,
+      "heading": "2. Factors Considered and Their Associated Parameters;",
+      "level": 1,
+      "start_line": 1219
+    },
+    {
+      "anchor": "reflector",
+      "end_line": 1290,
+      "heading": "Reflector:",
+      "level": 1,
+      "start_line": 1279
+    },
+    {
+      "anchor": "island",
+      "end_line": 1298,
+      "heading": "Island:",
+      "level": 1,
+      "start_line": 1291
+    },
+    {
+      "anchor": "appendix-7-core-heat-transfer",
+      "end_line": 1342,
+      "heading": "Appendix 7, Core Heat Transfer",
+      "level": 1,
+      "start_line": 1299
+    },
+    {
+      "anchor": "appendix-8-primary-heat-transfer",
+      "end_line": 1385,
+      "heading": "Appendix 8, Primary Heat Transfer",
+      "level": 1,
+      "start_line": 1343
+    },
+    {
+      "anchor": "appendix-9-naod-heat-exchanger",
+      "end_line": 1509,
+      "heading": "Appendix 9. NaOD Heat Exchanger",
+      "level": 1,
+      "start_line": 1386
+    },
+    {
+      "anchor": "nuclear",
+      "end_line": 1612,
+      "heading": "Nuclear",
+      "level": 1,
+      "start_line": 1510
+    },
+    {
+      "anchor": "subscripts",
+      "end_line": 1620,
+      "heading": "Subscripts",
+      "level": 1,
+      "start_line": 1613
+    },
+    {
+      "anchor": "naod-sodium-deuteroxide",
+      "end_line": 1628,
+      "heading": "NaOD - sodium deuteroxide",
+      "level": 1,
+      "start_line": 1621
+    },
+    {
+      "anchor": "superscripts",
+      "end_line": 1633,
+      "heading": "Superscripts",
+      "level": 1,
+      "start_line": 1629
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-53-9-84",
+  "tables": [],
+  "title": "ORNL Central Files Number 53-9-84",
+  "topics": [
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

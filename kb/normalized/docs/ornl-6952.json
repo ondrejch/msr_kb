@@ -1,0 +1,1089 @@
+{
+  "authors": [
+    "C. W. Forsberg",
+    "E-mail: forsbergcw@ornl.gov",
+    "L. C. Lewis",
+    "E-mail: llewis@inel.gov",
+    "LIST OF FIGURES vii",
+    "LIST OF TABLES vii"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-6952.jsonl",
+  "date_text": "September 24, 1999",
+  "doc_id": "ornl-6952",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          516,
+          871,
+          894
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          435
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 32,
+        "line_hits": [
+          7,
+          15,
+          240,
+          273,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          490,
+          508,
+          522,
+          528,
+          614,
+          622,
+          640,
+          678,
+          680,
+          966,
+          967,
+          971,
+          972,
+          977,
+          978,
+          979,
+          984,
+          996,
+          997
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          138,
+          184,
+          273,
+          890,
+          892,
+          894,
+          971,
+          1001,
+          1112,
+          1154
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          966,
+          967,
+          972,
+          977,
+          978,
+          979
+        ],
+        "name": "Lockheed Martin"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          273,
+          1126
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 109,
+        "line_hits": [
+          277,
+          281,
+          291,
+          295,
+          297,
+          303,
+          318,
+          322,
+          324,
+          332,
+          342,
+          346,
+          348,
+          352,
+          354,
+          356,
+          360,
+          362,
+          364,
+          367,
+          372,
+          378,
+          384,
+          390,
+          393,
+          395,
+          405,
+          417,
+          431,
+          435,
+          437,
+          460,
+          466,
+          468,
+          470,
+          482,
+          484,
+          486,
+          504,
+          508,
+          516,
+          518,
+          534,
+          536,
+          542,
+          552,
+          563,
+          571,
+          573,
+          574
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          236,
+          490,
+          495,
+          522,
+          614
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "0c35cb0bb82ba0bdcc85083a343b5cbfc6bc2db054fa94159d73db1b69ad67f7",
+  "markdown_path": "pdf/ORNL-6952/ORNL-6952/hybrid_ocr/ORNL-6952.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 126,
+  "sections": [
+    {
+      "anchor": "uses-for-uranium-233-what-should-be-kept-for-future-needs",
+      "end_line": 30,
+      "heading": "Uses For Uranium-233: What Should Be Kept for Future Needs?",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "contents",
+      "end_line": 42,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "executive-summary-xv",
+      "end_line": 46,
+      "heading": "Executive Summary Xv",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 48,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "1-1-objectives-1",
+      "end_line": 50,
+      "heading": "1.1 OBJECTIVES 1",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "1-3-caveats-1",
+      "end_line": 51,
+      "heading": "1.3 CAVEATS 1",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "1-4-organization-of-this-report-2",
+      "end_line": 55,
+      "heading": "1.4 ORGANIZATION OF THIS REPORT 2",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "2-1-characteristics-3",
+      "end_line": 61,
+      "heading": "2.1 CHARACTERISTICS 3",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "2-2-inventory-8",
+      "end_line": 70,
+      "heading": "2.2 INVENTORY 8",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "3-1-historic-production-costs-13",
+      "end_line": 71,
+      "heading": "3.1 HISTORIC PRODUCTION COSTS 13",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "3-2-current-sales-price-and-production-costs-13",
+      "end_line": 72,
+      "heading": "3.2 CURRENT SALES PRICE AND PRODUCTION COSTS 13",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "3-3-future-production-costs-14",
+      "end_line": 74,
+      "heading": "3.3 FUTURE PRODUCTION COSTS 14",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 76,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "4-uses-of-233-mathrm-u-15",
+      "end_line": 78,
+      "heading": "4. USES OF $^{233}\\mathrm{U}$ 15",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "4-1-medical-applications-15",
+      "end_line": 83,
+      "heading": "4.1 MEDICAL APPLICATIONS 15",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "4-1-2-1-production-from-233-mathrm-u-19",
+      "end_line": 90,
+      "heading": "4.1.2.1 Production from $^{233}\\mathrm{U}$ 19",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "4-1-2-2-production-from-radium-226-226-mathrm-ra-23",
+      "end_line": 96,
+      "heading": "4.1.2.2 Production from Radium-226 $(^{226}\\mathrm{Ra})$ 23",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "4-1-2-3-production-from-228-mathrm-ra-25",
+      "end_line": 98,
+      "heading": "4.1.2.3 Production from $^{228}\\mathrm{Ra}$ 25",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "4-1-3-availability-of-213-mathrm-bi-26",
+      "end_line": 103,
+      "heading": "4.1.3 Availability of $^{213}\\mathrm{Bi}$ 26",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "4-1-4-assessment-and-conclusions-27",
+      "end_line": 105,
+      "heading": "4.1.4 Assessment and Conclusions 27",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "4-2-reactors-for-deep-space-and-other-special-missions-28",
+      "end_line": 106,
+      "heading": "4.2 REACTORS FOR DEEP-SPACE AND OTHER SPECIAL MISSIONS 28",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "4-3-analytical-measurements-31",
+      "end_line": 107,
+      "heading": "4.3 ANALYTICAL MEASUREMENTS 31",
+      "level": 2,
+      "start_line": 107
+    },
+    {
+      "anchor": "4-4-nuclear-weapons-research-31",
+      "end_line": 108,
+      "heading": "4.4 NUCLEAR WEAPONS RESEARCH 31",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "4-5-reactor-fuel-cycle-research-33",
+      "end_line": 120,
+      "heading": "4.5 REACTOR FUEL CYCLE RESEARCH 33",
+      "level": 2,
+      "start_line": 109
+    },
+    {
+      "anchor": "4-5-2-4-once-through-fuel-cycles-37",
+      "end_line": 122,
+      "heading": "4.5.2.4.Once-Through Fuel Cycles 37",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 124,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "4-5-3-current-nuclear-power-thorium-fuel-cycle-developments-38",
+      "end_line": 133,
+      "heading": "4.5.3 Current Nuclear-Power Thorium-Fuel-Cycle Developments 38",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "4-5-3-3-u-s-research-programs-40",
+      "end_line": 140,
+      "heading": "4.5.3.3 U.S. Research Programs 40",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "4-5-4-accelerator-and-fusion-reactor-development-42",
+      "end_line": 148,
+      "heading": "4.5.4 Accelerator and Fusion Reactor Development 42",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "4-6-other-applications-45",
+      "end_line": 150,
+      "heading": "4.6 OTHER APPLICATIONS 45",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "5-conclusions-47",
+      "end_line": 152,
+      "heading": "5. CONCLUSIONS 47",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "6-references-49",
+      "end_line": 154,
+      "heading": "6. REFERENCES 49",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "appendix-a-radiation-levels-from-233-mathrm-u-a-1",
+      "end_line": 156,
+      "heading": "Appendix A RADIATION LEVELS FROM $^{233}\\mathrm{U}$ A-1",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 166,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 181,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "acronyms-abbreviations-scientific-notation-and-units-of-measure",
+      "end_line": 241,
+      "heading": "ACRONYMS, ABBREVIATIONS, SCIENTIFIC NOTATION, AND UNITS OF MEASURE",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "acronyms-abbreviations-scientific-notation-and-units-of-measure-continued",
+      "end_line": 268,
+      "heading": "ACRONYMS, ABBREVIATIONS, SCIENTIFIC NOTATION, AND UNITS OF MEASURE (continued)",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 274,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "preface",
+      "end_line": 288,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "executive-summary",
+      "end_line": 292,
+      "heading": "EXECUTIVE SUMMARY",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "es1-1-inventory",
+      "end_line": 305,
+      "heading": "ES1.1 INVENTORY",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "es1-1-1-high-quality-233-mathrm-u",
+      "end_line": 309,
+      "heading": "ES1.1.1 High-Quality $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "es1-1-2-intermediate-quality-233-u",
+      "end_line": 315,
+      "heading": "ES1.1.2 Intermediate-Quality $^{233}$ U",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "es1-1-3-low-quality-233-mathrm-u",
+      "end_line": 319,
+      "heading": "ES1.1.3 Low-Quality $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 316
+    },
+    {
+      "anchor": "es1-2-production-and-storage-costs",
+      "end_line": 325,
+      "heading": "ES1.2 PRODUCTION AND STORAGE COSTS",
+      "level": 1,
+      "start_line": 320
+    },
+    {
+      "anchor": "es1-3-uses",
+      "end_line": 329,
+      "heading": "ES1.3 USES",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "es1-3-1-analytical-chemistry-methods",
+      "end_line": 339,
+      "heading": "ES1.3.1 Analytical Chemistry Methods",
+      "level": 1,
+      "start_line": 330
+    },
+    {
+      "anchor": "es1-3-2-weapons-tests",
+      "end_line": 343,
+      "heading": "ES1.3.2 Weapons Tests",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "es1-3-3-minimum-mass-reactors-space-and-other-special-purpose-reactors",
+      "end_line": 349,
+      "heading": "ES1.3.3 Minimum Mass Reactors (Space and Other Special-Purpose Reactors)",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "es1-3-4-medical-applications",
+      "end_line": 357,
+      "heading": "ES1.3.4 Medical Applications",
+      "level": 1,
+      "start_line": 350
+    },
+    {
+      "anchor": "es1-3-5-power-reactors",
+      "end_line": 375,
+      "heading": "ES1.3.5 Power Reactors",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "es1-4-conclusions",
+      "end_line": 381,
+      "heading": "ES1.4 CONCLUSIONS",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 385,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 382
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 387,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 386
+    },
+    {
+      "anchor": "1-1-objectives",
+      "end_line": 400,
+      "heading": "1.1 OBJECTIVES",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "1-2-characteristics-of-233-mathrm-u-use-or-dispose-decisions",
+      "end_line": 406,
+      "heading": "1.2 CHARACTERISTICS OF $^{233}\\mathrm{U}$ USE OR DISPOSE DECISIONS",
+      "level": 1,
+      "start_line": 401
+    },
+    {
+      "anchor": "1-3-caveats",
+      "end_line": 410,
+      "heading": "1.3 CAVEATS",
+      "level": 1,
+      "start_line": 407
+    },
+    {
+      "anchor": "1-4-organization-of-this-report",
+      "end_line": 414,
+      "heading": "1.4 ORGANIZATION OF THIS REPORT",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "2-characteristics-and-inventory-of-233-mathrm-u",
+      "end_line": 418,
+      "heading": "2. CHARACTERISTICS AND INVENTORY OF $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "2-1-characteristics",
+      "end_line": 428,
+      "heading": "2.1 CHARACTERISTICS",
+      "level": 1,
+      "start_line": 419
+    },
+    {
+      "anchor": "2-1-1-radiological",
+      "end_line": 457,
+      "heading": "2.1.1 Radiological",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "2-1-2-nuclear-criticality",
+      "end_line": 461,
+      "heading": "2.1.2 Nuclear Criticality",
+      "level": 1,
+      "start_line": 458
+    },
+    {
+      "anchor": "2-1-3-safeguards",
+      "end_line": 479,
+      "heading": "2.1.3 Safeguards",
+      "level": 1,
+      "start_line": 462
+    },
+    {
+      "anchor": "2-2-inventory",
+      "end_line": 509,
+      "heading": "2.2 INVENTORY",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "2-2-1-high-isotopic-quality-233-mathrm-u-with-limited-chemical-impurities",
+      "end_line": 513,
+      "heading": "2.2.1 High-Isotopic-Quality $^{233}\\mathrm{U}$ with Limited Chemical Impurities",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "2-2-2-high-isotopic-quality-233-mathbf-u-with-chemical-diluents",
+      "end_line": 519,
+      "heading": "2.2.2 High-Isotopic-Quality $^{233}\\mathbf{U}$ with Chemical Diluents",
+      "level": 1,
+      "start_line": 514
+    },
+    {
+      "anchor": "2-2-3-intermediate-isotopic-quality-233-mathrm-u",
+      "end_line": 523,
+      "heading": "2.2.3 Intermediate-Isotopic-Quality $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "2-2-4-low-isotopic-quality-233-mathrm-u",
+      "end_line": 529,
+      "heading": "2.2.4 Low-Isotopic-Quality $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "3-production-costs-for-233-mathrm-u",
+      "end_line": 531,
+      "heading": "3. PRODUCTION COSTS FOR $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 530
+    },
+    {
+      "anchor": "3-1-historic-production-costs",
+      "end_line": 537,
+      "heading": "3.1 HISTORIC PRODUCTION COSTS",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "3-2-current-sales-price-and-production-costs",
+      "end_line": 545,
+      "heading": "3.2 CURRENT SALES PRICE AND PRODUCTION COSTS",
+      "level": 1,
+      "start_line": 538
+    },
+    {
+      "anchor": "3-3-future-production-costs",
+      "end_line": 549,
+      "heading": "3.3 FUTURE PRODUCTION COSTS",
+      "level": 1,
+      "start_line": 546
+    },
+    {
+      "anchor": "4-uses-of-233-mathbf-u",
+      "end_line": 553,
+      "heading": "4. USES OF $^{233}\\mathbf{U}$",
+      "level": 1,
+      "start_line": 550
+    },
+    {
+      "anchor": "4-1-medical-applications",
+      "end_line": 555,
+      "heading": "4.1 MEDICAL APPLICATIONS",
+      "level": 1,
+      "start_line": 554
+    },
+    {
+      "anchor": "4-1-1-use",
+      "end_line": 578,
+      "heading": "4.1.1 Use",
+      "level": 1,
+      "start_line": 556
+    },
+    {
+      "anchor": "4-1-2-production-methods-for-213-mathrm-bi",
+      "end_line": 582,
+      "heading": "4.1.2 Production Methods for $^{213}\\mathrm{Bi}$",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "4-1-2-1-production-from-233-mathrm-u",
+      "end_line": 584,
+      "heading": "4.1.2.1 Production from $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "4-1-2-1-1-production-method",
+      "end_line": 601,
+      "heading": "4.1.2.1.1 Production Method",
+      "level": 1,
+      "start_line": 585
+    },
+    {
+      "anchor": "4-1-2-1-2-thorium-229-inventory",
+      "end_line": 607,
+      "heading": "4.1.2.1.2 Thorium-229 Inventory",
+      "level": 1,
+      "start_line": 602
+    },
+    {
+      "anchor": "4-1-2-1-3-production-issues",
+      "end_line": 619,
+      "heading": "4.1.2.1.3 Production Issues",
+      "level": 1,
+      "start_line": 608
+    },
+    {
+      "anchor": "4-1-2-1-4-current-status",
+      "end_line": 623,
+      "heading": "4.1.2.1.4 Current Status",
+      "level": 1,
+      "start_line": 620
+    },
+    {
+      "anchor": "4-1-2-2-production-from-radium-226-226-mathrm-ra",
+      "end_line": 627,
+      "heading": "4.1.2.2 Production from Radium-226 $(^{226}\\mathrm{Ra})$",
+      "level": 1,
+      "start_line": 624
+    },
+    {
+      "anchor": "4-1-2-2-1-production-methods",
+      "end_line": 653,
+      "heading": "4.1.2.2.1 Production Methods",
+      "level": 1,
+      "start_line": 628
+    },
+    {
+      "anchor": "4-1-2-2-2-radium-226-availability",
+      "end_line": 661,
+      "heading": "4.1.2.2.2 Radium-226 Availability",
+      "level": 1,
+      "start_line": 654
+    },
+    {
+      "anchor": "4-1-2-2-3-production-issues",
+      "end_line": 665,
+      "heading": "4.1.2.2.3 Production Issues",
+      "level": 1,
+      "start_line": 662
+    },
+    {
+      "anchor": "4-1-2-3-production-from-228-mathrm-ra",
+      "end_line": 673,
+      "heading": "4.1.2.3 Production from $^{228}\\mathrm{Ra}$",
+      "level": 1,
+      "start_line": 666
+    },
+    {
+      "anchor": "4-1-3-availability-of-213-mathrm-bi",
+      "end_line": 675,
+      "heading": "4.1.3 Availability of $^{213}\\mathrm{Bi}$",
+      "level": 1,
+      "start_line": 674
+    },
+    {
+      "anchor": "4-1-3-1-demand",
+      "end_line": 685,
+      "heading": "4.1.3.1 Demand",
+      "level": 1,
+      "start_line": 676
+    },
+    {
+      "anchor": "4-1-3-2-economics",
+      "end_line": 694,
+      "heading": "4.1.3.2 Economics",
+      "level": 1,
+      "start_line": 686
+    },
+    {
+      "anchor": "4-1-4-assessment-and-conclusions",
+      "end_line": 704,
+      "heading": "4.1.4 Assessment and Conclusions",
+      "level": 1,
+      "start_line": 695
+    },
+    {
+      "anchor": "4-2-reactors-for-deep-space-and-other-special-missions",
+      "end_line": 728,
+      "heading": "4.2 REACTORS FOR DEEP-SPACE AND OTHER SPECIAL MISSIONS",
+      "level": 1,
+      "start_line": 705
+    },
+    {
+      "anchor": "4-3-analytical-measurements",
+      "end_line": 732,
+      "heading": "4.3 ANALYTICAL MEASUREMENTS",
+      "level": 1,
+      "start_line": 729
+    },
+    {
+      "anchor": "4-4-nuclear-weapons-research",
+      "end_line": 753,
+      "heading": "4.4 NUCLEAR WEAPONS RESEARCH",
+      "level": 1,
+      "start_line": 733
+    },
+    {
+      "anchor": "4-5-reactor-fuel-cycle-research",
+      "end_line": 761,
+      "heading": "4.5 REACTOR FUEL CYCLE RESEARCH",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "4-5-1-application",
+      "end_line": 774,
+      "heading": "4.5.1 Application",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "4-5-2-nonproliferation-fuel-cycles",
+      "end_line": 778,
+      "heading": "4.5.2 Nonproliferation Fuel Cycles",
+      "level": 1,
+      "start_line": 775
+    },
+    {
+      "anchor": "4-5-2-1-isotopic-dilution",
+      "end_line": 788,
+      "heading": "4.5.2.1 Isotopic Dilution",
+      "level": 1,
+      "start_line": 779
+    },
+    {
+      "anchor": "4-5-2-2-radiation",
+      "end_line": 805,
+      "heading": "4.5.2.2 Radiation",
+      "level": 1,
+      "start_line": 789
+    },
+    {
+      "anchor": "4-5-2-3-off-specification-plutonium",
+      "end_line": 809,
+      "heading": "4.5.2.3 Off-Specification Plutonium",
+      "level": 1,
+      "start_line": 806
+    },
+    {
+      "anchor": "4-5-2-3-1-quantity",
+      "end_line": 813,
+      "heading": "4.5.2.3.1 Quantity",
+      "level": 1,
+      "start_line": 810
+    },
+    {
+      "anchor": "4-5-2-3-2-quality",
+      "end_line": 822,
+      "heading": "4.5.2.3.2 Quality",
+      "level": 1,
+      "start_line": 814
+    },
+    {
+      "anchor": "4-5-2-4-once-through-fuel-cycles",
+      "end_line": 826,
+      "heading": "4.5.2.4 Once-Through Fuel Cycles",
+      "level": 1,
+      "start_line": 823
+    },
+    {
+      "anchor": "4-5-3-current-nuclear-power-thorium-fuel-cycle-developments",
+      "end_line": 828,
+      "heading": "4.5.3 Current Nuclear-Power Thorium-Fuel-Cycle Developments",
+      "level": 1,
+      "start_line": 827
+    },
+    {
+      "anchor": "4-5-3-1-countries-with-active-programs",
+      "end_line": 836,
+      "heading": "4.5.3.1 Countries with Active Programs",
+      "level": 1,
+      "start_line": 829
+    },
+    {
+      "anchor": "4-5-3-2-once-through-thorium-fuel-cycles",
+      "end_line": 840,
+      "heading": "4.5.3.2 Once-Through Thorium Fuel Cycles",
+      "level": 1,
+      "start_line": 837
+    },
+    {
+      "anchor": "4-5-3-2-1-nonproliferation",
+      "end_line": 844,
+      "heading": "4.5.3.2.1 Nonproliferation",
+      "level": 1,
+      "start_line": 841
+    },
+    {
+      "anchor": "4-5-3-2-2-uranium-resources",
+      "end_line": 860,
+      "heading": "4.5.3.2.2 Uranium Resources",
+      "level": 1,
+      "start_line": 845
+    },
+    {
+      "anchor": "4-5-3-2-3-fuel-performance",
+      "end_line": 864,
+      "heading": "4.5.3.2.3 Fuel Performance",
+      "level": 1,
+      "start_line": 861
+    },
+    {
+      "anchor": "4-5-3-3-u-s-research-programs",
+      "end_line": 868,
+      "heading": "4.5.3.3 U.S. Research Programs",
+      "level": 1,
+      "start_line": 865
+    },
+    {
+      "anchor": "4-5-3-3-1-radkowsky-reactor",
+      "end_line": 881,
+      "heading": "4.5.3.3.1 Radkowsky Reactor",
+      "level": 1,
+      "start_line": 869
+    },
+    {
+      "anchor": "4-5-3-3-2-national-laboratory-university-fuel-fabricator-consortium",
+      "end_line": 891,
+      "heading": "4.5.3.3.2 National Laboratory, University, Fuel Fabricator Consortium",
+      "level": 1,
+      "start_line": 882
+    },
+    {
+      "anchor": "4-5-3-3-3-anl-and-purdue-university",
+      "end_line": 897,
+      "heading": "4.5.3.3.3 ANL and Purdue University",
+      "level": 1,
+      "start_line": 892
+    },
+    {
+      "anchor": "4-5-3-3-4-bnl-and-purdue-university",
+      "end_line": 901,
+      "heading": "4.5.3.3.4 BNL and Purdue University",
+      "level": 1,
+      "start_line": 898
+    },
+    {
+      "anchor": "4-5-4-accelerator-and-fusion-reactor-development",
+      "end_line": 907,
+      "heading": "4.5.4 Accelerator and Fusion Reactor Development",
+      "level": 1,
+      "start_line": 902
+    },
+    {
+      "anchor": "4-5-4-1-accelerators",
+      "end_line": 914,
+      "heading": "4.5.4.1 Accelerators",
+      "level": 1,
+      "start_line": 908
+    },
+    {
+      "anchor": "4-5-4-2-fusion-fission-hybrids",
+      "end_line": 918,
+      "heading": "4.5.4.2 Fusion-Fission Hybrids",
+      "level": 1,
+      "start_line": 915
+    },
+    {
+      "anchor": "4-5-5-material-requirements",
+      "end_line": 932,
+      "heading": "4.5.5 Material Requirements",
+      "level": 1,
+      "start_line": 919
+    },
+    {
+      "anchor": "4-5-6-assessment",
+      "end_line": 940,
+      "heading": "4.5.6 Assessment",
+      "level": 1,
+      "start_line": 933
+    },
+    {
+      "anchor": "4-6-other-applications",
+      "end_line": 944,
+      "heading": "4.6 OTHER APPLICATIONS",
+      "level": 1,
+      "start_line": 941
+    },
+    {
+      "anchor": "5-conclusions",
+      "end_line": 959,
+      "heading": "5. CONCLUSIONS",
+      "level": 1,
+      "start_line": 945
+    },
+    {
+      "anchor": "6-references",
+      "end_line": 1025,
+      "heading": "6. REFERENCES",
+      "level": 1,
+      "start_line": 960
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1027,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 1026
+    },
+    {
+      "anchor": "radiation-levels-from-233-mathrm-u",
+      "end_line": 1029,
+      "heading": "RADIATION LEVELS FROM $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 1028
+    },
+    {
+      "anchor": "appendix-a-radiation-levels-from-233-mathrm-u",
+      "end_line": 1044,
+      "heading": "Appendix A: RADIATION LEVELS FROM $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 1030
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1088,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1045
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1196,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1089
+    }
+  ],
+  "source_dir": "pdf/ORNL-6952",
+  "tables": [],
+  "title": "Uses For Uranium-233: What Should Be Kept for Future Needs?",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "irradiation-and-damage",
+    "off-gas-fission-products-and-tritium",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

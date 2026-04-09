@@ -1,0 +1,372 @@
+{
+  "authors": [
+    "W. H. Sides",
+    "Jr.",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3102.jsonl",
+  "date_text": "May 18, 1970",
+  "doc_id": "ornl-tm-3102",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 19,
+        "line_hits": [
+          57,
+          63,
+          87,
+          91,
+          99,
+          107,
+          111,
+          131,
+          139,
+          143,
+          145,
+          147,
+          149,
+          155,
+          197,
+          199,
+          233,
+          239,
+          403
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          63,
+          75,
+          87
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 29,
+        "line_hits": [
+          42,
+          57,
+          59,
+          63,
+          65,
+          73,
+          75,
+          95,
+          99,
+          105,
+          113,
+          115,
+          117,
+          125,
+          439,
+          626,
+          658,
+          660,
+          707,
+          709,
+          711,
+          713,
+          725,
+          727,
+          759,
+          801,
+          812,
+          818,
+          820
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          41,
+          57,
+          63,
+          65,
+          73,
+          75,
+          93,
+          95,
+          99,
+          105,
+          113,
+          115,
+          117,
+          123,
+          439,
+          475,
+          566,
+          580,
+          666,
+          681,
+          801,
+          816
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          65,
+          73,
+          99,
+          115,
+          801
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          81,
+          860
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          5,
+          15,
+          29,
+          1034,
+          1037,
+          1039,
+          1041
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          19,
+          51,
+          59,
+          891,
+          1027
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          25,
+          1040
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 9,
+        "line_hits": [
+          1,
+          11,
+          45,
+          51,
+          55,
+          57,
+          63,
+          68,
+          120
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          55,
+          68,
+          83,
+          241,
+          417,
+          727,
+          868
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          77,
+          852
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "b793676a4f423344e00347db45200b9fe588a699968ed9d4b0732fea570bc322",
+  "markdown_path": "pdf/ORNL-TM-3102/ORNL-TM-3102/hybrid_ocr/ORNL-TM-3102.md",
+  "report_number": "ORNL-TM-2927",
+  "report_numbers": [
+    "ORNL-TM-2927"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 20,
+  "sections": [
+    {
+      "anchor": "msbr-control-studies-analog-simulation-program",
+      "end_line": 8,
+      "heading": "Msbr Control Studies: Analog Simulation Program",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "instrumentation-and-controls-division",
+      "end_line": 10,
+      "heading": "Instrumentation And Controls Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "msbr-control-studies-analog-simulation-program",
+      "end_line": 16,
+      "heading": "Msbr Control Studies: Analog Simulation Program",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "may-1971",
+      "end_line": 18,
+      "heading": "May 1971",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 28,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "contents",
+      "end_line": 44,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "msbr-control-studies-analog-simulation-program",
+      "end_line": 48,
+      "heading": "MSBR CONTROL STUDIES: ANALOG SIMULATION PROGRAM",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 52,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 60,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "2-description-of-the-plant-and-control-system",
+      "end_line": 100,
+      "heading": "2. DESCRIPTION OF THE PLANT AND CONTROL SYSTEM",
+      "level": 1,
+      "start_line": 61
+    },
+    {
+      "anchor": "3-simulation-of-the-system",
+      "end_line": 102,
+      "heading": "3. SIMULATION OF THE SYSTEM",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "3-1-model",
+      "end_line": 126,
+      "heading": "3.1 Model",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "3-2-system-equations-and-analog-computer-program",
+      "end_line": 888,
+      "heading": "3.2 System Equations and Analog Computer Program",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "steam-temperature-controller",
+      "end_line": 890,
+      "heading": "Steam Temperature Controller",
+      "level": 2,
+      "start_line": 889
+    },
+    {
+      "anchor": "ornl-dwg-71-3377",
+      "end_line": 893,
+      "heading": "Ornl Dwg. 71-3377",
+      "level": 2,
+      "start_line": 891
+    },
+    {
+      "anchor": "reactor-outlet-temperature-controller",
+      "end_line": 898,
+      "heading": "Reactor Outlet Temperature Controller",
+      "level": 2,
+      "start_line": 894
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1030,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 899
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1043,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1031
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3102",
+  "tables": [],
+  "title": "W. H. Sides, Jr.",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "instrumentation-and-controls",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

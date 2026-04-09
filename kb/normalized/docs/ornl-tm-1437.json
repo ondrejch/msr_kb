@@ -1,0 +1,386 @@
+{
+  "authors": [
+    "G. M. Tolson",
+    "A. Taboada",
+    "LEGAL NOTICE",
+    "RELEASED FOR ANNOUNCEMENT",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1437.jsonl",
+  "date_text": "February 1956",
+  "doc_id": "ornl-tm-1437",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 8,
+        "line_hits": [
+          43,
+          55,
+          61,
+          85,
+          118,
+          126,
+          133,
+          163
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          41,
+          53,
+          74,
+          77,
+          85,
+          102,
+          172
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          47,
+          49,
+          55,
+          59,
+          61
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          59,
+          68,
+          137
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          59,
+          68,
+          178
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          55,
+          61
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 36,
+        "line_hits": [
+          41,
+          43,
+          61,
+          68,
+          72,
+          77,
+          79,
+          81,
+          83,
+          85,
+          87,
+          91,
+          94,
+          97,
+          100,
+          102,
+          109,
+          111,
+          113,
+          116,
+          118,
+          123,
+          126,
+          133,
+          137,
+          141,
+          144,
+          146,
+          162,
+          164,
+          168,
+          173,
+          175,
+          178,
+          181,
+          183
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          47
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          1,
+          21,
+          72,
+          191,
+          193,
+          194
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          31,
+          242,
+          244,
+          245,
+          246
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          27
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 4,
+        "line_hits": [
+          47,
+          57,
+          72,
+          137
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          74,
+          85,
+          139,
+          172
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          61
+        ],
+        "name": "LMFR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          47
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "994146863602c7b9823e096d8c921a47d46d197d80ad9535aa7998977d99a7a8",
+  "markdown_path": "pdf/ORNL-TM-1437/ORNL-TM-1437/hybrid_ocr/ORNL-TM-1437.md",
+  "report_number": "ORNL-TM-1437",
+  "report_numbers": [
+    "ORNL-TM-1437",
+    "Y-67208"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 21,
+  "sections": [
+    {
+      "anchor": "ornl-tm-1437",
+      "end_line": 4,
+      "heading": "Ornl-Tm-1437",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 6,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "a-study-of-lead-and-lead-salt-corrosion-in-thermal-convection-loops",
+      "end_line": 10,
+      "heading": "A Study Of Lead And Lead-Salt Corrosion In Thermal-Convection Loops",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 14,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "released-for-announcement",
+      "end_line": 16,
+      "heading": "Released For Announcement",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "in-nuclear-science-abstracts",
+      "end_line": 18,
+      "heading": "In Nuclear Science Abstracts",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "april-1966",
+      "end_line": 20,
+      "heading": "April 1966",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 30,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 34,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "a-study-of-lead-and-lead-salt-corrosion-in-thermal-convection-loops",
+      "end_line": 38,
+      "heading": "A STUDY OF LEAD AND LEAD-SALT CORROSION IN THERMAL-CONVECTION LOOPS",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 44,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 50,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "literature-survey",
+      "end_line": 69,
+      "heading": "LITERATURE SURVEY",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "description-of-tests",
+      "end_line": 88,
+      "heading": "DESCRIPTION OF TESTS",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "results-of-tests",
+      "end_line": 127,
+      "heading": "RESULTS OF TESTS",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "y-67208",
+      "end_line": 134,
+      "heading": "Y-67208",
+      "level": 2,
+      "start_line": 128
+    },
+    {
+      "anchor": "conclusions-and-recommendations",
+      "end_line": 165,
+      "heading": "CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 186,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 238,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 247,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 239
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1437",
+  "tables": [],
+  "title": "ORNL-TM-1437",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "graphite-and-moderator-behavior",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "instrumentation-and-controls"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

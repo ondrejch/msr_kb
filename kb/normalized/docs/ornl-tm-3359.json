@@ -1,0 +1,1497 @@
+{
+  "authors": [
+    "H. F. Bauman",
+    "G. W. Cunningham",
+    "III",
+    "J. L. Lucius",
+    "H. T. Kerr",
+    "C.W.Craven",
+    "Jr.",
+    "Oak Ridge",
+    "Tennessee"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3359.jsonl",
+  "date_text": "July 1969",
+  "doc_id": "ornl-tm-3359",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          234,
+          1533
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          234
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          234,
+          1533
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          121,
+          1527
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 17,
+        "line_hits": [
+          17,
+          91,
+          102,
+          103,
+          111,
+          135,
+          147,
+          165,
+          171,
+          193,
+          1674,
+          1949,
+          1954,
+          1962,
+          1994,
+          1996,
+          1997
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          13,
+          27,
+          102,
+          103,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          96
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          23
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 124,
+        "line_hits": [
+          66,
+          80,
+          82,
+          84,
+          88,
+          89,
+          92,
+          95,
+          121,
+          125,
+          133,
+          151,
+          153,
+          157,
+          163,
+          167,
+          169,
+          181,
+          187,
+          189,
+          202,
+          204,
+          206,
+          228,
+          230,
+          232,
+          234,
+          236,
+          279,
+          320,
+          324,
+          342,
+          375,
+          391,
+          523,
+          571,
+          579,
+          591,
+          682,
+          688,
+          742,
+          766,
+          778,
+          790,
+          804,
+          839,
+          866,
+          902,
+          922,
+          977
+        ],
+        "name": "ARE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          135,
+          2022
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1319
+        ],
+        "name": "converter reactor"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "603934cc34fb175838c36e8fe52eb31b41a2e5f255e4a5205eca4677d921620f",
+  "markdown_path": "pdf/ORNL-TM-3359/ORNL-TM-3359/hybrid_ocr/ORNL-TM-3359.md",
+  "report_number": "ORNL-TM-3359",
+  "report_numbers": [
+    "ORNL-TM-3359",
+    "ORNL-TM-2500"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 184,
+  "sections": [
+    {
+      "anchor": "rod-a-nuclear-and-fuel-cycle-analysis-code-for-circulating-fuel-reactors",
+      "end_line": 14,
+      "heading": "Rod: A Nuclear And Fuel-Cycle Analysis Code For Circulating-Fuel Reactors",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "september-1971",
+      "end_line": 16,
+      "heading": "September 1971",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "contents",
+      "end_line": 46,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "modric-erc-7-12",
+      "end_line": 48,
+      "heading": "Modric-Erc 7.12",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "opti-7-74",
+      "end_line": 49,
+      "heading": "Opti 7.74",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "history-7-15",
+      "end_line": 57,
+      "heading": "History 7.15",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 63,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 69,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 73,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "computer-code-abstract",
+      "end_line": 97,
+      "heading": "COMPUTER CODE ABSTRACT",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "xii",
+      "end_line": 99,
+      "heading": "xii",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "15-references",
+      "end_line": 114,
+      "heading": "15. References:",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "chapter-1",
+      "end_line": 116,
+      "heading": "CHAPTER 1",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 128,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 117
+    },
+    {
+      "anchor": "chapter-2",
+      "end_line": 130,
+      "heading": "CHAPTER 2",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "the-history-of-rod",
+      "end_line": 176,
+      "heading": "THE HISTORY OF ROD",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "chapter-3",
+      "end_line": 178,
+      "heading": "CHAPTER 3",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "the-functions-of-the-rod-program",
+      "end_line": 192,
+      "heading": "THE FUNCTIONS OF THE ROD PROGRAM",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "ornl-dwg-71-1884",
+      "end_line": 216,
+      "heading": "Ornl-Dwg 71-1884",
+      "level": 2,
+      "start_line": 193
+    },
+    {
+      "anchor": "chapter-4",
+      "end_line": 218,
+      "heading": "CHAPTER 4",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "input-description",
+      "end_line": 223,
+      "heading": "INPUT DESCRIPTION",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "b-erc",
+      "end_line": 225,
+      "heading": "B. Erc",
+      "level": 2,
+      "start_line": 224
+    },
+    {
+      "anchor": "d-optii",
+      "end_line": 241,
+      "heading": "D. Optii",
+      "level": 2,
+      "start_line": 226
+    },
+    {
+      "anchor": "section-a-modric",
+      "end_line": 288,
+      "heading": "Section A. MODRIC",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "history",
+      "end_line": 299,
+      "heading": "History",
+      "level": 2,
+      "start_line": 289
+    },
+    {
+      "anchor": "7-16-fdgvjl",
+      "end_line": 321,
+      "heading": "7-16 Fdgvjl",
+      "level": 2,
+      "start_line": 300
+    },
+    {
+      "anchor": "27-36-cnot1-2-0",
+      "end_line": 325,
+      "heading": "27-36 Cnot1 2.0",
+      "level": 2,
+      "start_line": 322
+    },
+    {
+      "anchor": "37-46-cdelt-1-0e-05",
+      "end_line": 329,
+      "heading": "37.46 Cdelt 1.0E-05",
+      "level": 2,
+      "start_line": 326
+    },
+    {
+      "anchor": "47-56-ct0l-1-oe-o4",
+      "end_line": 333,
+      "heading": "47-56 Ct0L 1.Oe-O4",
+      "level": 2,
+      "start_line": 330
+    },
+    {
+      "anchor": "57-66-cp1c0n-1-2",
+      "end_line": 337,
+      "heading": "57-66 Cp1C0N 1.2",
+      "level": 2,
+      "start_line": 334
+    },
+    {
+      "anchor": "67-76-ntext-3",
+      "end_line": 392,
+      "heading": "67-76 Ntext 3",
+      "level": 2,
+      "start_line": 338
+    },
+    {
+      "anchor": "6-10-nsc",
+      "end_line": 412,
+      "heading": "6-10 Nsc(二)",
+      "level": 2,
+      "start_line": 393
+    },
+    {
+      "anchor": "1-10-csp-i",
+      "end_line": 416,
+      "heading": "1-10 Csp(I)",
+      "level": 2,
+      "start_line": 413
+    },
+    {
+      "anchor": "11-20-frm-i",
+      "end_line": 420,
+      "heading": "11-20 Frm(I)",
+      "level": 2,
+      "start_line": 417
+    },
+    {
+      "anchor": "21-30-frs-i",
+      "end_line": 424,
+      "heading": "21-30 Frs(I)",
+      "level": 2,
+      "start_line": 421
+    },
+    {
+      "anchor": "31-40-sl-i",
+      "end_line": 428,
+      "heading": "31-40 Sl(I)",
+      "level": 2,
+      "start_line": 425
+    },
+    {
+      "anchor": "43-50-dent-i",
+      "end_line": 438,
+      "heading": "43-50 Dent(I)",
+      "level": 2,
+      "start_line": 429
+    },
+    {
+      "anchor": "1-2-mx",
+      "end_line": 442,
+      "heading": "1-2 Mx",
+      "level": 2,
+      "start_line": 439
+    },
+    {
+      "anchor": "3-5-ih-i",
+      "end_line": 446,
+      "heading": "3-5 Ih(I)",
+      "level": 2,
+      "start_line": 443
+    },
+    {
+      "anchor": "6-16-temp-i",
+      "end_line": 641,
+      "heading": "6-16 Temp(I)",
+      "level": 2,
+      "start_line": 447
+    },
+    {
+      "anchor": "1-10-bsq-ld",
+      "end_line": 657,
+      "heading": "1-10 Bsq(Ld)",
+      "level": 2,
+      "start_line": 642
+    },
+    {
+      "anchor": "1-2-j",
+      "end_line": 661,
+      "heading": "1-2 J",
+      "level": 2,
+      "start_line": 658
+    },
+    {
+      "anchor": "3-5-ntemp-i",
+      "end_line": 665,
+      "heading": "3-5 Ntemp(I)",
+      "level": 2,
+      "start_line": 662
+    },
+    {
+      "anchor": "7-10-idtemp-i",
+      "end_line": 685,
+      "heading": "7-10 Idtemp(I)",
+      "level": 2,
+      "start_line": 666
+    },
+    {
+      "anchor": "section-b-erc",
+      "end_line": 689,
+      "heading": "Section B. ERC",
+      "level": 1,
+      "start_line": 686
+    },
+    {
+      "anchor": "b-1-erc-data-3x-9i5",
+      "end_line": 701,
+      "heading": "B-1 ERC data (3X,9I5).",
+      "level": 1,
+      "start_line": 690
+    },
+    {
+      "anchor": "1-3-kard-002",
+      "end_line": 717,
+      "heading": "1-3 Kard 002",
+      "level": 2,
+      "start_line": 702
+    },
+    {
+      "anchor": "1-3-kard-003",
+      "end_line": 733,
+      "heading": "1-3 Kard 003",
+      "level": 2,
+      "start_line": 718
+    },
+    {
+      "anchor": "1-3-kard-004",
+      "end_line": 745,
+      "heading": "1-3 Kard 004",
+      "level": 2,
+      "start_line": 734
+    },
+    {
+      "anchor": "1-3-kard-008",
+      "end_line": 749,
+      "heading": "1-3 Kard 008",
+      "level": 2,
+      "start_line": 746
+    },
+    {
+      "anchor": "4-20",
+      "end_line": 757,
+      "heading": "4.20",
+      "level": 1,
+      "start_line": 750
+    },
+    {
+      "anchor": "1-3-kard-co9",
+      "end_line": 769,
+      "heading": "1-3 Kard Co9",
+      "level": 2,
+      "start_line": 758
+    },
+    {
+      "anchor": "1-3-kard-01g",
+      "end_line": 779,
+      "heading": "1-3 Kard 01G",
+      "level": 2,
+      "start_line": 770
+    },
+    {
+      "anchor": "secs",
+      "end_line": 781,
+      "heading": "Secs",
+      "level": 2,
+      "start_line": 780
+    },
+    {
+      "anchor": "mins",
+      "end_line": 783,
+      "heading": "Mins",
+      "level": 2,
+      "start_line": 782
+    },
+    {
+      "anchor": "hour",
+      "end_line": 785,
+      "heading": "Hour",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "days",
+      "end_line": 787,
+      "heading": "Days",
+      "level": 2,
+      "start_line": 786
+    },
+    {
+      "anchor": "year",
+      "end_line": 793,
+      "heading": "Year",
+      "level": 2,
+      "start_line": 788
+    },
+    {
+      "anchor": "1-3-kard-011",
+      "end_line": 807,
+      "heading": "1-3 Kard 011",
+      "level": 2,
+      "start_line": 794
+    },
+    {
+      "anchor": "1-3-kard-012",
+      "end_line": 830,
+      "heading": "1-3 Kard 012",
+      "level": 2,
+      "start_line": 808
+    },
+    {
+      "anchor": "1-3-kard-013",
+      "end_line": 844,
+      "heading": "1-3 Kard 013",
+      "level": 2,
+      "start_line": 831
+    },
+    {
+      "anchor": "1-3-kard-020",
+      "end_line": 871,
+      "heading": "1-3 Kard 020",
+      "level": 2,
+      "start_line": 845
+    },
+    {
+      "anchor": "1-3-kard-021",
+      "end_line": 905,
+      "heading": "1-3 Kard 021",
+      "level": 2,
+      "start_line": 872
+    },
+    {
+      "anchor": "1-3-kard-033",
+      "end_line": 925,
+      "heading": "1-3 Kard 033",
+      "level": 2,
+      "start_line": 906
+    },
+    {
+      "anchor": "1-3-kard-025",
+      "end_line": 949,
+      "heading": "1-3 Kard 025",
+      "level": 2,
+      "start_line": 926
+    },
+    {
+      "anchor": "recycle-fraction-options",
+      "end_line": 980,
+      "heading": "Recycle Fraction Options:",
+      "level": 1,
+      "start_line": 950
+    },
+    {
+      "anchor": "1-3-kard-024",
+      "end_line": 998,
+      "heading": "1-3 Kard 024",
+      "level": 2,
+      "start_line": 981
+    },
+    {
+      "anchor": "1-3-kard-025",
+      "end_line": 1008,
+      "heading": "1-3 Kard 025",
+      "level": 2,
+      "start_line": 999
+    },
+    {
+      "anchor": "1-3-kard-029",
+      "end_line": 1009,
+      "heading": "1-3 Kard 029",
+      "level": 2,
+      "start_line": 1009
+    },
+    {
+      "anchor": "4-6-i22n1",
+      "end_line": 1015,
+      "heading": "4-6 I22N1",
+      "level": 2,
+      "start_line": 1010
+    },
+    {
+      "anchor": "1-3-kard-030",
+      "end_line": 1016,
+      "heading": "1-3 Kard 030",
+      "level": 2,
+      "start_line": 1016
+    },
+    {
+      "anchor": "4-6-i22n2",
+      "end_line": 1022,
+      "heading": "4-6 I22N2",
+      "level": 2,
+      "start_line": 1017
+    },
+    {
+      "anchor": "1-3-kard-031",
+      "end_line": 1023,
+      "heading": "1-3 Kard 031",
+      "level": 2,
+      "start_line": 1023
+    },
+    {
+      "anchor": "4-6-i22d",
+      "end_line": 1029,
+      "heading": "4-6 I22D",
+      "level": 2,
+      "start_line": 1024
+    },
+    {
+      "anchor": "1-3-kard-032",
+      "end_line": 1030,
+      "heading": "1-3 Kard 032",
+      "level": 2,
+      "start_line": 1030
+    },
+    {
+      "anchor": "4-6-123d",
+      "end_line": 1036,
+      "heading": "4-6 123D",
+      "level": 2,
+      "start_line": 1031
+    },
+    {
+      "anchor": "1-3-kard-033",
+      "end_line": 1037,
+      "heading": "1-3 Kard 033",
+      "level": 2,
+      "start_line": 1037
+    },
+    {
+      "anchor": "4-6-129n",
+      "end_line": 1043,
+      "heading": "4-6 129N",
+      "level": 2,
+      "start_line": 1038
+    },
+    {
+      "anchor": "1-3-kard-034",
+      "end_line": 1044,
+      "heading": "1-3 Kard 034",
+      "level": 2,
+      "start_line": 1044
+    },
+    {
+      "anchor": "4-6-l30n",
+      "end_line": 1052,
+      "heading": "4-6 L30N",
+      "level": 2,
+      "start_line": 1045
+    },
+    {
+      "anchor": "xard",
+      "end_line": 1058,
+      "heading": "Xard",
+      "level": 2,
+      "start_line": 1053
+    },
+    {
+      "anchor": "l3od",
+      "end_line": 1074,
+      "heading": "L3Od",
+      "level": 2,
+      "start_line": 1059
+    },
+    {
+      "anchor": "n21l",
+      "end_line": 1080,
+      "heading": "N21L",
+      "level": 2,
+      "start_line": 1075
+    },
+    {
+      "anchor": "section-c-fission-product-and-delayed-neutron-data",
+      "end_line": 1155,
+      "heading": "Section C. Fission Product and Delayed Neutron Data",
+      "level": 1,
+      "start_line": 1081
+    },
+    {
+      "anchor": "se-tion-d-opti",
+      "end_line": 1252,
+      "heading": "Se-tion D. OPTI",
+      "level": 1,
+      "start_line": 1156
+    },
+    {
+      "anchor": "4-34",
+      "end_line": 1306,
+      "heading": "4.34",
+      "level": 1,
+      "start_line": 1253
+    },
+    {
+      "anchor": "chapter-5",
+      "end_line": 1308,
+      "heading": "CHAPTER 5",
+      "level": 1,
+      "start_line": 1307
+    },
+    {
+      "anchor": "discussion-of-input",
+      "end_line": 1312,
+      "heading": "DISCUSSION OF INPUT",
+      "level": 1,
+      "start_line": 1309
+    },
+    {
+      "anchor": "a-l2-convergence-information",
+      "end_line": 1316,
+      "heading": "A-l2 Convergence Information",
+      "level": 1,
+      "start_line": 1313
+    },
+    {
+      "anchor": "a-15-history-control-information",
+      "end_line": 1326,
+      "heading": "A-15 HISTORY Control Information",
+      "level": 1,
+      "start_line": 1317
+    },
+    {
+      "anchor": "a-19-history-data",
+      "end_line": 1332,
+      "heading": "A-19 HISTORY Data",
+      "level": 1,
+      "start_line": 1327
+    },
+    {
+      "anchor": "a-19-1-history-carrier-cost-control-information",
+      "end_line": 1354,
+      "heading": "A-19.1 HISTORY Carrier Cost Control Information",
+      "level": 1,
+      "start_line": 1333
+    },
+    {
+      "anchor": "a-21-history-nuclide-information",
+      "end_line": 1364,
+      "heading": "A-21 HISTORY Nuclide Information",
+      "level": 1,
+      "start_line": 1355
+    },
+    {
+      "anchor": "a-35-atom-densities-by-material",
+      "end_line": 1368,
+      "heading": "A-35 Atom Densities by Material",
+      "level": 1,
+      "start_line": 1365
+    },
+    {
+      "anchor": "a-36-super-region-subregion-correspondence",
+      "end_line": 1372,
+      "heading": "A-36 Super Region Subregion Correspondence",
+      "level": 1,
+      "start_line": 1369
+    },
+    {
+      "anchor": "a-1-group-structure",
+      "end_line": 1376,
+      "heading": "A:1 Group Structure",
+      "level": 1,
+      "start_line": 1373
+    },
+    {
+      "anchor": "a42-43-modric-convergence-and-search-information",
+      "end_line": 1390,
+      "heading": "A42,43 MODRIC Convergence and Search Information",
+      "level": 1,
+      "start_line": 1377
+    },
+    {
+      "anchor": "a-43-modric-search-information",
+      "end_line": 1394,
+      "heading": "A-43 MODRIC Search Information",
+      "level": 1,
+      "start_line": 1391
+    },
+    {
+      "anchor": "a44-criticality-search-nuclides",
+      "end_line": 1398,
+      "heading": "A44 Criticality Search Nuclides",
+      "level": 1,
+      "start_line": 1395
+    },
+    {
+      "anchor": "a-45-two-dimensional-synthesis-information",
+      "end_line": 1406,
+      "heading": "A-45 Two-Dimensional Synthesis Information",
+      "level": 1,
+      "start_line": 1399
+    },
+    {
+      "anchor": "a46-region-information",
+      "end_line": 1416,
+      "heading": "A46 Region Information",
+      "level": 1,
+      "start_line": 1407
+    },
+    {
+      "anchor": "a-52-buckling-option-1",
+      "end_line": 1440,
+      "heading": "A-52 Buckling Option 1",
+      "level": 1,
+      "start_line": 1417
+    },
+    {
+      "anchor": "a-55-modric-erc-nuclide-number-correspondence",
+      "end_line": 1444,
+      "heading": "A-55 MODRIC-ERC Nuclide Number Correspondence",
+      "level": 1,
+      "start_line": 1441
+    },
+    {
+      "anchor": "a-58-cross-section-set-assignment",
+      "end_line": 1448,
+      "heading": "A-58 Cross-Section Set Assignment",
+      "level": 1,
+      "start_line": 1445
+    },
+    {
+      "anchor": "b-1-erc-data",
+      "end_line": 1462,
+      "heading": "B-1 ERC Data",
+      "level": 1,
+      "start_line": 1449
+    },
+    {
+      "anchor": "b-2-erc-convergence-and-other-data",
+      "end_line": 1470,
+      "heading": "B-2 ERC Convergence and Other Data",
+      "level": 1,
+      "start_line": 1463
+    },
+    {
+      "anchor": "b-3-erc-residence-times-and-other-data",
+      "end_line": 1474,
+      "heading": "B-3 ERC Residence Times and Other Data",
+      "level": 1,
+      "start_line": 1471
+    },
+    {
+      "anchor": "b-4-tolerance-for-merc-convergence-and-other-data",
+      "end_line": 1494,
+      "heading": "B-4 Tolerance for MERC Convergence and Other Data",
+      "level": 1,
+      "start_line": 1475
+    },
+    {
+      "anchor": "b-ll-processing-cycle-times",
+      "end_line": 1518,
+      "heading": "B-ll Processing Cycle Times",
+      "level": 1,
+      "start_line": 1495
+    },
+    {
+      "anchor": "b-12-processing-equations",
+      "end_line": 1524,
+      "heading": "B-12 Processing Equations",
+      "level": 1,
+      "start_line": 1519
+    },
+    {
+      "anchor": "b-20-stream-data",
+      "end_line": 1534,
+      "heading": "B-20 Stream Data",
+      "level": 1,
+      "start_line": 1525
+    },
+    {
+      "anchor": "b-21-removal-and-recycle-data",
+      "end_line": 1550,
+      "heading": "B-21 Removal and Recycle Data",
+      "level": 1,
+      "start_line": 1535
+    },
+    {
+      "anchor": "b-22-feed-atom-density-and-recycle-options",
+      "end_line": 1560,
+      "heading": "B-22 Feed, Atom-Density, and Recycle Options",
+      "level": 1,
+      "start_line": 1551
+    },
+    {
+      "anchor": "b-23-erc-material-balance-data",
+      "end_line": 1564,
+      "heading": "B-23 ERC Material-Balance Data",
+      "level": 1,
+      "start_line": 1561
+    },
+    {
+      "anchor": "b-24-value-of-materials",
+      "end_line": 1632,
+      "heading": "B-24 Value of Materials",
+      "level": 1,
+      "start_line": 1565
+    },
+    {
+      "anchor": "d-2-allowable-flux",
+      "end_line": 1636,
+      "heading": "D-2 Allowable Flux",
+      "level": 1,
+      "start_line": 1633
+    },
+    {
+      "anchor": "d-6-number-of-opti-cycles",
+      "end_line": 1640,
+      "heading": "D-6 Number of OPTI Cycles",
+      "level": 1,
+      "start_line": 1637
+    },
+    {
+      "anchor": "d-7-opti-control",
+      "end_line": 1648,
+      "heading": "D-7 OPTI Control",
+      "level": 1,
+      "start_line": 1641
+    },
+    {
+      "anchor": "d-3-opti-control",
+      "end_line": 1656,
+      "heading": "D-3 OPTI Control",
+      "level": 1,
+      "start_line": 1649
+    },
+    {
+      "anchor": "d-9-optimization-variable",
+      "end_line": 1665,
+      "heading": "D-9 Optimization Variable",
+      "level": 1,
+      "start_line": 1657
+    },
+    {
+      "anchor": "6-1",
+      "end_line": 1667,
+      "heading": "6.1",
+      "level": 1,
+      "start_line": 1666
+    },
+    {
+      "anchor": "chapter-6",
+      "end_line": 1669,
+      "heading": "CHAPTER 6",
+      "level": 1,
+      "start_line": 1668
+    },
+    {
+      "anchor": "user-information",
+      "end_line": 1671,
+      "heading": "USER INFORMATION",
+      "level": 1,
+      "start_line": 1670
+    },
+    {
+      "anchor": "control-cards",
+      "end_line": 1676,
+      "heading": "Control Cards",
+      "level": 1,
+      "start_line": 1672
+    },
+    {
+      "anchor": "hfbq-job-12073-y-12-9104-2-h-bauman-msglevel-1",
+      "end_line": 1677,
+      "heading": "//Hfbq Job(12073),Y-12 9104-2 H Bauman,Msglevel=1,",
+      "level": 2,
+      "start_line": 1677
+    },
+    {
+      "anchor": "class-f-typrun-hcld-region-1536k",
+      "end_line": 1678,
+      "heading": "//Class=F,Typrun=Hcld,Region=1536K",
+      "level": 2,
+      "start_line": 1678
+    },
+    {
+      "anchor": "rod-exec-linkngo-parn-link-list-region-go-1536k",
+      "end_line": 1682,
+      "heading": "//Rod Exec Linkngo,Parn.Link='List',Region.Go=1536K",
+      "level": 2,
+      "start_line": 1679
+    },
+    {
+      "anchor": "link-sysin-dd",
+      "end_line": 1683,
+      "heading": "//Link.Sysin Dd =",
+      "level": 2,
+      "start_line": 1683
+    },
+    {
+      "anchor": "include-ft33f001",
+      "end_line": 1687,
+      "heading": "Include Ft33F001",
+      "level": 2,
+      "start_line": 1684
+    },
+    {
+      "anchor": "go-ft08f001-dd-sysout-a-dcb-recfm-fba-lrecl-133-blksize-3458",
+      "end_line": 1688,
+      "heading": "//Go.Ft08F001 Dd Sysout=A,Dcb=(Recfm=Fba,Lrecl=133,Blksize=3458),",
+      "level": 2,
+      "start_line": 1688
+    },
+    {
+      "anchor": "space-3458-600-rlse",
+      "end_line": 1689,
+      "heading": "//Space=(3458,(600),Rlse)",
+      "level": 2,
+      "start_line": 1689
+    },
+    {
+      "anchor": "go-ft01f001-dd-unit-sysda-space-trk-27-dcb-recfm-f-blksize-80",
+      "end_line": 1690,
+      "heading": "//Go.Ft01F001 Dd Unit=Sysda,Space=(Trk,(27)),Dcb=(Recfm=F,Blksize=80)",
+      "level": 2,
+      "start_line": 1690
+    },
+    {
+      "anchor": "go-ft02f001-dd-unit-tape9-label-nl-volume-ser-2-disp-old",
+      "end_line": 1691,
+      "heading": "//Go.Ft02F001 Dd Unit=Tape9,Label=(,Nl),Volume=Ser=2,Disp=Old,",
+      "level": 2,
+      "start_line": 1691
+    },
+    {
+      "anchor": "dcb-recfm-vb-lrecl-3600-blksize-3604",
+      "end_line": 1693,
+      "heading": "//Dcb=(Recfm=Vb,Lrecl=3600,Blksize=3604)",
+      "level": 2,
+      "start_line": 1692
+    },
+    {
+      "anchor": "go-ft10f001-dd",
+      "end_line": 1710,
+      "heading": "//Go.Ft10F001 Dd *",
+      "level": 2,
+      "start_line": 1694
+    },
+    {
+      "anchor": "cross-section-tape",
+      "end_line": 1760,
+      "heading": "Cross-Section Tape",
+      "level": 1,
+      "start_line": 1711
+    },
+    {
+      "anchor": "rod-subroutines",
+      "end_line": 1790,
+      "heading": "ROD Subroutines",
+      "level": 1,
+      "start_line": 1761
+    },
+    {
+      "anchor": "chapter-7",
+      "end_line": 1792,
+      "heading": "CHAPTER 7",
+      "level": 1,
+      "start_line": 1791
+    },
+    {
+      "anchor": "theory",
+      "end_line": 1794,
+      "heading": "THEORY",
+      "level": 1,
+      "start_line": 1793
+    },
+    {
+      "anchor": "modric-erc",
+      "end_line": 1897,
+      "heading": "MODRIC-ERC",
+      "level": 1,
+      "start_line": 1795
+    },
+    {
+      "anchor": "two-dimensional-synthesis",
+      "end_line": 1911,
+      "heading": "Two-Dimensional Synthesis",
+      "level": 1,
+      "start_line": 1898
+    },
+    {
+      "anchor": "opti",
+      "end_line": 1948,
+      "heading": "OPTI",
+      "level": 1,
+      "start_line": 1912
+    },
+    {
+      "anchor": "ornl-dwg-71-1888",
+      "end_line": 1953,
+      "heading": "Ornl-Dwg 71-1888",
+      "level": 2,
+      "start_line": 1949
+    },
+    {
+      "anchor": "ornl-dwg-71-1885",
+      "end_line": 1961,
+      "heading": "Ornl-Dwg 71-1885",
+      "level": 2,
+      "start_line": 1954
+    },
+    {
+      "anchor": "ornl-dwg-71-2566",
+      "end_line": 1976,
+      "heading": "Ornl-Dwg 71-2566",
+      "level": 2,
+      "start_line": 1962
+    },
+    {
+      "anchor": "history",
+      "end_line": 1988,
+      "heading": "HISTORY",
+      "level": 1,
+      "start_line": 1977
+    },
+    {
+      "anchor": "chapter-9",
+      "end_line": 1990,
+      "heading": "CHAPTER 9",
+      "level": 1,
+      "start_line": 1989
+    },
+    {
+      "anchor": "references",
+      "end_line": 1999,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1991
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 2001,
+      "heading": "Appendices",
+      "level": 2,
+      "start_line": 2000
+    },
+    {
+      "anchor": "a-1",
+      "end_line": 2003,
+      "heading": "A. 1",
+      "level": 1,
+      "start_line": 2002
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 2005,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 2004
+    },
+    {
+      "anchor": "the-erc-equations",
+      "end_line": 2007,
+      "heading": "THE ERC EQUATIONS",
+      "level": 1,
+      "start_line": 2006
+    },
+    {
+      "anchor": "subscripts",
+      "end_line": 2011,
+      "heading": "Subscripts",
+      "level": 1,
+      "start_line": 2008
+    },
+    {
+      "anchor": "input-variables-in-order-of-appearance-in-equations",
+      "end_line": 2015,
+      "heading": "Input Variables (in order of appearance in equations)",
+      "level": 1,
+      "start_line": 2012
+    },
+    {
+      "anchor": "a-2",
+      "end_line": 2019,
+      "heading": "A. 2",
+      "level": 1,
+      "start_line": 2016
+    },
+    {
+      "anchor": "computed-variables",
+      "end_line": 2032,
+      "heading": "Computed Variables",
+      "level": 1,
+      "start_line": 2020
+    },
+    {
+      "anchor": "a-5",
+      "end_line": 2199,
+      "heading": "A. 5",
+      "level": 2,
+      "start_line": 2033
+    },
+    {
+      "anchor": "a-8",
+      "end_line": 2282,
+      "heading": "A.8",
+      "level": 1,
+      "start_line": 2200
+    },
+    {
+      "anchor": "b-t-l-u-b-2-t-a-r",
+      "end_line": 2327,
+      "heading": "B T L = U B 2 ^ {*} T A R",
+      "level": 2,
+      "start_line": 2283
+    },
+    {
+      "anchor": "equations-in-ercout",
+      "end_line": 2369,
+      "heading": "Equations in ERCOUT",
+      "level": 1,
+      "start_line": 2328
+    },
+    {
+      "anchor": "a-11",
+      "end_line": 2382,
+      "heading": "A. 11",
+      "level": 2,
+      "start_line": 2370
+    },
+    {
+      "anchor": "j-1-m-a-t-s",
+      "end_line": 2427,
+      "heading": "J = 1, M A T S",
+      "level": 2,
+      "start_line": 2383
+    },
+    {
+      "anchor": "a-12",
+      "end_line": 2450,
+      "heading": "A. 12",
+      "level": 2,
+      "start_line": 2428
+    },
+    {
+      "anchor": "i-1-n-5-0",
+      "end_line": 2454,
+      "heading": "I = 1, N 5 0",
+      "level": 2,
+      "start_line": 2451
+    },
+    {
+      "anchor": "j-1-m-a-t-s",
+      "end_line": 2474,
+      "heading": "J = 1, M A T S",
+      "level": 2,
+      "start_line": 2455
+    },
+    {
+      "anchor": "i-1-n-5-0",
+      "end_line": 2478,
+      "heading": "I = 1, N 5 0",
+      "level": 2,
+      "start_line": 2475
+    },
+    {
+      "anchor": "j-1-m-a-t-s",
+      "end_line": 2519,
+      "heading": "J = 1, M A T S",
+      "level": 2,
+      "start_line": 2479
+    },
+    {
+      "anchor": "a-14",
+      "end_line": 2606,
+      "heading": "A. 14",
+      "level": 2,
+      "start_line": 2520
+    },
+    {
+      "anchor": "m-6-5-5-i-j-0",
+      "end_line": 2669,
+      "heading": "M 6 5 5 (I, J) = 0",
+      "level": 2,
+      "start_line": 2607
+    },
+    {
+      "anchor": "processing-source",
+      "end_line": 2675,
+      "heading": "Processing source",
+      "level": 1,
+      "start_line": 2670
+    },
+    {
+      "anchor": "a-16",
+      "end_line": 2707,
+      "heading": "A. 16",
+      "level": 2,
+      "start_line": 2676
+    },
+    {
+      "anchor": "b-1",
+      "end_line": 2709,
+      "heading": "B.1",
+      "level": 1,
+      "start_line": 2708
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 2711,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 2710
+    },
+    {
+      "anchor": "basic-modric-equations",
+      "end_line": 2745,
+      "heading": "BASIC MODRIC EQUATIONS",
+      "level": 1,
+      "start_line": 2712
+    },
+    {
+      "anchor": "b-2",
+      "end_line": 2779,
+      "heading": "B.2",
+      "level": 1,
+      "start_line": 2746
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 2795,
+      "heading": "Nomenclature",
+      "level": 1,
+      "start_line": 2780
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 2797,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 2796
+    },
+    {
+      "anchor": "fission-product-treatment",
+      "end_line": 2894,
+      "heading": "FISSION PRODUCT TREATMENT*",
+      "level": 1,
+      "start_line": 2798
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 2896,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 2895
+    },
+    {
+      "anchor": "the-processing-study-option",
+      "end_line": 2898,
+      "heading": "THE PROCESSING STUDY OPTION",
+      "level": 1,
+      "start_line": 2897
+    },
+    {
+      "anchor": "an-alternative-calculation-of-fission-product-poisoning",
+      "end_line": 2923,
+      "heading": "An Alternative Calculation of Fission-Product Poisoning",
+      "level": 1,
+      "start_line": 2899
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3359",
+  "tables": [],
+  "title": "Contract No. W-7405-eng-26",
+  "topics": [
+    "reactor-physics-neutronics",
+    "program-history",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "off-gas-fission-products-and-tritium",
+    "breeder-and-converter-design",
+    "graphite-and-moderator-behavior",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,753 @@
+{
+  "authors": [
+    "James H. Shaffer",
+    "LEGAL NOTICE",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4616.jsonl",
+  "date_text": "June 1, 1965",
+  "doc_id": "ornl-4616",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 22,
+        "line_hits": [
+          228,
+          240,
+          242,
+          254,
+          258,
+          266,
+          268,
+          275,
+          285,
+          290,
+          320,
+          331,
+          338,
+          365,
+          392,
+          424,
+          430,
+          432,
+          479,
+          493,
+          521,
+          534
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          47,
+          60,
+          167,
+          186,
+          242,
+          283,
+          285,
+          290,
+          292,
+          296,
+          309,
+          424,
+          426,
+          428,
+          430,
+          432,
+          540,
+          544
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          46,
+          60,
+          114,
+          161,
+          171,
+          285,
+          288,
+          290,
+          292,
+          432,
+          455
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          320,
+          331,
+          479
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          258,
+          264
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          365,
+          469
+        ],
+        "name": "Monel"
+      }
+    ],
+    "component": [
+      {
+        "count": 7,
+        "line_hits": [
+          352,
+          357,
+          370,
+          410,
+          412,
+          414,
+          424
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          475,
+          525,
+          527,
+          534
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          104,
+          219,
+          222,
+          224
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          475,
+          491
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          124
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          445
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 15,
+        "line_hits": [
+          17,
+          31,
+          104,
+          134,
+          138,
+          159,
+          171,
+          639,
+          640,
+          641,
+          642,
+          643,
+          644,
+          650,
+          651
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          1,
+          21,
+          98,
+          102,
+          104,
+          116,
+          117,
+          477,
+          491,
+          544,
+          566,
+          633,
+          635
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          27,
+          649
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 67,
+        "line_hits": [
+          11,
+          38,
+          92,
+          98,
+          102,
+          104,
+          106,
+          108,
+          110,
+          112,
+          114,
+          126,
+          130,
+          136,
+          138,
+          141,
+          149,
+          157,
+          161,
+          163,
+          167,
+          171,
+          180,
+          182,
+          194,
+          202,
+          209,
+          219,
+          258,
+          264,
+          277,
+          290,
+          305,
+          380,
+          382,
+          386,
+          390,
+          412,
+          421,
+          422,
+          432,
+          434,
+          437,
+          443,
+          451,
+          475,
+          477,
+          479,
+          482,
+          487
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 23,
+        "line_hits": [
+          98,
+          104,
+          108,
+          130,
+          161,
+          171,
+          190,
+          194,
+          196,
+          202,
+          209,
+          215,
+          217,
+          224,
+          228,
+          234,
+          240,
+          266,
+          273,
+          277,
+          292,
+          447,
+          560
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          114,
+          217
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          104
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 43,
+        "line_hits": [
+          44,
+          83,
+          98,
+          114,
+          120,
+          124,
+          126,
+          136,
+          145,
+          153,
+          171,
+          180,
+          182,
+          205,
+          237,
+          242,
+          271,
+          277,
+          280,
+          283,
+          288,
+          292,
+          380,
+          384,
+          386,
+          421,
+          422,
+          449,
+          453,
+          455,
+          457,
+          459,
+          461,
+          464,
+          469,
+          471,
+          475,
+          491,
+          503,
+          525,
+          527,
+          532,
+          548
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 23,
+        "line_hits": [
+          98,
+          138,
+          159,
+          171,
+          190,
+          194,
+          196,
+          264,
+          266,
+          268,
+          290,
+          296,
+          309,
+          313,
+          327,
+          367,
+          430,
+          459,
+          507,
+          548,
+          554,
+          564,
+          566
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          47,
+          120,
+          153,
+          159,
+          167,
+          309,
+          428,
+          544,
+          552
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          46,
+          145,
+          159,
+          161,
+          552
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          45,
+          138,
+          552
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          357,
+          414
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          120
+        ],
+        "name": "FLiBe"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "b9e636306d245ceae884329a054099f8ee67b32fb7f1c6438c56ae1d3f90620c",
+  "markdown_path": "pdf/ORNL-4616/ORNL-4616/hybrid_ocr/ORNL-4616.md",
+  "report_number": "ORNL-4616",
+  "report_numbers": [
+    "ORNL-4616",
+    "ORNL-3708",
+    "ORNL-2548"
+  ],
+  "report_series": null,
+  "section_count": 39,
+  "sections": [
+    {
+      "anchor": "ornl-4616",
+      "end_line": 6,
+      "heading": "Ornl-4616",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 8,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "preparation-and-handling-of-salt-mixtures",
+      "end_line": 10,
+      "heading": "PREPARATION AND HANDLING OF SALT MIXTURES",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "for-the-molten-salt-reactor-experiment",
+      "end_line": 14,
+      "heading": "FOR THE MOLTEN SALT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 18,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "january-1971",
+      "end_line": 20,
+      "heading": "January 1971",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 30,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 32,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "contents",
+      "end_line": 34,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 91,
+      "heading": "Abstract 1",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "preparation-and-handling-of-salt-mixtures-for-the-molten-salt-reactor-experiment",
+      "end_line": 95,
+      "heading": "PREPARATION AND HANDLING OF SALT MIXTURES FOR THE MOLTEN-SALT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 99,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 111,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "2-fuel-coolant-and-flush-salt-requirements-for-the-msre",
+      "end_line": 127,
+      "heading": "2. FUEL, COOLANT, AND FLUSH SALT REQUIREMENTS FOR THE MSRE",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "quantities-of-materials",
+      "end_line": 131,
+      "heading": "Quantities of Materials",
+      "level": 1,
+      "start_line": 128
+    },
+    {
+      "anchor": "procurement-of-starting-materials",
+      "end_line": 168,
+      "heading": "Procurement of Starting Materials",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "general-chemical-specifications",
+      "end_line": 172,
+      "heading": "General Chemical Specifications",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "production-methodology",
+      "end_line": 187,
+      "heading": "Production Methodology",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "3-chemical-development-of-the-production-process",
+      "end_line": 191,
+      "heading": "3. CHEMICAL DEVELOPMENT OF THE PRODUCTION PROCESS",
+      "level": 1,
+      "start_line": 188
+    },
+    {
+      "anchor": "oxide-removal",
+      "end_line": 225,
+      "heading": "Oxide Removal",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "sulfur-removal",
+      "end_line": 255,
+      "heading": "Sulfur Removal",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "removal-of-structural-metal-impurities",
+      "end_line": 293,
+      "heading": "Removal of Structural-Metal Impurities",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "4-the-production-plant",
+      "end_line": 306,
+      "heading": "4. THE PRODUCTION PLANT",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "raw-materials-charge",
+      "end_line": 317,
+      "heading": "Raw Materials Charge",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "meltdown-and-pretreatment",
+      "end_line": 328,
+      "heading": "Meltdown and Pretreatment",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "the-batch-process",
+      "end_line": 358,
+      "heading": "The Batch Process",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "auxiliary-systems",
+      "end_line": 377,
+      "heading": "Auxiliary Systems",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "5-production-of-coolant-flush-and-fuel-solvent",
+      "end_line": 387,
+      "heading": "5. PRODUCTION OF COOLANT, FLUSH, AND FUEL SOLVENT",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "process-operating-conditions",
+      "end_line": 440,
+      "heading": "Process Operating Conditions",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "process-control",
+      "end_line": 456,
+      "heading": "Process Control",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "lithium-fluoride-densification",
+      "end_line": 472,
+      "heading": "Lithium Fluoride Densification",
+      "level": 1,
+      "start_line": 457
+    },
+    {
+      "anchor": "6-preparation-of-enriched-fuel-concentrate",
+      "end_line": 488,
+      "heading": "6. PREPARATION OF ENRICHED FUEL CONCENTRATE",
+      "level": 1,
+      "start_line": 473
+    },
+    {
+      "anchor": "7-preparation-of-fuel-enriching-capsules",
+      "end_line": 522,
+      "heading": "7. PREPARATION OF FUEL ENRICHING CAPSULES",
+      "level": 1,
+      "start_line": 489
+    },
+    {
+      "anchor": "8-reactor-loading-operations",
+      "end_line": 541,
+      "heading": "8. REACTOR LOADING OPERATIONS",
+      "level": 1,
+      "start_line": 523
+    },
+    {
+      "anchor": "9-production-economics",
+      "end_line": 561,
+      "heading": "9. PRODUCTION ECONOMICS",
+      "level": 1,
+      "start_line": 542
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 571,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 562
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 636,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 572
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 653,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 637
+    }
+  ],
+  "source_dir": "pdf/ORNL-4616",
+  "tables": [],
+  "title": "ORNL-4616",
+  "topics": [
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "pumps-loops-and-heat-exchangers",
+    "fuel-processing-and-reprocessing",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

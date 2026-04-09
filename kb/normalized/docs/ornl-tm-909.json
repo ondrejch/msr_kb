@@ -1,0 +1,828 @@
+{
+  "authors": [
+    "PART IX",
+    "A.N. Smith",
+    "LEGAL NOTICE",
+    "A. N. Smith"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-909.jsonl",
+  "date_text": "1965",
+  "doc_id": "ornl-tm-909",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 15,
+        "line_hits": [
+          114,
+          138,
+          400,
+          402,
+          404,
+          410,
+          412,
+          663,
+          665,
+          667,
+          708,
+          717,
+          729,
+          734,
+          856
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 10,
+        "line_hits": [
+          114,
+          140,
+          374,
+          557,
+          610,
+          625,
+          746,
+          748,
+          750,
+          760
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          410,
+          426,
+          612,
+          740
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          738,
+          748,
+          838
+        ],
+        "name": "drain tank"
+      }
+    ],
+    "organization": [
+      {
+        "count": 34,
+        "line_hits": [
+          18,
+          34,
+          52,
+          62,
+          64,
+          66,
+          68,
+          70,
+          72,
+          74,
+          76,
+          78,
+          80,
+          82,
+          127,
+          165,
+          169,
+          205,
+          209,
+          213,
+          233,
+          306,
+          313,
+          337,
+          446,
+          449,
+          551,
+          580,
+          594,
+          854,
+          855,
+          860,
+          861,
+          862
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          44,
+          56,
+          854,
+          855,
+          862
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          40
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 84,
+        "line_hits": [
+          1,
+          24,
+          50,
+          62,
+          64,
+          66,
+          68,
+          70,
+          72,
+          74,
+          76,
+          78,
+          80,
+          82,
+          84,
+          88,
+          128,
+          131,
+          135,
+          136,
+          137,
+          139,
+          149,
+          159,
+          161,
+          165,
+          194,
+          201,
+          217,
+          223,
+          233,
+          241,
+          243,
+          246,
+          251,
+          253,
+          265,
+          298,
+          306,
+          313,
+          381,
+          442,
+          446,
+          452,
+          461,
+          469,
+          471,
+          483,
+          485,
+          495
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 52,
+        "line_hits": [
+          60,
+          88,
+          169,
+          196,
+          199,
+          209,
+          213,
+          233,
+          273,
+          278,
+          285,
+          317,
+          321,
+          339,
+          341,
+          357,
+          359,
+          370,
+          387,
+          404,
+          461,
+          469,
+          477,
+          485,
+          489,
+          493,
+          497,
+          499,
+          507,
+          521,
+          539,
+          547,
+          549,
+          553,
+          557,
+          559,
+          569,
+          571,
+          590,
+          598,
+          608,
+          614,
+          631,
+          633,
+          637,
+          641,
+          651,
+          657,
+          659,
+          717
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          792
+        ],
+        "name": "ART"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "12e7516d088d21fb4889e454e656c836a4d2e0e3878fe88cf420efd6d51b509f",
+  "markdown_path": "pdf/ORNL-TM-0909/ORNL-TM-0909/hybrid_ocr/ORNL-TM-0909.md",
+  "report_number": "ORNL-TM-909",
+  "report_numbers": [
+    "ORNL-TM-909",
+    "ORNL-TM-728",
+    "ORNL-TM-729",
+    "ORNL-TM-730",
+    "ORNL-TM-731",
+    "ORNL-TM-732",
+    "ORNL-TM-733",
+    "ORNL-TM-907",
+    "ORNL-TM-908",
+    "ORNL-TM-910"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 77,
+  "sections": [
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 2,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "part-ix",
+      "end_line": 4,
+      "heading": "Part Ix",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "safety-procedures-and-emergency-plans",
+      "end_line": 8,
+      "heading": "Safety Procedures And Emergency Plans",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 17,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "ornl-tm-909",
+      "end_line": 23,
+      "heading": "Ornl-Tm-909",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 25,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "part-ix",
+      "end_line": 27,
+      "heading": "Part Ix",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "safety-procedures-and-emergency-plans",
+      "end_line": 31,
+      "heading": "Safety Procedures And Emergency Plans",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "june-1965",
+      "end_line": 33,
+      "heading": "June 1965",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 39,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 43,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 47,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "preface",
+      "end_line": 85,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 121,
+      "heading": "Acknowledgments",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 148,
+      "heading": "List of Figures",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 150,
+      "heading": "MSRE DESIGN AND OPERATIONS REPORT",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "part-ix",
+      "end_line": 152,
+      "heading": "Part IX",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "safety-procedures-and-emergency-plans",
+      "end_line": 156,
+      "heading": "SAFETY PROCEDURES AND EMERGENCY PLANS",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 162,
+      "heading": "1. Introduction",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "2-basic-plan",
+      "end_line": 166,
+      "heading": "2. Basic Plan",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "3-emergency-philosophy",
+      "end_line": 189,
+      "heading": "3. Emergency Philosophy",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "4-organization-and-responsibilities",
+      "end_line": 202,
+      "heading": "4. Organization and Responsibilities",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "4-2-local-emergency-squad",
+      "end_line": 206,
+      "heading": "4.2. Local Emergency Squad",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "4-3-emergency-service-units",
+      "end_line": 210,
+      "heading": "4.3. Emergency Service Units",
+      "level": 1,
+      "start_line": 207
+    },
+    {
+      "anchor": "4-4-laboratory-emergency-director",
+      "end_line": 214,
+      "heading": "4.4. Laboratory Emergency Director",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "4-5-emergency-control-center",
+      "end_line": 220,
+      "heading": "4.5. Emergency Control Center",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "4-6-local-administration",
+      "end_line": 230,
+      "heading": "4.6. Local Administration",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "5-emergency-procedures",
+      "end_line": 234,
+      "heading": "5. Emergency Procedures",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "5-1-general",
+      "end_line": 262,
+      "heading": "5.1. General",
+      "level": 1,
+      "start_line": 235
+    },
+    {
+      "anchor": "5-2-personnel-evacuation-procedures",
+      "end_line": 288,
+      "heading": "5.2. Personnel Evacuation Procedures",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "security-fence",
+      "end_line": 290,
+      "heading": "Security Fence",
+      "level": 2,
+      "start_line": 289
+    },
+    {
+      "anchor": "turnsile-outbound-only",
+      "end_line": 291,
+      "heading": "Turnsile (Outbound Only)",
+      "level": 2,
+      "start_line": 291
+    },
+    {
+      "anchor": "assembly-point-no-1-and-alternate-local-emergency-control-center",
+      "end_line": 294,
+      "heading": "Assembly Point No. 1 And Alternate Local Emergency Control Center",
+      "level": 2,
+      "start_line": 292
+    },
+    {
+      "anchor": "bldg-7503-852-level",
+      "end_line": 297,
+      "heading": "Bldg. 7503 - 852' Level",
+      "level": 2,
+      "start_line": 295
+    },
+    {
+      "anchor": "plot-plan-msre-area",
+      "end_line": 300,
+      "heading": "Plot Plan - Msre Area",
+      "level": 2,
+      "start_line": 298
+    },
+    {
+      "anchor": "bldg-7503-840-level",
+      "end_line": 314,
+      "heading": "Bldg. 7503 - 840' Level",
+      "level": 2,
+      "start_line": 301
+    },
+    {
+      "anchor": "6-description-of-possible-local-emergencies-and-plans-of-action",
+      "end_line": 318,
+      "heading": "6. Description of Possible Local Emergencies and Plans of Action",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "6-1-fire",
+      "end_line": 334,
+      "heading": "6.1. Fire",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "6-2-radiation-emergency",
+      "end_line": 371,
+      "heading": "6.2. Radiation Emergency",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "6-3-high-stack-activity",
+      "end_line": 399,
+      "heading": "6.3. High Stack Activity",
+      "level": 1,
+      "start_line": 372
+    },
+    {
+      "anchor": "6-4-beryllium-release",
+      "end_line": 418,
+      "heading": "6.4. Beryllium Release",
+      "level": 1,
+      "start_line": 400
+    },
+    {
+      "anchor": "6-5-gross-leak-into-reactor-cell",
+      "end_line": 439,
+      "heading": "6.5. Gross Leak into Reactor Cell",
+      "level": 1,
+      "start_line": 419
+    },
+    {
+      "anchor": "7-background-information",
+      "end_line": 443,
+      "heading": "7. Background Information",
+      "level": 1,
+      "start_line": 440
+    },
+    {
+      "anchor": "7-1-general-site-and-plant-description",
+      "end_line": 458,
+      "heading": "7.1. General Site and Plant Description",
+      "level": 1,
+      "start_line": 444
+    },
+    {
+      "anchor": "7-2-personnel-access-control",
+      "end_line": 474,
+      "heading": "7.2. Personnel Access Control",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "i-persons-regularly-working-in-area",
+      "end_line": 486,
+      "heading": "I. Persons Regularly Working in Area",
+      "level": 1,
+      "start_line": 475
+    },
+    {
+      "anchor": "ii-persons-temporarily-or-infrequently-in-area",
+      "end_line": 490,
+      "heading": "II. Persons Temporarily or Infrequently in Area",
+      "level": 1,
+      "start_line": 487
+    },
+    {
+      "anchor": "iii-visitors",
+      "end_line": 500,
+      "heading": "III. Visitors",
+      "level": 1,
+      "start_line": 491
+    },
+    {
+      "anchor": "persons-permanently-assigned-or-frequently-entering",
+      "end_line": 502,
+      "heading": "PERSONS PERMANENTLY ASSIGNED OR FREQUENtLY ENTERING",
+      "level": 1,
+      "start_line": 501
+    },
+    {
+      "anchor": "the-msre-area",
+      "end_line": 516,
+      "heading": "The Msre Area",
+      "level": 2,
+      "start_line": 503
+    },
+    {
+      "anchor": "persons-temporarily-assigned-to-the-msre-area",
+      "end_line": 536,
+      "heading": "PERSONS TEMPORARILY ASSIGNED TO THE MSRE AREA",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "7-3-communications-systems",
+      "end_line": 554,
+      "heading": "7.3. Communications Systems",
+      "level": 1,
+      "start_line": 537
+    },
+    {
+      "anchor": "7-4-radiation-monitoring-systems",
+      "end_line": 579,
+      "heading": "7.4. Radiation Monitoring Systems",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "ornl-dwg-64-6240",
+      "end_line": 619,
+      "heading": "Ornl-Dwg 64-6240",
+      "level": 2,
+      "start_line": 580
+    },
+    {
+      "anchor": "q-2370-2r1",
+      "end_line": 662,
+      "heading": "Q-2370-2R1",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "7-5-beryllium-control-program",
+      "end_line": 666,
+      "heading": "7.5. Beryllium Control Program",
+      "level": 1,
+      "start_line": 663
+    },
+    {
+      "anchor": "1-potential-beryllium-hazards",
+      "end_line": 677,
+      "heading": "1. Potential Beryllium Hazards",
+      "level": 1,
+      "start_line": 667
+    },
+    {
+      "anchor": "q-2358-7r5",
+      "end_line": 686,
+      "heading": "Q-2358-7R5",
+      "level": 2,
+      "start_line": 678
+    },
+    {
+      "anchor": "material-list-major-parts-only",
+      "end_line": 688,
+      "heading": "Material List-Major Parts Only",
+      "level": 2,
+      "start_line": 687
+    },
+    {
+      "anchor": "2-09612-3-wa",
+      "end_line": 735,
+      "heading": "2\" \" \"09612-3-Wa",
+      "level": 2,
+      "start_line": 689
+    },
+    {
+      "anchor": "7-6-containment-ventilation-system",
+      "end_line": 745,
+      "heading": "7.6. Containment Ventilation System",
+      "level": 1,
+      "start_line": 736
+    },
+    {
+      "anchor": "7-7-reactor-off-gas-system",
+      "end_line": 751,
+      "heading": "7.7. Reactor Off-Gas System",
+      "level": 1,
+      "start_line": 746
+    },
+    {
+      "anchor": "7-8-fire-protection-system",
+      "end_line": 765,
+      "heading": "7.8. Fire Protection System",
+      "level": 1,
+      "start_line": 752
+    },
+    {
+      "anchor": "basement-plan-elev-840-0-scale-1-4-1-0",
+      "end_line": 768,
+      "heading": "Basement Plan @ Elev 840'0\" Scale: 1/4\"1'0\"",
+      "level": 2,
+      "start_line": 766
+    },
+    {
+      "anchor": "first-floor-plan-elev-852-0-scale-1-6-1-20",
+      "end_line": 769,
+      "heading": "First Floor Plan @ Elev 852'-0\" Scale:1/6-1/20\"",
+      "level": 2,
+      "start_line": 769
+    },
+    {
+      "anchor": "partial-plan-below-840-0-elev-scale-1",
+      "end_line": 774,
+      "heading": "Partial Plan Below 840-0\" Elev. Scale: %°=1/°",
+      "level": 2,
+      "start_line": 770
+    },
+    {
+      "anchor": "fire-alarm-and-anaunciation-system-functional-diagram",
+      "end_line": 776,
+      "heading": "Fire Alarm And Anaunciation System Functional Diagram",
+      "level": 2,
+      "start_line": 775
+    },
+    {
+      "anchor": "d-kkc-55167-d",
+      "end_line": 778,
+      "heading": "D-KKC-55167-D",
+      "level": 1,
+      "start_line": 777
+    },
+    {
+      "anchor": "untitled",
+      "end_line": 783,
+      "heading": "",
+      "level": 1,
+      "start_line": 779
+    },
+    {
+      "anchor": "4-faipt-all-covers-of-junction-boxes-bed",
+      "end_line": 787,
+      "heading": "4. FAIPT ALL COVERS OF JUNCTION BOXES BED",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "lio",
+      "end_line": 801,
+      "heading": "LIO",
+      "level": 1,
+      "start_line": 788
+    },
+    {
+      "anchor": "auxiliary-box-no",
+      "end_line": 803,
+      "heading": "Auxiliary Box No.",
+      "level": 1,
+      "start_line": 802
+    },
+    {
+      "anchor": "location",
+      "end_line": 851,
+      "heading": "Location",
+      "level": 1,
+      "start_line": 804
+    },
+    {
+      "anchor": "references",
+      "end_line": 857,
+      "heading": "References",
+      "level": 1,
+      "start_line": 852
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 864,
+      "heading": "Bibliography",
+      "level": 1,
+      "start_line": 858
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 954,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 865
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 961,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 955
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0909",
+  "tables": [],
+  "title": "MSRE DESIGN AND OPERATIONS REPORT",
+  "topics": [
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "fuel-processing-and-reprocessing",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": []
+}

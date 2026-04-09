@@ -1,0 +1,731 @@
+{
+  "authors": [
+    "R. B. Evans III",
+    "J.W.Koger",
+    "J. H. Devan",
+    "UNION CARBIDE CORPORATION",
+    "THIS DOCUMENT CONFIRMED AS",
+    "UNCLASSIFIED"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4575.jsonl",
+  "date_text": "1971",
+  "doc_id": "ornl-4575",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 18,
+        "line_hits": [
+          100,
+          108,
+          109,
+          128,
+          368,
+          388,
+          466,
+          500,
+          815,
+          817,
+          822,
+          839,
+          894,
+          896,
+          1101,
+          1180,
+          1211,
+          1261
+        ],
+        "name": "Inconel 600"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          126,
+          128,
+          368,
+          374,
+          376,
+          386,
+          500,
+          518,
+          520,
+          894,
+          1211,
+          1247,
+          1253,
+          1271,
+          1600,
+          1602
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          128,
+          388,
+          1303,
+          1305,
+          1321,
+          1482,
+          1506,
+          1588,
+          1618
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1600,
+          1602
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1604
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 84,
+        "line_hits": [
+          5,
+          59,
+          101,
+          103,
+          104,
+          107,
+          126,
+          136,
+          138,
+          140,
+          234,
+          252,
+          254,
+          258,
+          370,
+          372,
+          374,
+          376,
+          400,
+          418,
+          518,
+          658,
+          813,
+          819,
+          822,
+          826,
+          830,
+          832,
+          834,
+          836,
+          839,
+          845,
+          851,
+          853,
+          855,
+          859,
+          861,
+          863,
+          871,
+          874,
+          910,
+          928,
+          935,
+          948,
+          950,
+          958,
+          1163,
+          1204,
+          1215,
+          1253
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          824,
+          830,
+          834,
+          841,
+          848,
+          861,
+          1298,
+          1343,
+          1614
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          834
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 26,
+        "line_hits": [
+          27,
+          53,
+          67,
+          81,
+          1811,
+          1814,
+          1820,
+          1823,
+          1825,
+          1828,
+          1830,
+          1832,
+          1833,
+          1834,
+          1837,
+          1838,
+          1840,
+          1842,
+          1845,
+          1847,
+          1849,
+          1851,
+          1852,
+          1856,
+          1860,
+          1861
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          1,
+          19,
+          71,
+          1632,
+          1638,
+          1640,
+          1820,
+          1833,
+          1837
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1824,
+          1831,
+          1839
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          23,
+          77,
+          1855
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1819,
+          1829
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 81,
+        "line_hits": [
+          126,
+          128,
+          298,
+          376,
+          380,
+          382,
+          390,
+          396,
+          400,
+          438,
+          440,
+          472,
+          484,
+          492,
+          512,
+          520,
+          544,
+          552,
+          570,
+          574,
+          580,
+          586,
+          590,
+          592,
+          624,
+          672,
+          807,
+          813,
+          817,
+          819,
+          836,
+          855,
+          857,
+          859,
+          861,
+          871,
+          876,
+          912,
+          922,
+          935,
+          944,
+          1006,
+          1042,
+          1072,
+          1098,
+          1103,
+          1176,
+          1182,
+          1211,
+          1213
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 9,
+        "line_hits": [
+          1333,
+          1337,
+          1339,
+          1461,
+          1561,
+          1568,
+          1590,
+          1594,
+          1606
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1333,
+          1337,
+          1482,
+          1590
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          382,
+          1339,
+          1590,
+          1594
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1337,
+          1461,
+          1596
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1337,
+          1578
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1337
+        ],
+        "name": "UF3"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1337
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7ee2933035cbaf09a7eda9796a127705c0269a49305a65692b38106880d4ef86",
+  "markdown_path": "pdf/ORNL-4575/ORNL-4575/hybrid_ocr/ORNL-4575.md",
+  "report_number": "ORNL-4575",
+  "report_numbers": [
+    "ORNL-4575"
+  ],
+  "report_series": null,
+  "section_count": 47,
+  "sections": [
+    {
+      "anchor": "corrosion-in-polythermal-loop-systems",
+      "end_line": 6,
+      "heading": "Corrosion In Polythermal Loop Systems",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "ii-a-solid-state-diffusion-mechanism",
+      "end_line": 8,
+      "heading": "II. A SOLID-STATE DIFFUSION MECHANISM",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "with-and-without-liquid-film-effects",
+      "end_line": 18,
+      "heading": "With And Without Liquid Film Effects",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "moak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "Moak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "distribution-of-this-document-is-unlimited",
+      "end_line": 30,
+      "heading": "Distribution Of This Document Is Unlimited",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "this-document-confirmed-as",
+      "end_line": 32,
+      "heading": "This Document Confirmed As",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 34,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "division-of-classification",
+      "end_line": 38,
+      "heading": "Division Of Classification",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "date",
+      "end_line": 56,
+      "heading": "Date",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 68,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "june-1971",
+      "end_line": 70,
+      "heading": "June 1971",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 76,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 80,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 84,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "contents",
+      "end_line": 123,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 129,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 365,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 391,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "fundamental-concepts",
+      "end_line": 397,
+      "heading": "FUNDAMENTAL CONCEPTS",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "basic-diffusion-relationships",
+      "end_line": 461,
+      "heading": "Basic Diffusion Relationships",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "surface-behavior",
+      "end_line": 463,
+      "heading": "Surface Behavior",
+      "level": 1,
+      "start_line": 462
+    },
+    {
+      "anchor": "equilibrium-ratio",
+      "end_line": 521,
+      "heading": "Equilibrium Ratio",
+      "level": 1,
+      "start_line": 464
+    },
+    {
+      "anchor": "reaction-rates",
+      "end_line": 571,
+      "heading": "Reaction Rates",
+      "level": 1,
+      "start_line": 522
+    },
+    {
+      "anchor": "mass-transfer-across-liquid-films",
+      "end_line": 587,
+      "heading": "Mass Transfer Across Liquid Films",
+      "level": 1,
+      "start_line": 572
+    },
+    {
+      "anchor": "combined-reaction-rate-film-resistances",
+      "end_line": 615,
+      "heading": "Combined Reaction Rate-Film Resistances",
+      "level": 1,
+      "start_line": 588
+    },
+    {
+      "anchor": "surface-effects-referred-to-the-alloy",
+      "end_line": 655,
+      "heading": "Surface Effects Referred to the Alloy",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "transient-solutions",
+      "end_line": 659,
+      "heading": "TRANSIENT SOLUTIONS",
+      "level": 1,
+      "start_line": 656
+    },
+    {
+      "anchor": "review-of-the-equations",
+      "end_line": 814,
+      "heading": "Review of the Equations",
+      "level": 1,
+      "start_line": 660
+    },
+    {
+      "anchor": "application-to-sodium-inconel-600-systems",
+      "end_line": 825,
+      "heading": "Application to Sodium-Inconel 600 Systems",
+      "level": 1,
+      "start_line": 815
+    },
+    {
+      "anchor": "temperature-profiles-and-loop-configurations",
+      "end_line": 827,
+      "heading": "TEMPERATURE PROFILES AND LOOP CONFIGURATIONS",
+      "level": 1,
+      "start_line": 826
+    },
+    {
+      "anchor": "reference-and-prototype-loops",
+      "end_line": 831,
+      "heading": "Reference and Prototype Loops",
+      "level": 1,
+      "start_line": 828
+    },
+    {
+      "anchor": "the-reference-loop",
+      "end_line": 852,
+      "heading": "The Reference Loop",
+      "level": 1,
+      "start_line": 832
+    },
+    {
+      "anchor": "a-prototype-loop",
+      "end_line": 905,
+      "heading": "A Prototype Loop",
+      "level": 1,
+      "start_line": 853
+    },
+    {
+      "anchor": "quasi-steady-state-solution",
+      "end_line": 949,
+      "heading": "QUASI-STEADY-STATE SOLUTION",
+      "level": 1,
+      "start_line": 906
+    },
+    {
+      "anchor": "solution-in-terms-of-the-prototype-loop",
+      "end_line": 1179,
+      "heading": "Solution in Terms of the Prototype Loop",
+      "level": 1,
+      "start_line": 950
+    },
+    {
+      "anchor": "predicted-results-for-sodium-inconel-600-systems",
+      "end_line": 1260,
+      "heading": "Predicted Results for Sodium-Inconel 600 Systems",
+      "level": 1,
+      "start_line": 1180
+    },
+    {
+      "anchor": "discussion-of-sodium-inconel-600-results",
+      "end_line": 1287,
+      "heading": "DISCUSSION OF SODIUM-INCONEL 600 RESULTS",
+      "level": 1,
+      "start_line": 1261
+    },
+    {
+      "anchor": "application-to-molten-salt-systems",
+      "end_line": 1293,
+      "heading": "APPLICATION TO MOLTEN-SALT SYSTEMS",
+      "level": 1,
+      "start_line": 1288
+    },
+    {
+      "anchor": "thermal-convection-loops",
+      "end_line": 1340,
+      "heading": "Thermal Convection Loops",
+      "level": 1,
+      "start_line": 1294
+    },
+    {
+      "anchor": "transient-factors",
+      "end_line": 1470,
+      "heading": "Transient Factors",
+      "level": 1,
+      "start_line": 1341
+    },
+    {
+      "anchor": "quasi-steady-state-solutions",
+      "end_line": 1569,
+      "heading": "Quasi-Steady-State Solutions",
+      "level": 1,
+      "start_line": 1471
+    },
+    {
+      "anchor": "discussion-of-molten-salt-results",
+      "end_line": 1615,
+      "heading": "DISCUSSION OF MOLTEN-SALT·RESULTS",
+      "level": 1,
+      "start_line": 1570
+    },
+    {
+      "anchor": "summary",
+      "end_line": 1627,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 1616
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1808,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1628
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1862,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1809
+    }
+  ],
+  "source_dir": "pdf/ORNL-4575",
+  "tables": [],
+  "title": "ORNL-4575, Volume 2",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "instrumentation-and-controls"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

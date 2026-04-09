@@ -1,0 +1,384 @@
+{
+  "authors": [
+    "SUPERCRITICAL WATER HEAT EXCHANGER",
+    "Francis H.Clark O.W.Burke",
+    "LEGAL NOTICE",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2405.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2405",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          74
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 8,
+        "line_hits": [
+          9,
+          56,
+          62,
+          64,
+          74,
+          90,
+          583,
+          636
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          45,
+          70,
+          72,
+          74,
+          76,
+          92,
+          535
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          1,
+          25,
+          70,
+          594,
+          600,
+          655,
+          659,
+          737,
+          738
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          35
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          31
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 30,
+        "line_hits": [
+          21,
+          68,
+          70,
+          74,
+          78,
+          86,
+          200,
+          202,
+          226,
+          228,
+          236,
+          346,
+          359,
+          365,
+          437,
+          443,
+          470,
+          476,
+          478,
+          489,
+          493,
+          495,
+          499,
+          515,
+          529,
+          531,
+          533,
+          535,
+          613,
+          636
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          11,
+          56,
+          68,
+          655
+        ],
+        "name": "MSBR"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3dcb0b6c687d5762c943466f67b2bbbb4b6e3a38b35d8e58b2f5fdfad6e2bf19",
+  "markdown_path": "pdf/ORNL-TM-2405/ORNL-TM-2405/hybrid_ocr/ORNL-TM-2405.md",
+  "report_number": "ORNL-TM-2405",
+  "report_numbers": [
+    "ORNL-TM-2405"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 32,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2405",
+      "end_line": 4,
+      "heading": "Ornl-Tm-2405",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "instrumentation-and-controls-division",
+      "end_line": 6,
+      "heading": "Instrumentation And Controls Division",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "dynamic-analysis-of-a-salt",
+      "end_line": 8,
+      "heading": "Dynamic Analysis Of A Salt",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "supercritical-water-heat-exchanger",
+      "end_line": 10,
+      "heading": "Supercritical Water Heat Exchanger",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "and-throttle-used-with-msbr",
+      "end_line": 14,
+      "heading": "And Throttle Used With Msbr",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 16,
+      "heading": "Legal Notice",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "legal-no-1",
+      "end_line": 22,
+      "heading": "Legal No. 1",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "january-1969",
+      "end_line": 24,
+      "heading": "January 1969",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 30,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 34,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 38,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "contents",
+      "end_line": 55,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "dynamic-analysis-of-a-salt-supercritical-water-heat-exchanger-and-throttle-used-with-msbr",
+      "end_line": 59,
+      "heading": "DYNAMIC ANALYSIS OF A SALT-SUPERCRITICAL WATER HEAT EXCHANGER AND THROTTLE USED WITH MSBR",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 65,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 71,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "steam-generator-design-and-model",
+      "end_line": 93,
+      "heading": "STEAM GENERATOR DESIGN AND MODEL",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "partial-differential-equations-of-the-system",
+      "end_line": 229,
+      "heading": "PARTIAL DIFFERENTIAL EQUATIONS OF THE SYSTEM",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "reduction-to-ordinary-differential",
+      "end_line": 231,
+      "heading": "REDUCTION TO ORDINARY DIFFERENTIAL",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "equations-and-linearization",
+      "end_line": 360,
+      "heading": "EQUATIONS AND LINEARIZATION",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "parameters-of-the-problem",
+      "end_line": 388,
+      "heading": "PARAMETERS OF THE PROBLEM",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "a-positive-feedback-problem",
+      "end_line": 471,
+      "heading": "A POSITIVE FEEDBACK PROBLEM",
+      "level": 1,
+      "start_line": 389
+    },
+    {
+      "anchor": "limitations-of-the-model",
+      "end_line": 512,
+      "heading": "LIMITATIONS OF THE MODEL",
+      "level": 1,
+      "start_line": 472
+    },
+    {
+      "anchor": "boundaries-and-controls",
+      "end_line": 526,
+      "heading": "BOUNDARIES AND CONTROLS",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "results-of-simulation",
+      "end_line": 565,
+      "heading": "RESULTS OF SIMULATION",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "bopauth",
+      "end_line": 571,
+      "heading": "Bopauth",
+      "level": 2,
+      "start_line": 566
+    },
+    {
+      "anchor": "xrdation-bunfald-new-york",
+      "end_line": 593,
+      "heading": "Xrdation, Bunfald, New York",
+      "level": 2,
+      "start_line": 572
+    },
+    {
+      "anchor": "ornl-dwg-68-13415",
+      "end_line": 599,
+      "heading": "Ornl Dwg. 68-13415",
+      "level": 2,
+      "start_line": 594
+    },
+    {
+      "anchor": "ornl-dwg-68-13416",
+      "end_line": 652,
+      "heading": "Ornl Dwg. 68-13416",
+      "level": 2,
+      "start_line": 600
+    },
+    {
+      "anchor": "references",
+      "end_line": 658,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 653
+    },
+    {
+      "anchor": "ornl-dwg-68-13418",
+      "end_line": 669,
+      "heading": "Ornl Dwg. 68-13418",
+      "level": 2,
+      "start_line": 659
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 743,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 670
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 750,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 744
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2405",
+  "tables": [],
+  "title": "ORNL-TM-2405",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

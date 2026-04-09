@@ -1,0 +1,330 @@
+{
+  "authors": [
+    "C. J. Barton",
+    "H. H. Stone",
+    "RELEASED FOR ANNouncement"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1543.jsonl",
+  "date_text": "June 1, 1966",
+  "doc_id": "ornl-tm-1543",
+  "document_type": "progress-report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 18,
+        "line_hits": [
+          30,
+          60,
+          62,
+          64,
+          74,
+          77,
+          84,
+          90,
+          92,
+          94,
+          97,
+          143,
+          145,
+          151,
+          165,
+          169,
+          171,
+          173
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          139
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          5,
+          14,
+          38,
+          51,
+          182,
+          183,
+          184,
+          222
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          10
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          8
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 7,
+        "line_hits": [
+          30,
+          58,
+          122,
+          133,
+          149,
+          151,
+          173
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          51,
+          182
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 17,
+        "line_hits": [
+          30,
+          57,
+          59,
+          74,
+          92,
+          97,
+          114,
+          118,
+          128,
+          131,
+          137,
+          143,
+          145,
+          153,
+          159,
+          169,
+          175
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          20,
+          30,
+          51,
+          58,
+          126,
+          137,
+          183
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          175
+        ],
+        "name": "LiF-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          175
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "984d9fa2a1b3c04f61532271c48d3adb5d289ba25d4c29c8ec60fd659ced1fe8",
+  "markdown_path": "pdf/ORNL-TM-1543/ORNL-TM-1543/hybrid_ocr/ORNL-TM-1543.md",
+  "report_number": "ORNL-TM-1543",
+  "report_numbers": [
+    "ORNL-TM-1543"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 22,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 9,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 13,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 10
+    },
+    {
+      "anchor": "ornl-tm-1543",
+      "end_line": 15,
+      "heading": "Ornl-Tm-1543",
+      "level": 2,
+      "start_line": 14
+    },
+    {
+      "anchor": "copy-no-10",
+      "end_line": 19,
+      "heading": "Copy No. 10",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "removal-of-protactinium-from-molten-fluoride-breeder-blanket-mixtures",
+      "end_line": 25,
+      "heading": "Removal Of Protactinium From Molten Fluoride Breeder Blanket Mixtures",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "hc-200-mn-50",
+      "end_line": 27,
+      "heading": "Hc. $ 200, Mn .50",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 33,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 28
+    },
+    {
+      "anchor": "in-nuclear-science-abstracts",
+      "end_line": 35,
+      "heading": "In Nuclear Science Abstracts",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "notice",
+      "end_line": 39,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 46,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 54,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 65,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "experimental",
+      "end_line": 67,
+      "heading": "Experimental",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "facilities",
+      "end_line": 87,
+      "heading": "Facilities",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "procedure-for-reduction-by-molten-pb-th-alloy",
+      "end_line": 103,
+      "heading": "Procedure for Reduction by Molten Pb-Th Alloy",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "procedure-for-solid-thorium-reduction-experiments",
+      "end_line": 107,
+      "heading": "Procedure for Solid Thorium Reduction Experiments",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "results-and-discussion",
+      "end_line": 109,
+      "heading": "Results and Discussion",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "oxide-precipitation",
+      "end_line": 123,
+      "heading": "Oxide Precipitation",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "reduction-by-molten-pb-th-alloy",
+      "end_line": 134,
+      "heading": "Reduction by Molten Pb-Th Alloy",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "reduction-with-solid-thorium",
+      "end_line": 178,
+      "heading": "Reduction With Solid Thorium",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "references",
+      "end_line": 189,
+      "heading": "References",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 226,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 190
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1543",
+  "tables": [],
+  "title": "![](images/e32b69c579d7dace5c0a4e57eca872561fa2aece09947fe32f53e5af33d9269c.jpg)",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,736 @@
+{
+  "authors": [
+    "OPERATED BY",
+    "UNION CARBIDE CORPORATION",
+    "POST OFFICE BOX X",
+    "COPY NO.",
+    "AUTHOR: M.D. Shapiro",
+    "C.M. Reed",
+    "Consultant: R.B. Korsmeyer"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-mit-117.jsonl",
+  "date_text": "November 18, 1970",
+  "doc_id": "ornl-mit-117",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          202,
+          273,
+          344
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          88
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 5,
+        "line_hits": [
+          170,
+          178,
+          275,
+          278,
+          532
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 15,
+        "line_hits": [
+          3,
+          17,
+          45,
+          82,
+          95,
+          154,
+          573,
+          574,
+          575,
+          576,
+          587,
+          589,
+          600,
+          623,
+          624
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          37,
+          572
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          45
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 17,
+        "line_hits": [
+          23,
+          31,
+          76,
+          82,
+          86,
+          88,
+          95,
+          103,
+          113,
+          119,
+          141,
+          192,
+          212,
+          229,
+          245,
+          251,
+          574
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          101,
+          135,
+          170,
+          184,
+          229,
+          235,
+          245,
+          251,
+          261,
+          466,
+          508
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e1ab05308a5a8b33b3355c3932b98df6fa168044438767e5cdf6f31081e6c592",
+  "markdown_path": "pdf/ORNL-MIT-117/ORNL-MIT-117/hybrid_ocr/ORNL-MIT-117.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 83,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 6,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 12,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "post-office-box-x",
+      "end_line": 14,
+      "heading": "Post Office Box X",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "oak-ridge-tennessee-37830",
+      "end_line": 16,
+      "heading": "Oak Ridge, Tennessee 37830",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ornl-mit-117",
+      "end_line": 20,
+      "heading": "Ornl-Mit-117",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 28,
+      "heading": "Copy No.",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 34,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "notice",
+      "end_line": 46,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "contents",
+      "end_line": 48,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "page",
+      "end_line": 73,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "1-summary",
+      "end_line": 79,
+      "heading": "1. SUMMARY",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "2-introduction",
+      "end_line": 92,
+      "heading": "2. INTRODUCTION",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "school-of-chemical-engineering-practice",
+      "end_line": 106,
+      "heading": "School Of Chemical Engineering Practice",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "3-design-and-evaluation-of-alternate-separation-systems",
+      "end_line": 108,
+      "heading": "3. DESIGN AND EVALUATION OF ALTERNATE SEPARATION SYSTEMS",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "3-1-approach",
+      "end_line": 114,
+      "heading": "3.1 Approach",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "3-2-feed-pretreatment",
+      "end_line": 122,
+      "heading": "3.2 Feed Pretreatment",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "3-3-storage-of-tritiated-water",
+      "end_line": 126,
+      "heading": "3.3 Storage of Tritiated Water",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "3-4-water-distillation",
+      "end_line": 136,
+      "heading": "3.4 Water Distillation",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "3-5-thermal-diffusion",
+      "end_line": 142,
+      "heading": "3.5 Thermal Diffusion",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "3-6-cryogenic-distillation",
+      "end_line": 151,
+      "heading": "3.6 Cryogenic Distillation",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "school-of-chemical-engineering-practice",
+      "end_line": 179,
+      "heading": "School Of Chemical Engineering Practice",
+      "level": 2,
+      "start_line": 152
+    },
+    {
+      "anchor": "4-discussion-of-separation-systems",
+      "end_line": 187,
+      "heading": "4. DISCUSSION OF SEPARATION SYSTEMS",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "5-conclusions-and-recommendations",
+      "end_line": 193,
+      "heading": "5. CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 188
+    },
+    {
+      "anchor": "6-acknowledgement",
+      "end_line": 197,
+      "heading": "6. ACKNOWLEDGEMENT",
+      "level": 1,
+      "start_line": 194
+    },
+    {
+      "anchor": "7-appendix",
+      "end_line": 199,
+      "heading": "7. APPENDIX",
+      "level": 1,
+      "start_line": 198
+    },
+    {
+      "anchor": "7-1-basis-for-water-distillation-costs",
+      "end_line": 226,
+      "heading": "7.1 Basis for Water Distillation Costs",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "7-2-thermal-diffusion-system",
+      "end_line": 252,
+      "heading": "7.2 Thermal Diffusion System",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "7-3-cryogenic-distillation-system",
+      "end_line": 254,
+      "heading": "7.3 Cryogenic Distillation System",
+      "level": 1,
+      "start_line": 253
+    },
+    {
+      "anchor": "7-3-1-design-of-cryogenic-distillation-column",
+      "end_line": 270,
+      "heading": "7.3.1 Design of Cryogenic Distillation Column",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "7-3-2-basis-for-mathsf-h-2-distillation-costs",
+      "end_line": 383,
+      "heading": "7.3.2 Basis for $\\mathsf{H}_2$ Distillation Costs",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "7-4-computer-codes",
+      "end_line": 387,
+      "heading": "7.4 Computer Codes",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "xf-999998",
+      "end_line": 389,
+      "heading": "$Xf = .999998$",
+      "level": 2,
+      "start_line": 388
+    },
+    {
+      "anchor": "55-accept-k-k-if-k-57-accept-kk-if-kk-58",
+      "end_line": 391,
+      "heading": "55 Accept $K= $,K; If(K),57.; Accept Kk;If(Kk),58,",
+      "level": 2,
+      "start_line": 390
+    },
+    {
+      "anchor": "accept-prt-prt-np-np-delp-delp",
+      "end_line": 393,
+      "heading": "Accept $Prt = $,Prt,$Np = $,Np,$Delp = $,Delp",
+      "level": 2,
+      "start_line": 392
+    },
+    {
+      "anchor": "58-accept-rec-rec-wot-wot-r-r",
+      "end_line": 397,
+      "heading": "58 Accept $Rec = $,Rec,$Wot = $,Wot,$R = $,R",
+      "level": 2,
+      "start_line": 394
+    },
+    {
+      "anchor": "dwat-99-9998-bwat-xd-dwat-d-rl-v-r-r-1-sl-v-r-100-d-r-1",
+      "end_line": 401,
+      "heading": "Dwat=99.9998-Bwat;Xd=Dwat/D;Rløv=R/(R+1.);Sløv=(R+100./D)/(R+1.)",
+      "level": 2,
+      "start_line": 398
+    },
+    {
+      "anchor": "60-fformat-15-f15-10-f9-5",
+      "end_line": 403,
+      "heading": "60 Fformat(15,F15.10,F9.5)",
+      "level": 2,
+      "start_line": 402
+    },
+    {
+      "anchor": "n-1-j-1-jj-1-y-xd-pr-prt-a1-rlv-a2-dxd",
+      "end_line": 406,
+      "heading": "N=1;J=1;Jj=1;Y=Xd;Pr=Prt;A1=Rlv;A2=Dxd",
+      "level": 2,
+      "start_line": 404
+    },
+    {
+      "anchor": "20-call-alpha-pr-a",
+      "end_line": 407,
+      "heading": "20 CALL ALPHA(PR,A)",
+      "level": 2,
+      "start_line": 407
+    },
+    {
+      "anchor": "x-y-a-a-1-y-if-j-jj-k-24-22-22",
+      "end_line": 408,
+      "heading": "X=Y/(A-(A-1).)*Y);If(J-Jj*K)24,22,22",
+      "level": 2,
+      "start_line": 408
+    },
+    {
+      "anchor": "24-if-n-29-if-x-xf-30-30-25",
+      "end_line": 409,
+      "heading": "24 If(N),29.;If(X-Xf)30,30,25",
+      "level": 2,
+      "start_line": 409
+    },
+    {
+      "anchor": "29-if-x-xb-40",
+      "end_line": 410,
+      "heading": "29 IF(X-XB)40,",
+      "level": 2,
+      "start_line": 410
+    },
+    {
+      "anchor": "25-y-a1-a2-j-j-1-if-j-np-26-27-27",
+      "end_line": 411,
+      "heading": "25 Y=A1*A2;J=J+1;If(J-Np)26,27,27",
+      "level": 2,
+      "start_line": 411
+    },
+    {
+      "anchor": "26-pr-pr-delp-g-t-20",
+      "end_line": 412,
+      "heading": "26 Pr=Pr+Delp;G∅ T∅ 20",
+      "level": 2,
+      "start_line": 412
+    },
+    {
+      "anchor": "27-display-stages-j-x-x-j-1-pr-prt-jj-1-g-t-20",
+      "end_line": 413,
+      "heading": "27 Display $Stages=$,J,$X=$,X;J=1;Pr=Prt;Jj=1;G∅ T∅ 20",
+      "level": 2,
+      "start_line": 413
+    },
+    {
+      "anchor": "22-jj-jj-1-write-1-60-j-x-a-g-t-24",
+      "end_line": 415,
+      "heading": "22 Jj=Jj+1;Write(1,60)J,X,A;G∅ T∅ 24",
+      "level": 2,
+      "start_line": 414
+    },
+    {
+      "anchor": "40-write-1-60-j-x-g-t-55",
+      "end_line": 416,
+      "heading": "40 Write(1,60)J,X;G∅ T∅ 55",
+      "level": 2,
+      "start_line": 416
+    },
+    {
+      "anchor": "57-st-p",
+      "end_line": 418,
+      "heading": "57 St∅P",
+      "level": 2,
+      "start_line": 417
+    },
+    {
+      "anchor": "s-e-alpha-pr-a",
+      "end_line": 419,
+      "heading": "S'E Alpha(Pr,A)",
+      "level": 2,
+      "start_line": 419
+    },
+    {
+      "anchor": "d-n-al-9-p-9",
+      "end_line": 420,
+      "heading": "D'N Al(9),P(9)",
+      "level": 2,
+      "start_line": 420
+    },
+    {
+      "anchor": "data-al-1-0775-1-0735-1-07-1-067-1-062-1-056-1-0512-1-0478-1-044",
+      "end_line": 421,
+      "heading": "Data Al/1.0775,1.0735,1.07,1.067,1.062,1.056,1.0512,1.0478,1.044/",
+      "level": 2,
+      "start_line": 421
+    },
+    {
+      "anchor": "data-p-50-60-70-80-100-130-160-200-250-d-8-j-1-10",
+      "end_line": 422,
+      "heading": "Data P/50.,60.,70.,80.,100.,130.,160.,200.,250./D∅ 8 J=1,10",
+      "level": 2,
+      "start_line": 422
+    },
+    {
+      "anchor": "if-p-j-pr-8-9-10",
+      "end_line": 423,
+      "heading": "If(P(J)-Pr) 8,9,10",
+      "level": 2,
+      "start_line": 423
+    },
+    {
+      "anchor": "8-continue",
+      "end_line": 424,
+      "heading": "8 CONTINUE",
+      "level": 2,
+      "start_line": 424
+    },
+    {
+      "anchor": "9-a-al-j-g-t-15",
+      "end_line": 425,
+      "heading": "9 A=Al(J); G∅ T∅ 15",
+      "level": 2,
+      "start_line": 425
+    },
+    {
+      "anchor": "10-a-al-j-1-al-j-al-j-1-pr-p-j-1-p-j-p-j-1",
+      "end_line": 426,
+      "heading": "10 A=Al(J-1)+(Al(J)-Al(J-1))*(Pr-P(J-1))/(P(J)-P(J-1))",
+      "level": 2,
+      "start_line": 426
+    },
+    {
+      "anchor": "15-return",
+      "end_line": 453,
+      "heading": "15 RETURN",
+      "level": 2,
+      "start_line": 427
+    },
+    {
+      "anchor": "dxd-d-xd-v",
+      "end_line": 455,
+      "heading": "Dxd D·Xd/V",
+      "level": 2,
+      "start_line": 454
+    },
+    {
+      "anchor": "bxb-b-xb-v",
+      "end_line": 469,
+      "heading": "Bxb B·Xb/V",
+      "level": 2,
+      "start_line": 456
+    },
+    {
+      "anchor": "xf-999998-a-1-6",
+      "end_line": 471,
+      "heading": "$Xf = .999998$ $A = 1.6$",
+      "level": 2,
+      "start_line": 470
+    },
+    {
+      "anchor": "55-accept-k-k-if-k-57",
+      "end_line": 473,
+      "heading": "55 Accept $K = $, K; If(K), 57,",
+      "level": 2,
+      "start_line": 472
+    },
+    {
+      "anchor": "accept-rec-rec-wot-wot-r-r-q-q",
+      "end_line": 475,
+      "heading": "Accept $Rec=$,$Rec,$Wot=$,$Wot,$R=$,$R,$Q=$,$Q",
+      "level": 2,
+      "start_line": 474
+    },
+    {
+      "anchor": "bht0-rec-o-0002-bwat-bht0-w0t-b-bht0-bwat-xb-bwat-b-d-100-b",
+      "end_line": 477,
+      "heading": "Bht0=Rec\\*O.0002;Bwat=Bht0\\*W0T;B=Bht0+Bwat;Xb=Bwat/B;D=100.-B",
+      "level": 2,
+      "start_line": 476
+    },
+    {
+      "anchor": "dwat-99-9998-bwat-xd-dwat-d-rl-v-r-r-1-vl-d-r-1-100-q",
+      "end_line": 481,
+      "heading": "Dwat=99.9998-Bwat;Xd=Dwat/D;Rløv=R/(R+1.);Vl=D*(R+1.)-100.*(-Q)",
+      "level": 2,
+      "start_line": 478
+    },
+    {
+      "anchor": "60-fqrmat-i5-f15-10",
+      "end_line": 483,
+      "heading": "60 Fqrmat(I5,F15.10)",
+      "level": 2,
+      "start_line": 482
+    },
+    {
+      "anchor": "if-q-eq-1-0-g0-t0-70-xin-xf-q-1-xd-r-1-q-q-1-r-r-1",
+      "end_line": 485,
+      "heading": "If(Q.Eq.1.0) G0 T0 70;Xin=(Xf/(Q-1.)+Xd/(R+1.))/((Q/(Q-1.)-R/(R+1.))",
+      "level": 2,
+      "start_line": 484
+    },
+    {
+      "anchor": "display-xin-xin-g0-t0-69",
+      "end_line": 487,
+      "heading": "Display $Xin = $, Xin; G0 T0 69",
+      "level": 2,
+      "start_line": 486
+    },
+    {
+      "anchor": "70-xin-xf",
+      "end_line": 493,
+      "heading": "70 Xin=Xf",
+      "level": 2,
+      "start_line": 488
+    },
+    {
+      "anchor": "24-if-n-29-if-x-xin-30-30-25",
+      "end_line": 495,
+      "heading": "24 If(N),29,;If(X-Xin)30,30,25",
+      "level": 2,
+      "start_line": 494
+    },
+    {
+      "anchor": "29-if-x-xb-40",
+      "end_line": 497,
+      "heading": "29 IF(X-XB)40,",
+      "level": 2,
+      "start_line": 496
+    },
+    {
+      "anchor": "25-y-a1-x-a2-j-j-1-g0t0-20",
+      "end_line": 499,
+      "heading": "25 $Y = A1^{*}X + A2;J = J + 1;G0T0$ 20",
+      "level": 2,
+      "start_line": 498
+    },
+    {
+      "anchor": "22jj-jj-1-write-1-60-j-x-g0t0-24",
+      "end_line": 501,
+      "heading": "22Jj=Jj+1;Write(1,60)J,X;G0T0 24",
+      "level": 2,
+      "start_line": 500
+    },
+    {
+      "anchor": "30-n-0-a1-sl0v-a2-bxb-g0-t0-25",
+      "end_line": 503,
+      "heading": "30 N=0;A1=Sl0V;A2=-Bxb;G0 T0 25",
+      "level": 2,
+      "start_line": 502
+    },
+    {
+      "anchor": "40write-1-60-j-x-g0t055",
+      "end_line": 505,
+      "heading": "40Write(1,60)J,X;G0T055",
+      "level": 2,
+      "start_line": 504
+    },
+    {
+      "anchor": "57-stop",
+      "end_line": 517,
+      "heading": "57 STOP",
+      "level": 2,
+      "start_line": 506
+    },
+    {
+      "anchor": "7-5-nomenclature",
+      "end_line": 565,
+      "heading": "7.5 Nomenclature",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "subscripts",
+      "end_line": 569,
+      "heading": "Subscripts",
+      "level": 1,
+      "start_line": 566
+    },
+    {
+      "anchor": "7-6-literature-references",
+      "end_line": 599,
+      "heading": "7.6 Literature References",
+      "level": 1,
+      "start_line": 570
+    },
+    {
+      "anchor": "ornl-mit-117",
+      "end_line": 601,
+      "heading": "Ornl-Mit-117",
+      "level": 2,
+      "start_line": 600
+    },
+    {
+      "anchor": "internal",
+      "end_line": 627,
+      "heading": "Internal",
+      "level": 1,
+      "start_line": 602
+    },
+    {
+      "anchor": "external",
+      "end_line": 632,
+      "heading": "External",
+      "level": 1,
+      "start_line": 628
+    }
+  ],
+  "source_dir": "pdf/ORNL-MIT-117",
+  "tables": [],
+  "title": "![](images/39626a5c83c9969775281ab3c1d2e85fb42e70d83ed8638dcf22a0389139c57a.jpg)",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics",
+    "fuel-processing-and-reprocessing",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "authors": [
+    "AND ULTIMATE DISPOSAL",
+    "R. H. Guymon",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3253.jsonl",
+  "date_text": "February 10, 1971",
+  "doc_id": "ornl-tm-3253",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 20,
+        "line_hits": [
+          26,
+          48,
+          49,
+          135,
+          143,
+          145,
+          179,
+          183,
+          189,
+          193,
+          316,
+          324,
+          368,
+          394,
+          398,
+          402,
+          417,
+          420,
+          446,
+          451
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          86,
+          160,
+          161,
+          181,
+          193,
+          306,
+          368,
+          384,
+          390,
+          481,
+          485,
+          486,
+          487
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          179,
+          183
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          181
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 30,
+        "line_hits": [
+          3,
+          12,
+          28,
+          88,
+          91,
+          99,
+          191,
+          195,
+          199,
+          203,
+          205,
+          207,
+          211,
+          309,
+          368,
+          388,
+          508,
+          512,
+          520,
+          558,
+          560,
+          562,
+          573,
+          574,
+          575,
+          576,
+          577,
+          579,
+          580,
+          581
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          10,
+          63,
+          619,
+          633,
+          647,
+          651,
+          654
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          8
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 44,
+        "line_hits": [
+          16,
+          26,
+          28,
+          69,
+          71,
+          75,
+          80,
+          108,
+          199,
+          203,
+          207,
+          209,
+          316,
+          324,
+          329,
+          331,
+          337,
+          340,
+          350,
+          367,
+          368,
+          388,
+          390,
+          508,
+          514,
+          516,
+          520,
+          522,
+          526,
+          534,
+          554,
+          558,
+          560,
+          566,
+          569,
+          573,
+          574,
+          575,
+          576,
+          577,
+          578,
+          579,
+          580,
+          581
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          26,
+          71,
+          75,
+          179,
+          181,
+          183,
+          185,
+          187,
+          189,
+          191,
+          201,
+          203,
+          209,
+          217,
+          241,
+          293,
+          301,
+          316,
+          324,
+          368,
+          374,
+          394,
+          406,
+          473,
+          481,
+          493,
+          550,
+          554,
+          560,
+          566
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "257d40c41e7c87e7cb19ef9402a4aeed812cfa78e630e51e24010013ce6e106a",
+  "markdown_path": "pdf/ORNL-TM-3253/ORNL-TM-3253/hybrid_ocr/ORNL-TM-3253.md",
+  "report_number": "ORNL-TM-3253",
+  "report_numbers": [
+    "ORNL-TM-3253"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 63,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 9,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 11,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 10
+    },
+    {
+      "anchor": "ornl-tm-3253",
+      "end_line": 15,
+      "heading": "Ornl-Tm-3253",
+      "level": 2,
+      "start_line": 12
+    },
+    {
+      "anchor": "msre-procedures-for-the-period-between-examination",
+      "end_line": 17,
+      "heading": "Msre Procedures For The Period Between Examination",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "and-ultimate-disposal",
+      "end_line": 23,
+      "heading": "And Ultimate Disposal",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 29,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 24
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 33,
+      "heading": "Table of Contents",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 35,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 34
+    },
+    {
+      "anchor": "a-introduction-1",
+      "end_line": 36,
+      "heading": "A. Introduction 1",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "b-description-and-normal-operating-conditions-1",
+      "end_line": 37,
+      "heading": "B. Description And Normal Operating Conditions 1",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "c-surveillance-8",
+      "end_line": 38,
+      "heading": "C. SURVEILLANCE 8",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "d-data-10",
+      "end_line": 43,
+      "heading": "D．Data 10",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "e-abnormal-conditions-17",
+      "end_line": 44,
+      "heading": "E. Abnormal Conditions 17",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "f-power-outages-25",
+      "end_line": 45,
+      "heading": "F. Power Outages. 25",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "g-annual-tasks-26",
+      "end_line": 55,
+      "heading": "G.Annual Tasks 26",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "h-maintenance-and-repairs-34",
+      "end_line": 56,
+      "heading": "H. Maintenance And Repairs 34",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "i-removal-of-equipment-or-instrumentation-34",
+      "end_line": 57,
+      "heading": "I. REMOVAL OF EQUIPMENT OR INSTRUMENTATION 34",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "j-access-control-37",
+      "end_line": 58,
+      "heading": "J Access Control 37",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "k-organization-and-changes-38",
+      "end_line": 60,
+      "heading": "K. Organization And Changes 38",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "references-40",
+      "end_line": 66,
+      "heading": "References 40",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "a-introduction",
+      "end_line": 72,
+      "heading": "A. INTRODUCTION",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "b-description-and-normal-operating-conditions",
+      "end_line": 100,
+      "heading": "B. DESCRIPTION AND NORMAL OPERATING CONDITIONS",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "security-fence",
+      "end_line": 102,
+      "heading": "- - - - - - - - Security Fence",
+      "level": 2,
+      "start_line": 101
+    },
+    {
+      "anchor": "turnsile-outbound-only",
+      "end_line": 104,
+      "heading": "Turnsile (Outbound Only)",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "guard-post",
+      "end_line": 107,
+      "heading": "Guard Post",
+      "level": 2,
+      "start_line": 105
+    },
+    {
+      "anchor": "plot-plan-msre-area",
+      "end_line": 118,
+      "heading": "Plot Plan-Msre Area",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "equipment-and-location-abbreviations",
+      "end_line": 196,
+      "heading": "EQUIPMENT AND LOCATION ABBREVIATIONS",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "c-surveillance",
+      "end_line": 212,
+      "heading": "C. SURVEILLANCE",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "d-data",
+      "end_line": 214,
+      "heading": "D. DATA",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "1-control-room-log",
+      "end_line": 238,
+      "heading": "1. Control-Room Log",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "2-periodic-logs",
+      "end_line": 245,
+      "heading": "2. Periodic Logs",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "daily-log-phase-iii",
+      "end_line": 251,
+      "heading": "Daily Log - Phase Iii",
+      "level": 2,
+      "start_line": 246
+    },
+    {
+      "anchor": "form-d-1",
+      "end_line": 253,
+      "heading": "Form D-1",
+      "level": 1,
+      "start_line": 252
+    },
+    {
+      "anchor": "daily-log-phase-iii",
+      "end_line": 263,
+      "heading": "DAILY LOG - PHASE III",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "tx-4413",
+      "end_line": 266,
+      "heading": "Tx-4413",
+      "level": 2,
+      "start_line": 264
+    },
+    {
+      "anchor": "daily-log-phase-iii",
+      "end_line": 272,
+      "heading": "Daily Log - Phase Iii",
+      "level": 2,
+      "start_line": 267
+    },
+    {
+      "anchor": "form-d-2",
+      "end_line": 274,
+      "heading": "Form D-2",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "monthly-log",
+      "end_line": 278,
+      "heading": "MONTHLY LOG",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "note-notify-waste-monitoring-group-before-starting",
+      "end_line": 282,
+      "heading": "Note: Notify Waste Monitoring Group Before Starting",
+      "level": 2,
+      "start_line": 279
+    },
+    {
+      "anchor": "form-d-2",
+      "end_line": 284,
+      "heading": "Form D-2",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "monthly-log",
+      "end_line": 288,
+      "heading": "MONTHLY LOG",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "form-d-2",
+      "end_line": 290,
+      "heading": "Form D-2",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "monthly-log",
+      "end_line": 298,
+      "heading": "MONTHLY LOG",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "e-abnormal-conditions",
+      "end_line": 303,
+      "heading": "E. ABNORMAL CONDITIONS",
+      "level": 1,
+      "start_line": 299
+    },
+    {
+      "anchor": "annunciation",
+      "end_line": 310,
+      "heading": "Annunciation",
+      "level": 2,
+      "start_line": 304
+    },
+    {
+      "anchor": "abnormal-conditions",
+      "end_line": 320,
+      "heading": "Abnormal Conditions",
+      "level": 2,
+      "start_line": 311
+    },
+    {
+      "anchor": "abnormal-conditions",
+      "end_line": 359,
+      "heading": "Abnormal Conditions",
+      "level": 2,
+      "start_line": 321
+    },
+    {
+      "anchor": "table-e-2",
+      "end_line": 361,
+      "heading": "Table E-2",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "abnormal-conditions",
+      "end_line": 385,
+      "heading": "ABNORMAL CONDITIONS",
+      "level": 1,
+      "start_line": 362
+    },
+    {
+      "anchor": "f-power-outages",
+      "end_line": 391,
+      "heading": "F. POWER OUTAGES",
+      "level": 1,
+      "start_line": 386
+    },
+    {
+      "anchor": "g-annual-tasks",
+      "end_line": 443,
+      "heading": "G. ANNUAL TASKS",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "3-fd-2-and-fp-pressure",
+      "end_line": 456,
+      "heading": "3. FD-2 and FP Pressure",
+      "level": 1,
+      "start_line": 444
+    },
+    {
+      "anchor": "4-ventilation-system",
+      "end_line": 488,
+      "heading": "4. Ventilation System",
+      "level": 1,
+      "start_line": 457
+    },
+    {
+      "anchor": "7-miscellaneous",
+      "end_line": 503,
+      "heading": "7. Miscellaneous",
+      "level": 1,
+      "start_line": 489
+    },
+    {
+      "anchor": "h-maintenance-and-repairs",
+      "end_line": 517,
+      "heading": "H. MAINTENANCE AND REPAIRS",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "i-removal-of-equipment-or-instrumentation",
+      "end_line": 521,
+      "heading": "I. REMOVAL OF EQUIPMENT OR INSTRUMENTATION",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "form-h-1-msre-punch-list",
+      "end_line": 525,
+      "heading": "Form H-1. MSRE PUNCH LIST",
+      "level": 1,
+      "start_line": 522
+    },
+    {
+      "anchor": "form-i-1-msre-surplus-equipment-transfer",
+      "end_line": 551,
+      "heading": "Form I-1. MSRE SURPLUS EQUIPMENT TRANSFER",
+      "level": 1,
+      "start_line": 526
+    },
+    {
+      "anchor": "j-access-control",
+      "end_line": 563,
+      "heading": "J. ACCESS CONTROL",
+      "level": 1,
+      "start_line": 552
+    },
+    {
+      "anchor": "k-organization-and-changes",
+      "end_line": 570,
+      "heading": "K. ORGANIZATION AND CHANGES",
+      "level": 1,
+      "start_line": 564
+    },
+    {
+      "anchor": "references",
+      "end_line": 582,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 571
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 675,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 682,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 676
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3253",
+  "tables": [],
+  "title": "![](images/29a1e74f346dcafcbaa9abdf1d9d5bb32fced2726ffe3712d962b780b29a9c20.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": []
+}

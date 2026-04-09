@@ -1,0 +1,591 @@
+{
+  "authors": [
+    "T. M. Kegley",
+    "Jr.",
+    "A. P. Lifman",
+    "NOTICE",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-411.jsonl",
+  "date_text": "1963",
+  "doc_id": "ornl-tm-411",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 51,
+        "line_hits": [
+          14,
+          37,
+          95,
+          109,
+          111,
+          117,
+          125,
+          127,
+          135,
+          137,
+          168,
+          194,
+          201,
+          209,
+          213,
+          220,
+          222,
+          224,
+          236,
+          267,
+          271,
+          273,
+          277,
+          281,
+          293,
+          297,
+          305,
+          313,
+          315,
+          348,
+          350,
+          352,
+          358,
+          360,
+          362,
+          370,
+          372,
+          374,
+          380,
+          381,
+          382,
+          384,
+          386,
+          387,
+          388,
+          400,
+          403,
+          417,
+          454,
+          461
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 21,
+        "line_hits": [
+          95,
+          125,
+          137,
+          145,
+          168,
+          201,
+          213,
+          220,
+          259,
+          267,
+          271,
+          297,
+          305,
+          352,
+          354,
+          370,
+          372,
+          374,
+          383,
+          410,
+          477
+        ],
+        "name": "INCO-61"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          109
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          374
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          109
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          3,
+          10,
+          22,
+          45,
+          114,
+          115,
+          333,
+          341,
+          513,
+          521,
+          525
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          8,
+          55,
+          583
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          6,
+          51
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          591
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 17,
+        "line_hits": [
+          109,
+          119,
+          125,
+          162,
+          188,
+          192,
+          232,
+          281,
+          299,
+          307,
+          319,
+          374,
+          378,
+          384,
+          394,
+          396,
+          487
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          109,
+          166,
+          360,
+          364,
+          380
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          109,
+          166,
+          360,
+          364
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          175,
+          180,
+          323,
+          384
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          166,
+          360,
+          364
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          166,
+          360
+        ],
+        "name": "LiF-NaF-ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          166,
+          360
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          364
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "fc3a6e1677db2c57ff1b991f86405d3cd7e6ce485a523e3c60ef16a29b646d41",
+  "markdown_path": "pdf/ORNL-TM-0411/ORNL-TM-0411/hybrid_ocr/ORNL-TM-0411.md",
+  "report_number": "ORNL-TM-411",
+  "report_numbers": [
+    "ORNL-TM-411"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 45,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 7,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 9,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 8
+    },
+    {
+      "anchor": "ornl-tm-411",
+      "end_line": 19,
+      "heading": "Ornl-Tm-411",
+      "level": 2,
+      "start_line": 10
+    },
+    {
+      "anchor": "notice",
+      "end_line": 23,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 20
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 34,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 24
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 40,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 42,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "jan-4-1963",
+      "end_line": 44,
+      "heading": "Jan 4 1963",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 50,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 54,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 56,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "contents",
+      "end_line": 58,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 60,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "experimental-procedure-3",
+      "end_line": 68,
+      "heading": "Experimental Procedure 3",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "results-9",
+      "end_line": 88,
+      "heading": "Results 9",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "discussion-of-results-26",
+      "end_line": 98,
+      "heading": "Discussion Of Results 26",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "conclusions-31",
+      "end_line": 100,
+      "heading": "Conclusions 31",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "acknowledgment-32",
+      "end_line": 102,
+      "heading": "Acknowledgment 32",
+      "level": 2,
+      "start_line": 101
+    },
+    {
+      "anchor": "appendix-33",
+      "end_line": 106,
+      "heading": "Appendix 33",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 113,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-61615",
+      "end_line": 120,
+      "heading": "Unclassified Ornl-Lr-Dwg 61615",
+      "level": 2,
+      "start_line": 114
+    },
+    {
+      "anchor": "experimental-procedure",
+      "end_line": 122,
+      "heading": "EXPERIMENTAL PROCEDURE",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "specimen-description",
+      "end_line": 130,
+      "heading": "Specimen Description",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "test-method",
+      "end_line": 159,
+      "heading": "Test Method",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "test-conditions",
+      "end_line": 170,
+      "heading": "Test Conditions",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "results",
+      "end_line": 172,
+      "heading": "RESULTS",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "visual-examination",
+      "end_line": 181,
+      "heading": "Visual Examination",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "dimensional-changes",
+      "end_line": 185,
+      "heading": "Dimensional Changes",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "metallographic-examination",
+      "end_line": 189,
+      "heading": "Metallographic Examination",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "surface-films",
+      "end_line": 229,
+      "heading": "Surface Films",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "surface-attack",
+      "end_line": 233,
+      "heading": "Surface Attack",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "intergranular-attack",
+      "end_line": 237,
+      "heading": "Intergranular Attack",
+      "level": 1,
+      "start_line": 234
+    },
+    {
+      "anchor": "grain-boundary-modifications",
+      "end_line": 278,
+      "heading": "Grain-Boundary Modifications",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "bend-tests",
+      "end_line": 282,
+      "heading": "Bend Tests",
+      "level": 1,
+      "start_line": 279
+    },
+    {
+      "anchor": "summary",
+      "end_line": 320,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "discussion-of-results",
+      "end_line": 330,
+      "heading": "DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 332,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 331
+    },
+    {
+      "anchor": "ornl-lr-dwg70691",
+      "end_line": 338,
+      "heading": "Ornl-Lr-Dwg70691",
+      "level": 2,
+      "start_line": 333
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 340,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 339
+    },
+    {
+      "anchor": "ornl-lr-dwg-70692",
+      "end_line": 355,
+      "heading": "Ornl-Lr-Dwg 70692",
+      "level": 2,
+      "start_line": 341
+    },
+    {
+      "anchor": "comparison-with-previous-studies",
+      "end_line": 375,
+      "heading": "Comparison With Previous Studies",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 389,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 397,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 390
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 498,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "distribute",
+      "end_line": 617,
+      "heading": "DISTRIBUTE",
+      "level": 1,
+      "start_line": 499
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0411",
+  "tables": [],
+  "title": "![](images/dcb613a52593c26fcaa093859b3d6f6b2fd208a687ae850908f5fd1c2f3efa79.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "fuel-processing-and-reprocessing",
+    "aircraft-nuclear-propulsion",
+    "graphite-and-moderator-behavior",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

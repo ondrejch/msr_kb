@@ -1,0 +1,490 @@
+{
+  "authors": [
+    "Operated By",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "UCC",
+    "POST OFFICE BOX X",
+    "OAK RIDGE",
+    "TENNESSEE",
+    "FROM: F. E. Romie",
+    "AMERICAN-STANDARD",
+    "B. W. Kinyon"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-58-2-46.jsonl",
+  "date_text": "February 5, 1958",
+  "doc_id": "ornl-cf-58-2-46",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          212
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          82
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 5,
+        "line_hits": [
+          76,
+          155,
+          230,
+          233,
+          284
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          99
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          72
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          3,
+          23,
+          47,
+          285,
+          316
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          7
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 13,
+        "line_hits": [
+          60,
+          72,
+          82,
+          92,
+          99,
+          105,
+          107,
+          157,
+          193,
+          195,
+          257,
+          259,
+          277
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          25
+        ],
+        "name": "ORNL Central Files"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          82,
+          92
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          82,
+          283
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          82
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          92
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "4480b9584bc2f77a0cb9a6a9ad35b7011ae1794a0d505c67414548390224a4a8",
+  "markdown_path": "pdf/ORNL-CF-58-2-46/ORNL-CF-58-2-46/hybrid_ocr/ORNL-CF-58-2-46.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 46,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 8,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "ucc",
+      "end_line": 10,
+      "heading": "UCC",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "post-office-box-x",
+      "end_line": 12,
+      "heading": "Post Office Box X",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-tennessee",
+      "end_line": 16,
+      "heading": "Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "subject-a-moliten-salt-natural-convection-reactor-system",
+      "end_line": 22,
+      "heading": "Subject: A Moliten Salt Natural Convection Reactor System",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 24,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "central-files-number",
+      "end_line": 28,
+      "heading": "CENTRAL FILES NUMBER",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 32,
+      "heading": "Copy No.",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "external-transmittal-authorization",
+      "end_line": 44,
+      "heading": "External Transmittal Authorization",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "notice",
+      "end_line": 48,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 57,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 61,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 63,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "a-molten-salt-natural-convection-reactor-system",
+      "end_line": 69,
+      "heading": "A MOLTEN SALT NATURAL CONVECTION REACTOR SYSTEM",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 73,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "selection-of-reactor-conditions",
+      "end_line": 84,
+      "heading": "Selection of Reactor Conditions",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "assumed-gas-turbine-cycle-parameters",
+      "end_line": 94,
+      "heading": "Assumed Gas Turbine Cycle Parameters",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "physical-properties-of-salt-mixtures-130-and-84",
+      "end_line": 102,
+      "heading": "Physical Properties Of Salt Mixtures 130 And 84",
+      "level": 2,
+      "start_line": 95
+    },
+    {
+      "anchor": "optimum-riser-conditions",
+      "end_line": 108,
+      "heading": "Optimum Riser Conditions",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 110,
+      "heading": "Table III.",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "friction-losses-in-the-risers",
+      "end_line": 144,
+      "heading": "FRICTION LOSSES IN THE RISERS",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "part-load-operation",
+      "end_line": 149,
+      "heading": "Part Load Operation",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "optimum-riser-conditions",
+      "end_line": 154,
+      "heading": "Optimum Riser Conditions",
+      "level": 2,
+      "start_line": 150
+    },
+    {
+      "anchor": "salt-cooled-heat-exchanger",
+      "end_line": 161,
+      "heading": "Salt-Cooled Heat Exchanger",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "primary-heat-transfer-and-friction-data",
+      "end_line": 178,
+      "heading": "Primary Heat Transfer And Friction Data",
+      "level": 2,
+      "start_line": 162
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 186,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 179
+    },
+    {
+      "anchor": "gas-cooled-exchangers-for-steam-cycle",
+      "end_line": 190,
+      "heading": "Gas-Cooled Exchangers for Steam Cycle",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 201,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 191
+    },
+    {
+      "anchor": "gas-cooled-exchanger-steam-cycle",
+      "end_line": 206,
+      "heading": "Gas-Cooled Exchanger - Steam Cycle",
+      "level": 2,
+      "start_line": 202
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 209,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "description-of-finned-tube",
+      "end_line": 232,
+      "heading": "Description Of Finned Tube*",
+      "level": 2,
+      "start_line": 210
+    },
+    {
+      "anchor": "reference-gas-cooled-heat-exchanger",
+      "end_line": 250,
+      "heading": "Reference Gas-Cooled Heat Exchanger",
+      "level": 2,
+      "start_line": 233
+    },
+    {
+      "anchor": "gas-cooled-exchangers-for-gas-turbine-cycle",
+      "end_line": 262,
+      "heading": "Gas-Cooled Exchangers for Gas Turbine Cycle",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "comparison-of-cooling-means",
+      "end_line": 269,
+      "heading": "Comparison of Cooling Means",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "comparison-of-cooling-means",
+      "end_line": 274,
+      "heading": "Comparison Of Cooling Means",
+      "level": 2,
+      "start_line": 270
+    },
+    {
+      "anchor": "comparison-with-forced-convection-system",
+      "end_line": 280,
+      "heading": "Comparison with Forced Convection System",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "references",
+      "end_line": 293,
+      "heading": "References",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "unc-lr-dwg-27946",
+      "end_line": 296,
+      "heading": "Unc-Lr-Dwg.27946",
+      "level": 2,
+      "start_line": 294
+    },
+    {
+      "anchor": "figure-4",
+      "end_line": 299,
+      "heading": "Figure 4",
+      "level": 2,
+      "start_line": 297
+    },
+    {
+      "anchor": "figure-5",
+      "end_line": 301,
+      "heading": "Figure 5",
+      "level": 2,
+      "start_line": 300
+    },
+    {
+      "anchor": "unclassified-il-lr-dwg-27948",
+      "end_line": 310,
+      "heading": "Unclassified Il-Lr-Dwg 27948",
+      "level": 2,
+      "start_line": 302
+    },
+    {
+      "anchor": "figure-7",
+      "end_line": 311,
+      "heading": "Figure 7",
+      "level": 2,
+      "start_line": 311
+    },
+    {
+      "anchor": "unc-lr-dwg-27949",
+      "end_line": 313,
+      "heading": "Unc-Lr-Dwg.27949",
+      "level": 2,
+      "start_line": 312
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 315,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 314
+    },
+    {
+      "anchor": "ornl-lr-dwg-27950",
+      "end_line": 319,
+      "heading": "Ornl-Lr-Dwg 27950",
+      "level": 2,
+      "start_line": 316
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-58-2-46",
+  "tables": [],
+  "title": "![](images/c670dbcbf5aebbb153e9e394f17b32dc62c7476fa31b580ab435df92a793a6c5.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

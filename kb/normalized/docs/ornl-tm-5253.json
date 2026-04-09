@@ -1,0 +1,482 @@
+{
+  "authors": [
+    "NOTICE",
+    "R.B.Lindauer",
+    "J. R. Hightower",
+    "Jr.",
+    "UNION CARBIDE CORPORATION",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-5253.jsonl",
+  "date_text": "1976",
+  "doc_id": "ornl-tm-5253",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          79,
+          124
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          87,
+          128
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          141
+        ],
+        "name": "Monel"
+      }
+    ],
+    "component": [
+      {
+        "count": 6,
+        "line_hits": [
+          114,
+          116,
+          154,
+          162,
+          168,
+          194
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          79,
+          92,
+          94,
+          118,
+          141
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          87,
+          124,
+          158,
+          168
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          154,
+          162
+        ],
+        "name": "freeze valve"
+      }
+    ],
+    "organization": [
+      {
+        "count": 17,
+        "line_hits": [
+          17,
+          19,
+          100,
+          116,
+          134,
+          149,
+          180,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          197,
+          199
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          25
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 10,
+        "line_hits": [
+          65,
+          69,
+          71,
+          79,
+          105,
+          112,
+          145,
+          191,
+          192,
+          193
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          69,
+          96,
+          98,
+          107,
+          109,
+          120,
+          156,
+          172,
+          180
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          120,
+          122,
+          132,
+          195
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 7,
+        "line_hits": [
+          79,
+          92,
+          94,
+          118,
+          120,
+          132,
+          160
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          71,
+          79
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9d1d0289d1351345a9728cd57111eeafe7211f9d60d8f03aa0abe2a5b95a8deb",
+  "markdown_path": "pdf/ORNL-TM-5253/ORNL-TM-5253/hybrid_ocr/ORNL-TM-5253.md",
+  "report_number": "ORNL-4782",
+  "report_numbers": [
+    "ORNL-4782",
+    "ORNL-4832",
+    "ORNL-5011"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 39,
+  "sections": [
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 4,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "notice",
+      "end_line": 8,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "conceptual-design-of-a-continuous-fluorinator-experimental-facility-cfef",
+      "end_line": 14,
+      "heading": "Conceptual Design Of A Continuous Fluorinator Experimental Facility (Cfef)",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "july-1976",
+      "end_line": 18,
+      "heading": "July 1976",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 28,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 32,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "contents",
+      "end_line": 34,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "page",
+      "end_line": 36,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 38,
+      "heading": "ABSTRACT. 1",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 39,
+      "heading": "1. Introduction. 1",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "2-summary-2",
+      "end_line": 40,
+      "heading": "2. SUMMARY 2",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "3-design-description-3",
+      "end_line": 45,
+      "heading": "3. Design Description. 3",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "4-operating-procedure-12",
+      "end_line": 46,
+      "heading": "4. OPERATING PROCEDURE 12",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "5-maintenance-15",
+      "end_line": 51,
+      "heading": "5．Maintenance 15",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "6-standards-and-quality-assurance-15",
+      "end_line": 56,
+      "heading": "6. STANDARDS AND QUALITY ASSURANCE 15",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "7-references-16",
+      "end_line": 58,
+      "heading": "7. References. 16",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "conceptual-design-of-a-continuous-fluorinator-experimental-facility-cfef",
+      "end_line": 62,
+      "heading": "CONCEPTUAL DESIGN OF A CONTINUOUS FLUORINATOR EXPERIMENTAL FACILITY (CFEF)",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 66,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 76,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "2-summary",
+      "end_line": 84,
+      "heading": "2. SUMMARY",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "3-design-description",
+      "end_line": 99,
+      "heading": "3. DESIGN DESCRIPTION",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "ornl-dwg-76-128",
+      "end_line": 129,
+      "heading": "Ornl Dwg 76-128",
+      "level": 2,
+      "start_line": 100
+    },
+    {
+      "anchor": "3-1-fluorine-supply-system",
+      "end_line": 133,
+      "heading": "3.1 Fluorine Supply System",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "ornl-dwg-76-127",
+      "end_line": 138,
+      "heading": "Ornl Dwg 76-127",
+      "level": 2,
+      "start_line": 134
+    },
+    {
+      "anchor": "3-2-fluorine-disposal-system",
+      "end_line": 142,
+      "heading": "3.2 Fluorine Disposal System",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "4-operating-procedure",
+      "end_line": 148,
+      "heading": "4. OPERATING PROCEDURE",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "ornl-dwg-75-15057",
+      "end_line": 163,
+      "heading": "Ornl Dwg. 75-15057",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "5-maintenance",
+      "end_line": 165,
+      "heading": "5. MAINTENANCE",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "5-1-maintenance-philosophy",
+      "end_line": 169,
+      "heading": "5.1 Maintenance Philosophy",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "5-2-preventive-maintenance",
+      "end_line": 173,
+      "heading": "5.2 Preventive Maintenance",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "6-standards-and-quality-assurance",
+      "end_line": 175,
+      "heading": "6. STANDARDS AND QUALITY ASSURANCE",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "6-1-codes-and-standards",
+      "end_line": 181,
+      "heading": "6.1 Codes and Standards",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "6-2-quality-assurance",
+      "end_line": 185,
+      "heading": "6.2 Quality Assurance",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "7-references",
+      "end_line": 198,
+      "heading": "7. REFERENCES",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "ornl-tm-5253",
+      "end_line": 202,
+      "heading": "Ornl/Tm-5253",
+      "level": 2,
+      "start_line": 199
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 276,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "consultants-and-subcontractors",
+      "end_line": 285,
+      "heading": "CONSULTANTS AND SUBCONTRACTORS",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 291,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 286
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-5253",
+  "tables": [],
+  "title": "Contract No. W-7405-eng-26",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "pumps-loops-and-heat-exchangers",
+    "off-gas-fission-products-and-tritium",
+    "materials-and-corrosion",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

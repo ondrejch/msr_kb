@@ -1,0 +1,1911 @@
+{
+  "authors": [
+    "PRELIMINARY SYSTEMS DESIGN DESCRIPTION",
+    "(TITLE I DESIGN)",
+    "SALT PUMP TEST STAND",
+    "MOLTEN SALT BREEDER EXPERIMENT",
+    "L. V. Wilson",
+    "A. G. Grindell"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2780.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2780",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          245,
+          457,
+          840,
+          843
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          435,
+          729,
+          740
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          457,
+          1041
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          245,
+          840
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1216
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          857
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          857
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 146,
+        "line_hits": [
+          13,
+          66,
+          78,
+          127,
+          174,
+          180,
+          188,
+          192,
+          215,
+          219,
+          225,
+          227,
+          229,
+          231,
+          233,
+          235,
+          237,
+          239,
+          245,
+          249,
+          257,
+          259,
+          267,
+          281,
+          283,
+          285,
+          294,
+          296,
+          298,
+          304,
+          320,
+          324,
+          332,
+          334,
+          346,
+          348,
+          350,
+          352,
+          354,
+          359,
+          386,
+          392,
+          396,
+          398,
+          400,
+          404,
+          416,
+          429,
+          431,
+          435
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 73,
+        "line_hits": [
+          13,
+          78,
+          180,
+          188,
+          192,
+          213,
+          215,
+          219,
+          225,
+          227,
+          229,
+          231,
+          235,
+          237,
+          245,
+          259,
+          277,
+          281,
+          285,
+          294,
+          298,
+          324,
+          328,
+          330,
+          332,
+          346,
+          348,
+          350,
+          354,
+          359,
+          364,
+          386,
+          398,
+          414,
+          416,
+          429,
+          486,
+          520,
+          586,
+          619,
+          623,
+          629,
+          633,
+          637,
+          641,
+          645,
+          649,
+          667,
+          671,
+          673
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 39,
+        "line_hits": [
+          188,
+          213,
+          239,
+          245,
+          273,
+          281,
+          285,
+          308,
+          324,
+          326,
+          392,
+          398,
+          400,
+          410,
+          412,
+          435,
+          437,
+          445,
+          572,
+          576,
+          584,
+          629,
+          631,
+          671,
+          677,
+          679,
+          691,
+          760,
+          1083,
+          1216,
+          1222,
+          1224,
+          1226,
+          1232,
+          1368,
+          1384,
+          1422,
+          1470,
+          1483
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          99,
+          172,
+          188,
+          231,
+          245,
+          253,
+          396,
+          445,
+          486,
+          488,
+          490,
+          492,
+          494,
+          496,
+          498,
+          506,
+          551,
+          572,
+          586,
+          724,
+          725,
+          857,
+          988,
+          990,
+          1006,
+          1077,
+          1079,
+          1085,
+          1216,
+          1270
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          245,
+          257,
+          410,
+          412,
+          535,
+          553,
+          586,
+          633,
+          671,
+          699,
+          710,
+          857,
+          867,
+          950,
+          956,
+          978
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          657,
+          857,
+          867
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          629,
+          1216
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          231
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          857
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 23,
+        "line_hits": [
+          1,
+          35,
+          196,
+          291,
+          356,
+          361,
+          402,
+          439,
+          526,
+          607,
+          688,
+          772,
+          776,
+          780,
+          800,
+          867,
+          1006,
+          1326,
+          1330,
+          1334,
+          1487,
+          1648,
+          1649
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          45,
+          1650,
+          1652,
+          1654,
+          1655,
+          1657,
+          1659
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          41,
+          1006
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 49,
+        "line_hits": [
+          217,
+          225,
+          229,
+          239,
+          249,
+          273,
+          285,
+          320,
+          324,
+          338,
+          346,
+          350,
+          352,
+          354,
+          392,
+          398,
+          402,
+          414,
+          416,
+          433,
+          435,
+          444,
+          451,
+          476,
+          502,
+          506,
+          520,
+          543,
+          576,
+          586,
+          607,
+          637,
+          725,
+          760,
+          768,
+          772,
+          776,
+          1119,
+          1199,
+          1216,
+          1226,
+          1236,
+          1242,
+          1280,
+          1318,
+          1324,
+          1477,
+          1481,
+          1485
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 45,
+        "line_hits": [
+          17,
+          128,
+          180,
+          188,
+          192,
+          213,
+          215,
+          225,
+          227,
+          229,
+          231,
+          235,
+          237,
+          277,
+          281,
+          285,
+          296,
+          324,
+          326,
+          328,
+          338,
+          350,
+          352,
+          354,
+          359,
+          364,
+          400,
+          421,
+          425,
+          433,
+          444,
+          623,
+          661,
+          663,
+          665,
+          667,
+          686,
+          716,
+          788,
+          865,
+          873,
+          1035,
+          1236,
+          1324,
+          1338
+        ],
+        "name": "MSBE"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          350,
+          410,
+          412,
+          444,
+          623,
+          772,
+          836
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          215,
+          423
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          423
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          437
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          427
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          423
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          423
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          215
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "4f6f70ae4a4e3f1cb4723cf19ad5fbe66a1d2236ccd7ab03fb856a1d830c420b",
+  "markdown_path": "pdf/ORNL-TM-2780/ORNL-TM-2780/hybrid_ocr/ORNL-TM-2780.md",
+  "report_number": "ORNL-TM-2780",
+  "report_numbers": [
+    "ORNL-TM-2780"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 191,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2780",
+      "end_line": 4,
+      "heading": "Ornl-Tm-2780",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "reactor-division",
+      "end_line": 6,
+      "heading": "Reactor Division",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "preliminary-systems-design-description",
+      "end_line": 8,
+      "heading": "Preliminary Systems Design Description",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "title-i-design",
+      "end_line": 12,
+      "heading": "(Title I Design)",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "salt-pump-test-stand",
+      "end_line": 16,
+      "heading": "Salt Pump Test Stand",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "molten-salt-breeder-experiment",
+      "end_line": 22,
+      "heading": "Molten Salt Breeder Experiment",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 32,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "december-1969",
+      "end_line": 34,
+      "heading": "December 1969",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 40,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 44,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 46,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "contents",
+      "end_line": 50,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "1-0-introduction-1",
+      "end_line": 62,
+      "heading": "1.0 Introduction 1",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "1-3-system-design-requirements-4",
+      "end_line": 75,
+      "heading": "1.3 System Design Requirements.. 4",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "2-0-detailed-description-of-system-9",
+      "end_line": 87,
+      "heading": "2.0 Detailed Description of System 9",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "page",
+      "end_line": 160,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 193,
+      "heading": "APPENDICES",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "list-of-contributors",
+      "end_line": 210,
+      "heading": "List of Contributors",
+      "level": 1,
+      "start_line": 194
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 220,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 222,
+      "heading": "1.0 Introduction",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "1-1-system-function",
+      "end_line": 240,
+      "heading": "1.1 System Function",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "1-2-summary-description-of-the-system",
+      "end_line": 242,
+      "heading": "1.2 Summary Description of the System",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "1-2-1-salt-circulating-system",
+      "end_line": 246,
+      "heading": "1.2.1 Salt Circulating System",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "1-2-2-structure",
+      "end_line": 250,
+      "heading": "1.2.2 Structure",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "1-2-3-heat-removal-system",
+      "end_line": 254,
+      "heading": "1.2.3 Heat Removal System",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "1-2-4-utility-systems",
+      "end_line": 262,
+      "heading": "1.2.4 Utility Systems",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "1-2-5-instrumentation-and-controls",
+      "end_line": 270,
+      "heading": "1.2.5 Instrumentation and Controls",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "1-2-6-hazards",
+      "end_line": 274,
+      "heading": "1.2.6 Hazards",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "1-3-system-design-requirements",
+      "end_line": 278,
+      "heading": "1.3 System Design Requirements",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "1-3-1-function",
+      "end_line": 282,
+      "heading": "1.3.1 Function",
+      "level": 1,
+      "start_line": 279
+    },
+    {
+      "anchor": "1-3-2-pump-size",
+      "end_line": 286,
+      "heading": "1.3.2 Pump Size",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "1-3-3-allowable-stress-for-ni-mo-cr-alloy",
+      "end_line": 290,
+      "heading": "1.3.3 Allowable Stress for Ni-Mo-Cr Alloy",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "ornl-dwg-69-13455",
+      "end_line": 301,
+      "heading": "Ornl Dwg. 69-13455",
+      "level": 2,
+      "start_line": 291
+    },
+    {
+      "anchor": "1-3-4-instrumentation-and-controls",
+      "end_line": 305,
+      "heading": "1.3.4 Instrumentation and Controls",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "1-3-5-engineered-safety-features",
+      "end_line": 313,
+      "heading": "1.3.5 Engineered Safety Features",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "1-3-6-control-of-effluents",
+      "end_line": 317,
+      "heading": "1.3.6 Control of Effluents",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "1-3-7-quality-standards-and-assurance",
+      "end_line": 321,
+      "heading": "1.3.7 Quality Standards and Assurance",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "1-3-8-test-stand-parameters",
+      "end_line": 335,
+      "heading": "1.3.8 Test Stand Parameters",
+      "level": 1,
+      "start_line": 322
+    },
+    {
+      "anchor": "1-3-9-thermal-transients",
+      "end_line": 339,
+      "heading": "1.3.9 Thermal Transients",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "1-3-10-codes-and-standards",
+      "end_line": 343,
+      "heading": "1.3.10 Codes and Standards",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "2-0-detailed-description-of-system",
+      "end_line": 347,
+      "heading": "2.0 Detailed Description of System",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "2-1-salt-pump",
+      "end_line": 355,
+      "heading": "2.1 Salt Pump",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "ornl-dwg-69-8558",
+      "end_line": 360,
+      "heading": "Ornl Dwg. 69-8558",
+      "level": 2,
+      "start_line": 356
+    },
+    {
+      "anchor": "ornl-dwg-69-13456",
+      "end_line": 371,
+      "heading": "Ornl Dwg. 69-13456",
+      "level": 2,
+      "start_line": 361
+    },
+    {
+      "anchor": "elevation-view",
+      "end_line": 375,
+      "heading": "Elevation View",
+      "level": 2,
+      "start_line": 372
+    },
+    {
+      "anchor": "1-break-all-shap-edges",
+      "end_line": 376,
+      "heading": "1. BREAK ALL SHAP EDGES",
+      "level": 2,
+      "start_line": 376
+    },
+    {
+      "anchor": "2-type-grade-or-fresh-of",
+      "end_line": 377,
+      "heading": "2. TYPE, GRADE, OR FRESH OF",
+      "level": 2,
+      "start_line": 377
+    },
+    {
+      "anchor": "material-may-be-chonded",
+      "end_line": 378,
+      "heading": "Material, May Be Chonded",
+      "level": 2,
+      "start_line": 378
+    },
+    {
+      "anchor": "3-angles",
+      "end_line": 387,
+      "heading": "3. Angles ±/±",
+      "level": 2,
+      "start_line": 379
+    },
+    {
+      "anchor": "2-2-salt-system",
+      "end_line": 389,
+      "heading": "2.2 Salt System",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "2-2-1-function",
+      "end_line": 393,
+      "heading": "2.2.1 Function",
+      "level": 1,
+      "start_line": 390
+    },
+    {
+      "anchor": "2-2-2-descriptions",
+      "end_line": 418,
+      "heading": "2.2.2 Descriptions",
+      "level": 1,
+      "start_line": 394
+    },
+    {
+      "anchor": "last-weld-ne",
+      "end_line": 438,
+      "heading": "Last Weld Ne",
+      "level": 2,
+      "start_line": 419
+    },
+    {
+      "anchor": "ornl-dwg-69-13458",
+      "end_line": 462,
+      "heading": "Ornl Dwg. 69-13458",
+      "level": 2,
+      "start_line": 439
+    },
+    {
+      "anchor": "frame-totally-enclosed-by",
+      "end_line": 463,
+      "heading": "Frame Totally Enclosed By-",
+      "level": 2,
+      "start_line": 463
+    },
+    {
+      "anchor": "g-gage-sheet-steel-welded-to-frame",
+      "end_line": 464,
+      "heading": "/G Gage Sheet Steel Welded To Frame.",
+      "level": 2,
+      "start_line": 464
+    },
+    {
+      "anchor": "penetrations-access-panels-bolted-gasketed",
+      "end_line": 470,
+      "heading": "Penetrations Access Panels Bolted Gasketed.",
+      "level": 2,
+      "start_line": 465
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 471,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 471
+    },
+    {
+      "anchor": "unit-carbide-corporation",
+      "end_line": 477,
+      "heading": "Unit Carbide Corporation",
+      "level": 2,
+      "start_line": 472
+    },
+    {
+      "anchor": "2-3-heat-removal-system",
+      "end_line": 479,
+      "heading": "2.3 Heat Removal System",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "2-3-1-function",
+      "end_line": 483,
+      "heading": "2.3.1 Function",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "2-3-2-descriptions",
+      "end_line": 517,
+      "heading": "2.3.2 Descriptions",
+      "level": 1,
+      "start_line": 484
+    },
+    {
+      "anchor": "2-4-utility-systems",
+      "end_line": 521,
+      "heading": "2.4 Utility Systems",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "2-4-1-inert-gas",
+      "end_line": 525,
+      "heading": "2.4.1 Inert Gas",
+      "level": 1,
+      "start_line": 522
+    },
+    {
+      "anchor": "ornl-dwg-69-13459",
+      "end_line": 532,
+      "heading": "Ornl Dwg. 69-13459",
+      "level": 2,
+      "start_line": 526
+    },
+    {
+      "anchor": "2-4-2-instrument-air",
+      "end_line": 536,
+      "heading": "2.4.2 Instrument Air",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "2-4-3-cooling-water",
+      "end_line": 540,
+      "heading": "2.4.3 Cooling Water",
+      "level": 1,
+      "start_line": 537
+    },
+    {
+      "anchor": "2-4-4-electrical",
+      "end_line": 554,
+      "heading": "2.4.4 Electrical",
+      "level": 1,
+      "start_line": 541
+    },
+    {
+      "anchor": "2-5-site-location",
+      "end_line": 565,
+      "heading": "2.5 Site Location",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "2-6-instrumentation-and-controls",
+      "end_line": 569,
+      "heading": "2.6 Instrumentation and Controls",
+      "level": 1,
+      "start_line": 566
+    },
+    {
+      "anchor": "2-6-1-temperature-measurement-and-control",
+      "end_line": 573,
+      "heading": "2.6.1 Temperature Measurement and Control",
+      "level": 1,
+      "start_line": 570
+    },
+    {
+      "anchor": "2-6-2-pressure-measurement-and-control",
+      "end_line": 581,
+      "heading": "2.6.2 Pressure Measurement and Control",
+      "level": 1,
+      "start_line": 574
+    },
+    {
+      "anchor": "2-6-3-flow-measurement",
+      "end_line": 587,
+      "heading": "2.6.3 Flow Measurement",
+      "level": 1,
+      "start_line": 582
+    },
+    {
+      "anchor": "2-6-4-level-measurements",
+      "end_line": 591,
+      "heading": "2.6.4 Level Measurements",
+      "level": 1,
+      "start_line": 588
+    },
+    {
+      "anchor": "2-6-5-alarms-and-interlocks",
+      "end_line": 598,
+      "heading": "2.6.5 Alarms and Interlocks",
+      "level": 1,
+      "start_line": 592
+    },
+    {
+      "anchor": "section-b-b",
+      "end_line": 601,
+      "heading": "Section'B-B\"",
+      "level": 2,
+      "start_line": 599
+    },
+    {
+      "anchor": "fig-14-preliminary-layout-title-1",
+      "end_line": 602,
+      "heading": "Fig. 14 Preliminary Layout (Title 1)",
+      "level": 2,
+      "start_line": 602
+    },
+    {
+      "anchor": "of-spts-venturi-tube",
+      "end_line": 604,
+      "heading": "Of Spts Venturi Tube",
+      "level": 2,
+      "start_line": 603
+    },
+    {
+      "anchor": "2-6-6-data-acquisition-computer-system",
+      "end_line": 620,
+      "heading": "2.6.6 Data Acquisition Computer System",
+      "level": 1,
+      "start_line": 605
+    },
+    {
+      "anchor": "3-0-principles-of-operation",
+      "end_line": 624,
+      "heading": "3.0 Principles of Operation",
+      "level": 1,
+      "start_line": 621
+    },
+    {
+      "anchor": "3-1-startup",
+      "end_line": 634,
+      "heading": "3.1 Startup",
+      "level": 1,
+      "start_line": 625
+    },
+    {
+      "anchor": "3-2-test-operation",
+      "end_line": 638,
+      "heading": "3.2 Test Operation",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "3-2-1-prototype-pump",
+      "end_line": 664,
+      "heading": "3.2.1 Prototype Pump",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "3-2-2-etu-and-msbe-pumps",
+      "end_line": 668,
+      "heading": "3.2.2 ETU and MSBE Pumps",
+      "level": 1,
+      "start_line": 665
+    },
+    {
+      "anchor": "3-3-shutdown",
+      "end_line": 674,
+      "heading": "3.3 Shutdown",
+      "level": 1,
+      "start_line": 669
+    },
+    {
+      "anchor": "3-4-thermal-transients",
+      "end_line": 680,
+      "heading": "3.4 Thermal Transients",
+      "level": 1,
+      "start_line": 675
+    },
+    {
+      "anchor": "3-5-special-or-infrequent-operation",
+      "end_line": 687,
+      "heading": "3.5 Special or Infrequent Operation",
+      "level": 1,
+      "start_line": 681
+    },
+    {
+      "anchor": "ornl-dwg-69-13460",
+      "end_line": 692,
+      "heading": "Ornl Dwg. 69-13460",
+      "level": 2,
+      "start_line": 688
+    },
+    {
+      "anchor": "3-6-equipment-safety",
+      "end_line": 703,
+      "heading": "3.6 Equipment Safety",
+      "level": 1,
+      "start_line": 693
+    },
+    {
+      "anchor": "4-0-safety-precautions",
+      "end_line": 707,
+      "heading": "4.0 Safety Precautions",
+      "level": 1,
+      "start_line": 704
+    },
+    {
+      "anchor": "4-1-loss-of-normal-electrical-power",
+      "end_line": 713,
+      "heading": "4.1 Loss of Normal Electrical Power",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "4-2-operating-procedures",
+      "end_line": 747,
+      "heading": "4.2 Operating Procedures",
+      "level": 1,
+      "start_line": 714
+    },
+    {
+      "anchor": "5-0-maintenance",
+      "end_line": 749,
+      "heading": "5.0 Maintenance",
+      "level": 1,
+      "start_line": 748
+    },
+    {
+      "anchor": "5-1-maintenance-philosophy",
+      "end_line": 753,
+      "heading": "5.1 Maintenance Philosophy",
+      "level": 1,
+      "start_line": 750
+    },
+    {
+      "anchor": "5-2-preventive-maintenance",
+      "end_line": 757,
+      "heading": "5.2 Preventive Maintenance",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "5-3-maintenance-procedures",
+      "end_line": 761,
+      "heading": "5.3 Maintenance Procedures",
+      "level": 1,
+      "start_line": 758
+    },
+    {
+      "anchor": "6-0-standards-and-quality-assurance",
+      "end_line": 763,
+      "heading": "6.0 Standards and Quality Assurance",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "6-1-codes-and-standards",
+      "end_line": 765,
+      "heading": "6.1 Codes and Standards",
+      "level": 1,
+      "start_line": 764
+    },
+    {
+      "anchor": "6-1-1-design",
+      "end_line": 769,
+      "heading": "6.1.1 Design",
+      "level": 1,
+      "start_line": 766
+    },
+    {
+      "anchor": "6-1-2-materials",
+      "end_line": 773,
+      "heading": "6.1.2 Materials",
+      "level": 1,
+      "start_line": 770
+    },
+    {
+      "anchor": "6-1-3-fabrication-and-installation",
+      "end_line": 777,
+      "heading": "6.1.3 Fabrication and Installation",
+      "level": 1,
+      "start_line": 774
+    },
+    {
+      "anchor": "6-1-4-operations",
+      "end_line": 781,
+      "heading": "6.1.4 Operations",
+      "level": 1,
+      "start_line": 778
+    },
+    {
+      "anchor": "6-2-quality-assurance",
+      "end_line": 785,
+      "heading": "6.2 Quality Assurance",
+      "level": 1,
+      "start_line": 782
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 787,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 786
+    },
+    {
+      "anchor": "msbe-salt-pump-test-stand",
+      "end_line": 791,
+      "heading": "MSBE Salt Pump Test Stand",
+      "level": 1,
+      "start_line": 788
+    },
+    {
+      "anchor": "program-standards",
+      "end_line": 840,
+      "heading": "Program Standards",
+      "level": 1,
+      "start_line": 792
+    },
+    {
+      "anchor": "wps-1402",
+      "end_line": 852,
+      "heading": "Wps-1402)",
+      "level": 2,
+      "start_line": 841
+    },
+    {
+      "anchor": "m-s-b-e-salt-pump-test-stand",
+      "end_line": 854,
+      "heading": "M.S.B.E. SALT PUMP TEST STAND",
+      "level": 1,
+      "start_line": 853
+    },
+    {
+      "anchor": "pipe-line-schedule",
+      "end_line": 862,
+      "heading": "Pipe Line Schedule",
+      "level": 2,
+      "start_line": 855
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 868,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 863
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 870,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 869
+    },
+    {
+      "anchor": "equipment-tabulation",
+      "end_line": 872,
+      "heading": "Equipment Tabulation",
+      "level": 1,
+      "start_line": 871
+    },
+    {
+      "anchor": "msbe-salt-pump-test-stand",
+      "end_line": 874,
+      "heading": "MSBE Salt Pump Test Stand",
+      "level": 1,
+      "start_line": 873
+    },
+    {
+      "anchor": "electrical-equipment",
+      "end_line": 876,
+      "heading": "Electrical Equipment",
+      "level": 1,
+      "start_line": 875
+    },
+    {
+      "anchor": "13-8-kv-system",
+      "end_line": 886,
+      "heading": "13.8 kv System",
+      "level": 1,
+      "start_line": 877
+    },
+    {
+      "anchor": "2400-v-system",
+      "end_line": 902,
+      "heading": "2400 v System",
+      "level": 1,
+      "start_line": 887
+    },
+    {
+      "anchor": "480-v-system",
+      "end_line": 913,
+      "heading": "480 v System",
+      "level": 1,
+      "start_line": 903
+    },
+    {
+      "anchor": "480-v-system-continued",
+      "end_line": 941,
+      "heading": "480 v System (continued)",
+      "level": 1,
+      "start_line": 914
+    },
+    {
+      "anchor": "valves",
+      "end_line": 973,
+      "heading": "Valves",
+      "level": 1,
+      "start_line": 942
+    },
+    {
+      "anchor": "valves-continued",
+      "end_line": 983,
+      "heading": "Valves (continued)",
+      "level": 1,
+      "start_line": 974
+    },
+    {
+      "anchor": "other-equipment",
+      "end_line": 1001,
+      "heading": "Other Equipment",
+      "level": 1,
+      "start_line": 984
+    },
+    {
+      "anchor": "b-4-b-5",
+      "end_line": 1008,
+      "heading": "B-4, B-5",
+      "level": 2,
+      "start_line": 1002
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 1038,
+      "heading": "Appendix E",
+      "level": 2,
+      "start_line": 1009
+    },
+    {
+      "anchor": "g-i-salt-storage-tank",
+      "end_line": 1076,
+      "heading": "G-I Salt Storage Tank",
+      "level": 1,
+      "start_line": 1039
+    },
+    {
+      "anchor": "g-ii-heat-exchanger",
+      "end_line": 1086,
+      "heading": "G-II Heat Exchanger",
+      "level": 1,
+      "start_line": 1077
+    },
+    {
+      "anchor": "saltex-16-17-wed-11-19-69",
+      "end_line": 1088,
+      "heading": "Saltex 16:17 Wed· 11-19-69",
+      "level": 2,
+      "start_line": 1087
+    },
+    {
+      "anchor": "for-mean-salt-temperature-of-1050-f",
+      "end_line": 1090,
+      "heading": "For Mean Salt Temperature Of 1050 F",
+      "level": 2,
+      "start_line": 1089
+    },
+    {
+      "anchor": "try-0-d-pump-head-ft-length-ft-aif-vel-ft-sec-delta-pc-psi",
+      "end_line": 1092,
+      "heading": "Try 0.D. Pump Head[Ft] Length[Ft] Aif Vel[Ft/Sec]Delta Pc[Psi]",
+      "level": 2,
+      "start_line": 1091
+    },
+    {
+      "anchor": "required-wall-thickness-less-than-standard-reset",
+      "end_line": 1096,
+      "heading": "Required Wall Thickness Less Than Standard·Reset",
+      "level": 2,
+      "start_line": 1093
+    },
+    {
+      "anchor": "required-wall-thickness-less-than-standafd-feset",
+      "end_line": 1104,
+      "heading": "Required Wall Thickness Less Than Standafd·Feset·",
+      "level": 2,
+      "start_line": 1097
+    },
+    {
+      "anchor": "salt-flok-8000-gpm-of-1-35209e-07-le-hr",
+      "end_line": 1106,
+      "heading": "Salt Flok=8000 Gpm, Of 1·35209E+07 Le/Hr",
+      "level": 2,
+      "start_line": 1105
+    },
+    {
+      "anchor": "calf-pump-head-140-583-ft",
+      "end_line": 1108,
+      "heading": "Calf Pump Head 140.583-Ft",
+      "level": 2,
+      "start_line": 1107
+    },
+    {
+      "anchor": "poheffluid-960-pump-1200-hf-or3-05400e-06btu-hr",
+      "end_line": 1110,
+      "heading": "Poheffluid-960，Pump=1200.Hf,Or3.05400E+06Btu/Hr",
+      "level": 2,
+      "start_line": 1109
+    },
+    {
+      "anchor": "salt-pipe-id-7-981-in-cd-8-625-in",
+      "end_line": 1112,
+      "heading": "Salt Pipe Id=7.981 In., Cd=8.625 In.",
+      "level": 2,
+      "start_line": 1111
+    },
+    {
+      "anchor": "salt-flow-area-347411-sc-ft",
+      "end_line": 1114,
+      "heading": "Salt Flow Area=·347411 Sc·Ft",
+      "level": 2,
+      "start_line": 1113
+    },
+    {
+      "anchor": "wall-thickness-min-149956-nominal-322-inch",
+      "end_line": 1118,
+      "heading": "Wall Thickness, Min=149956 ,Nominal= .322 Inch",
+      "level": 2,
+      "start_line": 1115
+    },
+    {
+      "anchor": "salt-lgop-pfeeslfe-are",
+      "end_line": 1120,
+      "heading": "Salt Lgop Pfeeslfe Are",
+      "level": 2,
+      "start_line": 1119
+    },
+    {
+      "anchor": "operating-10285-dischage-2057-design-12342-psig",
+      "end_line": 1122,
+      "heading": "Operating-10285 Dischage=2057 Design-12342 Psig",
+      "level": 2,
+      "start_line": 1121
+    },
+    {
+      "anchor": "air-flow-area-184184-sg-ft",
+      "end_line": 1124,
+      "heading": "Air Flow Area = .184184 Sg-Ft",
+      "level": 2,
+      "start_line": 1123
+    },
+    {
+      "anchor": "salt-physical-properties-at-t-1050-f",
+      "end_line": 1126,
+      "heading": "Salt Physical Properties At T = 1050 F",
+      "level": 2,
+      "start_line": 1125
+    },
+    {
+      "anchor": "cp-324-btu-le-f-k-75-etu-le-ft-f",
+      "end_line": 1128,
+      "heading": "$Cp = .324$ Btu/Le-F, $K = .75$ Etu/Le-Ft-F",
+      "level": 2,
+      "start_line": 1127
+    },
+    {
+      "anchor": "mu-34-18-lb-ft-he-density-210-7-le-cu-ft",
+      "end_line": 1132,
+      "heading": "Mu=34.18 Lb/Ft-He, Density=210.7 Le/Cu-Ft",
+      "level": 2,
+      "start_line": 1129
+    },
+    {
+      "anchor": "mass-vel-3-89190e-07-lb-hr-se-ft-pf-no-14-7658-fe-no-757295",
+      "end_line": 1134,
+      "heading": "Mass Vel= 3.89190E+07 Lb/Hr-Se-Ft, Pf No= 14.7658, Fe No.= 757295.",
+      "level": 2,
+      "start_line": 1133
+    },
+    {
+      "anchor": "aif-physical-properties-at-290-121-f",
+      "end_line": 1136,
+      "heading": "Aif Physical Properties At 290.121 F",
+      "level": 2,
+      "start_line": 1135
+    },
+    {
+      "anchor": "cp-242211-btu-le-f-k-2-01456e-02-btu-le-ft-f",
+      "end_line": 1138,
+      "heading": "Cp=·242211 Btu/Le-F, K= 2·01456E-02 Btu/Le-Ft-F",
+      "level": 2,
+      "start_line": 1137
+    },
+    {
+      "anchor": "mu-057224-lb-ft-hf-temp-change-280-241-f",
+      "end_line": 1144,
+      "heading": "Mu=·057224 Lb/Ft-Hf, Temp Change= 280.241 F",
+      "level": 2,
+      "start_line": 1139
+    },
+    {
+      "anchor": "g-122141-le-hr-sc-ft",
+      "end_line": 1146,
+      "heading": "G=122141·Le/Hr-Sc-Ft",
+      "level": 2,
+      "start_line": 1145
+    },
+    {
+      "anchor": "inlet-density-8-28826e-02-lb-cu-ft-vel-409-352-ft-sec-at-150-f",
+      "end_line": 1148,
+      "heading": "Inlet--Density=8.28826E-02 Lb/Cu-Ft, Vel=409·352 Ft/Sec At 150 F",
+      "level": 2,
+      "start_line": 1147
+    },
+    {
+      "anchor": "outlet-density-4-76808e-02-le-cu-ft-vel-711-568-ft-sec-at-430-241-f",
+      "end_line": 1150,
+      "heading": "Outlet-Density= 4.76808E-02 Le/Cu·Ft·Vel= 711·568 Ft/Sec At 430·241 F",
+      "level": 2,
+      "start_line": 1149
+    },
+    {
+      "anchor": "mean-density-6-52817e-02-le-cu-ft-vel-519-719-ft-sec",
+      "end_line": 1152,
+      "heading": "Mean--Density= 6·52817E-02 Le/Cu·Ft, Vel= 519·719 Ft/Sec",
+      "level": 2,
+      "start_line": 1151
+    },
+    {
+      "anchor": "pr-nc-688003-fe-nc-315719-friction-factcf-3-57337e-03",
+      "end_line": 1154,
+      "heading": "Pr Nc=·688003, Fe Nc=315719, Friction Factcf=3·57337E-03",
+      "level": 2,
+      "start_line": 1153
+    },
+    {
+      "anchor": "heat-transfer-data",
+      "end_line": 1156,
+      "heading": "Heat Transfer Data",
+      "level": 2,
+      "start_line": 1155
+    },
+    {
+      "anchor": "inside",
+      "end_line": 1158,
+      "heading": "Inside",
+      "level": 2,
+      "start_line": 1157
+    },
+    {
+      "anchor": "ccefficient-2938-34",
+      "end_line": 1160,
+      "heading": "Ccefficient 2938.34",
+      "level": 2,
+      "start_line": 1159
+    },
+    {
+      "anchor": "resistance-3-67790e-04-2-68333e-03",
+      "end_line": 1162,
+      "heading": "Resistance 3·67790E-04 2·68333E-03",
+      "level": 2,
+      "start_line": 1161
+    },
+    {
+      "anchor": "outside-overall",
+      "end_line": 1166,
+      "heading": "Outside Overall",
+      "level": 2,
+      "start_line": 1163
+    },
+    {
+      "anchor": "1-47785e-02",
+      "end_line": 1168,
+      "heading": "1·47785E-02",
+      "level": 2,
+      "start_line": 1167
+    },
+    {
+      "anchor": "overall",
+      "end_line": 1172,
+      "heading": "Overall",
+      "level": 2,
+      "start_line": 1169
+    },
+    {
+      "anchor": "1-78296e-02",
+      "end_line": 1174,
+      "heading": "1·78296E-02",
+      "level": 2,
+      "start_line": 1173
+    },
+    {
+      "anchor": "temp-at-inlet-1031-43-963-71",
+      "end_line": 1176,
+      "heading": "Temp-At Inlet 1031·43 963·71",
+      "level": 2,
+      "start_line": 1175
+    },
+    {
+      "anchor": "temp-at-cut-1037-22",
+      "end_line": 1178,
+      "heading": "Temp·At Cut 1037·22",
+      "level": 2,
+      "start_line": 1177
+    },
+    {
+      "anchor": "with-wall-k-10-etu-hr-ft-f",
+      "end_line": 1180,
+      "heading": "With Wall K= 10 Etu/Hr-Ft-F",
+      "level": 2,
+      "start_line": 1179
+    },
+    {
+      "anchor": "lcg-mean-delta-t-751-187-f",
+      "end_line": 1186,
+      "heading": "Lcg Mean Delta T=751·187 F",
+      "level": 2,
+      "start_line": 1181
+    },
+    {
+      "anchor": "pressure-loss-calculations-for-air",
+      "end_line": 1190,
+      "heading": "Pressure Loss Calculations For Air",
+      "level": 2,
+      "start_line": 1187
+    },
+    {
+      "anchor": "length-total-32-1022-feet-of-per-annulus-16-0511-feet",
+      "end_line": 1192,
+      "heading": "Length, Total = 32.1022 Feet, Of Per Annulus = 16.0511 Feet",
+      "level": 2,
+      "start_line": 1191
+    },
+    {
+      "anchor": "stop",
+      "end_line": 1194,
+      "heading": "Stop",
+      "level": 2,
+      "start_line": 1193
+    },
+    {
+      "anchor": "ran-12-sec",
+      "end_line": 1210,
+      "heading": "Ran 12 Sec.",
+      "level": 2,
+      "start_line": 1195
+    },
+    {
+      "anchor": "delta-f-74-2829-in-h20-2-68244-psi",
+      "end_line": 1213,
+      "heading": "Delta F= 74.2829 In·H20 = 2.68244 Psi",
+      "level": 2,
+      "start_line": 1211
+    },
+    {
+      "anchor": "g-iii-temperature-transients",
+      "end_line": 1233,
+      "heading": "G-III Temperature Transients",
+      "level": 1,
+      "start_line": 1214
+    },
+    {
+      "anchor": "g-iv-pump-characteristics",
+      "end_line": 1245,
+      "heading": "G-IV Pump Characteristics",
+      "level": 1,
+      "start_line": 1234
+    },
+    {
+      "anchor": "1-use-of-plant-water",
+      "end_line": 1273,
+      "heading": "1. Use of Plant Water",
+      "level": 1,
+      "start_line": 1246
+    },
+    {
+      "anchor": "appendix-g-vi",
+      "end_line": 1275,
+      "heading": "Appendix G-VI",
+      "level": 1,
+      "start_line": 1274
+    },
+    {
+      "anchor": "flow-measurement-instrumentation",
+      "end_line": 1277,
+      "heading": "Flow Measurement Instrumentation",
+      "level": 1,
+      "start_line": 1276
+    },
+    {
+      "anchor": "location-of-the-flow-sensors",
+      "end_line": 1281,
+      "heading": "Location of the Flow Sensors",
+      "level": 1,
+      "start_line": 1278
+    },
+    {
+      "anchor": "description-of-flow-sensor",
+      "end_line": 1285,
+      "heading": "Description of Flow Sensor",
+      "level": 1,
+      "start_line": 1282
+    },
+    {
+      "anchor": "flow-calculation",
+      "end_line": 1319,
+      "heading": "Flow Calculation",
+      "level": 1,
+      "start_line": 1286
+    },
+    {
+      "anchor": "measuring-the-differential-pressure",
+      "end_line": 1325,
+      "heading": "Measuring the Differential Pressure",
+      "level": 1,
+      "start_line": 1320
+    },
+    {
+      "anchor": "ornl-dwg-69-13461",
+      "end_line": 1329,
+      "heading": "Ornl Dwg. 69-13461",
+      "level": 2,
+      "start_line": 1326
+    },
+    {
+      "anchor": "ornl-dwg-69-13462",
+      "end_line": 1333,
+      "heading": "Ornl Dwg. 69-13462",
+      "level": 2,
+      "start_line": 1330
+    },
+    {
+      "anchor": "ornl-dwg-69-13463",
+      "end_line": 1337,
+      "heading": "Ornl Dwg. 69-13463",
+      "level": 2,
+      "start_line": 1334
+    },
+    {
+      "anchor": "g-vii-msbe-secondary-pump-operating-in-primary-salt-with-a-reduced-diameter-impeller",
+      "end_line": 1365,
+      "heading": "G-VII MSBE Secondary Pump Operating in Primary Salt with a Reduced Diameter Impeller",
+      "level": 1,
+      "start_line": 1338
+    },
+    {
+      "anchor": "g-viii-summary-of-pressure-profile-calculations",
+      "end_line": 1403,
+      "heading": "G-VIII Summary of Pressure Profile Calculations",
+      "level": 1,
+      "start_line": 1366
+    },
+    {
+      "anchor": "1-conduit",
+      "end_line": 1419,
+      "heading": "1. Conduit",
+      "level": 1,
+      "start_line": 1404
+    },
+    {
+      "anchor": "2-flow-control-valve",
+      "end_line": 1423,
+      "heading": "2. Flow Control Valve",
+      "level": 1,
+      "start_line": 1420
+    },
+    {
+      "anchor": "3-flow-nozzle",
+      "end_line": 1435,
+      "heading": "3. Flow Nozzle",
+      "level": 1,
+      "start_line": 1424
+    },
+    {
+      "anchor": "4-flow-restrictor",
+      "end_line": 1439,
+      "heading": "4. Flow Restrictor",
+      "level": 1,
+      "start_line": 1436
+    },
+    {
+      "anchor": "sudden-contraction",
+      "end_line": 1449,
+      "heading": "Sudden Contraction",
+      "level": 1,
+      "start_line": 1440
+    },
+    {
+      "anchor": "sudden-expansion",
+      "end_line": 1478,
+      "heading": "Sudden Expansion",
+      "level": 1,
+      "start_line": 1450
+    },
+    {
+      "anchor": "g-ix-stress-analyses",
+      "end_line": 1486,
+      "heading": "G-IX Stress Analyses",
+      "level": 1,
+      "start_line": 1479
+    },
+    {
+      "anchor": "ornl-tm-2780",
+      "end_line": 1642,
+      "heading": "Ornl-Tm-2780",
+      "level": 2,
+      "start_line": 1487
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1659,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1643
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2780",
+  "tables": [],
+  "title": "ORNL-TM-2780",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "breeder-and-converter-design",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

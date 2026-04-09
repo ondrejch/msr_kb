@@ -1,0 +1,751 @@
+{
+  "authors": [
+    "SAFETY CALCULATIONS FOR MSRE",
+    "P. N. Haubenreich",
+    "J.R.Engel",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-251.jsonl",
+  "date_text": "May 15, 1962",
+  "doc_id": "ornl-tm-251",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 25,
+        "line_hits": [
+          54,
+          88,
+          100,
+          112,
+          150,
+          182,
+          205,
+          223,
+          225,
+          227,
+          242,
+          257,
+          261,
+          265,
+          267,
+          352,
+          366,
+          370,
+          380,
+          406,
+          408,
+          419,
+          421,
+          428,
+          432
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          174,
+          462,
+          488
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 32,
+        "line_hits": [
+          62,
+          72,
+          74,
+          77,
+          88,
+          134,
+          136,
+          148,
+          152,
+          162,
+          180,
+          182,
+          184,
+          201,
+          209,
+          215,
+          217,
+          221,
+          235,
+          246,
+          248,
+          348,
+          350,
+          352,
+          354,
+          364,
+          368,
+          370,
+          372,
+          390,
+          392,
+          506
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          51,
+          70,
+          71,
+          100,
+          102,
+          114,
+          118,
+          124,
+          128,
+          130,
+          134,
+          136,
+          180,
+          235,
+          246,
+          276,
+          282,
+          388
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          176,
+          207,
+          250,
+          265,
+          336,
+          362,
+          419
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          74,
+          75,
+          88,
+          168,
+          176,
+          190
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          126,
+          237
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          235
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          1,
+          10,
+          34,
+          196,
+          253,
+          286,
+          352
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          8
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          4
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 33,
+        "line_hits": [
+          24,
+          100,
+          104,
+          108,
+          114,
+          122,
+          140,
+          148,
+          162,
+          174,
+          194,
+          205,
+          217,
+          233,
+          282,
+          284,
+          308,
+          312,
+          328,
+          334,
+          352,
+          358,
+          380,
+          382,
+          394,
+          406,
+          417,
+          421,
+          434,
+          450,
+          476,
+          480,
+          488
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          16,
+          49,
+          64,
+          75,
+          88,
+          90,
+          98,
+          102,
+          106,
+          108,
+          110,
+          116,
+          164,
+          176,
+          240,
+          352,
+          366,
+          448
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 6,
+        "line_hits": [
+          170,
+          235,
+          458,
+          462,
+          471,
+          475
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          458,
+          471
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          458,
+          471
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          458,
+          471
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          471
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "21357fd723f2ec9ece64fba3a6d0d0a0e79d5074dcb76f25a8d2dbd6c4ae8350",
+  "markdown_path": "pdf/ORNL-TM-0251/ORNL-TM-0251/hybrid_ocr/ORNL-TM-0251.md",
+  "report_number": "ORNL-TM-251",
+  "report_numbers": [
+    "ORNL-TM-251"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 61,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 7,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 9,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 8
+    },
+    {
+      "anchor": "ornl-tm-251",
+      "end_line": 11,
+      "heading": "Ornl-Tm-251",
+      "level": 2,
+      "start_line": 10
+    },
+    {
+      "anchor": "copy-no-40",
+      "end_line": 15,
+      "heading": "Copy No. - 40",
+      "level": 2,
+      "start_line": 12
+    },
+    {
+      "anchor": "safety-calculations-for-msre",
+      "end_line": 21,
+      "heading": "Safety Calculations For Msre",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 31,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 22
+    },
+    {
+      "anchor": "notice",
+      "end_line": 35,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 44,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "contents",
+      "end_line": 46,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 47,
+      "heading": "Abstract",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "introduction-3",
+      "end_line": 48,
+      "heading": "Introduction 3",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "msre-characteristics-5",
+      "end_line": 49,
+      "heading": "Msre Characteristics 5",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "results-of-credible-reactivity-accidents-6",
+      "end_line": 56,
+      "heading": "Results Of Credible Reactivity Accidents 6",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "response-to-arbitrary-additions-of-reactivity-27",
+      "end_line": 59,
+      "heading": "Response To Arbitrary Additions Of Reactivity 27",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "discussion-35",
+      "end_line": 60,
+      "heading": "Discussion 35",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "appendix-i-delayed-neutrons-40",
+      "end_line": 61,
+      "heading": "Appendix I: Delayed Neutrons 40",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "appendix-ii-control-rods-141",
+      "end_line": 62,
+      "heading": "Appendix Ii: Control Rods 141",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "appendix-iii-analysis-of-cold-slug-accidents-48",
+      "end_line": 64,
+      "heading": "Appendix Iii: Analysis Of Cold-Slug Accidents 48",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "appendix-v-criticality-calculations-for-filling-accidents-60",
+      "end_line": 65,
+      "heading": "Appendix V: Criticality Calculations For Filling Accidents 60",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "appendix-vi-reactivity-worth-of-increments-of-uranium-65",
+      "end_line": 67,
+      "heading": "Appendix Vi: Reactivity Worth Of Increments Of Uranium 65",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 89,
+      "heading": "List Of Figures",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "safety-calculations-for-msre",
+      "end_line": 95,
+      "heading": "SAFETY CALCULATIONS FOR MSRE",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 105,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "msre-characteristics",
+      "end_line": 119,
+      "heading": "MSRE CHARACTERISTICS",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "results-of-credible-reactivity-accidents",
+      "end_line": 123,
+      "heading": "RESULTS OF CREDIBLE REACTIVITY ACCIDENTS",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "case-1-fuel-pump-failure",
+      "end_line": 137,
+      "heading": "Case 1 - Fuel Pump Failure",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "case-2-cold-slug-accident",
+      "end_line": 159,
+      "heading": "Case 2 - Cold Slug Accident",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "case-3-filling-accident",
+      "end_line": 165,
+      "heading": "Case 3 - Filling Accident",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "fuel-composition",
+      "end_line": 187,
+      "heading": "Fuel Composition",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "temperature-and-power-excursions",
+      "end_line": 195,
+      "heading": "Temperature and Power Excursions",
+      "level": 1,
+      "start_line": 188
+    },
+    {
+      "anchor": "ornl-lr-dwg-70056",
+      "end_line": 218,
+      "heading": "Ornl-Lr-Dwg..70056",
+      "level": 2,
+      "start_line": 196
+    },
+    {
+      "anchor": "other-filling-accidents",
+      "end_line": 222,
+      "heading": "Other Filling Accidents",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "case-4-loss-of-graphite-from-core",
+      "end_line": 228,
+      "heading": "Case 4 - Loss of Graphite from Core",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "case-5-fuel-additions",
+      "end_line": 243,
+      "heading": "Case 5 - Fuel Additions",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "case-6-uncontrolled-rod-withdrawal",
+      "end_line": 258,
+      "heading": "Case 6 - Uncontrolled Rod Withdrawal",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "response-to-arbitrary-additions-of-reactivity",
+      "end_line": 262,
+      "heading": "RESPONSE TO ARBITRARY ADDITIONS OF REACTIVITY",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "ramp-additions",
+      "end_line": 303,
+      "heading": "Ramp Additions",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "step-additions",
+      "end_line": 315,
+      "heading": "Step Additions",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 329,
+      "heading": "DISCUSSION",
+      "level": 1,
+      "start_line": 316
+    },
+    {
+      "anchor": "appendix-i",
+      "end_line": 331,
+      "heading": "APPENDIX I",
+      "level": 1,
+      "start_line": 330
+    },
+    {
+      "anchor": "delayed-neutrons",
+      "end_line": 345,
+      "heading": "DELAYED NEUTRONS",
+      "level": 1,
+      "start_line": 332
+    },
+    {
+      "anchor": "appendix-ii",
+      "end_line": 347,
+      "heading": "APPENDIX II",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "control-rods",
+      "end_line": 367,
+      "heading": "CONTROL RODS",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "control-rod-worth",
+      "end_line": 377,
+      "heading": "Control Rod Worth",
+      "level": 1,
+      "start_line": 368
+    },
+    {
+      "anchor": "deployment-of-rods",
+      "end_line": 397,
+      "heading": "Deployment of Rods",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "appendix-iii",
+      "end_line": 399,
+      "heading": "APPENDIX III",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "analysis-of-cold-slug-accidents",
+      "end_line": 438,
+      "heading": "ANALYSIS OF COLD SLUG ACCIDENTS",
+      "level": 1,
+      "start_line": 400
+    },
+    {
+      "anchor": "temperature-f",
+      "end_line": 443,
+      "heading": "Temperature (°F)",
+      "level": 2,
+      "start_line": 439
+    },
+    {
+      "anchor": "appendix-iv",
+      "end_line": 445,
+      "heading": "APPENDIX IV",
+      "level": 1,
+      "start_line": 444
+    },
+    {
+      "anchor": "composition-of-residual-liquid-after-partial",
+      "end_line": 447,
+      "heading": "COMPOSITION OF RESIDUAL LIQUID AFTER PARTIAL",
+      "level": 1,
+      "start_line": 446
+    },
+    {
+      "anchor": "freezing-of-msre-fuel-salt",
+      "end_line": 464,
+      "heading": "FREEZING OF MSRE FUEL SALT",
+      "level": 1,
+      "start_line": 448
+    },
+    {
+      "anchor": "estimate-by-mcduffie-et-al",
+      "end_line": 477,
+      "heading": "Estimate by McDuffie et al",
+      "level": 1,
+      "start_line": 465
+    },
+    {
+      "anchor": "comparison-of-results",
+      "end_line": 485,
+      "heading": "Comparison of Results",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "composition-of-fuel-salt",
+      "end_line": 489,
+      "heading": "Composition Of Fuel Salt",
+      "level": 2,
+      "start_line": 486
+    },
+    {
+      "anchor": "appendix-v",
+      "end_line": 491,
+      "heading": "APPENDIX V",
+      "level": 1,
+      "start_line": 490
+    },
+    {
+      "anchor": "criticality-calculations-for-filling-accidents",
+      "end_line": 521,
+      "heading": "CRITICALITY CALCULATIONS FOR FILLING ACCIDENTS",
+      "level": 1,
+      "start_line": 492
+    },
+    {
+      "anchor": "appendix-vi",
+      "end_line": 523,
+      "heading": "APPENDIX VI",
+      "level": 1,
+      "start_line": 522
+    },
+    {
+      "anchor": "reactivity-worth-of-increments-of-uranium",
+      "end_line": 551,
+      "heading": "REACTIVITY WORTH OF INCREMENTS OF URANIUM",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 587,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 552
+    },
+    {
+      "anchor": "39-lrda-rc",
+      "end_line": 589,
+      "heading": "39. LRDA-RC",
+      "level": 2,
+      "start_line": 588
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 594,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 590
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0251",
+  "tables": [],
+  "title": "OAK RIDGE NATIONAL LABORATORY",
+  "topics": [
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

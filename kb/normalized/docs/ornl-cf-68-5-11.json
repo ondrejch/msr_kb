@@ -1,0 +1,377 @@
+{
+  "authors": [
+    "Operated by",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "Post Office Box X",
+    "Oak Ridge",
+    "Tennessee",
+    "Internal Use Only",
+    "ORNL"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-68-5-11.jsonl",
+  "date_text": "May 1, 1968",
+  "doc_id": "ornl-cf-68-5-11",
+  "document_type": "report",
+  "entities": {
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          69,
+          128,
+          146,
+          149
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          225,
+          228,
+          236,
+          252,
+          261,
+          274,
+          277,
+          278
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          3,
+          17,
+          41
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          6,
+          7
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 10,
+        "line_hits": [
+          69,
+          83,
+          87,
+          93,
+          106,
+          118,
+          159,
+          166,
+          168,
+          182
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          29,
+          37,
+          69,
+          71,
+          93,
+          142,
+          146,
+          157,
+          187
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          19
+        ],
+        "name": "ORNL Central Files"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c9b8ed9bca7eaa76da69c5d5600c4cf4eebee2fb4b54579136275483beda87a0",
+  "markdown_path": "pdf/ORNL-CF-68-5-11/ORNL-CF-68-5-11/hybrid_ocr/ORNL-CF-68-5-11.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 36,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 5,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 16,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 6
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 18,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "central-files-number",
+      "end_line": 24,
+      "heading": "Central Files Number",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 34,
+      "heading": "Copy No.",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 38,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "notice",
+      "end_line": 42,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "contents",
+      "end_line": 44,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "page",
+      "end_line": 46,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "introduction-4",
+      "end_line": 48,
+      "heading": "Introduction 4",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "temperature-servo-control-of-nuclear-power-4",
+      "end_line": 60,
+      "heading": "Temperature Servo Control Of Nuclear Power 4",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "automatic-loadcontrol-15",
+      "end_line": 62,
+      "heading": "Automatic Loadcontrol 15",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "conclusions-18",
+      "end_line": 64,
+      "heading": "Conclusions. 18",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "appendix-21",
+      "end_line": 66,
+      "heading": "Appendix 21",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 74,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "temperature-servo-control-of-nuclear-power",
+      "end_line": 76,
+      "heading": "TEMPERATURE SERVO CONTROL OF NUCLEAR POWER",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "steady-state-performance",
+      "end_line": 84,
+      "heading": "Steady-State Performance",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "normal-setpoint-change",
+      "end_line": 88,
+      "heading": "Normal Setpoint Change",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "fastscan",
+      "end_line": 90,
+      "heading": "Fastscan",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "starting-date-1-29-67",
+      "end_line": 94,
+      "heading": "Starting Date, 1-29-67",
+      "level": 2,
+      "start_line": 91
+    },
+    {
+      "anchor": "rapid-load-changes",
+      "end_line": 109,
+      "heading": "Rapid Load Changes",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "fastscan",
+      "end_line": 111,
+      "heading": "Fastscan",
+      "level": 2,
+      "start_line": 110
+    },
+    {
+      "anchor": "starting-date-2-1-67",
+      "end_line": 119,
+      "heading": "Starting Date, 2 1 67",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "temperature-setpoint-error",
+      "end_line": 131,
+      "heading": "Temperature Setpoint Error",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "fastscan",
+      "end_line": 133,
+      "heading": "Fastscan",
+      "level": 2,
+      "start_line": 132
+    },
+    {
+      "anchor": "starting-date-2-1-67",
+      "end_line": 136,
+      "heading": "Starting Date, 2 1 67",
+      "level": 2,
+      "start_line": 134
+    },
+    {
+      "anchor": "fastscan",
+      "end_line": 137,
+      "heading": "Fastscan",
+      "level": 2,
+      "start_line": 137
+    },
+    {
+      "anchor": "starting-date-2-167",
+      "end_line": 139,
+      "heading": "Starting Date, 2-167",
+      "level": 2,
+      "start_line": 138
+    },
+    {
+      "anchor": "control-by-negative-temperature-coefficient-at-reactivity",
+      "end_line": 154,
+      "heading": "Control by Negative Temperature Coefficient at Reactivity",
+      "level": 1,
+      "start_line": 140
+    },
+    {
+      "anchor": "automatic-loadcontrol",
+      "end_line": 161,
+      "heading": "AUTOMATIC LOADCONTROL",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "starting-date-9-21-67",
+      "end_line": 179,
+      "heading": "Starting Date, 9-21 67",
+      "level": 2,
+      "start_line": 162
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 190,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "magnetic-data-tape-storage",
+      "end_line": 194,
+      "heading": "MAGNETIC DATA TAPE STORAGE",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "magnetic-data-tape-storage",
+      "end_line": 196,
+      "heading": "MAGNETIC DATA TAPE STORAGE",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "continued",
+      "end_line": 212,
+      "heading": "(continued)",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 294,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 213
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-68-5-11",
+  "tables": [],
+  "title": "![](images/f5830f5e37dac987eef45c5f9d324e288bc7fb7c01fe268fc51d8db00293250d.jpg)",
+  "topics": [
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

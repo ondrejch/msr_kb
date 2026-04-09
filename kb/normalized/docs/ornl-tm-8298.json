@@ -1,0 +1,594 @@
+{
+  "authors": [
+    "P. F. Tortorelli",
+    "J. H. Devan"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-8298.jsonl",
+  "date_text": "December 1982",
+  "doc_id": "ornl-tm-8298",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 31,
+        "line_hits": [
+          41,
+          45,
+          51,
+          60,
+          63,
+          74,
+          80,
+          87,
+          91,
+          94,
+          174,
+          195,
+          196,
+          237,
+          259,
+          280,
+          288,
+          330,
+          332,
+          334,
+          341,
+          345,
+          358,
+          362,
+          375,
+          400,
+          404,
+          417,
+          422,
+          468,
+          477
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 29,
+        "line_hits": [
+          41,
+          45,
+          51,
+          60,
+          65,
+          74,
+          83,
+          85,
+          87,
+          139,
+          195,
+          225,
+          263,
+          276,
+          280,
+          288,
+          304,
+          332,
+          345,
+          352,
+          358,
+          362,
+          365,
+          374,
+          377,
+          406,
+          424,
+          446,
+          455
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          67,
+          265
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          67,
+          263
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          67
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 34,
+        "line_hits": [
+          13,
+          41,
+          45,
+          47,
+          51,
+          54,
+          56,
+          67,
+          74,
+          85,
+          87,
+          91,
+          265,
+          267,
+          278,
+          280,
+          284,
+          288,
+          300,
+          304,
+          330,
+          332,
+          345,
+          347,
+          350,
+          352,
+          358,
+          362,
+          365,
+          375,
+          377,
+          396,
+          400,
+          406
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          3,
+          9,
+          23,
+          369,
+          385
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          373
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          23
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 22,
+        "line_hits": [
+          47,
+          54,
+          65,
+          74,
+          87,
+          89,
+          91,
+          261,
+          265,
+          267,
+          282,
+          300,
+          304,
+          306,
+          332,
+          334,
+          341,
+          345,
+          352,
+          358,
+          404,
+          422
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          386
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "59712ba809fa3d3d216de01371726bc04c73fb83c710652495142e40ae64fbb3",
+  "markdown_path": "pdf/ORNL-TM-8298/ORNL-TM-8298/hybrid_ocr/ORNL-TM-8298.md",
+  "report_number": "Y-17723",
+  "report_numbers": [
+    "Y-17723",
+    "Y-17728",
+    "Y-17832"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 50,
+  "sections": [
+    {
+      "anchor": "ornl-tm-8298",
+      "end_line": 6,
+      "heading": "Ornl/Tm-8298",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 8,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "ornl-tm-8298",
+      "end_line": 10,
+      "heading": "Ornl/Tm--8298",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "de83-004228",
+      "end_line": 24,
+      "heading": "De83 004228",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "contents",
+      "end_line": 26,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 27,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 28,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "experimental-procedures-2",
+      "end_line": 29,
+      "heading": "Experimental Procedures 2",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "results-5",
+      "end_line": 30,
+      "heading": "Results 5",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "discussion-19",
+      "end_line": 31,
+      "heading": "Discussion 19",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "summary-25",
+      "end_line": 32,
+      "heading": "Summary 25",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "acknowledgments-26",
+      "end_line": 33,
+      "heading": "Acknowledgments 26",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "references-26",
+      "end_line": 34,
+      "heading": "References 26",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "appendix-29",
+      "end_line": 38,
+      "heading": "Appendix 29",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 42,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 48,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "experimental-procedures",
+      "end_line": 71,
+      "heading": "EXPERIMENTAL PROCEDURES",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "results",
+      "end_line": 95,
+      "heading": "RESULTS",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "y-176892",
+      "end_line": 97,
+      "heading": "Y-176892",
+      "level": 2,
+      "start_line": 96
+    },
+    {
+      "anchor": "y-179930",
+      "end_line": 105,
+      "heading": "Y-179930",
+      "level": 2,
+      "start_line": 98
+    },
+    {
+      "anchor": "y-176894",
+      "end_line": 107,
+      "heading": "Y-176894",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "y-179931",
+      "end_line": 120,
+      "heading": "Y-179931",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "y-173086",
+      "end_line": 122,
+      "heading": "Y-173086",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "y-177222",
+      "end_line": 130,
+      "heading": "Y-177222",
+      "level": 2,
+      "start_line": 123
+    },
+    {
+      "anchor": "y-173088",
+      "end_line": 132,
+      "heading": "Y-173088",
+      "level": 2,
+      "start_line": 131
+    },
+    {
+      "anchor": "y-177224",
+      "end_line": 144,
+      "heading": "Y-177224",
+      "level": 2,
+      "start_line": 133
+    },
+    {
+      "anchor": "y-174797",
+      "end_line": 146,
+      "heading": "Y-174797",
+      "level": 2,
+      "start_line": 145
+    },
+    {
+      "anchor": "y-174794",
+      "end_line": 154,
+      "heading": "Y-174794",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "y-178808",
+      "end_line": 156,
+      "heading": "Y-178808",
+      "level": 2,
+      "start_line": 155
+    },
+    {
+      "anchor": "y-178306",
+      "end_line": 164,
+      "heading": "Y-178306",
+      "level": 2,
+      "start_line": 157
+    },
+    {
+      "anchor": "y-174801",
+      "end_line": 166,
+      "heading": "Y-174801",
+      "level": 2,
+      "start_line": 165
+    },
+    {
+      "anchor": "y-178810",
+      "end_line": 175,
+      "heading": "Y-178810",
+      "level": 2,
+      "start_line": 167
+    },
+    {
+      "anchor": "y-17723",
+      "end_line": 180,
+      "heading": "Y-17723",
+      "level": 2,
+      "start_line": 176
+    },
+    {
+      "anchor": "y-178952",
+      "end_line": 185,
+      "heading": "Y-178952",
+      "level": 2,
+      "start_line": 181
+    },
+    {
+      "anchor": "y-179010",
+      "end_line": 197,
+      "heading": "Y-179010",
+      "level": 2,
+      "start_line": 186
+    },
+    {
+      "anchor": "y-179933",
+      "end_line": 202,
+      "heading": "Y-179933",
+      "level": 2,
+      "start_line": 198
+    },
+    {
+      "anchor": "y-179941",
+      "end_line": 209,
+      "heading": "Y-179941",
+      "level": 2,
+      "start_line": 203
+    },
+    {
+      "anchor": "y-17728",
+      "end_line": 214,
+      "heading": "Y-17728",
+      "level": 2,
+      "start_line": 210
+    },
+    {
+      "anchor": "y-177244",
+      "end_line": 219,
+      "heading": "Y-177244",
+      "level": 2,
+      "start_line": 215
+    },
+    {
+      "anchor": "y-177248",
+      "end_line": 228,
+      "heading": "Y-177248",
+      "level": 2,
+      "start_line": 220
+    },
+    {
+      "anchor": "y-178828",
+      "end_line": 233,
+      "heading": "Y-178828",
+      "level": 2,
+      "start_line": 229
+    },
+    {
+      "anchor": "y-17832",
+      "end_line": 242,
+      "heading": "Y-17832",
+      "level": 2,
+      "start_line": 234
+    },
+    {
+      "anchor": "y-178812",
+      "end_line": 247,
+      "heading": "Y-178812",
+      "level": 2,
+      "start_line": 243
+    },
+    {
+      "anchor": "y-178814",
+      "end_line": 252,
+      "heading": "Y-178814",
+      "level": 2,
+      "start_line": 248
+    },
+    {
+      "anchor": "y-178816",
+      "end_line": 291,
+      "heading": "Y-178816",
+      "level": 2,
+      "start_line": 253
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 359,
+      "heading": "DISCUSSION",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "summary",
+      "end_line": 366,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 370,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "references",
+      "end_line": 391,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 371
+    },
+    {
+      "anchor": "corrosion-data",
+      "end_line": 485,
+      "heading": "Corrosion Data",
+      "level": 2,
+      "start_line": 392
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-8298",
+  "tables": [],
+  "title": "![](images/583cba07e70dfe88395f9277198c43972cd63499a4b739dd26fbcc236f756818.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "salt-chemistry-and-redox",
+    "reactor-physics-neutronics",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

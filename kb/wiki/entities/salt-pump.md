@@ -1,0 +1,169 @@
+# salt pump
+
+## Overview
+
+- Type: component
+- Documents: 109
+- First seen: March 3, 1901
+- Last seen: unknown
+
+## Topic Profile
+
+- pumps-loops-and-heat-exchangers (108)
+- reactor-operations (107)
+- materials-and-corrosion (104)
+- off-gas-fission-products-and-tritium (86)
+- graphite-and-moderator-behavior (73)
+- reactor-physics-neutronics (64)
+- salt-systems-and-thermophysics (57)
+- salt-chemistry-and-redox (56)
+
+## Related Entities
+
+- pump [component] (109)
+- ARE [reactor] (109)
+- ORNL [organization] (108)
+- loop [component] (103)
+- heat exchanger [component] (102)
+- AEC [organization] (100)
+- graphite [alloy-material] (97)
+- LiF [salt-system] (92)
+- nickel [alloy-material] (91)
+- Union Carbide [organization] (91)
+- beryllium [alloy-material] (90)
+- fluoride salt [salt-system] (90)
+
+## Representative Claims
+
+- [[../documents/ornl-1716.md|DECLASSIFIED]] - 1954
+  - salt heaters was controlled to maintain a constant inlet temperature to the heat exchanger The fluoride salt pump speed was set to give a desired flow rate and this flow was maintained for a series of different NaK flow rates The damper to the NaK cooling section was adjusted in each case to hasten attainment of steady state conditions before data were recorded Data were taken during each run at each NaK flow rate a total of 80 data points was taken
+- [[../documents/ornl-cf-57-4-27.md|![](images/3f7cf0a8001da7322a0b64862847fd098bcc14dff6f113c0f2b93b24ab9b98f8.jpg)]] - April 29, 1957
+  - Figure 11.) This shielded region above the reactor is allocated to tools for remote disassembly and reassembly of fuel salt pumps or primary heat exchangers.
+- [[../documents/ornl-2474.md|ORNL-2474]] - January 31, 1958
+  - 1.1.2 MSR Layout with Fuel Pumps Equally Spaced Around the Periphery and the Blanket-Salt Pumps in a Central Annulus of Blanket over the Core.
+- [[../documents/ornl-2474.md|ORNL-2474]] - January 31, 1958
+  - Design of a Hydrostatic Bearing for a Molten Salt Pump Impeller 16
+- [[../documents/ornl-2551.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - February 15, 1958
+  - Calculations have indicated that a thrust bearing of 8.5-in. spherical radius, supported with helium, as proposed for a 5000-gpm molten-salt pump, will require a minimum supply pressure of 45 to 50 psia.
+- [[../documents/ornl-2634.md|ORNL-2634]] - May 1, 1958
+  - As indicated in Part 5, this pump incorporates advanced features not present in any molten-salt pumps operated to date.
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959
+  - <table><tr><td></td><td>Prototype Past Reactor (UKAEA)</td><td>10 Mw Test Loop Rapsodie (France)</td><td>Molten Salt Pump (ORNL)</td><td>LASL Sodium Test Facility (Los Alamos)</td><td>Past Breeder Reactor (USAEC)</td></tr><tr><td colspan="6">Primary System Pumps</td></tr><tr><td colspan="6">Design</td></tr><tr><td>Type</td><td>Centrifugal free-surface</td><td>Centrifugal free-surface</td><td>Centrifugal free-surface</td><td>Centrifugal free-surface</td><td>Centrifugal free-surface</td></tr><tr><td>Number of units</td><td>1</td><td>1</td><td>1</td><td>1 (2-stage)</td><td>1</td></tr><tr><td>Capacity, gpm</td><td>7100</td><td>1650</td><td>260</td><td>230</td><td>50,000-100,000</td></tr><tr><td>Dynamic head, ft</td><td>150</td><td>105</td><td>50</td><td>50</td><td>300</td></tr><tr><td>Design temperature, °F</td><td>750</td><td>1200</td><td>1350</td><td>850</td><td>800-1200</td></tr><tr><td>Motor speed, rpm</td><td>100-900</td><td>1100</td><td>1400</td><td>1675</td><td>890</td></tr><tr><td>Motor power, hp</td><td>475</td><td>73</td><td>---</td><td>7 1/2</td><td>6000</td></tr><tr><td>Sealing arrangement</td><td>Mechanical shaft seal</td><td>Mechanical shaft seal</td><td>Mechanical shaft seal</td><td>Mechanical shaft seal</td><td>Mechanical shaft seal</td></tr><tr><td>Material</td><td>321 ss</td><td>316 ss</td><td>Inconel</td><td>300 series ss</td><td>---</td></tr><tr><td>Type of speed control</td><td>Commutator ac motor w/induction regulator</td><td>Ward Leonard system</td><td>---</td><td>Electromagnetic drive</td><td>---</td></tr><tr><td>Manufacturer</td><td>---</td><td>Hispano-Suiza</td><td>---</td><td>Byron-Jackson</td><td>---</td></tr><tr><td colspan="6">Operation</td></tr><tr><td>Pumped fluid</td><td>Sodium</td><td>Sodium</td><td>Molten-Salt</td><td>Sodium</td><td>---</td></tr><tr><td>Temperature, °F</td><td>Up to 750</td><td>Up to 1022</td><td>1100-1350</td><td>Up to 850</td><td>---</td></tr><tr><td>Flow per pump, gpm</td><td>4000-7100</td><td>2000b</td><td>45-260</td><td>230</td><td>---</td></tr><tr><td>Time per pump, hr</td><td>7000a</td><td>12,000b</td><td>13,600c</td><td>11,920d</td><td>---</td></tr><tr><td colspan="6">Secondary System Pumps</td></tr><tr><td colspan="6">Design</td></tr><tr><td>Type</td><td>---</td><td>Centrifugal free-surface</td><td>---</td><td>Centrifugal free-surface</td><td>---</td></tr><tr><td>Number of units</td><td>---</td><td>1</td><td>---</td><td>1 (4-stage)</td><td>---</td></tr><tr><td>Capacity, gpm</td><td>---</td><td>1675</td><td>---</td><td>230</td><td>---</td></tr><tr><td>Dynamic head, ft</td><td>---</td><td>59</td><td>---</td><td>110</td><td>---</td></tr><tr><td>Design temperature, °F</td><td>---</td><td>1200</td><td>---</td><td>550</td><td>---</td></tr><tr><td>Motor speed, rpm</td><td>---</td><td>875</td><td>---</td><td>1675</td><td>---</td></tr><tr><td>Motor power, hp</td><td>---</td><td>75</td><td>---</td><td>10</td><td>---</td></tr><tr><td>Sealing arrangement</td><td>---</td><td>Mechanical shaft seal</td><td>---</td><td>Mechanical shaft seal</td><td>---</td></tr><tr><td>Material</td><td>---</td><td>316 ss</td><td>---</td><td>300 series ss</td><td>---</td></tr><tr><td>Type of speed control</td><td>---</td><td>Ward Leonard system</td><td>---</td><td>Electrodynamict drive</td><td>---</td></tr><tr><td>Manufacturer</td><td>---</td><td>Hispano-Suiza</td><td>---</td><td>Byron-Jackson</td><td>---</td></tr><tr><td colspan="6">Operation</td></tr><tr><td>Pumped fluid</td><td>---</td><td>NaK</td><td>---</td><td>Sodium</td><td>---</td></tr><tr><td>Temperature, °F</td><td>---</td><td>Up to 1022</td><td>---</td><td>Up to 550</td><td>---</td></tr><tr><td>Flow per pump, gpm</td><td>---</td><td>2000 gpm</td><td>---</td><td>230</td><td>---</td></tr><tr><td>Time per pump, hr</td><td>---</td><td>12,000b</td><td>---</td><td>13,474d</td><td>---</td></tr></table>
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959
+  - A preliminary layout of the MSBR fuel salt pump indicates a shaft length of approximately 35-ft for use with the oven housing concept.
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959
+  - The first group (here-after referred to as long-shaft pump) includes reactor sodium pumps in the HNPF, EBR-2, and Enrico Fermi systems; the experimental development sodium pump for the PFR by UKAEA; the large sodium pump proposed for development by the USAEC; the sodium pumps for the Rapsodie reactor in France; the sodium pumps used in the Sodium Test Facility at LASL; and one molten salt pump that was operated at ORNL.[20] The second group (hereafter referred to as short-shaft pump) includes the remainder of the liquid-metal and molten-salt pumps that were developed and operated at ORNL, and the main and auxiliary sodium pumps of the SRE.
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959
+  - The molten-salt pump requirements presently envisioned for the MSBR and the MSBE are listed in Table 8.
+
+## Chronology
+
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901 - mentions: 33
+- [[../documents/ornl-1716.md|DECLASSIFIED]] - 1954 - mentions: 1
+- [[../documents/ornl-1692.md|![](images/ac719642e9213280d3c16ec9f3ea45551575992f2d409365b68e0a3d073c02a2.jpg)]] - March 10, 1954 - ORNL-528 - mentions: 1
+- [[../documents/ornl-2095.md|ORNL-2095]] - December 10, 1954 - ORNL-2095 - mentions: 1
+- [[../documents/ornl-1947.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 10, 1955 - ORNL-528 - mentions: 2
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956 - mentions: 5
+- [[../documents/ornl-cf-57-4-27.md|![](images/3f7cf0a8001da7322a0b64862847fd098bcc14dff6f113c0f2b93b24ab9b98f8.jpg)]] - April 29, 1957 - CF-57-1-10 - mentions: 1
+- [[../documents/ornl-2474.md|ORNL-2474]] - January 31, 1958 - ORNL-2474 - mentions: 16
+- [[../documents/ornl-2551.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - February 15, 1958 - ORNL-2551 - mentions: 3
+- [[../documents/ornl-2634.md|ORNL-2634]] - May 1, 1958 - ORNL-2634 - mentions: 4
+- [[../documents/molten-salt-reactors.md|MOLTEN-SALT REACTORS]] - June 1958 - mentions: 2
+- [[../documents/ornl-cf-58-8-33.md|![](images/864e78d37360aeaf15dfab3d6a3e5cb46cca08effcfdfef28b196422146a54f3.jpg)]] - August 13, 1958 - mentions: 1
+- [[../documents/ornl-2626.md|ORNL-2626]] - October 31, 1958 - ORNL-2626 - mentions: 3
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959 - ORNL-TM-1993 - mentions: 24
+- [[../documents/tid-8507.md|CENTRAL RESEARCH LIBRAR]] - January 2, 1959 - mentions: 6
+- [[../documents/ornl-cf-59-1-26.md|![](images/3a74bb449ed93c4da89dd5c969a24e7eba90f63087b3269a98f7b1d5691b1f3f.jpg)]] - January 13, 1959 - mentions: 2
+- [[../documents/ornl-2684.md|ORNL-2684]] - January 31, 1959 - ORNL-2684 - mentions: 1
+- [[../documents/ornl-2890.md|ORNL-2890]] - October 31, 1959 - ORNL-2890 - mentions: 1
+- [[../documents/ornl-3014.md|![](images/3d9e2a174651a2d79ed61a6a17515dd3051e8336e6824ebffc1c42c4f35951a5.jpg)]] - 1960 - ORNL-3014 - mentions: 4
+- [[../documents/ornl-2796.md|Contract No. W-7405-eng-26]] - 1960 - mentions: 2
+- [[../documents/ornl-2973.md|ORNL-2973 UC-81 - Reactors - Power]] - April 30, 1960 - ORNL-2973 - mentions: 1
+- [[../documents/ornl-3215.md|![](images/b390bcb067039caf88dbc5e2ee9afe97556a586516b1e8bc48fcccfe1bf4383c.jpg)]] - 1961 - ORNL-3215 - mentions: 4
+- [[../documents/ornl-tm-1060.md|ORNL-TM-1060]] - July 1961 - ORNL-TM-1060 - mentions: 12
+- [[../documents/ornl-3122.md|${3}^{ \times {5}^{7}}$]] - October 1961 - ORNL-3122 - mentions: 4
+- [[../documents/ornl-3282.md|ORNL-3282]] - 1962 - ORNL-3282 - mentions: 5
+- [[../documents/ornl-3419.md|MOLTEN-SALT REACTOR PROGRAM]] - January 31, 1963 - mentions: 3
+- [[../documents/ornl-3529.md|ORNL-3529]] - July 31, 1963 - ORNL-3529 - mentions: 1
+- [[../documents/ornl-tm-732.md|![](images/c93d2ea0e38986fcb933700de987cad349cfc93caea4b5fa0e5643ceba8d3ed2.jpg)]] - 1964 - ORNL-TM-728 - mentions: 4
+- [[../documents/ornl-tm-730.md|ORNL-TM-730]] - 1964 - ORNL-TM-730 - mentions: 1
+- [[../documents/ornl-3626.md|ORNL-3626 UCA-80- Reactor Technology TID-4500 (31st ed.)]] - January 31, 1964 - ORNL-3626 - mentions: 4
+- [[../documents/ornl-3708.md|![](images/50503ced8a785d6711476b9d883192f94a77603d1c0894f00fd35b69e5171bf6.jpg)]] - July 31, 1964 - ORNL-3708 - mentions: 27
+- [[../documents/ornl-tm-2987.md|ORNL-TM-2987]] - August 1964 - ORNL-TM-2987 - mentions: 49
+- [[../documents/ornl-tm-3832.md|![](images/1300c978e545fa137f7c638f011312135b3d51a64be678af13c0b08dfc7b58c9.jpg)]] - December 1964 - ORNL-TM-3832 - mentions: 3
+- [[../documents/ornl-tm-908a.md|![](images/8c4a1e00f993da403ce9ac9cd689c395b5e6b5f83823f9c7e4e8f3aa165653cc.jpg)]] - 1965 - ORNL-TM-728 - mentions: 6
+- [[../documents/ornl-tm-728.md|ORNL-TM-728]] - 1965 - ORNL-TM-728 - mentions: 34
+- [[../documents/ornl-3812.md|ORNL-3812]] - February 28, 1965 - ORNL-3812 - mentions: 5
+- [[../documents/ornl-tm-3041.md|ORNL-TM-3041]] - June 1, 1965 - ORNL-TM-3041 - mentions: 1
+- [[../documents/ornl-3872.md|ORNL-3872]] - August 31, 1965 - ORNL-3872 - mentions: 6
+- [[../documents/ornl-3791.md|![](images/6a88b7b49bad0c5a62a41f205f0b4223628c001b68e171f028a1a0e51b8981ff.jpg)]] - 1966 - mentions: 2
+- [[../documents/ornl-tm-908b.md|![](images/f3ed060aab511dba2c5cc73855ebd887a9e74c6c343113daa8dbdac27d2dd102.jpg)]] - 1966 - ORNL-TM-908 - mentions: 6
+- [[../documents/ornl-tm-911.md|OAK RIDGE NATIONAL LABORATORY]] - 1966 - ORNL-TM-911 - mentions: 4
+- [[../documents/ornl-3996.md|ORNL-3996]] - 1966 - ORNL-3996 - mentions: 21
+- [[../documents/ornl-3936.md|ORNL-3936]] - February 28, 1966 - ORNL-3936 - mentions: 12
+- [[../documents/ornl-tm-1467.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - April 7, 1966 - ORNL-TM-1467 - mentions: 1
+- [[../documents/ornl-4037.md|ORNL-4037]] - August 31, 1966 - ORNL-4037 - mentions: 12
+- [[../documents/ornl-tm-1545.md|CFSTI PRICS]] - 1967 - ORNL-TM-1545 - mentions: 9
+- [[../documents/ornl-4119.md|ORNL-4119]] - February 28, 1967 - ORNL-4119 - mentions: 12
+- [[../documents/ornl-tm-3303.md|FURTHER DISCUSSION OF INSTRUMENTATION AND CONTROLS]] - May 1967 - ORNL-TM-1856 - mentions: 1
+- [[../documents/ornl-tm-1856.md|ORNL-TM-1856]] - May 22, 1967 - ORNL-TM-1856 - mentions: 1
+- [[../documents/ornl-tm-3344.md|ORNL-TM-3344]] - June 1967 - ORNL-TM-3344 - mentions: 5
+- [[../documents/ornl-tm-3595.md|ORNL-TM-3595]] - June 1967 - ORNL-TM-3595 - mentions: 8
+- [[../documents/ornl-tm-1858.md|ORNL-TM-1858]] - June 9, 1967 - ORNL-TM-1858 - mentions: 2
+- [[../documents/ornl-4528.md|![](images/efa4c365b6bf3e13da5500ec9fed0e63178b1fa0c3de881bcc6d38a1bdf4d24f.jpg)]] - August 1967 - ORNL-4528 - mentions: 15
+- [[../documents/ornl-4191.md|ORNL-4191]] - August 31, 1967 - ORNL-4191 - mentions: 39
+- [[../documents/ornl-tm-3139.md|![](images/efc1abe274c498a9db59a30c589c9d4566585d1e4adbb7fa33858f0a873a6b41.jpg)]] - September 1967 - ORNL-TM-3139 - mentions: 1
+- [[../documents/ornl-tm-1855.md|![](images/1b350d6b5cc04bc7d7604b9dd9cc29d2a51787f05b2cf8392565028b4005a7ea.jpg)]] - October 3, 1967 - ORNL-TM-1855 - mentions: 22
+- [[../documents/ornl-tm-729a.md|ORNL-TM-729, Part II A]] - 1968 - ORNL-TM-729 - mentions: 29
+- [[../documents/ornl-4254.md|ORNL-4254]] - February 29, 1968 - ORNL-4254 - mentions: 29
+- [[../documents/ornl-tm-2953.md|![](images/046cf1b425f1e69411b3ea1754bda49148c10254a65e54afc873e28d3e018364.jpg)]] - July 15, 1968 - ORNL-TM-2953 - mentions: 2
+- [[../documents/ornl-4344.md|ORNL-4344]] - August 31, 1968 - ORNL-4344 - mentions: 28
+- [[../documents/ornl-tm-2643.md|LEGAL NOTICE]] - 1969 - ORNL-TM-2643 - mentions: 54
+- [[../documents/ornl-tm-2489.md|ORNL-TM-2489]] - 1969 - ORNL-TM-2489 - mentions: 1
+- [[../documents/ornl-tm-2780.md|ORNL-TM-2780]] - 1969 - ORNL-TM-2780 - mentions: 73
+- [[../documents/ornl-4396.md|ORNL-4396]] - February 28, 1969 - ORNL-4396 - mentions: 24
+- [[../documents/wash-1097.md|CIVILIAN NUCLEAR POWER]] - June 1969 - mentions: 2
+- [[../documents/experience-with-the-molten-salt-reactor-experiment.md|EXPERIENCE WITH THE MOLTEN-SALT REACTOR EXPERIMENT]] - August 4, 1969 - mentions: 3
+- [[../documents/graphite-and-xenon-behavior-and-their-influence-on-molten-salt-reactor-design.md|GRAPHITE AND XENON BEHAVIOR AND THEIR INFLUENCE ON MOLTEN-SALT REACTOR DESIGN]] - August 4, 1969 - mentions: 1
+- [[../documents/the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor.md|THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR]] - August 4, 1969 - mentions: 7
+- [[../documents/ornl-4449.md|ORNL-4449]] - August 31, 1969 - ORNL-4449 - mentions: 19
+- [[../documents/ornl-tm-4174.md|![](images/78fa4ec143a56641acc686f2b68602b2eebec316a136556023225ec09544b0e4.jpg)]] - December 1969 - ORNL-TM-1997 - mentions: 3
+- [[../documents/ornl-tm-3039.md|ORNL-TM-3039]] - December 1969 - ORNL-TM-3039 - mentions: 12
+- [[../documents/ornl-tm-3027.md|ORNL-TM-3027]] - 1970 - ORNL-TM-3027 - mentions: 2
+- [[../documents/ornl-tm-3177.md|ORNL-TM-3177]] - 1970 - ORNL-TM-3177 - mentions: 3
+- [[../documents/ornl-tm-2927.md|U.S. ATOMIC ENERGY COMMISSION]] - 1970 - ORNL-TM-2927 - mentions: 1
+- [[../documents/ornl-4548.md|ORNL-4548]] - February 28, 1970 - ORNL-4548 - mentions: 15
+- [[../documents/ornl-tm-2974.md|ORNL-TM-2974]] - April 7, 1970 - ORNL-TM-2974 - mentions: 4
+- [[../documents/ornl-tm-4172.md|![](images/742e6893f80fc2a555972503f63a6ba5571f8277725112fd0706e52a03baf41e.jpg)]] - June 1970 - ORNL-TM-2978 - mentions: 1
+- [[../documents/ornl-4622.md|ORNL-4622]] - August 31, 1970 - ORNL-4622 - mentions: 10
+- [[../documents/ornl-cf-70-9-3.md|COPY NO.]] - September 1, 1970 - mentions: 9
+- [[../documents/tid-26156.md|1000 MW(e) MOLTEN SALT BREEDER REACTOR]] - September 30, 1970 - mentions: 16
+- [[../documents/ornl-4541.md|ORNL-4541]] - 1971 - ORNL-4541 - mentions: 23
+- [[../documents/ornl-4658.md|ORNL-4658]] - 1971 - ORNL-4658 - mentions: 1
+- [[../documents/ornl-tm-3428.md|ORNL-TM-3428]] - 1971 - ORNL-TM-3428 - mentions: 3
+- [[../documents/ornl-4676.md|![](images/dd79b2ea7a269e4e2bdbdad98b315218b184c677fbd7fe6c21a5f930248bbf2e.jpg)]] - February 28, 1971 - ORNL-4676 - mentions: 10
+- [[../documents/ornl-4728.md|![](images/75792d190f38fb318248f14df749be3ce5abb65eaf2a821ff2d87b4b580840ca.jpg)]] - August 31, 1971 - ORNL-2474 - mentions: 10
+- [[../documents/ornl-tm-4221.md|![](images/4def40acd6d680198cb3ed2037ba9340a633cde159d492c8236fdab26cd90898.jpg)]] - 1972 - mentions: 1
+- [[../documents/ornl-tm-729b.md|![](images/bd0e590860934051f779e249050f37a09d2a097cccb825dcab2d262da64b6af1.jpg)]] - 1972 - mentions: 38
+- [[../documents/ornl-tm-3579.md|ORNL-TM-3579]] - 1972 - ORNL-TM-3579 - mentions: 3
+- [[../documents/ornl-4782.md|MOLTEN-SALT REACTOR PROGRAM]] - February 29, 1972 - ORNL-2474 - mentions: 11
+- [[../documents/ornl-4812.md|The Development Status of]] - August 1972 - ORNL-4812 - mentions: 38
+- [[../documents/ornl-4832.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1972 - ORNL-2474 - mentions: 10
+- [[../documents/wash-1222.md|AN EVALUATION]] - September 1972 - ORNL-4541 - mentions: 2
+- [[../documents/ornl-tm-3863.md|![](images/9f7be5e42e01ed4497478ae2964e953874059820a552d1e7d8b0ec118106a838.jpg)]] - 1973 - ORNL-TM-2316 - mentions: 27
+- [[../documents/ornl-5018.md|![](images/96c48f13787c31854c9814da24c925e11be9013ba9fe9d693aa56a180614d0c1.jpg)]] - 1974 - ORNL-5018 - mentions: 28
+- [[../documents/aeew-r956.md|![](images/5e51d81c4f194b78fb5d32f5628dbd64eb78c532ae5090d45633160fb57f7f11.jpg)]] - August 1974 - mentions: 10
+- [[../documents/ornl-5011.md|Molten-Salt Reactor Program]] - August 31, 1974 - ORNL-5011 - mentions: 4
+- [[../documents/ornl-5047.md|Molten-Salt]] - February 28, 1975 - ORNL-5047 - mentions: 2
+- [[../documents/ornl-5078.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1975 - ORNL-5078 - mentions: 7
+- [[../documents/ornl-5132.md|![](images/d06517328823504576c5fcd7ace4c6cff5e8189745eaac1344265330e4180ef8.jpg)]] - February 29, 1976 - ORNL-2474 - mentions: 3
+- [[../documents/ornl-tm-7207.md|ORNL/TM-7207]] - October 28, 1976 - mentions: 1
+- [[../documents/ornl-tm-5540.md|![](images/99c82f2f990761eaa342910412b48494b8d83b74e267689cd1f04139b26a7d24.jpg)]] - November 1976 - mentions: 9
+- [[../documents/ornl-tm-5682.md|![](images/70c0c27f9a692cb026f0224e45db71674f309ffd7b7fe01af09e3fce72eb4f98.jpg)]] - January 18, 1977 - mentions: 1
+- [[../documents/ornl-5176.md|MASTER COPY]] - February 1977 - ORNL-5176 - mentions: 2
+- [[../documents/ornl-tm-5759.md|G. T. Mays]] - April 1977 - mentions: 4
+- [[../documents/ornl-cf-77-391.md|OAK RIDGE NATIONAL LABORATORY]] - August 25, 1977 - mentions: 16
+- [[../documents/ornl-tm-6415.md|![](images/6f25af79db8446bcce7c7fe0081ce804cba28cc58dc153e91a50e4f262e223ad.jpg)]] - March 1979 - mentions: 7
+- [[../documents/cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept.md|Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept]] - April 1992 - mentions: 2
+- [[../documents/chapter-15.md|CHAPTER 15]] - mentions: 1
+- [[../documents/university-of-california.md|UNIVERSITY OF CALIFORNIA]] - mentions: 4

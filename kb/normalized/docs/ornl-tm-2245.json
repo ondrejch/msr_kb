@@ -1,0 +1,317 @@
+{
+  "authors": [
+    "F. N. Peebles",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2245.jsonl",
+  "date_text": "July 23, 1968",
+  "doc_id": "ornl-tm-2245",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          83,
+          369,
+          433,
+          533
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          83
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          1,
+          97,
+          134,
+          170,
+          543,
+          584,
+          601,
+          617,
+          618
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          641,
+          702,
+          703,
+          704,
+          706,
+          708,
+          709,
+          710
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 23,
+        "line_hits": [
+          13,
+          17,
+          44,
+          79,
+          83,
+          85,
+          141,
+          369,
+          411,
+          433,
+          533,
+          546,
+          548,
+          550,
+          552,
+          554,
+          556,
+          567,
+          575,
+          595,
+          599,
+          617,
+          618
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          15,
+          83,
+          159,
+          189,
+          259,
+          433,
+          441,
+          491,
+          533,
+          535,
+          537,
+          567,
+          569,
+          571,
+          598,
+          599
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "424e407a529e3c6ff45ecafa5392b96fbeb45deabf86d2504aeee813df9ed361",
+  "markdown_path": "pdf/ORNL-TM-2245/ORNL-TM-2245/hybrid_ocr/ORNL-TM-2245.md",
+  "report_number": "ORNL-TM-2245",
+  "report_numbers": [
+    "ORNL-TM-2245"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 25,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2245",
+      "end_line": 2,
+      "heading": "Ornl-Tm-2245",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-86",
+      "end_line": 10,
+      "heading": "Copy No. - 86",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 18,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 27,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "contents",
+      "end_line": 29,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 28
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 46,
+      "heading": "Abstract 1",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "references-cited-32",
+      "end_line": 48,
+      "heading": "References Cited 32",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 78,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "removal-of-xenon-135-from-circulating-fuel-salt-of-the-msbr-by-mass-transfer-to-helium-bubbles",
+      "end_line": 80,
+      "heading": "REMOVAL OF XENON-135 FROM CIRCULATING FUEL SALT OF THE MSBR BY MASS TRANSFER TO HELIUM BUBBLES",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 86,
+      "heading": "1.0 Introduction",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "2-0-mass-transfer-theory",
+      "end_line": 142,
+      "heading": "2.0 Mass Transfer Theory",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "2-1-mass-transfer-coefficients-for-spherical-bubbles",
+      "end_line": 198,
+      "heading": "2.1 Mass Transfer Coefficients for Spherical Bubbles",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "rigid-interface-case",
+      "end_line": 250,
+      "heading": "Rigid Interface Case.",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "mobile-interface-case",
+      "end_line": 270,
+      "heading": "Mobile Interface Case",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "tablei",
+      "end_line": 271,
+      "heading": "Tablei",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "analytical-results-for-mass-transfer-rates-to-single-gas-bubbles",
+      "end_line": 338,
+      "heading": "Analytical Results For Mass Transfer Rates To Single Gas Bubbles",
+      "level": 2,
+      "start_line": 272
+    },
+    {
+      "anchor": "2-2-experimental-data-on-mass-transfer-coefficients-to-single-bubbles",
+      "end_line": 492,
+      "heading": "2.2 Experimental Data on Mass Transfer Coefficients to Single Bubbles",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "mobile-interface",
+      "end_line": 518,
+      "heading": "Mobile Interface:",
+      "level": 1,
+      "start_line": 493
+    },
+    {
+      "anchor": "rigid-interface",
+      "end_line": 557,
+      "heading": "Rigid Interface:",
+      "level": 1,
+      "start_line": 519
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 558,
+      "heading": "Table Ii",
+      "level": 2,
+      "start_line": 558
+    },
+    {
+      "anchor": "important-variables-for-dynamic-similitude",
+      "end_line": 590,
+      "heading": "Important Variables For Dynamic Similitude",
+      "level": 2,
+      "start_line": 559
+    },
+    {
+      "anchor": "4-0-conclusions",
+      "end_line": 605,
+      "heading": "4.0 Conclusions",
+      "level": 1,
+      "start_line": 591
+    },
+    {
+      "anchor": "references-cited",
+      "end_line": 629,
+      "heading": "References Cited",
+      "level": 1,
+      "start_line": 606
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 699,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 630
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 712,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 700
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2245",
+  "tables": [],
+  "title": "ORNL-TM-2245",
+  "topics": [
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "pumps-loops-and-heat-exchangers",
+    "salt-chemistry-and-redox",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

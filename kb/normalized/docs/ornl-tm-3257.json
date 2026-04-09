@@ -1,0 +1,840 @@
+{
+  "authors": [
+    "OAI",
+    "UNIG",
+    "Y",
+    "DATE ISSUED:",
+    "L.E.McNeese"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3257.jsonl",
+  "date_text": "July 1968",
+  "doc_id": "ornl-tm-3257",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          650,
+          658,
+          671
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          211,
+          648,
+          680
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          487,
+          521
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          213
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 11,
+        "line_hits": [
+          97,
+          512,
+          519,
+          523,
+          529,
+          533,
+          590,
+          594,
+          596,
+          598,
+          609
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          230,
+          239,
+          611,
+          617,
+          621,
+          650
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          479,
+          621
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          662,
+          671
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          161
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 28,
+        "line_hits": [
+          5,
+          23,
+          43,
+          57,
+          59,
+          61,
+          63,
+          65,
+          67,
+          69,
+          71,
+          514,
+          563,
+          580,
+          606,
+          814,
+          815,
+          817,
+          818,
+          819,
+          822,
+          823,
+          824,
+          825,
+          827,
+          953,
+          959,
+          969
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          21,
+          53,
+          959,
+          961,
+          963,
+          964,
+          969,
+          970,
+          974,
+          980
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          816,
+          965,
+          972
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          49
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 41,
+        "line_hits": [
+          55,
+          141,
+          151,
+          155,
+          157,
+          161,
+          163,
+          169,
+          195,
+          199,
+          215,
+          226,
+          230,
+          237,
+          239,
+          261,
+          267,
+          269,
+          273,
+          305,
+          367,
+          428,
+          434,
+          479,
+          489,
+          493,
+          495,
+          497,
+          523,
+          548,
+          575,
+          611,
+          642,
+          675,
+          680,
+          688,
+          704,
+          706,
+          710,
+          799,
+          805
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          29,
+          135,
+          161,
+          163,
+          169,
+          230,
+          237,
+          243,
+          508,
+          512,
+          523,
+          688,
+          814,
+          817,
+          822,
+          825,
+          827
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          604
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 17,
+        "line_hits": [
+          135,
+          137,
+          141,
+          161,
+          163,
+          508,
+          527,
+          546,
+          548,
+          552,
+          558,
+          561,
+          573,
+          575,
+          578,
+          583,
+          590
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          145,
+          149,
+          209,
+          333,
+          512,
+          523,
+          527,
+          611,
+          625,
+          632,
+          640,
+          650,
+          673
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          230,
+          617
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          527
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          527
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          527
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          527
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e5443f9e802fbcefbcee79022a7cf373170995b24a0bf5bfce17c2c3c66999a9",
+  "markdown_path": "pdf/ORNL-TM-3257/ORNL-TM-3257/hybrid_ocr/ORNL-TM-3257.md",
+  "report_number": "ORNL-TM-3257",
+  "report_numbers": [
+    "ORNL-TM-3257",
+    "ORNL-4365",
+    "ORNL-4366",
+    "ORNL-TM-3053",
+    "ORNL-TM-3137",
+    "ORNL-TM-3138",
+    "ORNL-TM-3139",
+    "ORNL-TM-3140",
+    "ORNL-TM-3141"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 68,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory-libraries",
+      "end_line": 8,
+      "heading": "Oak Ridge National Laboratory Libraries",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "unig",
+      "end_line": 12,
+      "heading": "Unig",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "laboratory",
+      "end_line": 16,
+      "heading": "Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "n-nuclear-division",
+      "end_line": 20,
+      "heading": "N·Nuclear Division",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 22,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "ornl-tm-3257",
+      "end_line": 24,
+      "heading": "Ornl-Tm-3257/",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "feb-10-1972",
+      "end_line": 26,
+      "heading": "Feb 10 1972",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 28,
+      "heading": "Date Issued:",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "engineering-development-studies-for-molten-salt-breeder-reactor-processing-no-7",
+      "end_line": 34,
+      "heading": "Engineering Development Studies For Molten-Salt Breeder Reactor Processing No.7",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "engineering-development-studies-for-molten-salt",
+      "end_line": 36,
+      "heading": "Engineering Development Studies For Molten-Salt",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "breeder-reactor-processing-no-7",
+      "end_line": 40,
+      "heading": "Breeder Reactor Processing No. 7",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "february-1972",
+      "end_line": 42,
+      "heading": "February 1972",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 48,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 52,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 72,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "contents",
+      "end_line": 74,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "summaries-v",
+      "end_line": 76,
+      "heading": "Summaries V",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 77,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "2-analysis-of-the-fluorination-reductive-extraction-and-metal-transfer-flowsheet-2",
+      "end_line": 90,
+      "heading": "2. ANALYSIS OF THE FLUORINATION--REDUCTIVE EXTRACTION AND METAL TRANSFER FLOWSHEET 2",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "4-development-of-the-metal-transfer-process-29",
+      "end_line": 98,
+      "heading": "4. DEVELOPMENT OF THE METAL TRANSFER PROCESS 29",
+      "level": 2,
+      "start_line": 91
+    },
+    {
+      "anchor": "5-study-of-the-purification-of-salt-by-continuous-methods-46",
+      "end_line": 103,
+      "heading": "5. STUDY OF THE PURIFICATION OF SALT BY CONTINUOUS METHODS 46",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "6-semicontinuous-reductive-extraction-experiments-in-a-mild-steel-facility-52",
+      "end_line": 105,
+      "heading": "6. SEMICONTINUOUS REDUCTIVE EXTRACTION EXPERIMENTS IN A MILD-STEEL FACILITY 52",
+      "level": 2,
+      "start_line": 104
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 107,
+      "heading": "CONTENTS (Continued)",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "page",
+      "end_line": 113,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "7-measurement-of-axial-dispersion-coefficients-in-packed-columns-58",
+      "end_line": 118,
+      "heading": "7 . Measurement Of Axial Dispersion Coefficients In Packed Columns . 58",
+      "level": 2,
+      "start_line": 114
+    },
+    {
+      "anchor": "8-references-90",
+      "end_line": 120,
+      "heading": "8. REFERENCES 90",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "summaries",
+      "end_line": 122,
+      "heading": "SUMMARIES",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "analysis-of-the-fluorination-reductive-extraction",
+      "end_line": 124,
+      "heading": "ANALYSIS OF THE FLUORINATION--REDUCTIVE EXTRACTION",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "and-metal-transfer-flowsheet",
+      "end_line": 128,
+      "heading": "AND METAL TRANSFER FLOWSHEET",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "development-of-a-frozen-wall-fluorinator-design-calculations-for-induction-heating-of-a-frozen-wall-fluorinator",
+      "end_line": 132,
+      "heading": "DEVELOPMENT OF A FROZEN-WALL FLUORINATOR: DESIGN CALCULATIONS FOR INDUCTION HEATING OF A FROZEN-WALL FLUORINATOR",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "development-of-the-metal-transfer-process",
+      "end_line": 142,
+      "heading": "DEVELOPMENT OF THE METAL TRANSFER PROCESS",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "study-of-the-purification-of-salt-by-continuous-methods",
+      "end_line": 146,
+      "heading": "STUDY OF THE PURIFICATION OF SALT BY CONTINUOUS METHODS",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "semicontoinuous-reductive-extraction-experiments-in-a-mild-steel-facility",
+      "end_line": 152,
+      "heading": "SEMICONTOINUOUS REDUCTIVE EXTRACTION EXPERIMENTS IN A MILD-STEEL FACILITY",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "measurement-of-axial-dispersion-coefficients-in-packed-column",
+      "end_line": 158,
+      "heading": "MEASUREMENT OF AXIAL DISPERSION COEFFICIENTS IN PACKED COLUMN",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 164,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "2-analysis-of-the-fluorination-reductive-extraction-and-metal-transfer-flowsheet",
+      "end_line": 170,
+      "heading": "2. ANALYSIS OF THE FLUORINATION--REDUCTIVE EXTRACTION AND METAL TRANSFER FLOWSHEET",
+      "level": 1,
+      "start_line": 165
+    },
+    {
+      "anchor": "2-1-distribution-of-rare-earth-and-alkaline-earth-elements-between-molten-salt-and-bismuth-containing-reductant",
+      "end_line": 196,
+      "heading": "2.1 Distribution of Rare-Earth and Alkaline-Earth Elements Between Molten Salt and Bismuth Containing Reductant",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "2-2-isolation-of-protactinium-using-fluorination-reductive-extraction",
+      "end_line": 227,
+      "heading": "2.2 Isolation of Protactinium Using Fluorination--Reductive Extraction",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "2-3-removal-of-noble-metals-with-the-fluorination-reductive-extraction-flowsheet",
+      "end_line": 240,
+      "heading": "2.3 Removal of Noble Metals with the Fluorination-- Reductive Extraction Flowsheet",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "2-4-halogen-removal-in-the-uranium-removal-system",
+      "end_line": 262,
+      "heading": "2.4 Halogen Removal in the Uranium Removal System",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "3-development-of-a-frozen-wall-fluorinator-design-calculations-for-induction-heating-of-a-frozen-wall-fluorinator",
+      "end_line": 270,
+      "heading": "3. DEVELOPMENT OF A FROZEN-WALL FLUORINATOR: DESIGN CALCULATIONS FOR INDUCTION HEATING OF A FROZEN-WALL FLUORINATOR",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "3-1-effects-of-wall-temperature-current-frequency-and-fluorinator-diameter-on-the-thickness-of-the-frozen-film",
+      "end_line": 431,
+      "heading": "3.1 Effects of Wall Temperature, Current, Frequency, and Fluorinator Diameter on the Thickness of the Frozen Film",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "3-2-control-of-frozen-film-thickness-and-approximate-dynamics-of-freezing",
+      "end_line": 480,
+      "heading": "3.2 Control of Frozen Film Thickness, and Approximate Dynamics of Freezing",
+      "level": 1,
+      "start_line": 432
+    },
+    {
+      "anchor": "3-3-power-requirements-for-an-experimental-fluorinator",
+      "end_line": 502,
+      "heading": "3.3 Power Requirements for an Experimental Fluorinator",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "4-development-of-the-metal-transfer-process",
+      "end_line": 509,
+      "heading": "4. DEVELOPMENT OF THE METAL TRANSFER PROCESS",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "4-1-equipment-and-materials-used-for-experiment-mte-1",
+      "end_line": 513,
+      "heading": "4.1 Equipment and Materials Used for Experiment MTE-1",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "ornl-dwg-70-4504",
+      "end_line": 530,
+      "heading": "Ornl Dwg 70-4504",
+      "level": 2,
+      "start_line": 514
+    },
+    {
+      "anchor": "4-2-experimental-procedure",
+      "end_line": 537,
+      "heading": "4.2 Experimental Procedure",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "4-3-experimental-results",
+      "end_line": 562,
+      "heading": "4.3 Experimental Results",
+      "level": 1,
+      "start_line": 538
+    },
+    {
+      "anchor": "ornl-dwg-70-6275ri",
+      "end_line": 579,
+      "heading": "Ornl Dwg 70-6275Ri",
+      "level": 2,
+      "start_line": 563
+    },
+    {
+      "anchor": "ornl-dwg-70-11-002-r1",
+      "end_line": 587,
+      "heading": "Ornl Dwg 70-11,002 R1",
+      "level": 2,
+      "start_line": 580
+    },
+    {
+      "anchor": "4-4-postoperational-equipment-examination",
+      "end_line": 595,
+      "heading": "4.4 Postoperational Equipment Examination",
+      "level": 1,
+      "start_line": 588
+    },
+    {
+      "anchor": "4-5-design-and-testing-of-a-carbon-steel-pump-having-molten-bismuth-check-valves",
+      "end_line": 599,
+      "heading": "4.5 Design and Testing of a Carbon-Steel Pump Having Molten-Bismuth Check Valves",
+      "level": 1,
+      "start_line": 596
+    },
+    {
+      "anchor": "5-study-of-the-purification-of-salt-by-continuous-methods",
+      "end_line": 605,
+      "heading": "5. STUDY OF THE PURIFICATION OF SALT BY CONTINUOUS METHODS",
+      "level": 1,
+      "start_line": 600
+    },
+    {
+      "anchor": "ornl-dwg-70-8981",
+      "end_line": 612,
+      "heading": "Ornl Dwg 70-8981",
+      "level": 2,
+      "start_line": 606
+    },
+    {
+      "anchor": "5-1-batch-treatment-of-salt-for-oxide-removal",
+      "end_line": 618,
+      "heading": "5.1 Batch Treatment of Salt for Oxide Removal",
+      "level": 1,
+      "start_line": 613
+    },
+    {
+      "anchor": "5-2-measured-flooding-rates-during-countercurrent-flow-of-molten-salt-and-hydrogen-or-argon",
+      "end_line": 635,
+      "heading": "5.2 Measured Flooding Rates During Countercurrent Flow of Molten Salt and Hydrogen or Argon",
+      "level": 1,
+      "start_line": 619
+    },
+    {
+      "anchor": "6-semicontinuous-reductive-extraction-experiments-in-a-mild-steel-facility",
+      "end_line": 643,
+      "heading": "6. SEMICONTINUOUS REDUCTIVE EXTRACTION EXPERIMENTS IN A MILD-STEEL FACILITY",
+      "level": 1,
+      "start_line": 636
+    },
+    {
+      "anchor": "6-1-preparation-for-mass-transfer-experiments",
+      "end_line": 651,
+      "heading": "6.1 Preparation for Mass Transfer Experiments",
+      "level": 1,
+      "start_line": 644
+    },
+    {
+      "anchor": "6-2-mass-transfer-experiment-utr-1",
+      "end_line": 668,
+      "heading": "6.2 Mass Transfer Experiment UTR-1",
+      "level": 1,
+      "start_line": 652
+    },
+    {
+      "anchor": "6-3-mass-transfer-experiment-utr-2",
+      "end_line": 683,
+      "heading": "6.3 Mass Transfer Experiment UTR-2",
+      "level": 1,
+      "start_line": 669
+    },
+    {
+      "anchor": "7-measurement-of-axial-dispersion-coefficients-in-packed-column",
+      "end_line": 707,
+      "heading": "7. MEASUREMENT OF AXIAL DISPERSION COEFFICIENTS IN PACKED COLUMN",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "7-1-experimental-results",
+      "end_line": 800,
+      "heading": "7.1 Experimental Results",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "7-2-comparison-of-results-with-a-published-correlation",
+      "end_line": 811,
+      "heading": "7.2 Comparison of Results with a Published Correlation",
+      "level": 1,
+      "start_line": 801
+    },
+    {
+      "anchor": "8-references",
+      "end_line": 830,
+      "heading": "8. REFERENCES",
+      "level": 1,
+      "start_line": 812
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 954,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 831
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 966,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 955
+    },
+    {
+      "anchor": "external-distribution-continued",
+      "end_line": 980,
+      "heading": "EXTERNAL DISTRIBUTION (Continued)",
+      "level": 1,
+      "start_line": 967
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3257",
+  "tables": [],
+  "title": "![](images/332fee57df97b0d0edfc371a2f28e67441f80a8281476177cc4965ce0989950b.jpg)",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

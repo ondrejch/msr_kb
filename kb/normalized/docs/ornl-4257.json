@@ -1,0 +1,548 @@
+{
+  "authors": [
+    "B. F. Hitch",
+    "C. F. Baes",
+    "Jr.",
+    "UNION CARBIDE CORPORATION",
+    "Scientific",
+    "Technical Information",
+    "National Bureau of Standards",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4257.jsonl",
+  "date_text": "1968",
+  "doc_id": "ornl-4257",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 22,
+        "line_hits": [
+          108,
+          184,
+          258,
+          299,
+          301,
+          331,
+          333,
+          347,
+          348,
+          350,
+          377,
+          501,
+          503,
+          507,
+          509,
+          738,
+          740,
+          746,
+          748,
+          758,
+          764,
+          774
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          254,
+          309,
+          311,
+          329,
+          333,
+          483,
+          485
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          337
+        ],
+        "name": "Monel"
+      }
+    ],
+    "organization": [
+      {
+        "count": 14,
+        "line_hits": [
+          1,
+          13,
+          48,
+          70,
+          301,
+          316,
+          756,
+          765,
+          766,
+          770,
+          773,
+          775,
+          951,
+          955
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          21,
+          80,
+          959,
+          968
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          17,
+          76,
+          965
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 13,
+        "line_hits": [
+          46,
+          232,
+          244,
+          471,
+          499,
+          511,
+          609,
+          627,
+          661,
+          673,
+          713,
+          732,
+          750
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          232
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 31,
+        "line_hits": [
+          5,
+          54,
+          180,
+          192,
+          216,
+          222,
+          232,
+          240,
+          242,
+          244,
+          256,
+          266,
+          285,
+          299,
+          309,
+          314,
+          319,
+          499,
+          507,
+          521,
+          601,
+          603,
+          605,
+          615,
+          625,
+          694,
+          711,
+          713,
+          718,
+          750,
+          758
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          180,
+          287,
+          299,
+          507,
+          686,
+          744,
+          758,
+          764
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          232,
+          240,
+          242
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          180
+        ],
+        "name": "FLiBe"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "ec9d38fda30e6cfebe2b98a50f1bed3ed6eb7d4ba3d2cf0e77443a674ac862c7",
+  "markdown_path": "pdf/ORNL-4257/ORNL-4257/hybrid_ocr/ORNL-4257.md",
+  "report_number": "ORNL-4257",
+  "report_numbers": [
+    "ORNL-4257"
+  ],
+  "report_series": null,
+  "section_count": 45,
+  "sections": [
+    {
+      "anchor": "ornl-4257",
+      "end_line": 12,
+      "heading": "Ornl-4257",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 16,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 20,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 43,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 47,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "ornl-4257",
+      "end_line": 51,
+      "heading": "Ornl-4257",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 57,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 67,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "july-1968",
+      "end_line": 69,
+      "heading": "July 1968",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 75,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 79,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 83,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "contents",
+      "end_line": 195,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 229,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 279,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "notation",
+      "end_line": 288,
+      "heading": "Notation",
+      "level": 1,
+      "start_line": 280
+    },
+    {
+      "anchor": "ii-experimental",
+      "end_line": 292,
+      "heading": "II. EXPERIMENTAL",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "gases",
+      "end_line": 296,
+      "heading": "Gases",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "melt-components",
+      "end_line": 304,
+      "heading": "Melt Components",
+      "level": 1,
+      "start_line": 297
+    },
+    {
+      "anchor": "apparatus",
+      "end_line": 315,
+      "heading": "Apparatus",
+      "level": 1,
+      "start_line": 305
+    },
+    {
+      "anchor": "ornl-dwg-67-13720",
+      "end_line": 330,
+      "heading": "Ornl-Dwg 67-13720",
+      "level": 2,
+      "start_line": 316
+    },
+    {
+      "anchor": "beryllium-electrode",
+      "end_line": 334,
+      "heading": "Beryllium Electrode",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "flow-control-of-gases",
+      "end_line": 343,
+      "heading": "Flow Control of Gases",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "hf-h2-electrode",
+      "end_line": 346,
+      "heading": "Hf-H2 Electrode",
+      "level": 2,
+      "start_line": 344
+    },
+    {
+      "anchor": "beryllium-electrode",
+      "end_line": 351,
+      "heading": "Beryllium Electrode",
+      "level": 2,
+      "start_line": 347
+    },
+    {
+      "anchor": "titration-assembly",
+      "end_line": 355,
+      "heading": "Titration Assembly",
+      "level": 1,
+      "start_line": 352
+    },
+    {
+      "anchor": "electronic-equipment",
+      "end_line": 359,
+      "heading": "Electronic Equipment",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 361,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "measurements",
+      "end_line": 480,
+      "heading": "Measurements",
+      "level": 1,
+      "start_line": 362
+    },
+    {
+      "anchor": "systematic-errors",
+      "end_line": 512,
+      "heading": "Systematic Errors",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "random-errors",
+      "end_line": 532,
+      "heading": "Random Errors",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "statistical-error-analysis",
+      "end_line": 588,
+      "heading": "Statistical Error Analysis",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "iii-results",
+      "end_line": 590,
+      "heading": "III. RESULTS",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "tabulation",
+      "end_line": 594,
+      "heading": "Tabulation",
+      "level": 1,
+      "start_line": 591
+    },
+    {
+      "anchor": "experiments",
+      "end_line": 606,
+      "heading": "Experiments",
+      "level": 1,
+      "start_line": 595
+    },
+    {
+      "anchor": "corrected-cell-potentials",
+      "end_line": 622,
+      "heading": "Corrected Cell Potentials",
+      "level": 1,
+      "start_line": 607
+    },
+    {
+      "anchor": "iv-discussion",
+      "end_line": 624,
+      "heading": "IV. DISCUSSION",
+      "level": 1,
+      "start_line": 623
+    },
+    {
+      "anchor": "thermodynamics-of-lif-bef-2",
+      "end_line": 733,
+      "heading": "Thermodynamics of LiF-BeF $_2$",
+      "level": 1,
+      "start_line": 625
+    },
+    {
+      "anchor": "reference-electrodes",
+      "end_line": 737,
+      "heading": "Reference Electrodes",
+      "level": 1,
+      "start_line": 734
+    },
+    {
+      "anchor": "beryllium-electrode",
+      "end_line": 753,
+      "heading": "Beryllium Electrode",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "references",
+      "end_line": 786,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 956,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 787
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 969,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 957
+    }
+  ],
+  "source_dir": "pdf/ORNL-4257",
+  "tables": [],
+  "title": "ORNL-4257",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,1307 @@
+{
+  "authors": [
+    "CONCERNING FLUORIDES",
+    "By",
+    "Mary E. Lee",
+    "CENTRAL RESEARCH LIBRARY",
+    "CIRCULATION SECTION",
+    "LIBRARY LOAN COPY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1252.jsonl",
+  "date_text": "February 19, 1952",
+  "doc_id": "ornl-1252",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          81,
+          655,
+          671,
+          705,
+          713,
+          1003,
+          1155,
+          1717,
+          1731,
+          1755,
+          1757,
+          1831,
+          1845
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          464,
+          1755,
+          1785,
+          1787,
+          1789,
+          1791,
+          1793,
+          1835,
+          1845
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          1729,
+          1755,
+          1835,
+          1845,
+          1847
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          602,
+          1177,
+          1401,
+          1755
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1484,
+          1795,
+          1797,
+          1799
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1839,
+          1869
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1761
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          69
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          998
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          9,
+          29,
+          47,
+          59,
+          65
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          35,
+          53
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          65
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 109,
+        "line_hits": [
+          95,
+          123,
+          125,
+          133,
+          137,
+          147,
+          157,
+          257,
+          266,
+          272,
+          284,
+          307,
+          314,
+          316,
+          330,
+          342,
+          350,
+          384,
+          446,
+          474,
+          516,
+          536,
+          542,
+          582,
+          594,
+          610,
+          618,
+          635,
+          651,
+          724,
+          748,
+          754,
+          756,
+          768,
+          780,
+          826,
+          842,
+          857,
+          865,
+          887,
+          899,
+          913,
+          921,
+          927,
+          933,
+          935,
+          943,
+          954,
+          968,
+          984
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 84,
+        "line_hits": [
+          89,
+          95,
+          101,
+          109,
+          117,
+          123,
+          137,
+          139,
+          257,
+          276,
+          304,
+          342,
+          374,
+          398,
+          414,
+          416,
+          486,
+          526,
+          594,
+          598,
+          602,
+          624,
+          635,
+          651,
+          667,
+          701,
+          724,
+          748,
+          752,
+          754,
+          756,
+          762,
+          768,
+          780,
+          812,
+          816,
+          820,
+          850,
+          861,
+          865,
+          869,
+          871,
+          877,
+          887,
+          891,
+          897,
+          899,
+          933,
+          935,
+          943
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 61,
+        "line_hits": [
+          117,
+          123,
+          145,
+          257,
+          274,
+          311,
+          314,
+          316,
+          324,
+          330,
+          342,
+          346,
+          350,
+          352,
+          364,
+          384,
+          398,
+          458,
+          490,
+          500,
+          689,
+          736,
+          740,
+          794,
+          804,
+          812,
+          816,
+          820,
+          842,
+          861,
+          865,
+          897,
+          903,
+          905,
+          933,
+          998,
+          1003,
+          1007,
+          1009,
+          1059,
+          1067,
+          1089,
+          1091,
+          1171,
+          1183,
+          1186,
+          1202,
+          1208,
+          1210,
+          1225
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 49,
+        "line_hits": [
+          89,
+          117,
+          125,
+          131,
+          133,
+          137,
+          257,
+          266,
+          278,
+          336,
+          342,
+          450,
+          458,
+          602,
+          651,
+          724,
+          744,
+          748,
+          752,
+          754,
+          784,
+          790,
+          794,
+          804,
+          812,
+          850,
+          891,
+          897,
+          899,
+          927,
+          933,
+          935,
+          943,
+          948,
+          954,
+          958,
+          960,
+          998,
+          1171,
+          1231,
+          1233,
+          1248,
+          1364,
+          1556,
+          1618,
+          1633,
+          1697,
+          1745,
+          1835
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          117,
+          125,
+          257,
+          280,
+          336,
+          342,
+          784,
+          790,
+          927,
+          933,
+          935,
+          954,
+          1055,
+          1171,
+          1186,
+          1618,
+          1835,
+          1843
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          655,
+          671,
+          705,
+          713,
+          877,
+          1003,
+          1155,
+          1717,
+          1755,
+          1757,
+          1845
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          909,
+          943,
+          1111,
+          1409,
+          1625,
+          1851
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          689,
+          943,
+          1111
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          943,
+          1111
+        ],
+        "name": "UF3"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          368,
+          687
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1111
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "136378fda3bfb052558250f1a3c997c9a0f6460fab175addb2634c2c6388cfa3",
+  "markdown_path": "pdf/ORNL-1252/ORNL-1252/hybrid_ocr/ORNL-1252.md",
+  "report_number": "ORNL-1252",
+  "report_numbers": [
+    "ORNL-1252"
+  ],
+  "report_series": null,
+  "section_count": 118,
+  "sections": [
+    {
+      "anchor": "general-information",
+      "end_line": 2,
+      "heading": "GENERAL INFORMATION",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "concerning-fluorides",
+      "end_line": 8,
+      "heading": "CONCERNING FLUORIDES",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 10,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 12,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "circulation-section",
+      "end_line": 14,
+      "heading": "Circulation Section",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "4500n-room-175",
+      "end_line": 16,
+      "heading": "4500N Room 175",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 18,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 26,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "ucn-7969-39-77",
+      "end_line": 28,
+      "heading": "Ucn-7969(39-77)",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 30,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 32,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 34,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "a-division-of-union-carbide-and-carbon-corporation",
+      "end_line": 36,
+      "heading": "A Division Of Union Carbide And Carbon Corporation",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "oak-ridge-tennessee",
+      "end_line": 38,
+      "heading": "Oak Ridge. Tennessee",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "general-information-concerning-fluorides",
+      "end_line": 44,
+      "heading": "General Information Concerning Fluorides",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "aircraft-nuclear-propulsion-division",
+      "end_line": 46,
+      "heading": "Aircraft Nuclear Propulsion Division",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 50,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 52,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "a-division-of-union-carbide-and-carbon-corporation",
+      "end_line": 62,
+      "heading": "A Division Of Union Carbide And Carbon Corporation",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 66,
+      "heading": "Internal Distribution:",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 74,
+      "heading": "External Distribution:",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 76,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "general-information-concerning-fluorides",
+      "end_line": 78,
+      "heading": "GENERAL INFORMATION CONCERNING FLUORIDES",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 82,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "ca-6-174-4",
+      "end_line": 90,
+      "heading": "Ca 6, 174-4",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "ca-7-1849-6",
+      "end_line": 96,
+      "heading": "Ca 7, 1849-6",
+      "level": 2,
+      "start_line": 91
+    },
+    {
+      "anchor": "ca7-2512-5",
+      "end_line": 102,
+      "heading": "Ca7,2512-5",
+      "level": 2,
+      "start_line": 97
+    },
+    {
+      "anchor": "ca-8-31-8",
+      "end_line": 110,
+      "heading": "Ca 8, 31-8",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "ca-9-405-6",
+      "end_line": 118,
+      "heading": "Ca 9, 405-6",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "ca-9-2024-6",
+      "end_line": 126,
+      "heading": "Ca 9, 2024-6",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "ca-9-2828-4",
+      "end_line": 134,
+      "heading": "Ca 9, 2828-4",
+      "level": 2,
+      "start_line": 127
+    },
+    {
+      "anchor": "ii-compounds-of-sodium-ibid-955-61",
+      "end_line": 140,
+      "heading": "II. Compounds of Sodium, Ibid. 955-61",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "ca-10-1477-6",
+      "end_line": 152,
+      "heading": "Ca 10, 1477-6",
+      "level": 2,
+      "start_line": 141
+    },
+    {
+      "anchor": "ca-11-414-5",
+      "end_line": 250,
+      "heading": "Ca 11, 414-5",
+      "level": 2,
+      "start_line": 153
+    },
+    {
+      "anchor": "ca-16-1039-8",
+      "end_line": 258,
+      "heading": "Ca 16, 1039-8",
+      "level": 2,
+      "start_line": 251
+    },
+    {
+      "anchor": "ca-16-2431-9",
+      "end_line": 267,
+      "heading": "Ca 16, 2431-9",
+      "level": 2,
+      "start_line": 259
+    },
+    {
+      "anchor": "ca-16-3799-6",
+      "end_line": 273,
+      "heading": "Ca 16, 3799-6",
+      "level": 2,
+      "start_line": 268
+    },
+    {
+      "anchor": "lif-1670",
+      "end_line": 277,
+      "heading": "Lif 1670",
+      "level": 2,
+      "start_line": 274
+    },
+    {
+      "anchor": "kf-1498",
+      "end_line": 285,
+      "heading": "Kf 1498",
+      "level": 2,
+      "start_line": 278
+    },
+    {
+      "anchor": "ca-16-4118-1",
+      "end_line": 293,
+      "heading": "Ca 16, 4118-1",
+      "level": 2,
+      "start_line": 286
+    },
+    {
+      "anchor": "ca-17-2376-5",
+      "end_line": 301,
+      "heading": "Ca 17, 2376-5",
+      "level": 2,
+      "start_line": 294
+    },
+    {
+      "anchor": "ca-17-3273-1",
+      "end_line": 308,
+      "heading": "Ca 17, 3273-1",
+      "level": 2,
+      "start_line": 302
+    },
+    {
+      "anchor": "ca-19-1368-4",
+      "end_line": 317,
+      "heading": "Ca 19, 1368-4",
+      "level": 2,
+      "start_line": 309
+    },
+    {
+      "anchor": "ca-19-2581-9",
+      "end_line": 325,
+      "heading": "Ca 19, 2581-9",
+      "level": 2,
+      "start_line": 318
+    },
+    {
+      "anchor": "ca-19-2890-6",
+      "end_line": 331,
+      "heading": "Ca 19, 2890-6",
+      "level": 2,
+      "start_line": 326
+    },
+    {
+      "anchor": "ca-20-559-7",
+      "end_line": 337,
+      "heading": "Ca 20, 559-7",
+      "level": 2,
+      "start_line": 332
+    },
+    {
+      "anchor": "ca-20-2111-1",
+      "end_line": 343,
+      "heading": "Ca 20, 2111-1",
+      "level": 2,
+      "start_line": 338
+    },
+    {
+      "anchor": "ca-21-2436-9",
+      "end_line": 353,
+      "heading": "Ca 21, 2436-9",
+      "level": 2,
+      "start_line": 344
+    },
+    {
+      "anchor": "ca-21-3801-8",
+      "end_line": 365,
+      "heading": "Ca 21, 3801-8",
+      "level": 2,
+      "start_line": 354
+    },
+    {
+      "anchor": "ca-22-732-8",
+      "end_line": 375,
+      "heading": "Ca 22, 732-8",
+      "level": 2,
+      "start_line": 366
+    },
+    {
+      "anchor": "ca-22-3851-8",
+      "end_line": 385,
+      "heading": "Ca 22, 3851-8",
+      "level": 2,
+      "start_line": 376
+    },
+    {
+      "anchor": "ca-23-747-5",
+      "end_line": 391,
+      "heading": "Ca 23, 747-5",
+      "level": 2,
+      "start_line": 386
+    },
+    {
+      "anchor": "ca-23-1058-3",
+      "end_line": 399,
+      "heading": "Ca 23, 1058-3",
+      "level": 2,
+      "start_line": 392
+    },
+    {
+      "anchor": "ca-23-1320-9",
+      "end_line": 407,
+      "heading": "Ca 23, 1320-9",
+      "level": 2,
+      "start_line": 400
+    },
+    {
+      "anchor": "ca-23-4874-9",
+      "end_line": 419,
+      "heading": "Ca 23, 4874-9",
+      "level": 2,
+      "start_line": 408
+    },
+    {
+      "anchor": "ca-24-2927-3",
+      "end_line": 427,
+      "heading": "Ca 24, 2927-3",
+      "level": 2,
+      "start_line": 420
+    },
+    {
+      "anchor": "ca-24-4208-3",
+      "end_line": 435,
+      "heading": "Ca 24, 4208-3",
+      "level": 2,
+      "start_line": 428
+    },
+    {
+      "anchor": "ca-25-4164-1",
+      "end_line": 447,
+      "heading": "Ca 25, 4164-1",
+      "level": 2,
+      "start_line": 436
+    },
+    {
+      "anchor": "ca-26-5000-9",
+      "end_line": 459,
+      "heading": "Ca 26, 5000-9",
+      "level": 2,
+      "start_line": 448
+    },
+    {
+      "anchor": "ca-27-2410-8",
+      "end_line": 475,
+      "heading": "Ca 27, 2410-8",
+      "level": 2,
+      "start_line": 460
+    },
+    {
+      "anchor": "ca-27-3660-6",
+      "end_line": 487,
+      "heading": "Ca 27, 3660-6",
+      "level": 2,
+      "start_line": 476
+    },
+    {
+      "anchor": "ca-28-400-5",
+      "end_line": 501,
+      "heading": "Ca 28, 400-5",
+      "level": 2,
+      "start_line": 488
+    },
+    {
+      "anchor": "ca-28-1241-2",
+      "end_line": 517,
+      "heading": "Ca 28, 1241-2",
+      "level": 2,
+      "start_line": 502
+    },
+    {
+      "anchor": "ca-29-32-2",
+      "end_line": 531,
+      "heading": "Ca 29, 32-2",
+      "level": 2,
+      "start_line": 518
+    },
+    {
+      "anchor": "ca-29-976-4",
+      "end_line": 537,
+      "heading": "Ca 29, 976-4",
+      "level": 2,
+      "start_line": 532
+    },
+    {
+      "anchor": "ca-29-3570-4",
+      "end_line": 543,
+      "heading": "Ca 29, 3570-4",
+      "level": 2,
+      "start_line": 538
+    },
+    {
+      "anchor": "ca-29-5728-4",
+      "end_line": 551,
+      "heading": "Ca 29, 5728-4",
+      "level": 2,
+      "start_line": 544
+    },
+    {
+      "anchor": "ca-29-6497-3",
+      "end_line": 563,
+      "heading": "Ca 29, 6497-3",
+      "level": 2,
+      "start_line": 552
+    },
+    {
+      "anchor": "ca-29-7770-9",
+      "end_line": 573,
+      "heading": "Ca 29, 7770-9",
+      "level": 2,
+      "start_line": 564
+    },
+    {
+      "anchor": "ca-30-4095-9",
+      "end_line": 583,
+      "heading": "Ca 30, 4095-9",
+      "level": 2,
+      "start_line": 574
+    },
+    {
+      "anchor": "ca-30-4097-1",
+      "end_line": 595,
+      "heading": "Ca 30, 4097-1",
+      "level": 2,
+      "start_line": 584
+    },
+    {
+      "anchor": "ca-30-4097-3",
+      "end_line": 603,
+      "heading": "Ca 30, 4097-3",
+      "level": 2,
+      "start_line": 596
+    },
+    {
+      "anchor": "ca-31-2894-5",
+      "end_line": 611,
+      "heading": "Ca 31, 2894-5",
+      "level": 2,
+      "start_line": 604
+    },
+    {
+      "anchor": "ca-31-4569-3",
+      "end_line": 619,
+      "heading": "Ca 31, 4569-3",
+      "level": 2,
+      "start_line": 612
+    },
+    {
+      "anchor": "ca-32-407-1",
+      "end_line": 625,
+      "heading": "Ca 32, 407-1",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "ca-32-1582-6",
+      "end_line": 636,
+      "heading": "Ca 32, 1582-6",
+      "level": 2,
+      "start_line": 626
+    },
+    {
+      "anchor": "ca-32-3247-5",
+      "end_line": 652,
+      "heading": "Ca 32, 3247-5",
+      "level": 2,
+      "start_line": 637
+    },
+    {
+      "anchor": "ca-32-4290-8",
+      "end_line": 660,
+      "heading": "Ca 32, 4290-8",
+      "level": 2,
+      "start_line": 653
+    },
+    {
+      "anchor": "ca-32-5271-8",
+      "end_line": 668,
+      "heading": "Ca 32, 5271-8",
+      "level": 2,
+      "start_line": 661
+    },
+    {
+      "anchor": "ca-32-7686-2",
+      "end_line": 676,
+      "heading": "Ca 32, 7686-2",
+      "level": 2,
+      "start_line": 669
+    },
+    {
+      "anchor": "ca-32-7808-7",
+      "end_line": 684,
+      "heading": "Ca 32, 7808-7",
+      "level": 2,
+      "start_line": 677
+    },
+    {
+      "anchor": "ca-33-3227-9",
+      "end_line": 690,
+      "heading": "Ca 33, 3227-9",
+      "level": 2,
+      "start_line": 685
+    },
+    {
+      "anchor": "ca-33-3228-3",
+      "end_line": 696,
+      "heading": "Ca 33, 3228-3",
+      "level": 2,
+      "start_line": 691
+    },
+    {
+      "anchor": "ca-33-4525-7",
+      "end_line": 702,
+      "heading": "Ca 33, 4525-7",
+      "level": 2,
+      "start_line": 697
+    },
+    {
+      "anchor": "ca-33-8367-2",
+      "end_line": 710,
+      "heading": "Ca 33, 8367-2",
+      "level": 2,
+      "start_line": 703
+    },
+    {
+      "anchor": "ca-33-8367-3",
+      "end_line": 718,
+      "heading": "Ca 33, 8367-3",
+      "level": 2,
+      "start_line": 711
+    },
+    {
+      "anchor": "ca-34-1237-7",
+      "end_line": 725,
+      "heading": "Ca 34, 1237-7",
+      "level": 2,
+      "start_line": 719
+    },
+    {
+      "anchor": "ca-34-6143-1",
+      "end_line": 733,
+      "heading": "Ca 34, 6143-1",
+      "level": 2,
+      "start_line": 726
+    },
+    {
+      "anchor": "ca-35-361-7",
+      "end_line": 741,
+      "heading": "Ca 35, 361-7",
+      "level": 2,
+      "start_line": 734
+    },
+    {
+      "anchor": "ca-35-2055-9",
+      "end_line": 749,
+      "heading": "Ca 35, 2055-9",
+      "level": 2,
+      "start_line": 742
+    },
+    {
+      "anchor": "ca-35-3514-6",
+      "end_line": 757,
+      "heading": "Ca 35, 3514-6",
+      "level": 2,
+      "start_line": 750
+    },
+    {
+      "anchor": "ca-35-3514-9",
+      "end_line": 769,
+      "heading": "Ca 35, 3514-9",
+      "level": 2,
+      "start_line": 758
+    },
+    {
+      "anchor": "ca-35-3549-9",
+      "end_line": 781,
+      "heading": "Ca 35, 3549-9",
+      "level": 2,
+      "start_line": 770
+    },
+    {
+      "anchor": "ca-35-4664-9",
+      "end_line": 791,
+      "heading": "Ca 35, 4664-9",
+      "level": 2,
+      "start_line": 782
+    },
+    {
+      "anchor": "ca-37-303-2",
+      "end_line": 801,
+      "heading": "Ca 37, 303-2",
+      "level": 2,
+      "start_line": 792
+    },
+    {
+      "anchor": "ca-37-823-1",
+      "end_line": 813,
+      "heading": "Ca 37, 823-1",
+      "level": 2,
+      "start_line": 802
+    },
+    {
+      "anchor": "ca-37-823-3",
+      "end_line": 821,
+      "heading": "Ca 37, 823-3",
+      "level": 2,
+      "start_line": 814
+    },
+    {
+      "anchor": "ca-37-2982-7",
+      "end_line": 827,
+      "heading": "Ca 37, 2982-7",
+      "level": 2,
+      "start_line": 822
+    },
+    {
+      "anchor": "ca-37-3661-6",
+      "end_line": 835,
+      "heading": "Ca 37, 3661-6",
+      "level": 2,
+      "start_line": 828
+    },
+    {
+      "anchor": "ca-37-4971-2",
+      "end_line": 843,
+      "heading": "Ca 37, 4971-2",
+      "level": 2,
+      "start_line": 836
+    },
+    {
+      "anchor": "ca-39-852-4",
+      "end_line": 851,
+      "heading": "Ca 39, 852-4",
+      "level": 2,
+      "start_line": 844
+    },
+    {
+      "anchor": "ca-39-1351-9",
+      "end_line": 858,
+      "heading": "Ca 39, 1351-9",
+      "level": 2,
+      "start_line": 852
+    },
+    {
+      "anchor": "ca-39-1807-1",
+      "end_line": 866,
+      "heading": "Ca 39, 1807-1",
+      "level": 2,
+      "start_line": 859
+    },
+    {
+      "anchor": "ca-39-4542-6",
+      "end_line": 878,
+      "heading": "Ca 39, 4542-6",
+      "level": 2,
+      "start_line": 867
+    },
+    {
+      "anchor": "ca-40-3953-6",
+      "end_line": 888,
+      "heading": "Ca 40, 3953-6",
+      "level": 2,
+      "start_line": 879
+    },
+    {
+      "anchor": "ca-40-4943-7",
+      "end_line": 1746,
+      "heading": "Ca 40, 4943-7",
+      "level": 2,
+      "start_line": 889
+    },
+    {
+      "anchor": "general-information-concering-fluorides",
+      "end_line": 1748,
+      "heading": "GENERAL INFORMATION CONCERING FLUORIDES",
+      "level": 1,
+      "start_line": 1747
+    },
+    {
+      "anchor": "index",
+      "end_line": 1752,
+      "heading": "Index",
+      "level": 1,
+      "start_line": 1749
+    },
+    {
+      "anchor": "a",
+      "end_line": 1758,
+      "heading": "A",
+      "level": 1,
+      "start_line": 1753
+    },
+    {
+      "anchor": "m",
+      "end_line": 1762,
+      "heading": "M",
+      "level": 1,
+      "start_line": 1759
+    },
+    {
+      "anchor": "n",
+      "end_line": 1802,
+      "heading": "N",
+      "level": 1,
+      "start_line": 1763
+    },
+    {
+      "anchor": "0",
+      "end_line": 1806,
+      "heading": "0",
+      "level": 1,
+      "start_line": 1803
+    },
+    {
+      "anchor": "p",
+      "end_line": 1848,
+      "heading": "P",
+      "level": 1,
+      "start_line": 1807
+    },
+    {
+      "anchor": "u",
+      "end_line": 1852,
+      "heading": "U",
+      "level": 1,
+      "start_line": 1849
+    },
+    {
+      "anchor": "v",
+      "end_line": 1856,
+      "heading": "V",
+      "level": 1,
+      "start_line": 1853
+    },
+    {
+      "anchor": "x",
+      "end_line": 1860,
+      "heading": "X",
+      "level": 1,
+      "start_line": 1857
+    },
+    {
+      "anchor": "y",
+      "end_line": 1866,
+      "heading": "Y",
+      "level": 1,
+      "start_line": 1861
+    },
+    {
+      "anchor": "z",
+      "end_line": 1869,
+      "heading": "Z",
+      "level": 1,
+      "start_line": 1867
+    }
+  ],
+  "source_dir": "pdf/ORNL-1252",
+  "tables": [],
+  "title": "GENERAL INFORMATION",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "graphite-and-moderator-behavior",
+    "fuel-processing-and-reprocessing",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

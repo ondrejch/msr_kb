@@ -1,0 +1,490 @@
+{
+  "authors": [
+    "Reactors - Power",
+    "GAS COOLED",
+    "MOLTEN SALT HEAT EXCHANGER",
+    "DESIGN STUDY",
+    "R. E. MacPherson",
+    "CENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2605.jsonl",
+  "date_text": "1958",
+  "doc_id": "ornl-2605",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          214
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          214
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          711
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 88,
+        "line_hits": [
+          7,
+          62,
+          94,
+          101,
+          102,
+          116,
+          117,
+          118,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          136,
+          138,
+          140,
+          144,
+          147,
+          161,
+          167,
+          169,
+          171,
+          173,
+          175,
+          177,
+          179,
+          181,
+          185,
+          187,
+          189,
+          196,
+          199,
+          202,
+          206,
+          210,
+          214,
+          218,
+          232,
+          238,
+          240,
+          247,
+          249,
+          255,
+          274
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          251
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          29,
+          56,
+          70,
+          193,
+          339,
+          679,
+          687,
+          805,
+          808
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          37,
+          80,
+          814
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          33,
+          76
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 18,
+        "line_hits": [
+          134,
+          136,
+          138,
+          161,
+          171,
+          189,
+          206,
+          210,
+          214,
+          224,
+          276,
+          296,
+          302,
+          312,
+          324,
+          328,
+          342,
+          586
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          167
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "75e0b3fd39c2f400cfc1865c260ff0d20d00a534c01b35f938263988a7e7f4a4",
+  "markdown_path": "pdf/ORNL-2605/ORNL-2605/hybrid_ocr/ORNL-2605.md",
+  "report_number": "ORNL-2605",
+  "report_numbers": [
+    "ORNL-2605"
+  ],
+  "report_series": null,
+  "section_count": 41,
+  "sections": [
+    {
+      "anchor": "ornl-2605",
+      "end_line": 6,
+      "heading": "Ornl-2605",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "gas-cooled-molten-salt-heat-exchanger",
+      "end_line": 8,
+      "heading": "Gas Cooled, Molten Salt Heat Exchanger",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "design-study",
+      "end_line": 12,
+      "heading": "Design Study",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 14,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 16,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 18,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 28,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 32,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 36,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 38,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "printed-in-usa-price-150-cents-available-from-the",
+      "end_line": 46,
+      "heading": "Printed in USA. Price 150 cents. Available from the",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "ornl-2605",
+      "end_line": 61,
+      "heading": "Ornl-2605",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "gas-cooled-molten-salt-heat-exchanger-design-study",
+      "end_line": 67,
+      "heading": "Gas Cooled, Molten Salt Heat Exchanger - Design Study",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "oct-28-1958",
+      "end_line": 81,
+      "heading": "Oct 28 1958",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "contents",
+      "end_line": 111,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 131,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 141,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 162,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "summary",
+      "end_line": 182,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "design-considerations",
+      "end_line": 184,
+      "heading": "Design Considerations",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "1-heat-exchanger-configuration",
+      "end_line": 190,
+      "heading": "1. Heat Exchanger Configuration",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 192,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 191
+    },
+    {
+      "anchor": "ornl-lr-dwg-32556",
+      "end_line": 211,
+      "heading": "Ornl-Lr-Dwg 32556",
+      "level": 2,
+      "start_line": 193
+    },
+    {
+      "anchor": "2-finned-tubing",
+      "end_line": 227,
+      "heading": "2. Finned Tubing",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "3-tubing-size",
+      "end_line": 271,
+      "heading": "3. Tubing Size",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 305,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "2-countercurrent-flow-heat-exchanger",
+      "end_line": 309,
+      "heading": "2. Countercurrent flow heat exchanger",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 337,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 338,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 338
+    },
+    {
+      "anchor": "ornl-lr-dwg-32587",
+      "end_line": 347,
+      "heading": "Ornl-Lr-Dwg. 32587",
+      "level": 2,
+      "start_line": 339
+    },
+    {
+      "anchor": "method-of-calculation",
+      "end_line": 383,
+      "heading": "Method of Calculation",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "operating-conditions",
+      "end_line": 389,
+      "heading": "Operating Conditions",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "135-f",
+      "end_line": 399,
+      "heading": "135°F",
+      "level": 2,
+      "start_line": 390
+    },
+    {
+      "anchor": "175-f",
+      "end_line": 409,
+      "heading": "175°F",
+      "level": 2,
+      "start_line": 400
+    },
+    {
+      "anchor": "physical-properties",
+      "end_line": 526,
+      "heading": "Physical Properties",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "a-m-1-1-7-8-l-n-r",
+      "end_line": 646,
+      "heading": "A _ {M} = (. 1 1 7 8 L. N) R",
+      "level": 2,
+      "start_line": 527
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 676,
+      "heading": "Nomenclature",
+      "level": 1,
+      "start_line": 647
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 732,
+      "heading": "Bibliography",
+      "level": 1,
+      "start_line": 677
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 811,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 733
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 814,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 812
+    }
+  ],
+  "source_dir": "pdf/ORNL-2605",
+  "tables": [],
+  "title": "ORNL-2605",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "instrumentation-and-controls",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

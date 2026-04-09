@@ -1,0 +1,314 @@
+{
+  "authors": [
+    "G. I. Cathers",
+    "R. L. Jolley",
+    "E. C. Moncrief",
+    "Engineering.",
+    "NOTICE",
+    "INTRODUCTION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-80.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-tm-80",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 8,
+        "line_hits": [
+          7,
+          15,
+          26,
+          47,
+          49,
+          67,
+          73,
+          152
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          35,
+          37,
+          49,
+          67,
+          73
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          67,
+          95,
+          148,
+          152
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          122,
+          128
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          35
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          67
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          132,
+          136,
+          144
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 3,
+        "line_hits": [
+          174,
+          175,
+          176
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          17,
+          156,
+          163
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 10,
+        "line_hits": [
+          15,
+          26,
+          47,
+          49,
+          67,
+          93,
+          118,
+          128,
+          144,
+          152
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          9,
+          169
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 13,
+        "line_hits": [
+          26,
+          28,
+          31,
+          33,
+          37,
+          79,
+          93,
+          95,
+          112,
+          132,
+          136,
+          142,
+          165
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          26,
+          31
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9fc641ba47161f8f0e04140ddd33f041caafe3438f392ce534e010ef89c237fb",
+  "markdown_path": "pdf/ORNL-TM-0080/ORNL-TM-0080/hybrid_ocr/ORNL-TM-0080.md",
+  "report_number": "ORNL-2548",
+  "report_numbers": [
+    "ORNL-2548"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 18,
+  "sections": [
+    {
+      "anchor": "laboratory-scale-demonstration-of-the-fused-salt-volatility-process",
+      "end_line": 4,
+      "heading": "LABORATORY-SCALE DEMONSTRATION OF THE FUSED SALT VOLATILITY PROCESS",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 10,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "notice",
+      "end_line": 12,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 18,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "process-description-and-experimental-procedure",
+      "end_line": 42,
+      "heading": "PROCESS DESCRIPTION AND EXPERIMENTAL PROCEDURE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "results",
+      "end_line": 44,
+      "heading": "RESULTS",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "dissolution",
+      "end_line": 74,
+      "heading": "Dissolution",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "uranium-recovery",
+      "end_line": 88,
+      "heading": "Uranium Recovery",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "product-decontamination",
+      "end_line": 90,
+      "heading": "PRODUCT DECONTAMINATION",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "overall",
+      "end_line": 119,
+      "heading": "Overall",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "dissolution-step",
+      "end_line": 129,
+      "heading": "Dissolution Step",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "fluorination-step",
+      "end_line": 133,
+      "heading": "Fluorination Step",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "absorption-desorption",
+      "end_line": 145,
+      "heading": "Absorption-Desorption",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 153,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 157,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "references",
+      "end_line": 166,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 183,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "21-35-dtie",
+      "end_line": 184,
+      "heading": "21-35. Dtie",
+      "level": 2,
+      "start_line": 184
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0080",
+  "tables": [],
+  "title": "LABORATORY-SCALE DEMONSTRATION OF THE FUSED SALT VOLATILITY PROCESS",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

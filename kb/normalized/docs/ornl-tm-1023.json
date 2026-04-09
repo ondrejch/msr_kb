@@ -1,0 +1,339 @@
+{
+  "authors": [
+    "PRIMARY HEAT EXCHANGER",
+    "R. G. Donnelly",
+    "NOTICE",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1023.jsonl",
+  "date_text": "1965",
+  "doc_id": "ornl-tm-1023",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          67,
+          77,
+          84,
+          119,
+          138
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "component": [
+      {
+        "count": 15,
+        "line_hits": [
+          20,
+          39,
+          59,
+          65,
+          67,
+          71,
+          75,
+          80,
+          92,
+          116,
+          138,
+          143,
+          145,
+          169,
+          171
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          3,
+          10,
+          26,
+          45,
+          95,
+          138,
+          184,
+          187,
+          188
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          8,
+          55,
+          202,
+          204,
+          206
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          6,
+          51
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 7,
+        "line_hits": [
+          18,
+          39,
+          59,
+          65,
+          75,
+          80,
+          116
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          75,
+          86,
+          121,
+          153,
+          169,
+          175
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "36763b3510765a3aa2b961a9f45f95c2848c776e2bc8ebc6f565e53fc02281c5",
+  "markdown_path": "pdf/ORNL-TM-1023/ORNL-TM-1023/hybrid_ocr/ORNL-TM-1023.md",
+  "report_number": "ORNL-TM-1023",
+  "report_numbers": [
+    "ORNL-TM-1023"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 29,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 7,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 9,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 8
+    },
+    {
+      "anchor": "ornl-tm-1023",
+      "end_line": 17,
+      "heading": "Ornl-Tm-1023",
+      "level": 2,
+      "start_line": 10
+    },
+    {
+      "anchor": "tube-plugging-in-the-molten-salt-reactor-experiment",
+      "end_line": 19,
+      "heading": "Tube Plugging In The Molten-Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "primary-heat-exchanger",
+      "end_line": 23,
+      "heading": "Primary Heat Exchanger",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "notice",
+      "end_line": 27,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 24
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 36,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 28
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 38,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "tube-plugging-in-the-molten-salt-reactor-experiment-primary-heat-exchanger",
+      "end_line": 42,
+      "heading": "Tube Plugging In The Molten-Salt Reactor Experiment Primary Heat Exchanger",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "february-1965",
+      "end_line": 44,
+      "heading": "February 1965",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 50,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 54,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 58,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "tube-plugging-in-the-molten-salt-reactor-experiment-primary-heat-exchanger",
+      "end_line": 62,
+      "heading": "TUBE PLUGGING IN THE MOLTEN-SALT REACTOR EXPERIMENT PRIMARY HEAT EXCHANGER",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 72,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 87,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "developmental-work",
+      "end_line": 89,
+      "heading": "DEVELOPMENTAL WORK",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "joint-design",
+      "end_line": 94,
+      "heading": "Joint Design",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "unclassified-ornl-dwg-64-11",
+      "end_line": 103,
+      "heading": "Unclassified Ornl-Dwg 64-11",
+      "level": 2,
+      "start_line": 95
+    },
+    {
+      "anchor": "welding-procedures",
+      "end_line": 117,
+      "heading": "Welding Procedures",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "note-1-maximum-tube-i-d-0-0002-0-0000",
+      "end_line": 118,
+      "heading": "Note 1: Maximum Tube I.D. +0.0002 -0.0000",
+      "level": 2,
+      "start_line": 118
+    },
+    {
+      "anchor": "material-inor-8-rod",
+      "end_line": 120,
+      "heading": "Material: Inor-8 Rod",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "dimensions-are-in-inches",
+      "end_line": 135,
+      "heading": "Dimensions Are In Inches",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "welder-qualification",
+      "end_line": 146,
+      "heading": "WELDER QUALIFICATION",
+      "level": 1,
+      "start_line": 136
+    },
+    {
+      "anchor": "the-tube-plugging-operation",
+      "end_line": 166,
+      "heading": "THE TUBE PLUGGING OPERATION",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 172,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 179,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 198,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 207,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 199
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1023",
+  "tables": [],
+  "title": "![](images/30dc7f36623af345dc56c210bfd8f748949600058dd224a34a2604ef26f24853.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

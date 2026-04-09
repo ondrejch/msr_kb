@@ -1,0 +1,748 @@
+{
+  "authors": [
+    "COST-BENEFIT ANALYSIS",
+    "OF THE",
+    "U.S. BREEDER REACTOR",
+    "PROGRAM",
+    "NOTICE",
+    "DISCLAIMER"
+  ],
+  "claims_path": "kb/normalized/claims/wash-1184.jsonl",
+  "date_text": "June 4, 1971",
+  "doc_id": "wash-1184",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          538
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          15,
+          21,
+          47,
+          51,
+          75,
+          101,
+          110,
+          178,
+          231,
+          550,
+          579,
+          600
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          583
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 56,
+        "line_hits": [
+          29,
+          49,
+          51,
+          53,
+          103,
+          139,
+          143,
+          145,
+          157,
+          161,
+          169,
+          188,
+          209,
+          211,
+          215,
+          219,
+          223,
+          256,
+          262,
+          268,
+          278,
+          323,
+          329,
+          406,
+          418,
+          454,
+          469,
+          484,
+          499,
+          508,
+          510,
+          514,
+          518,
+          522,
+          556,
+          560,
+          562,
+          565,
+          573,
+          577,
+          585,
+          600,
+          630,
+          634,
+          679,
+          681,
+          685,
+          694,
+          696,
+          709
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          95,
+          309,
+          675,
+          679
+        ],
+        "name": "MSBR"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "dd5b7e4944ed8d49edb8bca4d7dd7bdeb29e0d3b9ce3ffdf20cb5fe61169c0c4",
+  "markdown_path": "pdf/WASH-1184/WASH-1184/hybrid_ocr/WASH-1184.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 86,
+  "sections": [
+    {
+      "anchor": "updated-1970",
+      "end_line": 2,
+      "heading": "Updated (1970)",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 4,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "of-the",
+      "end_line": 6,
+      "heading": "Of The",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "u-s-breeder-reactor",
+      "end_line": 8,
+      "heading": "U.S. Breeder Reactor",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "program",
+      "end_line": 12,
+      "heading": "Program",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "notice",
+      "end_line": 16,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "prepared-by",
+      "end_line": 22,
+      "heading": "Prepared by",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 26,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 30,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "updated-cost-benefit-analysis",
+      "end_line": 60,
+      "heading": "(Updated Cost-Benefit Analysis)",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "preface-1",
+      "end_line": 62,
+      "heading": "Preface 1",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "1-0-introduction-1",
+      "end_line": 63,
+      "heading": "1.0 INTRODUCTION 1",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "2-0-summary-of-updated-cost-benefit-analysis-3",
+      "end_line": 64,
+      "heading": "2.0 SUMMARY OF UPDATED COST-BENEFIT ANALYSIS 3",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "3-0-discussion-of-cost-benefit-analysis-7",
+      "end_line": 65,
+      "heading": "3.0 DISCUSSION OF COST-BENEFIT ANALYSIS 7",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "4-0-major-assumptions-used-in-the-analysis-35",
+      "end_line": 67,
+      "heading": "4.0 MAJOR ASSUMPTIONS USED IN THE ANALYSIS 35",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 72,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "glossary",
+      "end_line": 140,
+      "heading": "GLOSSARY",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "2-0-summary-of-updated-cost-benefit-analysis",
+      "end_line": 183,
+      "heading": "2.0 SUMMARY OF UPDATED COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "3-0-discussion-of-cost-benefit-analysis",
+      "end_line": 185,
+      "heading": "3.0 DISCUSSION OF COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 184
+    },
+    {
+      "anchor": "3-1-method-of-cost-benefit-analysis",
+      "end_line": 193,
+      "heading": "3.1 Method of Cost-Benefit Analysis",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "table-1",
+      "end_line": 194,
+      "heading": "Table 1",
+      "level": 2,
+      "start_line": 194
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 220,
+      "heading": "Updated (1970) Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 195
+    },
+    {
+      "anchor": "3-2-research-and-development-costs",
+      "end_line": 236,
+      "heading": "3.2 Research and Development Costs",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "table-2",
+      "end_line": 237,
+      "heading": "Table 2",
+      "level": 2,
+      "start_line": 237
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 257,
+      "heading": "Updated (1970) Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 238
+    },
+    {
+      "anchor": "3-3-results-of-analysis",
+      "end_line": 259,
+      "heading": "3.3 Results of Analysis",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "3-3-1-benefits-and-benefit-cost-ratios",
+      "end_line": 263,
+      "heading": "3.3.1 Benefits and Benefit/Cost Ratios",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "3-3-2-current-program",
+      "end_line": 269,
+      "heading": "3.3.2 Current Program",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "table-3",
+      "end_line": 271,
+      "heading": "TABLE 3",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 284,
+      "heading": "UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "table-4",
+      "end_line": 286,
+      "heading": "TABLE 4",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 288,
+      "heading": "UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "uranium-and-separative-work-demand-requirements",
+      "end_line": 300,
+      "heading": "Uranium And Separative Work Demand Requirements",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "3-3-3-early-introduction-of-the-breeder",
+      "end_line": 304,
+      "heading": "3.3.3 Early Introduction of the Breeder",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "3-3-4-parallel-breeder-reactor-pbr-program",
+      "end_line": 312,
+      "heading": "3.3.4 Parallel Breeder Reactor (PBR) Program",
+      "level": 1,
+      "start_line": 305
+    },
+    {
+      "anchor": "discussion-of-parallel-breeder-results",
+      "end_line": 320,
+      "heading": "Discussion of Parallel Breeder Results",
+      "level": 1,
+      "start_line": 313
+    },
+    {
+      "anchor": "3-3-5-sensitivity-of-results-to-changes-in-parameters",
+      "end_line": 326,
+      "heading": "3.3.5 Sensitivity of Results to Changes in Parameters",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "1-breeder-introduction-date",
+      "end_line": 341,
+      "heading": "1. Breeder Introduction Date",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "2-uranium-cost-versus-supply",
+      "end_line": 345,
+      "heading": "2. Uranium Cost Versus Supply",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "3-electrical-energy-demand",
+      "end_line": 395,
+      "heading": "3. Electrical Energy Demand",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "4-capital-cost-of-the-breeder",
+      "end_line": 407,
+      "heading": "4. Capital Cost of the Breeder",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "5-effect-of-introduction-of-htgr",
+      "end_line": 411,
+      "heading": "5. Effect of Introduction of HTGR",
+      "level": 1,
+      "start_line": 408
+    },
+    {
+      "anchor": "6-uranium-requirements",
+      "end_line": 421,
+      "heading": "6. Uranium Requirements",
+      "level": 1,
+      "start_line": 412
+    },
+    {
+      "anchor": "7-separative-work-demand",
+      "end_line": 431,
+      "heading": "7. Separative Work Demand",
+      "level": 1,
+      "start_line": 422
+    },
+    {
+      "anchor": "figure-3-updated-1970-cost-benefit-analysis",
+      "end_line": 433,
+      "heading": "FIGURE 3 UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 432
+    },
+    {
+      "anchor": "separative-work-demand",
+      "end_line": 439,
+      "heading": "SEPARATIVE WORK DEMAND",
+      "level": 1,
+      "start_line": 434
+    },
+    {
+      "anchor": "8-sensitivity-of-benefits-to-varying-discount-rates",
+      "end_line": 445,
+      "heading": "8. Sensitivity of Benefits to Varying Discount Rates",
+      "level": 1,
+      "start_line": 440
+    },
+    {
+      "anchor": "table-5",
+      "end_line": 447,
+      "heading": "TABLE 5",
+      "level": 1,
+      "start_line": 446
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 451,
+      "heading": "UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 448
+    },
+    {
+      "anchor": "at-5-per-year-discount-rate",
+      "end_line": 460,
+      "heading": "At 5% Per Year Discount Rate",
+      "level": 1,
+      "start_line": 452
+    },
+    {
+      "anchor": "table-6",
+      "end_line": 462,
+      "heading": "TABLE 6",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 466,
+      "heading": "UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 463
+    },
+    {
+      "anchor": "at-7-per-year-discount-rate",
+      "end_line": 475,
+      "heading": "At $7 \\%$ Per Year Discount Rate",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "table-7",
+      "end_line": 477,
+      "heading": "TABLE 7",
+      "level": 1,
+      "start_line": 476
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 481,
+      "heading": "UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "at-10-per-year-discount-rate",
+      "end_line": 492,
+      "heading": "At $10\\%$ Per Year Discount Rate",
+      "level": 1,
+      "start_line": 482
+    },
+    {
+      "anchor": "table-8",
+      "end_line": 494,
+      "heading": "TABLE 8",
+      "level": 1,
+      "start_line": 493
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 523,
+      "heading": "UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "3-3-6-electric-generating-capacity",
+      "end_line": 527,
+      "heading": "3.3.6 Electric Generating Capacity",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "table-9",
+      "end_line": 529,
+      "heading": "TABLE 9",
+      "level": 1,
+      "start_line": 528
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 543,
+      "heading": "UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 530
+    },
+    {
+      "anchor": "4-0-major-assumptions-used-in-the-analysis",
+      "end_line": 547,
+      "heading": "4.0 MAJOR ASSUMPTIONS USED IN THE ANALYSIS",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "4-1-discount-rates",
+      "end_line": 551,
+      "heading": "4.1 Discount Rates",
+      "level": 1,
+      "start_line": 548
+    },
+    {
+      "anchor": "4-2-constraint-on-reactor-capacity-introduced",
+      "end_line": 557,
+      "heading": "4.2 Constraint on Reactor Capacity Introduced",
+      "level": 1,
+      "start_line": 552
+    },
+    {
+      "anchor": "4-3-capital-costs-of-plants",
+      "end_line": 563,
+      "heading": "4.3 Capital Costs of Plants",
+      "level": 1,
+      "start_line": 558
+    },
+    {
+      "anchor": "figure-4",
+      "end_line": 580,
+      "heading": "Figure 4",
+      "level": 2,
+      "start_line": 564
+    },
+    {
+      "anchor": "4-4-mass-balance-and-reactor-performance",
+      "end_line": 588,
+      "heading": "4.4 Mass Balance and Reactor Performance",
+      "level": 1,
+      "start_line": 581
+    },
+    {
+      "anchor": "4-5-fuel-cycle-costs",
+      "end_line": 592,
+      "heading": "4.5 Fuel Cycle Costs",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "typical-rector-characteristics-used-in-analysis",
+      "end_line": 594,
+      "heading": "Typical Rector Characteristics Used In Analysis",
+      "level": 2,
+      "start_line": 593
+    },
+    {
+      "anchor": "table-10",
+      "end_line": 595,
+      "heading": "Table 10",
+      "level": 2,
+      "start_line": 595
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 601,
+      "heading": "Updated (1970) Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 596
+    },
+    {
+      "anchor": "table-11",
+      "end_line": 602,
+      "heading": "Table 11",
+      "level": 2,
+      "start_line": 602
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 609,
+      "heading": "Updated (1970) Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 603
+    },
+    {
+      "anchor": "4-6-fossil-fuel-costs",
+      "end_line": 615,
+      "heading": "4.6 Fossil Fuel Costs",
+      "level": 1,
+      "start_line": 610
+    },
+    {
+      "anchor": "4-7-uranium-cost-versus-supply",
+      "end_line": 619,
+      "heading": "4.7 Uranium Cost Versus Supply",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "table-12-updated-1970-cost-benefit-analysis",
+      "end_line": 631,
+      "heading": "Table 12 Updated (1970) Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "4-8-reference-and-cutoff-dates",
+      "end_line": 637,
+      "heading": "4.8 Reference and Cutoff Dates",
+      "level": 1,
+      "start_line": 632
+    },
+    {
+      "anchor": "4-9-electrical-energy-demand",
+      "end_line": 641,
+      "heading": "4.9 Electrical Energy Demand",
+      "level": 1,
+      "start_line": 638
+    },
+    {
+      "anchor": "table-13",
+      "end_line": 643,
+      "heading": "TABLE 13",
+      "level": 1,
+      "start_line": 642
+    },
+    {
+      "anchor": "updated-1970-cost-benefit-analysis",
+      "end_line": 651,
+      "heading": "UPDATED (1970) COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 644
+    },
+    {
+      "anchor": "4-10-generating-capacity-load-factor",
+      "end_line": 655,
+      "heading": "4.10 Generating Capacity Load Factor",
+      "level": 1,
+      "start_line": 652
+    },
+    {
+      "anchor": "average-annual-capacity-factor-histories",
+      "end_line": 661,
+      "heading": "Average Annual Capacity Factor Histories",
+      "level": 1,
+      "start_line": 656
+    },
+    {
+      "anchor": "4-11-separative-work-cost",
+      "end_line": 665,
+      "heading": "4.11 Separative Work Cost",
+      "level": 1,
+      "start_line": 662
+    },
+    {
+      "anchor": "4-12-research-and-development-program",
+      "end_line": 669,
+      "heading": "4.12 Research and Development Program",
+      "level": 1,
+      "start_line": 666
+    },
+    {
+      "anchor": "the-following-cases-were-used",
+      "end_line": 702,
+      "heading": "The following cases were used:",
+      "level": 1,
+      "start_line": 670
+    },
+    {
+      "anchor": "fossil-fuel-cost-projection",
+      "end_line": 770,
+      "heading": "Fossil Fuel Cost Projection",
+      "level": 1,
+      "start_line": 703
+    }
+  ],
+  "source_dir": "pdf/WASH-1184",
+  "tables": [],
+  "title": "UPDATED (1970)",
+  "topics": [
+    "breeder-and-converter-design",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "program-history",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "fuel-processing-and-reprocessing",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

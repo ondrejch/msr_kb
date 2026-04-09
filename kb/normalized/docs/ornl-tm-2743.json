@@ -1,0 +1,394 @@
+{
+  "authors": [
+    "COPY NO. -",
+    "DESIGN AND CONSTRUCTION",
+    "C. H. Gabbard",
+    "MASTER",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2743.jsonl",
+  "date_text": "December 22, 1969",
+  "doc_id": "ornl-tm-2743",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 25,
+        "line_hits": [
+          23,
+          27,
+          52,
+          54,
+          78,
+          80,
+          105,
+          107,
+          115,
+          122,
+          126,
+          142,
+          155,
+          157,
+          159,
+          171,
+          173,
+          175,
+          177,
+          190,
+          193,
+          197,
+          201,
+          229,
+          231
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          23,
+          56,
+          78,
+          80,
+          96,
+          115,
+          155,
+          173,
+          177,
+          199,
+          201,
+          212
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          23,
+          52,
+          80,
+          171,
+          173,
+          190,
+          231
+        ],
+        "name": "pyrolytic graphite"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          27,
+          155,
+          157,
+          163,
+          229
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          27
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          78,
+          107
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          96
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 4,
+        "line_hits": [
+          1,
+          248,
+          280,
+          296
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          5,
+          80,
+          316
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 12,
+        "line_hits": [
+          15,
+          23,
+          27,
+          78,
+          82,
+          86,
+          101,
+          109,
+          122,
+          140,
+          182,
+          219
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          80,
+          94,
+          96,
+          126,
+          142,
+          144,
+          146,
+          173,
+          195
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          126,
+          128
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2a0fb2d3d1356b091dc1eb980c089eeaea9783d3487649dfc7611e4a2ffce6b5",
+  "markdown_path": "pdf/ORNL-TM-2743/ORNL-TM-2743/hybrid_ocr/ORNL-TM-2743.md",
+  "report_number": "ORNL-TM-2743",
+  "report_numbers": [
+    "ORNL-TM-2743"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 27,
+  "sections": [
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 4,
+      "heading": "U.S. ATOMIC ENERGY COMMISSION",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-tm-2743",
+      "end_line": 6,
+      "heading": "Ornl-Tm-2743",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 10,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "design-and-construction",
+      "end_line": 18,
+      "heading": "Design And Construction",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "master",
+      "end_line": 28,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 37,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "contents",
+      "end_line": 39,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "page",
+      "end_line": 63,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 75,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 83,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "table-i",
+      "end_line": 91,
+      "heading": "Table I",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "mechanical-design-of-the-cage-and-basket-assembly",
+      "end_line": 110,
+      "heading": "Mechanical Design of the Cage and Basket Assembly",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "description-and-design-of-test-specimens",
+      "end_line": 112,
+      "heading": "Description and Design of Test Specimens",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "flow-tube",
+      "end_line": 123,
+      "heading": "Flow Tube",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "uranium-capsules",
+      "end_line": 129,
+      "heading": "Uranium Capsules",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 131,
+      "heading": "Table III",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "calculated-isotopic-concentrations",
+      "end_line": 135,
+      "heading": "Calculated Isotopic Concentrations",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "original-salt-mixtures-grams",
+      "end_line": 170,
+      "heading": "Original Salt Mixtures (grams)",
+      "level": 1,
+      "start_line": 136
+    },
+    {
+      "anchor": "pyrolytic-graphite",
+      "end_line": 174,
+      "heading": "Pyrolytic Graphite",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "graphite-tube-with-turbulence-wire",
+      "end_line": 184,
+      "heading": "Graphite Tube with Turbulence Wire",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "fe-71-30",
+      "end_line": 198,
+      "heading": "Fe 71.30",
+      "level": 2,
+      "start_line": 185
+    },
+    {
+      "anchor": "hastelloy-n-tube-with-turbulence-wire",
+      "end_line": 204,
+      "heading": "Hastelloy-N Tube with Turbulence Wire",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "gas-trap-and-electron-microscope-screen-holder",
+      "end_line": 216,
+      "heading": "Gas Trap and Electron Microscope Screen Holder",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "disposition-of-the-specimen-array",
+      "end_line": 222,
+      "heading": "Disposition of the Specimen Array",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 233,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 317,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 234
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 322,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 318
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2743",
+  "tables": [],
+  "title": "U.S. ATOMIC ENERGY COMMISSION",
+  "topics": [
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics",
+    "irradiation-and-damage",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "program-history"
+  ],
+  "warnings": []
+}

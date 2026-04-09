@@ -1,0 +1,803 @@
+{
+  "authors": [
+    "THE RADIOCHEMISTRY OF URANUM",
+    "Other information",
+    "Richard A. Roberts",
+    "Gregory R. Choppin",
+    "Department of Chemistry"
+  ],
+  "claims_path": "kb/normalized/claims/nas-ns-3063.jsonl",
+  "date_text": "February 1986",
+  "doc_id": "nas-ns-3063",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          178,
+          293
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "organization": [
+      {
+        "count": 1,
+        "line_hits": [
+          1179
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 34,
+        "line_hits": [
+          61,
+          87,
+          253,
+          257,
+          273,
+          275,
+          285,
+          289,
+          291,
+          295,
+          330,
+          426,
+          466,
+          470,
+          471,
+          472,
+          473,
+          474,
+          476,
+          482,
+          483,
+          539,
+          630,
+          638,
+          740,
+          785,
+          840,
+          842,
+          891,
+          1155,
+          1157,
+          1169,
+          1194,
+          1197
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "cff0dee981964a19232fcd84bcee6f397c95846fb6de11c6df500e4c717bb451",
+  "markdown_path": "pdf/NAS-NS-3063/NAS-NS-3063/hybrid_ocr/NAS-NS-3063.md",
+  "report_number": "NAS-NS-3050",
+  "report_numbers": [
+    "NAS-NS-3050",
+    "NAS-NS-3060",
+    "NAS-NS-3058"
+  ],
+  "report_series": "nas-ns-series",
+  "section_count": 100,
+  "sections": [
+    {
+      "anchor": "the-radiochemistry-of-uranum-neptunium-and-plutonium-an-updating",
+      "end_line": 16,
+      "heading": "THE RADIOCHEMISTRY OF URANUM, NEPTUNIUM AND PLUTONIUM - AN UPDATING",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "the-radiochemistry-of-uranum-neptunium-and-plutonium-an-updating",
+      "end_line": 18,
+      "heading": "The Radiochemistry Of Uranum, Neptunium And Plutonium - An Updating",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "nas-ns-3063",
+      "end_line": 20,
+      "heading": "Nas-Ns--3063",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "de86-007600",
+      "end_line": 54,
+      "heading": "De86 007600",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "master",
+      "end_line": 58,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "forward",
+      "end_line": 74,
+      "heading": "Forward",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "preface",
+      "end_line": 94,
+      "heading": "Preface",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "contenta",
+      "end_line": 114,
+      "heading": "Contenta",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "procedures",
+      "end_line": 142,
+      "heading": "Procedures:",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "procedures",
+      "end_line": 160,
+      "heading": "Procedures:",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "nas-ns-3050-1962",
+      "end_line": 181,
+      "heading": "Nas-Ns-3050 (1962)",
+      "level": 2,
+      "start_line": 161
+    },
+    {
+      "anchor": "ii-summary-of-previous-neptunium-procedures",
+      "end_line": 214,
+      "heading": "II. Summary of Previous Neptunium Procedures",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "iii-summary-of-previous-plutonium-procedures",
+      "end_line": 218,
+      "heading": "III. Summary of Previous Plutonium Procedures",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "nas-ns-3058-1965",
+      "end_line": 250,
+      "heading": "Nas-Ns-3058 (1965)",
+      "level": 2,
+      "start_line": 219
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 258,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "discussion-of-the-procedures",
+      "end_line": 296,
+      "heading": "DISCUSSION OF THE PROCEDURES",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "references",
+      "end_line": 304,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 297
+    },
+    {
+      "anchor": "procedure-1",
+      "end_line": 306,
+      "heading": "PROCEDURE 1",
+      "level": 1,
+      "start_line": 305
+    },
+    {
+      "anchor": "semi-quantitative-determination-of-uranium-spectroscopy",
+      "end_line": 331,
+      "heading": "Semi-Quantitative Determination of Uranium (α-Spectroscopy)",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "procedure-2",
+      "end_line": 355,
+      "heading": "PROCEDURE 2",
+      "level": 1,
+      "start_line": 332
+    },
+    {
+      "anchor": "procedure-3",
+      "end_line": 357,
+      "heading": "PROCEDURE 3",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "extraction-of-uranium-with-toa-and-spectrophotometric-determination-with-arsenazo-iii",
+      "end_line": 394,
+      "heading": "Extraction of Uranium with TOA and Spectrophotometric Determination with Arsenazo III",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "procedure-4",
+      "end_line": 396,
+      "heading": "PROCEDURE 4",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "determination-of-uranium-and-plutonium-isotopes-in-soil-samples-by-alpha-spectroscopy",
+      "end_line": 410,
+      "heading": "Determination of Uranium (and Plutonium) Isotopes in Soil Samples by $\\alpha$ -Spectroscopy",
+      "level": 1,
+      "start_line": 397
+    },
+    {
+      "anchor": "procedure-for-soil-samples",
+      "end_line": 422,
+      "heading": "Procedure for Soil Samples:",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "extraction-procedure",
+      "end_line": 440,
+      "heading": "Extraction Procedure:",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "procedure-s",
+      "end_line": 442,
+      "heading": "PROCEDURE S",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "anion-exchange-separation-of-u-in-malonic-and-ascorbic-acid-media",
+      "end_line": 479,
+      "heading": "Anion Exchange Separation of U in Malonic and Ascorbic Acid Media",
+      "level": 1,
+      "start_line": 443
+    },
+    {
+      "anchor": "separation-in-ascorbic-acid-media",
+      "end_line": 495,
+      "heading": "Separation in Ascorbic Acid Media:",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "procedure-6",
+      "end_line": 497,
+      "heading": "PROCEDURE 6",
+      "level": 1,
+      "start_line": 496
+    },
+    {
+      "anchor": "separation-of-uranium-from-heavy-metals-by-chromatography-using-an-arsonic-acid-resin",
+      "end_line": 516,
+      "heading": "Separation of Uranium from Heavy Metals by Chromatography Using an Arsonic Acid Resin",
+      "level": 1,
+      "start_line": 498
+    },
+    {
+      "anchor": "separation-procedure",
+      "end_line": 524,
+      "heading": "Separation Procedure:",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "procedure-7",
+      "end_line": 526,
+      "heading": "PROCEDURE 7",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "chromatographic-separation-and-a-spectrometric",
+      "end_line": 528,
+      "heading": "Chromatographic Separation and a-Spectrometric",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "determination-of-uranium",
+      "end_line": 541,
+      "heading": "Determination of Uranium",
+      "level": 1,
+      "start_line": 529
+    },
+    {
+      "anchor": "initial-separation",
+      "end_line": 553,
+      "heading": "Initial Separation:",
+      "level": 1,
+      "start_line": 542
+    },
+    {
+      "anchor": "purification",
+      "end_line": 571,
+      "heading": "Purification:",
+      "level": 1,
+      "start_line": 554
+    },
+    {
+      "anchor": "notes",
+      "end_line": 577,
+      "heading": "Notes:",
+      "level": 1,
+      "start_line": 572
+    },
+    {
+      "anchor": "procedure-3",
+      "end_line": 579,
+      "heading": "PROCEDURE 3",
+      "level": 1,
+      "start_line": 578
+    },
+    {
+      "anchor": "determination-of-uranium-in-natural-waters",
+      "end_line": 581,
+      "heading": "Determination of Uranium in Natural Waters",
+      "level": 1,
+      "start_line": 580
+    },
+    {
+      "anchor": "after-anion-exchange-separation",
+      "end_line": 597,
+      "heading": "After Anion-Exchange Separation",
+      "level": 1,
+      "start_line": 582
+    },
+    {
+      "anchor": "column-preparation",
+      "end_line": 603,
+      "heading": "Column Preparation:",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "separation-procedure",
+      "end_line": 616,
+      "heading": "Separation Procedure:",
+      "level": 1,
+      "start_line": 604
+    },
+    {
+      "anchor": "determination-of-uranium",
+      "end_line": 631,
+      "heading": "Determination of Uranium:",
+      "level": 1,
+      "start_line": 617
+    },
+    {
+      "anchor": "procedure-3",
+      "end_line": 713,
+      "heading": "PROCEDURE 3",
+      "level": 1,
+      "start_line": 632
+    },
+    {
+      "anchor": "procedure-10",
+      "end_line": 731,
+      "heading": "PROCEDURE 10",
+      "level": 1,
+      "start_line": 714
+    },
+    {
+      "anchor": "dissolution",
+      "end_line": 737,
+      "heading": "Dissolution:",
+      "level": 1,
+      "start_line": 732
+    },
+    {
+      "anchor": "extraction",
+      "end_line": 748,
+      "heading": "Extraction:",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "counting",
+      "end_line": 755,
+      "heading": "Counting:",
+      "level": 1,
+      "start_line": 749
+    },
+    {
+      "anchor": "procedure-11",
+      "end_line": 757,
+      "heading": "PROCEDURE 11",
+      "level": 1,
+      "start_line": 756
+    },
+    {
+      "anchor": "determination-of-trace-uranium-by-instrumental-neutron-activation-analysis",
+      "end_line": 763,
+      "heading": "Determination of Trace Uranium by Instrumental Neutron Activation Analysis",
+      "level": 1,
+      "start_line": 758
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 776,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 764
+    },
+    {
+      "anchor": "v-new-neptunium-procedures",
+      "end_line": 778,
+      "heading": "V. New Neptunium Procedures",
+      "level": 1,
+      "start_line": 777
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 786,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 779
+    },
+    {
+      "anchor": "procedure-1",
+      "end_line": 788,
+      "heading": "PROCEDURE 1",
+      "level": 1,
+      "start_line": 787
+    },
+    {
+      "anchor": "chronatographic-separation-of-neprunium-using-quaternary-ammonium-nitrate-extractant",
+      "end_line": 794,
+      "heading": "Chronatographic Separation of Neprunium Using Quaternary Ammonium Nitrate Extractant",
+      "level": 1,
+      "start_line": 789
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 805,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 795
+    },
+    {
+      "anchor": "procedure-2",
+      "end_line": 813,
+      "heading": "PROCEDURE 2",
+      "level": 1,
+      "start_line": 806
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 833,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 814
+    },
+    {
+      "anchor": "vi-new-plutonium-procedures",
+      "end_line": 835,
+      "heading": "VI. New Plutonium Procedures",
+      "level": 1,
+      "start_line": 834
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 843,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 836
+    },
+    {
+      "anchor": "discussion-of-the-procedures",
+      "end_line": 855,
+      "heading": "DISCUSSION OF THE PROCEDURES",
+      "level": 1,
+      "start_line": 844
+    },
+    {
+      "anchor": "references",
+      "end_line": 860,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 856
+    },
+    {
+      "anchor": "procedure-1",
+      "end_line": 862,
+      "heading": "PROCEDURE 1",
+      "level": 1,
+      "start_line": 861
+    },
+    {
+      "anchor": "liquid-liquid-extraction-separation-and-determination-of-plutonium",
+      "end_line": 868,
+      "heading": "Liquid-Liquid Extraction Separation and Determination of Plutonium",
+      "level": 1,
+      "start_line": 863
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 892,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 869
+    },
+    {
+      "anchor": "references",
+      "end_line": 897,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 893
+    },
+    {
+      "anchor": "procedure-2",
+      "end_line": 905,
+      "heading": "PROCEDURE 2",
+      "level": 1,
+      "start_line": 898
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 929,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 906
+    },
+    {
+      "anchor": "procedure-3",
+      "end_line": 931,
+      "heading": "PROCEDURE 3",
+      "level": 1,
+      "start_line": 930
+    },
+    {
+      "anchor": "radiochemical-determination-of-plutonium-in-marine-samples-by-extraction-chromatography",
+      "end_line": 937,
+      "heading": "Radiochemical Determination of Plutonium in Marine Samples by Extraction Chromatography",
+      "level": 1,
+      "start_line": 932
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 956,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 938
+    },
+    {
+      "anchor": "procedure-4",
+      "end_line": 958,
+      "heading": "PROCEDURE 4",
+      "level": 1,
+      "start_line": 957
+    },
+    {
+      "anchor": "the-determination-of-plutonium-in-environmental-samples-by-extraction-with-tridodecylamine",
+      "end_line": 964,
+      "heading": "The Determination of Plutonium in Environmental Samples by Extraction with Tridodecylamine",
+      "level": 1,
+      "start_line": 959
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 983,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 965
+    },
+    {
+      "anchor": "procedure-5",
+      "end_line": 985,
+      "heading": "PROCEDURE 5",
+      "level": 1,
+      "start_line": 984
+    },
+    {
+      "anchor": "solvent-extraction-method-for-determination-of-plutonium-in-soft-tissue",
+      "end_line": 991,
+      "heading": "Solvent Extraction Method for Determination of Plutonium in Soft Tissue",
+      "level": 1,
+      "start_line": 986
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1018,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 992
+    },
+    {
+      "anchor": "procedure-5",
+      "end_line": 1026,
+      "heading": "PROCEDURE 5",
+      "level": 1,
+      "start_line": 1019
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1043,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 1027
+    },
+    {
+      "anchor": "procedure-7",
+      "end_line": 1045,
+      "heading": "PROCEDURE 7",
+      "level": 1,
+      "start_line": 1044
+    },
+    {
+      "anchor": "determination-of-trace-amounts-of-plutonium-in-urine",
+      "end_line": 1051,
+      "heading": "Determination of Trace Amounts of Plutonium in Urine",
+      "level": 1,
+      "start_line": 1046
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1079,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 1052
+    },
+    {
+      "anchor": "procedure-8",
+      "end_line": 1081,
+      "heading": "PROCEDURE 8",
+      "level": 1,
+      "start_line": 1080
+    },
+    {
+      "anchor": "extractive-photometric-determination-of-plutonium-iv-with-aliquat-336-and-xylenol-orange",
+      "end_line": 1087,
+      "heading": "Extractive Photometric Determination of Plutonium(IV) with Aliquat-336 and Xylenol Orange",
+      "level": 1,
+      "start_line": 1082
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1097,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 1088
+    },
+    {
+      "anchor": "procedure-9",
+      "end_line": 1105,
+      "heading": "PROCEDURE 9",
+      "level": 1,
+      "start_line": 1098
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1150,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 1106
+    },
+    {
+      "anchor": "vii-oxidation-state-procedures",
+      "end_line": 1152,
+      "heading": "VII. Oxidation State Procedures",
+      "level": 1,
+      "start_line": 1151
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1158,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 1153
+    },
+    {
+      "anchor": "procedure-1",
+      "end_line": 1166,
+      "heading": "PROCEDURE 1",
+      "level": 1,
+      "start_line": 1159
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1176,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 1167
+    },
+    {
+      "anchor": "references",
+      "end_line": 1181,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1177
+    },
+    {
+      "anchor": "procedure-2",
+      "end_line": 1189,
+      "heading": "PROCEDURE 2",
+      "level": 1,
+      "start_line": 1182
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1204,
+      "heading": "Procedure:",
+      "level": 1,
+      "start_line": 1190
+    },
+    {
+      "anchor": "procedure-3",
+      "end_line": 1206,
+      "heading": "PROCEDURE 3",
+      "level": 1,
+      "start_line": 1205
+    },
+    {
+      "anchor": "separation-of-different-oxidation-states-by-solvent-extraction-in-neutral-solutions",
+      "end_line": 1218,
+      "heading": "Separation of Different Oxidation States by Solvent Extraction in Neutral Solutions",
+      "level": 1,
+      "start_line": 1207
+    },
+    {
+      "anchor": "procedures",
+      "end_line": 1224,
+      "heading": "Procedures:",
+      "level": 1,
+      "start_line": 1219
+    },
+    {
+      "anchor": "ead",
+      "end_line": 1226,
+      "heading": "EAD",
+      "level": 1,
+      "start_line": 1225
+    },
+    {
+      "anchor": "date-filmed",
+      "end_line": 1229,
+      "heading": "DATE FILMED",
+      "level": 1,
+      "start_line": 1227
+    }
+  ],
+  "source_dir": "pdf/NAS-NS-3063",
+  "tables": [],
+  "title": "Although a small portion of this report is not reproducible, it is being made available to expedite the availability of information on the research discussed herein.",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "salt-chemistry-and-redox",
+    "off-gas-fission-products-and-tritium",
+    "irradiation-and-damage",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

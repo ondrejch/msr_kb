@@ -1,0 +1,696 @@
+{
+  "authors": [
+    "Reactors-Research",
+    "Power",
+    "SOME ECONOMIC ASPECTS OF",
+    "THORIUM BREEDER REACTORS",
+    "H.C.Claiborne",
+    "M. Tobias",
+    "CENTRAL RESEARCH LIBRARY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1810.jsonl",
+  "date_text": "1955",
+  "doc_id": "ornl-1810",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          578
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1038
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          545
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          437
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 20,
+        "line_hits": [
+          3,
+          23,
+          35,
+          75,
+          104,
+          179,
+          555,
+          557,
+          573,
+          652,
+          1017,
+          1019,
+          1020,
+          1021,
+          1024,
+          1025,
+          1026,
+          1028,
+          1029,
+          1030
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1,
+          198,
+          708,
+          1018
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          39,
+          41,
+          79,
+          81
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          284,
+          286
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          192
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          230
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          270
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          234
+        ],
+        "name": "US Air Force"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 35,
+        "line_hits": [
+          386,
+          392,
+          396,
+          404,
+          424,
+          441,
+          443,
+          445,
+          483,
+          533,
+          545,
+          622,
+          624,
+          626,
+          636,
+          638,
+          642,
+          648,
+          658,
+          664,
+          666,
+          692,
+          694,
+          696,
+          700,
+          702,
+          704,
+          747,
+          759,
+          894,
+          898,
+          900,
+          904,
+          910,
+          914
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          408,
+          443,
+          1019
+        ],
+        "name": "AHR"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "39e6fa2863a7f0419e584519d66efc3d24c483bba820f8cde00d01edb13cafb2",
+  "markdown_path": "pdf/ORNL-1810/ORNL-1810/hybrid_ocr/ORNL-1810.md",
+  "report_number": "ORNL-1810",
+  "report_numbers": [
+    "ORNL-1810",
+    "ORNL-1642"
+  ],
+  "report_series": null,
+  "section_count": 69,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-1810",
+      "end_line": 6,
+      "heading": "Ornl-1810",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "martin-maretta-energy-systems-libraries",
+      "end_line": 12,
+      "heading": "Martin Maretta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "some-economic-aspects-of",
+      "end_line": 14,
+      "heading": "Some Economic Aspects Of",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "thorium-breeder-reactors",
+      "end_line": 22,
+      "heading": "Thorium Breeder Reactors",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 26,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 28,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 30,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 34,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 36,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 38,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 44,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "post-office-box-p-oak-ridge-tennessee",
+      "end_line": 50,
+      "heading": "Post Office Box P · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "reactor-experimental-engineering-division",
+      "end_line": 56,
+      "heading": "Reactor Experimental Engineering Division",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "some-economic-aspects",
+      "end_line": 58,
+      "heading": "Some Economic Aspects",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "of-thorium-breeder-reactors",
+      "end_line": 68,
+      "heading": "Of Thorium Breeder Reactors",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "declassified",
+      "end_line": 70,
+      "heading": "Declassified",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "classification-changed-to",
+      "end_line": 74,
+      "heading": "Classification Changed To:",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 78,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 92,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 182,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 297,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 303,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "summary-2",
+      "end_line": 305,
+      "heading": "Summary 2",
+      "level": 2,
+      "start_line": 304
+    },
+    {
+      "anchor": "introduction-4",
+      "end_line": 307,
+      "heading": "Introduction 4",
+      "level": 2,
+      "start_line": 306
+    },
+    {
+      "anchor": "two-region-reactors-6",
+      "end_line": 341,
+      "heading": "Two-Region Reactors 6",
+      "level": 2,
+      "start_line": 308
+    },
+    {
+      "anchor": "one-region-reactors-42",
+      "end_line": 349,
+      "heading": "One-Region Reactors 42",
+      "level": 2,
+      "start_line": 342
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 351,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 350
+    },
+    {
+      "anchor": "title",
+      "end_line": 358,
+      "heading": "Title",
+      "level": 1,
+      "start_line": 352
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 377,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "acknowledgement",
+      "end_line": 381,
+      "heading": "ACKNOWLEDGEMENT",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "summary",
+      "end_line": 405,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 382
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 417,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 406
+    },
+    {
+      "anchor": "two-region-reactors",
+      "end_line": 419,
+      "heading": "Two-Region Reactors",
+      "level": 2,
+      "start_line": 418
+    },
+    {
+      "anchor": "two-region-reactors",
+      "end_line": 421,
+      "heading": "TWO-REGION REACTORS",
+      "level": 1,
+      "start_line": 420
+    },
+    {
+      "anchor": "methods-and-conditions",
+      "end_line": 438,
+      "heading": "Methods and Conditions",
+      "level": 1,
+      "start_line": 422
+    },
+    {
+      "anchor": "processing-cycle-times-and-uranium-isotopes",
+      "end_line": 542,
+      "heading": "Processing Cycle Times and Uranium Isotopes",
+      "level": 1,
+      "start_line": 439
+    },
+    {
+      "anchor": "nuclear-calculations",
+      "end_line": 546,
+      "heading": "Nuclear Calculations*",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "cost-estimation",
+      "end_line": 552,
+      "heading": "Cost Estimation",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "reactor-and-turbogenerator-plant-investment",
+      "end_line": 570,
+      "heading": "Reactor and Turbogenerator Plant Investment",
+      "level": 1,
+      "start_line": 553
+    },
+    {
+      "anchor": "efficiency",
+      "end_line": 579,
+      "heading": "Efficiency",
+      "level": 1,
+      "start_line": 571
+    },
+    {
+      "anchor": "operation-and-maintenance",
+      "end_line": 583,
+      "heading": "Operation and Maintenance",
+      "level": 1,
+      "start_line": 580
+    },
+    {
+      "anchor": "inventories",
+      "end_line": 605,
+      "heading": "Inventories",
+      "level": 1,
+      "start_line": 584
+    },
+    {
+      "anchor": "chemical-processing",
+      "end_line": 615,
+      "heading": "Chemical Processing",
+      "level": 1,
+      "start_line": 606
+    },
+    {
+      "anchor": "feed-costs",
+      "end_line": 619,
+      "heading": "Feed Costs",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "results",
+      "end_line": 627,
+      "heading": "Results",
+      "level": 1,
+      "start_line": 620
+    },
+    {
+      "anchor": "major-process-variables",
+      "end_line": 645,
+      "heading": "Major Process Variables",
+      "level": 1,
+      "start_line": 628
+    },
+    {
+      "anchor": "effect-of-group-3-poison-cross-section-variations",
+      "end_line": 649,
+      "heading": "Effect of Group-3 Poison Cross Section Variations",
+      "level": 1,
+      "start_line": 646
+    },
+    {
+      "anchor": "effect-of-external-power-density-variations",
+      "end_line": 655,
+      "heading": "Effect of External Power Density Variations",
+      "level": 1,
+      "start_line": 650
+    },
+    {
+      "anchor": "effect-of-errors-in-the-nuclear-constants",
+      "end_line": 687,
+      "heading": "Effect of Errors in the Nuclear Constants",
+      "level": 1,
+      "start_line": 656
+    },
+    {
+      "anchor": "accuracy-of-cost-estimate",
+      "end_line": 798,
+      "heading": "Accuracy of Cost Estimate",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "core-poisons-6",
+      "end_line": 817,
+      "heading": "Core Poisons: $6\\%$",
+      "level": 2,
+      "start_line": 799
+    },
+    {
+      "anchor": "one-region-reactors",
+      "end_line": 819,
+      "heading": "One-Region Reactors",
+      "level": 2,
+      "start_line": 818
+    },
+    {
+      "anchor": "one-region-reactors",
+      "end_line": 821,
+      "heading": "ONE-REGION REACTORS",
+      "level": 1,
+      "start_line": 820
+    },
+    {
+      "anchor": "methods-and-conditions",
+      "end_line": 831,
+      "heading": "Methods and Conditions",
+      "level": 1,
+      "start_line": 822
+    },
+    {
+      "anchor": "fission-product-poisons",
+      "end_line": 839,
+      "heading": "Fission Product Poisons",
+      "level": 1,
+      "start_line": 832
+    },
+    {
+      "anchor": "isotope-concentrations-and-critical-equation",
+      "end_line": 889,
+      "heading": "Isotope Concentrations and Critical Equation",
+      "level": 1,
+      "start_line": 840
+    },
+    {
+      "anchor": "cost-estimation",
+      "end_line": 895,
+      "heading": "Cost Estimation",
+      "level": 1,
+      "start_line": 890
+    },
+    {
+      "anchor": "untitled",
+      "end_line": 950,
+      "heading": "",
+      "level": 1,
+      "start_line": 896
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 989,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 951
+    },
+    {
+      "anchor": "subscripts",
+      "end_line": 1007,
+      "heading": "Subscripts:",
+      "level": 1,
+      "start_line": 990
+    },
+    {
+      "anchor": "23-u-233",
+      "end_line": 1008,
+      "heading": "23 U-233",
+      "level": 2,
+      "start_line": 1008
+    },
+    {
+      "anchor": "24-u-234",
+      "end_line": 1009,
+      "heading": "24 U-234",
+      "level": 2,
+      "start_line": 1009
+    },
+    {
+      "anchor": "25-u-235",
+      "end_line": 1010,
+      "heading": "25 U-235",
+      "level": 2,
+      "start_line": 1010
+    },
+    {
+      "anchor": "26-u-236",
+      "end_line": 1014,
+      "heading": "26 U-236",
+      "level": 2,
+      "start_line": 1011
+    },
+    {
+      "anchor": "references",
+      "end_line": 1031,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1015
+    },
+    {
+      "anchor": "appendix-i",
+      "end_line": 1033,
+      "heading": "APPENDIX I",
+      "level": 1,
+      "start_line": 1032
+    },
+    {
+      "anchor": "constants-used-in-the-nuclear-calculations",
+      "end_line": 1057,
+      "heading": "Constants Used in the Nuclear Calculations",
+      "level": 1,
+      "start_line": 1034
+    }
+  ],
+  "source_dir": "pdf/ORNL-1810",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

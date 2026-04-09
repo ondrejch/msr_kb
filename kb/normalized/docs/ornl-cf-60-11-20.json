@@ -1,0 +1,318 @@
+{
+  "authors": [
+    "Operated by",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "Post Office Box X",
+    "Oak Ridge",
+    "Tennessee",
+    "INTERNAL USE ONLY",
+    "ORNL"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-60-11-20.jsonl",
+  "date_text": "November 4, 1960",
+  "doc_id": "ornl-cf-60-11-20",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          109,
+          123,
+          139,
+          161
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          39,
+          65,
+          125,
+          185
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          39,
+          67,
+          125
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          69,
+          201
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          3,
+          19,
+          47,
+          51,
+          63,
+          75,
+          89,
+          121,
+          255,
+          340
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          9
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 3,
+        "line_hits": [
+          31,
+          39,
+          125
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          89
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          21
+        ],
+        "name": "ORNL Central Files"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "aaee55bb01a0f673d60ca950b592e220ab65df596ae47c1d285f75f333631f15",
+  "markdown_path": "pdf/ORNL-CF-60-11-20/ORNL-CF-60-11-20/hybrid_ocr/ORNL-CF-60-11-20.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 26,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 16,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "internal-use-only",
+      "end_line": 18,
+      "heading": "Internal Use Only",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 20,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "central-files-number",
+      "end_line": 24,
+      "heading": "Central Files Number",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 36,
+      "heading": "Copy No.",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 44,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "notice",
+      "end_line": 48,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 58,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "ii-description-of-the-system-simulated",
+      "end_line": 60,
+      "heading": "II. DESCRIPTION OF THE SYSTEM SIMULATED",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "a-thermal-system",
+      "end_line": 72,
+      "heading": "A. Thermal System",
+      "level": 1,
+      "start_line": 61
+    },
+    {
+      "anchor": "b-nuclear-system",
+      "end_line": 86,
+      "heading": "B. Nuclear System",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "iii-analog-computer-program",
+      "end_line": 94,
+      "heading": "III. ANALOG COMPUTER PROGRAM",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "iv-procedure",
+      "end_line": 118,
+      "heading": "IV. PROCEDURE",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "v-summary-of-results",
+      "end_line": 184,
+      "heading": "V. SUMMARY OF RESULTS",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "simulator-data-for-secondary-loop",
+      "end_line": 198,
+      "heading": "Simulator data for secondary loop",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "residence-times-of-secondary-salt",
+      "end_line": 210,
+      "heading": "Residence times of secondary salt:",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "residence-time-of-air-in-radiator",
+      "end_line": 212,
+      "heading": "Residence time of air in radiator",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "temperature-differences-in-radiator",
+      "end_line": 222,
+      "heading": "Temperature differences in radiator:",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "100-f",
+      "end_line": 250,
+      "heading": "100°F",
+      "level": 2,
+      "start_line": 223
+    },
+    {
+      "anchor": "fig-1",
+      "end_line": 252,
+      "heading": "Fig. 1",
+      "level": 2,
+      "start_line": 251
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 254,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 253
+    },
+    {
+      "anchor": "ornl-lr-dwg-53662",
+      "end_line": 257,
+      "heading": "Ornl-Lr-Dwg. 53662",
+      "level": 2,
+      "start_line": 255
+    },
+    {
+      "anchor": "secondary-flow-rate-of-design-point",
+      "end_line": 259,
+      "heading": "Secondary Flow Rate (% Of Design Point)",
+      "level": 2,
+      "start_line": 258
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 339,
+      "heading": "Distribution",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "54-ornl-rc",
+      "end_line": 352,
+      "heading": "54. ORNL-RC",
+      "level": 2,
+      "start_line": 340
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-60-11-20",
+  "tables": [],
+  "title": "![](images/f4e71236162d750c81ce8058be26f9e843ba4a0518e07302712172eab880a92c.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "salt-systems-and-thermophysics",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

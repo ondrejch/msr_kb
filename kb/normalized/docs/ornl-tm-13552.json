@@ -1,0 +1,741 @@
+{
+  "authors": [
+    "A",
+    "ORNL Master Copy",
+    "P. J. Bereolos*",
+    "C. W. Forsberg",
+    "D. C. Kocher",
+    "A. M. Krichinsky"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-13552.jsonl",
+  "date_text": "April 1998",
+  "doc_id": "ornl-tm-13552",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          208,
+          501
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          521
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          533
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 24,
+        "line_hits": [
+          1,
+          5,
+          39,
+          180,
+          254,
+          256,
+          258,
+          260,
+          262,
+          481,
+          561,
+          663,
+          746,
+          747,
+          749,
+          756,
+          758,
+          760,
+          761,
+          762,
+          763,
+          769,
+          773,
+          774
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          479,
+          663,
+          667,
+          747,
+          756,
+          761,
+          762,
+          763,
+          769,
+          775
+        ],
+        "name": "Lockheed Martin"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          296,
+          748,
+          906,
+          929,
+          933,
+          953
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          749,
+          773
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          739
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          868
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          944
+        ],
+        "name": "US Air Force"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 75,
+        "line_hits": [
+          266,
+          268,
+          318,
+          326,
+          330,
+          332,
+          336,
+          338,
+          340,
+          352,
+          355,
+          356,
+          372,
+          374,
+          382,
+          390,
+          394,
+          399,
+          405,
+          407,
+          409,
+          411,
+          420,
+          422,
+          423,
+          429,
+          431,
+          435,
+          443,
+          447,
+          449,
+          453,
+          455,
+          469,
+          477,
+          483,
+          507,
+          513,
+          523,
+          527,
+          531,
+          535,
+          545,
+          547,
+          555,
+          557,
+          568,
+          575,
+          579,
+          585
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          382
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          382
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e75ee70f1a96aac4ff7277775bdb967add776587d9a99ee2fcf9b3ba934167e9",
+  "markdown_path": "pdf/ORNL-TM-13552/ORNL-TM-13552/hybrid_ocr/ORNL-TM-13552.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 73,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-master-copy",
+      "end_line": 6,
+      "heading": "ORNL Master Copy",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "strategy-for-the-future-use-and-disposition-of-uranium-233-technical-information",
+      "end_line": 26,
+      "heading": "Strategy for the Future Use and Disposition of Uranium-233: Technical Information",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "strategy-for-the-future-use-and-disposition-of-uranium-233-technical-information",
+      "end_line": 42,
+      "heading": "STRATEGY FOR THE FUTURE USE AND DISPOSITION OF URANIUM-233: TECHNICAL INFORMATION",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "contents",
+      "end_line": 44,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 46,
+      "heading": "List Of Figures.",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 58,
+      "heading": "List Of Tables",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "1-1-neutron-bombardment-of-thorium-1",
+      "end_line": 60,
+      "heading": "1.1 NEUTRON BOMBARDMENT OF THORIUM 1",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "1-3-radioactive-decay-of-neptunium-2",
+      "end_line": 62,
+      "heading": "1.3 RADIOACTIVE DECAY OF NEPTUNIUM 2",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "2-decay-chains-3",
+      "end_line": 63,
+      "heading": "2. DECAY CHAINS 3",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "3-characteristics-7",
+      "end_line": 65,
+      "heading": "3.Characteristics 7",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "3-1-chemical-and-physical-properties-7",
+      "end_line": 72,
+      "heading": "3.1 CHEMICAL AND PHYSICAL PROPERTIES 7",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "3-2-radilogical-properties-8",
+      "end_line": 77,
+      "heading": "3.2 RADILOGICAL PROPERTIES 8",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "3-3-biological-effects-14",
+      "end_line": 78,
+      "heading": "3.3 BIOLOGICAL EFFECTS 14",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "3-4-nuclear-criticality-17",
+      "end_line": 80,
+      "heading": "3.4 NUCLEAR CRITICALITY 17",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "4-storage-requirements-21",
+      "end_line": 82,
+      "heading": "4. STORAGE REQUIREMENTS 21",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "4-1-material-form-21",
+      "end_line": 83,
+      "heading": "4.1 MATERIAL FORM 21",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "4-2-packaging-22",
+      "end_line": 84,
+      "heading": "4.2 PACKAGING 22",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "4-3-confinement-22",
+      "end_line": 85,
+      "heading": "4.3 CONFINEMENT 22",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "4-4-criticality-control-23",
+      "end_line": 86,
+      "heading": "4.4 CRITICALITY CONTROL 23",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "4-5-shielding-24",
+      "end_line": 87,
+      "heading": "4.5 SHIELDING 24",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "4-6-safeguards-26",
+      "end_line": 95,
+      "heading": "4.6 SAFEGUARDS 26",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "5-1-radioactive-waste-classification-31",
+      "end_line": 96,
+      "heading": "5.1 RADIOACTIVE WASTE CLASSIFICATION 31",
+      "level": 2,
+      "start_line": 96
+    },
+    {
+      "anchor": "5-2-classification-and-disposal-as-hazardous-waste-32",
+      "end_line": 98,
+      "heading": "5.2 CLASSIFICATION AND DISPOSAL AS HAZARDOUS WASTE 32",
+      "level": 2,
+      "start_line": 97
+    },
+    {
+      "anchor": "5-3-radioactive-waste-disposal-options-33",
+      "end_line": 105,
+      "heading": "5.3 RADIOACTIVE WASTE DISPOSAL OPTIONS 33",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "5-5-nuclear-criticality-36",
+      "end_line": 110,
+      "heading": "5.5 NUCLEAR CRITICALITY 36",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "6-references-39",
+      "end_line": 112,
+      "heading": "6.References 39",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 121,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 135,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "acronyms-and-abbreviations",
+      "end_line": 199,
+      "heading": "ACRONYMS AND ABBREVIATIONS",
+      "level": 1,
+      "start_line": 136
+    },
+    {
+      "anchor": "chemical-elements",
+      "end_line": 249,
+      "heading": "CHEMICAL ELEMENTS",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "preface",
+      "end_line": 263,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "executive-summary",
+      "end_line": 293,
+      "heading": "EXECUTIVE SUMMARY",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "1-methods-of-233-mathrm-u-production-or-formation",
+      "end_line": 297,
+      "heading": "1. METHODS OF $^{233}\\mathrm{U}$ PRODUCTION OR FORMATION",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "1-1-neutron-bombardment-of-thorium",
+      "end_line": 307,
+      "heading": "1.1 NEUTRON BOMBARDMENT OF THORIUM",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "1-2-contamination-levels-of-232-mathrm-u-in-233-mathrm-u",
+      "end_line": 323,
+      "heading": "1.2 CONTAMINATION LEVELS OF $^{232}\\mathrm{U}$ IN $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "1-3-radioactive-decay-of-neptunium",
+      "end_line": 327,
+      "heading": "1.3 RADIOACTIVE DECAY OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 324
+    },
+    {
+      "anchor": "2-decay-chains",
+      "end_line": 357,
+      "heading": "2. DECAY CHAINS",
+      "level": 1,
+      "start_line": 328
+    },
+    {
+      "anchor": "3-characteristics",
+      "end_line": 359,
+      "heading": "3. CHARACTERISTICS",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "3-1-chemical-and-physical-properties",
+      "end_line": 363,
+      "heading": "3.1 CHEMICAL AND PHYSICAL PROPERTIES",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "3-1-1-uranium-metal",
+      "end_line": 369,
+      "heading": "3.1.1 Uranium Metal",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "3-1-2-uranium-oxides",
+      "end_line": 379,
+      "heading": "3.1.2 Uranium Oxides",
+      "level": 1,
+      "start_line": 370
+    },
+    {
+      "anchor": "3-1-3-uranium-fluorides",
+      "end_line": 383,
+      "heading": "3.1.3 Uranium Fluorides",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "3-1-4-uranyl-nitrate",
+      "end_line": 387,
+      "heading": "3.1.4 Uranyl Nitrate",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "3-2-radiological-properties",
+      "end_line": 391,
+      "heading": "3.2 RADIOLOGICAL PROPERTIES",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "3-2-1-comparison-of-232-mathbf-u-and-233-mathbf-u",
+      "end_line": 402,
+      "heading": "3.2.1 Comparison of $^{232}\\mathbf{U}$ and $^{233}\\mathbf{U}$",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "3-2-2-comparison-with-other-isotopes",
+      "end_line": 432,
+      "heading": "3.2.2 Comparison with Other Isotopes",
+      "level": 1,
+      "start_line": 403
+    },
+    {
+      "anchor": "3-3-biological-effects",
+      "end_line": 464,
+      "heading": "3.3 BIOLOGICAL EFFECTS",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "3-4-nuclear-criticality",
+      "end_line": 504,
+      "heading": "3.4 NUCLEAR CRITICALITY",
+      "level": 1,
+      "start_line": 465
+    },
+    {
+      "anchor": "4-storage-requirements",
+      "end_line": 508,
+      "heading": "4. STORAGE REQUIREMENTS",
+      "level": 1,
+      "start_line": 505
+    },
+    {
+      "anchor": "4-1-material-form",
+      "end_line": 516,
+      "heading": "4.1 MATERIAL FORM",
+      "level": 1,
+      "start_line": 509
+    },
+    {
+      "anchor": "4-2-packaging",
+      "end_line": 524,
+      "heading": "4.2 PACKAGING",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "4-3-confinement",
+      "end_line": 538,
+      "heading": "4.3 CONFINEMENT",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "4-4-criticality-control",
+      "end_line": 552,
+      "heading": "4.4 CRITICALITY CONTROL",
+      "level": 1,
+      "start_line": 539
+    },
+    {
+      "anchor": "4-5-shielding",
+      "end_line": 560,
+      "heading": "4.5 SHIELDING",
+      "level": 1,
+      "start_line": 553
+    },
+    {
+      "anchor": "ornl-dwg-98-3898",
+      "end_line": 565,
+      "heading": "Ornl Dwg 98-3898",
+      "level": 2,
+      "start_line": 561
+    },
+    {
+      "anchor": "4-6-safeguards",
+      "end_line": 576,
+      "heading": "4.6 SAFEGUARDS",
+      "level": 1,
+      "start_line": 566
+    },
+    {
+      "anchor": "4-6-1-doe-requirements",
+      "end_line": 590,
+      "heading": "4.6.1 DOE Requirements",
+      "level": 1,
+      "start_line": 577
+    },
+    {
+      "anchor": "4-6-2-iaea-requirements",
+      "end_line": 610,
+      "heading": "4.6.2 IAEA Requirements",
+      "level": 1,
+      "start_line": 591
+    },
+    {
+      "anchor": "4-6-3-elimination-of-weapons-potential",
+      "end_line": 616,
+      "heading": "4.6.3 Elimination of Weapons Potential",
+      "level": 1,
+      "start_line": 611
+    },
+    {
+      "anchor": "5-disposal-requirements-for-233-mathrm-u-declared-as-waste",
+      "end_line": 620,
+      "heading": "5. DISPOSAL REQUIREMENTS FOR $^{233}\\mathrm{U}$ DECLARED AS WASTE",
+      "level": 1,
+      "start_line": 617
+    },
+    {
+      "anchor": "5-1-radioactive-waste-classification",
+      "end_line": 636,
+      "heading": "5.1 RADIOACTIVE WASTE CLASSIFICATION",
+      "level": 1,
+      "start_line": 621
+    },
+    {
+      "anchor": "5-2-classification-and-disposal-as-hazardous-waste",
+      "end_line": 652,
+      "heading": "5.2 CLASSIFICATION AND DISPOSAL AS HAZARDOUS WASTE",
+      "level": 1,
+      "start_line": 637
+    },
+    {
+      "anchor": "5-3-radioactive-waste-disposal-options",
+      "end_line": 656,
+      "heading": "5.3 RADIOACTIVE WASTE DISPOSAL OPTIONS",
+      "level": 1,
+      "start_line": 653
+    },
+    {
+      "anchor": "5-3-1-near-surface-disposal-of-llw",
+      "end_line": 670,
+      "heading": "5.3.1 Near-Surface Disposal of LLW",
+      "level": 1,
+      "start_line": 657
+    },
+    {
+      "anchor": "5-3-2-alternatives-to-near-surface-disposal",
+      "end_line": 684,
+      "heading": "5.3.2 Alternatives to Near-Surface Disposal",
+      "level": 1,
+      "start_line": 671
+    },
+    {
+      "anchor": "5-4-mixing-of-233-mathrm-u-with-other-wastes",
+      "end_line": 694,
+      "heading": "5.4 MIXING OF $^{233}\\mathrm{U}$ WITH OTHER WASTES",
+      "level": 1,
+      "start_line": 685
+    },
+    {
+      "anchor": "5-5-nuclear-criticality",
+      "end_line": 696,
+      "heading": "5.5 NUCLEAR CRITICALITY",
+      "level": 1,
+      "start_line": 695
+    },
+    {
+      "anchor": "5-5-1-need-to-avoid-criticality",
+      "end_line": 708,
+      "heading": "5.5.1 Need to Avoid Criticality",
+      "level": 1,
+      "start_line": 697
+    },
+    {
+      "anchor": "5-5-2-nuclear-criticality-control-by-isotopic-dilution",
+      "end_line": 735,
+      "heading": "5.5.2 Nuclear Criticality Control by Isotopic Dilution",
+      "level": 1,
+      "start_line": 709
+    },
+    {
+      "anchor": "6-references",
+      "end_line": 789,
+      "heading": "6. REFERENCES",
+      "level": 1,
+      "start_line": 736
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 855,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 790
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 956,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 856
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-13552",
+  "tables": [],
+  "title": "OAK RIDGE NATIONAL LABORATORY",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "materials-and-corrosion",
+    "fuel-processing-and-reprocessing",
+    "irradiation-and-damage",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "authors": [
+    "UNION",
+    "CARBIDE",
+    "P. G. Smith",
+    "NOTICE",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-79.jsonl",
+  "date_text": "1962",
+  "doc_id": "ornl-tm-79",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 63,
+        "line_hits": [
+          18,
+          43,
+          77,
+          91,
+          97,
+          109,
+          115,
+          153,
+          171,
+          177,
+          187,
+          189,
+          191,
+          193,
+          195,
+          199,
+          201,
+          203,
+          207,
+          210,
+          218,
+          222,
+          226,
+          227,
+          236,
+          237,
+          241,
+          247,
+          267,
+          284,
+          288,
+          296,
+          298,
+          302,
+          304,
+          308,
+          314,
+          327,
+          339,
+          341,
+          361,
+          363,
+          369,
+          389,
+          391,
+          397,
+          399,
+          408,
+          420,
+          423
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          79,
+          154,
+          155,
+          199,
+          205,
+          207,
+          213,
+          216,
+          218
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          3,
+          10,
+          24,
+          35,
+          51,
+          189,
+          453,
+          454,
+          455,
+          458,
+          799,
+          801
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          8,
+          61
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          6,
+          57
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 14,
+        "line_hits": [
+          177,
+          224,
+          314,
+          316,
+          327,
+          331,
+          339,
+          355,
+          357,
+          359,
+          383,
+          420,
+          449,
+          458
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          18,
+          43,
+          177,
+          187,
+          195,
+          361,
+          389,
+          445,
+          455,
+          507,
+          518,
+          524
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          457
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "93cb53877d4eee67c7ad4091a5ba74e1f659bc60db4d1bb1cef50129d2453f57",
+  "markdown_path": "pdf/ORNL-TM-0079/ORNL-TM-0079/hybrid_ocr/ORNL-TM-0079.md",
+  "report_number": "ORNL-TM-79",
+  "report_numbers": [
+    "ORNL-TM-79"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 56,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 7,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 9,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 8
+    },
+    {
+      "anchor": "ornl-tm-79",
+      "end_line": 13,
+      "heading": "Ornl-Tm-79",
+      "level": 2,
+      "start_line": 10
+    },
+    {
+      "anchor": "union",
+      "end_line": 15,
+      "heading": "Union",
+      "level": 2,
+      "start_line": 14
+    },
+    {
+      "anchor": "carbide",
+      "end_line": 17,
+      "heading": "Carbide",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "water-test-development-of-the-fuel-pump-for-the-msre",
+      "end_line": 21,
+      "heading": "Water Test Development Of The Fuel Pump For The Msre",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "notice",
+      "end_line": 25,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 22
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 34,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 26
+    },
+    {
+      "anchor": "ornl-tm-79",
+      "end_line": 42,
+      "heading": "Ornl-Tm-79",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "water-test-development-of-the-fuel-pump-for-the-msre",
+      "end_line": 46,
+      "heading": "Water Test Development Of The Fuel Pump For The Msre",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 48,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "mar-27-1962",
+      "end_line": 50,
+      "heading": "Mar 27 1962",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 56,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 60,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 64,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "contents",
+      "end_line": 146,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 148,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "fig-no-captions",
+      "end_line": 174,
+      "heading": "Fig. No. Captions",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 184,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 196,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "experimental-apparatus",
+      "end_line": 200,
+      "heading": "EXPERIMENTAL APPARATUS",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "pump",
+      "end_line": 204,
+      "heading": "Pump",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "test-loop",
+      "end_line": 219,
+      "heading": "Test Loop",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "carbon-dioxide-stripping-devices",
+      "end_line": 238,
+      "heading": "Carbon Dioxide Stripping Devices",
+      "level": 1,
+      "start_line": 220
+    },
+    {
+      "anchor": "instrumentation",
+      "end_line": 268,
+      "heading": "INSTRUMENTATION",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "description-of-tests",
+      "end_line": 270,
+      "heading": "DESCRIPTION OF TESTS",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "head-flow-power-speed-performance",
+      "end_line": 274,
+      "heading": "Head-Flow-Power-Speed Performance",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "carbon-dioxide-stripping-tests",
+      "end_line": 283,
+      "heading": "Carbon Dioxide Stripping Tests",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "pump-tank-liquid-and-gas-behavior",
+      "end_line": 285,
+      "heading": "Pump Tank Liquid and Gas Behavior",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "fountain-flow",
+      "end_line": 291,
+      "heading": "Fountain Flow",
+      "level": 1,
+      "start_line": 286
+    },
+    {
+      "anchor": "stripper-flow",
+      "end_line": 295,
+      "heading": "Stripper Flow",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "gas-bubble-behavior-in-the-pump-tank-volume",
+      "end_line": 299,
+      "heading": "Gas Bubble Behavior in the Pump Tank Volume",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "priming",
+      "end_line": 305,
+      "heading": "Priming",
+      "level": 1,
+      "start_line": 300
+    },
+    {
+      "anchor": "coastdown-characteristics",
+      "end_line": 309,
+      "heading": "Coastdown Characteristics",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "test-results",
+      "end_line": 311,
+      "heading": "TEST RESULTS",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "head-flow-power-speed-performance",
+      "end_line": 332,
+      "heading": "Head-Flow-Power-Speed Performance",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "carbon-dioxide-stripping-effectiveness",
+      "end_line": 362,
+      "heading": "Carbon Dioxide Stripping Effectiveness",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "pump-tank-liquid-and-gas-behavior",
+      "end_line": 364,
+      "heading": "Pump Tank Liquid and Gas Behavior",
+      "level": 1,
+      "start_line": 363
+    },
+    {
+      "anchor": "fountain-flow",
+      "end_line": 392,
+      "heading": "Fountain Flow",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "stripper-flow",
+      "end_line": 396,
+      "heading": "Stripper Flow",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "gas-bubble-behavior-in-the-pump-tank-volume",
+      "end_line": 405,
+      "heading": "Gas Bubble Behavior in the Pump Tank Volume",
+      "level": 1,
+      "start_line": 397
+    },
+    {
+      "anchor": "priming",
+      "end_line": 428,
+      "heading": "Priming",
+      "level": 1,
+      "start_line": 406
+    },
+    {
+      "anchor": "coastdown-characteristics",
+      "end_line": 432,
+      "heading": "Coastdown Characteristics",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 446,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 450,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 447
+    },
+    {
+      "anchor": "references",
+      "end_line": 464,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 451
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 480,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 465
+    },
+    {
+      "anchor": "c",
+      "end_line": 482,
+      "heading": "C",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 494,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 483
+    },
+    {
+      "anchor": "c",
+      "end_line": 529,
+      "heading": "C",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "computations",
+      "end_line": 531,
+      "heading": "COMPUTATIONS",
+      "level": 1,
+      "start_line": 530
+    },
+    {
+      "anchor": "table-i",
+      "end_line": 581,
+      "heading": "Table I.",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 679,
+      "heading": "Table II.",
+      "level": 1,
+      "start_line": 582
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 753,
+      "heading": "Table III.",
+      "level": 1,
+      "start_line": 680
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 802,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 807,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 803
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0079",
+  "tables": [],
+  "title": "![](images/318b55dffd14b7a896f070323403174911f6eb9d765918c76965b0daa540f4c7.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "off-gas-fission-products-and-tritium",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

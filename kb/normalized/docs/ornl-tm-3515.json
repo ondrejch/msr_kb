@@ -1,0 +1,554 @@
+{
+  "authors": [
+    "UNION CARBIDE",
+    "J. P. Nichols",
+    "F. T. Binford",
+    "CENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION",
+    "LIBRARY LOAN COPY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3515.jsonl",
+  "date_text": "1971",
+  "doc_id": "ornl-tm-3515",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 15,
+        "line_hits": [
+          129,
+          330,
+          338,
+          350,
+          352,
+          393,
+          408,
+          415,
+          417,
+          421,
+          500,
+          514,
+          520,
+          522,
+          524
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          350
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 17,
+        "line_hits": [
+          3,
+          19,
+          29,
+          75,
+          342,
+          408,
+          410,
+          441,
+          508,
+          513,
+          521,
+          524,
+          525,
+          529,
+          533,
+          538,
+          540
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          13,
+          59,
+          85,
+          139,
+          435,
+          509,
+          522,
+          528,
+          540,
+          541,
+          543,
+          579
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          7,
+          11,
+          49,
+          81,
+          332,
+          573
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          320,
+          559
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          564
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 34,
+        "line_hits": [
+          127,
+          129,
+          135,
+          137,
+          139,
+          141,
+          247,
+          279,
+          287,
+          289,
+          296,
+          304,
+          308,
+          312,
+          318,
+          320,
+          324,
+          346,
+          350,
+          352,
+          361,
+          374,
+          376,
+          385,
+          393,
+          421,
+          437,
+          439,
+          452,
+          458,
+          476,
+          480,
+          492,
+          496
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f44f2be0fa3667ba7f18483756da41bf25d84a6f0cb7332c40f6c44d2db0c99e",
+  "markdown_path": "pdf/ORNL-TM-3515/ORNL-TM-3515/hybrid_ocr/ORNL-TM-3515.md",
+  "report_number": "ORNL-TM-3515",
+  "report_numbers": [
+    "ORNL-TM-3515"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 53,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation-nuclear-division",
+      "end_line": 10,
+      "heading": "Union Carbide Corporation • Nuclear Division",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "union-carbide",
+      "end_line": 12,
+      "heading": "Union Carbide",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 18,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-tm-3515",
+      "end_line": 22,
+      "heading": "Ornl-Tm-3515",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "status-of-noble-gas-removal-and-disposal",
+      "end_line": 28,
+      "heading": "Status Of Noble Gas Removal And Disposal",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 30,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 32,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 34,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 36,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 44,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "ucn-7969",
+      "end_line": 46,
+      "heading": "Ucn-7969",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "caution",
+      "end_line": 62,
+      "heading": "CAUTION",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 64,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "status-of-noble-gas-removal-and-disposal",
+      "end_line": 72,
+      "heading": "Status Of Noble Gas Removal And Disposal",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "august-1971",
+      "end_line": 74,
+      "heading": "August 1971",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 80,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 84,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 86,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "contents",
+      "end_line": 88,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 124,
+      "heading": "Abstract 1",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 132,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 142,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "2-effects-of-releases-of-noble-gases-to-the-atmosphere",
+      "end_line": 305,
+      "heading": "2. EFFECTS OF RELEASES OF NOBLE GASES TO THE ATMOSPHERE",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "3-review-of-processes-for-holdup-and-recovery",
+      "end_line": 309,
+      "heading": "3. REVIEW OF PROCESSES FOR HOLDUP AND RECOVERY",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "3-1-charcoal-adsorption-at-ambient-temperature",
+      "end_line": 321,
+      "heading": "3.1 Charcoal Adsorption at Ambient Temperature",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "3-2-cryogenic-adsorption",
+      "end_line": 325,
+      "heading": "3.2 Cryogenic Adsorption",
+      "level": 1,
+      "start_line": 322
+    },
+    {
+      "anchor": "3-3-cryogenic-distillation",
+      "end_line": 335,
+      "heading": "3.3 Cryogenic Distillation",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "3-4-selective-absorption",
+      "end_line": 339,
+      "heading": "3.4 Selective Absorption",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "3-5-permselective-membranes",
+      "end_line": 343,
+      "heading": "3.5 Permselective Membranes",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "3-6-clathrate-precipitation",
+      "end_line": 347,
+      "heading": "3.6 Clathrate Precipitation",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "4-cryogenic-distillation-process",
+      "end_line": 364,
+      "heading": "4. CRYOGENIC DISTILLATION PROCESS",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "5-fluorocarbon-adsorption-process",
+      "end_line": 379,
+      "heading": "5. FLUOROCARBON ADSORPTION PROCESS",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "dwg-no-g-68-520",
+      "end_line": 386,
+      "heading": "Dwg.No.G-68-520",
+      "level": 2,
+      "start_line": 380
+    },
+    {
+      "anchor": "6-conceptual-systems-for-recovery-of-noble-gases",
+      "end_line": 390,
+      "heading": "6. CONCEPTUAL SYSTEMS FOR RECOVERY OF NOBLE GASES",
+      "level": 1,
+      "start_line": 387
+    },
+    {
+      "anchor": "6-1-boiling-water-reactors",
+      "end_line": 405,
+      "heading": "6.1 Boiling Water Reactors",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "6-2-fuel-reprocessing-plant",
+      "end_line": 409,
+      "heading": "6.2 Fuel Reprocessing Plant",
+      "level": 1,
+      "start_line": 406
+    },
+    {
+      "anchor": "ornl-dwg-71-6244",
+      "end_line": 418,
+      "heading": "Ornl Dwg 71-6244",
+      "level": 2,
+      "start_line": 410
+    },
+    {
+      "anchor": "6-3-summary-of-conceptual-disposition-of-noble-gases-at-nuclear-facilities",
+      "end_line": 432,
+      "heading": "6.3 Summary of Conceptual Disposition of Noble Gases at Nuclear Facilities",
+      "level": 1,
+      "start_line": 419
+    },
+    {
+      "anchor": "7-shipment-of-noble-gases",
+      "end_line": 440,
+      "heading": "7. SHIPMENT OF NOBLE GASES",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "ornl-dwg-71-3839",
+      "end_line": 449,
+      "heading": "Ornl-Dwg-71-3839",
+      "level": 2,
+      "start_line": 441
+    },
+    {
+      "anchor": "8-methods-for-long-term-storage",
+      "end_line": 453,
+      "heading": "8. METHODS FOR LONG-TERM STORAGE",
+      "level": 1,
+      "start_line": 450
+    },
+    {
+      "anchor": "8-1-storage-of-cylinders-in-surface-volumes",
+      "end_line": 461,
+      "heading": "8.1 Storage of Cylinders in Surface Volumes",
+      "level": 1,
+      "start_line": 454
+    },
+    {
+      "anchor": "favorable",
+      "end_line": 467,
+      "heading": "Favorable",
+      "level": 1,
+      "start_line": 462
+    },
+    {
+      "anchor": "unfavorable",
+      "end_line": 473,
+      "heading": "Unfavorable",
+      "level": 1,
+      "start_line": 468
+    },
+    {
+      "anchor": "8-2-burial-of-cylinders",
+      "end_line": 477,
+      "heading": "8.2 Burial of Cylinders",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "8-3-injection-into-porous-underground-formations",
+      "end_line": 481,
+      "heading": "8.3 Injection into Porous Underground Formations",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "8-4-relatively-unfavorable-storage-methods",
+      "end_line": 493,
+      "heading": "8.4 Relatively Unfavorable Storage Methods",
+      "level": 1,
+      "start_line": 482
+    },
+    {
+      "anchor": "9-conclusions",
+      "end_line": 503,
+      "heading": "9. CONCLUSIONS",
+      "level": 1,
+      "start_line": 494
+    },
+    {
+      "anchor": "10-references",
+      "end_line": 534,
+      "heading": "10. REFERENCES",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 535,
+      "heading": "Internal Distribution",
+      "level": 2,
+      "start_line": 535
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 542,
+      "heading": "External Distribution",
+      "level": 2,
+      "start_line": 536
+    },
+    {
+      "anchor": "aec-washington",
+      "end_line": 579,
+      "heading": "AEC Washington",
+      "level": 1,
+      "start_line": 543
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3515",
+  "tables": [],
+  "title": "![](images/46785f719ed322df1d3231efbf1b4aa2ffb583b40ccdad98ccec481faa6f565c.jpg)",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "irradiation-and-damage",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

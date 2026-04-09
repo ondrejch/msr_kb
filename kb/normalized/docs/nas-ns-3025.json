@@ -1,0 +1,703 @@
+{
+  "authors": [
+    "Academy",
+    "Sciences",
+    "National Research Council",
+    "NUCLEAR SCIENCE SERIES",
+    "COMMITTEE ON NUCLEAR SCIENCE",
+    "L.F.CURTISS",
+    "Chairman"
+  ],
+  "claims_path": "kb/normalized/claims/nas-ns-3025.jsonl",
+  "date_text": "October 1980",
+  "doc_id": "nas-ns-3025",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          706
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          771
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          311
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 12,
+        "line_hits": [
+          329,
+          389,
+          512,
+          530,
+          542,
+          544,
+          546,
+          556,
+          606,
+          614,
+          650,
+          690
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          329,
+          439
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          17,
+          83,
+          202,
+          717,
+          738
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          37,
+          111,
+          718,
+          762
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          135,
+          141,
+          173,
+          258
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          127,
+          785
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          85
+        ],
+        "name": "US Air Force"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 89,
+        "line_hits": [
+          212,
+          293,
+          295,
+          297,
+          299,
+          301,
+          303,
+          305,
+          309,
+          311,
+          315,
+          317,
+          319,
+          323,
+          325,
+          329,
+          337,
+          341,
+          343,
+          345,
+          347,
+          351,
+          353,
+          355,
+          361,
+          363,
+          365,
+          371,
+          373,
+          375,
+          377,
+          381,
+          385,
+          389,
+          391,
+          399,
+          407,
+          413,
+          419,
+          423,
+          427,
+          429,
+          431,
+          433,
+          435,
+          437,
+          441,
+          447,
+          449,
+          455
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "dc723aa7bcb32d4897d479237c1e92b0fcf0c056dc6a305456346a77e52ba4d2",
+  "markdown_path": "pdf/NAS-NS-3025/NAS-NS-3025/hybrid_ocr/NAS-NS-3025.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "nas-ns-series",
+  "section_count": 72,
+  "sections": [
+    {
+      "anchor": "nuclear-science-series",
+      "end_line": 12,
+      "heading": "Nuclear Science Series",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "the-radiochemistry-of-the-rare-gases",
+      "end_line": 18,
+      "heading": "The Radiochemistry of the Rare Gases",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "committee-on-nuclear-science",
+      "end_line": 32,
+      "heading": "COMMITTEE ON NUCLEAR SCIENCE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "c-j-borkowski",
+      "end_line": 34,
+      "heading": "C.J.Borkowski",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "j-w-irvine-jr",
+      "end_line": 40,
+      "heading": "J.W.Irvine, Jr.",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "robert-g-cochran",
+      "end_line": 42,
+      "heading": "Robert G. Cochran",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "e-d-klema",
+      "end_line": 48,
+      "heading": "E.D.Klema",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "samuel-epstein",
+      "end_line": 50,
+      "heading": "Samuel Epstein",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "w-wayne-meinke",
+      "end_line": 56,
+      "heading": "W. Wayne Meinke",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "u-fano",
+      "end_line": 58,
+      "heading": "U. Fano",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "j-j-nickson",
+      "end_line": 64,
+      "heading": "J. J. Nickson",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "herbert-goldstein",
+      "end_line": 66,
+      "heading": "Herbert Goldstein",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "robert-l-platzman",
+      "end_line": 72,
+      "heading": "Robert L. Platzman",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "d-m-van-pattern",
+      "end_line": 76,
+      "heading": "D. M. Van Pattern",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "liaison-members",
+      "end_line": 78,
+      "heading": "LIAISON MEMBERS",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "paul-c-aebersold",
+      "end_line": 80,
+      "heading": "Paul C. Aebersold",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "charles-k-reed",
+      "end_line": 88,
+      "heading": "Charles K. Reed",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "william-e-wright",
+      "end_line": 94,
+      "heading": "William E. Wright",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "subcommittee-on-radiochemistry",
+      "end_line": 98,
+      "heading": "SUBCOMMITTEE ON RADIOCHEMISTRY",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "harold-kirby",
+      "end_line": 104,
+      "heading": "Harold Kirby",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "gregory-r-choppin",
+      "end_line": 106,
+      "heading": "Gregory R. Choppin",
+      "level": 2,
+      "start_line": 105
+    },
+    {
+      "anchor": "georgeleddicotte",
+      "end_line": 112,
+      "heading": "Georgeleddicotte",
+      "level": 2,
+      "start_line": 107
+    },
+    {
+      "anchor": "george-a-cowan",
+      "end_line": 114,
+      "heading": "George A. Cowan",
+      "level": 2,
+      "start_line": 113
+    },
+    {
+      "anchor": "julian-nielsen",
+      "end_line": 120,
+      "heading": "Julian Nielsen",
+      "level": 2,
+      "start_line": 115
+    },
+    {
+      "anchor": "arthur-w-fairhall",
+      "end_line": 122,
+      "heading": "Arthur W. Fairhall",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "ellis-p-steinberg",
+      "end_line": 128,
+      "heading": "Ellis P. Steinberg",
+      "level": 2,
+      "start_line": 123
+    },
+    {
+      "anchor": "jerome-hudis",
+      "end_line": 130,
+      "heading": "Jerome Hudis",
+      "level": 2,
+      "start_line": 129
+    },
+    {
+      "anchor": "peter-c-stevenson",
+      "end_line": 136,
+      "heading": "Peter C. Stevenson",
+      "level": 2,
+      "start_line": 131
+    },
+    {
+      "anchor": "earl-hyde",
+      "end_line": 138,
+      "heading": "Earl Hyde",
+      "level": 2,
+      "start_line": 137
+    },
+    {
+      "anchor": "leo-yaffe",
+      "end_line": 144,
+      "heading": "Leo Yaffe",
+      "level": 2,
+      "start_line": 139
+    },
+    {
+      "anchor": "consultants",
+      "end_line": 146,
+      "heading": "CONSULTANTS",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "nathan-ballou",
+      "end_line": 156,
+      "heading": "Nathan Ballou",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "william-marlow",
+      "end_line": 166,
+      "heading": "William Marlow",
+      "level": 2,
+      "start_line": 157
+    },
+    {
+      "anchor": "the-radiochemistry-of-the-rare-gases",
+      "end_line": 178,
+      "heading": "The Radiochemistry of the Rare Gases",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "los-alamos",
+      "end_line": 179,
+      "heading": "Los Alamos",
+      "level": 2,
+      "start_line": 179
+    },
+    {
+      "anchor": "scientific-laboratory",
+      "end_line": 181,
+      "heading": "Scientific Laboratory",
+      "level": 2,
+      "start_line": 180
+    },
+    {
+      "anchor": "apr-6-1981",
+      "end_line": 183,
+      "heading": "Apr-6 1981",
+      "level": 2,
+      "start_line": 182
+    },
+    {
+      "anchor": "libraries",
+      "end_line": 185,
+      "heading": "Libraries",
+      "level": 2,
+      "start_line": 184
+    },
+    {
+      "anchor": "property",
+      "end_line": 193,
+      "heading": "Property",
+      "level": 2,
+      "start_line": 186
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 207,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 194
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 217,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "contents",
+      "end_line": 253,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "the-radiochemistry-of-the-rare-gases",
+      "end_line": 255,
+      "heading": "The Radiochemistry of the Rare Gases",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "floyd-f-momyer-jr",
+      "end_line": 260,
+      "heading": "Floyd F. Momyer, Jr.",
+      "level": 2,
+      "start_line": 256
+    },
+    {
+      "anchor": "i-general-references-pertinent-to-rare-gas-radiochemistry",
+      "end_line": 273,
+      "heading": "I. GENERAL REFERENCES PERTINENT TO RARE GAS RADIOCHEMISTRY",
+      "level": 2,
+      "start_line": 261
+    },
+    {
+      "anchor": "ii-table-of-isotopes-of-helium-neon-argon",
+      "end_line": 274,
+      "heading": "II. TABLE OF ISOTOPES OF HELIUM, NEON, ARGON",
+      "level": 2,
+      "start_line": 274
+    },
+    {
+      "anchor": "kcrypton-xenon-and-radon",
+      "end_line": 290,
+      "heading": "Kcrypton, Xenon And Radon.\\*",
+      "level": 2,
+      "start_line": 275
+    },
+    {
+      "anchor": "iii-review-of-features-of-interest-in-rare-gas-radiochemistry",
+      "end_line": 356,
+      "heading": "III. REVIEW OF FEATURES OF INTEREST IN RARE GAS RADIOCHEMISTRY",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "adsorption-and-adsorption-techniques",
+      "end_line": 452,
+      "heading": "Adsorption and Adsorption Techniques",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "iv-sample-solution-and-exchange-with-carriers",
+      "end_line": 468,
+      "heading": "IV. SAMPLE SOLUTION AND EXCHANGE WITH CARRIERS",
+      "level": 1,
+      "start_line": 453
+    },
+    {
+      "anchor": "v-counting-rare-gas-activities",
+      "end_line": 501,
+      "heading": "V. COUNTING RARE GAS ACTIVITIES",
+      "level": 1,
+      "start_line": 469
+    },
+    {
+      "anchor": "vi-collection-of-radiochemical-procedures-for-the-rare-gases",
+      "end_line": 507,
+      "heading": "VI. COLLECTION OF RADIOCHEMICAL PROCEDURES FOR THE RARE GASES",
+      "level": 1,
+      "start_line": 502
+    },
+    {
+      "anchor": "procedure-1-removal-of-kr-and-xe-from-air-and-their-subsequent-separation",
+      "end_line": 516,
+      "heading": "PROCEDURE 1-REMOVAL OF Kr AND Xe FROM AIR AND THEIR SUBSEQUENT SEPARATION",
+      "level": 1,
+      "start_line": 508
+    },
+    {
+      "anchor": "procedure-1-continued",
+      "end_line": 535,
+      "heading": "PROCEDURE 1 (Continued)",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "procedure-1-continued",
+      "end_line": 553,
+      "heading": "PROCEDURE 1 (Continued)",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "comments",
+      "end_line": 557,
+      "heading": "Comments",
+      "level": 1,
+      "start_line": 554
+    },
+    {
+      "anchor": "procedure-1-continued",
+      "end_line": 565,
+      "heading": "PROCEDURE 1 (Continued)",
+      "level": 1,
+      "start_line": 558
+    },
+    {
+      "anchor": "procedure-1a-removal-and-separation-of-kr-and-xe-fission-products-from-u235-targets",
+      "end_line": 581,
+      "heading": "PROCEDURE 1A - REMOVAL AND SEPARATION OF Kr AND Xe FISSION PRODUCTS FROM U235 TARGETS",
+      "level": 1,
+      "start_line": 566
+    },
+    {
+      "anchor": "procedure-1a-continued",
+      "end_line": 586,
+      "heading": "PROCEDURE 1A (Continued)",
+      "level": 1,
+      "start_line": 582
+    },
+    {
+      "anchor": "notes",
+      "end_line": 593,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 587
+    },
+    {
+      "anchor": "procedure-2-the-extraction-purification-and-industrial-uses-of-kr-sup-85-sup",
+      "end_line": 617,
+      "heading": "PROCEDURE 2 - THE EXTRACTION, PURIFICATION AND INDUSTRIAL USES OF Kr<sup>85</sup>",
+      "level": 1,
+      "start_line": 594
+    },
+    {
+      "anchor": "notes",
+      "end_line": 625,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "procedure-3-rapid-removal-of-fission-product-kr-from-u-foil",
+      "end_line": 637,
+      "heading": "PROCEDURE 3 - RAPID REMOVAL OF FISSION PRODUCT Kr FROM U FOIL",
+      "level": 1,
+      "start_line": 626
+    },
+    {
+      "anchor": "procedure-4-recovery-of-fission-product-xe-from-u-metal",
+      "end_line": 653,
+      "heading": "PROCEDURE 4 - RECOVERY OF FISSION PRODUCT Xe FROM U METAL",
+      "level": 1,
+      "start_line": 638
+    },
+    {
+      "anchor": "note",
+      "end_line": 659,
+      "heading": "Note",
+      "level": 1,
+      "start_line": 654
+    },
+    {
+      "anchor": "procedure-5-rapid-removal-of-fission-product-xe-from-mathsf-u-mathsf-o-3-or-mathsf-u-mathsf-o-2-mathsf-no-3-2-cdot-6-mathsf-h-2-mathsf-o-targets",
+      "end_line": 667,
+      "heading": "PROCEDURE 5 - RAPID REMOVAL OF FISSION PRODUCT Xe FROM $\\mathsf{U}\\mathsf{O}_3$ OR $\\mathsf{U}\\mathsf{O}_2\\{\\mathsf{NO}_3\\}_2\\cdot 6\\mathsf{H}_2\\mathsf{O}$ TARGETS",
+      "level": 1,
+      "start_line": 660
+    },
+    {
+      "anchor": "procedure-6-separation-of-long-lived-fission-gases",
+      "end_line": 683,
+      "heading": "PROCEDURE 6 - SEPARATION OF LONG-LIVED FISSION GASES",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "procedure-7-removal-of-rn-from-th-targets-and-its-collection-on-the-cathode-of-a-discharge-tube",
+      "end_line": 691,
+      "heading": "PROCEDURE 7 - REMOVAL OF Rn FROM Th TARGETS AND ITS COLLECTION ON THE CATHODE OF A DISCHARGE TUBE",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "procedure-7-continued",
+      "end_line": 695,
+      "heading": "PROCEDURE 7 (Continued)",
+      "level": 1,
+      "start_line": 692
+    },
+    {
+      "anchor": "notes",
+      "end_line": 701,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 696
+    },
+    {
+      "anchor": "procedure-8-determination-of-active-gas-half-lives-by-the-charged-wire-technique-ii",
+      "end_line": 707,
+      "heading": "PROCEDURE 8 - DETERMINATION OF ACTIVE GAS HALF-LIVES BY THE CHARGED WIRE TECHNIQUE (II)",
+      "level": 1,
+      "start_line": 702
+    },
+    {
+      "anchor": "references",
+      "end_line": 798,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 708
+    }
+  ],
+  "source_dir": "pdf/NAS-NS-3025",
+  "tables": [],
+  "title": "National",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing",
+    "pumps-loops-and-heat-exchangers",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "safety-shielding-and-remote-maintenance",
+    "irradiation-and-damage"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

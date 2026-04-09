@@ -1,0 +1,176 @@
+# ART
+
+## Overview
+
+- Type: reactor
+- Documents: 116
+- First seen: April 17, 1950
+- Last seen: unknown
+
+## Topic Profile
+
+- reactor-operations (105)
+- pumps-loops-and-heat-exchangers (102)
+- materials-and-corrosion (95)
+- reactor-physics-neutronics (75)
+- safety-shielding-and-remote-maintenance (75)
+- salt-systems-and-thermophysics (70)
+- off-gas-fission-products-and-tritium (61)
+- salt-chemistry-and-redox (58)
+
+## Related Entities
+
+- ARE [reactor] (114)
+- ORNL [organization] (113)
+- AEC [organization] (108)
+- pump [component] (98)
+- heat exchanger [component] (96)
+- Union Carbide [organization] (96)
+- graphite [alloy-material] (88)
+- loop [component] (85)
+- nickel [alloy-material] (82)
+- beryllium [alloy-material] (78)
+- fluoride salt [salt-system] (76)
+- LiF [salt-system] (73)
+
+## Representative Claims
+
+- [[../documents/ornl-684.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - April 17, 1950
+  - However, as will be discussed in Part IV, the NEPA Division and its subcontractors appear to be having considerable success in developing oxidation-resistant ceramic coatings for temperatures to $2500^{\circ}\mathrm{F}$ in high-speed air.
+- [[../documents/ornl-684.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - April 17, 1950
+  - In the absence of adequate experimental shielding data, it is not yet possible to really define shield weight with accuracy; however, the large number of possibilities for at least partially reducing the weight which are mentioned above, give grounds for optimism that a 220,000 lb shield is adequate for a 4-foot reactor running at several hundred thousand KW.
+- [[../documents/ornl-684.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - April 17, 1950
+  - This status report was prepared in January, 1950, in answer to a specific list of questions submitted to the AEC by the Department of Defense.
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951
+  - 3) measurements were made starting from the surface of the last lead layer and proceeding outward in the water of the pool along the centerline.
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951
+  - 8), however, that the circulating fuel in the radiators and the associated plumbing may remain unshielded provided that sufficient neutron and gamma shielding is placed about the crew compartment, and also provided that the payload, and possibly other components, are protected by local shielding.
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951
+  - <table><tr><td>METAL</td><td>DEPTH OF METAL AFFECTED (in.)</td><td>EMBRITTLED</td><td>REMARKS</td></tr><tr><td>Iron (Globe)</td><td>0.000</td><td>No</td><td>No evidence of attack</td></tr><tr><td>Nickel A</td><td>0.000</td><td>No</td><td>No evidence of attack</td></tr><tr><td>Nickel Z</td><td>0.005</td><td>Yes</td><td>0.002-in. outer layer; gray constituent formed to depth of 0.005 in.</td></tr><tr><td>Inconel</td><td>0.003</td><td>No</td><td>Integranular penetration of gray constituent to 0.003 in.</td></tr><tr><td>Hastelloy B</td><td>0.020</td><td>Yes</td><td>0.002-in. outer layer, nitride needles throughout</td></tr><tr><td>Hastelloy C</td><td>0.003</td><td></td><td>0.003-in. outer layer only (nitride?)</td></tr><tr><td>Nichrome V</td><td>0.005</td><td>No</td><td>0.001-in. outer layer; carburized to 0.005 in.</td></tr><tr><td>Uranium</td><td>0.01</td><td></td><td>Appreciable solution</td></tr><tr><td>Beryllium</td><td>0.002</td><td></td><td>Gray layer formed to depth of 0.002 in.</td></tr><tr><td>405 stainless steel</td><td>0.002</td><td>Yes</td><td>0.002-in. layer of scattered voids</td></tr><tr><td>430 stainless steel</td><td>0.020</td><td>Yes</td><td>Completely carburized; voids to depth of 0.002 in.</td></tr><tr><td>446 stainless steel</td><td>0.003</td><td>Yes</td><td>0.001-in. outer layer; 0.002-in. carburized layer beneath</td></tr><tr><td>304 stainless steel</td><td>0.011</td><td>Yes</td><td>0.001-in. outer layer; 0.011-in. carburized layer beneath</td></tr><tr><td>316 stainless steel</td><td>0.007</td><td>Yes</td><td>0.002-in. outer layer; 0.007-in. carburized layer beneath</td></tr><tr><td>347 stainless steel</td><td>0.007</td><td>Yes</td><td>0.002-in. outer layer; 0.007-in. carburized layer beneath</td></tr><tr><td>310 stainless steel</td><td>0.012</td><td>Partly</td><td>0.002-in. outer layer; 0.012-in. carburized layer beneath</td></tr></table>
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951
+  - A $25\%$ solution of NaCl in water was used as the heat-generation medium, and cooling was effected by natural convection from the wall of a 3-mm quartz tube to a stirred bath.
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951
+  - A second test was started in which two $\frac{1}{2}$ -in.
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951
+  - A summary of service analyses performed this quarter is shown in Table 16.2.
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951
+  - An effort is being made to find an infusorial earth of suitably low boron content (less than 10 ppm).
+
+## Chronology
+
+- [[../documents/ornl-684.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - April 17, 1950 - mentions: 1
+- [[../documents/ornl-1170.md|![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)]] - December 10, 1951 - ORNL-1170 - mentions: 1
+- [[../documents/ornl-1287.md|![](images/a9964f33bc3d06cd7db9bf5b0ac95133f806e5fe0d2f825e7e1c24c148c04c50.jpg)]] - 1953 - ORNL-1287 - mentions: 1
+- [[../documents/ornl-2337.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - May 1, 1953 - ORNL-118 - mentions: 1
+- [[../documents/ornl-1609.md|DECLASSIFIED]] - September 10, 1953 - ORNL-1609 - mentions: 1
+- [[../documents/ornl-2264.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1954 - ORNL-2264 - mentions: 1
+- [[../documents/ornl-2199.md|DECLASSIFIED BY AUTHORITY OF: AEC-112460 S/800man 11460]] - 1954 - mentions: 121
+- [[../documents/ornl-1835.md|MASTER COPY]] - 1954 - ORNL-1835 - mentions: 54
+- [[../documents/ornl-1729.md|![](images/b54a392e6f8c9768ec6ae55cbf2539b5e7b81adcde8c4a0a0424955e3e870da6.jpg)]] - June 10, 1954 - ORNL-1729 - mentions: 1
+- [[../documents/ornl-1868.md|ORNL-1868]] - November 12, 1954 - ORNL-1868 - mentions: 1
+- [[../documents/ornl-1816.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - December 10, 1954 - ORNL-1816 - mentions: 39
+- [[../documents/ornl-2095.md|ORNL-2095]] - December 10, 1954 - ORNL-2095 - mentions: 143
+- [[../documents/ornl-1808.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1955 - ORNL-1808 - mentions: 1
+- [[../documents/ornl-1955.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1955 - ORNL-1955 - mentions: 4
+- [[../documents/ornl-2465.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - March 10, 1955 - ORNL-2465 - mentions: 37
+- [[../documents/ornl-1864.md|CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION]] - March 10, 1955 - ORNL-1864 - mentions: 47
+- [[../documents/ornl-1896.md|ANP Authorization Required]] - June 10, 1955 - ORNL-1896 - mentions: 105
+- [[../documents/ornl-1947.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 10, 1955 - ORNL-528 - mentions: 71
+- [[../documents/ornl-2012.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 10, 1955 - ORNL-2012 - mentions: 90
+- [[../documents/ornl-1924.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1956 - ORNL-1924 - mentions: 25
+- [[../documents/ornl-2103.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1956 - ORNL-2103 - mentions: 1
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956 - mentions: 12
+- [[../documents/ornl-2150.md|ORNL MASTER COPY]] - 1956 - mentions: 1
+- [[../documents/ornl-2061.md|AEC RESEARCH AND DEVELOPMENT REPORT CENTRAL RESEARCH LIBRARY DOCUMENTATION]] - March 10, 1956 - ORNL-528 - mentions: 167
+- [[../documents/ornl-2157.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 10, 1956 - ORNL-2157 - mentions: 179
+- [[../documents/ornl-2198.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1957 - ORNL-2198 - mentions: 55
+- [[../documents/ornl-2278.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1957 - ORNL-2278 - mentions: 1
+- [[../documents/ornl-2376.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1957 - ORNL-2376 - mentions: 113
+- [[../documents/ornl-2274.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - March 31, 1957 - ORNL-528 - mentions: 174
+- [[../documents/ornl-cf-57-4-27.md|![](images/3f7cf0a8001da7322a0b64862847fd098bcc14dff6f113c0f2b93b24ab9b98f8.jpg)]] - April 29, 1957 - CF-57-1-10 - mentions: 7
+- [[../documents/molten-fluorides-as-power-reactor-fuels-sup-1-sup.md|Molten Fluorides as Power Reactor Fuels<sup>1</sup>]] - June 13, 1957 - mentions: 1
+- [[../documents/ornl-2340-p-1-5.md|DECLASSIFIED]] - June 30, 1957 - ORNL-2340 - mentions: 184
+- [[../documents/ornl-2464.md|![](images/69311e5badc5d081cf032ad80cc9fff900e205982f46ca66d2502b9d418e04bb.jpg)]] - September 1957 - ORNL-2464 - mentions: 59
+- [[../documents/ornl-2387.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 30, 1957 - ORNL-2387 - mentions: 138
+- [[../documents/ornl-2440.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 31, 1957 - ORNL-2440 - mentions: 129
+- [[../documents/ornl-2353.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1958 - ORNL-2353 - mentions: 8
+- [[../documents/ornl-2536.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1958 - ORNL-2536 - mentions: 5
+- [[../documents/ornl-2517.md|DECLASSIFIED]] - March 31, 1958 - ORNL-2517 - mentions: 2
+- [[../documents/ornl-2634.md|ORNL-2634]] - May 1, 1958 - ORNL-2634 - mentions: 1
+- [[../documents/anl-4342.md|Part III]] - June 1958 - ANL-4342 - mentions: 1
+- [[../documents/fluid-fuel-reactors.md|FLUID FUEL REACTORS]] - September 1958 - mentions: 1
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959 - ORNL-TM-1993 - mentions: 1
+- [[../documents/tid-8507.md|CENTRAL RESEARCH LIBRAR]] - January 2, 1959 - mentions: 2
+- [[../documents/ornl-2799.md|![](images/e196c8971f9cbd257f2fbb5070322e5c08ad2686223df5233b579472fdad4e95.jpg)]] - July 31, 1959 - ORNL-2799 - mentions: 1
+- [[../documents/ornl-3014.md|![](images/3d9e2a174651a2d79ed61a6a17515dd3051e8336e6824ebffc1c42c4f35951a5.jpg)]] - 1960 - ORNL-3014 - mentions: 1
+- [[../documents/chapter-25.md|CHAPTER 25]] - 1960 - mentions: 1
+- [[../documents/ornl-cf-59-12-64.md|![](images/cb00e17463f3921d9e92ab9f7c6f445cba0e7990230a9b65689712e904a834f6.jpg)]] - January 12, 1960 - mentions: 1
+- [[../documents/anl-7092.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - July 25, 1960 - ANL-6892 - mentions: 4
+- [[../documents/ornl-cf-60-11-108.md|![](images/65cca64ee0b858f36741d1887fd1d530af8215f2fa775103a27de2c83f18db0b.jpg)]] - November 30, 1960 - CF-60-11-108 - mentions: 4
+- [[../documents/ornl-3215.md|![](images/b390bcb067039caf88dbc5e2ee9afe97556a586516b1e8bc48fcccfe1bf4383c.jpg)]] - 1961 - ORNL-3215 - mentions: 1
+- [[../documents/ornl-cf-61-2-46.md|MASTER COPY]] - February 28, 1961 - mentions: 8
+- [[../documents/ornl-tm-2999.md|ORNL-TM-2999]] - May 1961 - ORNL-TM-2999 - mentions: 2
+- [[../documents/ornl-3122.md|${3}^{ \times {5}^{7}}$]] - October 1961 - ORNL-3122 - mentions: 1
+- [[../documents/ornl-3282.md|ORNL-3282]] - 1962 - ORNL-3282 - mentions: 2
+- [[../documents/ornl-tm-732.md|![](images/c93d2ea0e38986fcb933700de987cad349cfc93caea4b5fa0e5643ceba8d3ed2.jpg)]] - 1964 - ORNL-TM-728 - mentions: 3
+- [[../documents/ornl-tm-730.md|ORNL-TM-730]] - 1964 - ORNL-TM-730 - mentions: 1
+- [[../documents/ornl-tm-2111.md|![](images/14fa924941b3e01aa158371a5df27ce53f445b01fd03f2d7a44726594d383ba4.jpg)]] - July 1964 - ORNL-TM-728 - mentions: 1
+- [[../documents/ornl-3708.md|![](images/50503ced8a785d6711476b9d883192f94a77603d1c0894f00fd35b69e5171bf6.jpg)]] - July 31, 1964 - ORNL-3708 - mentions: 2
+- [[../documents/ornl-tm-3832.md|![](images/1300c978e545fa137f7c638f011312135b3d51a64be678af13c0b08dfc7b58c9.jpg)]] - December 1964 - ORNL-TM-3832 - mentions: 1
+- [[../documents/ornl-tm-909.md|MSRE DESIGN AND OPERATIONS REPORT]] - 1965 - ORNL-TM-909 - mentions: 1
+- [[../documents/ornl-tm-728.md|ORNL-TM-728]] - 1965 - ORNL-TM-728 - mentions: 15
+- [[../documents/ornl-4616.md|ORNL-4616]] - June 1, 1965 - ORNL-4616 - mentions: 1
+- [[../documents/ornl-tm-3041.md|ORNL-TM-3041]] - June 1, 1965 - ORNL-TM-3041 - mentions: 1
+- [[../documents/ornl-tm-911.md|OAK RIDGE NATIONAL LABORATORY]] - 1966 - ORNL-TM-911 - mentions: 1
+- [[../documents/ornl-3996.md|ORNL-3996]] - 1966 - ORNL-3996 - mentions: 1
+- [[../documents/ornl-tm-3303.md|FURTHER DISCUSSION OF INSTRUMENTATION AND CONTROLS]] - May 1967 - ORNL-TM-1856 - mentions: 2
+- [[../documents/ornl-tm-1856.md|ORNL-TM-1856]] - May 22, 1967 - ORNL-TM-1856 - mentions: 2
+- [[../documents/ornl-tm-3344.md|ORNL-TM-3344]] - June 1967 - ORNL-TM-3344 - mentions: 1
+- [[../documents/ornl-tm-3595.md|ORNL-TM-3595]] - June 1967 - ORNL-TM-3595 - mentions: 1
+- [[../documents/ornl-tm-1855.md|![](images/1b350d6b5cc04bc7d7604b9dd9cc29d2a51787f05b2cf8392565028b4005a7ea.jpg)]] - October 3, 1967 - ORNL-TM-1855 - mentions: 3
+- [[../documents/ornl-tm-2032.md|![](images/0610c17917e89cb00cccfdae1c8a00466374f960d827f27739f32207152d77ab.jpg)]] - November 1, 1967 - ORNL-TM-2032 - mentions: 1
+- [[../documents/ornl-tm-3561.md|ORNL-TM-3561]] - November 1, 1967 - ORNL-TM-3561 - mentions: 1
+- [[../documents/ornl-4327.md|LIBRARY. LOAN COPY]] - 1968 - ORNL-4327 - mentions: 1
+- [[../documents/ornl-4451.md|ORNL-4451]] - February 16, 1968 - ORNL-4451 - mentions: 1
+- [[../documents/ornl-4254.md|ORNL-4254]] - February 29, 1968 - ORNL-4254 - mentions: 2
+- [[../documents/ornl-tm-2953.md|![](images/046cf1b425f1e69411b3ea1754bda49148c10254a65e54afc873e28d3e018364.jpg)]] - July 15, 1968 - ORNL-TM-2953 - mentions: 1
+- [[../documents/oak-ridge-national-laboratory.md|OAK RIDGE NATIONAL LABORATORY]] - 1969 - mentions: 4
+- [[../documents/ornl-tm-2712.md|ORNL-TM-2712]] - 1969 - ORNL-TM-2712 - mentions: 4
+- [[../documents/symposium-on.md|Symposium on]] - August 1969 - mentions: 1
+- [[../documents/experience-with-the-molten-salt-reactor-experiment.md|EXPERIENCE WITH THE MOLTEN-SALT REACTOR EXPERIMENT]] - August 4, 1969 - mentions: 2
+- [[../documents/ornl-tm-3039.md|ORNL-TM-3039]] - December 1969 - ORNL-TM-3039 - mentions: 1
+- [[../documents/ornl-4548.md|ORNL-4548]] - February 28, 1970 - ORNL-4548 - mentions: 2
+- [[../documents/ornl-cf-70-9-3.md|COPY NO.]] - September 1, 1970 - mentions: 11
+- [[../documents/tid-26156.md|1000 MW(e) MOLTEN SALT BREEDER REACTOR]] - September 30, 1970 - mentions: 3
+- [[../documents/ornl-4541.md|ORNL-4541]] - 1971 - ORNL-4541 - mentions: 1
+- [[../documents/ornl-4728.md|![](images/75792d190f38fb318248f14df749be3ce5abb65eaf2a821ff2d87b4b580840ca.jpg)]] - August 31, 1971 - ORNL-2474 - mentions: 2
+- [[../documents/ornl-tm-3777.md|![](images/4e80ebbc34b88b5e66a9fbae9c7feebdc76c592fd4d469e4de02ed435b41e679.jpg)]] - 1972 - mentions: 1
+- [[../documents/ornl-tm-729b.md|![](images/bd0e590860934051f779e249050f37a09d2a097cccb825dcab2d262da64b6af1.jpg)]] - 1972 - mentions: 1
+- [[../documents/eir-332.md|Eidg. Institut für Reaktorforschung Würenlingen Schweiz]] - 1972 - mentions: 1
+- [[../documents/ornl-tm-4047.md|MOLTEN SALTS AS BLANKET FLUIDS IN CONTROLLED FUSION REACTORS]] - 1972 - mentions: 1
+- [[../documents/ornl-4674.md|ORNL-4674]] - 1972 - ORNL-4674 - mentions: 1
+- [[../documents/ornl-4812.md|The Development Status of]] - August 1972 - ORNL-4812 - mentions: 6
+- [[../documents/ornl-tm-3939.md|MSR COMPONENT REPLACEMENTS USING REMOTE CUTTING AND WELDING TECHNIQUES]] - December 1972 - ORNL-TM-3561 - mentions: 1
+- [[../documents/nd-74-66.md|JAN 10 1975]] - January 31, 1973 - ND/71/66 - mentions: 1
+- [[../documents/ornl-5018.md|![](images/96c48f13787c31854c9814da24c925e11be9013ba9fe9d693aa56a180614d0c1.jpg)]] - 1974 - ORNL-5018 - mentions: 5
+- [[../documents/eir-266.md|Eidg. Institut für Reaktorforschung Würenlingen Schweiz]] - 1974 - mentions: 1
+- [[../documents/ornl-4995.md|![](images/a0572ccd70b274bcc5d02b451d7771bd945023e67f3685acf557e224b9ff80d3.jpg)]] - 1975 - ORNL-4995 - mentions: 1
+- [[../documents/ornl-5078.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1975 - ORNL-5078 - mentions: 1
+- [[../documents/eir-259.md|Eidg. Institut für Reaktorforschung Würenlingen Schweiz]] - September 1975 - mentions: 1
+- [[../documents/ornl-1976.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1976 - mentions: 7
+- [[../documents/ornl-tm-5682.md|![](images/70c0c27f9a692cb026f0224e45db71674f309ffd7b7fe01af09e3fce72eb4f98.jpg)]] - January 18, 1977 - mentions: 3
+- [[../documents/ornl-tm-5927.md|![](images/61ce6efbf0883aed671e49de98e281219b0efb287a2fe740a9ab1252403ca8e0.jpg)]] - September 26, 1977 - mentions: 1
+- [[../documents/ornl-5388.md|![](images/d72845dd72114e2f306d1c4d023fd2be870df3b40c2bb15c58dda3cd8e787ec3.jpg)]] - 1978 - ORNL-5388 - mentions: 1
+- [[../documents/kontrollblatt-f-r-externe-publikationen-und-vortr-ge.md|Kontrollblatt für externe Publikationen und Vorträge]] - September 1978 - mentions: 1
+- [[../documents/images-10652bc25eb6df8c0ddac56a47db1e25893f70f982418b12be8b35c5b1a93461-jpg.md|![](images/10652bc25eb6df8c0ddac56a47db1e25893f70f982418b12be8b35c5b1a93461.jpg)]] - 1979 - mentions: 1
+- [[../documents/pnl-3116.md|PNL-3116]] - January 1980 - mentions: 3
+- [[../documents/eir-411.md|Eidg. Institut für Reaktorforschung Würenlingen Schweiz]] - July 1980 - mentions: 2
+- [[../documents/ornl-tm-9756.md|ORNL/TM-9756]] - September 1985 - mentions: 4
+- [[../documents/ornl-tm-9780-v4.md|OAK RIDGE NATIONAL LABORATORY]] - September 1986 - ORNL-4951 - mentions: 1
+- [[../documents/cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept.md|Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept]] - April 1992 - mentions: 3
+- [[../documents/ornl-tm-13517.md|Definition of Weapons-Usable Uranium-233]] - March 1998 - mentions: 1
+- [[../documents/ornl-2840.md|![](images/5b749ff087384a6cd1d37ce3213610645a94a0a690a19ed1d5dee122aa3ebbd0.jpg)]] - December 21, 2015 - ORNL-2840 - mentions: 1
+- [[../documents/ornl-2442.md|![](images/717a1fd0c6e8d5250c44a521edcc514174fb96d6c35b900cd87bc3945f1733e2.jpg)]] - ORNL-2442 - mentions: 6
+- [[../documents/ornl-2106.md|![](images/7d78504371385c303da41eecaec5b71388fca55a9dfe800a12dc0dee2de169f1.jpg)]] - ORNL-2012 - mentions: 120
+- [[../documents/anl-7958.md|speicher für die Speicherung der elek-]] - ANL-7958 - mentions: 1
+- [[../documents/university-of-california.md|UNIVERSITY OF CALIFORNIA]] - mentions: 2

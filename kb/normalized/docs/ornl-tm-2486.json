@@ -1,0 +1,372 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "MASTER",
+    "L. M. Ferris",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2486.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2486",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          351
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 21,
+        "line_hits": [
+          5,
+          19,
+          27,
+          60,
+          271,
+          279,
+          281,
+          305,
+          307,
+          327,
+          329,
+          351,
+          355,
+          356,
+          357,
+          359,
+          360,
+          361,
+          362,
+          363,
+          369
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          17,
+          62,
+          604,
+          605,
+          607,
+          609,
+          610,
+          611,
+          612,
+          613,
+          614,
+          615,
+          616
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          247,
+          279,
+          281,
+          305,
+          307,
+          327,
+          329,
+          364
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          9,
+          60
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 9,
+        "line_hits": [
+          97,
+          175,
+          177,
+          263,
+          271,
+          279,
+          309,
+          349,
+          351
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          97,
+          351
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 21,
+        "line_hits": [
+          23,
+          44,
+          87,
+          93,
+          97,
+          101,
+          171,
+          173,
+          177,
+          193,
+          209,
+          273,
+          287,
+          307,
+          313,
+          327,
+          329,
+          335,
+          345,
+          349,
+          351
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          307,
+          329
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          351
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "edb0d06a9297b52a5c59db806dbd8fea3b8dad3a46cf2113e4a140dd7fd85f24",
+  "markdown_path": "pdf/ORNL-TM-2486/ORNL-TM-2486/hybrid_ocr/ORNL-TM-2486.md",
+  "report_number": "ORNL-TM-2486",
+  "report_numbers": [
+    "ORNL-TM-2486",
+    "ORNL-4191",
+    "ORNL-4254",
+    "ORNL-4272",
+    "ORNL-3913",
+    "ORNL-4119",
+    "ANL-6800"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 26,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 8,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 10,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 16,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 18,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl-tm-2486",
+      "end_line": 20,
+      "heading": "Ornl-Tm-2486",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "master",
+      "end_line": 28,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 47,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 57,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "march-1969",
+      "end_line": 61,
+      "heading": "March 1969",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 67,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "contents",
+      "end_line": 86,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "some-aspects-of-the-thermodynamics-of-the-extraction-of-uranium-thorium-and-rare-earth-s-from-molten-lif-bef-into-liquid-li-bi-solutions",
+      "end_line": 90,
+      "heading": "SOME ASPECTS OF THE THERMODYNAMICS OF THE EXTRACTION OF URANIUM, THORIUM, AND RARE EARTH'S FROM MOLTEN LiF-BeF₂ INTO LIQUID Li-Bi SOLUTIONS",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 94,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 98,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "2-general-thermodynamic-treatment",
+      "end_line": 198,
+      "heading": "2. GENERAL THERMODYNAMIC TREATMENT",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "3-the-thermodynamics-of-uranium-extraction",
+      "end_line": 284,
+      "heading": "3. THE THERMODYNAMICS OF URANIUM EXTRACTION",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "4-the-thermodynamics-of-thorium-extraction",
+      "end_line": 310,
+      "heading": "4. THE THERMODYNAMICS OF THORIUM EXTRACTION",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "5-the-thermodynamics-of-lanthanum-extraction",
+      "end_line": 332,
+      "heading": "5. THE THERMODYNAMICS OF LANTHANUM EXTRACTION",
+      "level": 1,
+      "start_line": 311
+    },
+    {
+      "anchor": "6-the-thermodynamics-of-sodium-extraction",
+      "end_line": 342,
+      "heading": "6. THE THERMODYNAMICS OF SODIUM EXTRACTION",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "7-the-thermodynamics-of-europium-extraction",
+      "end_line": 346,
+      "heading": "7. THE THERMODYNAMICS OF EUROPIUM EXTRACTION",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "8-discussion",
+      "end_line": 352,
+      "heading": "8. DISCUSSION",
+      "level": 1,
+      "start_line": 347
+    },
+    {
+      "anchor": "9-references",
+      "end_line": 376,
+      "heading": "9. REFERENCES",
+      "level": 1,
+      "start_line": 353
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 597,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 377
+    },
+    {
+      "anchor": "218-232-dtie",
+      "end_line": 601,
+      "heading": "218-232. Dtie",
+      "level": 2,
+      "start_line": 598
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 616,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 602
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2486",
+  "tables": [],
+  "title": "![](images/a40cdfa85aec2e9f7aa91d86ae5f22a1216370da95a5f408e7452e564ab4a593.jpg)",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

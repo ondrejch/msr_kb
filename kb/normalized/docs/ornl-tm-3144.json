@@ -1,0 +1,633 @@
+{
+  "authors": [
+    "COPY NO. -",
+    "P. N. Haubenreich",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3144.jsonl",
+  "date_text": "September 30, 1970",
+  "doc_id": "ornl-tm-3144",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          98,
+          104
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          98,
+          376
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          98
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          272
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          294,
+          332,
+          336
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          300
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 16,
+        "line_hits": [
+          3,
+          9,
+          207,
+          261,
+          471,
+          472,
+          473,
+          475,
+          476,
+          477,
+          478,
+          479,
+          481,
+          486,
+          644,
+          646
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          7,
+          84,
+          478,
+          566,
+          584,
+          602,
+          608,
+          612
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 29,
+        "line_hits": [
+          21,
+          23,
+          58,
+          90,
+          94,
+          98,
+          104,
+          111,
+          194,
+          227,
+          237,
+          272,
+          276,
+          288,
+          292,
+          294,
+          296,
+          300,
+          302,
+          306,
+          309,
+          312,
+          314,
+          324,
+          328,
+          332,
+          336,
+          472,
+          478
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          21,
+          94,
+          100,
+          167,
+          187,
+          198,
+          200,
+          215,
+          217,
+          261,
+          302,
+          336,
+          344,
+          366,
+          370,
+          395,
+          410,
+          467
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          111,
+          288,
+          360,
+          431
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          340
+        ],
+        "name": "MSCR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          340
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          88,
+          107,
+          344,
+          410,
+          476
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          245,
+          276
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          245
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          245
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          245
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          245
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          245
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c602c7f150697159fd09a9405d5db8b5e95717be985525cb40189f43a817d9a5",
+  "markdown_path": "pdf/ORNL-TM-3144/ORNL-TM-3144/hybrid_ocr/ORNL-TM-3144.md",
+  "report_number": "ORNL-TM-3144",
+  "report_numbers": [
+    "ORNL-TM-3144"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 51,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the",
+      "end_line": 6,
+      "heading": "operated by UNION CARBIDE CORPORATION for the",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 8,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "ornl-tm-3144",
+      "end_line": 10,
+      "heading": "Ornl-Tm-3144",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 18,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 24,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 33,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "contents",
+      "end_line": 37,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 34
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 39,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 47,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "results-of-other-experiments-15",
+      "end_line": 57,
+      "heading": "Results Of Other Experiments 15",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "storage-and-disposal-of-msre-salt-19",
+      "end_line": 67,
+      "heading": "Storage And Disposal Of Msre Salt 19",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "dealing-with-salt-from-large-molten-salt-reactors-25",
+      "end_line": 79,
+      "heading": "Dealing With Salt From Large Molten-Salt Reactors 25",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "references-34",
+      "end_line": 81,
+      "heading": "References 34",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 85,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 91,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "results-of-the-60-mathrm-co-experiment",
+      "end_line": 95,
+      "heading": "RESULTS OF THE $^{60}\\mathrm{CO}$ EXPERIMENT",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "description-of-the-experiment",
+      "end_line": 101,
+      "heading": "Description of the Experiment",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "analysis",
+      "end_line": 112,
+      "heading": "Analysis",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "hypotheses",
+      "end_line": 146,
+      "heading": "Hypotheses",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "interpretation-of-the-data",
+      "end_line": 174,
+      "heading": "Interpretation of the Data",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "table-1",
+      "end_line": 206,
+      "heading": "Table 1",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "ornl-dwg-70-12906",
+      "end_line": 224,
+      "heading": "Ornl Dwg. 70-12906",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "summary",
+      "end_line": 246,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 225
+    },
+    {
+      "anchor": "results-of-other-experiments",
+      "end_line": 248,
+      "heading": "RESULTS OF OTHER EXPERIMENTS",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "in-pile-experiments",
+      "end_line": 269,
+      "heading": "In-Pile Experiments",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "x-ray-irradiations",
+      "end_line": 273,
+      "heading": "X-Ray Irradiations",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "fast-electron-bombardment",
+      "end_line": 277,
+      "heading": "Fast Electron Bombardment",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 291,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 278
+    },
+    {
+      "anchor": "storage-and-disposal-of-msre-salt",
+      "end_line": 297,
+      "heading": "STORAGE AND DISPOSAL OF MSRE SALT",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "energy-sources",
+      "end_line": 303,
+      "heading": "Energy Sources",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "temperature-for-internal-recombination",
+      "end_line": 325,
+      "heading": "Temperature for Internal Recombination",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "induction-period-and-fluorine-release",
+      "end_line": 333,
+      "heading": "Induction Period and Fluorine Release",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 337,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "dealing-with-salt-from-large-molten-salt-reactors",
+      "end_line": 341,
+      "heading": "DEALING WITH SALT FROM LARGE MOLTEN-SALT REACTORS",
+      "level": 1,
+      "start_line": 338
+    },
+    {
+      "anchor": "energy-source",
+      "end_line": 345,
+      "heading": "Energy Source",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "heat-transfer-and-temperatures",
+      "end_line": 351,
+      "heading": "Heat Transfer and Temperatures",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 367,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 352
+    },
+    {
+      "anchor": "surface-of-bare-cylinder",
+      "end_line": 377,
+      "heading": "Surface of Bare Cylinder",
+      "level": 1,
+      "start_line": 368
+    },
+    {
+      "anchor": "table-4",
+      "end_line": 392,
+      "heading": "Table 4",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "surface-of-insulated-cylinder",
+      "end_line": 407,
+      "heading": "Surface of Insulated Cylinder",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "can-imbedded-in-a-salt-mine",
+      "end_line": 420,
+      "heading": "Can Imbedded in a Salt Mine",
+      "level": 1,
+      "start_line": 408
+    },
+    {
+      "anchor": "fluorine-yield-and-induction-period",
+      "end_line": 436,
+      "heading": "Fluorine Yield and Induction Period",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "temperature-for-zero-release-of-fluorine",
+      "end_line": 458,
+      "heading": "Temperature for Zero Release of Fluorine",
+      "level": 1,
+      "start_line": 437
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 468,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "references",
+      "end_line": 483,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 469
+    },
+    {
+      "anchor": "internal",
+      "end_line": 485,
+      "heading": "INTERNAL",
+      "level": 1,
+      "start_line": 484
+    },
+    {
+      "anchor": "ornl-tm-3144",
+      "end_line": 487,
+      "heading": "Ornl-Tm-3144",
+      "level": 2,
+      "start_line": 486
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 645,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 488
+    },
+    {
+      "anchor": "ornl-tm-3144",
+      "end_line": 647,
+      "heading": "Ornl-Tm-3144",
+      "level": 2,
+      "start_line": 646
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 652,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 648
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3144",
+  "tables": [],
+  "title": "![](images/f9a0954256e310f7dbd247b21103a0431600f16dcda05ed28336e412601e963e.jpg)",
+  "topics": [
+    "reactor-operations",
+    "irradiation-and-damage",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": []
+}

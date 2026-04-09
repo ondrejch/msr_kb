@@ -1,0 +1,515 @@
+{
+  "authors": [
+    "Wallace Davis",
+    "Jr.",
+    "SAX SAGE MATHEMATICS",
+    "CENTRAL RESERECN LIGABACI",
+    "LIBRARY/LOAN COPOY",
+    "National Technical Information Service",
+    "U.S. Department of Commerce"
+  ],
+  "claims_path": "kb/normalized/claims/carbon-14-production-in-nuclear-reactors.jsonl",
+  "date_text": "January 1977",
+  "doc_id": "carbon-14-production-in-nuclear-reactors",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 12,
+        "line_hits": [
+          83,
+          87,
+          216,
+          230,
+          232,
+          234,
+          236,
+          238,
+          302,
+          316,
+          358,
+          366
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          154,
+          204,
+          250,
+          260,
+          284
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          196,
+          204,
+          415,
+          418
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          154,
+          196,
+          204
+        ],
+        "name": "Inconel X"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          154,
+          204,
+          260
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          417
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          376,
+          413,
+          471
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          414
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 22,
+        "line_hits": [
+          27,
+          63,
+          380,
+          400,
+          402,
+          404,
+          408,
+          409,
+          411,
+          413,
+          433,
+          436,
+          441,
+          448,
+          460,
+          461,
+          462,
+          464,
+          472,
+          473,
+          474,
+          559
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          396,
+          416,
+          421,
+          437,
+          439,
+          440,
+          465
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          408,
+          419,
+          575,
+          619,
+          664
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          427,
+          574,
+          659
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          69,
+          650
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          405
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 50,
+        "line_hits": [
+          81,
+          89,
+          91,
+          95,
+          105,
+          109,
+          113,
+          117,
+          121,
+          127,
+          136,
+          138,
+          142,
+          175,
+          177,
+          189,
+          196,
+          200,
+          210,
+          212,
+          216,
+          220,
+          224,
+          226,
+          232,
+          245,
+          246,
+          254,
+          256,
+          262,
+          284,
+          285,
+          296,
+          298,
+          300,
+          306,
+          312,
+          316,
+          320,
+          328,
+          335,
+          337,
+          340,
+          346,
+          348,
+          350,
+          352,
+          354,
+          358,
+          371
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "8b4cd380bc145c5929a75694a340a864d652eb7abf90dc22f83bb294f9e26efa",
+  "markdown_path": "pdf/ORNL-NUREG-TM-12/ORNL-NUREG-TM-12/hybrid_ocr/ORNL-NUREG-TM-12.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 36,
+  "sections": [
+    {
+      "anchor": "carbon-14-production-in-nuclear-reactors",
+      "end_line": 12,
+      "heading": "Carbon-14 Production in Nuclear Reactors",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "sax-sage-mathematics",
+      "end_line": 14,
+      "heading": "Sax Sage Mathematics",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "central-reserecn-ligabaci",
+      "end_line": 18,
+      "heading": "Central Reserecn Ligabaci",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "library-loan-copoy",
+      "end_line": 20,
+      "heading": "Library/Loan Copoy",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "do-not-transfer-to-any-other-spaces",
+      "end_line": 26,
+      "heading": "Do Not Transfer To Any Other Spaces",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 42,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 44,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "carbon-14-production-in-nuclear-reactors",
+      "end_line": 62,
+      "heading": "Carbon-14 Production In Nuclear Reactors",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 68,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 72,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 74,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "carbon-14-production-in-nuclear-reactors",
+      "end_line": 78,
+      "heading": "CARBON-14 PRODUCTION IN NUCLEAR REACTORS",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 84,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 92,
+      "heading": "1.0 INTRODUCTION",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "2-0-mechanisms-of-carbon-14-formation-in-nuclear-reactors",
+      "end_line": 133,
+      "heading": "2.0 MECHANISMS OF CARBON-14 FORMATION IN NUCLEAR REACTORS",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "reaction-5-17-o-n-alpha-14-c",
+      "end_line": 143,
+      "heading": "Reaction $5^{17}O(n,\\alpha)^{14}C$",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "3-0-carbon-14-formation-in-light-water-reactors",
+      "end_line": 147,
+      "heading": "3.0 CARBON-14 FORMATION IN LIGHT-WATER REACTORS",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "3-1-formation-in-the-fuel",
+      "end_line": 193,
+      "heading": "3.1 Formation in the Fuel",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "3-2-formation-in-core-hardware",
+      "end_line": 197,
+      "heading": "3.2 Formation in Core Hardware",
+      "level": 1,
+      "start_line": 194
+    },
+    {
+      "anchor": "3-3-formation-in-cooling-water",
+      "end_line": 213,
+      "heading": "3.3 Formation in Cooling Water",
+      "level": 1,
+      "start_line": 198
+    },
+    {
+      "anchor": "4-0-carbon-14-formation-in-high-temperature-gas-cooled-reactors",
+      "end_line": 217,
+      "heading": "4.0 CARBON-14 FORMATION IN HIGH-TEMPERATURE GAS-COOLED REACTORS",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "4-1-formation-in-the-fuel",
+      "end_line": 229,
+      "heading": "4.1 Formation in the Fuel",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "4-2-formation-in-graphite-blocks",
+      "end_line": 247,
+      "heading": "4.2 Formation in Graphite Blocks",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "5-0-carbon-14-formation-in-liquid-metal-fast-breeder-reactors",
+      "end_line": 251,
+      "heading": "5.0 CARBON-14 FORMATION IN LIQUID-METAL FAST BREEDER REACTORS",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "5-1-formation-in-the-fuel",
+      "end_line": 257,
+      "heading": "5.1 Formation in the Fuel",
+      "level": 1,
+      "start_line": 252
+    },
+    {
+      "anchor": "5-2-formation-in-core-hardware",
+      "end_line": 274,
+      "heading": "5.2 Formation in Core Hardware",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "mtss",
+      "end_line": 293,
+      "heading": "(Mtss)",
+      "level": 2,
+      "start_line": 275
+    },
+    {
+      "anchor": "6-0-comparisons-and-discussions",
+      "end_line": 303,
+      "heading": "6.0 COMPARISONS AND DISCUSSIONS",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "6-1-comparisons-of-reactor-produced-and-naturally-produced-14-mathrm-c",
+      "end_line": 317,
+      "heading": "6.1 Comparisons of Reactor Produced and Naturally Produced $^{14}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "6-2-worldwide-and-local-radiation-doses-from-reactor-produced-14-mathrm-c",
+      "end_line": 323,
+      "heading": "6.2 Worldwide and Local Radiation Doses from Reactor-Produced $^{14}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "6-3-other-predictions-of-14-mathrm-c-formation-rates",
+      "end_line": 355,
+      "heading": "6.3 Other Predictions of $^{14}\\mathrm{C}$ Formation Rates",
+      "level": 1,
+      "start_line": 324
+    },
+    {
+      "anchor": "6-4-comparison-with-releases-from-russian-reactors",
+      "end_line": 359,
+      "heading": "6.4 Comparison with Releases from Russian Reactors",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "6-5-reducing-the-releases-of-14-mathbf-c",
+      "end_line": 377,
+      "heading": "6.5 Reducing the Releases of $^{14}\\mathbf{C}$",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "7-0-references",
+      "end_line": 475,
+      "heading": "7.0 REFERENCES",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 560,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 476
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 680,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 561
+    }
+  ],
+  "source_dir": "pdf/ORNL-NUREG-TM-12",
+  "tables": [],
+  "title": "Carbon-14 Production in Nuclear Reactors",
+  "topics": [
+    "reactor-physics-neutronics",
+    "fuel-processing-and-reprocessing",
+    "graphite-and-moderator-behavior",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

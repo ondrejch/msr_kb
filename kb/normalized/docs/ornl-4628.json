@@ -1,0 +1,1678 @@
+{
+  "authors": [
+    "M. J. Bell",
+    "Library Loan Copy",
+    "National Technical Information Service",
+    "U.S. Department of Commerce"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4628.jsonl",
+  "date_text": "June 1969",
+  "doc_id": "ornl-4628",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          990
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          589
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 23,
+        "line_hits": [
+          1,
+          19,
+          43,
+          57,
+          131,
+          147,
+          148,
+          155,
+          356,
+          370,
+          372,
+          553,
+          555,
+          563,
+          568,
+          570,
+          579,
+          581,
+          938,
+          1478,
+          1616,
+          1624,
+          1634
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          21,
+          33,
+          55,
+          67,
+          1626,
+          1634,
+          1638,
+          1648,
+          1682
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          21,
+          63,
+          1727,
+          1743
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1696,
+          1712,
+          1738,
+          1740
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          562,
+          949,
+          1688
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          937,
+          1706
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1765
+        ],
+        "name": "US Air Force"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 106,
+        "line_hits": [
+          113,
+          119,
+          121,
+          125,
+          166,
+          188,
+          208,
+          218,
+          220,
+          224,
+          232,
+          240,
+          246,
+          254,
+          260,
+          264,
+          288,
+          298,
+          304,
+          308,
+          332,
+          342,
+          346,
+          350,
+          352,
+          354,
+          361,
+          363,
+          381,
+          395,
+          403,
+          405,
+          415,
+          423,
+          429,
+          435,
+          447,
+          449,
+          455,
+          457,
+          459,
+          463,
+          467,
+          477,
+          481,
+          491,
+          500,
+          504,
+          510,
+          512
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          453,
+          475,
+          668
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          939
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          123,
+          712
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          123,
+          712
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          1151
+        ],
+        "name": "KF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7ef80c91c0a46deb7f5b8bf99ea54df01c10862655543d90e33794adcb6c5bff",
+  "markdown_path": "pdf/ORNL-4628/ORNL-4628/hybrid_ocr/ORNL-4628.md",
+  "report_number": "ORNL-2958",
+  "report_numbers": [
+    "ORNL-2958",
+    "ORNL-TM-361",
+    "ORNL-TM-1933"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 204,
+  "sections": [
+    {
+      "anchor": "origen-the-ornl-isotope-generation-and-depletion-code",
+      "end_line": 10,
+      "heading": "ORIGEN - THE ORNL ISOTOPE GENERATION AND DEPLETION CODE",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "do-not-transfer-to-and-the-follow",
+      "end_line": 18,
+      "heading": "Do Not Transfer To And The Follow",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 34,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "orni-4628",
+      "end_line": 40,
+      "heading": "Orni-4628",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 42,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "origen-the-ornl-isotope-generation-and-depletion-code",
+      "end_line": 46,
+      "heading": "Origen - The Ornl Isotope Generation And Depletion Code",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "f5-175",
+      "end_line": 50,
+      "heading": "F5 175",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "may-1973",
+      "end_line": 56,
+      "heading": "May 1973",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 62,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 66,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 74,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "contents",
+      "end_line": 103,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "page",
+      "end_line": 110,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 114,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 134,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "4-1-4-4-0-s-a-p-s",
+      "end_line": 143,
+      "heading": "4 1, 4 4 0 S A P S",
+      "level": 2,
+      "start_line": 135
+    },
+    {
+      "anchor": "1-1-references-for-section-1",
+      "end_line": 157,
+      "heading": "1.1 References for Section 1",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "2-description-of-mathematical-method",
+      "end_line": 185,
+      "heading": "2. DESCRIPTION OF MATHEMATICAL METHOD",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "2-1-computation-of-the-matrix-exponential-series",
+      "end_line": 221,
+      "heading": "2.1 Computation of the Matrix Exponential Series",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "2-2-use-of-asymptotic-solutions-of-the-nuclide-chain-equations-for-short-lived-isotopes",
+      "end_line": 261,
+      "heading": "2.2 Use of Asymptotic Solutions of the Nuclide Chain Equations for Short-Lived Isotopes",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "2-3-application-of-the-matrix-exponential-method-for-nonhomogeneous-systems",
+      "end_line": 305,
+      "heading": "2.3 Application of the Matrix Exponential Method for Nonhomogeneous Systems",
+      "level": 1,
+      "start_line": 262
+    },
+    {
+      "anchor": "2-4-computation-of-neutron-flux-and-specific-power",
+      "end_line": 339,
+      "heading": "2.4 Computation of Neutron Flux and Specific Power",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "2-5-construction-of-the-transition-matrix",
+      "end_line": 355,
+      "heading": "2.5 Construction of the Transition Matrix",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "ornl-dwg-72-7938",
+      "end_line": 364,
+      "heading": "Ornl Dwg 72-7938",
+      "level": 2,
+      "start_line": 356
+    },
+    {
+      "anchor": "2-6-references-for-section-2",
+      "end_line": 374,
+      "heading": "2.6 References for Section 2",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "3-description-of-nuclear-data-library",
+      "end_line": 378,
+      "heading": "3. DESCRIPTION OF NUCLEAR DATA LIBRARY",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "3-1-nuclear-properties-of-cladding-and-structural-materials",
+      "end_line": 386,
+      "heading": "3.1 Nuclear Properties of Cladding and Structural Materials",
+      "level": 1,
+      "start_line": 379
+    },
+    {
+      "anchor": "9034-f-rmat-17-f9-3-11-5f5-3-1pe9-2-op2f5-3-f7-3-2e6-0",
+      "end_line": 420,
+      "heading": "9034 F#Rmat(17, F9.3, 11, 5F5.3, 1Pe9.2, Op2F5.3, F7.3, 2E6.0)",
+      "level": 2,
+      "start_line": 387
+    },
+    {
+      "anchor": "9035-fformat-7x-f9-2-3f5-3-f9-2-2f5-3-f9-2-3f5-3-t80-i1",
+      "end_line": 460,
+      "heading": "9035 Fformat(7X, F9.2, 3F5.3, F9.2, 2F5.3, F9.2, 3F5.3, T80, I1)",
+      "level": 2,
+      "start_line": 421
+    },
+    {
+      "anchor": "3-2-nuclear-properties-of-the-isotopes-of-the-actinide-elements-and-their-daughters",
+      "end_line": 478,
+      "heading": "3.2 Nuclear Properties of the Isotopes of the Actinide Elements and Their Daughters",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "3-3-nuclear-properties-of-the-fission-products",
+      "end_line": 482,
+      "heading": "3.3 Nuclear Properties of the Fission Products",
+      "level": 1,
+      "start_line": 479
+    },
+    {
+      "anchor": "read-7-9038-signg-ring-fng1-y-it",
+      "end_line": 484,
+      "heading": "Read(7,9038)Signg，Ring，Fng1，Y，It",
+      "level": 2,
+      "start_line": 483
+    },
+    {
+      "anchor": "9038-format-7x-2f9-2-f5-3-5f9-2-t80-i1",
+      "end_line": 501,
+      "heading": "9038 Format(7X, 2F9.2, F5.3, 5F9.2, T80, I1)",
+      "level": 2,
+      "start_line": 485
+    },
+    {
+      "anchor": "3-4-photon-yield-library",
+      "end_line": 523,
+      "heading": "3.4 Photon Yield Library",
+      "level": 1,
+      "start_line": 502
+    },
+    {
+      "anchor": "3-5-miscellaneous-nuclear-properties",
+      "end_line": 549,
+      "heading": "3.5 Miscellaneous Nuclear Properties",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "3-6-references-for-section-3",
+      "end_line": 584,
+      "heading": "3.6 References for Section 3",
+      "level": 1,
+      "start_line": 550
+    },
+    {
+      "anchor": "4-user-s-manual-for-the-origen-code",
+      "end_line": 614,
+      "heading": "4. USER'S MANUAL FOR THE ORIGEN CODE",
+      "level": 1,
+      "start_line": 585
+    },
+    {
+      "anchor": "4-1-description-of-origen-code-programs",
+      "end_line": 654,
+      "heading": "4.1 Description of ORIGEN Code Programs",
+      "level": 1,
+      "start_line": 615
+    },
+    {
+      "anchor": "4-2-description-of-card-input-to-the-origen-program",
+      "end_line": 693,
+      "heading": "4.2 Description of Card Input to the ORIGEN Program",
+      "level": 1,
+      "start_line": 655
+    },
+    {
+      "anchor": "9008-f-rmat-1615",
+      "end_line": 713,
+      "heading": "9008 F#Rmat (1615)",
+      "level": 2,
+      "start_line": 694
+    },
+    {
+      "anchor": "d-read-50-9004-title",
+      "end_line": 723,
+      "heading": "D. Read (50, 9004) Title",
+      "level": 2,
+      "start_line": 714
+    },
+    {
+      "anchor": "9005-f-rmat-10e8-2",
+      "end_line": 727,
+      "heading": "9005 F#Rmat (10E8.2)",
+      "level": 2,
+      "start_line": 724
+    },
+    {
+      "anchor": "f-if-index-eq-1-read-50-9005-flux-m-m-1-mmn",
+      "end_line": 735,
+      "heading": "F. If (Index.Eq.1) Read (50, 9005) (Flux(M), M = 1, Mmn)",
+      "level": 2,
+      "start_line": 728
+    },
+    {
+      "anchor": "h-read-50-9013-basis-tconst-tunit",
+      "end_line": 737,
+      "heading": "H. Read (50, 9013) Basis, Tconst, Tunit",
+      "level": 2,
+      "start_line": 736
+    },
+    {
+      "anchor": "9013-f-rmat-10a4-f7-0-a3-f10-3",
+      "end_line": 745,
+      "heading": "9013 F#Rmat (10A4, F7.0, A3, F10.3)",
+      "level": 2,
+      "start_line": 738
+    },
+    {
+      "anchor": "i-read-50-9006-cutoff",
+      "end_line": 746,
+      "heading": "I. READ (50, 9006) CUTOFF",
+      "level": 2,
+      "start_line": 746
+    },
+    {
+      "anchor": "9006-fformat-8e10-3",
+      "end_line": 757,
+      "heading": "9006 Fformat (8E10.3)",
+      "level": 2,
+      "start_line": 747
+    },
+    {
+      "anchor": "j-if-n-blnd-gt-1-read-50-9006-fact-n-n-1-n-blnd",
+      "end_line": 758,
+      "heading": "J. If (Nøblnd.Gt.1) Read (50, 9006) (Fact(N), N = 1, Nøblnd)",
+      "level": 2,
+      "start_line": 758
+    },
+    {
+      "anchor": "9006-f-rma-t-8e10-3",
+      "end_line": 789,
+      "heading": "9006 Førma T (8E10.3)",
+      "level": 2,
+      "start_line": 759
+    },
+    {
+      "anchor": "l-read-50-9011-prate-m-n-pr-os-m-m-1-mpros",
+      "end_line": 827,
+      "heading": "L. Read (50, 9011) (Prate(M), N/Pr/Os(M), M = 1, Mpros)",
+      "level": 2,
+      "start_line": 790
+    },
+    {
+      "anchor": "h-read-50-9013-basis-const-tunit-tm",
+      "end_line": 835,
+      "heading": "H'. Read (50, 9013) Basis, Const, Tunit, Tm",
+      "level": 2,
+      "start_line": 828
+    },
+    {
+      "anchor": "p-500-read-50-9003-lement-frepr-lement",
+      "end_line": 836,
+      "heading": "P. 500 Read (50, 9003) Lement, Frepr(Lement)",
+      "level": 2,
+      "start_line": 836
+    },
+    {
+      "anchor": "9003-fformat-16-4x-e10-3",
+      "end_line": 842,
+      "heading": "9003 Fformat (16, 4X, E10.3)",
+      "level": 2,
+      "start_line": 837
+    },
+    {
+      "anchor": "4-3-input-for-sample-problem",
+      "end_line": 858,
+      "heading": "4.3 Input for Sample Problem",
+      "level": 1,
+      "start_line": 843
+    },
+    {
+      "anchor": "4-4-additional-programming-considerations",
+      "end_line": 876,
+      "heading": "4.4 Additional Programming Considerations",
+      "level": 1,
+      "start_line": 859
+    },
+    {
+      "anchor": "4-5-references-for-section-4",
+      "end_line": 881,
+      "heading": "4.5 References for Section 4",
+      "level": 1,
+      "start_line": 877
+    },
+    {
+      "anchor": "5-glossary-of-warning-and-error-messages",
+      "end_line": 907,
+      "heading": "5. GLOSSARY OF WARNING AND ERROR MESSAGES",
+      "level": 1,
+      "start_line": 882
+    },
+    {
+      "anchor": "6-appendix",
+      "end_line": 913,
+      "heading": "6. APPENDIX",
+      "level": 1,
+      "start_line": 908
+    },
+    {
+      "anchor": "nuclear-transmutation-data-pevised-3-20-73",
+      "end_line": 915,
+      "heading": "Nuclear Transmutation Data Pevised 3/20/73",
+      "level": 2,
+      "start_line": 914
+    },
+    {
+      "anchor": "table-a-1-nuclear-data-library-for-reference-pwr-calculation",
+      "end_line": 921,
+      "heading": "Table A-1. Nuclear Data Library For Reference Pwr Calculation",
+      "level": 2,
+      "start_line": 916
+    },
+    {
+      "anchor": "n-gamma-signg-thfpm-ring-pes",
+      "end_line": 925,
+      "heading": "N-Gamma - Signg \\* Thfpm $^+$ Ring \\* Pes.",
+      "level": 2,
+      "start_line": 922
+    },
+    {
+      "anchor": "n-2n-sign2n-fast",
+      "end_line": 931,
+      "heading": "N-2N -Sign2N \\* Fast.",
+      "level": 2,
+      "start_line": 926
+    },
+    {
+      "anchor": "references",
+      "end_line": 933,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 932
+    },
+    {
+      "anchor": "half-lives-decay-schemes-and-thermal-power",
+      "end_line": 941,
+      "heading": "Half Lives, Decay Schemes, And Thermal Power",
+      "level": 2,
+      "start_line": 934
+    },
+    {
+      "anchor": "h-t-kfr-unpublished-epc-compileation-peb-1968",
+      "end_line": 943,
+      "heading": "H T Kfr, Unpublished Epc Compileation (Peb 1968)",
+      "level": 2,
+      "start_line": 942
+    },
+    {
+      "anchor": "bnwl-stapp-investigation-op-n-2n-cross-sections-bnwc-98-pp-44-98-june-1965",
+      "end_line": 950,
+      "heading": "Bnwl Stapp Investigation Op N-2N Cross Sections' Bnwc-98, Pp 44-98 (June 1965)",
+      "level": 2,
+      "start_line": 944
+    },
+    {
+      "anchor": "thepm",
+      "end_line": 954,
+      "heading": "Thepm",
+      "level": 2,
+      "start_line": 951
+    },
+    {
+      "anchor": "res",
+      "end_line": 958,
+      "heading": "Res=",
+      "level": 2,
+      "start_line": 955
+    },
+    {
+      "anchor": "past",
+      "end_line": 962,
+      "heading": "Past=",
+      "level": 2,
+      "start_line": 959
+    },
+    {
+      "anchor": "nputfon-source",
+      "end_line": 974,
+      "heading": "Nputfon Source=",
+      "level": 2,
+      "start_line": 963
+    },
+    {
+      "anchor": "nlibe-2",
+      "end_line": 976,
+      "heading": "Nlibe= 2",
+      "level": 2,
+      "start_line": 975
+    },
+    {
+      "anchor": "table-a-1-continued",
+      "end_line": 977,
+      "heading": "Table A-1 (Continued)",
+      "level": 2,
+      "start_line": 977
+    },
+    {
+      "anchor": "light-elements-materials-of-construction-and-activation-products",
+      "end_line": 981,
+      "heading": "Light Elements, Materials Of Construction, And Activation Products",
+      "level": 2,
+      "start_line": 978
+    },
+    {
+      "anchor": "table-a-1-continued",
+      "end_line": 982,
+      "heading": "Table A-1 (Continued)",
+      "level": 2,
+      "start_line": 982
+    },
+    {
+      "anchor": "light-elements-materials-of-construction-and-activation-products",
+      "end_line": 986,
+      "heading": "Light Elements, Materials Of Construction, And Activation Products",
+      "level": 2,
+      "start_line": 983
+    },
+    {
+      "anchor": "table-a-1-continued",
+      "end_line": 987,
+      "heading": "Table A-1 (Continued)",
+      "level": 2,
+      "start_line": 987
+    },
+    {
+      "anchor": "light-elements-materials-of-construction-and-activation-products",
+      "end_line": 991,
+      "heading": "Light Elements, Materials Of Construction, And Activation Products",
+      "level": 2,
+      "start_line": 988
+    },
+    {
+      "anchor": "table-a-1-continued",
+      "end_line": 992,
+      "heading": "Table A-1 (Continued)",
+      "level": 2,
+      "start_line": 992
+    },
+    {
+      "anchor": "light-elements-materials-of-construction-and-activation-products",
+      "end_line": 996,
+      "heading": "Light Elements, Materials Of Construction, And Activation Products",
+      "level": 2,
+      "start_line": 993
+    },
+    {
+      "anchor": "table-a-1-continued",
+      "end_line": 997,
+      "heading": "Table A-1 (Continued)",
+      "level": 2,
+      "start_line": 997
+    },
+    {
+      "anchor": "light-elements-materials-of-construction-and-activation-products",
+      "end_line": 1004,
+      "heading": "Light Elements, Materials Of Construction, And Activation Products",
+      "level": 2,
+      "start_line": 998
+    },
+    {
+      "anchor": "table-a-1-continued",
+      "end_line": 1005,
+      "heading": "Table A-1 (Continued)",
+      "level": 2,
+      "start_line": 1005
+    },
+    {
+      "anchor": "actinides-and-the-padegents",
+      "end_line": 1009,
+      "heading": "Actinides And The Padegents",
+      "level": 2,
+      "start_line": 1006
+    },
+    {
+      "anchor": "table-a-1-continued",
+      "end_line": 1010,
+      "heading": "Table A-1 (Continued)",
+      "level": 2,
+      "start_line": 1010
+    },
+    {
+      "anchor": "actinides-and-their-daughteps",
+      "end_line": 1014,
+      "heading": "Actinides And Their Daughteps",
+      "level": 2,
+      "start_line": 1011
+    },
+    {
+      "anchor": "table-a-1-continued",
+      "end_line": 1018,
+      "heading": "Table A-1 (Continued)",
+      "level": 2,
+      "start_line": 1015
+    },
+    {
+      "anchor": "table-a-2-photon-library-for-reference-pwr-calculation",
+      "end_line": 1022,
+      "heading": "Table A-2. Photon Library For Reference Pwr Calculation",
+      "level": 2,
+      "start_line": 1019
+    },
+    {
+      "anchor": "table-a-2-continued",
+      "end_line": 1026,
+      "heading": "Table A-2 (Continued)",
+      "level": 2,
+      "start_line": 1023
+    },
+    {
+      "anchor": "table-a-2-continued",
+      "end_line": 1030,
+      "heading": "Table A-2 (Continued)",
+      "level": 2,
+      "start_line": 1027
+    },
+    {
+      "anchor": "table-a-2-continued",
+      "end_line": 1034,
+      "heading": "Table A-2 (Continued)",
+      "level": 2,
+      "start_line": 1031
+    },
+    {
+      "anchor": "table-a-2-continued",
+      "end_line": 1038,
+      "heading": "Table A-2 (Continued)",
+      "level": 2,
+      "start_line": 1035
+    },
+    {
+      "anchor": "table-a-2-continued",
+      "end_line": 1042,
+      "heading": "Table A-2 (Continued)",
+      "level": 2,
+      "start_line": 1039
+    },
+    {
+      "anchor": "table-a-2-continued",
+      "end_line": 1046,
+      "heading": "Table A-2 (Continued)",
+      "level": 2,
+      "start_line": 1043
+    },
+    {
+      "anchor": "table-a-2-continued",
+      "end_line": 1050,
+      "heading": "Table A-2 (Continued)",
+      "level": 2,
+      "start_line": 1047
+    },
+    {
+      "anchor": "table-a-2-continued",
+      "end_line": 1058,
+      "heading": "Table A-2 (Continued)",
+      "level": 2,
+      "start_line": 1051
+    },
+    {
+      "anchor": "nuclide-concentpations-gpam-atoms",
+      "end_line": 1059,
+      "heading": "Nuclide Concentpations, Gpam Atoms",
+      "level": 2,
+      "start_line": 1059
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-feactor",
+      "end_line": 1063,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Feactor",
+      "level": 2,
+      "start_line": 1060
+    },
+    {
+      "anchor": "table-a-3-continued",
+      "end_line": 1065,
+      "heading": "Table A-3 (Continued)",
+      "level": 2,
+      "start_line": 1064
+    },
+    {
+      "anchor": "rppference-pwr-equilibrium-fuel-cycle-3-3-0-o-enriched-u",
+      "end_line": 1067,
+      "heading": "Rppference Pwr Equilibrium Fuel Cycle - 3.3 0/O Enriched U",
+      "level": 2,
+      "start_line": 1066
+    },
+    {
+      "anchor": "power-30-00mw-burnup-33000-mwd-fux-2-92e-13n-cm-2-sec",
+      "end_line": 1069,
+      "heading": "Power= 30.00Mw, Burnup= 33000.Mwd, Fux= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1068
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-pfactor",
+      "end_line": 1071,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Pfactor",
+      "level": 2,
+      "start_line": 1070
+    },
+    {
+      "anchor": "nuclide-concentrations-gram-atoms",
+      "end_line": 1075,
+      "heading": "Nuclide Concentrations, Gram Atoms",
+      "level": 2,
+      "start_line": 1072
+    },
+    {
+      "anchor": "table-a-3-continued",
+      "end_line": 1077,
+      "heading": "Table A-3 (Continued)",
+      "level": 2,
+      "start_line": 1076
+    },
+    {
+      "anchor": "pfffence-fpr-equilibrium-fuel-cycle-3-3-0-0-enpiced-u",
+      "end_line": 1079,
+      "heading": "Pfffence Fpr Equilibrium Fuel Cycle - - 3.3 0/0 Enpiced U",
+      "level": 2,
+      "start_line": 1078
+    },
+    {
+      "anchor": "powfr-30-00m8-bupnop-33000-mwd-flox-2-92f-13n-ch-2-sec",
+      "end_line": 1081,
+      "heading": "Powfr= 30.00M8, Bupnop= 33000.Mwd, Flox= 2.92F 13N/Ch**2-Sec",
+      "level": 2,
+      "start_line": 1080
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-peactor",
+      "end_line": 1083,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Peactor",
+      "level": 2,
+      "start_line": 1082
+    },
+    {
+      "anchor": "nuclidf-concentpations-gpm-atoms",
+      "end_line": 1087,
+      "heading": "Nuclidf Concentpations, Gpm Atoms",
+      "level": 2,
+      "start_line": 1084
+    },
+    {
+      "anchor": "table-a-3-continued",
+      "end_line": 1091,
+      "heading": "Table A-3 (Continued)",
+      "level": 2,
+      "start_line": 1088
+    },
+    {
+      "anchor": "power-30-00mw-burnup-33000-mwd-flux-2-92e-13n-cm-2-sec",
+      "end_line": 1093,
+      "heading": "Power= 30.00Mw, Burnup= 33000.Mwd, Flux= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1092
+    },
+    {
+      "anchor": "nuclide-concentrations-gpm-atoms",
+      "end_line": 1094,
+      "heading": "Nuclide Concentrations, Gpm Atoms",
+      "level": 2,
+      "start_line": 1094
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-chapged-to-reactor",
+      "end_line": 1098,
+      "heading": "Basis = Mt Of Heavy Metal Chapged To Reactor",
+      "level": 2,
+      "start_line": 1095
+    },
+    {
+      "anchor": "preference-pwr-equilibrium-fuel-cycle-3-3-0-0-enriched-ii",
+      "end_line": 1100,
+      "heading": "Preference Pwr Equilibrium Fuel Cycle - 3.3 0/0 Enriched Ii",
+      "level": 2,
+      "start_line": 1099
+    },
+    {
+      "anchor": "power-30-00mw-burnup-33000-mwd-flux-2-92f-13n-cm-2-sec",
+      "end_line": 1102,
+      "heading": "Power= 30.00Mw, Burnup= 33000.Mwd, Flux= 2.92F 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1101
+    },
+    {
+      "anchor": "nuclide-concentpations-gram-atoms",
+      "end_line": 1104,
+      "heading": "Nuclide Concentpations,Gram Atoms",
+      "level": 2,
+      "start_line": 1103
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-practop",
+      "end_line": 1106,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Practop",
+      "level": 2,
+      "start_line": 1105
+    },
+    {
+      "anchor": "table-a-3-continued",
+      "end_line": 1114,
+      "heading": "Table A-3 (Continued)",
+      "level": 2,
+      "start_line": 1107
+    },
+    {
+      "anchor": "nuclide-concentrations-gram-atons-basis-mt-of-hpavy-metal-charged-to-practop",
+      "end_line": 1118,
+      "heading": "Nuclide Concentrations,Gram Atons Basis= Mt Of Hpavy Metal Charged To Practop",
+      "level": 2,
+      "start_line": 1115
+    },
+    {
+      "anchor": "prefepence-pwd-fquilibrium-pupl-cycle-3-3-0-0-pnfriched-g",
+      "end_line": 1122,
+      "heading": "Prefepence Pwd Fquilibrium Pupl Cycle - 3.3 0/0 Pnfriched G",
+      "level": 2,
+      "start_line": 1119
+    },
+    {
+      "anchor": "nuclide-concentpations-gram-atoms",
+      "end_line": 1124,
+      "heading": "Nuclide Concentpations, Gram Atoms",
+      "level": 2,
+      "start_line": 1123
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-pfactor",
+      "end_line": 1126,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Pfactor",
+      "level": 2,
+      "start_line": 1125
+    },
+    {
+      "anchor": "table-a-4-continued",
+      "end_line": 1132,
+      "heading": "Table A-4 (Continued)",
+      "level": 2,
+      "start_line": 1127
+    },
+    {
+      "anchor": "reference-pwe-equilibpium-fuel-cycle-3-3-0-0-pnetched-u",
+      "end_line": 1134,
+      "heading": "Reference Pwe Equilibpium Fuel Cycle - 3.3 0/0 Pnetched U",
+      "level": 2,
+      "start_line": 1133
+    },
+    {
+      "anchor": "powpp-30-00mw-bupnup-33000-mwd-fiux-2-92f-13n-cm-2-sbc",
+      "end_line": 1140,
+      "heading": "Powpp= 30.00Mw, Bupnup= 33000.Mwd, Fiux=2.92F 13N/Cm**2-Sbc",
+      "level": 2,
+      "start_line": 1135
+    },
+    {
+      "anchor": "table-a-5-continued",
+      "end_line": 1142,
+      "heading": "Table A-5 (Continued)",
+      "level": 2,
+      "start_line": 1141
+    },
+    {
+      "anchor": "peffrence-fwr-fquilibpium-fuel-cycle-3-3-0-0-enpched-u",
+      "end_line": 1146,
+      "heading": "Peffrence Fwr Fquilibpium Fuel Cycle - - 3.3 0/0 Enpched U",
+      "level": 2,
+      "start_line": 1143
+    },
+    {
+      "anchor": "basis-mt-of-hpeavy-metal-charged-to-pfactor",
+      "end_line": 1148,
+      "heading": "Basis = Mt Of Hpeavy Metal Charged To Pfactor",
+      "level": 2,
+      "start_line": 1147
+    },
+    {
+      "anchor": "nuclide-concentpations-gram-atoms",
+      "end_line": 1152,
+      "heading": "Nuclide Concentpations,Gram Atoms",
+      "level": 2,
+      "start_line": 1149
+    },
+    {
+      "anchor": "table-a-5-continued",
+      "end_line": 1154,
+      "heading": "Table A-5 (Continued)",
+      "level": 2,
+      "start_line": 1153
+    },
+    {
+      "anchor": "preference-pwp-equilibpium-fuel-cycle-3-3-0-0-enpichd-u",
+      "end_line": 1156,
+      "heading": "Preference Pwp Equilibpium Fuel Cycle - 3.3 0/0 Enpichd U",
+      "level": 2,
+      "start_line": 1155
+    },
+    {
+      "anchor": "power-30-00mw-burnup-33000-mwd-flux-2-92e-13n-cm-2-sec",
+      "end_line": 1158,
+      "heading": "Power= 30.00Mw, Burnup= 33000.Mwd, Flux= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1157
+    },
+    {
+      "anchor": "nuclide-concentrations-gpam-atoms",
+      "end_line": 1159,
+      "heading": "Nuclide Concentrations, Gpam Atoms",
+      "level": 2,
+      "start_line": 1159
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-pfactor",
+      "end_line": 1163,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Pfactor",
+      "level": 2,
+      "start_line": 1160
+    },
+    {
+      "anchor": "preference-pwp-equitypeium-fuel-cycle-3-3-0-0-enriched-u",
+      "end_line": 1165,
+      "heading": "Preference Pwp Equitypeium Fuel Cycle - 3.3 0/0 Enriched U",
+      "level": 2,
+      "start_line": 1164
+    },
+    {
+      "anchor": "powep-30-00mw-bupnup-33000-mwd-plux-2-92e-13n-cm-2-sec",
+      "end_line": 1167,
+      "heading": "Powep= 30.00Mw, Bupnup= 33000.Mwd, Plux= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1166
+    },
+    {
+      "anchor": "nuclide-concentrations-gpam-atoms",
+      "end_line": 1169,
+      "heading": "Nuclide Concentrations, Gpam Atoms",
+      "level": 2,
+      "start_line": 1168
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-chapged-to-pfactor",
+      "end_line": 1171,
+      "heading": "Basis = Mt Of Heavy Metal Chapged To Pfactor",
+      "level": 2,
+      "start_line": 1170
+    },
+    {
+      "anchor": "table-a-5-continued",
+      "end_line": 1175,
+      "heading": "Table A-5 (Continued)",
+      "level": 2,
+      "start_line": 1172
+    },
+    {
+      "anchor": "reference-pwr-equilibpium-fuel-cycif-3-3-0-0-enriched-u",
+      "end_line": 1177,
+      "heading": "Reference Pwr Equilibpium Fuel Cycif - 3.3 0/0 Enriched U",
+      "level": 2,
+      "start_line": 1176
+    },
+    {
+      "anchor": "powep-30-00mw-bupnup-33000-mwd-flux-2-92e-13n-cm-2-sec",
+      "end_line": 1179,
+      "heading": "Powep= 30.00Mw, Bupnup= 33000.Mwd, Flux=2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1178
+    },
+    {
+      "anchor": "nuclidf-concentpations-gram-atoms",
+      "end_line": 1181,
+      "heading": "Nuclidf Concentpations,Gram Atoms",
+      "level": 2,
+      "start_line": 1180
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-rfactor",
+      "end_line": 1183,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Rfactor",
+      "level": 2,
+      "start_line": 1182
+    },
+    {
+      "anchor": "table-a-5-continued",
+      "end_line": 1187,
+      "heading": "Table A-5 (Continued)",
+      "level": 2,
+      "start_line": 1184
+    },
+    {
+      "anchor": "table-a-5-continued",
+      "end_line": 1189,
+      "heading": "Table A-5 (Continued)",
+      "level": 2,
+      "start_line": 1188
+    },
+    {
+      "anchor": "reference-pwp-fquilibrium-fuel-cycle-3-3-0-0-enpicked-u",
+      "end_line": 1191,
+      "heading": "Reference Pwp Fquilibrium Fuel Cycle - 3.3 0/0 Enpicked U",
+      "level": 2,
+      "start_line": 1190
+    },
+    {
+      "anchor": "power-30-00mw-bupnup-33000-mwd-flux-2-92e-13n-cm-2-sec",
+      "end_line": 1193,
+      "heading": "Power= 30.00Mw, Bupnup= 33000.Mwd, Flux= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1192
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-pfactor",
+      "end_line": 1195,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Pfactor",
+      "level": 2,
+      "start_line": 1194
+    },
+    {
+      "anchor": "nuclide-concentpations-gram-atoms",
+      "end_line": 1199,
+      "heading": "Nuclide Concentpations,Gram Atoms",
+      "level": 2,
+      "start_line": 1196
+    },
+    {
+      "anchor": "table-a-5-continued",
+      "end_line": 1201,
+      "heading": "Table A-5 (Continued)",
+      "level": 2,
+      "start_line": 1200
+    },
+    {
+      "anchor": "reference-pwr-equilibrium-fulc-cycle-3-3-0-0-enriched-u",
+      "end_line": 1203,
+      "heading": "Reference Pwr Equilibrium Fulc Cycle - 3.3 0/0 Enriched U",
+      "level": 2,
+      "start_line": 1202
+    },
+    {
+      "anchor": "power-30-00mw-burnup-33000-mwd-flux-2-92e-13n-cm-2-sec",
+      "end_line": 1205,
+      "heading": "Power= 30.00Mw, Burnup= 33000.Mwd, Flux= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1204
+    },
+    {
+      "anchor": "nuclide-concentrations-gpam-atoms",
+      "end_line": 1206,
+      "heading": "Nuclide Concentrations, Gpam Atoms",
+      "level": 2,
+      "start_line": 1206
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-chapged-to-reactor",
+      "end_line": 1210,
+      "heading": "Basis = Mt Of Heavy Metal Chapged To Reactor",
+      "level": 2,
+      "start_line": 1207
+    },
+    {
+      "anchor": "table-a-5-continued",
+      "end_line": 1212,
+      "heading": "Table A-5 (Continued)",
+      "level": 2,
+      "start_line": 1211
+    },
+    {
+      "anchor": "reference-pwr-equilibrium-fuel-cycle-3-3-0-0-enpiched-u",
+      "end_line": 1214,
+      "heading": "Reference Pwr Equilibrium Fuel Cycle - 3.3 0/0 Enpiched U",
+      "level": 2,
+      "start_line": 1213
+    },
+    {
+      "anchor": "power-30-00m-bupnup-33000-mwd-fluk-2-92e-13n-cm-2-sec",
+      "end_line": 1216,
+      "heading": "Power= 30.00M, Bupnup= 33000.Mwd, Fluk= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1215
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-pfactor",
+      "end_line": 1218,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Pfactor",
+      "level": 2,
+      "start_line": 1217
+    },
+    {
+      "anchor": "nuclide-concentpations-gpam-atoms",
+      "end_line": 1222,
+      "heading": "Nuclide Concentpations, Gpam Atoms",
+      "level": 2,
+      "start_line": 1219
+    },
+    {
+      "anchor": "table-a-5-continued",
+      "end_line": 1224,
+      "heading": "Table A-5 (Continued)",
+      "level": 2,
+      "start_line": 1223
+    },
+    {
+      "anchor": "ppeperence-ppr-fquilibptum-fuii-cycle-3-3-o-o-enpiced-u",
+      "end_line": 1226,
+      "heading": "Ppeperence Ppr Fquilibptum Fuii Cycle - - 3.3 O/O Enpiced U",
+      "level": 2,
+      "start_line": 1225
+    },
+    {
+      "anchor": "powep-30-00mw-burnup-33000-hwd-flux-2-92e-13n-cm-2-sec",
+      "end_line": 1228,
+      "heading": "Powep= 30.00Mw, Burnup= 33000.Hwd, Flux= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1227
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-chapged-to-peactor",
+      "end_line": 1230,
+      "heading": "Basis = Mt Of Heavy Metal Chapged To Peactor",
+      "level": 2,
+      "start_line": 1229
+    },
+    {
+      "anchor": "nuclide-concentrations-gram-atoms",
+      "end_line": 1250,
+      "heading": "Nuclide Concentrations,Gram Atoms",
+      "level": 2,
+      "start_line": 1231
+    },
+    {
+      "anchor": "reference-pwr-equilibrium-fuel-cycle-fuel-recyt-times",
+      "end_line": 1252,
+      "heading": "Reference Pwr Equilibrium Fuel Cycle - Fuel Recyt Times",
+      "level": 2,
+      "start_line": 1251
+    },
+    {
+      "anchor": "powep-30-00m-burnup-33000-mwd-fux-2-922-13n-ch-2-sec",
+      "end_line": 1254,
+      "heading": "Powep= 30.00M, Burnup= 33000.Mwd, Fux= 2.922 13N/Ch**2-Sec",
+      "level": 2,
+      "start_line": 1253
+    },
+    {
+      "anchor": "nuclide-thermal-power-watts",
+      "end_line": 1256,
+      "heading": "Nuclide Thermal Power, Watts",
+      "level": 2,
+      "start_line": 1255
+    },
+    {
+      "anchor": "basis-mt-of-hpavy-metal-charged-to-peactor",
+      "end_line": 1266,
+      "heading": "Basis = Mt Of Hpavy Metal Charged To Peactor",
+      "level": 2,
+      "start_line": 1257
+    },
+    {
+      "anchor": "table-a-9-continued",
+      "end_line": 1290,
+      "heading": "Table A-9 (Continued)",
+      "level": 2,
+      "start_line": 1267
+    },
+    {
+      "anchor": "table-a-12-continued",
+      "end_line": 1299,
+      "heading": "Table A-12 (Continued)",
+      "level": 2,
+      "start_line": 1291
+    },
+    {
+      "anchor": "90-d",
+      "end_line": 1313,
+      "heading": "90. D",
+      "level": 2,
+      "start_line": 1300
+    },
+    {
+      "anchor": "90-d",
+      "end_line": 1327,
+      "heading": "90. D",
+      "level": 2,
+      "start_line": 1314
+    },
+    {
+      "anchor": "90-d",
+      "end_line": 1342,
+      "heading": "90. D",
+      "level": 2,
+      "start_line": 1328
+    },
+    {
+      "anchor": "table-a-13-continued",
+      "end_line": 1363,
+      "heading": "Table A-13 (Continued)",
+      "level": 2,
+      "start_line": 1343
+    },
+    {
+      "anchor": "reference-prr-equilibrium-fuel-cycle-waste-decay-times",
+      "end_line": 1365,
+      "heading": "Reference Prr Equilibrium Fuel Cycle -- Waste Decay Times",
+      "level": 2,
+      "start_line": 1364
+    },
+    {
+      "anchor": "power-30-00m-burkup-33000-mwd-fux-2-92f-13h-cm-2-sec",
+      "end_line": 1367,
+      "heading": "Power= 30.00M, Burkup= 33000.Mwd, Fux= 2.92F 13H/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1366
+    },
+    {
+      "anchor": "nuclide-padi-oactivity-cupies",
+      "end_line": 1368,
+      "heading": "Nuclide Padi/Oactivity, Cupies",
+      "level": 2,
+      "start_line": 1368
+    },
+    {
+      "anchor": "basis-mt-of-hfavy-metal-charged-to-practor",
+      "end_line": 1372,
+      "heading": "Basis = Mt Of Hfavy Metal Charged To Practor",
+      "level": 2,
+      "start_line": 1369
+    },
+    {
+      "anchor": "table-a-15-continued",
+      "end_line": 1381,
+      "heading": "Table A-15 (Continued)",
+      "level": 2,
+      "start_line": 1373
+    },
+    {
+      "anchor": "prefepence-pwr-equilibrium-fuel-cycif-waste-decay-times",
+      "end_line": 1385,
+      "heading": "Prefepence Pwr Equilibrium Fuel Cycif -- Waste Decay Times",
+      "level": 2,
+      "start_line": 1382
+    },
+    {
+      "anchor": "nuclide-thppmal-power-watts",
+      "end_line": 1386,
+      "heading": "Nuclide Thppmal Power, Watts",
+      "level": 2,
+      "start_line": 1386
+    },
+    {
+      "anchor": "basis-mi-of-heavy-mptai-charged-to-refactor",
+      "end_line": 1390,
+      "heading": "Basis = Mi Of Heavy Mptai Charged To Refactor",
+      "level": 2,
+      "start_line": 1387
+    },
+    {
+      "anchor": "table-a-16-continued",
+      "end_line": 1392,
+      "heading": "Table A-16 (Continued)",
+      "level": 2,
+      "start_line": 1391
+    },
+    {
+      "anchor": "reference-pwp-equilibrium-fui-cycle-waste-decay-times",
+      "end_line": 1394,
+      "heading": "Reference Pwp Equilibrium Fui Cycle -- Waste Decay Times",
+      "level": 2,
+      "start_line": 1393
+    },
+    {
+      "anchor": "power-30-00n-burnup-33000-mwd-flux-2-92f-13n-cm-2-sec",
+      "end_line": 1396,
+      "heading": "Power= 30.00N, Burnup= 33000.Mwd, Flux= 2.92F 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1395
+    },
+    {
+      "anchor": "nuclide-thermal-power-watts",
+      "end_line": 1397,
+      "heading": "Nuclide Thermal Power, Watts",
+      "level": 2,
+      "start_line": 1397
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-pfactor",
+      "end_line": 1411,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Pfactor",
+      "level": 2,
+      "start_line": 1398
+    },
+    {
+      "anchor": "preference-pvp-equilibrium-fui-cycle-waste-decay-times",
+      "end_line": 1413,
+      "heading": "Preference Pvp Equilibrium Fui Cycle -- Waste Decay Times",
+      "level": 2,
+      "start_line": 1412
+    },
+    {
+      "anchor": "power-30-00mw-burnup-33000-mwd-flux-2-92e-13n-cm-2-sec",
+      "end_line": 1415,
+      "heading": "Power= 30.00Mw, Burnup= 33000.Mwd, Flux= 2.92E 13N/Cm**2-Sec",
+      "level": 2,
+      "start_line": 1414
+    },
+    {
+      "anchor": "nuclide-radioactivity-copies",
+      "end_line": 1417,
+      "heading": "Nuclide Radioactivity, Copies",
+      "level": 2,
+      "start_line": 1416
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-peactop",
+      "end_line": 1437,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Peactop",
+      "level": 2,
+      "start_line": 1418
+    },
+    {
+      "anchor": "reference-pwr-equilibrium-fuel-cycle-waste-decay-times",
+      "end_line": 1438,
+      "heading": "Reference Pwr Equilibrium Fuel Cycle -- Waste Decay Times",
+      "level": 2,
+      "start_line": 1438
+    },
+    {
+      "anchor": "power-30-00-mw-burnup-33000-mwd-flux-2-92e-13-n-2-sec",
+      "end_line": 1451,
+      "heading": "Power= 30.00 Mw, Burnup= 33000.Mwd, Flux= 2.92E 13 N**2-Sec",
+      "level": 2,
+      "start_line": 1439
+    },
+    {
+      "anchor": "table-a-23-continued",
+      "end_line": 1454,
+      "heading": "Table A-23 (Continued)",
+      "level": 2,
+      "start_line": 1452
+    },
+    {
+      "anchor": "spontanpous-pission-neutron-source-in-discharged-fuel-neutrons-sec",
+      "end_line": 1459,
+      "heading": "Spontanpous Pission Neutron Source In Discharged Fuel, Neutrons/Sec",
+      "level": 2,
+      "start_line": 1455
+    },
+    {
+      "anchor": "rffeence-pwr-equiliepium-fuel-cycle-waste-dpcay-times",
+      "end_line": 1461,
+      "heading": "Rffeence Pwr Equiliepium Fuel Cycle - - Waste Dpcay Times",
+      "level": 2,
+      "start_line": 1460
+    },
+    {
+      "anchor": "power-30-00-m-burnup-33000-mwd-pdx-2-92e-13-f-2-sec",
+      "end_line": 1463,
+      "heading": "Power= 30.00 M#, Burnup= 33000.Mwd, Pdx= 2.92E 13 F**2-Sec",
+      "level": 2,
+      "start_line": 1462
+    },
+    {
+      "anchor": "actynide-photon-fpeast-rates-photons-sec",
+      "end_line": 1465,
+      "heading": "Actynide Photon Fpeast Rates, Photons/Sec",
+      "level": 2,
+      "start_line": 1464
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-charged-to-refactor",
+      "end_line": 1471,
+      "heading": "Basis = Mt Of Heavy Metal Charged To Refactor",
+      "level": 2,
+      "start_line": 1466
+    },
+    {
+      "anchor": "actinydf-energy-pleese-patrs-mpv-watt-sfc",
+      "end_line": 1473,
+      "heading": "Actinydf Energy Pleese Patrs, Mpv/Watt-Sfc",
+      "level": 2,
+      "start_line": 1472
+    },
+    {
+      "anchor": "basis-mt-of-heavy-metal-chapged-to-practof",
+      "end_line": 1477,
+      "heading": "Basis = Mt Of Heavy Metal Chapged To Practof",
+      "level": 2,
+      "start_line": 1474
+    },
+    {
+      "anchor": "ornl-4628",
+      "end_line": 1481,
+      "heading": "Ornl-4628",
+      "level": 2,
+      "start_line": 1478
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1631,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1482
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1637,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1632
+    },
+    {
+      "anchor": "usaec-oro",
+      "end_line": 1766,
+      "heading": "Usaec, Oro",
+      "level": 2,
+      "start_line": 1638
+    }
+  ],
+  "source_dir": "pdf/ORNL-4628",
+  "tables": [],
+  "title": "ORIGEN - THE ORNL ISOTOPE GENERATION AND DEPLETION CODE",
+  "topics": [
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium",
+    "irradiation-and-damage",
+    "salt-chemistry-and-redox",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

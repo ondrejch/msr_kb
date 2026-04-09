@@ -1,0 +1,558 @@
+{
+  "authors": [
+    "OPERATION OF THE SAMPLER-ENRICHER",
+    "MOLTEN SALT REACTOR EXPERIMENT",
+    "R. B. Gallaher",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3524.jsonl",
+  "date_text": "1971",
+  "doc_id": "ornl-tm-3524",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          103,
+          169
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          160,
+          231
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          239
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 28,
+        "line_hits": [
+          11,
+          91,
+          97,
+          109,
+          111,
+          115,
+          131,
+          133,
+          140,
+          144,
+          146,
+          148,
+          162,
+          173,
+          181,
+          189,
+          193,
+          217,
+          219,
+          235,
+          289,
+          313,
+          337,
+          402,
+          409,
+          415,
+          416,
+          419
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 21,
+        "line_hits": [
+          97,
+          105,
+          137,
+          144,
+          150,
+          169,
+          201,
+          203,
+          215,
+          223,
+          233,
+          235,
+          248,
+          259,
+          269,
+          283,
+          313,
+          373,
+          382,
+          402,
+          419
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          105,
+          156
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          373,
+          392
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          103
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 14,
+        "line_hits": [
+          3,
+          19,
+          33,
+          408,
+          409,
+          410,
+          411,
+          425,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          5,
+          23,
+          142,
+          315,
+          408,
+          409,
+          410,
+          411,
+          413,
+          414,
+          421
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          29
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 14,
+        "line_hits": [
+          15,
+          91,
+          97,
+          99,
+          103,
+          131,
+          173,
+          408,
+          409,
+          410,
+          411,
+          412,
+          416,
+          419
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          227
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          213
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          103
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "eba210a549d400b69ee1cab21d6273fd390969c864659a4dc7a7b047a9ed6510",
+  "markdown_path": "pdf/ORNL-TM-3524/ORNL-TM-3524/hybrid_ocr/ORNL-TM-3524.md",
+  "report_number": "ORNL-TM-3524",
+  "report_numbers": [
+    "ORNL-TM-3524"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 45,
+  "sections": [
+    {
+      "anchor": "ornl-tm-3524",
+      "end_line": 10,
+      "heading": "Ornl-Tm-3524",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "operation-of-the-sampler-enricher",
+      "end_line": 14,
+      "heading": "Operation Of The Sampler-Enricher",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "molten-salt-reactor-experiment",
+      "end_line": 20,
+      "heading": "Molten Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "october-1971",
+      "end_line": 22,
+      "heading": "October 1971",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 28,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 32,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 36,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "contents",
+      "end_line": 38,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "page",
+      "end_line": 90,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "operation-of-the-sampler-enricher-in-the-molten-salt-reactor-experiment",
+      "end_line": 94,
+      "heading": "Operation of the Sampler-Enricher in the Molten Salt Reactor Experiment",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 100,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 112,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "design-criteria",
+      "end_line": 126,
+      "heading": "Design Criteria",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "description",
+      "end_line": 128,
+      "heading": "Description",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "equipment",
+      "end_line": 153,
+      "heading": "Equipment",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "capsules",
+      "end_line": 163,
+      "heading": "Capsules",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "photo-87144",
+      "end_line": 170,
+      "heading": "Photo 87144",
+      "level": 2,
+      "start_line": 164
+    },
+    {
+      "anchor": "instrumentation",
+      "end_line": 186,
+      "heading": "Instrumentation",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "operating-procedures",
+      "end_line": 191,
+      "heading": "Operating Procedures",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "photo-69409",
+      "end_line": 196,
+      "heading": "Photo 69409",
+      "level": 2,
+      "start_line": 192
+    },
+    {
+      "anchor": "sampling",
+      "end_line": 210,
+      "heading": "Sampling",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "enriching",
+      "end_line": 224,
+      "heading": "Enriching",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "operating-experience",
+      "end_line": 228,
+      "heading": "Operating Experience",
+      "level": 1,
+      "start_line": 225
+    },
+    {
+      "anchor": "sample-capsules",
+      "end_line": 236,
+      "heading": "Sample Capsules",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "drive-unit",
+      "end_line": 244,
+      "heading": "Drive Unit",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "photo-92581",
+      "end_line": 272,
+      "heading": "Photo 92581",
+      "level": 2,
+      "start_line": 245
+    },
+    {
+      "anchor": "photo-88999",
+      "end_line": 277,
+      "heading": "Photo 88999",
+      "level": 2,
+      "start_line": 273
+    },
+    {
+      "anchor": "photo-89000",
+      "end_line": 286,
+      "heading": "Photo 89000",
+      "level": 2,
+      "start_line": 278
+    },
+    {
+      "anchor": "manipulator",
+      "end_line": 310,
+      "heading": "Manipulator",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "operational-and-maintenance-valves",
+      "end_line": 319,
+      "heading": "Operational and Maintenance Valves",
+      "level": 1,
+      "start_line": 311
+    },
+    {
+      "anchor": "photo-68481",
+      "end_line": 324,
+      "heading": "Photo 68481",
+      "level": 2,
+      "start_line": 320
+    },
+    {
+      "anchor": "access-port",
+      "end_line": 338,
+      "heading": "Access Port",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "photo-88903",
+      "end_line": 345,
+      "heading": "Photo 88903",
+      "level": 2,
+      "start_line": 339
+    },
+    {
+      "anchor": "removal-valve",
+      "end_line": 353,
+      "heading": "Removal Valve",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "removal-seal",
+      "end_line": 357,
+      "heading": "Removal Seal",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "photo-81698",
+      "end_line": 364,
+      "heading": "Photo 81698",
+      "level": 2,
+      "start_line": 358
+    },
+    {
+      "anchor": "lighting-and-viewing",
+      "end_line": 370,
+      "heading": "Lighting and Viewing",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "vacuum-pumps",
+      "end_line": 374,
+      "heading": "Vacuum Pumps",
+      "level": 1,
+      "start_line": 371
+    },
+    {
+      "anchor": "electric-penetrations-and-wiring",
+      "end_line": 378,
+      "heading": "Electric Penetrations and Wiring",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "photo-69408",
+      "end_line": 389,
+      "heading": "Photo 69408",
+      "level": 2,
+      "start_line": 379
+    },
+    {
+      "anchor": "instrumentation",
+      "end_line": 399,
+      "heading": "Instrumentation",
+      "level": 1,
+      "start_line": 390
+    },
+    {
+      "anchor": "summary",
+      "end_line": 405,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 400
+    },
+    {
+      "anchor": "references",
+      "end_line": 422,
+      "heading": "References",
+      "level": 1,
+      "start_line": 406
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 434,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 449,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 435
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3524",
+  "tables": [],
+  "title": "![](images/bcc222e19ea844f21c795fdcf5c09ae4025b0648ee7272af9abb786e43367783.jpg)",
+  "topics": [
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,892 @@
+{
+  "authors": [
+    "CHEMISTRY",
+    "CHEMICAL PROBLEMS",
+    "OF NON-AQUEOUS FLUID-FUEL REACTORS",
+    "Authors",
+    "George Scatchard",
+    "Herbert M. Clark"
+  ],
+  "claims_path": "kb/normalized/claims/mit-5001.jsonl",
+  "date_text": "October 15, 1952",
+  "doc_id": "mit-5001",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 6,
+        "line_hits": [
+          269,
+          279,
+          533,
+          572,
+          1312,
+          1324
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          275,
+          541,
+          547,
+          559,
+          1312
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          275,
+          541,
+          547
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          534,
+          543,
+          1069
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          275,
+          1312
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          535
+        ],
+        "name": "Hastelloy C"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          275
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          543
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          263,
+          539
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          513,
+          589,
+          592,
+          593,
+          594,
+          628,
+          1058,
+          1072
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          5,
+          37,
+          1086,
+          1173,
+          1220,
+          1422,
+          1434
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1071,
+          1282,
+          1286,
+          1424
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1432
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 103,
+        "line_hits": [
+          250,
+          290,
+          292,
+          302,
+          314,
+          316,
+          320,
+          326,
+          330,
+          348,
+          350,
+          363,
+          365,
+          387,
+          389,
+          417,
+          433,
+          435,
+          461,
+          463,
+          483,
+          489,
+          497,
+          513,
+          515,
+          519,
+          547,
+          549,
+          572,
+          574,
+          582,
+          648,
+          663,
+          665,
+          667,
+          668,
+          715,
+          721,
+          742,
+          744,
+          787,
+          803,
+          841,
+          875,
+          877,
+          889,
+          891,
+          911,
+          943,
+          951
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1434
+        ],
+        "name": "AHR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 8,
+        "line_hits": [
+          9,
+          250,
+          286,
+          292,
+          302,
+          1086,
+          1308,
+          1402
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 3,
+        "line_hits": [
+          592,
+          593,
+          594
+        ],
+        "name": "ANP Quarterly Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          541,
+          992,
+          1011
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          261,
+          992,
+          1011
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          992
+        ],
+        "name": "UF3"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          567
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          549
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "8cb0f617a836f869283b3720bb355882ba4db5b798a3317f208b75f6cf6d839c",
+  "markdown_path": "pdf/MIT-5001/MIT-5001/hybrid_ocr/MIT-5001.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 84,
+  "sections": [
+    {
+      "anchor": "mit-5001",
+      "end_line": 2,
+      "heading": "Mit-5001",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "chemistry",
+      "end_line": 4,
+      "heading": "Chemistry",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 6,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "chemical-problems",
+      "end_line": 8,
+      "heading": "Chemical Problems",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "of-non-aqueous-fluid-fuel-reactors",
+      "end_line": 12,
+      "heading": "Of Non-Aqueous Fluid-Fuel Reactors",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "authors",
+      "end_line": 26,
+      "heading": "Authors",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "nuclear-engineering-project",
+      "end_line": 28,
+      "heading": "Nuclear Engineering Project",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "massachusetts-institute-of-technology",
+      "end_line": 32,
+      "heading": "Massachusetts Institute Of Technology",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "contract-no-at-30-1-1359",
+      "end_line": 36,
+      "heading": "Contract No. At(30-1)-1359",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 38,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "new-york-operations-office",
+      "end_line": 46,
+      "heading": "New York Operations Office",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 54,
+      "heading": "UNCLASSIFIED",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 166,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "chapter-v-suggestions-for-research-program-88",
+      "end_line": 200,
+      "heading": "Chapter V Suggestions for Research Program 88",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "acknowledgments-98",
+      "end_line": 202,
+      "heading": "Acknowledgments 98",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 227,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 245,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "chapter-i-general-discussion",
+      "end_line": 303,
+      "heading": "CHAPTER I. GENERAL DISCUSSION",
+      "level": 1,
+      "start_line": 246
+    },
+    {
+      "anchor": "chapter-ii-chemical-problems-associated-with-fast-fused-salt-reactors",
+      "end_line": 307,
+      "heading": "CHAPTER II. CHEMICAL PROBLEMS ASSOCIATED WITH FAST FUSED-SALT REACTORS",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "1-selection-of-fused-salt-fuel-mixture",
+      "end_line": 309,
+      "heading": "1. SELECTION OF FUSED-SALT FUEL MIXTURE",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "1-1-nuclear-requirements",
+      "end_line": 317,
+      "heading": "1.1 NUCLEAR REQUIREMENTS",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "1-2-chemical-requirements",
+      "end_line": 356,
+      "heading": "1.2 CHEMICAL REQUIREMENTS",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "2-properties-of-the-fused-salt-components",
+      "end_line": 358,
+      "heading": "2. PROPERTIES OF THE FUSED-SALT COMPONENTS",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "2-1-major-components-and-neptunium-and-plutonium",
+      "end_line": 372,
+      "heading": "2.1 MAJOR COMPONENTS AND NEPTUNIUM AND PLUTONIUM",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "figure-ii-4",
+      "end_line": 430,
+      "heading": "Figure Ii-4.",
+      "level": 2,
+      "start_line": 373
+    },
+    {
+      "anchor": "2-2-fission-products",
+      "end_line": 480,
+      "heading": "2.2 FISSION PRODUCTS",
+      "level": 1,
+      "start_line": 431
+    },
+    {
+      "anchor": "2-3-chlorine-balance-and-radiation-decomposition",
+      "end_line": 516,
+      "heading": "2.3 CHLORINE BALANCE AND RADIATION DECOMPOSITION",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "2-4-deposition-of-solids-from-fused-salt-mixtures",
+      "end_line": 526,
+      "heading": "2.4 DEPOSITION OF SOLIDS FROM FUSED-SALT MIXTURES",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "2-5-container-material-for-fused-salts",
+      "end_line": 564,
+      "heading": "2.5 CONTAINER MATERIAL FOR FUSED SALTS",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "table-ii-7",
+      "end_line": 585,
+      "heading": "Table Ii-7.",
+      "level": 2,
+      "start_line": 565
+    },
+    {
+      "anchor": "references",
+      "end_line": 619,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 586
+    },
+    {
+      "anchor": "chapter-iii-chemistry-of-liquid-metal-fused-salt-systems",
+      "end_line": 623,
+      "heading": "CHAPTER III. CHEMISTRY OF LIQUID-METAL FUSED-SALT SYSTEMS",
+      "level": 1,
+      "start_line": 620
+    },
+    {
+      "anchor": "1-equilibria-between-solutions-in-liquid-bismuth-and-fused-salts",
+      "end_line": 625,
+      "heading": "1. EQUILIBRIA BETWEEN SOLUTIONS IN LIQUID BISMUTH AND FUSED SALTS",
+      "level": 2,
+      "start_line": 624
+    },
+    {
+      "anchor": "1-1-significance-of-experiments",
+      "end_line": 631,
+      "heading": "1.1 SIGNIFICANCE OF EXPERIMENTS",
+      "level": 2,
+      "start_line": 626
+    },
+    {
+      "anchor": "1-2-description-of-experimental-system",
+      "end_line": 645,
+      "heading": "1.2 DESCRIPTION OF EXPERIMENTAL SYSTEM",
+      "level": 2,
+      "start_line": 632
+    },
+    {
+      "anchor": "1-3-experimental-results",
+      "end_line": 650,
+      "heading": "1.3 EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 646
+    },
+    {
+      "anchor": "concentration-of-rare-earthis-in-fused-salts-p-p-m",
+      "end_line": 655,
+      "heading": "Concentration Of Rare Earthis In Fused Salts - P.P.M.",
+      "level": 2,
+      "start_line": 651
+    },
+    {
+      "anchor": "concentration-of-rare-earth-s-in-bismuth-p-p-m",
+      "end_line": 657,
+      "heading": "Concentration Of Rare Earth'S In Bismuth - P.P.M.",
+      "level": 2,
+      "start_line": 656
+    },
+    {
+      "anchor": "table-iii-1",
+      "end_line": 672,
+      "heading": "Table Iii-1.",
+      "level": 2,
+      "start_line": 658
+    },
+    {
+      "anchor": "2-correlation-of-experimental-results",
+      "end_line": 674,
+      "heading": "2. CORRELATION OF EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 673
+    },
+    {
+      "anchor": "2-1-model-for-equilibrium-between-fused-salts-and-liquid-metals",
+      "end_line": 749,
+      "heading": "2.1 MODEL FOR EQUILIBRIUM BETWEEN FUSED SALTS AND LIQUID METALS",
+      "level": 1,
+      "start_line": 675
+    },
+    {
+      "anchor": "table-iii-2",
+      "end_line": 836,
+      "heading": "Table Iii-2.",
+      "level": 2,
+      "start_line": 750
+    },
+    {
+      "anchor": "2-2-quantitative-results",
+      "end_line": 860,
+      "heading": "2.2 QUANTITATIVE RESULTS",
+      "level": 1,
+      "start_line": 837
+    },
+    {
+      "anchor": "2-3-distribution-of-plutonium",
+      "end_line": 894,
+      "heading": "2.3 DISTRIBUTION OF PLUTONIUM",
+      "level": 1,
+      "start_line": 861
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 916,
+      "heading": "TABLE III",
+      "level": 1,
+      "start_line": 895
+    },
+    {
+      "anchor": "2-4-criticism-of-model",
+      "end_line": 926,
+      "heading": "2.4 CRITICISM OF MODEL",
+      "level": 1,
+      "start_line": 917
+    },
+    {
+      "anchor": "3-applications-of-theory-to-reactor-problems",
+      "end_line": 928,
+      "heading": "3. APPLICATIONS OF THEORY TO REACTOR PROBLEMS",
+      "level": 1,
+      "start_line": 927
+    },
+    {
+      "anchor": "3-1-general",
+      "end_line": 948,
+      "heading": "3.1 GENERAL",
+      "level": 1,
+      "start_line": 929
+    },
+    {
+      "anchor": "3-2-separation-processes",
+      "end_line": 1007,
+      "heading": "3.2 SEPARATION PROCESSES",
+      "level": 1,
+      "start_line": 949
+    },
+    {
+      "anchor": "liquid-metal-fuel",
+      "end_line": 1015,
+      "heading": "Liquid-Metal Fuel",
+      "level": 1,
+      "start_line": 1008
+    },
+    {
+      "anchor": "fused-salt-fuel",
+      "end_line": 1024,
+      "heading": "Fused-Salt Fuel",
+      "level": 1,
+      "start_line": 1016
+    },
+    {
+      "anchor": "3-3-corrosion",
+      "end_line": 1054,
+      "heading": "3.3 CORROSION",
+      "level": 1,
+      "start_line": 1025
+    },
+    {
+      "anchor": "references",
+      "end_line": 1073,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1055
+    },
+    {
+      "anchor": "chapter-iv-separation-processing",
+      "end_line": 1077,
+      "heading": "CHAPTER IV. SEPARATION PROCESSING",
+      "level": 1,
+      "start_line": 1074
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 1091,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "2-stoichiometric-requirements",
+      "end_line": 1093,
+      "heading": "2. STOICHIOMETRIC REQUIREMENTS",
+      "level": 1,
+      "start_line": 1092
+    },
+    {
+      "anchor": "2-1-over-all-materials-balances",
+      "end_line": 1124,
+      "heading": "2.1 OVER-ALL MATERIALS BALANCES",
+      "level": 1,
+      "start_line": 1094
+    },
+    {
+      "anchor": "2-2-higher-isotopes",
+      "end_line": 1128,
+      "heading": "2.2 HIGHER ISOTOPES",
+      "level": 1,
+      "start_line": 1125
+    },
+    {
+      "anchor": "2-3-summary-of-separation-requirements-and-objectives",
+      "end_line": 1147,
+      "heading": "2.3 SUMMARY OF SEPARATION REQUIREMENTS AND OBJECTIVES",
+      "level": 1,
+      "start_line": 1129
+    },
+    {
+      "anchor": "2-4-preseparation",
+      "end_line": 1157,
+      "heading": "2.4 PRESEPARATION",
+      "level": 1,
+      "start_line": 1148
+    },
+    {
+      "anchor": "3-unit-processes",
+      "end_line": 1159,
+      "heading": "3. UNIT PROCESSES",
+      "level": 1,
+      "start_line": 1158
+    },
+    {
+      "anchor": "3-1-wet-processes",
+      "end_line": 1176,
+      "heading": "3.1 WET PROCESSES",
+      "level": 1,
+      "start_line": 1160
+    },
+    {
+      "anchor": "3-2-processes-for-liquid-metal-fuels",
+      "end_line": 1207,
+      "heading": "3.2 PROCESSES FOR LIQUID-METAL FUELS",
+      "level": 1,
+      "start_line": 1177
+    },
+    {
+      "anchor": "3-3-processes-for-fused-salt-fuels",
+      "end_line": 1231,
+      "heading": "3.3 PROCESSES FOR FUSED-SALT FUELS",
+      "level": 1,
+      "start_line": 1208
+    },
+    {
+      "anchor": "4-tentative-flowsheets-for-processing-bi-u-pu-fuels",
+      "end_line": 1271,
+      "heading": "4. TENTATIVE FLOWSHEETS FOR PROCESSING Bi-U-Pu FUELS",
+      "level": 1,
+      "start_line": 1232
+    },
+    {
+      "anchor": "references",
+      "end_line": 1287,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1272
+    },
+    {
+      "anchor": "chapter-v-suggestions-for-research-program",
+      "end_line": 1289,
+      "heading": "CHAPTER V. SUGGESTIONS FOR RESEARCH PROGRAM",
+      "level": 1,
+      "start_line": 1288
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 1303,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 1290
+    },
+    {
+      "anchor": "2-pure-substances",
+      "end_line": 1305,
+      "heading": "2. PURE SUBSTANCES",
+      "level": 1,
+      "start_line": 1304
+    },
+    {
+      "anchor": "2-1-physical-properties",
+      "end_line": 1309,
+      "heading": "2.1 PHYSICAL PROPERTIES",
+      "level": 1,
+      "start_line": 1306
+    },
+    {
+      "anchor": "2-2-chemical-properties",
+      "end_line": 1315,
+      "heading": "2.2 CHEMICAL PROPERTIES",
+      "level": 1,
+      "start_line": 1310
+    },
+    {
+      "anchor": "3-mixtures",
+      "end_line": 1317,
+      "heading": "3. MIXTURES",
+      "level": 1,
+      "start_line": 1316
+    },
+    {
+      "anchor": "3-1-alloys",
+      "end_line": 1333,
+      "heading": "3.1 ALLOYS",
+      "level": 1,
+      "start_line": 1318
+    },
+    {
+      "anchor": "3-2-salt-mixtures",
+      "end_line": 1345,
+      "heading": "3.2 SALT MIXTURES",
+      "level": 1,
+      "start_line": 1334
+    },
+    {
+      "anchor": "3-3-metal-salt-systems",
+      "end_line": 1355,
+      "heading": "3.3 METAL-SALT SYSTEMS",
+      "level": 1,
+      "start_line": 1346
+    },
+    {
+      "anchor": "4-radiation-stability",
+      "end_line": 1359,
+      "heading": "4. RADIATION STABILITY",
+      "level": 1,
+      "start_line": 1356
+    },
+    {
+      "anchor": "5-kinetics",
+      "end_line": 1363,
+      "heading": "5. KINETICS",
+      "level": 1,
+      "start_line": 1360
+    },
+    {
+      "anchor": "6-physical-properties-of-fuels",
+      "end_line": 1367,
+      "heading": "6. PHYSICAL PROPERTIES OF FUELS",
+      "level": 1,
+      "start_line": 1364
+    },
+    {
+      "anchor": "7-unit-processes-for-separation",
+      "end_line": 1371,
+      "heading": "7. UNIT PROCESSES FOR SEPARATION",
+      "level": 1,
+      "start_line": 1368
+    },
+    {
+      "anchor": "7-1-liquid-metal-processes",
+      "end_line": 1388,
+      "heading": "7.1 LIQUID-METAL PROCESSES",
+      "level": 1,
+      "start_line": 1372
+    },
+    {
+      "anchor": "8-engineering-development-of-complete-separation-processes",
+      "end_line": 1399,
+      "heading": "8. ENGINEERING DEVELOPMENT OF COMPLETE SEPARATION PROCESSES",
+      "level": 1,
+      "start_line": 1389
+    },
+    {
+      "anchor": "9-conclusion",
+      "end_line": 1403,
+      "heading": "9. CONCLUSION",
+      "level": 1,
+      "start_line": 1400
+    },
+    {
+      "anchor": "references",
+      "end_line": 1417,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1404
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 1445,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 1418
+    }
+  ],
+  "source_dir": "pdf/MIT-5001",
+  "tables": [],
+  "title": "MIT-5001",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

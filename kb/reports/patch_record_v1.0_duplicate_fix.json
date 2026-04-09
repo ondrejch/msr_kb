@@ -1,0 +1,54 @@
+{
+  "patch_id": "v1.0-duplicate-fix",
+  "applied_date": "2026-04-08",
+  "description": "Normalize document deduplication via directory-name-first doc_id extraction",
+  "file_modified": "deterministic_compiler_v2.py",
+  "functions_modified": [
+    "extract_doc_id",
+    "canonicalize_report_token"
+  ],
+  "root_cause": {
+    "issue": "Duplicate document entries in build_manifest (50 entries)",
+    "mechanism": "extract_report_numbers() finds CITED report numbers (bibliographies, 'previously issued' lists) before actual document metadata, causing incorrect doc_id assignment",
+    "example": "Directory ORNL-TM-0732 had doc_id=ornl-tm-728 because text contained 'ORNL-TM-728' in bibliography before its own number"
+  },
+  "fix_details": {
+    "strategy": "Prioritize directory name as canonical source when pattern matches known report number formats",
+    "normalization": "Strip leading zeros from report numbers (ORNL-0528 -> ornl-528)",
+    "patterns": "Extended regex to match compound prefixes (ORNL-TM-XXXX, ORNL-CF-XX-XX-XXX)"
+  },
+  "impact": {
+    "before": {
+      "total_entries": 637,
+      "unique_doc_ids": 587,
+      "duplicate_entries": 50,
+      "top_duplicates": ["ornl-528 x6", "ornl-2474 x6", "anl-6892 x5", "ornl-tm-728 x5"]
+    },
+    "after": {
+      "total_entries": 637,
+      "unique_doc_ids": 630,
+      "duplicate_entries": 7,
+      "improvement": "86% reduction in duplicate entries"
+    },
+    "remaining_duplicates": [
+      "anl-4342 x2 (FFR chapters citing ANL-4342)",
+      "anl-6792 x2 (FFR chapters citing ANL-6792)", 
+      "cf-56-8-204 x2 (FFR chapters citing CF-56-8-204)",
+      "molten-salt-reactors x2 (FFR book chapters)",
+      "oak-ridge-national-laboratory x2 (ORNL Review issues without report numbers)",
+      "ornl-5132 x2 (one cites ORNL-2474)",
+      "ornl-cf-44-11-236 x2 (FFR chapters citing ORNL-CF-44-11-236)"
+    ]
+  },
+  "verification": {
+    "commands": [
+      "python3 compile_incremental.py --input-root pdf --output-root kb",
+      "python3 -c \"import json; from collections import Counter; ids = json.load(open('kb/manifests/incremental_build_manifest.json')).get('recompiled_doc_ids', []); dups = {k:v for k,v in Counter(ids).items() if v > 1}; print(f'Duplicates: {len(dups)} groups, {sum(v-1 for v in dups.values())} entries')\""
+    ]
+  },
+  "next_steps": [
+    "Consider FFR chapter normalization (chapters share book-level metadata, not individual report numbers)",
+    "Add ORNL-Review report number extraction patterns",
+    "Investigate ornl-5132 / ornl-tm-5920 duplicate report number conflict"
+  ]
+}

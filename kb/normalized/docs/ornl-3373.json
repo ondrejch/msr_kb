@@ -1,0 +1,506 @@
+{
+  "authors": [
+    "MASTER",
+    "THERMAL ANALYSIS AND GRADIENT",
+    "QUENCHING APPARATUS AND TECHNIQUES",
+    "SALT PHASE EQUILIBRIA",
+    "H. A. Friedman",
+    "G.M.Hebert"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-3373.jsonl",
+  "date_text": "1963",
+  "doc_id": "ornl-3373",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 11,
+        "line_hits": [
+          141,
+          143,
+          148,
+          152,
+          173,
+          199,
+          216,
+          230,
+          239,
+          247,
+          253
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          141,
+          148,
+          165
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          129,
+          152
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          152
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          173
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          1,
+          25,
+          72,
+          121,
+          125,
+          152,
+          156,
+          162,
+          209,
+          261,
+          286,
+          298,
+          301
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          33,
+          82,
+          344
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          29,
+          78
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 28,
+        "line_hits": [
+          41,
+          121,
+          125,
+          127,
+          129,
+          137,
+          141,
+          143,
+          148,
+          150,
+          165,
+          167,
+          171,
+          173,
+          185,
+          189,
+          193,
+          195,
+          216,
+          226,
+          235,
+          237,
+          249,
+          255,
+          259,
+          261,
+          263,
+          269
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          274,
+          275,
+          276
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          259,
+          274,
+          275
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          274,
+          276
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          276
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "045df35b7f7ff2d678946d052c05819a891cbdd87b833471218a9dec3d8f9416",
+  "markdown_path": "pdf/ORNL-3373/ORNL-3373/hybrid_ocr/ORNL-3373.md",
+  "report_number": "ORNL-3373",
+  "report_numbers": [
+    "ORNL-3373"
+  ],
+  "report_series": null,
+  "section_count": 43,
+  "sections": [
+    {
+      "anchor": "ornl-3373",
+      "end_line": 6,
+      "heading": "Ornl-3373",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 8,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "thermal-analysis-and-gradient",
+      "end_line": 10,
+      "heading": "Thermal Analysis And Gradient",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "quenching-apparatus-and-techniques",
+      "end_line": 12,
+      "heading": "Quenching Apparatus And Techniques",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "for-the-investigation-of-fused",
+      "end_line": 14,
+      "heading": "For The Investigation Of Fused",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "salt-phase-equilibria",
+      "end_line": 24,
+      "heading": "Salt Phase Equilibria",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 28,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 32,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 34,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 38,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 50,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 61,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 67,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 69,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "jan-4-1963",
+      "end_line": 71,
+      "heading": "Jan 4-1963",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 77,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 81,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 83,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "this-page-was-intentionally-left-blank",
+      "end_line": 85,
+      "heading": "THIS PAGE WAS INTENTIONALLY LEFT BLANK",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "contents",
+      "end_line": 118,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 122,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 132,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "methods",
+      "end_line": 138,
+      "heading": "METHODS",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "normal-procedure",
+      "end_line": 153,
+      "heading": "Normal Procedure",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 155,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 154
+    },
+    {
+      "anchor": "ornl-lr-dwg-62215",
+      "end_line": 161,
+      "heading": "Ornl-Lr-Dwg 62215",
+      "level": 2,
+      "start_line": 156
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg62214",
+      "end_line": 168,
+      "heading": "Unclassified Ornl-Lr-Dwg62214",
+      "level": 2,
+      "start_line": 162
+    },
+    {
+      "anchor": "special-procedure",
+      "end_line": 186,
+      "heading": "Special Procedure",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "quenching-techniques",
+      "end_line": 190,
+      "heading": "Quenching Techniques",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "preparation-of-samples",
+      "end_line": 196,
+      "heading": "Preparation of Samples",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "preparation-of-quench-tubes",
+      "end_line": 208,
+      "heading": "Preparation of quench tubes",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-70688",
+      "end_line": 227,
+      "heading": "Unclassified Ornl-Lr-Dwg 70688",
+      "level": 2,
+      "start_line": 209
+    },
+    {
+      "anchor": "quench-furnaces",
+      "end_line": 243,
+      "heading": "Quench Furnaces",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "gradient-quenching-apparatus",
+      "end_line": 256,
+      "heading": "Gradient Quenching Apparatus",
+      "level": 2,
+      "start_line": 244
+    },
+    {
+      "anchor": "accuracy-and-precision-of-measurement",
+      "end_line": 266,
+      "heading": "Accuracy and Precision of Measurement",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 270,
+      "heading": "Acknowledgment",
+      "level": 1,
+      "start_line": 267
+    },
+    {
+      "anchor": "references",
+      "end_line": 279,
+      "heading": "References",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "this-page",
+      "end_line": 281,
+      "heading": "This Page",
+      "level": 2,
+      "start_line": 280
+    },
+    {
+      "anchor": "was-intentionally",
+      "end_line": 283,
+      "heading": "Was Intentionally",
+      "level": 2,
+      "start_line": 282
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 285,
+      "heading": "Left Blank",
+      "level": 2,
+      "start_line": 284
+    },
+    {
+      "anchor": "ornl-3373",
+      "end_line": 291,
+      "heading": "Ornl-3373",
+      "level": 2,
+      "start_line": 286
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 341,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 344,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 342
+    }
+  ],
+  "source_dir": "pdf/ORNL-3373",
+  "tables": [],
+  "title": "ORNL-3373",
+  "topics": [
+    "instrumentation-and-controls",
+    "salt-chemistry-and-redox",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

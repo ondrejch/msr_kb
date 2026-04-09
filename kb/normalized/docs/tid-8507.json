@@ -1,0 +1,2766 @@
+{
+  "authors": [
+    "CENTRAL RESEARCH LIBRAR",
+    "DOCUMENT COLLECTION",
+    "FLUID FUEL",
+    "REACTORS",
+    "TASK FORCE",
+    "United States"
+  ],
+  "claims_path": "kb/normalized/claims/tid-8507.jsonl",
+  "date_text": "January 2, 1959",
+  "doc_id": "tid-8507",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 81,
+        "line_hits": [
+          229,
+          299,
+          303,
+          321,
+          327,
+          329,
+          331,
+          333,
+          335,
+          383,
+          387,
+          575,
+          604,
+          610,
+          748,
+          764,
+          772,
+          784,
+          802,
+          803,
+          849,
+          927,
+          990,
+          1066,
+          1140,
+          1141,
+          1167,
+          1169,
+          1175,
+          1183,
+          1187,
+          1188,
+          1192,
+          1194,
+          1220,
+          1230,
+          1252,
+          1274,
+          1280,
+          1282,
+          1286,
+          1288,
+          1386,
+          1458,
+          1460,
+          1492,
+          1502,
+          1511,
+          1529,
+          1537
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          225,
+          299,
+          321,
+          341,
+          553,
+          605,
+          618,
+          849,
+          1200,
+          1266,
+          1270,
+          1272,
+          1282,
+          1300,
+          1302,
+          1328,
+          1330,
+          1454,
+          1523,
+          1527
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          309,
+          549,
+          1504,
+          1663,
+          1792,
+          2469,
+          2479,
+          2481,
+          2533,
+          2537,
+          2563,
+          2800
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          549,
+          553,
+          1183,
+          1266,
+          2417,
+          2433,
+          2467,
+          2471,
+          2711,
+          2713,
+          2715
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          553,
+          1183,
+          1276,
+          1792,
+          2315,
+          2417,
+          2513
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          927,
+          949,
+          2917,
+          3136,
+          3505
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          417,
+          2479,
+          2493,
+          2519,
+          2563
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          784,
+          802
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1163,
+          1885
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1266
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 74,
+        "line_hits": [
+          299,
+          303,
+          401,
+          467,
+          885,
+          1110,
+          1206,
+          1208,
+          1214,
+          1230,
+          1262,
+          1298,
+          1304,
+          1340,
+          1348,
+          1354,
+          1382,
+          1388,
+          1392,
+          1402,
+          1404,
+          1408,
+          1420,
+          1422,
+          1432,
+          1511,
+          1555,
+          1636,
+          1663,
+          1691,
+          1824,
+          1826,
+          1835,
+          1841,
+          1845,
+          1847,
+          1887,
+          1893,
+          1899,
+          1940,
+          1946,
+          1986,
+          2049,
+          2053,
+          2059,
+          2071,
+          2211,
+          2213,
+          2215,
+          2356
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 67,
+        "line_hits": [
+          309,
+          403,
+          515,
+          885,
+          1111,
+          1198,
+          1298,
+          1316,
+          1344,
+          1350,
+          1366,
+          1388,
+          1390,
+          1404,
+          1420,
+          1422,
+          1438,
+          1440,
+          1511,
+          1555,
+          1636,
+          1824,
+          1826,
+          1828,
+          1835,
+          1867,
+          1871,
+          1887,
+          1889,
+          1911,
+          1923,
+          1936,
+          1946,
+          1952,
+          1992,
+          2045,
+          2057,
+          2071,
+          2199,
+          2201,
+          2207,
+          2219,
+          2279,
+          2357,
+          2419,
+          2421,
+          2429,
+          2441,
+          2493,
+          2519
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 58,
+        "line_hits": [
+          329,
+          413,
+          421,
+          429,
+          431,
+          887,
+          949,
+          988,
+          1282,
+          1298,
+          1348,
+          1356,
+          1392,
+          1408,
+          1410,
+          1416,
+          1777,
+          1784,
+          1794,
+          1824,
+          1831,
+          1837,
+          1841,
+          1863,
+          1865,
+          1869,
+          1897,
+          1899,
+          1923,
+          1994,
+          1999,
+          2007,
+          2205,
+          2215,
+          2277,
+          2295,
+          2481,
+          2495,
+          2525,
+          2533,
+          2591,
+          3088,
+          3090,
+          3091,
+          3092,
+          3093,
+          3094,
+          3095,
+          3096,
+          3097
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          309,
+          849,
+          884,
+          949,
+          988,
+          992,
+          1352,
+          1885,
+          1889,
+          1891,
+          1893,
+          1907,
+          1948,
+          1956,
+          2419,
+          2427,
+          2441,
+          2605,
+          2643,
+          2647,
+          2651,
+          2677,
+          2679,
+          2905,
+          3063,
+          3347,
+          3349,
+          3357,
+          3391,
+          3429
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          389,
+          449,
+          453,
+          495,
+          521,
+          579,
+          990,
+          1256,
+          1360,
+          1362,
+          1386,
+          1636,
+          1804,
+          1990,
+          2055,
+          2095,
+          2641,
+          3070
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          949,
+          978,
+          1350,
+          1370,
+          1390,
+          1515,
+          1626,
+          1855,
+          1857,
+          1861,
+          1863,
+          2065,
+          2595,
+          2721,
+          3146,
+          3201,
+          3403,
+          3429
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          1826,
+          1835,
+          1887,
+          1893,
+          1899,
+          1946,
+          1950,
+          2211
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          748,
+          1188,
+          1280,
+          1282,
+          1286,
+          1288
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          1318,
+          1320,
+          1408,
+          1418,
+          1440,
+          2207
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1340,
+          1350,
+          1384,
+          1436
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1950,
+          3098
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          3080
+        ],
+        "name": "freeze valve"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          21,
+          35,
+          52,
+          152,
+          202,
+          208,
+          219,
+          833,
+          2835,
+          2837
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          156,
+          186,
+          1462,
+          1480,
+          1523,
+          1525,
+          1531,
+          2401,
+          2525,
+          2841
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          148,
+          168,
+          1782
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          156,
+          186,
+          1761
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2839
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 336,
+        "line_hits": [
+          140,
+          230,
+          235,
+          243,
+          267,
+          268,
+          269,
+          281,
+          289,
+          291,
+          295,
+          309,
+          341,
+          345,
+          349,
+          353,
+          359,
+          369,
+          379,
+          381,
+          383,
+          387,
+          405,
+          407,
+          415,
+          417,
+          419,
+          421,
+          423,
+          429,
+          431,
+          435,
+          439,
+          441,
+          449,
+          453,
+          457,
+          467,
+          471,
+          475,
+          479,
+          487,
+          489,
+          491,
+          493,
+          501,
+          503,
+          515,
+          531,
+          535
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 115,
+        "line_hits": [
+          52,
+          194,
+          212,
+          225,
+          229,
+          230,
+          234,
+          235,
+          245,
+          257,
+          301,
+          303,
+          321,
+          327,
+          333,
+          335,
+          343,
+          349,
+          351,
+          353,
+          359,
+          361,
+          369,
+          383,
+          387,
+          397,
+          399,
+          405,
+          415,
+          419,
+          421,
+          429,
+          431,
+          433,
+          435,
+          455,
+          487,
+          489,
+          491,
+          497,
+          503,
+          505,
+          555,
+          579,
+          587,
+          608,
+          618,
+          630,
+          674,
+          692
+        ],
+        "name": "LMFR"
+      },
+      {
+        "count": 98,
+        "line_hits": [
+          52,
+          119,
+          212,
+          225,
+          229,
+          231,
+          234,
+          235,
+          236,
+          243,
+          244,
+          245,
+          251,
+          269,
+          305,
+          307,
+          321,
+          327,
+          341,
+          345,
+          349,
+          351,
+          355,
+          357,
+          369,
+          389,
+          417,
+          419,
+          421,
+          423,
+          429,
+          435,
+          443,
+          449,
+          481,
+          491,
+          495,
+          497,
+          501,
+          511,
+          535,
+          547,
+          569,
+          571,
+          575,
+          587,
+          597,
+          618,
+          620,
+          624
+        ],
+        "name": "AHR"
+      },
+      {
+        "count": 34,
+        "line_hits": [
+          233,
+          235,
+          371,
+          435,
+          449,
+          483,
+          497,
+          531,
+          600,
+          2495,
+          2525,
+          2533,
+          2567,
+          2575,
+          2577,
+          2579,
+          2587,
+          2589,
+          2593,
+          2595,
+          2599,
+          2601,
+          2613,
+          2657,
+          2665,
+          2673,
+          2707,
+          2709,
+          2797,
+          2799,
+          2805,
+          2807,
+          2811,
+          2831
+        ],
+        "name": "HRE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          998,
+          1058
+        ],
+        "name": "ART"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 30,
+        "line_hits": [
+          52,
+          54,
+          67,
+          123,
+          140,
+          142,
+          210,
+          212,
+          233,
+          271,
+          279,
+          287,
+          515,
+          535,
+          644,
+          726,
+          849,
+          939,
+          1198,
+          1456,
+          2393,
+          2395,
+          2409,
+          2599,
+          2845,
+          2847,
+          2849,
+          2853,
+          2855,
+          2863
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          403,
+          2231,
+          2275,
+          2281,
+          2401,
+          2405,
+          2409
+        ],
+        "name": "two-fluid breeder"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2813
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 30,
+        "line_hits": [
+          52,
+          54,
+          67,
+          123,
+          140,
+          142,
+          210,
+          212,
+          233,
+          271,
+          279,
+          287,
+          515,
+          535,
+          644,
+          726,
+          849,
+          939,
+          1198,
+          1456,
+          2393,
+          2395,
+          2409,
+          2599,
+          2845,
+          2847,
+          2849,
+          2853,
+          2855,
+          2863
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 14,
+        "line_hits": [
+          395,
+          397,
+          403,
+          618,
+          1183,
+          1200,
+          1204,
+          1206,
+          1290,
+          1306,
+          1340,
+          1356,
+          1380,
+          1394
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1206,
+          1234,
+          1240,
+          1242,
+          1244,
+          1246,
+          1274,
+          1302,
+          1380,
+          1525
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          927
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1302
+        ],
+        "name": "chloride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e5ea2f8ddc7a4bab0d32cbd22e4eb7c96ad6769029def972a1f1f3624c30ebfe",
+  "markdown_path": "pdf/TID-8507/TID-8507/hybrid_ocr/TID-8507.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 258,
+  "sections": [
+    {
+      "anchor": "report",
+      "end_line": 2,
+      "heading": "REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "central-research-librar",
+      "end_line": 4,
+      "heading": "Central Research Librar",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 8,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "fluid-fuel",
+      "end_line": 10,
+      "heading": "FLUID FUEL",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "reactors",
+      "end_line": 12,
+      "heading": "REACTORS",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "task-force",
+      "end_line": 28,
+      "heading": "TASK FORCE",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "ub",
+      "end_line": 38,
+      "heading": "[Ub]",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 49,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "preface",
+      "end_line": 61,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 65,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "i-introduction-1",
+      "end_line": 66,
+      "heading": "I. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "ii-objectives-of-fluid-fuel-reactors-task-force-study-3",
+      "end_line": 67,
+      "heading": "II. OBJECTIVES OF FLUID FUEL REACTORS TASK FORCE STUDY 3",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "iii-summary-4",
+      "end_line": 74,
+      "heading": "III. SUMMARY 4",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "iv-reference-reactor-systems-9",
+      "end_line": 75,
+      "heading": "IV. REFERENCE REACTOR SYSTEMS 9",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "v-comparative-analyses-of-present-state-of-development-and-technical-feasibility-11",
+      "end_line": 91,
+      "heading": "V. COMPARATIVE ANALYSES OF PRESENT STATE OF DEVELOPMENT AND TECHNICAL FEASIBILITY 11",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "vi-technical-feasibility-of-breeding-39",
+      "end_line": 98,
+      "heading": "VI. TECHNICAL FEASIBILITY OF BREEDING 39",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "vii-power-costs-4",
+      "end_line": 112,
+      "heading": "VII. POWER COSTS 4",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "viii-research-and-development-programs-53",
+      "end_line": 114,
+      "heading": "VIII. RESEARCH AND DEVELOPMENT PROGRAMS 53",
+      "level": 2,
+      "start_line": 113
+    },
+    {
+      "anchor": "ix-molten-salt-reactor-55",
+      "end_line": 116,
+      "heading": "IX. MOLTEN SALT REACTOR 55",
+      "level": 2,
+      "start_line": 115
+    },
+    {
+      "anchor": "x-liquid-metal-fueled-reactor-85",
+      "end_line": 118,
+      "heading": "X. LIQUID METAL FUELED REACTOR 85",
+      "level": 2,
+      "start_line": 117
+    },
+    {
+      "anchor": "xi-aqueous-homogeneous-reactor-133",
+      "end_line": 120,
+      "heading": "XI. AQUEOUS HOMOGENEOUS REACTOR 133",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "xii-acknowledgements-176",
+      "end_line": 126,
+      "heading": "XII. ACKNOWLEDGEMENTS 176",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 209,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "ii-objectives-of-fluid-fuel-reactors-task-force-study",
+      "end_line": 220,
+      "heading": "II. OBJECTIVES OF FLUID FUEL REACTORS TASK FORCE STUDY",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "iii-summary",
+      "end_line": 222,
+      "heading": "III. SUMMARY",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "a-present-state-of-development-and-technical-feasibility",
+      "end_line": 237,
+      "heading": "A. Present State of Development and Technical Feasibility",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "b-technical-feasibility-of-breeding",
+      "end_line": 248,
+      "heading": "B. Technical Feasibility of Breeding",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "c-power-costs",
+      "end_line": 258,
+      "heading": "C. Power Costs",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "notes",
+      "end_line": 264,
+      "heading": "Notes:",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "notes-cont-d",
+      "end_line": 276,
+      "heading": "Notes: (cont'd.)",
+      "level": 1,
+      "start_line": 265
+    },
+    {
+      "anchor": "conclusion",
+      "end_line": 282,
+      "heading": "Conclusion",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "d-research-and-development-programs",
+      "end_line": 292,
+      "heading": "D. Research and Development Programs",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "iv-reference-reactor-systems",
+      "end_line": 296,
+      "heading": "IV. REFERENCE REACTOR SYSTEMS",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "a-molten-salt-reactor",
+      "end_line": 300,
+      "heading": "A. Molten Salt Reactor",
+      "level": 1,
+      "start_line": 297
+    },
+    {
+      "anchor": "b-liquid-metal-fuel-reactor",
+      "end_line": 304,
+      "heading": "B. Liquid Metal Fuel Reactor",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "c-aqueous-homogeneous-reactor",
+      "end_line": 310,
+      "heading": "C. Aqueous Homogeneous Reactor",
+      "level": 1,
+      "start_line": 305
+    },
+    {
+      "anchor": "v-comparative-analyses-of-present-state-of-development-and-technical-feasibility",
+      "end_line": 314,
+      "heading": "V. COMPARATIVE ANALYSES OF PRESENT STATE OF DEVELOPMENT AND TECHNICAL FEASIBILITY",
+      "level": 1,
+      "start_line": 311
+    },
+    {
+      "anchor": "a-fuels-and-materials",
+      "end_line": 322,
+      "heading": "A. Fuels and Materials",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 324,
+      "heading": "Discussion:",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "l-materials",
+      "end_line": 338,
+      "heading": "l. Materials",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "b-externals",
+      "end_line": 346,
+      "heading": "b. Externals",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "2-fuels",
+      "end_line": 356,
+      "heading": "2. Fuels",
+      "level": 1,
+      "start_line": 347
+    },
+    {
+      "anchor": "3-alternate-ahr",
+      "end_line": 364,
+      "heading": "3. Alternate AHR",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "b-primary-system-and-components",
+      "end_line": 366,
+      "heading": "B. Primary System and Components",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "1-reactor",
+      "end_line": 392,
+      "heading": "1. Reactor",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "2-primary-system",
+      "end_line": 408,
+      "heading": "2. Primary System",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "3-primary-auxiliary-system",
+      "end_line": 424,
+      "heading": "3. Primary Auxiliary System",
+      "level": 1,
+      "start_line": 409
+    },
+    {
+      "anchor": "4-instrumentation",
+      "end_line": 436,
+      "heading": "4. Instrumentation",
+      "level": 1,
+      "start_line": 425
+    },
+    {
+      "anchor": "c-operation",
+      "end_line": 458,
+      "heading": "C. Operation",
+      "level": 1,
+      "start_line": 437
+    },
+    {
+      "anchor": "d-maintenance",
+      "end_line": 484,
+      "heading": "D. Maintenance",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "e-control",
+      "end_line": 498,
+      "heading": "E. Control",
+      "level": 1,
+      "start_line": 485
+    },
+    {
+      "anchor": "f-hazards",
+      "end_line": 512,
+      "heading": "F. Hazards",
+      "level": 1,
+      "start_line": 499
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 526,
+      "heading": "Discussion:",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "1-nuclear-stability",
+      "end_line": 538,
+      "heading": "1. Nuclear Stability",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "2-nuclear-accidents",
+      "end_line": 542,
+      "heading": "2. Nuclear Accidents",
+      "level": 1,
+      "start_line": 539
+    },
+    {
+      "anchor": "a-fuel-accidents",
+      "end_line": 546,
+      "heading": "a. Fuel Accidents",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "ahr",
+      "end_line": 550,
+      "heading": "AHR",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "msr",
+      "end_line": 554,
+      "heading": "MSR",
+      "level": 1,
+      "start_line": 551
+    },
+    {
+      "anchor": "lmfr",
+      "end_line": 566,
+      "heading": "LMFR",
+      "level": 1,
+      "start_line": 555
+    },
+    {
+      "anchor": "b-fluid-temperature-accidents",
+      "end_line": 572,
+      "heading": "b. Fluid Temperature Accidents",
+      "level": 1,
+      "start_line": 567
+    },
+    {
+      "anchor": "c-structural-integrity-failures",
+      "end_line": 576,
+      "heading": "c. Structural Integrity Failures",
+      "level": 1,
+      "start_line": 573
+    },
+    {
+      "anchor": "d-control-system-mismanagement",
+      "end_line": 592,
+      "heading": "d. Control System Mismanagement",
+      "level": 1,
+      "start_line": 577
+    },
+    {
+      "anchor": "3-chemical-accidents",
+      "end_line": 596,
+      "heading": "3. Chemical Accidents",
+      "level": 1,
+      "start_line": 593
+    },
+    {
+      "anchor": "a-aqueous-homogeneous-reactor",
+      "end_line": 601,
+      "heading": "a. Aqueous Homogeneous Reactor",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "b-molten-salt-reactor",
+      "end_line": 607,
+      "heading": "b. Molten Salt Reactor",
+      "level": 1,
+      "start_line": 602
+    },
+    {
+      "anchor": "liquid-metal-fuel-reactor",
+      "end_line": 613,
+      "heading": "Liquid Metal Fuel Reactor",
+      "level": 1,
+      "start_line": 608
+    },
+    {
+      "anchor": "4-primary-system-integrity-failure",
+      "end_line": 621,
+      "heading": "4. Primary System Integrity Failure",
+      "level": 1,
+      "start_line": 614
+    },
+    {
+      "anchor": "5-containment",
+      "end_line": 633,
+      "heading": "5. Containment",
+      "level": 1,
+      "start_line": 622
+    },
+    {
+      "anchor": "g-chemical-reprocessing",
+      "end_line": 639,
+      "heading": "G. Chemical Reprocessing *",
+      "level": 1,
+      "start_line": 634
+    },
+    {
+      "anchor": "1-minimum-reprocessing-requirement",
+      "end_line": 647,
+      "heading": "1. Minimum Reprocessing Requirement",
+      "level": 1,
+      "start_line": 640
+    },
+    {
+      "anchor": "2-off-site-vs-on-site-reprocessing",
+      "end_line": 659,
+      "heading": "2. Off Site vs. On Site Reprocessing *",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "3-reprocessing-concepts-of-reference-reactors",
+      "end_line": 661,
+      "heading": "3. Reprocessing Concepts of Reference Reactors",
+      "level": 1,
+      "start_line": 660
+    },
+    {
+      "anchor": "a-ahr-thorex-process",
+      "end_line": 665,
+      "heading": "a. AHR - Thorex Process",
+      "level": 1,
+      "start_line": 662
+    },
+    {
+      "anchor": "b-msr-fluoride-volatility-process",
+      "end_line": 671,
+      "heading": "b. MSR - Fluoride Volatility Process",
+      "level": 1,
+      "start_line": 666
+    },
+    {
+      "anchor": "c-imfr-thorex-process",
+      "end_line": 683,
+      "heading": "c. IMFR - Thorex Process *",
+      "level": 1,
+      "start_line": 672
+    },
+    {
+      "anchor": "d-throughput-rates",
+      "end_line": 695,
+      "heading": "d. Throughput Rates",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "4-fuel-reconstitution",
+      "end_line": 705,
+      "heading": "4. Fuel Reconstitution",
+      "level": 1,
+      "start_line": 696
+    },
+    {
+      "anchor": "5-investment-requirements",
+      "end_line": 715,
+      "heading": "5. Investment Requirements",
+      "level": 1,
+      "start_line": 706
+    },
+    {
+      "anchor": "6-annual-operating-requirements",
+      "end_line": 723,
+      "heading": "6. Annual Operating Requirements",
+      "level": 1,
+      "start_line": 716
+    },
+    {
+      "anchor": "vi-technical-feasibility-of-breeding",
+      "end_line": 729,
+      "heading": "VI. TECHNICAL FEASIBILITY OF BREEDING",
+      "level": 1,
+      "start_line": 724
+    },
+    {
+      "anchor": "a-breeding-potential",
+      "end_line": 757,
+      "heading": "A. Breeding Potential",
+      "level": 1,
+      "start_line": 730
+    },
+    {
+      "anchor": "ahr",
+      "end_line": 761,
+      "heading": "AHR",
+      "level": 1,
+      "start_line": 758
+    },
+    {
+      "anchor": "msr",
+      "end_line": 769,
+      "heading": "MSR",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "lmfr",
+      "end_line": 781,
+      "heading": "LMFR",
+      "level": 1,
+      "start_line": 770
+    },
+    {
+      "anchor": "b-additional-cost-to-attain-breeding",
+      "end_line": 785,
+      "heading": "B. Additional Cost to Attain Breeding",
+      "level": 1,
+      "start_line": 782
+    },
+    {
+      "anchor": "c-necessary-developments",
+      "end_line": 808,
+      "heading": "C. Necessary Developments",
+      "level": 1,
+      "start_line": 786
+    },
+    {
+      "anchor": "d-status-of-basic-physics-data",
+      "end_line": 824,
+      "heading": "D. Status of Basic Physics Data",
+      "level": 1,
+      "start_line": 809
+    },
+    {
+      "anchor": "vii-power-costs",
+      "end_line": 828,
+      "heading": "VII. POWER COSTS",
+      "level": 1,
+      "start_line": 825
+    },
+    {
+      "anchor": "1-purpose",
+      "end_line": 834,
+      "heading": "1. Purpose",
+      "level": 1,
+      "start_line": 829
+    },
+    {
+      "anchor": "2-time-perspective",
+      "end_line": 842,
+      "heading": "2. Time Perspective",
+      "level": 1,
+      "start_line": 835
+    },
+    {
+      "anchor": "3-procedures-followed-in-making-the-estimates",
+      "end_line": 858,
+      "heading": "3. Procedures Followed in Making the Estimates",
+      "level": 1,
+      "start_line": 843
+    },
+    {
+      "anchor": "4-ground-rules",
+      "end_line": 872,
+      "heading": "4. Ground Rules",
+      "level": 1,
+      "start_line": 859
+    },
+    {
+      "anchor": "b-conclusions",
+      "end_line": 894,
+      "heading": "B. Conclusions",
+      "level": 1,
+      "start_line": 873
+    },
+    {
+      "anchor": "c-presentation-of-cost-information",
+      "end_line": 922,
+      "heading": "C. Presentation of Cost Information",
+      "level": 1,
+      "start_line": 895
+    },
+    {
+      "anchor": "table-vii-1-overall-summary-of-power-costs",
+      "end_line": 936,
+      "heading": "Table VII-1 - OVERALL SUMMARY OF POWER COSTS",
+      "level": 1,
+      "start_line": 923
+    },
+    {
+      "anchor": "comparison-of-indicated-level-of-power-plant-investment-for-reference-concepts-of",
+      "end_line": 938,
+      "heading": "COMPARISON OF INDICATED LEVEL OF POWER PLANT INVESTMENT FOR REFERENCE CONCEPTS OF",
+      "level": 1,
+      "start_line": 937
+    },
+    {
+      "anchor": "future-stations-with-fluid-fuel-reactors",
+      "end_line": 999,
+      "heading": "FUTURE STATIONS WITH FLUID FUEL REACTORS",
+      "level": 1,
+      "start_line": 939
+    },
+    {
+      "anchor": "tablevii-3",
+      "end_line": 1001,
+      "heading": "TableVII-3",
+      "level": 1,
+      "start_line": 1000
+    },
+    {
+      "anchor": "summary-of-fuel-costs",
+      "end_line": 1055,
+      "heading": "SUMMARY OF FUEL COSTS",
+      "level": 1,
+      "start_line": 1002
+    },
+    {
+      "anchor": "viii-research-and-development-programs",
+      "end_line": 1067,
+      "heading": "VIII. RESEARCH AND DEVELOPMENT PROGRAMS",
+      "level": 1,
+      "start_line": 1056
+    },
+    {
+      "anchor": "table-viii-1",
+      "end_line": 1069,
+      "heading": "TABLE VIII-1",
+      "level": 1,
+      "start_line": 1068
+    },
+    {
+      "anchor": "time-and-cost-estimates",
+      "end_line": 1075,
+      "heading": "Time and Cost Estimates",
+      "level": 1,
+      "start_line": 1070
+    },
+    {
+      "anchor": "ix-molten-salt-reactor",
+      "end_line": 1077,
+      "heading": "IX. MOLTEN SALT REACTOR",
+      "level": 1,
+      "start_line": 1076
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 1142,
+      "heading": "Table of Contents",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "ix-molten-salt-reactor",
+      "end_line": 1146,
+      "heading": "IX - MOLTEN SALT REACTOR",
+      "level": 1,
+      "start_line": 1143
+    },
+    {
+      "anchor": "1-low-cost-power",
+      "end_line": 1164,
+      "heading": "1. Low-Cost Power",
+      "level": 1,
+      "start_line": 1147
+    },
+    {
+      "anchor": "2-breeding",
+      "end_line": 1176,
+      "heading": "2. Breeding",
+      "level": 1,
+      "start_line": 1165
+    },
+    {
+      "anchor": "b-the-approach",
+      "end_line": 1178,
+      "heading": "B. The Approach",
+      "level": 1,
+      "start_line": 1177
+    },
+    {
+      "anchor": "1-summary-of-concept",
+      "end_line": 1184,
+      "heading": "1. Summary of Concept",
+      "level": 1,
+      "start_line": 1179
+    },
+    {
+      "anchor": "b-low-cost-power-reactors",
+      "end_line": 1189,
+      "heading": "b. Low Cost Power Reactors",
+      "level": 1,
+      "start_line": 1185
+    },
+    {
+      "anchor": "c-breeding-reactors",
+      "end_line": 1195,
+      "heading": "c. Breeding Reactors",
+      "level": 1,
+      "start_line": 1190
+    },
+    {
+      "anchor": "d-the-special-merits-of-the-molten-salt-concept",
+      "end_line": 1211,
+      "heading": "d. The Special Merits of the Molten Salt Concept",
+      "level": 1,
+      "start_line": 1196
+    },
+    {
+      "anchor": "e-limitations-of-the-molten-salt-concept",
+      "end_line": 1223,
+      "heading": "e. Limitations of the Molten Salt Concept",
+      "level": 1,
+      "start_line": 1212
+    },
+    {
+      "anchor": "2-the-development-of-low-cost-power-potentialities",
+      "end_line": 1227,
+      "heading": "2. The Development of Low-cost Power Potentialities",
+      "level": 1,
+      "start_line": 1224
+    },
+    {
+      "anchor": "1-description",
+      "end_line": 1231,
+      "heading": "(1) Description",
+      "level": 1,
+      "start_line": 1228
+    },
+    {
+      "anchor": "a-proposed-fuel-system-and-cycle",
+      "end_line": 1237,
+      "heading": "(a) Proposed Fuel System and Cycle",
+      "level": 1,
+      "start_line": 1232
+    },
+    {
+      "anchor": "fuels",
+      "end_line": 1247,
+      "heading": "Fuels",
+      "level": 1,
+      "start_line": 1238
+    },
+    {
+      "anchor": "fuel-problems",
+      "end_line": 1263,
+      "heading": "Fuel Problems",
+      "level": 1,
+      "start_line": 1248
+    },
+    {
+      "anchor": "materials",
+      "end_line": 1277,
+      "heading": "Materials",
+      "level": 1,
+      "start_line": 1264
+    },
+    {
+      "anchor": "b-the-reactor",
+      "end_line": 1295,
+      "heading": "(b) The Reactor",
+      "level": 1,
+      "start_line": 1278
+    },
+    {
+      "anchor": "c-primary-heat-exchange-system",
+      "end_line": 1303,
+      "heading": "(c) Primary Heat Exchange System",
+      "level": 1,
+      "start_line": 1296
+    },
+    {
+      "anchor": "heat-exchangers",
+      "end_line": 1315,
+      "heading": "Heat Exchangers",
+      "level": 1,
+      "start_line": 1304
+    },
+    {
+      "anchor": "fuel-circulating-pumps",
+      "end_line": 1325,
+      "heading": "Fuel Circulating Pumps",
+      "level": 1,
+      "start_line": 1316
+    },
+    {
+      "anchor": "piping",
+      "end_line": 1333,
+      "heading": "Piping",
+      "level": 1,
+      "start_line": 1326
+    },
+    {
+      "anchor": "primary-auxiliary-systems",
+      "end_line": 1351,
+      "heading": "Primary Auxiliary Systems",
+      "level": 1,
+      "start_line": 1334
+    },
+    {
+      "anchor": "d-secondary-systems-and-steam-generators",
+      "end_line": 1357,
+      "heading": "(d) Secondary Systems and Steam Generators",
+      "level": 1,
+      "start_line": 1352
+    },
+    {
+      "anchor": "e-control-instrumentation-and-operating-characteristics",
+      "end_line": 1375,
+      "heading": "(e) Control, Instrumentation and Operating Characteristics",
+      "level": 1,
+      "start_line": 1358
+    },
+    {
+      "anchor": "f-special-maintenance-facilities-and-prob-lems",
+      "end_line": 1377,
+      "heading": "(f) Special Maintenance - Facilities and Prob-lems",
+      "level": 1,
+      "start_line": 1376
+    },
+    {
+      "anchor": "inherent-problems",
+      "end_line": 1399,
+      "heading": "Inherent Problems",
+      "level": 1,
+      "start_line": 1378
+    },
+    {
+      "anchor": "methods-employed-to-solve-maintenance-problems",
+      "end_line": 1413,
+      "heading": "Methods Employed to Solve Maintenance Problems",
+      "level": 1,
+      "start_line": 1400
+    },
+    {
+      "anchor": "hazards",
+      "end_line": 1423,
+      "heading": "Hazards",
+      "level": 1,
+      "start_line": 1414
+    },
+    {
+      "anchor": "maintenance-equipment",
+      "end_line": 1429,
+      "heading": "Maintenance Equipment",
+      "level": 1,
+      "start_line": 1424
+    },
+    {
+      "anchor": "g-major-spare-equipment-requirements",
+      "end_line": 1433,
+      "heading": "(g) Major Spare Equipment Requirements",
+      "level": 1,
+      "start_line": 1430
+    },
+    {
+      "anchor": "2-reactor-operating-characteristics",
+      "end_line": 1447,
+      "heading": "(2) Reactor Operating Characteristics",
+      "level": 1,
+      "start_line": 1434
+    },
+    {
+      "anchor": "potentially-achievable-cost-reductions",
+      "end_line": 1518,
+      "heading": "Potentially Achievable Cost Reductions",
+      "level": 1,
+      "start_line": 1448
+    },
+    {
+      "anchor": "3-the-development-of-the-breeding-potentiality",
+      "end_line": 1520,
+      "heading": "3. The Development of the Breeding Potentiality",
+      "level": 1,
+      "start_line": 1519
+    },
+    {
+      "anchor": "a-two-region-homogeneous-breeder",
+      "end_line": 1536,
+      "heading": "a. Two-Region Homogeneous Breeder",
+      "level": 1,
+      "start_line": 1521
+    },
+    {
+      "anchor": "b-one-region-graphite-moderated-breeder",
+      "end_line": 1546,
+      "heading": "b. One-Region Graphite Moderated Breeder",
+      "level": 1,
+      "start_line": 1537
+    },
+    {
+      "anchor": "c-two-region-graphite-moderated-breeder",
+      "end_line": 1560,
+      "heading": "c. Two-Region Graphite Moderated Breeder",
+      "level": 1,
+      "start_line": 1547
+    },
+    {
+      "anchor": "x-liquid-metal-fuel-reactor",
+      "end_line": 1562,
+      "heading": "X. LIQUID METAL FUEL REACTOR",
+      "level": 1,
+      "start_line": 1561
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 1615,
+      "heading": "Table of Contents",
+      "level": 1,
+      "start_line": 1563
+    },
+    {
+      "anchor": "x-liquid-metal-fuel-reactor",
+      "end_line": 1617,
+      "heading": "X. LIQUID METAL FUEL REACTOR",
+      "level": 1,
+      "start_line": 1616
+    },
+    {
+      "anchor": "a-objectives",
+      "end_line": 1623,
+      "heading": "A. Objectives",
+      "level": 1,
+      "start_line": 1618
+    },
+    {
+      "anchor": "1-low-cost-power",
+      "end_line": 1639,
+      "heading": "1. Low Cost Power",
+      "level": 1,
+      "start_line": 1624
+    },
+    {
+      "anchor": "2-breeding",
+      "end_line": 1656,
+      "heading": "2. Breeding",
+      "level": 1,
+      "start_line": 1640
+    },
+    {
+      "anchor": "b-the-lmfr-approach",
+      "end_line": 1658,
+      "heading": "B. The LMFR Approach",
+      "level": 1,
+      "start_line": 1657
+    },
+    {
+      "anchor": "1-the-concept",
+      "end_line": 1698,
+      "heading": "1. The Concept",
+      "level": 1,
+      "start_line": 1659
+    },
+    {
+      "anchor": "2-the-development-of-the-low-cost-power-potentialities",
+      "end_line": 1704,
+      "heading": "2. The Development of the Low-Cost Power Potentialities",
+      "level": 1,
+      "start_line": 1699
+    },
+    {
+      "anchor": "a-the-fuel-system-and-related-container-materials-problems",
+      "end_line": 1726,
+      "heading": "(a) The Fuel System and Related Container Materials Problems",
+      "level": 1,
+      "start_line": 1705
+    },
+    {
+      "anchor": "chemical-processing",
+      "end_line": 1732,
+      "heading": "Chemical Processing",
+      "level": 1,
+      "start_line": 1727
+    },
+    {
+      "anchor": "fig-x-a",
+      "end_line": 1733,
+      "heading": "Fig. X-A",
+      "level": 2,
+      "start_line": 1733
+    },
+    {
+      "anchor": "fuel-inventories",
+      "end_line": 1737,
+      "heading": "Fuel Inventories",
+      "level": 2,
+      "start_line": 1734
+    },
+    {
+      "anchor": "fig-x-b",
+      "end_line": 1738,
+      "heading": "Fig. X-B",
+      "level": 2,
+      "start_line": 1738
+    },
+    {
+      "anchor": "conversion-ratio-for-slurry-fuel-lmfr-as-a-function-of-time",
+      "end_line": 1766,
+      "heading": "Conversion Ratio For Slurry Fuel Lmfr As A Function Of Time",
+      "level": 2,
+      "start_line": 1739
+    },
+    {
+      "anchor": "present-technology",
+      "end_line": 1770,
+      "heading": "Present Technology",
+      "level": 1,
+      "start_line": 1767
+    },
+    {
+      "anchor": "slurry-development",
+      "end_line": 1787,
+      "heading": "Slurry Development",
+      "level": 1,
+      "start_line": 1771
+    },
+    {
+      "anchor": "compatibility-of-fuel-and-container-materials",
+      "end_line": 1799,
+      "heading": "Compatibility of Fuel and Container Materials",
+      "level": 1,
+      "start_line": 1788
+    },
+    {
+      "anchor": "b-reactor-plant",
+      "end_line": 1817,
+      "heading": "(b) Reactor Plant",
+      "level": 1,
+      "start_line": 1800
+    },
+    {
+      "anchor": "c-primary-system",
+      "end_line": 1819,
+      "heading": "(c) Primary System",
+      "level": 1,
+      "start_line": 1818
+    },
+    {
+      "anchor": "system-design",
+      "end_line": 1842,
+      "heading": "System Design",
+      "level": 1,
+      "start_line": 1820
+    },
+    {
+      "anchor": "heating-and-cooling",
+      "end_line": 1848,
+      "heading": "Heating and Cooling",
+      "level": 1,
+      "start_line": 1843
+    },
+    {
+      "anchor": "containment-system",
+      "end_line": 1854,
+      "heading": "Containment System",
+      "level": 1,
+      "start_line": 1849
+    },
+    {
+      "anchor": "off-gas-system",
+      "end_line": 1882,
+      "heading": "Off Gas System",
+      "level": 1,
+      "start_line": 1855
+    },
+    {
+      "anchor": "d-intermediate-system",
+      "end_line": 1904,
+      "heading": "(d) Intermediate System",
+      "level": 1,
+      "start_line": 1883
+    },
+    {
+      "anchor": "e-control-and-instrumentation",
+      "end_line": 1924,
+      "heading": "(e) Control and Instrumentation",
+      "level": 1,
+      "start_line": 1905
+    },
+    {
+      "anchor": "f-fuel-handling-and-processing-systems",
+      "end_line": 1933,
+      "heading": "(f) Fuel Handling and Processing Systems",
+      "level": 1,
+      "start_line": 1925
+    },
+    {
+      "anchor": "g-special-maintenance-facilities-problems",
+      "end_line": 1941,
+      "heading": "(g) Special Maintenance Facilities & Problems",
+      "level": 1,
+      "start_line": 1934
+    },
+    {
+      "anchor": "h-spare-equipment-requirements",
+      "end_line": 1953,
+      "heading": "(h) Spare Equipment Requirements",
+      "level": 1,
+      "start_line": 1942
+    },
+    {
+      "anchor": "i-turbine-system",
+      "end_line": 1959,
+      "heading": "(i) Turbine System",
+      "level": 1,
+      "start_line": 1954
+    },
+    {
+      "anchor": "j-electrical-system",
+      "end_line": 1973,
+      "heading": "(j) Electrical System",
+      "level": 1,
+      "start_line": 1960
+    },
+    {
+      "anchor": "k-buildings-and-structures",
+      "end_line": 1981,
+      "heading": "(k) Buildings and Structures",
+      "level": 1,
+      "start_line": 1974
+    },
+    {
+      "anchor": "2-reactor-operating-characteristics",
+      "end_line": 1997,
+      "heading": "(2) Reactor Operating Characteristics",
+      "level": 1,
+      "start_line": 1982
+    },
+    {
+      "anchor": "longitudinal-elev-section-a-a",
+      "end_line": 1999,
+      "heading": "Longitudinal Elev. Section \"A\"-A\"",
+      "level": 2,
+      "start_line": 1998
+    },
+    {
+      "anchor": "lmfr-bldg",
+      "end_line": 2000,
+      "heading": "Lmfr Bldg",
+      "level": 2,
+      "start_line": 2000
+    },
+    {
+      "anchor": "semi-contact-mant",
+      "end_line": 2004,
+      "heading": "Semi-Contact Mant.",
+      "level": 2,
+      "start_line": 2001
+    },
+    {
+      "anchor": "ground-floor-plan",
+      "end_line": 2008,
+      "heading": "Ground Floor Plan",
+      "level": 2,
+      "start_line": 2005
+    },
+    {
+      "anchor": "lmfr-bldg",
+      "end_line": 2010,
+      "heading": "Lmfr Bldg.",
+      "level": 2,
+      "start_line": 2009
+    },
+    {
+      "anchor": "semi-contact-mant",
+      "end_line": 2016,
+      "heading": "Semi-Contact Mant.",
+      "level": 2,
+      "start_line": 2011
+    },
+    {
+      "anchor": "b-dynamic-characteristics",
+      "end_line": 2020,
+      "heading": "(b) Dynamic Characteristics",
+      "level": 1,
+      "start_line": 2017
+    },
+    {
+      "anchor": "c-instrumentation-problems",
+      "end_line": 2024,
+      "heading": "(c) Instrumentation Problems",
+      "level": 1,
+      "start_line": 2021
+    },
+    {
+      "anchor": "d-hazards",
+      "end_line": 2032,
+      "heading": "(d) Hazards",
+      "level": 1,
+      "start_line": 2025
+    },
+    {
+      "anchor": "e-containment-system",
+      "end_line": 2040,
+      "heading": "(e) Containment System",
+      "level": 1,
+      "start_line": 2033
+    },
+    {
+      "anchor": "f-other-fuel-handling-and-design-problems",
+      "end_line": 2046,
+      "heading": "(f) Other Fuel Handling and Design Problems",
+      "level": 1,
+      "start_line": 2041
+    },
+    {
+      "anchor": "3-maintenance",
+      "end_line": 2132,
+      "heading": "(3) Maintenance",
+      "level": 1,
+      "start_line": 2047
+    },
+    {
+      "anchor": "a-fuel",
+      "end_line": 2134,
+      "heading": "A. Fuel",
+      "level": 1,
+      "start_line": 2133
+    },
+    {
+      "anchor": "1-slurry",
+      "end_line": 2174,
+      "heading": "1. Slurry",
+      "level": 1,
+      "start_line": 2135
+    },
+    {
+      "anchor": "b-materials",
+      "end_line": 2184,
+      "heading": "B. Materials",
+      "level": 1,
+      "start_line": 2175
+    },
+    {
+      "anchor": "c-reactor-physics",
+      "end_line": 2190,
+      "heading": "C. Reactor Physics",
+      "level": 1,
+      "start_line": 2185
+    },
+    {
+      "anchor": "d-reactor-design-studies",
+      "end_line": 2194,
+      "heading": "D. Reactor Design Studies",
+      "level": 1,
+      "start_line": 2191
+    },
+    {
+      "anchor": "e-components",
+      "end_line": 2196,
+      "heading": "E. Components",
+      "level": 1,
+      "start_line": 2195
+    },
+    {
+      "anchor": "1-pumps",
+      "end_line": 2210,
+      "heading": "1. Pumps",
+      "level": 1,
+      "start_line": 2197
+    },
+    {
+      "anchor": "2-intermediate-heat-exchangers",
+      "end_line": 2216,
+      "heading": "2. Intermediate Heat Exchangers",
+      "level": 1,
+      "start_line": 2211
+    },
+    {
+      "anchor": "3-valves",
+      "end_line": 2222,
+      "heading": "3. Valves",
+      "level": 1,
+      "start_line": 2217
+    },
+    {
+      "anchor": "f-maintenance",
+      "end_line": 2226,
+      "heading": "F. Maintenance",
+      "level": 1,
+      "start_line": 2223
+    },
+    {
+      "anchor": "3-the-development-of-the-breeding-potentiality",
+      "end_line": 2238,
+      "heading": "3. The Development of the Breeding Potentiality",
+      "level": 1,
+      "start_line": 2227
+    },
+    {
+      "anchor": "core",
+      "end_line": 2240,
+      "heading": "Core:",
+      "level": 1,
+      "start_line": 2239
+    },
+    {
+      "anchor": "table-x-6-specifications-for-equilibrium-operation",
+      "end_line": 2244,
+      "heading": "Table X-6 Specifications For Equilibrium Operation",
+      "level": 2,
+      "start_line": 2241
+    },
+    {
+      "anchor": "blanket",
+      "end_line": 2288,
+      "heading": "Blanket:",
+      "level": 1,
+      "start_line": 2245
+    },
+    {
+      "anchor": "removal-of-fps-fission-products",
+      "end_line": 2298,
+      "heading": "Removal of FPS Fission Products",
+      "level": 1,
+      "start_line": 2289
+    },
+    {
+      "anchor": "removal-of-fpm-fission-products",
+      "end_line": 2306,
+      "heading": "Removal of FPM Fission Products",
+      "level": 1,
+      "start_line": 2299
+    },
+    {
+      "anchor": "b-internally-cooled-short-doubling-time-breeder-lmfr",
+      "end_line": 2312,
+      "heading": "b. Internally Cooled \"Short Doubling Time\" Breeder LMFR",
+      "level": 1,
+      "start_line": 2307
+    },
+    {
+      "anchor": "preliminary-reactor-design",
+      "end_line": 2332,
+      "heading": "Preliminary Reactor Design",
+      "level": 1,
+      "start_line": 2313
+    },
+    {
+      "anchor": "xi-aqueous-homogeneous-reactor-program",
+      "end_line": 2334,
+      "heading": "XI. AQUEOUS HOMOGENEOUS REACTOR PROGRAM",
+      "level": 1,
+      "start_line": 2333
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 2380,
+      "heading": "Table of Contents",
+      "level": 1,
+      "start_line": 2335
+    },
+    {
+      "anchor": "xi-aqueous-homogeneous-reactor-program",
+      "end_line": 2382,
+      "heading": "XI. AQUEOUS HOMOGENEOUS REACTOR PROGRAM",
+      "level": 1,
+      "start_line": 2381
+    },
+    {
+      "anchor": "a-program-objectives",
+      "end_line": 2390,
+      "heading": "A. Program Objectives",
+      "level": 1,
+      "start_line": 2383
+    },
+    {
+      "anchor": "b-advantages-and-disadvantages",
+      "end_line": 2398,
+      "heading": "B. Advantages and Disadvantages",
+      "level": 1,
+      "start_line": 2391
+    },
+    {
+      "anchor": "c-reactor-types",
+      "end_line": 2410,
+      "heading": "C. Reactor Types",
+      "level": 1,
+      "start_line": 2399
+    },
+    {
+      "anchor": "1-two-region-solution-core-reactor-plant",
+      "end_line": 2434,
+      "heading": "1. Two-Region Solution-Core Reactor Plant",
+      "level": 1,
+      "start_line": 2411
+    },
+    {
+      "anchor": "2-two-region-slurry-core-reactor",
+      "end_line": 2448,
+      "heading": "2. Two-Region Slurry-Core Reactor",
+      "level": 1,
+      "start_line": 2435
+    },
+    {
+      "anchor": "3-one-region-slurry-reactor",
+      "end_line": 2452,
+      "heading": "3. One-Region Slurry Reactor",
+      "level": 1,
+      "start_line": 2449
+    },
+    {
+      "anchor": "d-status-of-technology",
+      "end_line": 2462,
+      "heading": "D. Status of Technology",
+      "level": 1,
+      "start_line": 2453
+    },
+    {
+      "anchor": "1-two-region-reactor-core-solution",
+      "end_line": 2476,
+      "heading": "1. Two-Region Reactor Core Solution",
+      "level": 1,
+      "start_line": 2463
+    },
+    {
+      "anchor": "2-materials-in-uranyl-sulfate-solutions",
+      "end_line": 2496,
+      "heading": "2. Materials in Uranyl Sulfate Solutions",
+      "level": 1,
+      "start_line": 2477
+    },
+    {
+      "anchor": "3-slurry-fuels",
+      "end_line": 2522,
+      "heading": "3. Slurry Fuels",
+      "level": 1,
+      "start_line": 2497
+    },
+    {
+      "anchor": "4-reactor-equipment",
+      "end_line": 2526,
+      "heading": "4. Reactor Equipment",
+      "level": 1,
+      "start_line": 2523
+    },
+    {
+      "anchor": "5-primary-system",
+      "end_line": 2528,
+      "heading": "5. Primary System",
+      "level": 1,
+      "start_line": 2527
+    },
+    {
+      "anchor": "a-reactor-vessels",
+      "end_line": 2548,
+      "heading": "a. Reactor Vessels",
+      "level": 1,
+      "start_line": 2529
+    },
+    {
+      "anchor": "b-heat-exchangers",
+      "end_line": 2556,
+      "heading": "b. Heat Exchangers",
+      "level": 1,
+      "start_line": 2549
+    },
+    {
+      "anchor": "c-fuel-circulating-pumps",
+      "end_line": 2564,
+      "heading": "c. Fuel Circulating Pumps",
+      "level": 1,
+      "start_line": 2557
+    },
+    {
+      "anchor": "d-pressurizers",
+      "end_line": 2572,
+      "heading": "d. Pressurizers",
+      "level": 1,
+      "start_line": 2565
+    },
+    {
+      "anchor": "e-piping-and-valves",
+      "end_line": 2580,
+      "heading": "e. Piping and Valves",
+      "level": 1,
+      "start_line": 2573
+    },
+    {
+      "anchor": "6-low-pressure-systems",
+      "end_line": 2596,
+      "heading": "6. Low-Pressure Systems",
+      "level": 1,
+      "start_line": 2581
+    },
+    {
+      "anchor": "7-reactor-plant-instrumentation",
+      "end_line": 2602,
+      "heading": "7. Reactor Plant Instrumentation",
+      "level": 1,
+      "start_line": 2597
+    },
+    {
+      "anchor": "8-turbogenerator-plant",
+      "end_line": 2606,
+      "heading": "8. Turbogenerator Plant",
+      "level": 1,
+      "start_line": 2603
+    },
+    {
+      "anchor": "9-reactor-building",
+      "end_line": 2638,
+      "heading": "9. Reactor Building",
+      "level": 1,
+      "start_line": 2607
+    },
+    {
+      "anchor": "10-reactor-operation-and-control",
+      "end_line": 2654,
+      "heading": "10. Reactor Operation and Control",
+      "level": 1,
+      "start_line": 2639
+    },
+    {
+      "anchor": "11-maintenance-of-reactor-and-other-radioactive-equipment",
+      "end_line": 2688,
+      "heading": "11. Maintenance of Reactor and Other Radioactive Equipment",
+      "level": 1,
+      "start_line": 2655
+    },
+    {
+      "anchor": "12-waste-disposal-systems",
+      "end_line": 2700,
+      "heading": "12. Waste Disposal Systems",
+      "level": 1,
+      "start_line": 2689
+    },
+    {
+      "anchor": "e-fuel-processing",
+      "end_line": 2704,
+      "heading": "E. Fuel Processing",
+      "level": 1,
+      "start_line": 2701
+    },
+    {
+      "anchor": "1-solution-fuel-processing",
+      "end_line": 2718,
+      "heading": "1. Solution Fuel Processing",
+      "level": 1,
+      "start_line": 2705
+    },
+    {
+      "anchor": "2-slurry-blanket-processing",
+      "end_line": 2728,
+      "heading": "2. Slurry Blanket Processing",
+      "level": 1,
+      "start_line": 2719
+    },
+    {
+      "anchor": "3-slurry-fuel-processing",
+      "end_line": 2734,
+      "heading": "3. Slurry Fuel Processing",
+      "level": 1,
+      "start_line": 2729
+    },
+    {
+      "anchor": "4-reconstitution-of-fuel-solution",
+      "end_line": 2740,
+      "heading": "4. Reconstitution of Fuel Solution",
+      "level": 1,
+      "start_line": 2735
+    },
+    {
+      "anchor": "5-reconstitution-of-blanket-slurry",
+      "end_line": 2748,
+      "heading": "5. Reconstitution of Blanket Slurry",
+      "level": 1,
+      "start_line": 2741
+    },
+    {
+      "anchor": "6-preparation-of-fuel-slurry",
+      "end_line": 2756,
+      "heading": "6. Preparation of Fuel Slurry",
+      "level": 1,
+      "start_line": 2749
+    },
+    {
+      "anchor": "f-economic-appraisal-project-director-s-appraisal",
+      "end_line": 2792,
+      "heading": "F. Economic Appraisal (Project Director's Appraisal)",
+      "level": 1,
+      "start_line": 2757
+    },
+    {
+      "anchor": "g-research-and-development-program-project-director-s-appraisal",
+      "end_line": 2832,
+      "heading": "G. Research and Development Program (Project Director's Appraisal)",
+      "level": 1,
+      "start_line": 2793
+    },
+    {
+      "anchor": "xii-acknowledgements",
+      "end_line": 2842,
+      "heading": "XII. ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 2833
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 2846,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 2843
+    },
+    {
+      "anchor": "fluid-fuel-reactors",
+      "end_line": 2856,
+      "heading": "\"Fluid Fuel Reactors",
+      "level": 1,
+      "start_line": 2847
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 2864,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 2857
+    },
+    {
+      "anchor": "310-land-land-rights",
+      "end_line": 2866,
+      "heading": "310 LAND&LAND RIGHTS",
+      "level": 1,
+      "start_line": 2865
+    },
+    {
+      "anchor": "311-structures-improvements",
+      "end_line": 3062,
+      "heading": "311 STRUCTURES & IMPROVEMENTS",
+      "level": 1,
+      "start_line": 2867
+    },
+    {
+      "anchor": "312-reactor-steam-generator-plant",
+      "end_line": 3117,
+      "heading": "312 REACTOR & STEAM GENERATOR PLANT",
+      "level": 1,
+      "start_line": 3063
+    },
+    {
+      "anchor": "intermediate-loop-equipment",
+      "end_line": 3140,
+      "heading": "Intermediate Loop Equipment",
+      "level": 1,
+      "start_line": 3118
+    },
+    {
+      "anchor": "reactor-plant-auxiliaries",
+      "end_line": 3142,
+      "heading": "Reactor Plant Auxiliaries",
+      "level": 1,
+      "start_line": 3141
+    },
+    {
+      "anchor": "radioactivity-containment-confinement",
+      "end_line": 3171,
+      "heading": "Radioactivity Containment-Confinement",
+      "level": 1,
+      "start_line": 3143
+    },
+    {
+      "anchor": "let-down-recombiner-equipment",
+      "end_line": 3200,
+      "heading": "Let-Down & Recombiner Equipment",
+      "level": 1,
+      "start_line": 3172
+    },
+    {
+      "anchor": "reactor-off-gas-equipment",
+      "end_line": 3434,
+      "heading": "Reactor Off-Gas Equipment",
+      "level": 1,
+      "start_line": 3201
+    },
+    {
+      "anchor": "accessory-electrical-equipment",
+      "end_line": 3504,
+      "heading": "ACCESSORY ELECTRICAL EQUIPMENT",
+      "level": 1,
+      "start_line": 3435
+    },
+    {
+      "anchor": "316-miscellaneous-power-plant-equipment",
+      "end_line": 3520,
+      "heading": "316 MISCELLANEOUS POWER PLANT EQUIPMENT",
+      "level": 2,
+      "start_line": 3505
+    },
+    {
+      "anchor": "suggested-list",
+      "end_line": 3522,
+      "heading": "SUGGESTED LIST",
+      "level": 1,
+      "start_line": 3521
+    },
+    {
+      "anchor": "elements-of-distributive-cost",
+      "end_line": 3524,
+      "heading": "ELEMENTS OF DISTRIBUTIVE COST",
+      "level": 1,
+      "start_line": 3523
+    },
+    {
+      "anchor": "direct-construction-cost-direct-material-labor",
+      "end_line": 3526,
+      "heading": "DIRECT CONSTRUCTION COST (Direct Material & Labor)",
+      "level": 1,
+      "start_line": 3525
+    },
+    {
+      "anchor": "indirect-construction-costs",
+      "end_line": 3550,
+      "heading": "INDIRECT CONSTRUCTION COSTS",
+      "level": 1,
+      "start_line": 3527
+    },
+    {
+      "anchor": "overhead-construction-costs",
+      "end_line": 3570,
+      "heading": "OVERHEAD CONSTRUCTION COSTS",
+      "level": 1,
+      "start_line": 3551
+    },
+    {
+      "anchor": "allowance-for-omissions-contingencies-on-everything-above",
+      "end_line": 3573,
+      "heading": "ALLOWANCE FOR OMISSIONS & CONTINGENCIES (on everything above)",
+      "level": 1,
+      "start_line": 3571
+    }
+  ],
+  "source_dir": "pdf/TID-8507",
+  "tables": [],
+  "title": "CENTRAL RESEARCH LIBRAR",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "breeder-and-converter-design",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

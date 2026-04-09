@@ -1,0 +1,982 @@
+{
+  "authors": [
+    "Part I. Homogeneous",
+    "Quasi-homogeneous Reactors",
+    "Section VI. Solid Homogeneous",
+    "(Semihomogeneous) Reactors",
+    "Charles E. Teeter",
+    "James A. Lecky",
+    "John H. Martens"
+  ],
+  "claims_path": "kb/normalized/claims/anl-7228.jsonl",
+  "date_text": "June 1966",
+  "doc_id": "anl-7228",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 87,
+        "line_hits": [
+          150,
+          162,
+          170,
+          188,
+          192,
+          200,
+          202,
+          204,
+          210,
+          214,
+          216,
+          242,
+          246,
+          256,
+          272,
+          292,
+          310,
+          330,
+          353,
+          357,
+          359,
+          361,
+          363,
+          398,
+          477,
+          479,
+          491,
+          506,
+          513,
+          536,
+          548,
+          552,
+          556,
+          558,
+          560,
+          566,
+          568,
+          570,
+          576,
+          578,
+          584,
+          592,
+          596,
+          614,
+          622,
+          624,
+          660,
+          662,
+          674,
+          676
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 23,
+        "line_hits": [
+          150,
+          162,
+          170,
+          172,
+          536,
+          540,
+          542,
+          544,
+          546,
+          548,
+          550,
+          558,
+          588,
+          594,
+          618,
+          620,
+          622,
+          624,
+          632,
+          640,
+          648,
+          674,
+          1303
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          150,
+          162,
+          188,
+          204,
+          330,
+          584,
+          606,
+          616,
+          618,
+          630,
+          632,
+          640,
+          648,
+          654,
+          1060,
+          1234
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          640,
+          1171,
+          1195
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          588,
+          961
+        ],
+        "name": "Hastelloy X"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          893,
+          1318
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 16,
+        "line_hits": [
+          204,
+          256,
+          272,
+          310,
+          357,
+          568,
+          662,
+          674,
+          694,
+          736,
+          746,
+          908,
+          924,
+          1057,
+          1143,
+          1248
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          746,
+          1013
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          946,
+          997
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 18,
+        "line_hits": [
+          80,
+          326,
+          530,
+          548,
+          574,
+          578,
+          594,
+          628,
+          630,
+          634,
+          666,
+          844,
+          989,
+          1228,
+          1309,
+          1318,
+          1360,
+          1362
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          1,
+          40,
+          96,
+          98,
+          110,
+          114,
+          116,
+          118,
+          120,
+          122,
+          290,
+          740,
+          1304
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          620,
+          1088,
+          1090,
+          1092,
+          1351
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1076,
+          1078,
+          1350
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          606,
+          1042
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          606,
+          648
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          170
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1353
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 58,
+        "line_hits": [
+          29,
+          158,
+          160,
+          162,
+          164,
+          168,
+          172,
+          188,
+          192,
+          200,
+          202,
+          204,
+          208,
+          212,
+          272,
+          308,
+          534,
+          536,
+          544,
+          546,
+          548,
+          560,
+          568,
+          570,
+          576,
+          578,
+          582,
+          584,
+          588,
+          592,
+          594,
+          596,
+          600,
+          602,
+          614,
+          618,
+          624,
+          636,
+          638,
+          640,
+          648,
+          650,
+          654,
+          662,
+          674,
+          676,
+          736,
+          838,
+          904,
+          924
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "defadeb59a0fb726ad0fde2a4cd431a4ecbd2d7cfb44832b286322028c99ddce",
+  "markdown_path": "pdf/ANL-7228/ANL-7228/hybrid_ocr/ANL-7228.md",
+  "report_number": "ANL-6892",
+  "report_numbers": [
+    "ANL-6892",
+    "ANL-6909",
+    "ANL-7092",
+    "ANL-7138",
+    "ANL-7180"
+  ],
+  "report_series": "nas-ns-series",
+  "section_count": 87,
+  "sections": [
+    {
+      "anchor": "argonne-national-laboratory",
+      "end_line": 2,
+      "heading": "Argonne National Laboratory",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "catalog-of-nuclear-reactor-concepts",
+      "end_line": 18,
+      "heading": "CATALOG OF NUCLEAR REACTOR CONCEPTS",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "released-for-annocement",
+      "end_line": 20,
+      "heading": "Released For Annocement",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "in-nuclear-science-abstracts",
+      "end_line": 22,
+      "heading": "In Nuclear Science Abstracts",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 26,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 30,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "argonne-national-laboratory",
+      "end_line": 45,
+      "heading": "Argonne National Laboratory",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "cfsti-prices",
+      "end_line": 47,
+      "heading": "Cfsti Prices",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "hc-3-00-mn-75",
+      "end_line": 49,
+      "heading": "Hc. $3.00; Mn .75",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "catalog-of-nuclear-reactor-concepts",
+      "end_line": 65,
+      "heading": "Catalog Of Nuclear Reactor Concepts",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "released-for-annocence",
+      "end_line": 67,
+      "heading": "Released For Annocence",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "in-nuclear-science-abstracts",
+      "end_line": 81,
+      "heading": "In Nuclear Science Abstracts",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 83,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "page",
+      "end_line": 88,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "section-vi-solid-homogeneous-semihomogeneous-reactors-11",
+      "end_line": 93,
+      "heading": "Section Vi. Solid Homogeneous (Semihomogeneous) Reactors. 11",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "preface",
+      "end_line": 101,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "j-h-m",
+      "end_line": 105,
+      "heading": "J.H.M.",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "plan-of-catalog-of-reactor-concepts",
+      "end_line": 109,
+      "heading": "PLAN OF CATALOG OF REACTOR CONCEPTS",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "anl-6892",
+      "end_line": 147,
+      "heading": "Anl-6892",
+      "level": 2,
+      "start_line": 110
+    },
+    {
+      "anchor": "reactor-concepts-described-in-this-report",
+      "end_line": 153,
+      "heading": "Reactor .Concepts Described In This Report",
+      "level": 2,
+      "start_line": 148
+    },
+    {
+      "anchor": "this-page-was-intentionally-left-blank",
+      "end_line": 155,
+      "heading": "This Page Was Intentionally Left Blank",
+      "level": 2,
+      "start_line": 154
+    },
+    {
+      "anchor": "chapter-1-introduction",
+      "end_line": 173,
+      "heading": "Chapter 1. Introduction",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "references",
+      "end_line": 181,
+      "heading": "References",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "was-this-page",
+      "end_line": 183,
+      "heading": "Was This Page",
+      "level": 2,
+      "start_line": 182
+    },
+    {
+      "anchor": "wasintentionally-left-blank",
+      "end_line": 185,
+      "heading": "Wasintentionally Left Blank",
+      "level": 2,
+      "start_line": 184
+    },
+    {
+      "anchor": "chapter-2-research-and-test-reactors",
+      "end_line": 217,
+      "heading": "Chapter 2. Research and Test Reactors",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "this-page-was-intentionally-left-blank",
+      "end_line": 219,
+      "heading": "THIS PAGE WAS INTENTIONALLY LEFT BLANK",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 221,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 220
+    },
+    {
+      "anchor": "research-and-test-reactors",
+      "end_line": 225,
+      "heading": "Research And Test Reactors",
+      "level": 2,
+      "start_line": 222
+    },
+    {
+      "anchor": "this-page",
+      "end_line": 227,
+      "heading": "This Page",
+      "level": 2,
+      "start_line": 226
+    },
+    {
+      "anchor": "was-intentionally",
+      "end_line": 229,
+      "heading": "Was Intentionally",
+      "level": 2,
+      "start_line": 228
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 261,
+      "heading": "Left Blank",
+      "level": 2,
+      "start_line": 230
+    },
+    {
+      "anchor": "no-3-anco-201-nuclear-reactor",
+      "end_line": 279,
+      "heading": "No. 3 ANCO 201 Nuclear Reactor",
+      "level": 1,
+      "start_line": 262
+    },
+    {
+      "anchor": "no-4-agn-201-reactor",
+      "end_line": 281,
+      "heading": "No. 4 AGN-201- Reactor",
+      "level": 1,
+      "start_line": 280
+    },
+    {
+      "anchor": "aerojet-general-nucleonics",
+      "end_line": 297,
+      "heading": "Aerojet-General Nucleonics.",
+      "level": 1,
+      "start_line": 282
+    },
+    {
+      "anchor": "85xx9",
+      "end_line": 299,
+      "heading": "85Xx9",
+      "level": 2,
+      "start_line": 298
+    },
+    {
+      "anchor": "no-5-agn-211-reactor",
+      "end_line": 301,
+      "heading": "No.5 AGN-211- Reactor",
+      "level": 1,
+      "start_line": 300
+    },
+    {
+      "anchor": "aerojet-general-nucleonics",
+      "end_line": 317,
+      "heading": "Aerojet-General Nucleonics",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "no-6-training-research-and-isotope-production-reactor-general-atomic-triga-mark-i-and-mark-ii",
+      "end_line": 327,
+      "heading": "No. 6 Training, Research, and Isotope Production Reactor, General Atomic (TRIGA). Mark I and Mark II",
+      "level": 1,
+      "start_line": 318
+    },
+    {
+      "anchor": "details",
+      "end_line": 336,
+      "heading": "Details:",
+      "level": 1,
+      "start_line": 328
+    },
+    {
+      "anchor": "no-7-triga-mark-iii-reactor",
+      "end_line": 374,
+      "heading": "No. 7 TRIGA Mark III Reactor",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "no-8-triga-mark-f-reactor",
+      "end_line": 376,
+      "heading": "No. 8 TRIGA Mark F Reactor",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "general-atomic",
+      "end_line": 392,
+      "heading": "General Atomic",
+      "level": 1,
+      "start_line": 377
+    },
+    {
+      "anchor": "dasa",
+      "end_line": 426,
+      "heading": "(Dasa)",
+      "level": 2,
+      "start_line": 393
+    },
+    {
+      "anchor": "no-9-triga-variation",
+      "end_line": 428,
+      "heading": "No. 9 TRIGA Variation",
+      "level": 1,
+      "start_line": 427
+    },
+    {
+      "anchor": "general-atomic",
+      "end_line": 442,
+      "heading": "General Atomic",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "general-atomic",
+      "end_line": 509,
+      "heading": "General Atomic",
+      "level": 1,
+      "start_line": 443
+    },
+    {
+      "anchor": "references",
+      "end_line": 531,
+      "heading": "References",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "chapter-3-power-and-breeder-reactors",
+      "end_line": 537,
+      "heading": "Chapter 3. Power and Breeder Reactors",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "gas-cooled-reactors",
+      "end_line": 597,
+      "heading": "Gas-cooled Reactors",
+      "level": 1,
+      "start_line": 538
+    },
+    {
+      "anchor": "other-reactors-for-electrical-power",
+      "end_line": 607,
+      "heading": "Other Reactors for Electrical Power",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "reactors-for-aircraft-and-space-vehicles",
+      "end_line": 677,
+      "heading": "Reactors for Aircraft and Space Vehicles",
+      "level": 1,
+      "start_line": 608
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 679,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 678
+    },
+    {
+      "anchor": "power-and-breeder-reactors",
+      "end_line": 681,
+      "heading": "Power And Breeder Reactors",
+      "level": 2,
+      "start_line": 680
+    },
+    {
+      "anchor": "this-page-was-intentionally-left-blank",
+      "end_line": 683,
+      "heading": "THIS PAGE WAS INTENTIONALLY LEFT BLANK",
+      "level": 1,
+      "start_line": 682
+    },
+    {
+      "anchor": "no-1-first-daniels-experimental-power-pile",
+      "end_line": 685,
+      "heading": "No. 1 First Daniels Experimental Power Pile",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 697,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 686
+    },
+    {
+      "anchor": "no-2-second-daniels-experimental-power-pile",
+      "end_line": 699,
+      "heading": "No. 2 Second Daniels Experimental Power Pile",
+      "level": 1,
+      "start_line": 698
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 721,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "8111x",
+      "end_line": 727,
+      "heading": "8111X",
+      "level": 2,
+      "start_line": 722
+    },
+    {
+      "anchor": "no-3-third-daniels-experimental-power-pile",
+      "end_line": 729,
+      "heading": "No. 3. Third Daniels. Experimental. Power Pile",
+      "level": 1,
+      "start_line": 728
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 771,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 730
+    },
+    {
+      "anchor": "no-5-gas-cycle-reactor",
+      "end_line": 799,
+      "heading": "No. 5 Gas-Cycle Reactor",
+      "level": 1,
+      "start_line": 772
+    },
+    {
+      "anchor": "no-6-high-temperature-bismuth-cooled-power-breeder",
+      "end_line": 815,
+      "heading": "No. 6 High-temperature Bismuth-cooled Power Breeder",
+      "level": 1,
+      "start_line": 800
+    },
+    {
+      "anchor": "no-7-solid-homogeneous-reactor-for-open-cycle-gas-turbine",
+      "end_line": 829,
+      "heading": "No. 7 Solid Homogeneous Reactor for Open-Cycle Gas Turbine",
+      "level": 1,
+      "start_line": 816
+    },
+    {
+      "anchor": "no-8-solid-homogeneous-type-gas-cooled-nuclear-power-reactor-ukaea",
+      "end_line": 841,
+      "heading": "No. 8 Solid Homogeneous Type Gas Cooled Nuclear Power Reactor UKAEA",
+      "level": 1,
+      "start_line": 830
+    },
+    {
+      "anchor": "no-9-semi-homogeneous-high-temperature-gas-cooled-breeder-reactor-japan-atomic-energy-research-institute",
+      "end_line": 955,
+      "heading": "No. 9 Semi-homogeneous High-temperature Gas-cooled Breeder Reactor Japan Atomic Energy Research Institute",
+      "level": 1,
+      "start_line": 842
+    },
+    {
+      "anchor": "general-atomic",
+      "end_line": 965,
+      "heading": "General Atomic",
+      "level": 1,
+      "start_line": 956
+    },
+    {
+      "anchor": "general-atomic",
+      "end_line": 973,
+      "heading": "General Atomic",
+      "level": 1,
+      "start_line": 966
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 1051,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 974
+    },
+    {
+      "anchor": "cabbage-head",
+      "end_line": 1073,
+      "heading": "(“Cabbage Head”)",
+      "level": 1,
+      "start_line": 1052
+    },
+    {
+      "anchor": "no-25-xma-i-reactor",
+      "end_line": 1116,
+      "heading": "No.25 XMA-I Reactor",
+      "level": 1,
+      "start_line": 1074
+    },
+    {
+      "anchor": "no-28-tory-iia-1-reactor",
+      "end_line": 1132,
+      "heading": "No. 28 Tory IIA-1 Reactor",
+      "level": 1,
+      "start_line": 1117
+    },
+    {
+      "anchor": "no-29-tory-iic-reactor",
+      "end_line": 1176,
+      "heading": "No. 29 Tory IIC Reactor",
+      "level": 1,
+      "start_line": 1133
+    },
+    {
+      "anchor": "no-32-snap-2-reactor",
+      "end_line": 1178,
+      "heading": "No. 32 SNAP-2 Reactor",
+      "level": 1,
+      "start_line": 1177
+    },
+    {
+      "anchor": "atoms-international",
+      "end_line": 1187,
+      "heading": "Atoms International",
+      "level": 1,
+      "start_line": 1179
+    },
+    {
+      "anchor": "no-33-snap-8-reactor",
+      "end_line": 1189,
+      "heading": "No. 33 SNAP-8 Reactor",
+      "level": 1,
+      "start_line": 1188
+    },
+    {
+      "anchor": "atoms-international",
+      "end_line": 1197,
+      "heading": "Atoms International",
+      "level": 1,
+      "start_line": 1190
+    },
+    {
+      "anchor": "no-34-snap-10-reactor",
+      "end_line": 1199,
+      "heading": "No. 34 SNAP-10 Reactor",
+      "level": 1,
+      "start_line": 1198
+    },
+    {
+      "anchor": "atoms-international",
+      "end_line": 1213,
+      "heading": "Atoms International",
+      "level": 1,
+      "start_line": 1200
+    },
+    {
+      "anchor": "no-35-snap-10a-reactor",
+      "end_line": 1215,
+      "heading": "No. 35. SNAP-10A Reactor",
+      "level": 1,
+      "start_line": 1214
+    },
+    {
+      "anchor": "atoms-international",
+      "end_line": 1239,
+      "heading": "Atoms International",
+      "level": 1,
+      "start_line": 1216
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 1253,
+      "heading": "Lasl",
+      "level": 2,
+      "start_line": 1240
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 1295,
+      "heading": "Lasl",
+      "level": 2,
+      "start_line": 1254
+    },
+    {
+      "anchor": "references",
+      "end_line": 1374,
+      "heading": "References",
+      "level": 1,
+      "start_line": 1296
+    },
+    {
+      "anchor": "additional-reference",
+      "end_line": 1379,
+      "heading": "Additional Reference",
+      "level": 1,
+      "start_line": 1375
+    }
+  ],
+  "source_dir": "pdf/ANL-7228",
+  "tables": [],
+  "title": "Argonne National Laboratory",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "breeder-and-converter-design",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

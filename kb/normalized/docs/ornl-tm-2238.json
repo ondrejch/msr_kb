@@ -1,0 +1,368 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "MASTER",
+    "R. L. Macklin",
+    "J. H. Gibbons",
+    "T. H. Handley",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2238.jsonl",
+  "date_text": "August 31, 1967",
+  "doc_id": "ornl-tm-2238",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 14,
+        "line_hits": [
+          25,
+          48,
+          103,
+          109,
+          113,
+          117,
+          119,
+          123,
+          135,
+          139,
+          152,
+          156,
+          160,
+          162
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 6,
+        "line_hits": [
+          109,
+          127,
+          135,
+          158,
+          160,
+          162
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          5,
+          19,
+          33,
+          56,
+          109,
+          117,
+          127,
+          147,
+          177,
+          243,
+          244
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          15,
+          66
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          9,
+          62
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 4,
+        "line_hits": [
+          133,
+          135,
+          160,
+          164
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          141
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          147
+        ],
+        "name": "MSR Program Semiannual Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          123,
+          133,
+          135
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          109
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6b314182ebeb52b9e292c155b3c8c9b1bddb9948421d4d84d76d4454227114e4",
+  "markdown_path": "pdf/ORNL-TM-2238/ORNL-TM-2238/hybrid_ocr/ORNL-TM-2238.md",
+  "report_number": "ORNL-TM-2238",
+  "report_numbers": [
+    "ORNL-TM-2238",
+    "ORNL-4191"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 30,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 8,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 10,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 14,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 18,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ornl-tm-2238",
+      "end_line": 22,
+      "heading": "Ornl-Tm-2238",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "master",
+      "end_line": 24,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "proton-reaction-analysis-for-lithium-and-fluorine-in-graphite",
+      "end_line": 26,
+      "heading": "Proton Reaction Analysis For Lithium And Fluorine In Graphite,",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "using-a-slit-scanning-technique",
+      "end_line": 34,
+      "heading": "Using A Slit Scanning Technique",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 47,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "proton-reaction-analysis-for-lithium-and-flourine-in-graphite",
+      "end_line": 49,
+      "heading": "Proton Reaction Analysis For Lithium And Flourine In Graphite,",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "using-a-slit-scanning-technique",
+      "end_line": 53,
+      "heading": "Using A Slit Scanning Technique",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "july-1968",
+      "end_line": 55,
+      "heading": "July 1968",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 61,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 65,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 67,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 78,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "contents",
+      "end_line": 102,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "proton-reaction-analysis-for-lithium-and-fluorine-in-graphite-using-a-slit-scanning-technique",
+      "end_line": 106,
+      "heading": "PROTON REACTION ANALYSIS FOR LITHIUM AND FLUORINE IN GRAPHITE, USING A SLIT SCANNING TECHNIQUE",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 110,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 114,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "method-and-apparatus",
+      "end_line": 120,
+      "heading": "METHOD AND APPARATUS",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "standards",
+      "end_line": 124,
+      "heading": "STANDARDS",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "sample",
+      "end_line": 128,
+      "heading": "SAMPLE",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "results-and-discussion",
+      "end_line": 136,
+      "heading": "RESULTS AND DISCUSSION",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "microscopic-examination-of-sample",
+      "end_line": 142,
+      "heading": "MICROSCOPIC EXAMINATION OF SAMPLE",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "references",
+      "end_line": 149,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "figure-captions",
+      "end_line": 176,
+      "heading": "FIGURE CAPTIONS",
+      "level": 1,
+      "start_line": 150
+    },
+    {
+      "anchor": "ornl-dwg-68-6736",
+      "end_line": 192,
+      "heading": "Ornl-Dwg 68-6736",
+      "level": 2,
+      "start_line": 177
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 244,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "55-69-dtie",
+      "end_line": 248,
+      "heading": "55-69. Dtie",
+      "level": 2,
+      "start_line": 245
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2238",
+  "tables": [],
+  "title": "![](images/bc0da8f9b4d92f017fcc8dc68123cd2270d36dce1d7de9a2831920866ceb30d5.jpg)",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "program-history",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": []
+}

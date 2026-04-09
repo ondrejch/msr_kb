@@ -1,0 +1,420 @@
+{
+  "authors": [
+    "R.C.Steffy",
+    "Jr. P.J.Wood",
+    "LEGAL NOTICE",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2571.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2571",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          98,
+          110
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 11,
+        "line_hits": [
+          48,
+          106,
+          140,
+          176,
+          214,
+          216,
+          223,
+          225,
+          227,
+          258,
+          287
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          111,
+          225,
+          227,
+          238,
+          250
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          123,
+          144
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          30,
+          435,
+          436,
+          437,
+          439,
+          445,
+          649,
+          650
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          1,
+          20,
+          435,
+          436,
+          437,
+          439,
+          442
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          26
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 35,
+        "line_hits": [
+          7,
+          74,
+          80,
+          82,
+          86,
+          88,
+          90,
+          92,
+          96,
+          104,
+          115,
+          135,
+          138,
+          142,
+          151,
+          154,
+          176,
+          198,
+          205,
+          208,
+          223,
+          227,
+          231,
+          267,
+          294,
+          304,
+          401,
+          406,
+          411,
+          416,
+          419,
+          423,
+          427,
+          435,
+          439
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          108,
+          144,
+          194,
+          198,
+          212,
+          214,
+          231,
+          238,
+          244,
+          248,
+          277,
+          289,
+          291,
+          300,
+          304,
+          310,
+          376,
+          396,
+          431,
+          515
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9a28544db470b5b32b60d63c824b5b15dd7078df5e888eb34e5cbfdc4907bef2",
+  "markdown_path": "pdf/ORNL-TM-2571/ORNL-TM-2571/hybrid_ocr/ORNL-TM-2571.md",
+  "report_number": "ORNL-TM-2571",
+  "report_numbers": [
+    "ORNL-TM-2571"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 32,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2571",
+      "end_line": 10,
+      "heading": "Ornl-Tm-2571",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 17,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "july-1969",
+      "end_line": 19,
+      "heading": "July 1969",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 25,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 29,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 33,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "contents",
+      "end_line": 35,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 34
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 51,
+      "heading": "Abstract 1",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "5-stability-analysis-19",
+      "end_line": 63,
+      "heading": "5. Stability Analysis 19",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "6-concluding-discussion-34",
+      "end_line": 65,
+      "heading": "6. Concluding Discussion 34",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "acknowledgments-34",
+      "end_line": 67,
+      "heading": "Acknowledgments 34",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "references-35",
+      "end_line": 69,
+      "heading": "References 35",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "appendix-pad-approximations-37",
+      "end_line": 73,
+      "heading": "Appendix. Padé Approximations 37",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "theoretical-dynamic-analysis-of-the-msre-with-233-mathrm-u-fuel",
+      "end_line": 77,
+      "heading": "THEORETICAL DYNAMIC ANALYSIS OF THE MSRE WITH $^{233}\\mathrm{U}$ FUEL",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 83,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 101,
+      "heading": "1. Introduction",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "2-model-description-and-verification",
+      "end_line": 120,
+      "heading": "2. Model Description and Verification",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "3-transient-response-analysis",
+      "end_line": 173,
+      "heading": "3. Transient-Response Analysis",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "4-frequency-response-analysis",
+      "end_line": 195,
+      "heading": "4. Frequency-Response Analysis",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "4-1-calculated-frequency-response-of-power-to-reactivity",
+      "end_line": 215,
+      "heading": "4.1 Calculated Frequency Response of Power to Reactivity",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "4-2-effect-of-mixing-in-the-fuel-loop",
+      "end_line": 228,
+      "heading": "4.2 Effect of Mixing in the Fuel Loop",
+      "level": 1,
+      "start_line": 216
+    },
+    {
+      "anchor": "4-3-sensitivity-of-delta-n-n-0-cdot-delta-k-to-parameter-changes",
+      "end_line": 239,
+      "heading": "4.3 Sensitivity of $\\delta n / n_0\\cdot \\delta k$ to Parameter Changes",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "4-4-frequency-response-of-outlet-temperature-to-power",
+      "end_line": 253,
+      "heading": "4.4 Frequency Response of Outlet Temperature to Power",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "5-stability-analysis",
+      "end_line": 255,
+      "heading": "5. Stability Analysis",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "5-1-pole-configuration-eigenvalues",
+      "end_line": 305,
+      "heading": "5.1 Pole Configuration - Eigenvalues",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "5-2-modified-mikhailov-method",
+      "end_line": 424,
+      "heading": "5.2 Modified Mikhailov Method",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "6-concluding-discussion",
+      "end_line": 428,
+      "heading": "6. Concluding Discussion",
+      "level": 1,
+      "start_line": 425
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 432,
+      "heading": "Acknowledgments",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "references",
+      "end_line": 448,
+      "heading": "References",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "appendix-pade-approximations",
+      "end_line": 556,
+      "heading": "Appendix PADE APPROXIMATIONS",
+      "level": 1,
+      "start_line": 449
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 646,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 652,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 647
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2571",
+  "tables": [],
+  "title": "ORNL-TM-2571",
+  "topics": [
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

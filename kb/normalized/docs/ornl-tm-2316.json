@@ -1,0 +1,901 @@
+{
+  "authors": [
+    "MASTER",
+    "COOLANT",
+    "AND FLUSH SALTS",
+    "Edited by S. Cantor",
+    "Contributors:",
+    "S. Cantor",
+    "J. W. Cooke"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2316.jsonl",
+  "date_text": "1968",
+  "doc_id": "ornl-tm-2316",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          188,
+          267,
+          556
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          186,
+          188
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          880
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          186
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          202
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 33,
+        "line_hits": [
+          1,
+          27,
+          48,
+          268,
+          269,
+          317,
+          380,
+          384,
+          386,
+          403,
+          438,
+          439,
+          442,
+          444,
+          526,
+          528,
+          552,
+          554,
+          555,
+          557,
+          558,
+          648,
+          728,
+          729,
+          730,
+          788,
+          789,
+          791,
+          792,
+          872,
+          874,
+          923,
+          1158
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          58,
+          403,
+          552,
+          555,
+          556,
+          557,
+          793,
+          1158,
+          1160,
+          1161,
+          1162,
+          1163,
+          1164,
+          1166,
+          1168,
+          1169,
+          1170,
+          1171,
+          1172,
+          1173
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          54
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 31,
+        "line_hits": [
+          130,
+          176,
+          180,
+          182,
+          186,
+          202,
+          208,
+          212,
+          216,
+          218,
+          279,
+          309,
+          327,
+          373,
+          418,
+          476,
+          478,
+          544,
+          576,
+          582,
+          588,
+          596,
+          634,
+          636,
+          690,
+          694,
+          720,
+          803,
+          833,
+          860,
+          864
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          170,
+          198,
+          921
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          380,
+          384
+        ],
+        "name": "MSR Program Semiannual Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 36,
+        "line_hits": [
+          86,
+          122,
+          124,
+          170,
+          184,
+          192,
+          196,
+          236,
+          246,
+          248,
+          249,
+          251,
+          253,
+          299,
+          357,
+          392,
+          394,
+          401,
+          402,
+          418,
+          430,
+          434,
+          454,
+          462,
+          476,
+          481,
+          489,
+          540,
+          640,
+          694,
+          696,
+          780,
+          837,
+          864,
+          867,
+          921
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          88,
+          126,
+          172,
+          204,
+          240,
+          363,
+          392,
+          403,
+          408,
+          426,
+          472,
+          505,
+          548,
+          690,
+          708,
+          722,
+          780,
+          784,
+          837,
+          921
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          86,
+          170,
+          184,
+          357,
+          392,
+          434,
+          540,
+          921
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          86,
+          170,
+          184,
+          357,
+          434,
+          464,
+          921
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          170,
+          184,
+          357,
+          540,
+          921
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          86,
+          357,
+          434
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          86,
+          434
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          357,
+          434
+        ],
+        "name": "LiF-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          837
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          837
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          206
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          386
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "58106a64c1538ebf8b84f973052ad1b35df628beace8d4673ce57ef986465567",
+  "markdown_path": "pdf/ORNL-TM-2316/ORNL-TM-2316/hybrid_ocr/ORNL-TM-2316.md",
+  "report_number": "ORNL-TM-2316",
+  "report_numbers": [
+    "ORNL-TM-2316",
+    "ORNL-2890",
+    "ORNL-4254",
+    "ORNL-4191",
+    "ORNL-TM-2180"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 74,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2316",
+      "end_line": 2,
+      "heading": "Ornl-Tm-2316",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 4,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "physical-properties-of-molten-salt-reactor-fuel-coolant-and-flush-salts",
+      "end_line": 19,
+      "heading": "Physical Properties Of Molten-Salt Reactor Fuel, Coolant, And Flush Salts",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 26,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 20
+    },
+    {
+      "anchor": "ornl-tm-2316",
+      "end_line": 30,
+      "heading": "Ornl-Tm-2316",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 32,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "physical-properties-of-molten-salt-reactor-fuel-coolant-and-flush-salts",
+      "end_line": 45,
+      "heading": "Physical Properties Of Molten-Salt Reactor Fuel, Coolant, And Flush Salts",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "august-1968",
+      "end_line": 47,
+      "heading": "August 1968",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 53,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 57,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 61,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "contents",
+      "end_line": 107,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 117,
+      "heading": "Appendix",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 173,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 177,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "basis-for-selecting-the-salts",
+      "end_line": 221,
+      "heading": "Basis for Selecting the Salts",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "for-further-information",
+      "end_line": 225,
+      "heading": "For Further Information ---",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "viscosity",
+      "end_line": 227,
+      "heading": "VISCOSITY",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "s-cantor",
+      "end_line": 233,
+      "heading": "S. Cantor",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 241,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 234
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 264,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "references",
+      "end_line": 272,
+      "heading": "References",
+      "level": 1,
+      "start_line": 265
+    },
+    {
+      "anchor": "thermal-conductivity",
+      "end_line": 282,
+      "heading": "THERMAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 306,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 312,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "references",
+      "end_line": 318,
+      "heading": "References",
+      "level": 1,
+      "start_line": 313
+    },
+    {
+      "anchor": "electrical-conductivity",
+      "end_line": 324,
+      "heading": "ELECTRICAL CONDUCTIVITY",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "sources-of-data-and-method-of-estimation",
+      "end_line": 364,
+      "heading": "Sources of Data and Method of Estimation",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 374,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "references",
+      "end_line": 387,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "phase-transition-behavior",
+      "end_line": 398,
+      "heading": "PHASE TRANSITION BEHAVIOR",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "sources-of-data",
+      "end_line": 409,
+      "heading": "Sources of Data",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "heat-capacity-at-constant-pressure",
+      "end_line": 415,
+      "heading": "HEAT CAPACITY (at constant pressure)",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 427,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 416
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 435,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 428
+    },
+    {
+      "anchor": "references",
+      "end_line": 445,
+      "heading": "References",
+      "level": 1,
+      "start_line": 436
+    },
+    {
+      "anchor": "heat-of-fusion",
+      "end_line": 451,
+      "heading": "HEAT OF FUSION",
+      "level": 1,
+      "start_line": 446
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 473,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 452
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 519,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "references",
+      "end_line": 529,
+      "heading": "References",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "density-of-liquid",
+      "end_line": 531,
+      "heading": "DENSITY OF LIQUID",
+      "level": 1,
+      "start_line": 530
+    },
+    {
+      "anchor": "s-cantor",
+      "end_line": 535,
+      "heading": "(S. Cantor)",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 549,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "references",
+      "end_line": 559,
+      "heading": "References",
+      "level": 1,
+      "start_line": 550
+    },
+    {
+      "anchor": "expansivity-volume-coefficient-of-thermal-expansion",
+      "end_line": 561,
+      "heading": "EXPANSIVITY (VOLUME COEFFICIENT OF THERMAL EXPANSION)",
+      "level": 1,
+      "start_line": 560
+    },
+    {
+      "anchor": "s-cantor",
+      "end_line": 567,
+      "heading": "S. Cantor",
+      "level": 1,
+      "start_line": 562
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 597,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 568
+    },
+    {
+      "anchor": "references",
+      "end_line": 601,
+      "heading": "References",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "compressibility-isothermal-a",
+      "end_line": 603,
+      "heading": "COMPRESSIBILITY (ISOTHERMAL) a",
+      "level": 1,
+      "start_line": 602
+    },
+    {
+      "anchor": "s-cantor",
+      "end_line": 637,
+      "heading": "S. Cantor",
+      "level": 1,
+      "start_line": 604
+    },
+    {
+      "anchor": "methods-of-estimation",
+      "end_line": 645,
+      "heading": "Methods of Estimation",
+      "level": 1,
+      "start_line": 638
+    },
+    {
+      "anchor": "references",
+      "end_line": 649,
+      "heading": "References",
+      "level": 1,
+      "start_line": 646
+    },
+    {
+      "anchor": "vapor-pressure",
+      "end_line": 651,
+      "heading": "VAPOR PRESSURE",
+      "level": 1,
+      "start_line": 650
+    },
+    {
+      "anchor": "s-cantor",
+      "end_line": 659,
+      "heading": "S. Cantor",
+      "level": 1,
+      "start_line": 652
+    },
+    {
+      "anchor": "f1-f2-f3-f4",
+      "end_line": 691,
+      "heading": "F1 F2 F3 F4",
+      "level": 2,
+      "start_line": 660
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 725,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 692
+    },
+    {
+      "anchor": "references",
+      "end_line": 731,
+      "heading": "References",
+      "level": 1,
+      "start_line": 726
+    },
+    {
+      "anchor": "surface-tension",
+      "end_line": 777,
+      "heading": "SURFACE TENSION",
+      "level": 1,
+      "start_line": 732
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 785,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 778
+    },
+    {
+      "anchor": "references",
+      "end_line": 794,
+      "heading": "References",
+      "level": 1,
+      "start_line": 786
+    },
+    {
+      "anchor": "solubility-of-helium-krypton-and-xenon",
+      "end_line": 796,
+      "heading": "SOLUBILITY OF HELIUM, KRYPTON, AND XENON",
+      "level": 1,
+      "start_line": 795
+    },
+    {
+      "anchor": "g-m-watson",
+      "end_line": 804,
+      "heading": "G. M. Watson",
+      "level": 1,
+      "start_line": 797
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 843,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 805
+    },
+    {
+      "anchor": "references",
+      "end_line": 849,
+      "heading": "References",
+      "level": 1,
+      "start_line": 844
+    },
+    {
+      "anchor": "solubility-of-mathbf-bf-3-gas",
+      "end_line": 861,
+      "heading": "SOLUBILITY OF $\\mathbf{BF}_3$ GAS",
+      "level": 1,
+      "start_line": 850
+    },
+    {
+      "anchor": "sources-of-data-and-methods-of-estimation",
+      "end_line": 868,
+      "heading": "Sources of Data and Methods of Estimation",
+      "level": 1,
+      "start_line": 862
+    },
+    {
+      "anchor": "references",
+      "end_line": 877,
+      "heading": "References",
+      "level": 1,
+      "start_line": 869
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 901,
+      "heading": "Appendix A",
+      "level": 2,
+      "start_line": 878
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 912,
+      "heading": "Appendix B",
+      "level": 2,
+      "start_line": 902
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 914,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 913
+    },
+    {
+      "anchor": "conversion-factors",
+      "end_line": 922,
+      "heading": "CONVERSION FACTORS",
+      "level": 1,
+      "start_line": 915
+    },
+    {
+      "anchor": "ornl-tm-2316",
+      "end_line": 924,
+      "heading": "Ornl-Tm- 2316",
+      "level": 2,
+      "start_line": 923
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1155,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 925
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1175,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1156
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2316",
+  "tables": [],
+  "title": "ORNL-TM-2316",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "off-gas-fission-products-and-tritium",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "program-history"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

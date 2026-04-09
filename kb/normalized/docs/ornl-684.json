@@ -1,0 +1,607 @@
+{
+  "authors": [
+    "NANON",
+    "THE ATOMIC-POWERED AIRCRAFT",
+    "CENTRAL RESEARCH LIBRARY",
+    "CIRCULATION SECTION",
+    "LIBRARY LOAN COPY",
+    "OPERATED BY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-684.jsonl",
+  "date_text": "April 17, 1950",
+  "doc_id": "ornl-684",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          450
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          450
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          448
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          239,
+          243,
+          247,
+          474
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          239,
+          243,
+          247
+        ],
+        "name": "intermediate heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          1,
+          151,
+          209,
+          418,
+          422,
+          424,
+          426,
+          452
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          13,
+          33,
+          59,
+          95,
+          209,
+          444,
+          458,
+          495
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          161,
+          466
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          39,
+          87
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          149
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          462
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          189
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 38,
+        "line_hits": [
+          209,
+          223,
+          227,
+          233,
+          235,
+          239,
+          245,
+          247,
+          250,
+          255,
+          257,
+          259,
+          279,
+          281,
+          285,
+          289,
+          291,
+          313,
+          319,
+          328,
+          329,
+          331,
+          339,
+          347,
+          351,
+          365,
+          372,
+          392,
+          394,
+          404,
+          436,
+          442,
+          452,
+          466,
+          470,
+          472,
+          479,
+          495
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          235
+        ],
+        "name": "ART"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 13,
+        "line_hits": [
+          229,
+          233,
+          235,
+          295,
+          297,
+          317,
+          351,
+          361,
+          418,
+          424,
+          479,
+          493,
+          503
+        ],
+        "name": "aircraft propulsion reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          115,
+          145
+        ],
+        "name": "ORNL Central Files"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9161a9936e0f34aeb551b0fa04b7ddaff268975db483b32810e2842c0bf30ee7",
+  "markdown_path": "pdf/ORNL-0684/ORNL-0684/hybrid_ocr/ORNL-0684.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 53,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "nanon",
+      "end_line": 4,
+      "heading": "Nanon",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "laboratory-records",
+      "end_line": 8,
+      "heading": "Laboratory Records",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "the-atomic-powered-aircraft",
+      "end_line": 10,
+      "heading": "The Atomic-Powered Aircraft",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "january-1950",
+      "end_line": 12,
+      "heading": "January, 1950",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 14,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 16,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "circulation-section",
+      "end_line": 18,
+      "heading": "Circulation Section",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "4500n-room-175",
+      "end_line": 20,
+      "heading": "4500N Room 175",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 22,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 30,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "ucn-7969-3-9-77",
+      "end_line": 32,
+      "heading": "Ucn-7969 (3 9-77)",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 34,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 36,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-division",
+      "end_line": 38,
+      "heading": "Carbide And Carbon Chemicals Division",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "union-carbide-and-carbon-corporation",
+      "end_line": 42,
+      "heading": "Union Carbide And Carbon Corporation",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "post-office-box-p",
+      "end_line": 44,
+      "heading": "Post Office Box P",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "dak-ridge-tennessee",
+      "end_line": 58,
+      "heading": "Dak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "ornl-684",
+      "end_line": 68,
+      "heading": "Ornl 684\\*",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "reactor-technology-division",
+      "end_line": 70,
+      "heading": "Reactor Technology Division",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "the-atomic-powered-aircraft",
+      "end_line": 72,
+      "heading": "The Atomic-Powered Aircraft",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "january-1950",
+      "end_line": 78,
+      "heading": "January, 1950",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "apr-26-1950",
+      "end_line": 80,
+      "heading": "Apr 26 1950",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 84,
+      "heading": "Oak Ridge. National Laboratory",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-division",
+      "end_line": 94,
+      "heading": "Carbide And Carbon Chemicals Division",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "ornl-684",
+      "end_line": 98,
+      "heading": "Ornl 684",
+      "level": 2,
+      "start_line": 95
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 146,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 194,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 206,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "note",
+      "end_line": 216,
+      "heading": "NOTE:",
+      "level": 1,
+      "start_line": 207
+    },
+    {
+      "anchor": "the-atomic-powers-aircraft",
+      "end_line": 218,
+      "heading": "THE ATOMIC-POWERS AIRCRAFT",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "january-1950",
+      "end_line": 220,
+      "heading": "January, 1950",
+      "level": 2,
+      "start_line": 219
+    },
+    {
+      "anchor": "part-i-conclusions",
+      "end_line": 230,
+      "heading": "Part I. Conclusions",
+      "level": 2,
+      "start_line": 221
+    },
+    {
+      "anchor": "part-ii-basic-reactor-design-criteria",
+      "end_line": 270,
+      "heading": "PART II. BASIC REACTOR DESIGN CRITERIA",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "surface-to-volume-ratio",
+      "end_line": 276,
+      "heading": "Surface to Volume Ratio:",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "high-temperature-materials",
+      "end_line": 282,
+      "heading": "High Temperature Materials:",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "shielding",
+      "end_line": 298,
+      "heading": "Shielding:",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "reactor-neutron-properties",
+      "end_line": 308,
+      "heading": "Reactor Neutron Properties:",
+      "level": 1,
+      "start_line": 299
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 314,
+      "heading": "Conclusions:",
+      "level": 1,
+      "start_line": 309
+    },
+    {
+      "anchor": "part-iii-some-viewpoints-from-the-lexington-report",
+      "end_line": 320,
+      "heading": "PART III. SOME VIEWPOINTS FROM THE LEXINGTON REPORT",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 352,
+      "heading": "Conclusions:",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "fundamental-assumptions",
+      "end_line": 358,
+      "heading": "Fundamental Assumptions:",
+      "level": 1,
+      "start_line": 353
+    },
+    {
+      "anchor": "bismuth-turbojet-cycle",
+      "end_line": 389,
+      "heading": "Bismuth Turbojet Cycle:",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "gas-cycles",
+      "end_line": 415,
+      "heading": "Gas Cycles:",
+      "level": 1,
+      "start_line": 390
+    },
+    {
+      "anchor": "part-iv-major-developments-since-the-lexington-report",
+      "end_line": 419,
+      "heading": "PART IV. MAJOR DEVELOPMENTS SINCE THE LEXINGTON REPORT",
+      "level": 1,
+      "start_line": 416
+    },
+    {
+      "anchor": "radiation-damage",
+      "end_line": 427,
+      "heading": "Radiation Damage",
+      "level": 1,
+      "start_line": 420
+    },
+    {
+      "anchor": "shielding",
+      "end_line": 445,
+      "heading": "Shielding:",
+      "level": 1,
+      "start_line": 428
+    },
+    {
+      "anchor": "reactor-materials",
+      "end_line": 453,
+      "heading": "Reactor Materials:",
+      "level": 1,
+      "start_line": 446
+    },
+    {
+      "anchor": "intermediate-reactors",
+      "end_line": 459,
+      "heading": "Intermediate Reactors:",
+      "level": 1,
+      "start_line": 454
+    },
+    {
+      "anchor": "tug-tow",
+      "end_line": 463,
+      "heading": "Tug-Tow:",
+      "level": 1,
+      "start_line": 460
+    },
+    {
+      "anchor": "reprocessing",
+      "end_line": 467,
+      "heading": "Reprocessing:",
+      "level": 1,
+      "start_line": 464
+    },
+    {
+      "anchor": "miscellaneous",
+      "end_line": 476,
+      "heading": "Miscellaneous:",
+      "level": 1,
+      "start_line": 468
+    },
+    {
+      "anchor": "part-v-sample-calculations-with-newer-data",
+      "end_line": 507,
+      "heading": "PART V. SAMPLE CALCULATIONS WITH NEWER DATA",
+      "level": 1,
+      "start_line": 477
+    }
+  ],
+  "source_dir": "pdf/ORNL-0684",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "irradiation-and-damage",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

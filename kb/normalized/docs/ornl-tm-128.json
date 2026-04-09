@@ -1,0 +1,431 @@
+{
+  "authors": [
+    "M. Richardson",
+    "NOTICE",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-128.jsonl",
+  "date_text": "1962",
+  "doc_id": "ornl-tm-128",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          66,
+          109,
+          122
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          109
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 14,
+        "line_hits": [
+          56,
+          60,
+          87,
+          143,
+          177,
+          179,
+          188,
+          191,
+          199,
+          201,
+          207,
+          209,
+          217,
+          224
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          185,
+          197,
+          222
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          34,
+          155,
+          220
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          222
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          3,
+          9,
+          19,
+          42,
+          213,
+          266,
+          267
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          52
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          5,
+          48
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 7,
+        "line_hits": [
+          13,
+          34,
+          56,
+          79,
+          179,
+          188,
+          220
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          56,
+          197,
+          201,
+          205,
+          236,
+          244
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          201
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "23de607088ff09fb57aa8c4319fa259e3bd030fc86844615ae9c156109f0067a",
+  "markdown_path": "pdf/ORNL-TM-0128/ORNL-TM-0128/hybrid_ocr/ORNL-TM-0128.md",
+  "report_number": "ORNL-TM-128",
+  "report_numbers": [
+    "ORNL-TM-128",
+    "ORNL-3014",
+    "ORNL-3122"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 37,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 8,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "ornl-tm-128",
+      "end_line": 12,
+      "heading": "Ornl-Tm-128",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "development-of-freez-valve-for-use-in-the-msre",
+      "end_line": 16,
+      "heading": "Development Of Freez Valve For Use In The Msre",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "notice",
+      "end_line": 20,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 33,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "development-of-freeze-valve-for-use-in-the-msre",
+      "end_line": 37,
+      "heading": "Development Of Freeze Valve For Use In The Msre",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 39,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "feb-28-1962",
+      "end_line": 41,
+      "heading": "Feb 28 1962",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 47,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 51,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 53,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 57,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 61,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "test-equipment",
+      "end_line": 82,
+      "heading": "TEST EQUIPMENT",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "test-cycle",
+      "end_line": 100,
+      "heading": "TEST CYCLE",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "description-of-test-valves",
+      "end_line": 102,
+      "heading": "DESCRIPTION OF TEST VALVES",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "direct-resistance-valve",
+      "end_line": 115,
+      "heading": "Direct-Resistance Valve",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "induction-heated-valve",
+      "end_line": 130,
+      "heading": "Induction-Heated Valve",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "calrod-heated-valve",
+      "end_line": 136,
+      "heading": "Calrod-Heated Valve",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "results-of-test-valve-operation",
+      "end_line": 138,
+      "heading": "RESULTS OF TEST-VALVE OPERATION",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "resistance-heated-valve",
+      "end_line": 144,
+      "heading": "Resistance-Heated Valve",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "induction-heated-valve",
+      "end_line": 156,
+      "heading": "Induction-Heated Valve",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "calrod-heated-valve",
+      "end_line": 160,
+      "heading": "Calrod-Heated Valve",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "discussion-of-test-valve-installation-and-operation",
+      "end_line": 176,
+      "heading": "DISCUSSION OF TEST-VALVE INSTALLATION AND OPERATION",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "description-of-valve-installation-in-engineering-test-loop",
+      "end_line": 198,
+      "heading": "DESCRIPTION OF VALVE INSTALLATION IN ENGINEERING TEST LOOP",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "freeze-valve-operation-and-results-in-the-engineering-test-loop",
+      "end_line": 208,
+      "heading": "Freeze-Valve Operation And Results In The Engineering Test Loop",
+      "level": 2,
+      "start_line": 199
+    },
+    {
+      "anchor": "engineering-test-loop-data",
+      "end_line": 210,
+      "heading": "Engineering Test Loop Data",
+      "level": 2,
+      "start_line": 209
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 212,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 211
+    },
+    {
+      "anchor": "ornl-lr-dwg-64018",
+      "end_line": 214,
+      "heading": "Ornl-Lr-Dwg 64018",
+      "level": 2,
+      "start_line": 213
+    },
+    {
+      "anchor": "o-reference-frozen-temperature-700-f",
+      "end_line": 223,
+      "heading": "O Reference Frozen,Temperature: 700°F",
+      "level": 2,
+      "start_line": 215
+    },
+    {
+      "anchor": "discussion-of-valve-operation-in-the-engineering-test-loop",
+      "end_line": 229,
+      "heading": "DISCUSSION OF VALVE OPERATION IN THE ENGINEERING TEST LOOP",
+      "level": 1,
+      "start_line": 224
+    },
+    {
+      "anchor": "conclusions-and-recommendations",
+      "end_line": 255,
+      "heading": "CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 263,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 270,
+      "heading": "BIBLIOGRAPHY",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 399,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 406,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 400
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0128",
+  "tables": [],
+  "title": "![](images/ed00c49f4f8a6777f45e973ba7d7ab7ad02f651e28205f6fb99cebe7a38a6072.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox",
+    "program-history",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

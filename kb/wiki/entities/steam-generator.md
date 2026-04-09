@@ -1,0 +1,173 @@
+# steam generator
+
+## Overview
+
+- Type: component
+- Documents: 113
+- First seen: December 2, 1942
+- Last seen: unknown
+
+## Topic Profile
+
+- pumps-loops-and-heat-exchangers (109)
+- reactor-operations (105)
+- materials-and-corrosion (101)
+- off-gas-fission-products-and-tritium (76)
+- graphite-and-moderator-behavior (70)
+- breeder-and-converter-design (68)
+- reactor-physics-neutronics (68)
+- salt-chemistry-and-redox (64)
+
+## Related Entities
+
+- ARE [reactor] (113)
+- ORNL [organization] (111)
+- heat exchanger [component] (109)
+- AEC [organization] (103)
+- pump [component] (102)
+- loop [component] (100)
+- graphite [alloy-material] (96)
+- nickel [alloy-material] (90)
+- Union Carbide [organization] (82)
+- molybdenum [alloy-material] (76)
+- LiF [salt-system] (75)
+- NaF [salt-system] (75)
+
+## Representative Claims
+
+- [[../documents/ornl-tm-3866.md|![](images/21d47926519d1679e8984c4291d925f12b0fad58a3797a05df44e831a5cd03ca.jpg)]] - April 20, 1953
+  - The loop is being operated at temperature conditions very near those proposed for the maximum $(687^{\circ}\mathrm{C})$ and minimum $(387^{\circ}\mathrm{C})$ salt-metal temperature (primary heat exchanger and steam generator, respectively) of the MSBR secondary circuit.
+- [[../documents/chapter-7.md|CHAPTER 7]] - May 1954
+  - The prototype reactor components tested in the mockup include: (1) a Westinghouse canned-rotor centrifugal pump, (2) an electrically heated steam pressurizer, (3) a centrifugal gas separator, (4) a 1/8-scale heat exchanger similar to the HRE-2 steam generator, (5) a letdown heat exchanger to cool the fluid and gas bled from the high-pressure system, (6) a bellows-sealed letdown valve to throttle the fluid and gas from the high-pressure system, (7) a liquid-level controller which adjusts the letdown-valve position, (8) the dump-tank and condensate system for excess fuel solution and storage of condensate for use as purge to the pressurizer and circulating pump, (9) diaphragm feed pumps to return fuel to the high-pressure system from the dump tanks, (10) an oxygen-feed system to maintain oxidizing conditions in the circulating fuel, and (11) an air-injection system for tests of the effectiveness of the gas-separator unit and letdown system.
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956
+  - (2) Flow Regulating Valves in the superheater and steam generator loops will be constructed of Inconel.
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956
+  - (3) Natural Circulation Boiler: The natural circulation boiler is perhaps the conventional steam generator for marine use.
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956
+  - (The saturation pressure at this temperature is 1180 psia or approximately 70 psi below the steam generator operating pressure).
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956
+  - 2 used the alternate approach consisting of two intermediate fluids to allow placement of the steam generators, etc. outside of the secondary shield, and a similar
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956
+  - 30 at 1500°F under 3500 psi Stress</td><td>64</td></tr><tr><td>6-1</td><td>Estimate of Weight Per Power Ratio vs Primary Heat Exchanger Outer Diameter for Various Tube Spacings</td><td>85</td></tr><tr><td>7-1</td><td>Proposed Steam Generator</td><td>103</td></tr><tr><td>7-2</td><td>Proposed Superheater</td><td>104</td></tr><tr><td>7-3</td><td>Proposed Basic Arrangement</td><td>105</td></tr><tr><td>7-4</td><td>Salt Viscosity</td><td>106</td></tr><tr><td>7-5</td><td>Friction Factor</td><td>107</td></tr><tr><td>7-6</td><td>Heat Transfer Correlation</td><td>108</td></tr><tr><td>7-7</td><td>Pump Equivalent Weight</td><td>109</td></tr><tr><td>8-1</td><td>Reactivity vs Mass U=235</td><td>118</td></tr><tr><td>8-2</td><td>Reactivity vs U-235 Concentration</td><td>119</td></tr><tr><td>8-3</td><td>Reactivity vs U-235 Mass</td><td>125</td></tr><tr><td>8-4</td><td>Radial Flux Distribution</td><td>126</td></tr><tr><td>8-5</td><td>Radial Power Distribution</td><td>127</td></tr><tr><td>8-6</td><td>Thermal Flux Distribution in Unit Lattice Cell</td><td>128</td></tr><tr><td>8-7</td><td>Percent Reactivity Loss During Lifetime Due toBurnup and Fission Product Poisons</td><td>130</td></tr><tr><td>8-8</td><td>Core Reactivity vs Control Rod Position</td><td>134</td></tr><tr><td>9-1A</td><td>Neutron Flux Plot - Core to Primary Shield Lead</td><td>139</td></tr><tr><td>9-1B</td><td>Neutron Flux Plot in Primary Shield Tank</td><td>140</td></tr><tr><td>9-2</td><td>Secondary Shield</td><td>144</td></tr><tr><td>9-3</td><td>Reactor Compartment</td><td>149</td></tr><tr><td>10-1</td><td>Predicted Steam Balance for Reactor Powered Systemat 35,000 shp</td><td>155</td></tr><tr><td>11-1</td><td>General Arrangement</td><td>163</td></tr><tr><td>11-2</td><td>Simulation Flow Sheet</td><td>172</td></tr><tr><td>11-3</td><td>Reactor Power and Temperature vs Time for aRamp Change in Power Demand</td><td>173</td></tr><tr><td>11-4</td><td>Reactor Power and Temperature vs Time for a StepChange in Power Demand</td><td>174</td></tr><tr><td>11-5</td><td>Reactor Power and Temperature vs Time for StepChange in Reactivity</td><td>175</td></tr><tr><td>11-6</td><td>Output Steam Temperature vs Load</td><td>176</td></tr><tr><td>11-7</td><td>Reactor Power and Steam Temperature vs Time fora Linear Change in Power Demand</td><td>177</td></tr><tr><td>A=5.1</td><td>Inconel Design Data</td><td>204</td></tr><tr><td>A=5.2</td><td>Inconel Design Data</td><td>205</td></tr><tr><td>A=5.3</td><td>Inconel Design Data</td><td>206</td></tr><tr><td>A=6.1</td><td>Moderator Rod Temperature Distribution</td><td>214</td></tr><tr><td>A=11.1</td><td>Analog Representation of Fuel Loop</td><td>249</td></tr><tr><td>A=11.2</td><td>Analog Representation of Salt Side of Primary Heat Exchanger and Superheater</td><td>250</td></tr><tr><td>A=11.3</td><td>Analog Representation of Salt Side of Steam Generator</td><td>251</td></tr><tr><td>A=11.4</td><td>Method of Generating Power Demand Voltages</td><td>252</td></tr><tr><td>A=11.5</td><td>Analog Representation of Control System</td><td>253</td></tr></table>
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956
+  - In circuit 2 as shown in Figure 11.2, the superheater and steam generator were approximated by a single heat exchanger.
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956
+  - In selecting a steam generator the general types considered were (1) the flash boiler, (2) the once through boiler, (3) the natural circulation, and (4) the forced circulation boiler.
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956
+  - In the design of the steam generators the group endeavored to duplicate the existing steam conditions of the 931 class destroyer.
+
+## Chronology
+
+- [[../documents/ornl-cf-44-11-236.md|AQUEOUS HOMOGENEOUS REACTORS]] - December 2, 1942 - ORNL-CF-44-11-236 - mentions: 47
+- [[../documents/ornl-tm-3866.md|![](images/21d47926519d1679e8984c4291d925f12b0fad58a3797a05df44e831a5cd03ca.jpg)]] - April 20, 1953 - ORNL-4254 - mentions: 2
+- [[../documents/chapter-7.md|CHAPTER 7]] - May 1954 - mentions: 6
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956 - mentions: 59
+- [[../documents/ornl-cf-56-7-114.md|![](images/7e80a3fc2bc4f9c83a23b3118d4a5062c8b2dbd5d6ed88b4f08a2341a9dddb48.jpg)]] - July 18, 1956 - mentions: 1
+- [[../documents/ornl-cf-56-8-208.md|FOR INTERNAL USE ONLY]] - March 4, 1957 - mentions: 48
+- [[../documents/ornl-cf-57-4-92.md|UNCLASSIFIED]] - April 8, 1957 - mentions: 4
+- [[../documents/ornl-cf-57-4-27.md|![](images/3f7cf0a8001da7322a0b64862847fd098bcc14dff6f113c0f2b93b24ab9b98f8.jpg)]] - April 29, 1957 - CF-57-1-10 - mentions: 1
+- [[../documents/ornl-2340-p-1-5.md|DECLASSIFIED]] - June 30, 1957 - ORNL-2340 - mentions: 1
+- [[../documents/ornl-cf-57-10-41.md|UNCLASSIFIED]] - October 10, 1957 - mentions: 1
+- [[../documents/ornl-2431.md|MOLTEN-SALT REACTOR PROGRAM]] - October 31, 1957 - ORNL-2431 - mentions: 1
+- [[../documents/ornl-2605.md|ORNL-2605]] - 1958 - ORNL-2605 - mentions: 1
+- [[../documents/ornl-2634.md|ORNL-2634]] - May 1, 1958 - ORNL-2634 - mentions: 16
+- [[../documents/molten-salt-reactors.md|MOLTEN-SALT REACTORS]] - June 1958 - mentions: 3
+- [[../documents/anl-4342.md|Part III]] - June 1958 - ANL-4342 - mentions: 16
+- [[../documents/ornl-tm-4272.md|![](images/39a504e821f9634b797d93754f178abf89a6fbddacb1fa0530dd4a8f4342ce4f.jpg)]] - June 30, 1958 - ORNL-4254 - mentions: 1
+- [[../documents/fluid-fuel-reactors.md|FLUID FUEL REACTORS]] - September 1958 - mentions: 1
+- [[../documents/ornl-2626.md|ORNL-2626]] - October 31, 1958 - ORNL-2626 - mentions: 1
+- [[../documents/ornl-2677.md|![](images/cdeafc586139ac9534e06094b47ca65a41696be77bb2d56e6ea3f3ad2db1f6da.jpg)]] - 1959 - ORNL-2677 - mentions: 3
+- [[../documents/tid-8507.md|CENTRAL RESEARCH LIBRAR]] - January 2, 1959 - mentions: 30
+- [[../documents/ornl-cf-59-1-26.md|![](images/3a74bb449ed93c4da89dd5c969a24e7eba90f63087b3269a98f7b1d5691b1f3f.jpg)]] - January 13, 1959 - mentions: 3
+- [[../documents/ornl-2684.md|ORNL-2684]] - January 31, 1959 - ORNL-2684 - mentions: 1
+- [[../documents/chapter-25.md|CHAPTER 25]] - 1960 - mentions: 3
+- [[../documents/ornl-2796.md|Contract No. W-7405-eng-26]] - 1960 - mentions: 8
+- [[../documents/ornl-2985.md|ORNL-2985]] - 1960 - ORNL-2985 - mentions: 19
+- [[../documents/ornl-cf-59-12-64.md|![](images/cb00e17463f3921d9e92ab9f7c6f445cba0e7990230a9b65689712e904a834f6.jpg)]] - January 12, 1960 - mentions: 1
+- [[../documents/anl-7092.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - July 25, 1960 - ANL-6892 - mentions: 1
+- [[../documents/ornl-cf-60-6-97.md|OAK RIDGE NATIONAL LABORATORY]] - July 25, 1960 - mentions: 3
+- [[../documents/ornl-3215.md|![](images/b390bcb067039caf88dbc5e2ee9afe97556a586516b1e8bc48fcccfe1bf4383c.jpg)]] - 1961 - ORNL-3215 - mentions: 4
+- [[../documents/ornl-tm-1060.md|ORNL-TM-1060]] - July 1961 - ORNL-TM-1060 - mentions: 3
+- [[../documents/ornl-3282.md|ORNL-3282]] - 1962 - ORNL-3282 - mentions: 4
+- [[../documents/ornl-tm-522.md|![](images/7e0408010649f195c8401259e4c697a10252939b67992e2775a5be93e106198b.jpg)]] - October 10, 1962 - ORNL-TM-522 - mentions: 1
+- [[../documents/chapter-10.md|CHAPTER 10]] - June 30, 1963 - mentions: 1
+- [[../documents/anl-6892.md|ARGONNE NATIONAL LABORATORY]] - May 11, 1964 - ORNL-2510 - mentions: 3
+- [[../documents/anl-6909.md|Argonne National Laboratory]] - July 1, 1964 - ANL-6892 - mentions: 7
+- [[../documents/ornl-3708.md|![](images/50503ced8a785d6711476b9d883192f94a77603d1c0894f00fd35b69e5171bf6.jpg)]] - July 31, 1964 - ORNL-3708 - mentions: 3
+- [[../documents/ornl-tm-3832.md|![](images/1300c978e545fa137f7c638f011312135b3d51a64be678af13c0b08dfc7b58c9.jpg)]] - December 1964 - ORNL-TM-3832 - mentions: 4
+- [[../documents/ornl-tm-1070.md|ORNL-TM-1070]] - 1965 - ORNL-TM-1070 - mentions: 1
+- [[../documents/nse-1965.md|Paul R. KASTEN]] - June 1965 - mentions: 1
+- [[../documents/anl-7138.md|Argonne National Laboratory]] - January 1966 - ANL-6892 - mentions: 5
+- [[../documents/ornl-3996.md|ORNL-3996]] - 1966 - ORNL-3996 - mentions: 5
+- [[../documents/ornl-3936.md|ORNL-3936]] - February 28, 1966 - ORNL-3936 - mentions: 1
+- [[../documents/ornl-tm-1467.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - April 7, 1966 - ORNL-TM-1467 - mentions: 1
+- [[../documents/ornl-4037.md|ORNL-4037]] - August 31, 1966 - ORNL-4037 - mentions: 1
+- [[../documents/ornl-tm-3344.md|ORNL-TM-3344]] - June 1967 - ORNL-TM-3344 - mentions: 5
+- [[../documents/ornl-tm-3595.md|ORNL-TM-3595]] - June 1967 - ORNL-TM-3595 - mentions: 32
+- [[../documents/ornl-tm-1858.md|ORNL-TM-1858]] - June 9, 1967 - ORNL-TM-1858 - mentions: 2
+- [[../documents/ornl-tm-1851.md|ORNL-TM-1851]] - June 12, 1967 - ORNL-TM-1851 - mentions: 7
+- [[../documents/ornl-4528.md|![](images/efa4c365b6bf3e13da5500ec9fed0e63178b1fa0c3de881bcc6d38a1bdf4d24f.jpg)]] - August 1967 - ORNL-4528 - mentions: 25
+- [[../documents/ornl-4191.md|ORNL-4191]] - August 31, 1967 - ORNL-4191 - mentions: 5
+- [[../documents/ornl-tm-1855.md|![](images/1b350d6b5cc04bc7d7604b9dd9cc29d2a51787f05b2cf8392565028b4005a7ea.jpg)]] - October 3, 1967 - ORNL-TM-1855 - mentions: 6
+- [[../documents/ornl-tm-2316.md|ORNL-TM-2316]] - 1968 - ORNL-TM-2316 - mentions: 1
+- [[../documents/ornl-4254.md|ORNL-4254]] - February 29, 1968 - ORNL-4254 - mentions: 3
+- [[../documents/ornl-tm-2953.md|![](images/046cf1b425f1e69411b3ea1754bda49148c10254a65e54afc873e28d3e018364.jpg)]] - July 15, 1968 - ORNL-TM-2953 - mentions: 37
+- [[../documents/ornl-4344.md|ORNL-4344]] - August 31, 1968 - ORNL-4344 - mentions: 28
+- [[../documents/ornl-tm-2696.md|![](images/c9c56a5050b308189d21a1a66f8e1e25bf85df050eea34e2be76f0b316de50ae.jpg)]] - 1969 - mentions: 14
+- [[../documents/ornl-tm-2405.md|ORNL-TM-2405]] - 1969 - ORNL-TM-2405 - mentions: 7
+- [[../documents/ornl-tm-2489.md|ORNL-TM-2489]] - 1969 - ORNL-TM-2489 - mentions: 24
+- [[../documents/ornl-tm-2712.md|ORNL-TM-2712]] - 1969 - ORNL-TM-2712 - mentions: 4
+- [[../documents/ornl-4396.md|ORNL-4396]] - February 28, 1969 - ORNL-4396 - mentions: 22
+- [[../documents/wash-1097.md|CIVILIAN NUCLEAR POWER]] - June 1969 - mentions: 10
+- [[../documents/molten-salt-reactors-history-status-and-potential.md|MOLTEN-SALT REACTORS-HISTORY, STATUS, AND POTENTIAL]] - August 4, 1969 - mentions: 1
+- [[../documents/the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor.md|THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR]] - August 4, 1969 - mentions: 13
+- [[../documents/ornl-4449.md|ORNL-4449]] - August 31, 1969 - ORNL-4449 - mentions: 15
+- [[../documents/ornl-tm-3177.md|ORNL-TM-3177]] - 1970 - ORNL-TM-3177 - mentions: 13
+- [[../documents/ornl-tm-2927.md|U.S. ATOMIC ENERGY COMMISSION]] - 1970 - ORNL-TM-2927 - mentions: 31
+- [[../documents/ornl-4548.md|ORNL-4548]] - February 28, 1970 - ORNL-4548 - mentions: 43
+- [[../documents/ornl-tm-3102.md|W. H. Sides, Jr.]] - May 18, 1970 - ORNL-TM-2927 - mentions: 29
+- [[../documents/ornl-tm-4802.md|The Molten-Salt Reactor Information System]] - June 1970 - ORNL-TM-4802 - mentions: 3
+- [[../documents/ornl-4622.md|ORNL-4622]] - August 31, 1970 - ORNL-4622 - mentions: 45
+- [[../documents/tid-26156.md|1000 MW(e) MOLTEN SALT BREEDER REACTOR]] - September 30, 1970 - mentions: 103
+- [[../documents/ornl-4541.md|ORNL-4541]] - 1971 - ORNL-4541 - mentions: 101
+- [[../documents/ornl-tm-2952.md|ORNL-TM-2952]] - 1971 - ORNL-TM-2952 - mentions: 3
+- [[../documents/ornl-tm-3428.md|ORNL-TM-3428]] - 1971 - ORNL-TM-3428 - mentions: 14
+- [[../documents/ornl-4676.md|![](images/dd79b2ea7a269e4e2bdbdad98b315218b184c677fbd7fe6c21a5f930248bbf2e.jpg)]] - February 28, 1971 - ORNL-4676 - mentions: 51
+- [[../documents/ornl-tm-2815.md|![](images/bb8ca45e0e1b46aaebb681679979113b8c0c3ecd470ce0ca9696c201e289a854.jpg)]] - June 24, 1971 - ORNL-TM-2815 - mentions: 29
+- [[../documents/ornl-cf-71-8-10.md|![](images/d932c9230f16a5826251a6cef8c31b83e258692da125cef43f73926b0c64ce50.jpg)]] - August 6, 1971 - ORNL-TM-2316 - mentions: 26
+- [[../documents/ornl-4728.md|![](images/75792d190f38fb318248f14df749be3ce5abb65eaf2a821ff2d87b4b580840ca.jpg)]] - August 31, 1971 - ORNL-2474 - mentions: 31
+- [[../documents/ornl-tm-3777.md|![](images/4e80ebbc34b88b5e66a9fbae9c7feebdc76c592fd4d469e4de02ed435b41e679.jpg)]] - 1972 - mentions: 5
+- [[../documents/ornl-tm-3579.md|ORNL-TM-3579]] - 1972 - ORNL-TM-3579 - mentions: 1
+- [[../documents/ornl-4782.md|MOLTEN-SALT REACTOR PROGRAM]] - February 29, 1972 - ORNL-2474 - mentions: 17
+- [[../documents/ornl-4812.md|The Development Status of]] - August 1972 - ORNL-4812 - mentions: 104
+- [[../documents/ornl-4832.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1972 - ORNL-2474 - mentions: 16
+- [[../documents/wash-1222.md|AN EVALUATION]] - September 1972 - ORNL-4541 - mentions: 12
+- [[../documents/ornl-tm-3863.md|![](images/9f7be5e42e01ed4497478ae2964e953874059820a552d1e7d8b0ec118106a838.jpg)]] - 1973 - ORNL-TM-2316 - mentions: 1
+- [[../documents/nd-74-66.md|JAN 10 1975]] - January 31, 1973 - ND/71/66 - mentions: 136
+- [[../documents/ornl-5018.md|![](images/96c48f13787c31854c9814da24c925e11be9013ba9fe9d693aa56a180614d0c1.jpg)]] - 1974 - ORNL-5018 - mentions: 131
+- [[../documents/aeew-r956.md|![](images/5e51d81c4f194b78fb5d32f5628dbd64eb78c532ae5090d45633160fb57f7f11.jpg)]] - August 1974 - mentions: 30
+- [[../documents/ornl-5011.md|Molten-Salt Reactor Program]] - August 31, 1974 - ORNL-5011 - mentions: 18
+- [[../documents/ornl-tm-5325.md|Evaluation of Alternate Secondary (and Tertiary) Coolants for the Molten-Salt Breeder Reactor]] - September 1974 - mentions: 23
+- [[../documents/ornl-4995.md|![](images/a0572ccd70b274bcc5d02b451d7771bd945023e67f3685acf557e224b9ff80d3.jpg)]] - 1975 - ORNL-4995 - mentions: 29
+- [[../documents/ornl-tm-4804.md|A Method for Calculating the Steady-State Distribution of Tritium in a Molten-Salt Breeder Reactor Plant]] - 1975 - ORNL-TM-4804 - mentions: 11
+- [[../documents/ornl-5047.md|Molten-Salt]] - February 28, 1975 - ORNL-5047 - mentions: 13
+- [[../documents/ornl-tm-7207.md|ORNL/TM-7207]] - October 28, 1976 - mentions: 6
+- [[../documents/ornl-tm-5682.md|![](images/70c0c27f9a692cb026f0224e45db71674f309ffd7b7fe01af09e3fce72eb4f98.jpg)]] - January 18, 1977 - mentions: 4
+- [[../documents/ornl-tm-5759.md|G. T. Mays]] - April 1977 - mentions: 2
+- [[../documents/ornl-tm-5781.md|![](images/a196266181650abc0bf276526fc9796ac3e6c3ce5b32bd5fc4cb4a12a79ce122.jpg)]] - May 1977 - mentions: 1
+- [[../documents/ornl-5388.md|![](images/d72845dd72114e2f306d1c4d023fd2be870df3b40c2bb15c58dda3cd8e787ec3.jpg)]] - 1978 - ORNL-5388 - mentions: 2
+- [[../documents/images-10652bc25eb6df8c0ddac56a47db1e25893f70f982418b12be8b35c5b1a93461-jpg.md|![](images/10652bc25eb6df8c0ddac56a47db1e25893f70f982418b12be8b35c5b1a93461.jpg)]] - 1979 - mentions: 149
+- [[../documents/ornl-tm-6415.md|![](images/6f25af79db8446bcce7c7fe0081ce804cba28cc58dc153e91a50e4f262e223ad.jpg)]] - March 1979 - mentions: 13
+- [[../documents/pnl-3116.md|PNL-3116]] - January 1980 - mentions: 8
+- [[../documents/ornl-tm-9780-v1.md|NUCLEAR POWER OPTIONS VIABILITY STUDY]] - September 1986 - mentions: 3
+- [[../documents/ornl-tm-9780-v2.md|OAK RIDGE NATIONAL LABORATORY]] - September 1986 - mentions: 42
+- [[../documents/ornl-tm-9780-v3.md|OAK RIDGE NATIONAL LABORATORY]] - September 1986 - ORNL/TM-9780/1 - mentions: 11
+- [[../documents/ornl-tm-9780-v4.md|OAK RIDGE NATIONAL LABORATORY]] - September 1986 - ORNL-4951 - mentions: 8
+- [[../documents/cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept.md|Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept]] - April 1992 - mentions: 3
+- [[../documents/chapter-23.md|CHAPTER 23]] - mentions: 1
+- [[../documents/chapter-24.md|CHAPTER 24]] - mentions: 12
+- [[../documents/chapter-8.md|CHAPTER 8]] - mentions: 16
+- [[../documents/chapter-9.md|CHAPTER 9]] - mentions: 24
+- [[../documents/ornl-tm-3767.md|HYBRID COMPUTER SIMULATION OF THE MSBR]] - mentions: 33
+- [[../documents/parti-index.md|PARTI INDEX]] - mentions: 8
+- [[../documents/university-of-california.md|UNIVERSITY OF CALIFORNIA]] - mentions: 6

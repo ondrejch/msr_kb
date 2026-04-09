@@ -1,0 +1,698 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "W.C.Ulrich",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3007.jsonl",
+  "date_text": "1970",
+  "doc_id": "ornl-tm-3007",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          264
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1322
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 93,
+        "line_hits": [
+          84,
+          88,
+          90,
+          101,
+          103,
+          122,
+          123,
+          124,
+          133,
+          136,
+          150,
+          186,
+          196,
+          206,
+          208,
+          220,
+          340,
+          345,
+          347,
+          349,
+          355,
+          357,
+          359,
+          361,
+          363,
+          365,
+          368,
+          370,
+          372,
+          376,
+          378,
+          380,
+          382,
+          384,
+          391,
+          395,
+          401,
+          427,
+          429,
+          433,
+          453,
+          465,
+          477,
+          503,
+          521,
+          599,
+          661,
+          699,
+          705,
+          723
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          98,
+          120,
+          121,
+          206,
+          208,
+          213,
+          216,
+          218,
+          349,
+          401,
+          889,
+          990,
+          994,
+          1007,
+          1011,
+          1019,
+          1027,
+          1033,
+          1035,
+          1037
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          347,
+          1041
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          264
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          3,
+          15,
+          42,
+          56,
+          74,
+          210,
+          1047,
+          1048,
+          1049,
+          1052,
+          1053,
+          1056,
+          1392
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          13,
+          66,
+          76,
+          1047,
+          1050,
+          1052,
+          1053,
+          1055,
+          1376
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          62
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 37,
+        "line_hits": [
+          72,
+          90,
+          220,
+          296,
+          306,
+          320,
+          347,
+          357,
+          359,
+          378,
+          433,
+          667,
+          675,
+          741,
+          757,
+          887,
+          939,
+          947,
+          953,
+          967,
+          980,
+          982,
+          984,
+          992,
+          994,
+          1013,
+          1017,
+          1029,
+          1035,
+          1086,
+          1126,
+          1168,
+          1202,
+          1260,
+          1288,
+          1316,
+          1324
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 28,
+        "line_hits": [
+          19,
+          48,
+          84,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          206,
+          213,
+          216,
+          220,
+          349,
+          357,
+          368,
+          391,
+          955,
+          963,
+          972,
+          984,
+          1001,
+          1009,
+          1015,
+          1023,
+          1031,
+          1047,
+          1053
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          1060
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "37b94ddc64bf2ca7acca54791ed59308125822fd033a1ed2a772d3c63d4081e8",
+  "markdown_path": "pdf/ORNL-TM-3007/ORNL-TM-3007/hybrid_ocr/ORNL-TM-3007.md",
+  "report_number": "ORNL-TM-3007",
+  "report_numbers": [
+    "ORNL-TM-3007"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 59,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 12,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 14,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-tm-3007",
+      "end_line": 24,
+      "heading": "Ornl-Tm-3007",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 41,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "ornl-tm-3007",
+      "end_line": 45,
+      "heading": "Ornl-Tm-3007",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "reactor-division",
+      "end_line": 47,
+      "heading": "Reactor Division",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "an-extended-hydraulic-model-of-the-msre-circulating-fuel-system",
+      "end_line": 53,
+      "heading": "An Extended Hydraulic Model Of The Msre Circulating Fuel System",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "june-1970",
+      "end_line": 55,
+      "heading": "June 1970",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 61,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 65,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 67,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "acknowledgements",
+      "end_line": 81,
+      "heading": "ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 91,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 93,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "chapter-page",
+      "end_line": 95,
+      "heading": "CHAPTER PAGE",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 97,
+      "heading": "INTRODUCTION 1",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "1-description-of-the-open-loop-model-4",
+      "end_line": 98,
+      "heading": "1. DESCRIPTION OF THE OPEN-LOOP MODEL 4",
+      "level": 2,
+      "start_line": 98
+    },
+    {
+      "anchor": "2-description-of-the-extended-model-9",
+      "end_line": 107,
+      "heading": "2. DESCRIPTION OF THE EXTENDED MODEL 9",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "3-results-of-calculations-made-with-the-extended-model",
+      "end_line": 108,
+      "heading": "3. RESULTS OF CALCULATIONS MADE WITH THE EXTENDED MODEL",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "compared-to-experimental-data-30",
+      "end_line": 109,
+      "heading": "Compared To Experimental Data 30",
+      "level": 2,
+      "start_line": 109
+    },
+    {
+      "anchor": "4-conclusions-and-recommendations-37",
+      "end_line": 110,
+      "heading": "4. CONCLUSIONS AND RECOMMENDATIONS 37",
+      "level": 2,
+      "start_line": 110
+    },
+    {
+      "anchor": "list-of-references-41",
+      "end_line": 111,
+      "heading": "List Of References 41",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "appendix-43",
+      "end_line": 113,
+      "heading": "Appendix 43",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 115,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "figure",
+      "end_line": 117,
+      "heading": "FIGURE",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "page",
+      "end_line": 126,
+      "heading": "Page",
+      "level": 2,
+      "start_line": 118
+    },
+    {
+      "anchor": "symbol",
+      "end_line": 128,
+      "heading": "Symbol",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "description",
+      "end_line": 141,
+      "heading": "Description",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "symbol",
+      "end_line": 143,
+      "heading": "Symbol",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "description",
+      "end_line": 157,
+      "heading": "Description",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "symbol",
+      "end_line": 159,
+      "heading": "Symbol",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "description",
+      "end_line": 199,
+      "heading": "Description",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "superscript",
+      "end_line": 203,
+      "heading": "Superscript",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 209,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "ornl-dwg-68-8417",
+      "end_line": 217,
+      "heading": "Ornl-Dwg 68-8417",
+      "level": 2,
+      "start_line": 210
+    },
+    {
+      "anchor": "description-of-the-open-loop-model",
+      "end_line": 350,
+      "heading": "DESCRIPTION OF THE OPEN-LOOP MODEL",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "chapter-2",
+      "end_line": 352,
+      "heading": "CHAPTER 2",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "development-of-the-extended-model",
+      "end_line": 373,
+      "heading": "DEVELOPMENT OF THE EXTENDED MODEL",
+      "level": 1,
+      "start_line": 353
+    },
+    {
+      "anchor": "assumptions-made-in-the-development-of-the-model",
+      "end_line": 379,
+      "heading": "Assumptions Made in the Development of the Model",
+      "level": 1,
+      "start_line": 374
+    },
+    {
+      "anchor": "1-fuel-pump",
+      "end_line": 392,
+      "heading": "1. Fuel Pump",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "2-bypass-flow-connections",
+      "end_line": 426,
+      "heading": "2. Bypass Flow Connections",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "3-fuel-pump-bowl",
+      "end_line": 430,
+      "heading": "3. Fuel-Pump Bowl",
+      "level": 1,
+      "start_line": 427
+    },
+    {
+      "anchor": "4-helium-system",
+      "end_line": 448,
+      "heading": "4. Helium System",
+      "level": 1,
+      "start_line": 431
+    },
+    {
+      "anchor": "procedures-used-in-deriving-the-equations-for-the-model",
+      "end_line": 896,
+      "heading": "Procedures Used in Deriving the Equations for the Model",
+      "level": 1,
+      "start_line": 449
+    },
+    {
+      "anchor": "chapter-3",
+      "end_line": 898,
+      "heading": "CHAPTER 3",
+      "level": 1,
+      "start_line": 897
+    },
+    {
+      "anchor": "results-of-calculations-made-with-the-extended-model-compared-to-experimental-data",
+      "end_line": 904,
+      "heading": "RESULTS OF CALCULATIONS MADE WITH THE EXTENDED MODEL COMPARED TO EXPERIMENTAL DATA",
+      "level": 1,
+      "start_line": 899
+    },
+    {
+      "anchor": "case-1",
+      "end_line": 920,
+      "heading": "Case 1",
+      "level": 1,
+      "start_line": 905
+    },
+    {
+      "anchor": "case-2",
+      "end_line": 1002,
+      "heading": "Case 2",
+      "level": 1,
+      "start_line": 921
+    },
+    {
+      "anchor": "chapter-4",
+      "end_line": 1004,
+      "heading": "CHAPTER 4",
+      "level": 1,
+      "start_line": 1003
+    },
+    {
+      "anchor": "conclusions-and-recommendations",
+      "end_line": 1042,
+      "heading": "CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 1005
+    },
+    {
+      "anchor": "list-of-references",
+      "end_line": 1044,
+      "heading": "List Of References",
+      "level": 2,
+      "start_line": 1043
+    },
+    {
+      "anchor": "list-of-references",
+      "end_line": 1061,
+      "heading": "LIST OF REFERENCES",
+      "level": 1,
+      "start_line": 1045
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 1063,
+      "heading": "Appendix",
+      "level": 2,
+      "start_line": 1062
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 1317,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 1064
+    },
+    {
+      "anchor": "table-a1",
+      "end_line": 1335,
+      "heading": "TABLE A1",
+      "level": 1,
+      "start_line": 1318
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1393,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1336
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1402,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1394
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3007",
+  "tables": [],
+  "title": "![](images/68f126fd8d81d8ba9a41697679f394605d9454d22bb06c414163b4ce5395bddc.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "graphite-and-moderator-behavior",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,1430 @@
+{
+  "authors": [
+    "A.Houtzeel F.F.Dyer",
+    "UNION CARBIDE CORPORATION",
+    "ACKNOWLEDGMENT vii"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3151.jsonl",
+  "date_text": "1972",
+  "doc_id": "ornl-tm-3151",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 19,
+        "line_hits": [
+          156,
+          174,
+          176,
+          182,
+          183,
+          196,
+          225,
+          232,
+          234,
+          618,
+          632,
+          774,
+          1226,
+          1234,
+          1306,
+          1362,
+          1364,
+          1372,
+          1384
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          126,
+          664,
+          787,
+          859,
+          932,
+          982,
+          1108,
+          1294,
+          1296,
+          1316,
+          1330,
+          1332,
+          1346,
+          1348,
+          1416
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          789,
+          947,
+          949,
+          984,
+          1006,
+          1294,
+          1296,
+          1302,
+          1316,
+          1372,
+          1416
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          611,
+          736,
+          1108,
+          1346,
+          1348
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          196,
+          340,
+          1751,
+          1792
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          176,
+          196
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          930,
+          947
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          176
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1492
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1480
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 158,
+        "line_hits": [
+          64,
+          78,
+          85,
+          92,
+          97,
+          102,
+          162,
+          164,
+          210,
+          234,
+          244,
+          259,
+          283,
+          298,
+          300,
+          302,
+          310,
+          312,
+          319,
+          327,
+          329,
+          331,
+          333,
+          338,
+          340,
+          344,
+          419,
+          425,
+          433,
+          473,
+          531,
+          535,
+          543,
+          545,
+          552,
+          554,
+          556,
+          559,
+          563,
+          567,
+          583,
+          591,
+          599,
+          618,
+          620,
+          624,
+          630,
+          646,
+          654,
+          658
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 107,
+        "line_hits": [
+          79,
+          84,
+          91,
+          98,
+          120,
+          156,
+          158,
+          162,
+          225,
+          234,
+          283,
+          298,
+          300,
+          310,
+          317,
+          319,
+          342,
+          344,
+          425,
+          535,
+          539,
+          541,
+          554,
+          563,
+          583,
+          587,
+          611,
+          613,
+          618,
+          620,
+          634,
+          646,
+          694,
+          696,
+          698,
+          704,
+          722,
+          724,
+          726,
+          736,
+          740,
+          750,
+          752,
+          758,
+          760,
+          764,
+          766,
+          768,
+          776,
+          781
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 27,
+        "line_hits": [
+          99,
+          188,
+          198,
+          210,
+          236,
+          607,
+          613,
+          618,
+          632,
+          634,
+          696,
+          698,
+          726,
+          756,
+          774,
+          832,
+          1056,
+          1074,
+          1076,
+          1098,
+          1100,
+          1112,
+          1146,
+          1226,
+          1240,
+          1242,
+          1324
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          93,
+          208,
+          210,
+          212,
+          257,
+          298,
+          618,
+          620,
+          722,
+          750,
+          926,
+          928,
+          934,
+          936,
+          945,
+          947,
+          1246,
+          1307,
+          1308,
+          1364
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          176,
+          187,
+          198,
+          768,
+          945,
+          1222
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          198,
+          632,
+          1226,
+          1234
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          208,
+          620,
+          756
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          196
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          174
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 17,
+        "line_hits": [
+          25,
+          1880,
+          1887,
+          1904,
+          1936,
+          1939,
+          1941,
+          1943,
+          1945,
+          1946,
+          1950,
+          1951,
+          1954,
+          1956,
+          1959,
+          1960,
+          1961
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          1,
+          13,
+          15,
+          147,
+          158,
+          172,
+          381,
+          395,
+          397,
+          435,
+          1284,
+          1442,
+          1488,
+          1492
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          395,
+          397,
+          1940
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          21
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1944
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 90,
+        "line_hits": [
+          7,
+          33,
+          36,
+          66,
+          135,
+          156,
+          158,
+          164,
+          168,
+          176,
+          178,
+          180,
+          196,
+          203,
+          206,
+          215,
+          219,
+          221,
+          225,
+          234,
+          236,
+          244,
+          441,
+          597,
+          618,
+          640,
+          667,
+          684,
+          687,
+          690,
+          781,
+          798,
+          801,
+          804,
+          807,
+          822,
+          835,
+          838,
+          855,
+          874,
+          877,
+          896,
+          899,
+          902,
+          917,
+          920,
+          987,
+          990,
+          1011,
+          1014
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 87,
+        "line_hits": [
+          156,
+          196,
+          210,
+          225,
+          257,
+          352,
+          375,
+          381,
+          427,
+          457,
+          511,
+          563,
+          583,
+          609,
+          622,
+          630,
+          640,
+          642,
+          679,
+          698,
+          710,
+          742,
+          764,
+          766,
+          772,
+          793,
+          819,
+          826,
+          830,
+          846,
+          848,
+          850,
+          859,
+          865,
+          867,
+          869,
+          881,
+          887,
+          893,
+          936,
+          959,
+          963,
+          980,
+          1004,
+          1027,
+          1046,
+          1068,
+          1076,
+          1136,
+          1140
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          172,
+          176,
+          219
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          156,
+          172,
+          225
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          172
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6421663560e04162146f6230c536ac4933636b22f36f80d4937495c0d5c20c38",
+  "markdown_path": "pdf/ORNL-TM-3151/ORNL-TM-3151/hybrid_ocr/ORNL-TM-3151.md",
+  "report_number": "ORNL-TM-3151",
+  "report_numbers": [
+    "ORNL-TM-3151"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 120,
+  "sections": [
+    {
+      "anchor": "ornl-tm-3151",
+      "end_line": 10,
+      "heading": "Ornl-Tm-3151",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "august-1972",
+      "end_line": 14,
+      "heading": "August 1972",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 24,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 26,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "contents",
+      "end_line": 30,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "summary-1",
+      "end_line": 32,
+      "heading": "Summary 1",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "1-introduction-to-the-molten-salt-reactor-experiment-3",
+      "end_line": 37,
+      "heading": "1. Introduction To The Molten Salt Reactor Experiment. 3",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "2-objectives-of-this-gamma-ray-spectrometry-study-11",
+      "end_line": 38,
+      "heading": "2. OBJECTIVES OF THIS GAMMA-RAY SPECTROMETRY STUDY 11",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "3-description-and-performance-of-equipment-13",
+      "end_line": 50,
+      "heading": "3. Description And Performance Of Equipment. 13",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "4-analysis-of-spectra-27",
+      "end_line": 57,
+      "heading": "4. ANALYSIS OF SPECTRA 27",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "5-calibration-33",
+      "end_line": 67,
+      "heading": "5.Calibration 33",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "6-measurements-53",
+      "end_line": 73,
+      "heading": "6. MEASUREMENTS 53",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "7-results-57",
+      "end_line": 108,
+      "heading": "7. RESULTS 57",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "8-conclusions-141",
+      "end_line": 130,
+      "heading": "8. CONCLUSIONS 141",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "9-epilogue-155",
+      "end_line": 140,
+      "heading": "9. EPILOGUE 155",
+      "level": 2,
+      "start_line": 131
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 153,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "summary",
+      "end_line": 167,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "1-introduction-to-the-molten-salt-reactor-experiment",
+      "end_line": 169,
+      "heading": "1. INTRODUCTION TO THE MOLTEN-SALT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 168
+    },
+    {
+      "anchor": "1-1-molten-salt-reactor-concept-sup-1-sup-sup-2-sup",
+      "end_line": 177,
+      "heading": "1.1 Molten-Salt Reactor Concept<sup>1</sup>,<sup>2</sup>",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "1-2-description-of-the-msre",
+      "end_line": 222,
+      "heading": "1.2 Description of the MSRE",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "2-objectives-of-this-gamma-ray-spectrometry-study",
+      "end_line": 237,
+      "heading": "2. OBJECTIVES OF THIS GAMMA-RAY SPECTROMETRY STUDY",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "3-description-and-performance-of-equipment",
+      "end_line": 239,
+      "heading": "3. DESCRIPTION AND PERFORMANCE OF EQUIPMENT",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "3-1-background",
+      "end_line": 254,
+      "heading": "3.1 Background",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "3-2-general-description",
+      "end_line": 270,
+      "heading": "3.2 General Description",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "3-3-detector-and-amplifier",
+      "end_line": 276,
+      "heading": "3.3 Detector and Amplifier",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "3-4-analyzer",
+      "end_line": 284,
+      "heading": "3.4 Analyzer",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "3-5-collimator-assembly",
+      "end_line": 295,
+      "heading": "3.5 Collimator Assembly",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "3-6-setup-of-experimental-equipment",
+      "end_line": 303,
+      "heading": "3.6 Setup of Experimental Equipment",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "3-7-locational-equipment",
+      "end_line": 307,
+      "heading": "3.7 Locational Equipment",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "3-8-shielding",
+      "end_line": 324,
+      "heading": "3.8 Shielding",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "3-9-calibration-setup",
+      "end_line": 345,
+      "heading": "3.9 Calibration Setup",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "4-analysis-of-spectra",
+      "end_line": 347,
+      "heading": "4. ANALYSIS OF SPECTRA",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "4-1-purpose-and-general-procedure",
+      "end_line": 367,
+      "heading": "4.1 Purpose and General Procedure",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "4-2-problems",
+      "end_line": 378,
+      "heading": "4.2 Problems",
+      "level": 1,
+      "start_line": 368
+    },
+    {
+      "anchor": "4-3-table-of-isotopes",
+      "end_line": 390,
+      "heading": "4.3 Table of Isotopes",
+      "level": 1,
+      "start_line": 379
+    },
+    {
+      "anchor": "4-4-computer-programs",
+      "end_line": 406,
+      "heading": "4.4 Computer Programs",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "5-calibration",
+      "end_line": 408,
+      "heading": "5. CALIBRATION",
+      "level": 1,
+      "start_line": 407
+    },
+    {
+      "anchor": "5-1-general",
+      "end_line": 430,
+      "heading": "5.1 General",
+      "level": 1,
+      "start_line": 409
+    },
+    {
+      "anchor": "5-2-source",
+      "end_line": 438,
+      "heading": "5.2 Source",
+      "level": 1,
+      "start_line": 431
+    },
+    {
+      "anchor": "5-3-slit-experiment-source-strength",
+      "end_line": 512,
+      "heading": "5.3 Slit Experiment - Source Strength",
+      "level": 1,
+      "start_line": 439
+    },
+    {
+      "anchor": "energy-kev",
+      "end_line": 520,
+      "heading": "Energy (keV)",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "source-strength-ci-in",
+      "end_line": 532,
+      "heading": "Source strength (Ci/in.)",
+      "level": 1,
+      "start_line": 521
+    },
+    {
+      "anchor": "5-4-single-source-experiments",
+      "end_line": 542,
+      "heading": "5.4 Single Source Experiments",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "5-5-heat-exchanger-calibration",
+      "end_line": 564,
+      "heading": "5.5 Heat Exchanger Calibration",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "5-6-calibration-of-shielding-materials",
+      "end_line": 596,
+      "heading": "5.6 Calibration of Shielding Materials",
+      "level": 1,
+      "start_line": 565
+    },
+    {
+      "anchor": "5-7-calibration-for-fission-gases-in-the-msre",
+      "end_line": 600,
+      "heading": "5.7 Calibration for Fission Gases in the MSRE",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "6-measurements",
+      "end_line": 637,
+      "heading": "6. MEASUREMENTS",
+      "level": 1,
+      "start_line": 601
+    },
+    {
+      "anchor": "7-results",
+      "end_line": 643,
+      "heading": "7. RESULTS",
+      "level": 1,
+      "start_line": 638
+    },
+    {
+      "anchor": "7-1-group-a-spectra",
+      "end_line": 657,
+      "heading": "7.1 Group A Spectra",
+      "level": 1,
+      "start_line": 644
+    },
+    {
+      "anchor": "7-1-1-heat-exchanger",
+      "end_line": 693,
+      "heading": "7.1.1 Heat exchanger",
+      "level": 1,
+      "start_line": 658
+    },
+    {
+      "anchor": "7-1-2-main-reactor-off-gas-line",
+      "end_line": 699,
+      "heading": "7.1.2 Main reactor off-gas line",
+      "level": 1,
+      "start_line": 694
+    },
+    {
+      "anchor": "7-1-3-main-fuel-lines",
+      "end_line": 719,
+      "heading": "7.1.3 Main fuel lines",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "7-2-group-b-spectra",
+      "end_line": 723,
+      "heading": "7.2 Group B Spectra",
+      "level": 1,
+      "start_line": 720
+    },
+    {
+      "anchor": "7-2-1-main-reactor-off-gas-line",
+      "end_line": 729,
+      "heading": "7.2.1 Main reactor off-gas line",
+      "level": 1,
+      "start_line": 724
+    },
+    {
+      "anchor": "7-2-2-heat-exchanger",
+      "end_line": 733,
+      "heading": "7.2.2 Heat exchanger",
+      "level": 1,
+      "start_line": 730
+    },
+    {
+      "anchor": "7-3-group-d-spectra",
+      "end_line": 737,
+      "heading": "7.3. Group D Spectra",
+      "level": 1,
+      "start_line": 734
+    },
+    {
+      "anchor": "7-4-group-e-spectra",
+      "end_line": 747,
+      "heading": "7.4 Group E Spectra",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "7-5-group-f-spectra",
+      "end_line": 757,
+      "heading": "7.5 Group F Spectra",
+      "level": 1,
+      "start_line": 748
+    },
+    {
+      "anchor": "7-5-1-main-reactor-off-gas-line",
+      "end_line": 839,
+      "heading": "7.5.1 Main reactor off-gas line",
+      "level": 1,
+      "start_line": 758
+    },
+    {
+      "anchor": "7-5-2-heat-exchanger",
+      "end_line": 925,
+      "heading": "7.5.2 Heat exchanger",
+      "level": 1,
+      "start_line": 840
+    },
+    {
+      "anchor": "7-5-3-drain-tank",
+      "end_line": 954,
+      "heading": "7.5.3 Drain tank",
+      "level": 1,
+      "start_line": 926
+    },
+    {
+      "anchor": "7-6-group-g-spectra",
+      "end_line": 977,
+      "heading": "7.6 Group G Spectra",
+      "level": 1,
+      "start_line": 955
+    },
+    {
+      "anchor": "7-6-1-heat-exchanger",
+      "end_line": 1053,
+      "heading": "7.6.1 Heat exchanger",
+      "level": 1,
+      "start_line": 978
+    },
+    {
+      "anchor": "7-6-2-main-reactor-off-gas-line",
+      "end_line": 1073,
+      "heading": "7.6.2 Main reactor off-gas line",
+      "level": 1,
+      "start_line": 1054
+    },
+    {
+      "anchor": "7-6-3-fuel-pump-bowl-and-fuel-lines",
+      "end_line": 1103,
+      "heading": "7.6.3 Fuel pump bowl and fuel lines",
+      "level": 1,
+      "start_line": 1074
+    },
+    {
+      "anchor": "7-7-group-h-spectra",
+      "end_line": 1137,
+      "heading": "7.7 Group H Spectra",
+      "level": 1,
+      "start_line": 1104
+    },
+    {
+      "anchor": "7-7-1-heat-exchanger",
+      "end_line": 1200,
+      "heading": "7.7.1 Heat exchanger",
+      "level": 1,
+      "start_line": 1138
+    },
+    {
+      "anchor": "7-8-group-i-spectra",
+      "end_line": 1204,
+      "heading": "7.8 Group I Spectra",
+      "level": 1,
+      "start_line": 1201
+    },
+    {
+      "anchor": "7-9-group-j-spectra",
+      "end_line": 1219,
+      "heading": "7.9 Group J Spectra",
+      "level": 1,
+      "start_line": 1205
+    },
+    {
+      "anchor": "7-10-group-k-spectra",
+      "end_line": 1223,
+      "heading": "7.10 Group K Spectra",
+      "level": 1,
+      "start_line": 1220
+    },
+    {
+      "anchor": "7-11-group-l-spectra",
+      "end_line": 1235,
+      "heading": "7.11 Group L Spectra",
+      "level": 1,
+      "start_line": 1224
+    },
+    {
+      "anchor": "7-12-group-m-spectra",
+      "end_line": 1251,
+      "heading": "7.12 Group M Spectra",
+      "level": 1,
+      "start_line": 1236
+    },
+    {
+      "anchor": "8-conclusions",
+      "end_line": 1261,
+      "heading": "8. CONCLUSIONS",
+      "level": 1,
+      "start_line": 1252
+    },
+    {
+      "anchor": "8-1-data-collection-and-analysis",
+      "end_line": 1263,
+      "heading": "8.1 Data Collection and Analysis",
+      "level": 1,
+      "start_line": 1262
+    },
+    {
+      "anchor": "8-1-1-gamma-spectrometer-system",
+      "end_line": 1273,
+      "heading": "8.1.1 Gamma spectrometer system",
+      "level": 1,
+      "start_line": 1264
+    },
+    {
+      "anchor": "8-1-2-calibration",
+      "end_line": 1281,
+      "heading": "8.1.2 Calibration",
+      "level": 1,
+      "start_line": 1274
+    },
+    {
+      "anchor": "8-1-3-computer-analysis-program",
+      "end_line": 1287,
+      "heading": "8.1.3 Computer analysis program",
+      "level": 1,
+      "start_line": 1282
+    },
+    {
+      "anchor": "8-2-results-general",
+      "end_line": 1291,
+      "heading": "8.2 Results - General",
+      "level": 1,
+      "start_line": 1288
+    },
+    {
+      "anchor": "8-2-1-metal-surfaces-in-direct-contact-with-the-fuel-salt",
+      "end_line": 1311,
+      "heading": "8.2.1 Metal surfaces in direct contact with the fuel salt",
+      "level": 1,
+      "start_line": 1292
+    },
+    {
+      "anchor": "8-2-2-main-reactor-off-gas-line",
+      "end_line": 1325,
+      "heading": "8.2.2 Main reactor off-gas line",
+      "level": 1,
+      "start_line": 1312
+    },
+    {
+      "anchor": "8-3-elements-and-nuclide-chains",
+      "end_line": 1329,
+      "heading": "8.3 Elements and Nuclide Chains",
+      "level": 1,
+      "start_line": 1326
+    },
+    {
+      "anchor": "8-3-1-niobium",
+      "end_line": 1351,
+      "heading": "8.3.1 Niobium",
+      "level": 1,
+      "start_line": 1330
+    },
+    {
+      "anchor": "8-3-2-ruthenium-rhodium",
+      "end_line": 1373,
+      "heading": "8.3.2 Ruthenium-rhodium",
+      "level": 1,
+      "start_line": 1352
+    },
+    {
+      "anchor": "8-3-3-antimony-tellurium-iodine",
+      "end_line": 1405,
+      "heading": "8.3.3 Antimony-tellurium-iodine",
+      "level": 1,
+      "start_line": 1374
+    },
+    {
+      "anchor": "8-3-4-extrapolation-back-to-reactor-shutdown-time",
+      "end_line": 1409,
+      "heading": "8.3.4 Extrapolation back to reactor shutdown time",
+      "level": 1,
+      "start_line": 1406
+    },
+    {
+      "anchor": "9-epilogue",
+      "end_line": 1435,
+      "heading": "9. EPILOGUE",
+      "level": 1,
+      "start_line": 1410
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 1437,
+      "heading": "Appendices",
+      "level": 2,
+      "start_line": 1436
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1439,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 1438
+    },
+    {
+      "anchor": "table-of-radionuclides",
+      "end_line": 1443,
+      "heading": "TABLE OF RADIONUCLIDES",
+      "level": 1,
+      "start_line": 1440
+    },
+    {
+      "anchor": "list-of-input-data",
+      "end_line": 1447,
+      "heading": "List Of Input Data",
+      "level": 2,
+      "start_line": 1444
+    },
+    {
+      "anchor": "a-precursor-symbol-mainly-used-for-thermal-neutron-reactions",
+      "end_line": 1448,
+      "heading": "A=Precursor Symbol Mainly Used For Thermal Neutron Reactions",
+      "level": 2,
+      "start_line": 1448
+    },
+    {
+      "anchor": "b-precursor-mass-no",
+      "end_line": 1449,
+      "heading": "B=Precursor Mass No.",
+      "level": 2,
+      "start_line": 1449
+    },
+    {
+      "anchor": "c-precursor-natural-abundance",
+      "end_line": 1450,
+      "heading": "C=Precursor Natural Abundance",
+      "level": 2,
+      "start_line": 1450
+    },
+    {
+      "anchor": "d-neutron-reaction-cross-section",
+      "end_line": 1451,
+      "heading": "D=Neutron Reaction Cross Section",
+      "level": 2,
+      "start_line": 1451
+    },
+    {
+      "anchor": "e-radionuclide-type-where",
+      "end_line": 1452,
+      "heading": "E= Radionuclide Type,Where",
+      "level": 2,
+      "start_line": 1452
+    },
+    {
+      "anchor": "g-n-gamma-product",
+      "end_line": 1453,
+      "heading": "G=N,Gamma Product",
+      "level": 2,
+      "start_line": 1453
+    },
+    {
+      "anchor": "1-fissicn-product",
+      "end_line": 1454,
+      "heading": "1=Fissicn Product",
+      "level": 2,
+      "start_line": 1454
+    },
+    {
+      "anchor": "2-both-n-gamma-and-fission-product",
+      "end_line": 1455,
+      "heading": "2=Both N,Gamma And Fission Product",
+      "level": 2,
+      "start_line": 1455
+    },
+    {
+      "anchor": "3-neutron-deficient-nuclide",
+      "end_line": 1456,
+      "heading": "3=Neutron Deficient Nuclide",
+      "level": 2,
+      "start_line": 1456
+    },
+    {
+      "anchor": "4-natural-radianuclide",
+      "end_line": 1457,
+      "heading": "4=Natural Radianuclide",
+      "level": 2,
+      "start_line": 1457
+    },
+    {
+      "anchor": "5-other-radianuclides",
+      "end_line": 1458,
+      "heading": "5=Other Radianuclides",
+      "level": 2,
+      "start_line": 1458
+    },
+    {
+      "anchor": "f-no-of-gamma-energies-tabulated",
+      "end_line": 1459,
+      "heading": "F = No. Of Gamma Energies Tabulated",
+      "level": 2,
+      "start_line": 1459
+    },
+    {
+      "anchor": "g-branchiig-ratio-status-where",
+      "end_line": 1460,
+      "heading": "G = Branchiig Ratio Status,Where",
+      "level": 2,
+      "start_line": 1460
+    },
+    {
+      "anchor": "a-absolute",
+      "end_line": 1461,
+      "heading": "A=Absolute",
+      "level": 2,
+      "start_line": 1461
+    },
+    {
+      "anchor": "p-relative",
+      "end_line": 1462,
+      "heading": "P=Relative",
+      "level": 2,
+      "start_line": 1462
+    },
+    {
+      "anchor": "d-based-on-decay-scheme-given-in-reference",
+      "end_line": 1495,
+      "heading": "D=Based On Decay Scheme Given In Reference",
+      "level": 2,
+      "start_line": 1463
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1497,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 1496
+    },
+    {
+      "anchor": "production-and-standardization-of-110m-mathrm-ag-in-silver-tubing-for-msre-gamma-spectrometry",
+      "end_line": 1503,
+      "heading": "PRODUCTION AND STANDARDIZATION OF $^{110m}_{\\mathrm{Ag}}$ IN SILVER TUBING FOR MSRE GAMMA SPECTROMETRY",
+      "level": 1,
+      "start_line": 1498
+    },
+    {
+      "anchor": "flux-monitors",
+      "end_line": 1515,
+      "heading": "Flux Monitors",
+      "level": 1,
+      "start_line": 1504
+    },
+    {
+      "anchor": "silver-tube-irradiation",
+      "end_line": 1555,
+      "heading": "Silver Tube Irradiation",
+      "level": 1,
+      "start_line": 1516
+    },
+    {
+      "anchor": "measurement-of-110-mathrm-mag-in-silver-tube-sections",
+      "end_line": 1594,
+      "heading": "Measurement of $^{110}\\mathrm{mAg}$ in Silver Tube Sections",
+      "level": 1,
+      "start_line": 1556
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 1619,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 1595
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 1621,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 1620
+    },
+    {
+      "anchor": "calculations-of-counting-efficiencies-from-first-principles",
+      "end_line": 1623,
+      "heading": "CALCULATIONS OF COUNTING EFFICIENCIES FROM FIRST PRINCIPLES",
+      "level": 1,
+      "start_line": 1622
+    },
+    {
+      "anchor": "objective",
+      "end_line": 1627,
+      "heading": "Objective",
+      "level": 1,
+      "start_line": 1624
+    },
+    {
+      "anchor": "msre-main-off-gas-line",
+      "end_line": 1748,
+      "heading": "MSRE Main Off-Gas Line",
+      "level": 1,
+      "start_line": 1628
+    },
+    {
+      "anchor": "msre-heat-exchanger",
+      "end_line": 1824,
+      "heading": "MSRE Heat Exchanger",
+      "level": 1,
+      "start_line": 1749
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1933,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1825
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1961,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1934
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3151",
+  "tables": [],
+  "title": "ORNL-TM-3151",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "graphite-and-moderator-behavior",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

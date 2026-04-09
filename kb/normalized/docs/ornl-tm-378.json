@@ -1,0 +1,767 @@
+{
+  "authors": [
+    "J. R. Engel",
+    "P. N. Haubenreich",
+    "MASTEN.",
+    "Pussimile Price $",
+    "Microfit Price $",
+    "Office of Technical Services",
+    "Department of Commerce"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-378.jsonl",
+  "date_text": "November 5, 1962",
+  "doc_id": "ornl-tm-378",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 75,
+        "line_hits": [
+          15,
+          17,
+          80,
+          117,
+          118,
+          129,
+          130,
+          137,
+          139,
+          141,
+          143,
+          155,
+          167,
+          171,
+          185,
+          197,
+          201,
+          212,
+          218,
+          222,
+          234,
+          239,
+          241,
+          259,
+          283,
+          298,
+          300,
+          308,
+          312,
+          318,
+          321,
+          325,
+          335,
+          346,
+          352,
+          382,
+          433,
+          435,
+          437,
+          445,
+          449,
+          451,
+          454,
+          455,
+          467,
+          473,
+          479,
+          481,
+          483,
+          505
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          155
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          109,
+          145,
+          163,
+          569
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          990,
+          992,
+          994,
+          996,
+          998,
+          1000
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          1,
+          33,
+          226,
+          293,
+          400,
+          986
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 43,
+        "line_hits": [
+          7,
+          15,
+          108,
+          109,
+          119,
+          120,
+          121,
+          125,
+          126,
+          127,
+          129,
+          137,
+          139,
+          147,
+          153,
+          160,
+          163,
+          173,
+          179,
+          207,
+          222,
+          231,
+          257,
+          382,
+          384,
+          396,
+          405,
+          407,
+          419,
+          423,
+          445,
+          463,
+          481,
+          497,
+          521,
+          529,
+          534,
+          537,
+          571,
+          593,
+          613,
+          615,
+          865
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 38,
+        "line_hits": [
+          15,
+          139,
+          143,
+          149,
+          155,
+          157,
+          171,
+          181,
+          216,
+          220,
+          279,
+          283,
+          298,
+          306,
+          308,
+          312,
+          329,
+          341,
+          352,
+          382,
+          435,
+          445,
+          451,
+          457,
+          463,
+          473,
+          511,
+          519,
+          531,
+          553,
+          559,
+          587,
+          593,
+          607,
+          609,
+          745,
+          781,
+          865
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          251
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a4eff50280debd00f75b3a3027bc7a424c35d9365f0697eaba89be151801b483",
+  "markdown_path": "pdf/ORNL-TM-0378/ORNL-TM-0378/hybrid_ocr/ORNL-TM-0378.md",
+  "report_number": "ORNL-TM-378",
+  "report_numbers": [
+    "ORNL-TM-378"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 74,
+  "sections": [
+    {
+      "anchor": "ornl-tm-378",
+      "end_line": 2,
+      "heading": "Ornl-Tm- 378",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-s",
+      "end_line": 6,
+      "heading": "Copy No. - /S",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "temperatures-in-the-msre-core-during-steady-state-power-operation",
+      "end_line": 10,
+      "heading": "TEMPERATURES IN THE MSRE CORE DURING STEADY-STATE POWER OPERATION",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "masten",
+      "end_line": 12,
+      "heading": "Masten.",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 30,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "notice",
+      "end_line": 34,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 43,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "contents",
+      "end_line": 47,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 49,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "list-of-figures-5",
+      "end_line": 51,
+      "heading": "List Of Figures 5",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "list-of-tables-6",
+      "end_line": 53,
+      "heading": "List Of Tables 6",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "introduction-7",
+      "end_line": 55,
+      "heading": "Introduction 7",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "description-of-core-8",
+      "end_line": 63,
+      "heading": "Description Of Core 8",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "neutronic-calculations-18",
+      "end_line": 71,
+      "heading": "Neutronic Calculations 18",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "fuel-temperatures-26",
+      "end_line": 79,
+      "heading": "Fuel Temperatures 26",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "graphite-temperatures-36",
+      "end_line": 89,
+      "heading": "Graphite Temperatures 36",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "power-coefficient-of-reactivity-45",
+      "end_line": 91,
+      "heading": "Power Coefficient Of Reactivity 45",
+      "level": 2,
+      "start_line": 90
+    },
+    {
+      "anchor": "discussion-47",
+      "end_line": 97,
+      "heading": "Discussion 47",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "appendix-49",
+      "end_line": 103,
+      "heading": "Appendix 49",
+      "level": 2,
+      "start_line": 98
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 122,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 134,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 150,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "description-of-core",
+      "end_line": 168,
+      "heading": "DESCRIPTION OF CORE",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "fuel-channels",
+      "end_line": 176,
+      "heading": "Fuel Channels",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "hydraulic-model",
+      "end_line": 182,
+      "heading": "Hydraulic Model",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "region-1",
+      "end_line": 186,
+      "heading": "Region 1",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "region-2",
+      "end_line": 190,
+      "heading": "Region 2",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "region-3",
+      "end_line": 194,
+      "heading": "Region 3",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "region-4",
+      "end_line": 198,
+      "heading": "Region 4",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "region-5",
+      "end_line": 202,
+      "heading": "Region 5",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "effective-velocities",
+      "end_line": 213,
+      "heading": "Effective Velocities",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "neutronic-model",
+      "end_line": 225,
+      "heading": "Neutronic Model",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "ornl-lr-dwg-71642",
+      "end_line": 248,
+      "heading": "Ornl-Lr-Dwg. 71642",
+      "level": 2,
+      "start_line": 226
+    },
+    {
+      "anchor": "neutronic-calculations",
+      "end_line": 254,
+      "heading": "NEUTRONIC CALCULATIONS",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "flux-distributions",
+      "end_line": 261,
+      "heading": "Flux Distributions",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "fraction-of-max-value",
+      "end_line": 276,
+      "heading": "Fraction Of Max. Value",
+      "level": 2,
+      "start_line": 262
+    },
+    {
+      "anchor": "power-density-distribution",
+      "end_line": 280,
+      "heading": "Power Density Distribution",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "nuclear-importance-functions-for-temperature",
+      "end_line": 290,
+      "heading": "Nuclear Importance Functions for Temperature",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 292,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 291
+    },
+    {
+      "anchor": "ornl-lr-dwg-75824",
+      "end_line": 309,
+      "heading": "Ornl-Lr-Dwg 75824",
+      "level": 2,
+      "start_line": 293
+    },
+    {
+      "anchor": "fuel-temperatures",
+      "end_line": 322,
+      "heading": "FUEL TEMPERATURES",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "over-all-temperature-distribution",
+      "end_line": 326,
+      "heading": "Over-all Temperature Distribution",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "peripheral-regions",
+      "end_line": 330,
+      "heading": "Peripheral Regions",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "main-core",
+      "end_line": 385,
+      "heading": "Main Core",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "nuclear-mean-temperature",
+      "end_line": 397,
+      "heading": "Nuclear Mean Temperature",
+      "level": 1,
+      "start_line": 386
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 399,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 398
+    },
+    {
+      "anchor": "ornl-lr-dwg-75775",
+      "end_line": 402,
+      "heading": "Ornl-Lr-Dwg 75775",
+      "level": 2,
+      "start_line": 400
+    },
+    {
+      "anchor": "temperature-f",
+      "end_line": 420,
+      "heading": "Temperature, °F",
+      "level": 2,
+      "start_line": 403
+    },
+    {
+      "anchor": "bulk-mean-temperature",
+      "end_line": 432,
+      "heading": "Bulk Mean Temperature",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "graphite-temperatures",
+      "end_line": 446,
+      "heading": "GRAPHITE TEMPERATURES",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "local-temperature-differences",
+      "end_line": 458,
+      "heading": "Local Temperature Differences",
+      "level": 1,
+      "start_line": 447
+    },
+    {
+      "anchor": "poppendiek-effect",
+      "end_line": 474,
+      "heading": "Poppendiek Effect",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "temperature-drop-in-fluid-film",
+      "end_line": 478,
+      "heading": "Temperature Drop in Fluid Film",
+      "level": 1,
+      "start_line": 475
+    },
+    {
+      "anchor": "temperature-distribution-in-graphite-stringers",
+      "end_line": 502,
+      "heading": "Temperature Distribution in Graphite Stringers",
+      "level": 1,
+      "start_line": 479
+    },
+    {
+      "anchor": "net-local-temperature-difference",
+      "end_line": 516,
+      "heading": "Net Local Temperature Difference",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "maximum-local-values",
+      "end_line": 526,
+      "heading": "Maximum Local Values",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "over-all-temperature-distribution",
+      "end_line": 538,
+      "heading": "Over-all Temperature Distribution",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "nuclear-mean-temperature",
+      "end_line": 556,
+      "heading": "Nuclear Mean Temperature",
+      "level": 1,
+      "start_line": 539
+    },
+    {
+      "anchor": "bulk-mean-temperatures",
+      "end_line": 566,
+      "heading": "Bulk Mean Temperatures",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "power-coefficient-of-reactivity",
+      "end_line": 602,
+      "heading": "POWER COEFFICIENT OF REACTIVITY",
+      "level": 1,
+      "start_line": 567
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 604,
+      "heading": "DISCUSSION",
+      "level": 1,
+      "start_line": 603
+    },
+    {
+      "anchor": "temperature-distributions",
+      "end_line": 610,
+      "heading": "Temperature Distributions",
+      "level": 1,
+      "start_line": 605
+    },
+    {
+      "anchor": "temperature-control",
+      "end_line": 618,
+      "heading": "Temperature Control",
+      "level": 1,
+      "start_line": 611
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 620,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 619
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 638,
+      "heading": "Nomenclature",
+      "level": 1,
+      "start_line": 621
+    },
+    {
+      "anchor": "nomenclature-cont-d",
+      "end_line": 664,
+      "heading": "Nomenclature - cont'd",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "subscripts",
+      "end_line": 682,
+      "heading": "Subscripts",
+      "level": 1,
+      "start_line": 665
+    },
+    {
+      "anchor": "fuel-temperature-distribution",
+      "end_line": 790,
+      "heading": "Fuel Temperature Distribution",
+      "level": 1,
+      "start_line": 683
+    },
+    {
+      "anchor": "fuel-nuclear-mean-temperature",
+      "end_line": 838,
+      "heading": "Fuel Nuclear Mean Temperature",
+      "level": 1,
+      "start_line": 791
+    },
+    {
+      "anchor": "fuel-bulk-mean-temperature",
+      "end_line": 870,
+      "heading": "Fuel Bulk Mean Temperature",
+      "level": 1,
+      "start_line": 839
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 971,
+      "heading": "Distribution",
+      "level": 1,
+      "start_line": 871
+    },
+    {
+      "anchor": "distribution-contd",
+      "end_line": 985,
+      "heading": "Distribution - contd",
+      "level": 1,
+      "start_line": 972
+    },
+    {
+      "anchor": "108-ornl-rc",
+      "end_line": 987,
+      "heading": "108. ORNL-RC",
+      "level": 2,
+      "start_line": 986
+    },
+    {
+      "anchor": "external",
+      "end_line": 1000,
+      "heading": "External",
+      "level": 1,
+      "start_line": 988
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0378",
+  "tables": [],
+  "title": "ORNL-TM- 378",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "breeder-and-converter-design",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,894 @@
+{
+  "authors": [
+    "CENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION",
+    "LIBRARY LOAN COPY",
+    "National Technical Information Service"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4874.jsonl",
+  "date_text": "December 1972",
+  "doc_id": "ornl-4874",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 95,
+        "line_hits": [
+          3,
+          49,
+          85,
+          109,
+          113,
+          115,
+          129,
+          131,
+          135,
+          149,
+          151,
+          153,
+          157,
+          162,
+          166,
+          168,
+          171,
+          173,
+          175,
+          179,
+          183,
+          185,
+          187,
+          191,
+          199,
+          201,
+          205,
+          207,
+          212,
+          215,
+          217,
+          221,
+          223,
+          229,
+          239,
+          246,
+          260,
+          269,
+          291,
+          307,
+          312,
+          323,
+          343,
+          345,
+          350,
+          352,
+          354,
+          367,
+          369,
+          377
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          149,
+          402,
+          457,
+          459,
+          622,
+          784,
+          1056
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          129,
+          149,
+          494
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          141
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          212
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 9,
+        "line_hits": [
+          171,
+          175,
+          239,
+          283,
+          422,
+          426,
+          541,
+          543,
+          565
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1038
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 15,
+        "line_hits": [
+          5,
+          29,
+          63,
+          159,
+          185,
+          193,
+          205,
+          209,
+          494,
+          496,
+          554,
+          894,
+          898,
+          900,
+          1088
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          31,
+          43,
+          73,
+          205,
+          1068,
+          1084,
+          1088,
+          1096,
+          1102
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          31,
+          69,
+          1064
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 36,
+        "line_hits": [
+          133,
+          139,
+          141,
+          153,
+          157,
+          168,
+          207,
+          254,
+          291,
+          309,
+          314,
+          316,
+          323,
+          345,
+          347,
+          354,
+          369,
+          386,
+          402,
+          404,
+          406,
+          503,
+          505,
+          516,
+          530,
+          543,
+          552,
+          565,
+          646,
+          692,
+          694,
+          734,
+          746,
+          856,
+          857,
+          859
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          139,
+          144,
+          147
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          141,
+          157,
+          402,
+          422,
+          441
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3db9321eb3f40d26377789c853df8351c5620102099784bb3dc4e57a5e8e33ea",
+  "markdown_path": "pdf/ORNL-4874/ORNL-4874/hybrid_ocr/ORNL-4874.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 89,
+  "sections": [
+    {
+      "anchor": "development-and-construction-of-a-molybdenum-test-stand",
+      "end_line": 4,
+      "heading": "DEVELOPMENT AND CONSTRUCTION OF A MOLYBDENUM TEST STAND",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 8,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 10,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 12,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 20,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ucn-7969",
+      "end_line": 28,
+      "heading": "Ucn-7969",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 30,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 46,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 48,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "development-and-construction-of-a-molybdenum-test-stand",
+      "end_line": 62,
+      "heading": "DEVELOPMENT AND CONSTRUCTION OF A MOLYBDENUM TEST STAND",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 68,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 72,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 74,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "contents",
+      "end_line": 114,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "development-and-construction-of-a-molybdenum-test-stand",
+      "end_line": 126,
+      "heading": "DEVELOPMENT AND CONSTRUCTION OF A MOLYBDENUM TEST STAND",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 136,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 154,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "design-of-test-stand",
+      "end_line": 158,
+      "heading": "DESIGN OF TEST STAND",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "ornl-dwg72-5404",
+      "end_line": 176,
+      "heading": "Ornl-Dwg72-5404",
+      "level": 2,
+      "start_line": 159
+    },
+    {
+      "anchor": "fabrication-development",
+      "end_line": 192,
+      "heading": "FABRICATION DEVELOPMENT",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "ornl-dwg70-3877a",
+      "end_line": 224,
+      "heading": "Ornl-Dwg70-3877A",
+      "level": 2,
+      "start_line": 193
+    },
+    {
+      "anchor": "tubing-development",
+      "end_line": 226,
+      "heading": "Tubing Development",
+      "level": 1,
+      "start_line": 225
+    },
+    {
+      "anchor": "j-r-distefano",
+      "end_line": 232,
+      "heading": "J. R. DiStefano",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "title",
+      "end_line": 284,
+      "heading": "Title",
+      "level": 1,
+      "start_line": 233
+    },
+    {
+      "anchor": "joining-development",
+      "end_line": 320,
+      "heading": "JOINING DEVELOPMENT",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "y-117087",
+      "end_line": 395,
+      "heading": "Y-117087",
+      "level": 2,
+      "start_line": 321
+    },
+    {
+      "anchor": "brazing",
+      "end_line": 485,
+      "heading": "Brazing",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "mechanical-couplings",
+      "end_line": 487,
+      "heading": "Mechanical Couplings",
+      "level": 1,
+      "start_line": 486
+    },
+    {
+      "anchor": "j-r-distefano",
+      "end_line": 495,
+      "heading": "J.R.DiStefano",
+      "level": 1,
+      "start_line": 488
+    },
+    {
+      "anchor": "ornl-dwg-71-3181",
+      "end_line": 527,
+      "heading": "Ornl-Dwg 71-3181",
+      "level": 2,
+      "start_line": 496
+    },
+    {
+      "anchor": "construction",
+      "end_line": 531,
+      "heading": "CONSTRUCTION",
+      "level": 1,
+      "start_line": 528
+    },
+    {
+      "anchor": "mockup-construction",
+      "end_line": 547,
+      "heading": "Mockup Construction",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "fabrication-and-prefit-of-components",
+      "end_line": 562,
+      "heading": "Fabrication and Prefit of Components",
+      "level": 1,
+      "start_line": 548
+    },
+    {
+      "anchor": "fabrication-of-subassemblies",
+      "end_line": 587,
+      "heading": "Fabrication of Subassemblies",
+      "level": 1,
+      "start_line": 563
+    },
+    {
+      "anchor": "interconnection-of-subassemblies",
+      "end_line": 591,
+      "heading": "Interconnection of Subassemblies",
+      "level": 1,
+      "start_line": 588
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 595,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 592
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 597,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 596
+    },
+    {
+      "anchor": "specifications-for-purchase-of-molybdenum-tubing",
+      "end_line": 599,
+      "heading": "SPECIFICATIONS FOR PURCHASE OF MOLYBDENUM TUBING",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "specification-met-rm-b-208",
+      "end_line": 603,
+      "heading": "Specification MET-RM-B-208",
+      "level": 1,
+      "start_line": 600
+    },
+    {
+      "anchor": "scope",
+      "end_line": 607,
+      "heading": "SCOPE",
+      "level": 1,
+      "start_line": 604
+    },
+    {
+      "anchor": "manufacture",
+      "end_line": 611,
+      "heading": "MANUFACTURE",
+      "level": 1,
+      "start_line": 608
+    },
+    {
+      "anchor": "heat-treatment",
+      "end_line": 615,
+      "heading": "HEAT TREATMENT",
+      "level": 1,
+      "start_line": 612
+    },
+    {
+      "anchor": "chemical-composition",
+      "end_line": 623,
+      "heading": "CHEMICAL COMPOSITION",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "check-analysis",
+      "end_line": 629,
+      "heading": "CHECK ANALYSIS",
+      "level": 1,
+      "start_line": 624
+    },
+    {
+      "anchor": "permissible-variation-in-dimensions",
+      "end_line": 631,
+      "heading": "PERMISSIBLE VARIATION IN DIMENSIONS",
+      "level": 1,
+      "start_line": 630
+    },
+    {
+      "anchor": "6-a-diameter-and-wall-thickness",
+      "end_line": 637,
+      "heading": "6.(a) Diameter and Wall Thickness",
+      "level": 1,
+      "start_line": 632
+    },
+    {
+      "anchor": "b-straightness",
+      "end_line": 641,
+      "heading": "(b) Straightness",
+      "level": 1,
+      "start_line": 638
+    },
+    {
+      "anchor": "surface-finish-and-workmanship",
+      "end_line": 647,
+      "heading": "SURFACE FINISH AND WORKMANSHIP",
+      "level": 1,
+      "start_line": 642
+    },
+    {
+      "anchor": "certification-and-inspection",
+      "end_line": 668,
+      "heading": "CERTIFICATION AND INSPECTION",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "packing-for-delivery",
+      "end_line": 675,
+      "heading": "PACKING FOR DELIVERY",
+      "level": 1,
+      "start_line": 669
+    },
+    {
+      "anchor": "marking",
+      "end_line": 685,
+      "heading": "MARKING",
+      "level": 1,
+      "start_line": 676
+    },
+    {
+      "anchor": "specification-met-ndt-3",
+      "end_line": 687,
+      "heading": "Specification MET-NDT-3",
+      "level": 1,
+      "start_line": 686
+    },
+    {
+      "anchor": "tentative-specification-for-the-ultrasonic-inspection-of-metal-pipe-and-tubing",
+      "end_line": 689,
+      "heading": "Tentative Specification for the Ultrasonic Inspection of Metal Pipe and Tubing",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 717,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 690
+    },
+    {
+      "anchor": "report",
+      "end_line": 721,
+      "heading": "Report",
+      "level": 1,
+      "start_line": 718
+    },
+    {
+      "anchor": "personnel-qualification",
+      "end_line": 725,
+      "heading": "Personnel Qualification",
+      "level": 1,
+      "start_line": 722
+    },
+    {
+      "anchor": "b-transverse-flaw-detection",
+      "end_line": 727,
+      "heading": "B. Transverse Flaw Detection",
+      "level": 1,
+      "start_line": 726
+    },
+    {
+      "anchor": "scope",
+      "end_line": 731,
+      "heading": "Scope",
+      "level": 1,
+      "start_line": 728
+    },
+    {
+      "anchor": "calibration-standards",
+      "end_line": 737,
+      "heading": "Calibration Standards",
+      "level": 1,
+      "start_line": 732
+    },
+    {
+      "anchor": "calibration-of-apparatus",
+      "end_line": 748,
+      "heading": "Calibration of Apparatus",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 753,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 749
+    },
+    {
+      "anchor": "report",
+      "end_line": 757,
+      "heading": "Report",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "personnel-qualification",
+      "end_line": 761,
+      "heading": "Personnel Qualification",
+      "level": 1,
+      "start_line": 758
+    },
+    {
+      "anchor": "specification-met-ndt-4",
+      "end_line": 763,
+      "heading": "Specification MET-NDT-4",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "tentative-methods-for-liquid-penetrant-inspection",
+      "end_line": 765,
+      "heading": "TENTATIVE METHODS FOR LIQUID-PENETRANT INSPECTION",
+      "level": 1,
+      "start_line": 764
+    },
+    {
+      "anchor": "scope",
+      "end_line": 770,
+      "heading": "SCOPE",
+      "level": 1,
+      "start_line": 766
+    },
+    {
+      "anchor": "methods",
+      "end_line": 777,
+      "heading": "METHODS",
+      "level": 1,
+      "start_line": 771
+    },
+    {
+      "anchor": "material",
+      "end_line": 781,
+      "heading": "MATERIAL",
+      "level": 1,
+      "start_line": 778
+    },
+    {
+      "anchor": "preparation-of-materials-and-parts",
+      "end_line": 790,
+      "heading": "PREPARATION OF MATERIALS AND PARTS",
+      "level": 1,
+      "start_line": 782
+    },
+    {
+      "anchor": "drying-after-cleaning",
+      "end_line": 794,
+      "heading": "DRYING AFTER CLEANING",
+      "level": 1,
+      "start_line": 791
+    },
+    {
+      "anchor": "fluorescent-post-emulsified-penetrant-procedure",
+      "end_line": 796,
+      "heading": "Fluorescent Post-Emulsified Penetrant Procedure",
+      "level": 2,
+      "start_line": 795
+    },
+    {
+      "anchor": "6-penetrant-application",
+      "end_line": 800,
+      "heading": "6. Penetrant Application",
+      "level": 1,
+      "start_line": 797
+    },
+    {
+      "anchor": "table-1",
+      "end_line": 820,
+      "heading": "Table 1",
+      "level": 2,
+      "start_line": 801
+    },
+    {
+      "anchor": "emulsification",
+      "end_line": 826,
+      "heading": "Emulsification",
+      "level": 1,
+      "start_line": 821
+    },
+    {
+      "anchor": "rinsing",
+      "end_line": 832,
+      "heading": "Rinsing",
+      "level": 1,
+      "start_line": 827
+    },
+    {
+      "anchor": "9-developing",
+      "end_line": 836,
+      "heading": "9. Developing",
+      "level": 1,
+      "start_line": 833
+    },
+    {
+      "anchor": "inspection",
+      "end_line": 841,
+      "heading": "Inspection",
+      "level": 1,
+      "start_line": 837
+    },
+    {
+      "anchor": "visible-dye-penetrant-procedure",
+      "end_line": 843,
+      "heading": "VISIBLE DYE-PENETRANT PROCEDURE",
+      "level": 1,
+      "start_line": 842
+    },
+    {
+      "anchor": "penetrant-application",
+      "end_line": 849,
+      "heading": "Penetrant Application",
+      "level": 1,
+      "start_line": 844
+    },
+    {
+      "anchor": "12-penetrant-removal",
+      "end_line": 853,
+      "heading": "12. Penetrant Removal",
+      "level": 1,
+      "start_line": 850
+    },
+    {
+      "anchor": "developing",
+      "end_line": 860,
+      "heading": "Developing",
+      "level": 1,
+      "start_line": 854
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 862,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 861
+    },
+    {
+      "anchor": "electron-beam-welding-parameters-for-tube-to-header-joints",
+      "end_line": 868,
+      "heading": "Electron Beam Welding Parameters For Tube-To-Header Joints",
+      "level": 2,
+      "start_line": 863
+    },
+    {
+      "anchor": "parameters-for-welding-of-butt-joints-in-molybdenum-tubing-using-an-orbiting-arc-weld-head",
+      "end_line": 870,
+      "heading": "PARAMETERS FOR WELDING OF BUTT JOINTS IN MOLYBDENUM TUBING USING AN ORBITING-ARC WELD HEAD",
+      "level": 1,
+      "start_line": 869
+    },
+    {
+      "anchor": "table-c-1-parameters-for-welding-0-250-0-375-and-0-500-in-od-tubing",
+      "end_line": 878,
+      "heading": "Table C-1. Parameters for welding 0.250-, 0.375-, and 0.500-in.-OD tubing",
+      "level": 1,
+      "start_line": 871
+    },
+    {
+      "anchor": "table-c-2-parameters-for-welding-0-875-and-1-125-in-od-tubing",
+      "end_line": 887,
+      "heading": "Table C-2. Parameters for welding 0.875- and 1.125-in.-OD tubing",
+      "level": 1,
+      "start_line": 879
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1021,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 888
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1104,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1022
+    }
+  ],
+  "source_dir": "pdf/ORNL-4874",
+  "tables": [],
+  "title": "![](images/947a51c2e41a84f80ce812f3a8a0cf827a0da386e95f77642cf3e328a40b8908.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "breeder-and-converter-design",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

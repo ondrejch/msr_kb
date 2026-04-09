@@ -1,0 +1,571 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "UNION CARBIDE",
+    "A. M. Perry"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1857.jsonl",
+  "date_text": "June 12, 1967",
+  "doc_id": "ornl-tm-1857",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          93,
+          114,
+          227,
+          231,
+          233,
+          236,
+          238,
+          240,
+          254,
+          260,
+          278,
+          284,
+          298
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          231,
+          256
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          208,
+          214,
+          276
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          260,
+          292
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          231
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          1,
+          15,
+          41,
+          91,
+          104
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          11,
+          391
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          5,
+          13
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 57,
+        "line_hits": [
+          21,
+          31,
+          61,
+          85,
+          91,
+          95,
+          102,
+          104,
+          106,
+          112,
+          122,
+          138,
+          148,
+          155,
+          157,
+          161,
+          183,
+          210,
+          216,
+          219,
+          223,
+          225,
+          229,
+          231,
+          242,
+          256,
+          260,
+          264,
+          268,
+          270,
+          274,
+          276,
+          278,
+          280,
+          284,
+          288,
+          292,
+          294,
+          298,
+          304,
+          308,
+          310,
+          312,
+          314,
+          320,
+          328,
+          334,
+          338,
+          340,
+          342
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 37,
+        "line_hits": [
+          31,
+          91,
+          95,
+          104,
+          118,
+          122,
+          126,
+          128,
+          140,
+          146,
+          155,
+          157,
+          161,
+          165,
+          167,
+          169,
+          171,
+          185,
+          194,
+          196,
+          206,
+          216,
+          223,
+          227,
+          229,
+          231,
+          264,
+          270,
+          278,
+          292,
+          308,
+          312,
+          320,
+          330,
+          348,
+          358,
+          374
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          206,
+          210,
+          212,
+          231,
+          233,
+          250,
+          260,
+          264,
+          280,
+          284,
+          338
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          93,
+          118
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          93,
+          118
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          227
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "802a5904bdfd58ad1f7d6eee43e984ad9d914715d994f7b32238d5f28e0af88d",
+  "markdown_path": "pdf/ORNL-TM-1857/ORNL-TM-1857/hybrid_ocr/ORNL-TM-1857.md",
+  "report_number": "ORNL-TM-1857",
+  "report_numbers": [
+    "ORNL-TM-1857",
+    "ORNL-3996"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 43,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 6,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 10,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 12,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "union-carbide",
+      "end_line": 14,
+      "heading": "Union Carbide",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-tm-1857",
+      "end_line": 16,
+      "heading": "Ornl-Tm-1857",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "copy-no-249",
+      "end_line": 20,
+      "heading": "Copy No. - 249",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "physics-program-for-molten-salt-breeder-reactors",
+      "end_line": 26,
+      "heading": "Physics Program For Molten-Salt Breeder Reactors",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 28,
+      "heading": "Abstract",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "3-2-mn",
+      "end_line": 34,
+      "heading": "3.2; Mn",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "this-document-has-been-reviewed",
+      "end_line": 38,
+      "heading": "This Document Has Been Reviewed.",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "10-the-a-e-c-a-and-h-k-s-2",
+      "end_line": 42,
+      "heading": "10 The A.E.C.A. And H.K.S. 2",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 51,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "contents",
+      "end_line": 53,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "1-introduction-5",
+      "end_line": 54,
+      "heading": "1. INTRODUCTION 5",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "2-analysis-of-uncertainties-8",
+      "end_line": 60,
+      "heading": "2. ANALYSIS OF UNCERTAINTIES 8",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "3-msbr-reactor-physics-program-27",
+      "end_line": 74,
+      "heading": "3. MSBR REACTOR PHYSICS PROGRAM 27",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "4-manpower-and-cost-estimates-36",
+      "end_line": 75,
+      "heading": "4. MANPOWER AND COST ESTIMATES 36",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "5-conclusions-36",
+      "end_line": 76,
+      "heading": "5. CONCLUSIONS 36",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "6-acknowledgments-38",
+      "end_line": 78,
+      "heading": "6. ACKNOWLEDGMENTS 38",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 84,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "physics-program-for-molten-salt-breeder-reactors",
+      "end_line": 88,
+      "heading": "PHYSICS PROGRAM FOR MOLTEN-SALT BREEDER REACTORS",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 115,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "2-analysis-of-uncertainties",
+      "end_line": 119,
+      "heading": "2. ANALYSIS OF UNCERTAINTIES",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "2-1-cross-sections",
+      "end_line": 203,
+      "heading": "2.1 Cross Sections",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "2-2-computational-methods",
+      "end_line": 220,
+      "heading": "2.2 Computational Methods",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "2-3-assumptions-regarding-salt-chemistry",
+      "end_line": 267,
+      "heading": "2.3 Assumptions Regarding Salt Chemistry",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "3-msbr-reactor-physics-program",
+      "end_line": 271,
+      "heading": "3. MSBR REACTOR PHYSICS PROGRAM",
+      "level": 1,
+      "start_line": 268
+    },
+    {
+      "anchor": "3-1-investigation-of-dynamic-characteristics",
+      "end_line": 281,
+      "heading": "3.1 Investigation of Dynamic Characteristics",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "3-1-1-stability-analysis",
+      "end_line": 289,
+      "heading": "3.1.1 Stability Analysis",
+      "level": 1,
+      "start_line": 282
+    },
+    {
+      "anchor": "3-1-2-transient-analysis",
+      "end_line": 295,
+      "heading": "3.1.2 Transient Analysis",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "3-1-3-flux-flattening",
+      "end_line": 301,
+      "heading": "3.1.3 Flux Flattening",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "3-2-investigation-of-alternate-core-designs",
+      "end_line": 305,
+      "heading": "3.2 Investigation of Alternate Core Designs",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "3-3-development-of-methods",
+      "end_line": 315,
+      "heading": "3.3 Development of Methods",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "3-4-cross-section-evaluation",
+      "end_line": 325,
+      "heading": "3.4 Cross Section Evaluation",
+      "level": 1,
+      "start_line": 316
+    },
+    {
+      "anchor": "3-5-development-of-computer-codes",
+      "end_line": 335,
+      "heading": "3.5 Development of Computer Codes",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "3-6-experimental-physics-program",
+      "end_line": 353,
+      "heading": "3.6 Experimental Physics Program",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "3-6-1-dynamics-experiments",
+      "end_line": 359,
+      "heading": "3.6.1 Dynamics Experiments",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "4-manpower-and-cost-estimates",
+      "end_line": 365,
+      "heading": "4. MANPOWER AND COST ESTIMATES",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "5-conclusions",
+      "end_line": 378,
+      "heading": "5. CONCLUSIONS",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "6-acknowledgments",
+      "end_line": 382,
+      "heading": "6. ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 379
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 388,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 397,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 389
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1857",
+  "tables": [],
+  "title": "OAK RIDGE NATIONAL LABORATORY",
+  "topics": [
+    "reactor-physics-neutronics",
+    "breeder-and-converter-design",
+    "off-gas-fission-products-and-tritium",
+    "graphite-and-moderator-behavior",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,525 @@
+{
+  "authors": [
+    "Reactors - Research",
+    "Power",
+    "UNCLASSIFIED",
+    "R.W.Dayton J.W.Chastain",
+    "Jr.",
+    "RESTRICTED DATA",
+    "BATTELLE MEMORIAL INSTITUTE",
+    "SECURITY INFORMATION"
+  ],
+  "claims_path": "kb/normalized/claims/bmi-746.jsonl",
+  "date_text": "1952",
+  "doc_id": "bmi-746",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 8,
+        "line_hits": [
+          35,
+          95,
+          97,
+          99,
+          107,
+          191,
+          217,
+          249
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          95,
+          97
+        ],
+        "name": "nickel"
+      }
+    ],
+    "organization": [
+      {
+        "count": 1,
+        "line_hits": [
+          215
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 20,
+        "line_hits": [
+          35,
+          37,
+          39,
+          83,
+          107,
+          115,
+          127,
+          129,
+          178,
+          180,
+          184,
+          186,
+          191,
+          215,
+          219,
+          221,
+          249,
+          251,
+          257,
+          261
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "961367f0ba41c9c2c96c59229a162025a7bd4ad5cf59750086c7b74e423570f1",
+  "markdown_path": "pdf/BMI-746/BMI-746/hybrid_ocr/BMI-746.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 60,
+  "sections": [
+    {
+      "anchor": "unclassified",
+      "end_line": 12,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "hydroxides-as-moderator-coolants-in-power-breeder-reactors",
+      "end_line": 20,
+      "heading": "Hydroxides As Moderator Coolants In Power-Breeder- Reactors",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "restricted-data",
+      "end_line": 24,
+      "heading": "RESTRICTED DATA",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "battelle-memorial-institute",
+      "end_line": 28,
+      "heading": "Battelle Memorial Institute",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "security-information",
+      "end_line": 32,
+      "heading": "Security Information",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 42,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "frac-5-1-u-4q-1-u-uq-dh",
+      "end_line": 46,
+      "heading": "$\\frac{5}{1} + u + {4q} = 1 + u + {uq}$ dH",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 50,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "abstract-5",
+      "end_line": 52,
+      "heading": "Abstract 5",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "introduction-9",
+      "end_line": 54,
+      "heading": "Introduction. 9",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "general-considerations-9",
+      "end_line": 56,
+      "heading": "General Considerations 9",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "barepile-10",
+      "end_line": 58,
+      "heading": "Barepile 10",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "reflectedpile-15",
+      "end_line": 60,
+      "heading": "Reflectedpile 15",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "conclusions-21",
+      "end_line": 62,
+      "heading": "Conclusions 21",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "appendix-i-23",
+      "end_line": 66,
+      "heading": "Appendix I 23",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "appendix-ii-27",
+      "end_line": 70,
+      "heading": "Appendix Ii 27",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "bibliography-30",
+      "end_line": 72,
+      "heading": "Bibliography 30",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "secret",
+      "end_line": 74,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "secret",
+      "end_line": 78,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 90,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "general-considerations",
+      "end_line": 100,
+      "heading": "GENERAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "secret",
+      "end_line": 110,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "bare-pile",
+      "end_line": 118,
+      "heading": "BARE PILE",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "secret",
+      "end_line": 143,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "secret",
+      "end_line": 148,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 144
+    },
+    {
+      "anchor": "a-1076",
+      "end_line": 150,
+      "heading": "A-1076",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "secret",
+      "end_line": 158,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 151
+    },
+    {
+      "anchor": "secret",
+      "end_line": 163,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 159
+    },
+    {
+      "anchor": "a-1077",
+      "end_line": 167,
+      "heading": "A-1077",
+      "level": 2,
+      "start_line": 164
+    },
+    {
+      "anchor": "secret",
+      "end_line": 169,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 168
+    },
+    {
+      "anchor": "secret",
+      "end_line": 188,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "reflected-pile",
+      "end_line": 192,
+      "heading": "REFLECTED PILE",
+      "level": 1,
+      "start_line": 189
+    },
+    {
+      "anchor": "secret",
+      "end_line": 194,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "secret-16",
+      "end_line": 197,
+      "heading": "Secret -16-",
+      "level": 2,
+      "start_line": 195
+    },
+    {
+      "anchor": "figure-4-thorium-required-for-various-breeding-gains-in-an-infinite-pile",
+      "end_line": 201,
+      "heading": "Figure 4. Thorium Required For Various Breeding Gains In An Infinite Pile",
+      "level": 2,
+      "start_line": 198
+    },
+    {
+      "anchor": "secret",
+      "end_line": 206,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 202
+    },
+    {
+      "anchor": "secret",
+      "end_line": 208,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "secret",
+      "end_line": 226,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 209
+    },
+    {
+      "anchor": "secret",
+      "end_line": 233,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "a-1060",
+      "end_line": 235,
+      "heading": "A-1060",
+      "level": 2,
+      "start_line": 234
+    },
+    {
+      "anchor": "secret-20",
+      "end_line": 240,
+      "heading": "Secret -20-",
+      "level": 2,
+      "start_line": 236
+    },
+    {
+      "anchor": "a-1001",
+      "end_line": 242,
+      "heading": "A-1001",
+      "level": 2,
+      "start_line": 241
+    },
+    {
+      "anchor": "secret",
+      "end_line": 244,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 243
+    },
+    {
+      "anchor": "secret",
+      "end_line": 258,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 266,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "secret",
+      "end_line": 268,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 267
+    },
+    {
+      "anchor": "secret",
+      "end_line": 277,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 269
+    },
+    {
+      "anchor": "secret",
+      "end_line": 279,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 278
+    },
+    {
+      "anchor": "secret",
+      "end_line": 283,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 280
+    },
+    {
+      "anchor": "appendix-i",
+      "end_line": 285,
+      "heading": "Appendix I",
+      "level": 2,
+      "start_line": 284
+    },
+    {
+      "anchor": "secret",
+      "end_line": 289,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 286
+    },
+    {
+      "anchor": "secret",
+      "end_line": 293,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "appendix-i",
+      "end_line": 295,
+      "heading": "APPENDIX I",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 317,
+      "heading": "Nomenclature",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "r1-nmod-nu",
+      "end_line": 327,
+      "heading": "R1 = Nmod/Nu",
+      "level": 2,
+      "start_line": 318
+    },
+    {
+      "anchor": "secret",
+      "end_line": 331,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 328
+    },
+    {
+      "anchor": "appendix-ii",
+      "end_line": 341,
+      "heading": "Appendix Ii",
+      "level": 2,
+      "start_line": 332
+    },
+    {
+      "anchor": "assumptions",
+      "end_line": 343,
+      "heading": "Assumptions",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "a-core",
+      "end_line": 354,
+      "heading": "A-Core",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "secret",
+      "end_line": 355,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 355
+    }
+  ],
+  "source_dir": "pdf/BMI-746",
+  "tables": [],
+  "title": "![](images/3e65495234a74e8ee8580ecf15af26af94b772d9f9286657f00bad3d38f4bda6.jpg)",
+  "topics": [
+    "reactor-physics-neutronics",
+    "graphite-and-moderator-behavior",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

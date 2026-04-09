@@ -1,0 +1,708 @@
+{
+  "authors": [
+    "C. H. Brown",
+    "Jr.",
+    "J. R. Hightower",
+    "J. A. Klein",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-5143.jsonl",
+  "date_text": "November 1976",
+  "doc_id": "ornl-5143",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 12,
+        "line_hits": [
+          195,
+          197,
+          199,
+          205,
+          215,
+          223,
+          674,
+          676,
+          682,
+          684,
+          686,
+          694
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          209,
+          219,
+          231,
+          247,
+          255,
+          259,
+          283
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          114,
+          135,
+          137,
+          142
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          142
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          131
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          135
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          471
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          55,
+          101,
+          154,
+          156
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          114,
+          131,
+          142
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          91
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          235
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          21,
+          107,
+          126,
+          213,
+          347,
+          399,
+          414,
+          415,
+          417,
+          427,
+          428,
+          429
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          27
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 25,
+        "line_hits": [
+          91,
+          93,
+          137,
+          189,
+          247,
+          249,
+          263,
+          271,
+          275,
+          277,
+          279,
+          283,
+          285,
+          337,
+          345,
+          389,
+          393,
+          395,
+          404,
+          436,
+          606,
+          674,
+          676,
+          688,
+          700
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          91,
+          93,
+          397,
+          414,
+          417
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 9,
+        "line_hits": [
+          87,
+          91,
+          95,
+          223,
+          285,
+          320,
+          389,
+          674,
+          688
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          11,
+          79,
+          95,
+          626,
+          650
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          79
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          79
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          79
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          233
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          79
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d13236276da03865569487266fe6689162451ac6a4d4018cec4284bac1a2affe",
+  "markdown_path": "pdf/ORNL-5143/ORNL-5143/hybrid_ocr/ORNL-5143.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 61,
+  "sections": [
+    {
+      "anchor": "ornl5143",
+      "end_line": 2,
+      "heading": "ORNL5143",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "orni-5143",
+      "end_line": 8,
+      "heading": "Orni-5143",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 20,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 30,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 40,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "contents",
+      "end_line": 42,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "page",
+      "end_line": 44,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 46,
+      "heading": "ABSTRACT. 1",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 47,
+      "heading": "1. Introduction. 1",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "2-experimental-equipment-2",
+      "end_line": 58,
+      "heading": "2. Experimental Equipment. 2",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "3-experimental-procedures-14",
+      "end_line": 66,
+      "heading": "3. EXPERIMENTAL PROCEDURES 14",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "4-experimental-results-19",
+      "end_line": 67,
+      "heading": "4. Experimental Results. 19",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "5-interpretation-of-results-22",
+      "end_line": 68,
+      "heading": "5. INTERPRETATION OF RESULTS 22",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "6-conclusions-and-recommendations-31",
+      "end_line": 69,
+      "heading": "6. CONCLUSIONS AND RECOMMENDATIONS 31",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "7-acknowledgment-33",
+      "end_line": 70,
+      "heading": "7. Acknowledgment. 33",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "8-references-33",
+      "end_line": 72,
+      "heading": "8. REFERENCES 33",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "appendix-a-35",
+      "end_line": 73,
+      "heading": "Appendix A. 35",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "appendix-b-4",
+      "end_line": 74,
+      "heading": "Appendix B. 4",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "appendix-c-49",
+      "end_line": 75,
+      "heading": "Appendix C. 49",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "appendix-d-51",
+      "end_line": 76,
+      "heading": "Appendix D. 51",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "appendix-e-55",
+      "end_line": 84,
+      "heading": "Appendix E. 55",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 88,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 98,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "2-experimental-equipment",
+      "end_line": 102,
+      "heading": "2. EXPERIMENTAL EQUIPMENT",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "2-1-flow-diagram-of-salt-bismuth-system",
+      "end_line": 106,
+      "heading": "2.1 Flow Diagram of Salt-Bismuth System",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "ornl-dwg-74-694r1",
+      "end_line": 108,
+      "heading": "Ornl Dwg 74-694R1",
+      "level": 2,
+      "start_line": 107
+    },
+    {
+      "anchor": "contactor",
+      "end_line": 115,
+      "heading": "Contactor",
+      "level": 2,
+      "start_line": 109
+    },
+    {
+      "anchor": "2-2-contactor-vessel",
+      "end_line": 119,
+      "heading": "2.2 Contactor Vessel",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "2-3-feed-and-catch-tanks-for-salt-and-bismuth",
+      "end_line": 125,
+      "heading": "2.3 Feed and Catch Tanks for Salt and Bismuth",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "ornl-dwg-76-584",
+      "end_line": 132,
+      "heading": "Ornl Dwg 76-584",
+      "level": 2,
+      "start_line": 126
+    },
+    {
+      "anchor": "2-4-treatment-vessel-for-salt-and-metal",
+      "end_line": 145,
+      "heading": "2.4 Treatment Vessel for Salt and Metal",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "2-5-samplers",
+      "end_line": 153,
+      "heading": "2.5 Samplers",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "2-6-freeze-valves-and-lines",
+      "end_line": 160,
+      "heading": "2.6 Freeze Valves and Lines",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "2-7-instrumentation-and-control",
+      "end_line": 171,
+      "heading": "2.7 Instrumentation and Control",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "2-8-gas-purification-and-supply-systems",
+      "end_line": 186,
+      "heading": "2.8 Gas Purification and Supply Systems",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "3-experimental-procedures",
+      "end_line": 190,
+      "heading": "3. EXPERIMENTAL PROCEDURES",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "3-1-reductant-addition",
+      "end_line": 206,
+      "heading": "3.1 Reductant Addition",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "3-2-tracer-irradiation-and-addition",
+      "end_line": 212,
+      "heading": "3.2 Tracer Irradiation and Addition",
+      "level": 1,
+      "start_line": 207
+    },
+    {
+      "anchor": "ornl-dwg-76-581",
+      "end_line": 220,
+      "heading": "Ornl Dwg. 76-581",
+      "level": 2,
+      "start_line": 213
+    },
+    {
+      "anchor": "3-3-run-procedure",
+      "end_line": 228,
+      "heading": "3.3 Run Procedure",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "3-4-treatment-with-hydrogen-hydrogen-fluoride-mixture",
+      "end_line": 236,
+      "heading": "3.4 Treatment with Hydrogen-Hydrogen Fluoride Mixture",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "3-5-sample-preparation-and-analysis",
+      "end_line": 244,
+      "heading": "3.5 Sample Preparation and Analysis",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "4-experimental-results",
+      "end_line": 272,
+      "heading": "4. EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "5-interpretation-of-results",
+      "end_line": 346,
+      "heading": "5. INTERPRETATION OF RESULTS",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "ornl-dwg-76-583",
+      "end_line": 390,
+      "heading": "Ornl Dwg 76-583",
+      "level": 2,
+      "start_line": 347
+    },
+    {
+      "anchor": "6-conclusions-and-recommendations",
+      "end_line": 398,
+      "heading": "6. CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "ornl-dwg-76-579",
+      "end_line": 405,
+      "heading": "Ornl Dwg 76-579",
+      "level": 2,
+      "start_line": 399
+    },
+    {
+      "anchor": "7-acknowledgment",
+      "end_line": 409,
+      "heading": "7. ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 406
+    },
+    {
+      "anchor": "8-references",
+      "end_line": 431,
+      "heading": "8. REFERENCES",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 433,
+      "heading": "APPENDIX A.",
+      "level": 1,
+      "start_line": 432
+    },
+    {
+      "anchor": "sample-analyses",
+      "end_line": 487,
+      "heading": "Sample Analyses",
+      "level": 1,
+      "start_line": 434
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 489,
+      "heading": "APPENDIX B.",
+      "level": 1,
+      "start_line": 488
+    },
+    {
+      "anchor": "calculation-of-mass-transfer-coefficients",
+      "end_line": 621,
+      "heading": "Calculation of Mass Transfer Coefficients",
+      "level": 1,
+      "start_line": 490
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 647,
+      "heading": "APPENDIX C.",
+      "level": 1,
+      "start_line": 622
+    },
+    {
+      "anchor": "sample-calculation",
+      "end_line": 651,
+      "heading": "Sample calculation",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "t-873-k",
+      "end_line": 669,
+      "heading": "T = 873°K,",
+      "level": 2,
+      "start_line": 652
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 671,
+      "heading": "APPENDIX D.",
+      "level": 1,
+      "start_line": 670
+    },
+    {
+      "anchor": "entrainment-studies",
+      "end_line": 695,
+      "heading": "Entrainment Studies",
+      "level": 1,
+      "start_line": 672
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 697,
+      "heading": "APPENDIX E.",
+      "level": 1,
+      "start_line": 696
+    },
+    {
+      "anchor": "location-of-original-data",
+      "end_line": 708,
+      "heading": "Location of Original Data",
+      "level": 1,
+      "start_line": 698
+    }
+  ],
+  "source_dir": "pdf/ORNL-5143",
+  "tables": [],
+  "title": "ORNL5143",
+  "topics": [
+    "materials-and-corrosion",
+    "instrumentation-and-controls",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "breeder-and-converter-design",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

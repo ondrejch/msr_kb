@@ -1,0 +1,406 @@
+{
+  "authors": [
+    "J. W. Koger",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4172.jsonl",
+  "date_text": "June 1970",
+  "doc_id": "ornl-tm-4172",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 24,
+        "line_hits": [
+          3,
+          23,
+          67,
+          93,
+          97,
+          99,
+          101,
+          105,
+          109,
+          113,
+          133,
+          139,
+          143,
+          147,
+          151,
+          153,
+          165,
+          169,
+          171,
+          198,
+          202,
+          203,
+          207,
+          212
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          3,
+          23,
+          67,
+          133,
+          139,
+          143,
+          151,
+          153,
+          169,
+          190,
+          198,
+          202,
+          203,
+          212
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          137,
+          139,
+          147,
+          369
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          103,
+          116,
+          129
+        ],
+        "name": "Inconel 600"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          175
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 8,
+        "line_hits": [
+          87,
+          103,
+          116,
+          124,
+          129,
+          131,
+          133,
+          360
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          97,
+          99,
+          103,
+          116,
+          124
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          103
+        ],
+        "name": "salt pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          15,
+          17,
+          29,
+          43,
+          373,
+          382,
+          384,
+          388,
+          390
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          13,
+          33,
+          113,
+          226,
+          232,
+          234,
+          384
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          15,
+          39,
+          371
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 5,
+        "line_hits": [
+          93,
+          99,
+          122,
+          139,
+          218
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          71
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 8,
+        "line_hits": [
+          67,
+          71,
+          97,
+          101,
+          103,
+          147,
+          202,
+          205
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          71,
+          79,
+          139,
+          163
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          67,
+          147,
+          151,
+          196
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          139,
+          161
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "ed04b6cf1cd63773e492f183c0aaf7698b5eff45358d43be3d6b1e9ee3099d6b",
+  "markdown_path": "pdf/ORNL-TM-4172/ORNL-TM-4172/hybrid_ocr/ORNL-TM-4172.md",
+  "report_number": "ORNL-TM-2978",
+  "report_numbers": [
+    "ORNL-TM-2978"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 22,
+  "sections": [
+    {
+      "anchor": "corrosion-of-type-304l-stainless-steel-and-hastelloy-n-by-mixtures-of-boron-trifluoride-air-and-argon",
+      "end_line": 6,
+      "heading": "CORROSION OF TYPE 304L STAINLESS STEEL AND HASTELLOY N BY MIXTURES OF BORON TRIFLUORIDE, AIR, AND ARGON",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "this-document-confirmed-as-unclassified",
+      "end_line": 8,
+      "heading": "This Document Confirmed As Unclassified",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "date-6-12-13",
+      "end_line": 12,
+      "heading": "Date 6/12/13",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 14,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 20,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 26,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "notice",
+      "end_line": 30,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "december-1972",
+      "end_line": 32,
+      "heading": "December 1972",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 38,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 42,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 44,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "contents",
+      "end_line": 64,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 68,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 88,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "background-data",
+      "end_line": 134,
+      "heading": "BACKGROUND DATA",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "results-of-the-current-experiments",
+      "end_line": 188,
+      "heading": "RESULTS OF THE CURRENT EXPERIMENTS",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "0-10-in-div",
+      "end_line": 199,
+      "heading": "0.10 In\\Div.",
+      "level": 2,
+      "start_line": 189
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 213,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 219,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 221,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 220
+    },
+    {
+      "anchor": "77-copies",
+      "end_line": 347,
+      "heading": "(77 copies)",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 391,
+      "heading": "External Distribution",
+      "level": 2,
+      "start_line": 348
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4172",
+  "tables": [],
+  "title": "![](images/742e6893f80fc2a555972503f63a6ba5571f8277725112fd0706e52a03baf41e.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "instrumentation-and-controls"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,691 @@
+{
+  "authors": [],
+  "claims_path": "kb/normalized/claims/chapter-24.jsonl",
+  "date_text": null,
+  "doc_id": "chapter-24",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 22,
+        "line_hits": [
+          11,
+          13,
+          17,
+          21,
+          23,
+          45,
+          319,
+          467,
+          556,
+          560,
+          570,
+          580,
+          609,
+          619,
+          628,
+          638,
+          644,
+          651,
+          763,
+          781,
+          846,
+          866
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          921,
+          926,
+          931,
+          939
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          451,
+          457
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          636
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          846
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 17,
+        "line_hits": [
+          187,
+          387,
+          393,
+          398,
+          404,
+          413,
+          429,
+          435,
+          441,
+          443,
+          445,
+          463,
+          473,
+          497,
+          499,
+          505,
+          517
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          377,
+          381,
+          383,
+          439,
+          441,
+          453,
+          455,
+          461,
+          465,
+          471,
+          477,
+          479,
+          481,
+          509,
+          552
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          377,
+          387,
+          437,
+          439,
+          441,
+          455,
+          457,
+          463,
+          465,
+          487,
+          491,
+          497,
+          509
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          375,
+          377,
+          383,
+          402,
+          451,
+          457,
+          459,
+          461,
+          481,
+          513,
+          921,
+          926
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          377,
+          381,
+          383,
+          439,
+          453,
+          461,
+          465,
+          481
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          317,
+          333,
+          371,
+          640,
+          644,
+          846
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          487,
+          542,
+          544,
+          548
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 4,
+        "line_hits": [
+          956,
+          957,
+          958,
+          960
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          524
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 83,
+        "line_hits": [
+          7,
+          11,
+          15,
+          19,
+          21,
+          25,
+          38,
+          54,
+          105,
+          107,
+          147,
+          149,
+          175,
+          185,
+          187,
+          189,
+          219,
+          227,
+          233,
+          256,
+          258,
+          264,
+          271,
+          273,
+          319,
+          321,
+          331,
+          363,
+          369,
+          377,
+          393,
+          395,
+          402,
+          404,
+          408,
+          433,
+          441,
+          443,
+          463,
+          477,
+          479,
+          481,
+          483,
+          497,
+          505,
+          507,
+          511,
+          522,
+          524,
+          531
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 49,
+        "line_hits": [
+          3,
+          5,
+          7,
+          11,
+          41,
+          48,
+          152,
+          171,
+          183,
+          204,
+          207,
+          209,
+          243,
+          246,
+          261,
+          279,
+          285,
+          333,
+          398,
+          413,
+          431,
+          481,
+          485,
+          489,
+          491,
+          552,
+          566,
+          616,
+          619,
+          622,
+          625,
+          628,
+          647,
+          760,
+          763,
+          779,
+          784,
+          794,
+          833,
+          837,
+          844,
+          900,
+          904,
+          919,
+          924,
+          929,
+          937,
+          957,
+          960
+        ],
+        "name": "LMFR"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "bc7c02eadce1ae093320cc3fc31cd27b59c68ea7d850211d5ddc8adb1f768aad",
+  "markdown_path": "pdf/FFR_chap24/FFR_chap24/hybrid_ocr/FFR_chap24.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 49,
+  "sections": [
+    {
+      "anchor": "chapter-24",
+      "end_line": 2,
+      "heading": "CHAPTER 24",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "liquid-metal-fuel-reactor-design-study",
+      "end_line": 4,
+      "heading": "LIQUID METAL FUEL REACTOR DESIGN STUDY*",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "24-1-comparison-of-two-fluid-and-single-fluid-lmfr-designs",
+      "end_line": 8,
+      "heading": "24-1. COMPARISON OF TWO-FLUID AND SINGLE-FLUID LMFR DESIGNS",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "24-2-two-fluid-reactor-design",
+      "end_line": 39,
+      "heading": "24-2. TWO-FLUID REACTOR DESIGN",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "table-24-1",
+      "end_line": 40,
+      "heading": "Table 24-1",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "critical-calculations-for-two-fluid-lmfr-with-and-without-end-blankets",
+      "end_line": 176,
+      "heading": "Critical Calculations For Two-Fluid Lmfr With And Without End Blankets",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "table-24-2",
+      "end_line": 177,
+      "heading": "Table 24-2",
+      "level": 2,
+      "start_line": 177
+    },
+    {
+      "anchor": "results-of-nuclear-calculations-for-various-power-splits",
+      "end_line": 208,
+      "heading": "Results Of Nuclear Calculations For Various Power Splits",
+      "level": 2,
+      "start_line": 178
+    },
+    {
+      "anchor": "table-24-3-inventory-volumes-in-two-fluid-lmfr",
+      "end_line": 276,
+      "heading": "Table 24-3 Inventory Volumes In Two-Fluid Lmfr",
+      "level": 2,
+      "start_line": 209
+    },
+    {
+      "anchor": "table-24-4",
+      "end_line": 278,
+      "heading": "TABLE 24-4",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "chemical-processing-costs-two-fluid-lmfr",
+      "end_line": 282,
+      "heading": "CHEMICAL PROCESSING COSTS TWO-FLUID LMFR",
+      "level": 1,
+      "start_line": 279
+    },
+    {
+      "anchor": "table-24-5",
+      "end_line": 284,
+      "heading": "TABLE 24.5",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "relative-fuel-cost-for-two-fluid-lmfr",
+      "end_line": 286,
+      "heading": "RELATIVE FUEL COST FOR TWO-FLUID LMFR",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "with-poisons-blanketed-sphere",
+      "end_line": 334,
+      "heading": "(WITH POISONS-BLANKETED SPHERE)",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "reference-design-specifications",
+      "end_line": 336,
+      "heading": "REFERENCE DESIGN SPECIFICATIONS",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "specifications-for-equilibrium-operation",
+      "end_line": 372,
+      "heading": "SPECIFICATIONS FOR EQUILIBRIUM OPERATION",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "24-3-systems-design",
+      "end_line": 549,
+      "heading": "24-3. SYSTEMS DESIGN",
+      "level": 1,
+      "start_line": 373
+    },
+    {
+      "anchor": "24-4-single-fluid-reactor-design",
+      "end_line": 577,
+      "heading": "24-4. SINGLE-FLUID REACTOR DESIGN",
+      "level": 1,
+      "start_line": 550
+    },
+    {
+      "anchor": "862-f",
+      "end_line": 593,
+      "heading": "862°F",
+      "level": 2,
+      "start_line": 578
+    },
+    {
+      "anchor": "table-24-6",
+      "end_line": 594,
+      "heading": "Table 24-6",
+      "level": 2,
+      "start_line": 594
+    },
+    {
+      "anchor": "summary-of-single-fluid-nuclear-calculations",
+      "end_line": 648,
+      "heading": "Summary Of Single-Fluid Nuclear Calculations",
+      "level": 2,
+      "start_line": 595
+    },
+    {
+      "anchor": "table-24-7-estimated-single-fluid-reactor-cost",
+      "end_line": 662,
+      "heading": "Table 24-7 Estimated Single-Fluid Reactor Cost",
+      "level": 2,
+      "start_line": 649
+    },
+    {
+      "anchor": "table-24-8-bismuth-inventory-in-reactor-vessel-external-to-core",
+      "end_line": 782,
+      "heading": "Table 24-8 Bismuth Inventory In Reactor Vessel External To Core",
+      "level": 2,
+      "start_line": 663
+    },
+    {
+      "anchor": "table-24-9",
+      "end_line": 783,
+      "heading": "Table 24-9",
+      "level": 2,
+      "start_line": 783
+    },
+    {
+      "anchor": "relative-energy-costs-for-single-fluid-lmfr",
+      "end_line": 789,
+      "heading": "Relative Energy Costs For Single Fluid Lmfr",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "single-fluid-reactor-design",
+      "end_line": 791,
+      "heading": "Single-Fluid Reactor Design",
+      "level": 2,
+      "start_line": 790
+    },
+    {
+      "anchor": "table-24-10",
+      "end_line": 793,
+      "heading": "TABLE 24-10",
+      "level": 1,
+      "start_line": 792
+    },
+    {
+      "anchor": "relative-fuel-costs-including-chemical-processing-single-fluid-lmfr",
+      "end_line": 834,
+      "heading": "RELATIVE FUEL COSTS INCLUDING CHEMICAL PROCESSING SINGLE FLUID LMFR",
+      "level": 1,
+      "start_line": 794
+    },
+    {
+      "anchor": "table-24-11",
+      "end_line": 836,
+      "heading": "TABLE 24-11",
+      "level": 1,
+      "start_line": 835
+    },
+    {
+      "anchor": "variable-fuel-cost-for-an-825-mw-lmfr",
+      "end_line": 849,
+      "heading": "VARIABLE FUEL COST FOR AN 825-MW LMFR",
+      "level": 1,
+      "start_line": 837
+    },
+    {
+      "anchor": "power",
+      "end_line": 857,
+      "heading": "Power:",
+      "level": 1,
+      "start_line": 850
+    },
+    {
+      "anchor": "materials",
+      "end_line": 871,
+      "heading": "Materials:",
+      "level": 1,
+      "start_line": 858
+    },
+    {
+      "anchor": "geometry",
+      "end_line": 893,
+      "heading": "Geometry:",
+      "level": 1,
+      "start_line": 872
+    },
+    {
+      "anchor": "nuclear-data",
+      "end_line": 897,
+      "heading": "Nuclear data:",
+      "level": 1,
+      "start_line": 894
+    },
+    {
+      "anchor": "24-5-economics",
+      "end_line": 901,
+      "heading": "24-5. ECONOMICS",
+      "level": 1,
+      "start_line": 898
+    },
+    {
+      "anchor": "table-24-12-energy-cost-80-plant-factor",
+      "end_line": 916,
+      "heading": "Table 24-12 Energy Cost $(80\\%)$ Plant Factor)",
+      "level": 2,
+      "start_line": 902
+    },
+    {
+      "anchor": "table-24-13",
+      "end_line": 918,
+      "heading": "TABLE 24-13",
+      "level": 1,
+      "start_line": 917
+    },
+    {
+      "anchor": "summary-of-direct-construction-costs-for-single-fluid-lmfr",
+      "end_line": 922,
+      "heading": "Summary Of Direct Construction Costs For Single-Fluid Lmfr",
+      "level": 2,
+      "start_line": 919
+    },
+    {
+      "anchor": "table-24-14",
+      "end_line": 923,
+      "heading": "Table 24-14",
+      "level": 2,
+      "start_line": 923
+    },
+    {
+      "anchor": "summary-of-direct-construction-costs-for-two-fluid-lmfr",
+      "end_line": 927,
+      "heading": "Summary Of Direct Construction Costs For Two-Fluid Lmfr",
+      "level": 2,
+      "start_line": 924
+    },
+    {
+      "anchor": "table-24-15",
+      "end_line": 928,
+      "heading": "Table 24-15",
+      "level": 2,
+      "start_line": 928
+    },
+    {
+      "anchor": "summary-of-capital-investment-for-single-fluid-lmfr",
+      "end_line": 934,
+      "heading": "Summary Of Capital Investment For Single-Fluid Lmfr",
+      "level": 2,
+      "start_line": 929
+    },
+    {
+      "anchor": "table-24-16",
+      "end_line": 936,
+      "heading": "TABLE 24-16",
+      "level": 1,
+      "start_line": 935
+    },
+    {
+      "anchor": "summary-of-capital-investment-for-two-fluid-lmfr",
+      "end_line": 940,
+      "heading": "Summary Of Capital Investment For Two-Fluid Lmfr",
+      "level": 2,
+      "start_line": 937
+    },
+    {
+      "anchor": "table-24-17",
+      "end_line": 942,
+      "heading": "TABLE 24-17",
+      "level": 1,
+      "start_line": 941
+    },
+    {
+      "anchor": "summary-of-fuel-costs",
+      "end_line": 948,
+      "heading": "SUMMARY OF FUEL COSTS",
+      "level": 1,
+      "start_line": 943
+    },
+    {
+      "anchor": "table-24-18",
+      "end_line": 949,
+      "heading": "Table 24-18",
+      "level": 2,
+      "start_line": 949
+    },
+    {
+      "anchor": "unit-energy-costs",
+      "end_line": 953,
+      "heading": "Unit Energy Costs",
+      "level": 2,
+      "start_line": 950
+    },
+    {
+      "anchor": "references",
+      "end_line": 960,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 954
+    }
+  ],
+  "source_dir": "pdf/FFR_chap24",
+  "tables": [],
+  "title": "CHAPTER 24",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "breeder-and-converter-design",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "graphite-and-moderator-behavior",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "authors_not_detected",
+    "report_number_not_detected"
+  ]
+}

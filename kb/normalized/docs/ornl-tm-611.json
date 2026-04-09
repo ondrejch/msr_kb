@@ -1,0 +1,341 @@
+{
+  "authors": [
+    "MASTER",
+    "P. N. Haubenreich",
+    "NOTICE",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-611.jsonl",
+  "date_text": "August 27, 1963",
+  "doc_id": "ornl-tm-611",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          17,
+          54,
+          110,
+          178,
+          204
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          84
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          64
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          202,
+          207,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          21,
+          250
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 21,
+        "line_hits": [
+          9,
+          17,
+          41,
+          54,
+          56,
+          62,
+          78,
+          84,
+          96,
+          104,
+          110,
+          112,
+          116,
+          124,
+          128,
+          130,
+          134,
+          150,
+          152,
+          170,
+          196
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          64,
+          66,
+          84,
+          96,
+          110,
+          128,
+          136,
+          150,
+          188
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          72
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          72
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          72
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          72
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6ac72cbe4f84e8b3cf23ce93be47467f1b21c11775c7c1b8d8430907ba0d852f",
+  "markdown_path": "pdf/ORNL-TM-0611/ORNL-TM-0611/hybrid_ocr/ORNL-TM-0611.md",
+  "report_number": "ORNL-TM-611",
+  "report_numbers": [
+    "ORNL-TM-611"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 25,
+  "sections": [
+    {
+      "anchor": "ornl-tm-611",
+      "end_line": 2,
+      "heading": "Ornl-Tm-611",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-52",
+      "end_line": 6,
+      "heading": "Copy No. - 52",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "master",
+      "end_line": 8,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "inherent-neutron-sources-in-clean-msre-fuel-salt",
+      "end_line": 14,
+      "heading": "Inherent Neutron Sources In Clean Msre Fuel Salt",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 18,
+      "heading": "Abstract",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "notice",
+      "end_line": 22,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 31,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "contents",
+      "end_line": 49,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 57,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "fuel-composition",
+      "end_line": 75,
+      "heading": "Fuel Composition",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "spontaneous-fission-neutrons",
+      "end_line": 89,
+      "heading": "Spontaneous Fission Neutrons",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "neutrons-from-alpha-n-reactions",
+      "end_line": 93,
+      "heading": "Neutrons From Alpha-n Reactions",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "alpha-emission-by-uranium",
+      "end_line": 107,
+      "heading": "Alpha Emission by Uranium",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "alpha-n-yields-in-fuel-salt",
+      "end_line": 121,
+      "heading": "Alpha-n Yields in Fuel Salt",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 131,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 133,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "calculation-of-alpha-n-yields-in-msre-fuel-salt",
+      "end_line": 137,
+      "heading": "Calculation of Alpha-n Yields in MSRE Fuel Salt",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "dilution-by-non-productive-constituents-of-fuel-salt",
+      "end_line": 175,
+      "heading": "Dilution by Non-Productive Constituents of Fuel Salt",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "mathbf-be-theta-alpha-n-yield",
+      "end_line": 185,
+      "heading": "$\\mathbf{Be}^{\\theta}(\\alpha, n)$ Yield",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "f19-n-yield",
+      "end_line": 189,
+      "heading": "F19 (α, n) Yield",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "mathbf-li-7-alpha-mathfrak-n-yield",
+      "end_line": 199,
+      "heading": "$\\mathbf{Li}^7 (\\alpha ,\\mathfrak{n})$ Yield",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "references",
+      "end_line": 208,
+      "heading": "References",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 249,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 209
+    },
+    {
+      "anchor": "46-ornl-rc",
+      "end_line": 251,
+      "heading": "46. ORNL-RC",
+      "level": 2,
+      "start_line": 250
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 259,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 252
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0611",
+  "tables": [],
+  "title": "ORNL-TM-611",
+  "topics": [
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,472 @@
+{
+  "authors": [
+    "Chemistry-General",
+    "FUSED ALKALI FLUORIDE-BERYLLIUM",
+    "FLUORIDE MIXTURES",
+    "C.J.Barton",
+    "W. R. Grimes",
+    "R.A.Strehlow"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2530.jsonl",
+  "date_text": "May 1955",
+  "doc_id": "ornl-2530",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          7,
+          43,
+          90,
+          170,
+          183
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          114,
+          168,
+          170
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          104,
+          122
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          19,
+          49,
+          96,
+          112,
+          191,
+          267,
+          276,
+          299,
+          391
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          27,
+          395
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          54
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          23
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 12,
+        "line_hits": [
+          49,
+          53,
+          90,
+          96,
+          98,
+          104,
+          130,
+          138,
+          183,
+          191,
+          207,
+          209
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          52,
+          53
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 18,
+        "line_hits": [
+          39,
+          90,
+          108,
+          130,
+          138,
+          144,
+          149,
+          154,
+          158,
+          176,
+          181,
+          213,
+          229,
+          243,
+          245,
+          270,
+          280,
+          283
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          39,
+          100,
+          118,
+          138,
+          144,
+          158,
+          168,
+          176,
+          181,
+          243,
+          245,
+          247,
+          280,
+          286
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          43,
+          90,
+          144,
+          149,
+          170,
+          183,
+          229
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          149,
+          229
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          221
+        ],
+        "name": "UF3"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          221
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          52
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "0fb1d3a7da541952f1faab5d2fb603654e03a0592aa2f1061e81ca75a0b82cf2",
+  "markdown_path": "pdf/ORNL-2530/ORNL-2530/hybrid_ocr/ORNL-2530.md",
+  "report_number": "ORNL-2530",
+  "report_numbers": [
+    "ORNL-2530",
+    "ANL-5750"
+  ],
+  "report_series": "nuclear-science-and-engineering",
+  "section_count": 34,
+  "sections": [
+    {
+      "anchor": "ornl-2530",
+      "end_line": 6,
+      "heading": "Ornl-2530",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "fused-alkali-fluoride-beryllium",
+      "end_line": 8,
+      "heading": "Fused Alkali Fluoride-Beryllium",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "fluoride-mixtures",
+      "end_line": 18,
+      "heading": "Fluoride Mixtures",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 30,
+      "heading": "Central Research Library Document Collection",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 32,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 36,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 40,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "solubility-and-stability-of-mathbf-puf-3-in",
+      "end_line": 42,
+      "heading": "SOLUBILITY AND STABILITY OF $\\mathbf{PuF}_3$ IN",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "fused-alkali-fluoride-beryllium-fluoride-mixtures",
+      "end_line": 46,
+      "heading": "FUSED ALKALI FLUORIDE-BERYLLIUM FLUORIDE MIXTURES",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 91,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "experimental",
+      "end_line": 93,
+      "heading": "EXPERIMENTAL",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "equipment",
+      "end_line": 105,
+      "heading": "Equipment",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "materials",
+      "end_line": 109,
+      "heading": "Materials",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "apparatus",
+      "end_line": 119,
+      "heading": "Apparatus",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "experimental-procedure",
+      "end_line": 133,
+      "heading": "Experimental Procedure",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "results",
+      "end_line": 188,
+      "heading": "Results",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 192,
+      "heading": "Acknowledgments",
+      "level": 1,
+      "start_line": 189
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 198,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 230,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "rate",
+      "end_line": 232,
+      "heading": "Rate",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "appearance",
+      "end_line": 234,
+      "heading": "Appearance",
+      "level": 1,
+      "start_line": 233
+    },
+    {
+      "anchor": "rapid",
+      "end_line": 238,
+      "heading": "Rapid",
+      "level": 1,
+      "start_line": 235
+    },
+    {
+      "anchor": "slow",
+      "end_line": 250,
+      "heading": "Slow",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 259,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "unclassified-photo-30245",
+      "end_line": 264,
+      "heading": "Unclassified Photo 30245",
+      "level": 2,
+      "start_line": 260
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 266,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 265
+    },
+    {
+      "anchor": "ornl-lr-dwg-29605",
+      "end_line": 273,
+      "heading": "Ornl-Lr-Dwg 29605",
+      "level": 2,
+      "start_line": 267
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 275,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 274
+    },
+    {
+      "anchor": "ornl-lr-dwg-29606",
+      "end_line": 289,
+      "heading": "Ornl-Lr-Dwg 29606",
+      "level": 2,
+      "start_line": 276
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 392,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 395,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 393
+    }
+  ],
+  "source_dir": "pdf/ORNL-2530",
+  "tables": [],
+  "title": "ORNL-2530",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

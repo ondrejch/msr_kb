@@ -1,0 +1,2296 @@
+{
+  "authors": [
+    "P. N. Haubenreich",
+    "D. W. Cardwell",
+    "J. R. Engel",
+    "MASTER",
+    "National Technical Information Service",
+    "U.S. Department of Commerce"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4802.jsonl",
+  "date_text": "June 1970",
+  "doc_id": "ornl-tm-4802",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 12,
+        "line_hits": [
+          175,
+          886,
+          976,
+          1168,
+          1607,
+          1609,
+          1611,
+          1623,
+          1635,
+          1641,
+          2010,
+          2012
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          136,
+          235,
+          367,
+          369,
+          371
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          175,
+          870,
+          872,
+          1597,
+          1635
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1208,
+          1209,
+          1641
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1186,
+          1643
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          974
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1210
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1467
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1524
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 5,
+        "line_hits": [
+          563,
+          1319,
+          1340,
+          1362,
+          2283
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          136,
+          137,
+          235,
+          1224,
+          2317
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          900,
+          1657,
+          2353
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          137,
+          235,
+          1098
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          387,
+          1418,
+          1659
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          792,
+          1665
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          137,
+          235
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          652
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          872
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 24,
+        "line_hits": [
+          13,
+          29,
+          49,
+          51,
+          102,
+          108,
+          110,
+          118,
+          122,
+          133,
+          153,
+          155,
+          179,
+          223,
+          235,
+          243,
+          290,
+          291,
+          1808,
+          2309,
+          2347,
+          2355,
+          2365,
+          2375
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          15,
+          241,
+          319,
+          1483
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          15,
+          57
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 44,
+        "line_hits": [
+          108,
+          110,
+          114,
+          118,
+          120,
+          122,
+          124,
+          141,
+          142,
+          143,
+          153,
+          155,
+          163,
+          171,
+          215,
+          224,
+          225,
+          226,
+          233,
+          239,
+          269,
+          285,
+          301,
+          327,
+          349,
+          1727,
+          1808,
+          1847,
+          1854,
+          1856,
+          1925,
+          1937,
+          1943,
+          1955,
+          1957,
+          1961,
+          1967,
+          1998,
+          2010,
+          2088,
+          2100,
+          2104,
+          2120,
+          2319
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 27,
+        "line_hits": [
+          122,
+          132,
+          136,
+          175,
+          177,
+          181,
+          185,
+          187,
+          191,
+          195,
+          199,
+          203,
+          205,
+          215,
+          235,
+          1182,
+          1192,
+          1541,
+          1681,
+          1729,
+          1735,
+          1756,
+          1760,
+          2361,
+          2373,
+          2383,
+          2515
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          403,
+          1180,
+          1189,
+          1190,
+          1683,
+          1757,
+          1758,
+          2305,
+          2315,
+          2319,
+          2345,
+          2353
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1178,
+          1188,
+          1687
+        ],
+        "name": "MSBE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2491
+        ],
+        "name": "MOSEL"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          1198,
+          1376
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          369
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1275
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1088
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1378
+        ],
+        "name": "NaBF4-NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "5beec3cfb257193bf25a6a3c9e76dc8573a3b5d6f0818517868ca0c0706fca0c",
+  "markdown_path": "pdf/ORNL-TM-4802/ORNL-TM-4802/hybrid_ocr/ORNL-TM-4802.md",
+  "report_number": "ORNL-TM-4802",
+  "report_numbers": [
+    "ORNL-TM-4802",
+    "ORNL-TM-3027",
+    "ORNL-4233",
+    "ORNL-TM-3595",
+    "ORNL-4951"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 268,
+  "sections": [
+    {
+      "anchor": "the-molten-salt-reactor-information-system",
+      "end_line": 8,
+      "heading": "The Molten-Salt Reactor Information System",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 12,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 14,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ornl-tm-4802",
+      "end_line": 38,
+      "heading": "Ornl-Tm-4802",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "the-molten-salt-reactor-information-system",
+      "end_line": 44,
+      "heading": "The Molten-Salt Reactor Information System",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "june-1975",
+      "end_line": 50,
+      "heading": "June 1975",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 56,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 60,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "u-s-energy-research-and-development-administration",
+      "end_line": 64,
+      "heading": "U.S. Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "contents",
+      "end_line": 66,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 68,
+      "heading": "Abstract 1",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 69,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "2-documents-and-information-stored-in-msris-2",
+      "end_line": 70,
+      "heading": "2. DOCUMENTS AND INFORMATION STORED IN MSRIS 2",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "3-searching-the-data-file-6",
+      "end_line": 75,
+      "heading": "3.Searching The Data File 6",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "4-preparation-of-information-for-msris-10",
+      "end_line": 82,
+      "heading": "4. PREPARATION OF INFORMATION FOR MSRIS 10",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "references-14",
+      "end_line": 84,
+      "heading": "REFERENCES 14",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "appendixes-15",
+      "end_line": 89,
+      "heading": "APPENDIXES 15",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "appendix-c-instructions-for-use-of-msris-from-an-interactive-computer-terminal-33",
+      "end_line": 99,
+      "heading": "Appendix C. Instructions for Use of MSRIS from an Interactive Computer Terminal 33",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 105,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 115,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "2-documents-and-information-stored-in-msris",
+      "end_line": 129,
+      "heading": "2. DOCUMENTS AND INFORMATION STORED IN MSRIS",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "1-header-mcd700019-authship",
+      "end_line": 133,
+      "heading": "1 <Header >Mcd700019 <Authship>",
+      "level": 2,
+      "start_line": 130
+    },
+    {
+      "anchor": "keyterms",
+      "end_line": 134,
+      "heading": "<Keyterms>",
+      "level": 2,
+      "start_line": 134
+    },
+    {
+      "anchor": "5-subj-cat-mcd-mdb-kab",
+      "end_line": 150,
+      "heading": "5 <Subj Cat>Mcd; Mdb; Kab",
+      "level": 2,
+      "start_line": 135
+    },
+    {
+      "anchor": "3-searching-the-data-file",
+      "end_line": 160,
+      "heading": "3. SEARCHING THE DATA FILE",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "searching-by-keywords",
+      "end_line": 168,
+      "heading": "Searching by Keywords",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "subject-categories",
+      "end_line": 178,
+      "heading": "Subject Categories",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "ornl-dwg75-3242",
+      "end_line": 180,
+      "heading": "Ornl-Dwg75-3242",
+      "level": 2,
+      "start_line": 179
+    },
+    {
+      "anchor": "m-msre",
+      "end_line": 216,
+      "heading": "M. Msre",
+      "level": 2,
+      "start_line": 181
+    },
+    {
+      "anchor": "4-preparation-of-information-for-msris",
+      "end_line": 236,
+      "heading": "4. PREPARATION OF INFORMATION FOR MSRIS",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "format-for-reference-information",
+      "end_line": 240,
+      "heading": "Format for Reference Information",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "usaec-report",
+      "end_line": 244,
+      "heading": "USAEC report",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "other-reports",
+      "end_line": 254,
+      "heading": "Other reports",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "journal-and-magazine-articles",
+      "end_line": 260,
+      "heading": "Journal and magazine articles",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "conference-papers",
+      "end_line": 264,
+      "heading": "Conference papers",
+      "level": 1,
+      "start_line": 261
+    },
+    {
+      "anchor": "abstracts",
+      "end_line": 272,
+      "heading": "Abstracts",
+      "level": 1,
+      "start_line": 265
+    },
+    {
+      "anchor": "choice-of-keywords",
+      "end_line": 282,
+      "heading": "Choice of Keywords",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "assignment-of-categories-and-accession-number",
+      "end_line": 286,
+      "heading": "Assignment of Categories and Accession Number",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "references",
+      "end_line": 292,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "appendixes",
+      "end_line": 296,
+      "heading": "Appendixes",
+      "level": 2,
+      "start_line": 293
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 298,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 297
+    },
+    {
+      "anchor": "msriskeywordlist",
+      "end_line": 302,
+      "heading": "MSRISKEYWORDLIST",
+      "level": 1,
+      "start_line": 299
+    },
+    {
+      "anchor": "a",
+      "end_line": 350,
+      "heading": "A",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "argon",
+      "end_line": 354,
+      "heading": "argon",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "b",
+      "end_line": 428,
+      "heading": "B",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "c",
+      "end_line": 608,
+      "heading": "C",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "d",
+      "end_line": 658,
+      "heading": "D",
+      "level": 1,
+      "start_line": 609
+    },
+    {
+      "anchor": "e",
+      "end_line": 715,
+      "heading": "E",
+      "level": 1,
+      "start_line": 659
+    },
+    {
+      "anchor": "f",
+      "end_line": 819,
+      "heading": "F",
+      "level": 1,
+      "start_line": 716
+    },
+    {
+      "anchor": "g",
+      "end_line": 875,
+      "heading": "G",
+      "level": 1,
+      "start_line": 820
+    },
+    {
+      "anchor": "h",
+      "end_line": 919,
+      "heading": "H",
+      "level": 1,
+      "start_line": 876
+    },
+    {
+      "anchor": "htgr",
+      "end_line": 941,
+      "heading": "Htgr",
+      "level": 2,
+      "start_line": 920
+    },
+    {
+      "anchor": "i",
+      "end_line": 943,
+      "heading": "I",
+      "level": 1,
+      "start_line": 942
+    },
+    {
+      "anchor": "iaea",
+      "end_line": 1029,
+      "heading": "Iaea",
+      "level": 2,
+      "start_line": 944
+    },
+    {
+      "anchor": "j",
+      "end_line": 1035,
+      "heading": "J",
+      "level": 1,
+      "start_line": 1030
+    },
+    {
+      "anchor": "k",
+      "end_line": 1041,
+      "heading": "K",
+      "level": 1,
+      "start_line": 1036
+    },
+    {
+      "anchor": "l",
+      "end_line": 1089,
+      "heading": "L",
+      "level": 1,
+      "start_line": 1042
+    },
+    {
+      "anchor": "lmfbr",
+      "end_line": 1105,
+      "heading": "Lmfbr",
+      "level": 2,
+      "start_line": 1090
+    },
+    {
+      "anchor": "lwbr",
+      "end_line": 1107,
+      "heading": "Lwbr",
+      "level": 2,
+      "start_line": 1106
+    },
+    {
+      "anchor": "m",
+      "end_line": 1187,
+      "heading": "M",
+      "level": 1,
+      "start_line": 1108
+    },
+    {
+      "anchor": "msbe",
+      "end_line": 1188,
+      "heading": "Msbe",
+      "level": 2,
+      "start_line": 1188
+    },
+    {
+      "anchor": "msbr",
+      "end_line": 1191,
+      "heading": "Msbr",
+      "level": 2,
+      "start_line": 1189
+    },
+    {
+      "anchor": "msre",
+      "end_line": 1192,
+      "heading": "Msre",
+      "level": 2,
+      "start_line": 1192
+    },
+    {
+      "anchor": "msrp",
+      "end_line": 1195,
+      "heading": "Msrp",
+      "level": 2,
+      "start_line": 1193
+    },
+    {
+      "anchor": "n",
+      "end_line": 1220,
+      "heading": "N",
+      "level": 1,
+      "start_line": 1196
+    },
+    {
+      "anchor": "0",
+      "end_line": 1256,
+      "heading": "0",
+      "level": 1,
+      "start_line": 1221
+    },
+    {
+      "anchor": "p",
+      "end_line": 1333,
+      "heading": "P",
+      "level": 1,
+      "start_line": 1257
+    },
+    {
+      "anchor": "s",
+      "end_line": 1445,
+      "heading": "S",
+      "level": 1,
+      "start_line": 1334
+    },
+    {
+      "anchor": "t",
+      "end_line": 1496,
+      "heading": "T",
+      "level": 1,
+      "start_line": 1446
+    },
+    {
+      "anchor": "w",
+      "end_line": 1508,
+      "heading": "W",
+      "level": 1,
+      "start_line": 1497
+    },
+    {
+      "anchor": "x",
+      "end_line": 1514,
+      "heading": "X",
+      "level": 1,
+      "start_line": 1509
+    },
+    {
+      "anchor": "y",
+      "end_line": 1520,
+      "heading": "Y",
+      "level": 1,
+      "start_line": 1515
+    },
+    {
+      "anchor": "z",
+      "end_line": 1526,
+      "heading": "Z",
+      "level": 1,
+      "start_line": 1521
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1528,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 1527
+    },
+    {
+      "anchor": "subject-categories-in-msris",
+      "end_line": 1540,
+      "heading": "SUBJECT CATEGORIES IN MSRIS",
+      "level": 1,
+      "start_line": 1529
+    },
+    {
+      "anchor": "aca-msre",
+      "end_line": 1680,
+      "heading": "Aca Msre",
+      "level": 2,
+      "start_line": 1541
+    },
+    {
+      "anchor": "iab-msre",
+      "end_line": 1686,
+      "heading": "Iab Msre",
+      "level": 2,
+      "start_line": 1681
+    },
+    {
+      "anchor": "iae-msbe",
+      "end_line": 1726,
+      "heading": "Iae Msbe",
+      "level": 2,
+      "start_line": 1687
+    },
+    {
+      "anchor": "kaa-are",
+      "end_line": 1728,
+      "heading": "Kaa Are",
+      "level": 2,
+      "start_line": 1727
+    },
+    {
+      "anchor": "kab-msre",
+      "end_line": 1759,
+      "heading": "Kab Msre",
+      "level": 2,
+      "start_line": 1729
+    },
+    {
+      "anchor": "m-msre",
+      "end_line": 1801,
+      "heading": "M Msre",
+      "level": 2,
+      "start_line": 1760
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 1803,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 1802
+    },
+    {
+      "anchor": "instructions-for-use-of-msris-from-an",
+      "end_line": 1805,
+      "heading": "INSTRUCTIONS FOR USE OF MSRIS FROM AN",
+      "level": 1,
+      "start_line": 1804
+    },
+    {
+      "anchor": "interactive-computer-terminal",
+      "end_line": 1822,
+      "heading": "INTERACTIVE COMPUTER TERMINAL",
+      "level": 1,
+      "start_line": 1806
+    },
+    {
+      "anchor": "obtaining-terminal-connection-to-computer",
+      "end_line": 1861,
+      "heading": "Obtaining Terminal Connection to Computer",
+      "level": 1,
+      "start_line": 1823
+    },
+    {
+      "anchor": "logging-on-and-off-for-msris-see-example-1",
+      "end_line": 1874,
+      "heading": "Logging On and Off for MSRIS (See Example 1)",
+      "level": 1,
+      "start_line": 1862
+    },
+    {
+      "anchor": "database-public-private-other-stop",
+      "end_line": 1880,
+      "heading": "Database Public/Private/Other/Stop?",
+      "level": 2,
+      "start_line": 1875
+    },
+    {
+      "anchor": "select-file",
+      "end_line": 1886,
+      "heading": "Select File #:",
+      "level": 2,
+      "start_line": 1881
+    },
+    {
+      "anchor": "4-molten-salt-reactor-information-file",
+      "end_line": 1888,
+      "heading": "4 MOLTEN SALT REACTOR INFORMATION FILE",
+      "level": 2,
+      "start_line": 1887
+    },
+    {
+      "anchor": "orlook-ready",
+      "end_line": 1896,
+      "heading": "Orlook Ready",
+      "level": 2,
+      "start_line": 1889
+    },
+    {
+      "anchor": "stop",
+      "end_line": 1900,
+      "heading": "Stop",
+      "level": 2,
+      "start_line": 1897
+    },
+    {
+      "anchor": "end-orlook-session",
+      "end_line": 1906,
+      "heading": "End Orlook Session",
+      "level": 2,
+      "start_line": 1901
+    },
+    {
+      "anchor": "ready",
+      "end_line": 1910,
+      "heading": "Ready",
+      "level": 2,
+      "start_line": 1907
+    },
+    {
+      "anchor": "logoff",
+      "end_line": 1918,
+      "heading": "Logoff",
+      "level": 2,
+      "start_line": 1911
+    },
+    {
+      "anchor": "elementary-search-of-the-msris-file-see-example-2",
+      "end_line": 1922,
+      "heading": "Elementary Search of the MSRIS File (See Example 2)",
+      "level": 1,
+      "start_line": 1919
+    },
+    {
+      "anchor": "look",
+      "end_line": 1926,
+      "heading": "Look",
+      "level": 2,
+      "start_line": 1923
+    },
+    {
+      "anchor": "searchingsubsetno-0",
+      "end_line": 1930,
+      "heading": "Searchingsubsetno.0",
+      "level": 2,
+      "start_line": 1927
+    },
+    {
+      "anchor": "documents-in-file",
+      "end_line": 1932,
+      "heading": "...Documents In File",
+      "level": 2,
+      "start_line": 1931
+    },
+    {
+      "anchor": "answers-in-subset-no-1",
+      "end_line": 1934,
+      "heading": "Answers In Subset No. 1",
+      "level": 2,
+      "start_line": 1933
+    },
+    {
+      "anchor": "documents-in-result",
+      "end_line": 1940,
+      "heading": "...Documents In Result",
+      "level": 2,
+      "start_line": 1935
+    },
+    {
+      "anchor": "selective-search-for-documents-by-field-labels-and-selective-print-see-example-3",
+      "end_line": 1958,
+      "heading": "Selective Search for Documents by Field Labels and Selective Print (See Example 3)",
+      "level": 1,
+      "start_line": 1941
+    },
+    {
+      "anchor": "list-au-ti-a",
+      "end_line": 1962,
+      "heading": ".List Au, Ti, A",
+      "level": 2,
+      "start_line": 1959
+    },
+    {
+      "anchor": "list-8-au-ti-a",
+      "end_line": 1974,
+      "heading": ".List 8,Au,Ti,A",
+      "level": 2,
+      "start_line": 1963
+    },
+    {
+      "anchor": "end",
+      "end_line": 1979,
+      "heading": ".End",
+      "level": 2,
+      "start_line": 1975
+    },
+    {
+      "anchor": "look-y",
+      "end_line": 1980,
+      "heading": ". Look 'Y'",
+      "level": 2,
+      "start_line": 1980
+    },
+    {
+      "anchor": "end",
+      "end_line": 1986,
+      "heading": ".End",
+      "level": 2,
+      "start_line": 1981
+    },
+    {
+      "anchor": "look-not-y",
+      "end_line": 1987,
+      "heading": ". Look Not 'Y'",
+      "level": 2,
+      "start_line": 1987
+    },
+    {
+      "anchor": "end",
+      "end_line": 1993,
+      "heading": ".End",
+      "level": 2,
+      "start_line": 1988
+    },
+    {
+      "anchor": "look-heat-transfer",
+      "end_line": 1994,
+      "heading": ". Look 'Heat Transfer'",
+      "level": 2,
+      "start_line": 1994
+    },
+    {
+      "anchor": "look-not-au-mccoy",
+      "end_line": 1995,
+      "heading": ". Look Not <Au> = 'Mccoy'",
+      "level": 2,
+      "start_line": 1995
+    },
+    {
+      "anchor": "end",
+      "end_line": 1999,
+      "heading": ".End",
+      "level": 2,
+      "start_line": 1996
+    },
+    {
+      "anchor": "correcting-errors-in-search-commands",
+      "end_line": 2003,
+      "heading": "Correcting Errors in Search Commands",
+      "level": 1,
+      "start_line": 2000
+    },
+    {
+      "anchor": "efficient-search-strategies",
+      "end_line": 2007,
+      "heading": "Efficient Search Strategies",
+      "level": 1,
+      "start_line": 2004
+    },
+    {
+      "anchor": "browsing-see-example-5",
+      "end_line": 2021,
+      "heading": "Browsing (See Example 5)",
+      "level": 1,
+      "start_line": 2008
+    },
+    {
+      "anchor": "end",
+      "end_line": 2035,
+      "heading": ".End",
+      "level": 2,
+      "start_line": 2022
+    },
+    {
+      "anchor": "end",
+      "end_line": 2045,
+      "heading": ".End",
+      "level": 2,
+      "start_line": 2036
+    },
+    {
+      "anchor": "end",
+      "end_line": 2051,
+      "heading": ".End",
+      "level": 2,
+      "start_line": 2046
+    },
+    {
+      "anchor": "combine-1-and-2",
+      "end_line": 2055,
+      "heading": ".Combine 1 And 2",
+      "level": 2,
+      "start_line": 2052
+    },
+    {
+      "anchor": "combine1or2",
+      "end_line": 2059,
+      "heading": ".Combine1Or2",
+      "level": 2,
+      "start_line": 2056
+    },
+    {
+      "anchor": "combine-1-not-2",
+      "end_line": 2065,
+      "heading": ".Combine 1 Not 2",
+      "level": 2,
+      "start_line": 2060
+    },
+    {
+      "anchor": "print",
+      "end_line": 2069,
+      "heading": "Print",
+      "level": 2,
+      "start_line": 2066
+    },
+    {
+      "anchor": "definitive-searches",
+      "end_line": 2075,
+      "heading": "Definitive searches",
+      "level": 1,
+      "start_line": 2070
+    },
+    {
+      "anchor": "auxiliary-operations",
+      "end_line": 2081,
+      "heading": "Auxiliary Operations",
+      "level": 1,
+      "start_line": 2076
+    },
+    {
+      "anchor": "request",
+      "end_line": 2093,
+      "heading": "- REQUEST",
+      "level": 1,
+      "start_line": 2082
+    },
+    {
+      "anchor": "key-field-label",
+      "end_line": 2097,
+      "heading": "KEY FIELD LABEL?",
+      "level": 1,
+      "start_line": 2094
+    },
+    {
+      "anchor": "keywords-selected",
+      "end_line": 2101,
+      "heading": "KEYWORDS SELECTED",
+      "level": 1,
+      "start_line": 2098
+    },
+    {
+      "anchor": "look-1",
+      "end_line": 2105,
+      "heading": "Look 1",
+      "level": 2,
+      "start_line": 2102
+    },
+    {
+      "anchor": "terminal-controls",
+      "end_line": 2109,
+      "heading": "Terminal controls",
+      "level": 1,
+      "start_line": 2106
+    },
+    {
+      "anchor": "line-terminal",
+      "end_line": 2113,
+      "heading": ".Line Terminal, - - -",
+      "level": 2,
+      "start_line": 2110
+    },
+    {
+      "anchor": "line-printer",
+      "end_line": 2121,
+      "heading": ".Line Printer, -",
+      "level": 2,
+      "start_line": 2114
+    },
+    {
+      "anchor": "glossary-of-orlook-commands-for-msris",
+      "end_line": 2123,
+      "heading": "Glossary of ORLOOK Commands for MSRIS",
+      "level": 1,
+      "start_line": 2122
+    },
+    {
+      "anchor": "to-begin-and-end-a-session",
+      "end_line": 2127,
+      "heading": "To begin and end a session",
+      "level": 1,
+      "start_line": 2124
+    },
+    {
+      "anchor": "to-conduct-searches",
+      "end_line": 2131,
+      "heading": "To conduct searches",
+      "level": 1,
+      "start_line": 2128
+    },
+    {
+      "anchor": "to-define-reference-sets-to-be-searched",
+      "end_line": 2139,
+      "heading": "To define reference sets to be searched",
+      "level": 1,
+      "start_line": 2132
+    },
+    {
+      "anchor": "example-1",
+      "end_line": 2147,
+      "heading": "Example 1",
+      "level": 1,
+      "start_line": 2140
+    },
+    {
+      "anchor": "ikj56700a-enter-userid",
+      "end_line": 2151,
+      "heading": "Ikj56700A Enter Userid -",
+      "level": 2,
+      "start_line": 2148
+    },
+    {
+      "anchor": "enter-password-for",
+      "end_line": 2155,
+      "heading": "Enter Password For",
+      "level": 2,
+      "start_line": 2152
+    },
+    {
+      "anchor": "logon-in-progress-at-13-35-11-on-april-17-1975",
+      "end_line": 2159,
+      "heading": "Logon In Progress At 13:35:11 On April 17, 1975",
+      "level": 2,
+      "start_line": 2156
+    },
+    {
+      "anchor": "ready",
+      "end_line": 2163,
+      "heading": "Ready",
+      "level": 2,
+      "start_line": 2160
+    },
+    {
+      "anchor": "date-04-17-75-time-now-13-36-27",
+      "end_line": 2165,
+      "heading": "Date $= 04 - 17 - 75$ Time Now $= 13.36.27$",
+      "level": 2,
+      "start_line": 2164
+    },
+    {
+      "anchor": "3-5-75-welcome-to-orlook-call-3-6097-if-problems-arise",
+      "end_line": 2167,
+      "heading": "++++ 3-5-75 ++++ Welcome To Orlook, Call 3-6097 If Problems Arise",
+      "level": 2,
+      "start_line": 2166
+    },
+    {
+      "anchor": "database-public-private-other-stop-public",
+      "end_line": 2169,
+      "heading": "Database Public/Private/Other/Stop?Public",
+      "level": 2,
+      "start_line": 2168
+    },
+    {
+      "anchor": "file",
+      "end_line": 2171,
+      "heading": "FILE",
+      "level": 1,
+      "start_line": 2170
+    },
+    {
+      "anchor": "database",
+      "end_line": 2173,
+      "heading": "DATABASE",
+      "level": 1,
+      "start_line": 2172
+    },
+    {
+      "anchor": "1-forestry-source-file-i",
+      "end_line": 2174,
+      "heading": "1 FORESTRY SOURCE FILE I",
+      "level": 2,
+      "start_line": 2174
+    },
+    {
+      "anchor": "2-ibp-abstract",
+      "end_line": 2175,
+      "heading": "2 IBP ABSTRACT",
+      "level": 2,
+      "start_line": 2175
+    },
+    {
+      "anchor": "3-coal-technology-library-file",
+      "end_line": 2176,
+      "heading": "3 COAL TECHNOLOGY LIBRARY FILE",
+      "level": 2,
+      "start_line": 2176
+    },
+    {
+      "anchor": "4-molten-salt-reactor-information-file",
+      "end_line": 2177,
+      "heading": "4 MOLTEN SALT REACTOR INFORMATION FILE",
+      "level": 2,
+      "start_line": 2177
+    },
+    {
+      "anchor": "5-urban-technology",
+      "end_line": 2178,
+      "heading": "5 URBAN TECHNOLOGY",
+      "level": 2,
+      "start_line": 2178
+    },
+    {
+      "anchor": "6-modeling-bi",
+      "end_line": 2180,
+      "heading": "6 Modeling Bi!",
+      "level": 2,
+      "start_line": 2179
+    },
+    {
+      "anchor": "selectfile-4",
+      "end_line": 2182,
+      "heading": "Selectfile#:4",
+      "level": 2,
+      "start_line": 2181
+    },
+    {
+      "anchor": "4-molten-salt-reactor-information-file",
+      "end_line": 2184,
+      "heading": "4 MOLTEN SALT REACTOR INFORMATION FILE",
+      "level": 2,
+      "start_line": 2183
+    },
+    {
+      "anchor": "orlook-ready",
+      "end_line": 2188,
+      "heading": "Orlook Ready",
+      "level": 2,
+      "start_line": 2185
+    },
+    {
+      "anchor": "end-urlook-session",
+      "end_line": 2190,
+      "heading": "End Urlook Session",
+      "level": 2,
+      "start_line": 2189
+    },
+    {
+      "anchor": "cpu-sec-used-3-40-lapsed-hr-min-sec-00-04-28",
+      "end_line": 2192,
+      "heading": "Cpu(Sec) Used = 3.40 Lapsed (Hr.Min.Sec) = 00.04.28",
+      "level": 2,
+      "start_line": 2191
+    },
+    {
+      "anchor": "time-now-13-40-55",
+      "end_line": 2194,
+      "heading": "Time Now = 13.40.55",
+      "level": 2,
+      "start_line": 2193
+    },
+    {
+      "anchor": "ready",
+      "end_line": 2198,
+      "heading": "Ready",
+      "level": 2,
+      "start_line": 2195
+    },
+    {
+      "anchor": "logged-off-tso-at-13-41-50-on-april-17-1975",
+      "end_line": 2200,
+      "heading": "Logged Off Tso At 13:41:50 On April 17, 1975+",
+      "level": 2,
+      "start_line": 2199
+    },
+    {
+      "anchor": "example-1",
+      "end_line": 2206,
+      "heading": "Example 1",
+      "level": 1,
+      "start_line": 2201
+    },
+    {
+      "anchor": "logon",
+      "end_line": 2208,
+      "heading": "Logon",
+      "level": 2,
+      "start_line": 2207
+    },
+    {
+      "anchor": "ikjs6700a-enter-userid",
+      "end_line": 2212,
+      "heading": "Ikjs6700A Enter Userid -",
+      "level": 2,
+      "start_line": 2209
+    },
+    {
+      "anchor": "enter-password-for",
+      "end_line": 2216,
+      "heading": "Enter Password For",
+      "level": 2,
+      "start_line": 2213
+    },
+    {
+      "anchor": "logon-in-progress-at-17-20-11-on-march-11-1975",
+      "end_line": 2218,
+      "heading": "Logon In Progress At 17:20:11 On March 11, 1975",
+      "level": 2,
+      "start_line": 2217
+    },
+    {
+      "anchor": "10-21-74-ts0-phone-n05-s741-31001-31021-31041-tty-31011-10cps",
+      "end_line": 2220,
+      "heading": "10/21/74 Ts0 Phone N05.- S741: 31001, 31021, 31041; Tty: 31011 (10Cps),",
+      "level": 2,
+      "start_line": 2219
+    },
+    {
+      "anchor": "31051-30-cps",
+      "end_line": 2222,
+      "heading": "31051 (30 Cps)",
+      "level": 2,
+      "start_line": 2221
+    },
+    {
+      "anchor": "8-15-74-new-command-procedure-squish-now-available-type-ornlts0-squish",
+      "end_line": 2224,
+      "heading": "8/15/74 New Command Procedure Squish Now Available. Type Ornlts0 Squish.",
+      "level": 2,
+      "start_line": 2223
+    },
+    {
+      "anchor": "showfailed-nocatalogentriesfoundfor",
+      "end_line": 2226,
+      "heading": "Showfailed-Nocatalogentriesfoundfor",
+      "level": 2,
+      "start_line": 2225
+    },
+    {
+      "anchor": "ready",
+      "end_line": 2228,
+      "heading": "Ready",
+      "level": 2,
+      "start_line": 2227
+    },
+    {
+      "anchor": "orlok",
+      "end_line": 2230,
+      "heading": "Orlok",
+      "level": 2,
+      "start_line": 2229
+    },
+    {
+      "anchor": "date-03-11-75-time-now-17-21-01",
+      "end_line": 2232,
+      "heading": "Date $= 03 - 11 - 75$ Time Now $= 17.21.01$",
+      "level": 2,
+      "start_line": 2231
+    },
+    {
+      "anchor": "3-5-75-wflcomf-to-orl0ok-call-3-1604-if-problems-arise",
+      "end_line": 2234,
+      "heading": "+++ 3-5-75 ++++ Wflcomf To Orl0Ok, Call 3-1604 If Problems Arise",
+      "level": 2,
+      "start_line": 2233
+    },
+    {
+      "anchor": "database-public-private-other-stop-public",
+      "end_line": 2236,
+      "heading": "Database Public/Private/Other/Stop?Public",
+      "level": 2,
+      "start_line": 2235
+    },
+    {
+      "anchor": "file-database",
+      "end_line": 2238,
+      "heading": "File# Database",
+      "level": 2,
+      "start_line": 2237
+    },
+    {
+      "anchor": "1-forestry-source-file-i",
+      "end_line": 2239,
+      "heading": "1 FORESTRY SOURCE FILE I",
+      "level": 2,
+      "start_line": 2239
+    },
+    {
+      "anchor": "2-ibp-abstract",
+      "end_line": 2240,
+      "heading": "2 IBP ABSTRACT",
+      "level": 2,
+      "start_line": 2240
+    },
+    {
+      "anchor": "3-coal-technology-library-file",
+      "end_line": 2241,
+      "heading": "3 COAL TECHNOLOGY LIBRARY FILE",
+      "level": 2,
+      "start_line": 2241
+    },
+    {
+      "anchor": "4-molten-salt-reactor-information-file",
+      "end_line": 2242,
+      "heading": "4 MOLTEN SALT REACTOR INFORMATION FILE",
+      "level": 2,
+      "start_line": 2242
+    },
+    {
+      "anchor": "5-urban-tech",
+      "end_line": 2244,
+      "heading": "5 Urban Tech!",
+      "level": 2,
+      "start_line": 2243
+    },
+    {
+      "anchor": "selectfile-84",
+      "end_line": 2246,
+      "heading": "Selectfile#84",
+      "level": 2,
+      "start_line": 2245
+    },
+    {
+      "anchor": "4-moltfn-salt-reactor-information-file",
+      "end_line": 2248,
+      "heading": "4 MOLTFN SALT REACTOR INFORMATION FILE",
+      "level": 2,
+      "start_line": 2247
+    },
+    {
+      "anchor": "orlook-ready",
+      "end_line": 2250,
+      "heading": "Orlook Ready",
+      "level": 2,
+      "start_line": 2249
+    },
+    {
+      "anchor": "stop",
+      "end_line": 2252,
+      "heading": "- Stop",
+      "level": 2,
+      "start_line": 2251
+    },
+    {
+      "anchor": "end-orl0ok-session",
+      "end_line": 2254,
+      "heading": "End Orl0Ok Session",
+      "level": 2,
+      "start_line": 2253
+    },
+    {
+      "anchor": "cpu-sec-used-3-00-lapsfd-hr-min-sec-00-01-31",
+      "end_line": 2256,
+      "heading": "Cpu（Sec）Used $= 3.00$ Lapsfd（Hr·Min·Sec） $= 00.01.31$",
+      "level": 2,
+      "start_line": 2255
+    },
+    {
+      "anchor": "time-now-17-22-32",
+      "end_line": 2258,
+      "heading": "Time Now = 17.22.32",
+      "level": 2,
+      "start_line": 2257
+    },
+    {
+      "anchor": "ready",
+      "end_line": 2260,
+      "heading": "Ready",
+      "level": 2,
+      "start_line": 2259
+    },
+    {
+      "anchor": "l0g0ff",
+      "end_line": 2262,
+      "heading": "L0G0Ff",
+      "level": 2,
+      "start_line": 2261
+    },
+    {
+      "anchor": "logged-off-ts0-at-17-23-07-on-march-11-1975",
+      "end_line": 2264,
+      "heading": "Logged Off Ts0 At 17:23:07 On March 11, 1975+",
+      "level": 2,
+      "start_line": 2263
+    },
+    {
+      "anchor": "r",
+      "end_line": 2266,
+      "heading": "$> R$",
+      "level": 2,
+      "start_line": 2265
+    },
+    {
+      "anchor": "example-2",
+      "end_line": 2274,
+      "heading": "Example 2",
+      "level": 1,
+      "start_line": 2267
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2276,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2275
+    },
+    {
+      "anchor": "373-documents-in-file",
+      "end_line": 2278,
+      "heading": "373 DOCUMENTS IN FILE",
+      "level": 2,
+      "start_line": 2277
+    },
+    {
+      "anchor": "answers-in-subset-1",
+      "end_line": 2280,
+      "heading": "Answers In Subset # 1",
+      "level": 2,
+      "start_line": 2279
+    },
+    {
+      "anchor": "22-documents-in-result",
+      "end_line": 2286,
+      "heading": "22 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2281
+    },
+    {
+      "anchor": "searchingsubset-1",
+      "end_line": 2288,
+      "heading": "Searchingsubset#1",
+      "level": 2,
+      "start_line": 2287
+    },
+    {
+      "anchor": "answers-in-subset-2",
+      "end_line": 2290,
+      "heading": "Answers In Subset # 2",
+      "level": 2,
+      "start_line": 2289
+    },
+    {
+      "anchor": "5-documents-in-result",
+      "end_line": 2294,
+      "heading": "5 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2291
+    },
+    {
+      "anchor": "subset-2",
+      "end_line": 2298,
+      "heading": "\\*\\*\\*Subset#2\\*\\*\\*",
+      "level": 2,
+      "start_line": 2295
+    },
+    {
+      "anchor": "header-aax670010",
+      "end_line": 2300,
+      "heading": "<Header >Aax670010",
+      "level": 2,
+      "start_line": 2299
+    },
+    {
+      "anchor": "authship",
+      "end_line": 2304,
+      "heading": "<Authship>",
+      "level": 2,
+      "start_line": 2301
+    },
+    {
+      "anchor": "title-safety-program-for-molten-salt-breeder-reactors",
+      "end_line": 2306,
+      "heading": "<Title >Safety Program For Molten-Salt Breeder Reactors",
+      "level": 2,
+      "start_line": 2305
+    },
+    {
+      "anchor": "referenc",
+      "end_line": 2310,
+      "heading": "<Referenc>",
+      "level": 2,
+      "start_line": 2307
+    },
+    {
+      "anchor": "keyterms",
+      "end_line": 2312,
+      "heading": "<Keyterms>",
+      "level": 2,
+      "start_line": 2311
+    },
+    {
+      "anchor": "subj-cat-aax-bgx",
+      "end_line": 2320,
+      "heading": "<Subj Cat>Aax; Bgx",
+      "level": 2,
+      "start_line": 2313
+    },
+    {
+      "anchor": "example-3",
+      "end_line": 2330,
+      "heading": "Example 3",
+      "level": 1,
+      "start_line": 2321
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2332,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2331
+    },
+    {
+      "anchor": "answers-in-subset-3",
+      "end_line": 2334,
+      "heading": "Answers In Subset # 3",
+      "level": 2,
+      "start_line": 2333
+    },
+    {
+      "anchor": "4-documents-in-result",
+      "end_line": 2338,
+      "heading": "4 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2335
+    },
+    {
+      "anchor": "subset-3",
+      "end_line": 2352,
+      "heading": "\\*\\*\\*\\*Subset#3\\*\\*\\*",
+      "level": 2,
+      "start_line": 2339
+    },
+    {
+      "anchor": "title-thermal-radiation-transfer-of-after-heat-in-msbr-heat-exchangers",
+      "end_line": 2360,
+      "heading": "<Title >Thermal Radiation Transfer Of After Heat In Msbr Heat Exchangers",
+      "level": 2,
+      "start_line": 2353
+    },
+    {
+      "anchor": "title-nuclear-and-process-instrumentation-part-iia-msre-design-and",
+      "end_line": 2362,
+      "heading": "<Title >Nuclear And Process Instrumentation -- Part Iia, Msre Design And",
+      "level": 2,
+      "start_line": 2361
+    },
+    {
+      "anchor": "operations-report",
+      "end_line": 2376,
+      "heading": "Operations Report",
+      "level": 2,
+      "start_line": 2363
+    },
+    {
+      "anchor": "endlist",
+      "end_line": 2384,
+      "heading": "\\*\\*\\*Endlist",
+      "level": 2,
+      "start_line": 2377
+    },
+    {
+      "anchor": "example-4",
+      "end_line": 2392,
+      "heading": "Example 4",
+      "level": 1,
+      "start_line": 2385
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2394,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2393
+    },
+    {
+      "anchor": "373-documents-in-file",
+      "end_line": 2396,
+      "heading": "373 DOCUMENTS IN FILE",
+      "level": 2,
+      "start_line": 2395
+    },
+    {
+      "anchor": "answers-in-subset-1",
+      "end_line": 2398,
+      "heading": "Answers In Subset # 1",
+      "level": 2,
+      "start_line": 2397
+    },
+    {
+      "anchor": "1-documents-in-result",
+      "end_line": 2408,
+      "heading": "1 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2399
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2410,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2409
+    },
+    {
+      "anchor": "answers-in-subset-2",
+      "end_line": 2412,
+      "heading": "Answers In Subset # 2",
+      "level": 2,
+      "start_line": 2411
+    },
+    {
+      "anchor": "35-documents-in-result",
+      "end_line": 2422,
+      "heading": "35 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2413
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2424,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2423
+    },
+    {
+      "anchor": "answers-in-subset-3",
+      "end_line": 2426,
+      "heading": "Answers In Subset # 3",
+      "level": 2,
+      "start_line": 2425
+    },
+    {
+      "anchor": "18-documents-in-result",
+      "end_line": 2436,
+      "heading": "18 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2427
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2438,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2437
+    },
+    {
+      "anchor": "answers-in-subset-4",
+      "end_line": 2440,
+      "heading": "Answers In Subset # 4",
+      "level": 2,
+      "start_line": 2439
+    },
+    {
+      "anchor": "22-documents-in-result",
+      "end_line": 2442,
+      "heading": "22 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2441
+    },
+    {
+      "anchor": "example-5",
+      "end_line": 2452,
+      "heading": "Example 5",
+      "level": 1,
+      "start_line": 2443
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2454,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2453
+    },
+    {
+      "anchor": "answers-in-subset-6",
+      "end_line": 2456,
+      "heading": "Answers In Subset # 6",
+      "level": 2,
+      "start_line": 2455
+    },
+    {
+      "anchor": "39-documents-in-result",
+      "end_line": 2462,
+      "heading": "39 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2457
+    },
+    {
+      "anchor": "searchingsubset-6",
+      "end_line": 2464,
+      "heading": "Searchingsubset#6",
+      "level": 2,
+      "start_line": 2463
+    },
+    {
+      "anchor": "answers-in-subset-7",
+      "end_line": 2466,
+      "heading": "Answers In Subset # 7",
+      "level": 2,
+      "start_line": 2465
+    },
+    {
+      "anchor": "9-documents-in-result",
+      "end_line": 2476,
+      "heading": "9 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2467
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2478,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2477
+    },
+    {
+      "anchor": "answers-in-subset-8",
+      "end_line": 2480,
+      "heading": "Answers In Subset # 8",
+      "level": 2,
+      "start_line": 2479
+    },
+    {
+      "anchor": "2-documents-in-result",
+      "end_line": 2484,
+      "heading": "2 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2481
+    },
+    {
+      "anchor": "subset-8",
+      "end_line": 2490,
+      "heading": "\\*\\*\\*\\*Subset#8\\*\\*\\*\\*",
+      "level": 2,
+      "start_line": 2485
+    },
+    {
+      "anchor": "title-cooling-concepts-for-a-compact-mosel-molten-salt-reactor",
+      "end_line": 2496,
+      "heading": "<Title >Cooling Concepts For A Compact Mosel (Molten Salt) Reactor",
+      "level": 2,
+      "start_line": 2491
+    },
+    {
+      "anchor": "title-holten-salt-for-heat-transfer",
+      "end_line": 2498,
+      "heading": "<Title >Holten Salt For Heat Transfer",
+      "level": 2,
+      "start_line": 2497
+    },
+    {
+      "anchor": "end-list",
+      "end_line": 2500,
+      "heading": "*** End List",
+      "level": 2,
+      "start_line": 2499
+    },
+    {
+      "anchor": "example-6",
+      "end_line": 2508,
+      "heading": "Example 6",
+      "level": 1,
+      "start_line": 2501
+    },
+    {
+      "anchor": "373-documents-in-file",
+      "end_line": 2510,
+      "heading": "373 DOCUMENTS IN FILE",
+      "level": 2,
+      "start_line": 2509
+    },
+    {
+      "anchor": "answers-in-subset-1",
+      "end_line": 2512,
+      "heading": "Answers In Subset # 1",
+      "level": 2,
+      "start_line": 2511
+    },
+    {
+      "anchor": "69-documents-in-result",
+      "end_line": 2518,
+      "heading": "69 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2513
+    },
+    {
+      "anchor": "searchingsubset-1",
+      "end_line": 2520,
+      "heading": "Searchingsubset#1",
+      "level": 2,
+      "start_line": 2519
+    },
+    {
+      "anchor": "answers-in-subset-2",
+      "end_line": 2522,
+      "heading": "Answers In Subset # 2",
+      "level": 2,
+      "start_line": 2521
+    },
+    {
+      "anchor": "41-documents-in-result",
+      "end_line": 2530,
+      "heading": "41 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2523
+    },
+    {
+      "anchor": "searchingsubset-0",
+      "end_line": 2532,
+      "heading": "Searchingsubset#0",
+      "level": 2,
+      "start_line": 2531
+    },
+    {
+      "anchor": "answers-in-subset-3",
+      "end_line": 2534,
+      "heading": "Answers In Subset # 3",
+      "level": 2,
+      "start_line": 2533
+    },
+    {
+      "anchor": "84-documents-in-result",
+      "end_line": 2538,
+      "heading": "84 DOCUMENTS IN RESULT",
+      "level": 2,
+      "start_line": 2535
+    },
+    {
+      "anchor": "answers-in-subset-4",
+      "end_line": 2540,
+      "heading": "Answers In Subset # 4",
+      "level": 2,
+      "start_line": 2539
+    },
+    {
+      "anchor": "24-documents-in-combined-result",
+      "end_line": 2544,
+      "heading": "24 DOCUMENTS IN COMBINED RESULT",
+      "level": 2,
+      "start_line": 2541
+    },
+    {
+      "anchor": "answers-in-subset-5",
+      "end_line": 2546,
+      "heading": "Answers In Subset # 5",
+      "level": 2,
+      "start_line": 2545
+    },
+    {
+      "anchor": "101-documents-in-combined-result",
+      "end_line": 2550,
+      "heading": "101 DOCUMENTS IN COMBINED RESULT",
+      "level": 2,
+      "start_line": 2547
+    },
+    {
+      "anchor": "answers-in-subset-6",
+      "end_line": 2552,
+      "heading": "Answers In Subset # 6",
+      "level": 2,
+      "start_line": 2551
+    },
+    {
+      "anchor": "17-documents-in-combined-result",
+      "end_line": 2556,
+      "heading": "17 DOCUMENTS IN COMBINED RESULT",
+      "level": 2,
+      "start_line": 2553
+    },
+    {
+      "anchor": "answers-in-subset-7",
+      "end_line": 2558,
+      "heading": "Answers In Subset # 7",
+      "level": 2,
+      "start_line": 2557
+    },
+    {
+      "anchor": "60-documents-in-combined-result",
+      "end_line": 2564,
+      "heading": "60 DOCUMENTS IN COMBINED RESULT",
+      "level": 2,
+      "start_line": 2559
+    },
+    {
+      "anchor": "printed",
+      "end_line": 2568,
+      "heading": "Printed",
+      "level": 2,
+      "start_line": 2565
+    },
+    {
+      "anchor": "example-7",
+      "end_line": 2578,
+      "heading": "Example 7",
+      "level": 1,
+      "start_line": 2569
+    },
+    {
+      "anchor": "example-8",
+      "end_line": 2588,
+      "heading": "Example 8",
+      "level": 1,
+      "start_line": 2579
+    },
+    {
+      "anchor": "end-orlook-session",
+      "end_line": 2590,
+      "heading": "End Orlook Session",
+      "level": 2,
+      "start_line": 2589
+    },
+    {
+      "anchor": "cpu-sec-used-52-66-lapsed-hr-min-sec-00-48-10",
+      "end_line": 2592,
+      "heading": "Cpu(Sec) Used = 52.66 Lapsed (Hr.Min.Sec) = 00.48.10",
+      "level": 2,
+      "start_line": 2591
+    },
+    {
+      "anchor": "time-now-14-51-50",
+      "end_line": 2596,
+      "heading": "Time Now = 14.51.50",
+      "level": 2,
+      "start_line": 2593
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2804,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 2597
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2813,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 2805
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4802",
+  "tables": [],
+  "title": "The Molten-Salt Reactor Information System",
+  "topics": [
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "instrumentation-and-controls",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

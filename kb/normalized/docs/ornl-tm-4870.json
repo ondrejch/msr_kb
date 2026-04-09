@@ -1,0 +1,796 @@
+{
+  "authors": [
+    "J.R.Hightower",
+    "Jr.",
+    "National Technical Information Service",
+    "U.S. Department of Commerce"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4870.jsonl",
+  "date_text": "December 1968",
+  "doc_id": "ornl-tm-4870",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          136,
+          175,
+          362,
+          364,
+          366
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          225,
+          227,
+          231,
+          273
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          392
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          410
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 6,
+        "line_hits": [
+          625,
+          673,
+          678,
+          682,
+          738,
+          749
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          616,
+          626,
+          682,
+          722
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          199
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 30,
+        "line_hits": [
+          13,
+          29,
+          57,
+          75,
+          77,
+          79,
+          81,
+          85,
+          87,
+          89,
+          91,
+          93,
+          95,
+          97,
+          630,
+          638,
+          700,
+          755,
+          756,
+          757,
+          758,
+          759,
+          761,
+          762,
+          763,
+          764,
+          765,
+          766,
+          768,
+          884
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          63
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 30,
+        "line_hits": [
+          73,
+          199,
+          201,
+          217,
+          221,
+          315,
+          329,
+          358,
+          386,
+          396,
+          410,
+          423,
+          469,
+          495,
+          507,
+          531,
+          555,
+          557,
+          614,
+          616,
+          620,
+          673,
+          675,
+          684,
+          734,
+          738,
+          742,
+          744,
+          749,
+          751
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          199,
+          201,
+          204,
+          205,
+          305,
+          418,
+          602,
+          755,
+          758,
+          759,
+          761,
+          762,
+          764,
+          765,
+          768
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 7,
+        "line_hits": [
+          171,
+          199,
+          313,
+          315,
+          325,
+          345,
+          423
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          315,
+          345
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          325
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          358
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          616
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6d28f8feda090f3a9ee8d896adf01117247e7d26128e7b3bbfd0c2441c122878",
+  "markdown_path": "pdf/ORNL-TM-4870/ORNL-TM-4870/hybrid_ocr/ORNL-TM-4870.md",
+  "report_number": "ORNL-TM-4870",
+  "report_numbers": [
+    "ORNL-TM-4870",
+    "ORNL-TM-3053",
+    "ORNL-TM-3137",
+    "ORNL-TM-3138",
+    "ORNL-TM-3139",
+    "ORNL-TM-3141",
+    "ORNL-TM-3257",
+    "ORNL-TM-3258",
+    "ORNL-TM-3259",
+    "ORNL-TM-3352"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 76,
+  "sections": [
+    {
+      "anchor": "engineering-development-studies-for-mollen-salt-breeder-reactor-processing-no-20",
+      "end_line": 12,
+      "heading": "Engineering Development Studies for Mollen-Salt Breeder Reactor Processing No. 20",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 28,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-tm-4870",
+      "end_line": 34,
+      "heading": "Ornl-Tm-4870",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 36,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "engineering-development-studies-for-molten-salt",
+      "end_line": 38,
+      "heading": "Engineering Development Studies For Molten-Salt",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "breeder-reactor-processing-no-20",
+      "end_line": 54,
+      "heading": "Breeder Reactor Processing No. 20",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "january-1976",
+      "end_line": 56,
+      "heading": "January 1976",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 62,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 66,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 98,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "contents",
+      "end_line": 102,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "summaries-v",
+      "end_line": 104,
+      "heading": "SUMMARIES. V",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 106,
+      "heading": "1. INTRODUCTION 1",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "2-continuous-fluorinator-development-autoresistance-heating-test-aht-3-1",
+      "end_line": 124,
+      "heading": "2. CONTINUOUS FLUORINATOR DEVELOPMENT: AUTORESISTANCE HEATING TEST AHT-3. 1",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "2-3-discussion-8",
+      "end_line": 126,
+      "heading": "2.3 Discussion. 8",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "3-development-of-the-metal-transfer-process-9",
+      "end_line": 131,
+      "heading": "3. DEVELOPMENT OF THE METAL TRANSFER PROCESS. 9",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "4-salt-metal-contactor-development-experiments-with-a-mechanically-agitated-nondispersing-contactor-in-the-salt-bismuth-flowthrough-facility-14",
+      "end_line": 141,
+      "heading": "4. SALT-METAL CONTACTOR DEVELOPMENT: EXPERIMENTS WITH A MECHANICALLY AGITATED, NONDISpersING CONTACTOR IN THE SALT-BISMUTH FLOWTHROUGH FACILITY 14",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "5-salt-metal-contactor-development-experiments-with-a-mechanically-agitated-nondispersing-contactor-using-water-and-mercury-17",
+      "end_line": 146,
+      "heading": "5. SALT-METAL CONTACTOR DEVELOPMENT: EXPERIMENTS WITH A MECHANICALLY AGITATED, NONDISPERSING CONTACTOR USING WATER AND MERCURY. 17",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 156,
+      "heading": "CONTENTS (Continued)",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "7-references-47",
+      "end_line": 158,
+      "heading": "7. References. 47",
+      "level": 2,
+      "start_line": 157
+    },
+    {
+      "anchor": "summaries",
+      "end_line": 160,
+      "heading": "SUMMARIES",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "continuous-fluorinator-development-autoresistance",
+      "end_line": 162,
+      "heading": "CONTINUOUS FLUORINATOR DEVELOPMENT: AUTORESISTANCE",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "heating-test-aht-3",
+      "end_line": 166,
+      "heading": "HEATING TEST AHT-3",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "development-of-the-metal-transfer-process",
+      "end_line": 172,
+      "heading": "DEVELOPMENT OF THE METAL TRANSFER PROCESS",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "salt-metal-contactor-development-experiments-with-a-mechanically-agitated-nondispersing-contactor-in-the-salt-bismuth-flowthrough-facility",
+      "end_line": 180,
+      "heading": "SALT-METAL CONTACTOR DEVELOPMENT: EXPERIMENTS WITH A MECHANICALLY AGITATED, NONDISPERSING CONTACTOR IN THE SALT-BISMUTH FLOWTHROUGH FACILITY",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "salt-metal-contactor-development-experiments-with-a-mechanically-agitated-nondispersing-contactor-using-water-and-mercury",
+      "end_line": 192,
+      "heading": "SALT-METAL CONTACTOR DEVELOPMENT: EXPERIMENTS WITH A MECHANICALLY AGITATED, NONDISPERSING CONTACTOR USING WATER AND MERCURY",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "fuel-reconstitution-development-installation-of-equipment-for-a-fuel-reconstitution-engineering-experiment",
+      "end_line": 196,
+      "heading": "FUEL RECONSTITUTION DEVELOPMENT: INSTALLATION OF EQUIPMENT FOR A FUEL RECONSTITUTION ENGINEERING EXPERIMENT",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 210,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "2-continuous-fluorinator-development-autoresistance-heating-test-aht-3",
+      "end_line": 222,
+      "heading": "2. CONTINUOUS FLUORINATOR DEVELOPMENT: AUTORESISTANCE HEATING TEST AHT-3",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "2-1-experimental-equipment-and-procedure",
+      "end_line": 236,
+      "heading": "2.1 Experimental Equipment and Procedure",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "2-2-experimental-results",
+      "end_line": 238,
+      "heading": "2.2 Experimental Results",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "2-2-1-run-aht-3-10",
+      "end_line": 242,
+      "heading": "2.2.1 Run AHT-3-10",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "2-2-2-run-aht-3-1-1",
+      "end_line": 248,
+      "heading": "2.2.2 Run AHT-3-1.1",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "2-2-3-run-aht-3-12",
+      "end_line": 252,
+      "heading": "2.2.3 Run AHT-3-12",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "2-2-4-run-aht-3-13",
+      "end_line": 256,
+      "heading": "2.2.4 Run AHT-3-13",
+      "level": 1,
+      "start_line": 253
+    },
+    {
+      "anchor": "2-2-5-run-aht-3-14",
+      "end_line": 262,
+      "heading": "2.2.5 Run AHT-3-14",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "2-2-6-run-aht-3-15",
+      "end_line": 266,
+      "heading": "2.2.6 Run AHT-3-15",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "2-2-7-run-aht-3-16",
+      "end_line": 270,
+      "heading": "2.2.7 Run AHT-3-16",
+      "level": 1,
+      "start_line": 267
+    },
+    {
+      "anchor": "2-2-8-run-aht-3-17",
+      "end_line": 276,
+      "heading": "2.2.8 Run AHT-3-17",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "2-2-9-run-aht-3-18",
+      "end_line": 280,
+      "heading": "2.2.9 Run AHT-3-18",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "2-2-10-run-aht-3-19",
+      "end_line": 284,
+      "heading": "2.2.10 Run AHT-3-19",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "2-2-11-run-aht-3-20",
+      "end_line": 290,
+      "heading": "2.2.11 Run AHT-3-20",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "2-2-12-run-aht-3-21",
+      "end_line": 294,
+      "heading": "2.2.12 Run AHT-3-21",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "2-3-discussion",
+      "end_line": 300,
+      "heading": "2.3 Discussion",
+      "level": 1,
+      "start_line": 295
+    },
+    {
+      "anchor": "3-development-of-the-metal-transfer-process",
+      "end_line": 306,
+      "heading": "3. DEVELOPMENT OF THE METAL TRANSFER PROCESS",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "3-1-examination-of-mte-3-equipment-and-materials",
+      "end_line": 346,
+      "heading": "3.1 Examination of MTE-3 Equipment and Materials",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "3-2-status-of-metal-transfer-experiment-mte-3b",
+      "end_line": 353,
+      "heading": "3.2 Status of Metal Transfer Experiment MTE-3B",
+      "level": 1,
+      "start_line": 347
+    },
+    {
+      "anchor": "4-salt-metal-contactor-development-experiments-with-a-mechanically-agitated-nondispersing-contactor-in-the-salt-bismuth-flowthrough-facility",
+      "end_line": 359,
+      "heading": "4. SALT-METAL CONTACTOR DEVELOPMENT: EXPERIMENTS WITH A MECHANICALLY AGITATED, NONDISPERSING CONTACTOR IN THE SALT-BISMUTH FLOWTHROUGH FACILITY",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "4-1-preparation-for-mass-transfer-experiment-tsmc-7",
+      "end_line": 363,
+      "heading": "4.1 Preparation for Mass Transfer Experiment TSMC-7",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "4-1-1-addition-of-beryllium-to-the-system",
+      "end_line": 367,
+      "heading": "4.1.1 Addition of beryllium to the system",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "4-1-2-prerun-equilibration-of-salt-and-bismuth",
+      "end_line": 375,
+      "heading": "4.1.2 Prerun equilibration of salt and bismuth",
+      "level": 1,
+      "start_line": 368
+    },
+    {
+      "anchor": "4-2-mass-transfer-experiment-tsmc-4",
+      "end_line": 383,
+      "heading": "4.2 Mass Transfer Experiment TSMC-4",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "4-3-experimental-results",
+      "end_line": 413,
+      "heading": "4.3 Experimental Results",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "5-salt-metal-contactor-development-experiments-with-a-mechanically-agitated-nondispersing-contactor-using-water-and-mercury",
+      "end_line": 432,
+      "heading": "5. SALT-METAL CONTACTOR DEVELOPMENT: EXPERIMENTS WITH A MECHANICALLY AGITATED, NONDISPERSING CONTACTOR USING WATER AND MERCURY",
+      "level": 1,
+      "start_line": 414
+    },
+    {
+      "anchor": "5-1-theory",
+      "end_line": 550,
+      "heading": "5.1 Theory",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "5-2-experimental-results",
+      "end_line": 597,
+      "heading": "5.2 Experimental Results",
+      "level": 1,
+      "start_line": 551
+    },
+    {
+      "anchor": "6-fuel-reconstitution-development-installation-of-equipment-for-a-fuel-reconstitution-engineering-experiment",
+      "end_line": 599,
+      "heading": "6. FUEL RECONSTITUTION DEVELOPMENT: INSTALLATION OF EQUIPMENT FOR A FUEL RECONSTITUTION ENGINEERING EXPERIMENT",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "r-m-counce",
+      "end_line": 617,
+      "heading": "R. M. Counce",
+      "level": 1,
+      "start_line": 600
+    },
+    {
+      "anchor": "6-1-equipment-documentation",
+      "end_line": 629,
+      "heading": "6.1 Equipment Documentation",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "ornl-dwg-74-11666r1",
+      "end_line": 637,
+      "heading": "Ornl Dwg 74-11666R1",
+      "level": 2,
+      "start_line": 630
+    },
+    {
+      "anchor": "ornl-dwg-75-35r2",
+      "end_line": 639,
+      "heading": "Ornl-Dwg 75-35R2",
+      "level": 2,
+      "start_line": 638
+    },
+    {
+      "anchor": "fi-ioi-is-a-hastings",
+      "end_line": 641,
+      "heading": "Fi Ioi Is A Hastings",
+      "level": 2,
+      "start_line": 640
+    },
+    {
+      "anchor": "mass-flowmeter",
+      "end_line": 643,
+      "heading": "Mass Flowmeter",
+      "level": 2,
+      "start_line": 642
+    },
+    {
+      "anchor": "modified-to-give",
+      "end_line": 647,
+      "heading": "Modified To Give",
+      "level": 2,
+      "start_line": 644
+    },
+    {
+      "anchor": "output-signal",
+      "end_line": 652,
+      "heading": "Output Signal",
+      "level": 2,
+      "start_line": 648
+    },
+    {
+      "anchor": "photo-3144-74",
+      "end_line": 685,
+      "heading": "Photo 3144-74",
+      "level": 2,
+      "start_line": 653
+    },
+    {
+      "anchor": "6-2-uf-generation",
+      "end_line": 697,
+      "heading": "6.2 UF Generation",
+      "level": 1,
+      "start_line": 686
+    },
+    {
+      "anchor": "nches",
+      "end_line": 699,
+      "heading": "Nches",
+      "level": 2,
+      "start_line": 698
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 703,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "photo-3143-74",
+      "end_line": 723,
+      "heading": "Photo 3143-74",
+      "level": 2,
+      "start_line": 704
+    },
+    {
+      "anchor": "photo-3140-74",
+      "end_line": 735,
+      "heading": "Photo 3140-74",
+      "level": 2,
+      "start_line": 724
+    },
+    {
+      "anchor": "6-3-instrumentation-and-controls",
+      "end_line": 752,
+      "heading": "6.3 Instrumentation and Controls",
+      "level": 1,
+      "start_line": 736
+    },
+    {
+      "anchor": "7-references",
+      "end_line": 769,
+      "heading": "7. REFERENCES",
+      "level": 1,
+      "start_line": 753
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 885,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 770
+    },
+    {
+      "anchor": "consultants-and-subcontractors",
+      "end_line": 893,
+      "heading": "CONSULTANTS AND SUBCONTRACTORS",
+      "level": 1,
+      "start_line": 886
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 899,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 894
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4870",
+  "tables": [],
+  "title": "Engineering Development Studies for Mollen-Salt Breeder Reactor Processing No. 20",
+  "topics": [
+    "materials-and-corrosion",
+    "breeder-and-converter-design",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

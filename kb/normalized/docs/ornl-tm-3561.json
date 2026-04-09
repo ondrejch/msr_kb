@@ -1,0 +1,329 @@
+{
+  "authors": [
+    "R.W. McClung",
+    "UNION CARBIDE CORPORATION",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3561.jsonl",
+  "date_text": "November 1, 1967",
+  "doc_id": "ornl-tm-3561",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          85,
+          91,
+          99
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          127,
+          167
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          89
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          85,
+          89
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 17,
+        "line_hits": [
+          11,
+          25,
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          374,
+          375,
+          376,
+          377
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          15,
+          81,
+          83,
+          176,
+          180,
+          182,
+          363,
+          366,
+          367
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          21
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 13,
+        "line_hits": [
+          75,
+          85,
+          99,
+          103,
+          111,
+          119,
+          125,
+          135,
+          139,
+          149,
+          151,
+          155,
+          165
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          69,
+          77
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          78
+        ],
+        "name": "ART"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c74c585472e093a6857a44d396df88d7e70b43857c503d26ccb343db2e1d7f16",
+  "markdown_path": "pdf/ORNL-TM-3561/ORNL-TM-3561/hybrid_ocr/ORNL-TM-3561.md",
+  "report_number": "ORNL-TM-3561",
+  "report_numbers": [
+    "ORNL-TM-3561",
+    "ORNL-TM-103"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 24,
+  "sections": [
+    {
+      "anchor": "ornl-tm-3561",
+      "end_line": 4,
+      "heading": "Ornl-Tm-3561",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 6,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "remote-inspection-of-welded-joints",
+      "end_line": 12,
+      "heading": "Remote Inspection Of Welded Joints",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "september-1971",
+      "end_line": 14,
+      "heading": "September 1971",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 24,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "contents",
+      "end_line": 32,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "page",
+      "end_line": 62,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 66,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 72,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "environment-and-other-parameters",
+      "end_line": 96,
+      "heading": "ENVIRONMENT AND OTHER PARAMETERS",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "customary-methods-for-nondestructive-examination-of-welds",
+      "end_line": 100,
+      "heading": "CUSTOMARY METHODS FOR NONDESTRUCTIVE EXAMINATION OF WELDS",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "visual-examination",
+      "end_line": 108,
+      "heading": "Visual Examination",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "liquid-penetrant-examination",
+      "end_line": 112,
+      "heading": "Liquid Penetrant Examination",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "radiographic-examination",
+      "end_line": 122,
+      "heading": "Radiographic Examination",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "ultrasonic-examination",
+      "end_line": 132,
+      "heading": "Ultrasonic Examination",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "advanced-methods-for-nondestructive-examination-of-welds",
+      "end_line": 136,
+      "heading": "ADVANCED METHODS FOR NONDESTRUCTIVE EXAMINATION OF WELDS",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "eddy-current-examination",
+      "end_line": 146,
+      "heading": "Eddy Current Examination",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "acoustic-emission-techniques",
+      "end_line": 152,
+      "heading": "Acoustic Emission Techniques",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "other-methods-of-examination",
+      "end_line": 156,
+      "heading": "Other Methods of Examination",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "summary-and-recommendations",
+      "end_line": 171,
+      "heading": "SUMMARY AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 359,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 378,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 360
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3561",
+  "tables": [],
+  "title": "ORNL-TM-3561",
+  "topics": [
+    "reactor-operations",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "fuel-processing-and-reprocessing",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

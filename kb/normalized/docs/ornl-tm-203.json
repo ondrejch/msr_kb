@@ -1,0 +1,514 @@
+{
+  "authors": [
+    "C.W.Nestor",
+    "Jr.",
+    "LEGAL NOTICE",
+    "I. Introduction",
+    "A. Power",
+    "Fuel",
+    "Graphite Temperatures"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-203.jsonl",
+  "date_text": "1962",
+  "doc_id": "ornl-tm-203",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 14,
+        "line_hits": [
+          13,
+          32,
+          304,
+          306,
+          347,
+          355,
+          397,
+          431,
+          441,
+          449,
+          453,
+          459,
+          463,
+          467
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 10,
+        "line_hits": [
+          160,
+          178,
+          190,
+          214,
+          347,
+          351,
+          375,
+          389,
+          419,
+          431
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          190,
+          292,
+          357,
+          415,
+          431
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          660,
+          662,
+          664,
+          666,
+          668,
+          670,
+          866,
+          868,
+          869,
+          870,
+          871,
+          873
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          340,
+          342,
+          343,
+          471,
+          644,
+          676,
+          697,
+          699,
+          861
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          674,
+          875
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 12,
+        "line_hits": [
+          13,
+          28,
+          34,
+          132,
+          148,
+          156,
+          286,
+          296,
+          298,
+          314,
+          326,
+          336
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          7,
+          24,
+          28,
+          431,
+          684
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3018dd816941f29615df63500ba563f0f245c2e566ea706b9e141722a3f99acd",
+  "markdown_path": "pdf/ORNL-TM-0203/ORNL-TM-0203/hybrid_ocr/ORNL-TM-0203.md",
+  "report_number": "ORNL-TM-203",
+  "report_numbers": [
+    "ORNL-TM-203",
+    "ORNL-2088",
+    "CF-58-12-106",
+    "ORNL-2072"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 49,
+  "sections": [
+    {
+      "anchor": "ornl-tm-203",
+      "end_line": 2,
+      "heading": "Ornl-Tm-203",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 10,
+      "heading": "Copy No. - / /",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 14,
+      "heading": "Abstract",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 23,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "murgatroyd-an-ibm-7090-program-for-the-analysis-of-the-kinetics-of-the-msre",
+      "end_line": 25,
+      "heading": "MURGATROYD - AN IBM 7090 PROGRAM FOR THE ANALYSIS OF THE KINETICS OF THE MSRE",
+      "level": 1,
+      "start_line": 24
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 29,
+      "heading": "I. Introduction",
+      "level": 1,
+      "start_line": 26
+    },
+    {
+      "anchor": "ii-differential-equations-of-motion",
+      "end_line": 31,
+      "heading": "II. Differential Equations of Motion",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "a-power-fuel-and-graphite-temperatures",
+      "end_line": 157,
+      "heading": "A. Power, Fuel and Graphite Temperatures",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "b-pressure",
+      "end_line": 283,
+      "heading": "B. Pressure",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "c-effective-delayed-neutron-yields",
+      "end_line": 293,
+      "heading": "C. Effective Delayed Neutron Yields",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "iii-organization-and-use-of-the-machine-program",
+      "end_line": 301,
+      "heading": "III. Organization and Use of the Machine Program",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "pct-dk-removed-by",
+      "end_line": 303,
+      "heading": "PCT DK REMOVED BY",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "fuel-graphite",
+      "end_line": 333,
+      "heading": "FUEL GRAPHITE",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 337,
+      "heading": "Acknowledgment",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "references",
+      "end_line": 380,
+      "heading": "References",
+      "level": 1,
+      "start_line": 338
+    },
+    {
+      "anchor": "vprs",
+      "end_line": 386,
+      "heading": "Vprs",
+      "level": 2,
+      "start_line": 381
+    },
+    {
+      "anchor": "pprs",
+      "end_line": 390,
+      "heading": "Pprs",
+      "level": 2,
+      "start_line": 387
+    },
+    {
+      "anchor": "cpcv",
+      "end_line": 398,
+      "heading": "Cpcv",
+      "level": 2,
+      "start_line": 391
+    },
+    {
+      "anchor": "murgatroyd-input-i",
+      "end_line": 402,
+      "heading": "Murgatroyd Input I",
+      "level": 2,
+      "start_line": 399
+    },
+    {
+      "anchor": "core-data",
+      "end_line": 408,
+      "heading": "Core Data",
+      "level": 2,
+      "start_line": 403
+    },
+    {
+      "anchor": "delayed-neutron-data",
+      "end_line": 414,
+      "heading": "Delayed Neutron Data",
+      "level": 2,
+      "start_line": 409
+    },
+    {
+      "anchor": "external-loop-data",
+      "end_line": 418,
+      "heading": "External Loop Data",
+      "level": 2,
+      "start_line": 415
+    },
+    {
+      "anchor": "pump-bowl-data",
+      "end_line": 424,
+      "heading": "Pump Bowl Data",
+      "level": 2,
+      "start_line": 419
+    },
+    {
+      "anchor": "murgatroyd-input-2",
+      "end_line": 425,
+      "heading": "Murgatroyd Input-2",
+      "level": 2,
+      "start_line": 425
+    },
+    {
+      "anchor": "fig-i6-input-for-one-case",
+      "end_line": 434,
+      "heading": "Fig I6. Input For One Case",
+      "level": 2,
+      "start_line": 426
+    },
+    {
+      "anchor": "case",
+      "end_line": 436,
+      "heading": "Case",
+      "level": 2,
+      "start_line": 435
+    },
+    {
+      "anchor": "prompt-critical-step-at-10-mw",
+      "end_line": 438,
+      "heading": "Prompt Critical Step At 10 Mw",
+      "level": 2,
+      "start_line": 437
+    },
+    {
+      "anchor": "initial-values",
+      "end_line": 442,
+      "heading": "Initial Values",
+      "level": 2,
+      "start_line": 439
+    },
+    {
+      "anchor": "print-every-20-steps",
+      "end_line": 446,
+      "heading": "Print Every 20 Steps",
+      "level": 2,
+      "start_line": 443
+    },
+    {
+      "anchor": "murgatroyd-ii-case",
+      "end_line": 456,
+      "heading": "Murgatroyd Ii Case",
+      "level": 2,
+      "start_line": 447
+    },
+    {
+      "anchor": "murgatroyd-ii-case",
+      "end_line": 468,
+      "heading": "Murgatroyd Ii Case",
+      "level": 2,
+      "start_line": 457
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 470,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 469
+    },
+    {
+      "anchor": "ornl-lr-dwg-67933",
+      "end_line": 473,
+      "heading": "Ornl-Lr-Dwg 67933",
+      "level": 2,
+      "start_line": 471
+    },
+    {
+      "anchor": "fig-iii-simplified-model-for-pressure-calculations",
+      "end_line": 475,
+      "heading": "Fig. Iii Simplified Model For Pressure Calculations",
+      "level": 2,
+      "start_line": 474
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 579,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 476
+    },
+    {
+      "anchor": "distribution-cont-d",
+      "end_line": 643,
+      "heading": "Distribution - Cont'd",
+      "level": 1,
+      "start_line": 580
+    },
+    {
+      "anchor": "147-ornl-rc",
+      "end_line": 657,
+      "heading": "147. ORNL-RC",
+      "level": 2,
+      "start_line": 644
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 677,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 658
+    },
+    {
+      "anchor": "copy-no-1-8",
+      "end_line": 681,
+      "heading": "Copy No. - 1/8",
+      "level": 2,
+      "start_line": 678
+    },
+    {
+      "anchor": "murgatroyd-an-ibm-7090-program-for-the-analysis",
+      "end_line": 683,
+      "heading": "Murgatroyd - An Ibm 7090 Program For The Analysis",
+      "level": 2,
+      "start_line": 682
+    },
+    {
+      "anchor": "of-the-kinetics-of-the-msre",
+      "end_line": 687,
+      "heading": "Of The Kinetics Of The Msre",
+      "level": 2,
+      "start_line": 684
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 696,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "addendum-to-ornl-tm-203",
+      "end_line": 700,
+      "heading": "Addendum to ORNL-TM-203",
+      "level": 1,
+      "start_line": 697
+    },
+    {
+      "anchor": "corrigendum",
+      "end_line": 706,
+      "heading": "Corrigendum",
+      "level": 1,
+      "start_line": 701
+    },
+    {
+      "anchor": "murgatroyd-power-vs-time",
+      "end_line": 710,
+      "heading": "Murgatroyd Power Vs. Time",
+      "level": 2,
+      "start_line": 707
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 816,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 711
+    },
+    {
+      "anchor": "distribution-cont-d",
+      "end_line": 860,
+      "heading": "Distribution - Cont'd",
+      "level": 1,
+      "start_line": 817
+    },
+    {
+      "anchor": "147-ornl-rc",
+      "end_line": 863,
+      "heading": "147. ORNL-RC",
+      "level": 2,
+      "start_line": 861
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 875,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 864
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0203",
+  "tables": [],
+  "title": "ORNL-TM-203",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "program-history",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

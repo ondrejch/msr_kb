@@ -1,0 +1,629 @@
+{
+  "authors": [
+    "COPY NO. -",
+    "GSETI REICES",
+    "Paul R. Kasten",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1858.jsonl",
+  "date_text": "June 9, 1967",
+  "doc_id": "ornl-tm-1858",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 24,
+        "line_hits": [
+          19,
+          79,
+          207,
+          209,
+          215,
+          217,
+          237,
+          245,
+          249,
+          253,
+          263,
+          265,
+          267,
+          269,
+          279,
+          315,
+          323,
+          329,
+          343,
+          347,
+          351,
+          357,
+          359,
+          365
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          79,
+          301
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          357
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 19,
+        "line_hits": [
+          40,
+          91,
+          99,
+          120,
+          170,
+          176,
+          178,
+          180,
+          183,
+          187,
+          191,
+          193,
+          195,
+          197,
+          199,
+          301,
+          341,
+          353,
+          361
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          19,
+          91,
+          105,
+          203,
+          211,
+          223,
+          225,
+          227,
+          229,
+          231,
+          247,
+          277,
+          291,
+          343,
+          351
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          95,
+          105,
+          107,
+          118,
+          134,
+          143,
+          149,
+          151,
+          253,
+          261,
+          325
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          105,
+          116,
+          191,
+          193,
+          229,
+          273,
+          275,
+          277,
+          279,
+          299
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          122,
+          191,
+          313
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          79,
+          209
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          116,
+          143
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          239,
+          253
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          323
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          389,
+          390,
+          391,
+          685,
+          687,
+          689,
+          691,
+          693,
+          695,
+          697,
+          699
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          1,
+          111,
+          136,
+          389,
+          390,
+          391
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 56,
+        "line_hits": [
+          19,
+          77,
+          79,
+          91,
+          95,
+          103,
+          105,
+          107,
+          109,
+          116,
+          118,
+          120,
+          128,
+          134,
+          143,
+          147,
+          149,
+          159,
+          161,
+          178,
+          180,
+          187,
+          193,
+          195,
+          199,
+          203,
+          207,
+          209,
+          223,
+          231,
+          235,
+          241,
+          247,
+          253,
+          255,
+          261,
+          273,
+          281,
+          297,
+          299,
+          301,
+          305,
+          311,
+          313,
+          321,
+          323,
+          325,
+          337,
+          339,
+          341
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 42,
+        "line_hits": [
+          13,
+          19,
+          54,
+          77,
+          79,
+          81,
+          84,
+          87,
+          89,
+          91,
+          139,
+          155,
+          203,
+          207,
+          211,
+          213,
+          215,
+          223,
+          229,
+          231,
+          241,
+          245,
+          247,
+          249,
+          273,
+          293,
+          299,
+          301,
+          305,
+          323,
+          329,
+          333,
+          337,
+          339,
+          341,
+          345,
+          357,
+          371,
+          373,
+          381,
+          389,
+          390
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          120,
+          197,
+          245,
+          247,
+          291,
+          293,
+          329,
+          391
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          79,
+          166
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          79
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          79
+        ],
+        "name": "NaBF4-NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7f8e3ca8e7ffe22c4ee7569530efc9eb38ddb8ac73c2000f30e5e6f570c4e3b2",
+  "markdown_path": "pdf/ORNL-TM-1858/ORNL-TM-1858/hybrid_ocr/ORNL-TM-1858.md",
+  "report_number": "ORNL-TM-1858",
+  "report_numbers": [
+    "ORNL-TM-1858"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 35,
+  "sections": [
+    {
+      "anchor": "ornl-tm-1858",
+      "end_line": 4,
+      "heading": "Ornl-Tm-1858",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 8,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "gseti-reices",
+      "end_line": 12,
+      "heading": "Gseti Reices",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "safety-program-for-molten-salt-breeder-reactors",
+      "end_line": 16,
+      "heading": "Safety Program For Molten-Salt Breeder Reactors",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 20,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 29,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 31,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 33,
+      "heading": "ABSTRACT 1",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "1-introduction-3",
+      "end_line": 34,
+      "heading": "1. INTRODUCTION 3",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "2-major-plant-systems-influencing-reactor-safety-6",
+      "end_line": 41,
+      "heading": "2. MAJOR PLANT SYSTEMS INFLUENCING REACTOR SAFETY 6",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "3-reactor-safety-aspects-18",
+      "end_line": 53,
+      "heading": "3. REACTOR SAFETY ASPECTS 18",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "4-msbr-safety-program-33",
+      "end_line": 58,
+      "heading": "4. MSBR SAFETY PROGRAM 33",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "acknowledgments-38",
+      "end_line": 60,
+      "heading": "Acknowledgments 38",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 74,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 61
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 92,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "2-major-plant-systems-influencing-reactor-safety",
+      "end_line": 100,
+      "heading": "2. MAJOR PLANT SYSTEMS INFLUENCING REACTOR SAFETY",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "2-1-reactor-system",
+      "end_line": 131,
+      "heading": "2.1. Reactor System",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "2-2-steam-system",
+      "end_line": 152,
+      "heading": "2.2. Steam System",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "2-3-fuel-recycle-processing-system",
+      "end_line": 175,
+      "heading": "2.3. Fuel Recycle Processing System",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "2-4-off-gas-system",
+      "end_line": 200,
+      "heading": "2.4. Off-Gas System",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "3-reactor-safety-aspects",
+      "end_line": 204,
+      "heading": "3. REACTOR SAFETY ASPECTS",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "3-1-reactivity-coefficients-and-kinetics-parameters",
+      "end_line": 220,
+      "heading": "3.1. Reactivity Coefficients and Kinetics Parameters",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "3-2-control-rod-function",
+      "end_line": 232,
+      "heading": "3.2. Control-Rod Function",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "3-3-reactor-incidents",
+      "end_line": 242,
+      "heading": "3.3. Reactor Incidents",
+      "level": 1,
+      "start_line": 233
+    },
+    {
+      "anchor": "3-3-1-reactivity-additions",
+      "end_line": 294,
+      "heading": "3.3.1 Reactivity Additions",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "3-3-2-mechanical-and-physical-integrity-containment",
+      "end_line": 308,
+      "heading": "3.3.2 Mechanical and Physical Integrity - Containment",
+      "level": 1,
+      "start_line": 295
+    },
+    {
+      "anchor": "3-3-3-miscellaneous-incidents",
+      "end_line": 318,
+      "heading": "3.3.3 Miscellaneous Incidents",
+      "level": 1,
+      "start_line": 309
+    },
+    {
+      "anchor": "3-4-reactor-stability",
+      "end_line": 332,
+      "heading": "3.4. Reactor Stability",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "4-msbr-safety-program",
+      "end_line": 334,
+      "heading": "4. MSBR SAFETY PROGRAM",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "4-1-summary",
+      "end_line": 368,
+      "heading": "4.1. Summary",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "4-2-cost-estimates",
+      "end_line": 382,
+      "heading": "4.2. Cost Estimates",
+      "level": 1,
+      "start_line": 369
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 386,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "references",
+      "end_line": 396,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 387
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 682,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 397
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 705,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 683
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1858",
+  "tables": [],
+  "title": "ORNL-TM-1858",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "materials-and-corrosion"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

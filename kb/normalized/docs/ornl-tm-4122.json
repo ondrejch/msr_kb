@@ -1,0 +1,1042 @@
+{
+  "authors": [
+    "C. H. Gabbard",
+    "MASTER",
+    "Molten-Salt Reactor Program",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4122.jsonl",
+  "date_text": "December 1972",
+  "doc_id": "ornl-tm-4122",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 8,
+        "line_hits": [
+          55,
+          127,
+          149,
+          163,
+          165,
+          346,
+          348,
+          372
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          127,
+          213,
+          231,
+          350,
+          362,
+          453
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          213
+        ],
+        "name": "drain tank"
+      }
+    ],
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          11,
+          13,
+          31,
+          35,
+          678,
+          680,
+          681,
+          682,
+          683,
+          684,
+          686,
+          688,
+          694
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          9,
+          35,
+          103,
+          254,
+          428,
+          429,
+          430,
+          431,
+          433
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          11,
+          35
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 25,
+        "line_hits": [
+          85,
+          127,
+          145,
+          147,
+          149,
+          167,
+          171,
+          197,
+          209,
+          215,
+          231,
+          242,
+          263,
+          301,
+          316,
+          318,
+          346,
+          348,
+          354,
+          362,
+          368,
+          372,
+          442,
+          457,
+          459
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          75,
+          81,
+          93,
+          350,
+          429
+        ],
+        "name": "MSBE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          73,
+          75,
+          79,
+          428
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          622
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          622
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          622
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          79
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e316af1f7da085107a34796f3f19ac513486984ff022773b8dd8dbc1b8400167",
+  "markdown_path": "pdf/ORNL-TM-4122/ORNL-TM-4122/hybrid_ocr/ORNL-TM-4122.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 120,
+  "sections": [
+    {
+      "anchor": "development-of-a-venturi-type-bubble-generator-for-use-in-the-molten-salt-reactor-xenon-removal-system",
+      "end_line": 4,
+      "heading": "DEVELOPMENT OF A VENTURI TYPE BUBBLE GENERATOR FOR USE IN THE MOLTEN-SALT REACTOR XENON REMOVAL SYSTEM",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 8,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 10,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 24,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "notice",
+      "end_line": 28,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "notice",
+      "end_line": 36,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "master",
+      "end_line": 40,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 46,
+      "heading": "Table Of Contents",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 66,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "development-of-a-venturi-type-bubble-generator-for-use-in-the-mclten-salt-reactor-xenon-removal-system",
+      "end_line": 70,
+      "heading": "DEVELOPMENT OF A VENTURI TYPE BUBBLE GENERATOR FOR USE IN THE MCLTEN-SALT REACTOR XENON REMOVAL SYSTEM",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 76,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 71
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 82,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "ii-bubble-generator-design",
+      "end_line": 88,
+      "heading": "II. BUBBLE GENERATOR DESIGN",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "table-i",
+      "end_line": 90,
+      "heading": "Table I",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "bubble-generator-criteria",
+      "end_line": 102,
+      "heading": "Bubble Generator Criteria",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "ornl-dwg-71-10220",
+      "end_line": 105,
+      "heading": "Ornl-Dwg 71-10220",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "figure-1",
+      "end_line": 106,
+      "heading": "Figure 1",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "bubble-generator-design-configurations-which-were",
+      "end_line": 107,
+      "heading": "Bubble Generator Design Configurations Which Were",
+      "level": 2,
+      "start_line": 107
+    },
+    {
+      "anchor": "given-reduced-scale-evaluation-tests",
+      "end_line": 113,
+      "heading": "Given Reduced Scale Evaluation Tests",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "iii-operating-characteristics-and-test-results",
+      "end_line": 118,
+      "heading": "III. OPERATING CHARACTERISTICS AND TEST RESULTS",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "figure-2",
+      "end_line": 119,
+      "heading": "Figure 2",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "bubble-generator-design-for-the",
+      "end_line": 120,
+      "heading": "Bubble Generator Design For The",
+      "level": 2,
+      "start_line": 120
+    },
+    {
+      "anchor": "gas-systems-technology-facility",
+      "end_line": 122,
+      "heading": "Gas Systems Technology Facility",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "iii-1-bubble-size",
+      "end_line": 124,
+      "heading": "III.-1. Bubble Size",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "iii-1-l-test-condition",
+      "end_line": 128,
+      "heading": "III.-1.l Test Condition",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "iii-1-2-bubble-size-measurements",
+      "end_line": 151,
+      "heading": "III.-1.2 Bubble Size Measurements",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "figure-3",
+      "end_line": 155,
+      "heading": "Figure 3",
+      "level": 2,
+      "start_line": 152
+    },
+    {
+      "anchor": "figure-4",
+      "end_line": 156,
+      "heading": "Figure 4",
+      "level": 2,
+      "start_line": 156
+    },
+    {
+      "anchor": "bubble-size-produced-by-gstf-bubble-generator",
+      "end_line": 157,
+      "heading": "Bubble Size Produced By Gstf Bubble Generator",
+      "level": 2,
+      "start_line": 157
+    },
+    {
+      "anchor": "as-a-function-of-surface-tension",
+      "end_line": 160,
+      "heading": "As A Function Of Surface Tension",
+      "level": 2,
+      "start_line": 158
+    },
+    {
+      "anchor": "figure-5",
+      "end_line": 161,
+      "heading": "Figure 5",
+      "level": 2,
+      "start_line": 161
+    },
+    {
+      "anchor": "surface-tension-as-a-function-of-sodium-oleate-concentration",
+      "end_line": 162,
+      "heading": "Surface Tension As A Function Of Sodium Oleate Concentration",
+      "level": 2,
+      "start_line": 162
+    },
+    {
+      "anchor": "for-laboratory-batch-samples-and-for-loop-samples",
+      "end_line": 168,
+      "heading": "For Laboratory Batch Samples And For Loop Samples",
+      "level": 2,
+      "start_line": 163
+    },
+    {
+      "anchor": "iii-1-3-analysis-of-bubble-size-data",
+      "end_line": 210,
+      "heading": "III.-1.3 Analysis of Bubble Size Data",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "iii-2-gas-injection-pressure-characteristics",
+      "end_line": 217,
+      "heading": "III.-2. Gas Injection Pressure Characteristics",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "figure-6",
+      "end_line": 219,
+      "heading": "Figure 6",
+      "level": 2,
+      "start_line": 218
+    },
+    {
+      "anchor": "bubble-size-correlation-for-gstf-design-bubble-generator",
+      "end_line": 222,
+      "heading": "Bubble Size Correlation For Gstf Design Bubble Generator",
+      "level": 2,
+      "start_line": 220
+    },
+    {
+      "anchor": "figure-7",
+      "end_line": 223,
+      "heading": "Figure 7",
+      "level": 2,
+      "start_line": 223
+    },
+    {
+      "anchor": "simplified-flow-diagram-of-the-gas-systems-technology-facility",
+      "end_line": 226,
+      "heading": "Simplified Flow Diagram Of The Gas Systems Technology Facility",
+      "level": 2,
+      "start_line": 224
+    },
+    {
+      "anchor": "figure-8",
+      "end_line": 253,
+      "heading": "Figure 8",
+      "level": 2,
+      "start_line": 227
+    },
+    {
+      "anchor": "ornl-dwg-73-1544",
+      "end_line": 256,
+      "heading": "Ornl-Dwg 73-1544",
+      "level": 2,
+      "start_line": 254
+    },
+    {
+      "anchor": "figure-9",
+      "end_line": 257,
+      "heading": "Figure 9",
+      "level": 2,
+      "start_line": 257
+    },
+    {
+      "anchor": "geometry-of-bubble-generator-used-in-analysis-of-gas-injection",
+      "end_line": 258,
+      "heading": "Geometry Of Bubble Generator Used In Analysis Of Gas Injection",
+      "level": 2,
+      "start_line": 258
+    },
+    {
+      "anchor": "pressure-and-overall-head-loss",
+      "end_line": 310,
+      "heading": "Pressure And Overall Head Loss",
+      "level": 2,
+      "start_line": 259
+    },
+    {
+      "anchor": "figure-10",
+      "end_line": 312,
+      "heading": "Figure 10",
+      "level": 2,
+      "start_line": 311
+    },
+    {
+      "anchor": "pressure-drop-of-gas-feed-passages-as-a-function",
+      "end_line": 313,
+      "heading": "Pressure Drop Of Gas Feed Passages As A Function",
+      "level": 2,
+      "start_line": 313
+    },
+    {
+      "anchor": "of-gas-flow-rate",
+      "end_line": 336,
+      "heading": "Of Gas Flow Rate",
+      "level": 2,
+      "start_line": 314
+    },
+    {
+      "anchor": "figure-11",
+      "end_line": 337,
+      "heading": "Figure 11",
+      "level": 2,
+      "start_line": 337
+    },
+    {
+      "anchor": "pressure-drop-across-the-gas-plume-interface",
+      "end_line": 338,
+      "heading": "Pressure Drop Across The Gas Plume Interface",
+      "level": 2,
+      "start_line": 338
+    },
+    {
+      "anchor": "as-a-function-of-throat-void-fraction",
+      "end_line": 341,
+      "heading": "As A Function Of Throat Void Fraction",
+      "level": 2,
+      "start_line": 339
+    },
+    {
+      "anchor": "figure-12",
+      "end_line": 343,
+      "heading": "Figure 12",
+      "level": 2,
+      "start_line": 342
+    },
+    {
+      "anchor": "and-throat-void-fraction",
+      "end_line": 355,
+      "heading": "And Throat Void Fraction",
+      "level": 2,
+      "start_line": 344
+    },
+    {
+      "anchor": "iv-conclusions-and-recommendations",
+      "end_line": 369,
+      "heading": "IV. CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 356
+    },
+    {
+      "anchor": "v-acknowledgement",
+      "end_line": 373,
+      "heading": "V. ACKNOWLEDGEMENT",
+      "level": 1,
+      "start_line": 370
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 425,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 374
+    },
+    {
+      "anchor": "references",
+      "end_line": 435,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 426
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 482,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 436
+    },
+    {
+      "anchor": "1-rem-rgndgn-chg-6-8-72-calc-purple-gen-press-dist",
+      "end_line": 484,
+      "heading": "1 REM RGNDGN CHG 6/8/72 CALC PURPLE GEN PRESS DIST",
+      "level": 2,
+      "start_line": 483
+    },
+    {
+      "anchor": "9-read-a1-a2-a3-a4",
+      "end_line": 486,
+      "heading": "9 READ A1,A2,A3,A4",
+      "level": 2,
+      "start_line": 485
+    },
+    {
+      "anchor": "10-read-f1-g-g9-mo-n",
+      "end_line": 488,
+      "heading": "10 READ F1,G,G9,MO,N",
+      "level": 2,
+      "start_line": 487
+    },
+    {
+      "anchor": "20-read-d8-p9-p8-t2-k9",
+      "end_line": 490,
+      "heading": "20 READ D8,P9,P8,T2,K9",
+      "level": 2,
+      "start_line": 489
+    },
+    {
+      "anchor": "21-h1-0",
+      "end_line": 492,
+      "heading": "21 H1=0",
+      "level": 2,
+      "start_line": 491
+    },
+    {
+      "anchor": "22-h2-0",
+      "end_line": 494,
+      "heading": "22 H2=0",
+      "level": 2,
+      "start_line": 493
+    },
+    {
+      "anchor": "23-h3-0",
+      "end_line": 496,
+      "heading": "23 H3=0",
+      "level": 2,
+      "start_line": 495
+    },
+    {
+      "anchor": "30-d9-2-10",
+      "end_line": 498,
+      "heading": "30 D9=2·10",
+      "level": 2,
+      "start_line": 497
+    },
+    {
+      "anchor": "31-d1-2-18",
+      "end_line": 500,
+      "heading": "31 D1=2·18",
+      "level": 2,
+      "start_line": 499
+    },
+    {
+      "anchor": "45-po-14-7",
+      "end_line": 502,
+      "heading": "45 Po=14.7",
+      "level": 2,
+      "start_line": 501
+    },
+    {
+      "anchor": "50-print-liq-sg-g-mol-wt-mo-dis-press-p9",
+      "end_line": 504,
+      "heading": "50 Print \"Liq Sg=\"G,\"Mol Wt=\"Mo,\"Dis Press=\"P9",
+      "level": 2,
+      "start_line": 503
+    },
+    {
+      "anchor": "60-print-liq-flow-f1-thr-dia-d9-bore-dia-d1",
+      "end_line": 506,
+      "heading": "60 Print \"Liq Flow=\"F1,\"Thr Dia=\"D9,\"Bore Dia=\"D1",
+      "level": 2,
+      "start_line": 505
+    },
+    {
+      "anchor": "61-d2-d8-12",
+      "end_line": 508,
+      "heading": "61 D2=D8/12",
+      "level": 2,
+      "start_line": 507
+    },
+    {
+      "anchor": "62-d-d1-12",
+      "end_line": 510,
+      "heading": "62 D=D1/12",
+      "level": 2,
+      "start_line": 509
+    },
+    {
+      "anchor": "63-d0-d9-12",
+      "end_line": 512,
+      "heading": "63 D0=D9/12",
+      "level": 2,
+      "start_line": 511
+    },
+    {
+      "anchor": "70p2-p9-14-7",
+      "end_line": 514,
+      "heading": "70P2=P9+14.7",
+      "level": 2,
+      "start_line": 513
+    },
+    {
+      "anchor": "80-t-t2-460",
+      "end_line": 516,
+      "heading": "80 T=T2+460",
+      "level": 2,
+      "start_line": 515
+    },
+    {
+      "anchor": "90-k1-n-1-n",
+      "end_line": 520,
+      "heading": "90 K1=N/(1-N)",
+      "level": 2,
+      "start_line": 517
+    },
+    {
+      "anchor": "110-00-f1-7-48-60",
+      "end_line": 522,
+      "heading": "110 00=F1/(7·48*60)",
+      "level": 2,
+      "start_line": 521
+    },
+    {
+      "anchor": "120-m1-q0-g-62-4",
+      "end_line": 524,
+      "heading": "120 M1=Q0*G*62.4",
+      "level": 2,
+      "start_line": 523
+    },
+    {
+      "anchor": "130-v0-q0-0-785-do-k9-2",
+      "end_line": 526,
+      "heading": "130 V0=Q0/(0.785*(Do*K9)+2)",
+      "level": 2,
+      "start_line": 525
+    },
+    {
+      "anchor": "131-v-00-0-785-d2-k9-2",
+      "end_line": 528,
+      "heading": "131 $V = 00 / (0.785*(D2*K9) + 2)$",
+      "level": 2,
+      "start_line": 527
+    },
+    {
+      "anchor": "132-h-v0-2-v-2-64-4",
+      "end_line": 530,
+      "heading": "132 H=（V0+2-V+2）/64.4",
+      "level": 2,
+      "start_line": 529
+    },
+    {
+      "anchor": "140-f0r-f2-0-t0-1-41-step-2",
+      "end_line": 532,
+      "heading": "140 F0R F2=0 T0 1.41 Step·2",
+      "level": 2,
+      "start_line": 531
+    },
+    {
+      "anchor": "150-m2-f2-g9-60",
+      "end_line": 536,
+      "heading": "150 M2=F2*G9/60",
+      "level": 2,
+      "start_line": 533
+    },
+    {
+      "anchor": "161-p0-p2-h1-h2-h3-62-4-g-144",
+      "end_line": 538,
+      "heading": "161 $P0 = P2 - (H1 + H2 + H3)*62.4*G / 144$",
+      "level": 2,
+      "start_line": 537
+    },
+    {
+      "anchor": "170-q1-q0-f2-t-493-14-7-p0-60",
+      "end_line": 540,
+      "heading": "170 Q1=Q0+F2*T/493*14.7/(P0*60)",
+      "level": 2,
+      "start_line": 539
+    },
+    {
+      "anchor": "180-q2-q0-f2-t-493-14-7-p2-60",
+      "end_line": 544,
+      "heading": "180 Q2=Q0+F2*T/493*14.7/(P2*60)",
+      "level": 2,
+      "start_line": 541
+    },
+    {
+      "anchor": "200-v2-q2-0-785-d2-k9-2",
+      "end_line": 546,
+      "heading": "200 V2=Q2/(0.785*(D2*K9)+2)",
+      "level": 2,
+      "start_line": 545
+    },
+    {
+      "anchor": "210-f9-f2-14-7-p0-t-493-60",
+      "end_line": 550,
+      "heading": "210 F9=F2*14.7/P0*T/(493*60)",
+      "level": 2,
+      "start_line": 547
+    },
+    {
+      "anchor": "230-h1-v1-2-v2-2-64-4-0-317-64-4-v1-v2-2-1-0-x2",
+      "end_line": 552,
+      "heading": "230 H1=((V1+2-V2+2)/64.4-0.317/64.4*(V1-V2)+2)*(1.0-X2)",
+      "level": 2,
+      "start_line": 551
+    },
+    {
+      "anchor": "240-g1-g-q0-q1",
+      "end_line": 554,
+      "heading": "240 G1=G*Q0/Q1",
+      "level": 2,
+      "start_line": 553
+    },
+    {
+      "anchor": "249-f3-f2-t-493-14-7-p0",
+      "end_line": 556,
+      "heading": "249 F3=F2*T/493*14.7/P0",
+      "level": 2,
+      "start_line": 555
+    },
+    {
+      "anchor": "250-h2-v1-g1-v1-v0-32-2-g-f3-0-4167",
+      "end_line": 558,
+      "heading": "250 H2=-V1*G1*(V1-V0)/(32.2*G)-F3*0.4167",
+      "level": 2,
+      "start_line": 557
+    },
+    {
+      "anchor": "260-p0-p2-h1-h2-h3-62-4-g-144",
+      "end_line": 560,
+      "heading": "260 P0=P2-(H1+H2+H3)*62.4*G/144",
+      "level": 2,
+      "start_line": 559
+    },
+    {
+      "anchor": "261-if-po-0-then-404",
+      "end_line": 562,
+      "heading": "261 If Po<0 Then 404",
+      "level": 2,
+      "start_line": 561
+    },
+    {
+      "anchor": "270-w-k1-1545-t-m0-p2-p0-2-1-0",
+      "end_line": 564,
+      "heading": "270 W=K1*1545*T/M0*(P2/P0)×(2-1.0)",
+      "level": 2,
+      "start_line": 563
+    },
+    {
+      "anchor": "280-h3-w-m2-m1",
+      "end_line": 566,
+      "heading": "280 H3=W*M2/M1",
+      "level": 2,
+      "start_line": 565
+    },
+    {
+      "anchor": "290-p0-p2-h1-h2-h3-62-4-g-144",
+      "end_line": 568,
+      "heading": "290 P0=P2-(H1+H2+H3)*62.4*G/144",
+      "level": 2,
+      "start_line": 567
+    },
+    {
+      "anchor": "300-f3-f2-t-493-14-7-p0",
+      "end_line": 570,
+      "heading": "300 F3=F2*T/493*14.7/P0",
+      "level": 2,
+      "start_line": 569
+    },
+    {
+      "anchor": "310-g8-69-493-t-po-14-7",
+      "end_line": 572,
+      "heading": "310 G8=69*493/T*Po/14.7",
+      "level": 2,
+      "start_line": 571
+    },
+    {
+      "anchor": "320-h5-59-488-f3-2-g8-g-62-4",
+      "end_line": 578,
+      "heading": "320 H5=-59·488*F3†2*G8/(G*62.4)",
+      "level": 2,
+      "start_line": 573
+    },
+    {
+      "anchor": "323-h4-k3-v0-2-50-h5",
+      "end_line": 580,
+      "heading": "323 H4=K3*V0+2·50+H5",
+      "level": 2,
+      "start_line": 579
+    },
+    {
+      "anchor": "332-p3-p0-14-7",
+      "end_line": 582,
+      "heading": "332 $P3 = P0 - 14.7$",
+      "level": 2,
+      "start_line": 581
+    },
+    {
+      "anchor": "340-p0-p2-h1-h2-h3-h4-62-4-6-144",
+      "end_line": 584,
+      "heading": "340 P0=P2-(H1+H2+H3+H4)*62.4*6/144",
+      "level": 2,
+      "start_line": 583
+    },
+    {
+      "anchor": "360-z-z-1",
+      "end_line": 586,
+      "heading": "360 $Z = Z + 1$",
+      "level": 2,
+      "start_line": 585
+    },
+    {
+      "anchor": "370-if-z-3-then-170",
+      "end_line": 588,
+      "heading": "370 If Z<3 Then 170",
+      "level": 2,
+      "start_line": 587
+    },
+    {
+      "anchor": "380-p7-p8-9-58-f2-0-08476-12",
+      "end_line": 590,
+      "heading": "380 P7=P8-9.58*(F2+0.08476)12",
+      "level": 2,
+      "start_line": 589
+    },
+    {
+      "anchor": "381-p6-p7-p0-14-7",
+      "end_line": 592,
+      "heading": "381 $P6 = P7 - (P0 - 14.7)$",
+      "level": 2,
+      "start_line": 591
+    },
+    {
+      "anchor": "382-l1-h1-h2-h3-h4",
+      "end_line": 594,
+      "heading": "382 L1=H1+H2+H3+H4",
+      "level": 2,
+      "start_line": 593
+    },
+    {
+      "anchor": "383-l-h-h1-h2-h3",
+      "end_line": 596,
+      "heading": "383 L=H-(H1+H2+H3)",
+      "level": 2,
+      "start_line": 595
+    },
+    {
+      "anchor": "399-print",
+      "end_line": 598,
+      "heading": "399 PRINT",
+      "level": 2,
+      "start_line": 597
+    },
+    {
+      "anchor": "400-print-h1-h2-h3-h4-h5",
+      "end_line": 600,
+      "heading": "400 PRINT H1,H2,H3,H4,H5",
+      "level": 2,
+      "start_line": 599
+    },
+    {
+      "anchor": "401-print-scfm-f2-tcfm-f3-t-pr-p3-g-pr-po-14-7",
+      "end_line": 602,
+      "heading": "401 Print\"Scfm=\"F2,\"Tcfm=\"F3,\"T Pr=\"P3,\"G Pr=\"Po-14.7",
+      "level": 2,
+      "start_line": 601
+    },
+    {
+      "anchor": "402-print-l-210-pr-p7-valve-d-p-p6",
+      "end_line": 604,
+      "heading": "402 Print\"L 210 Pr=\"P7,\"Valve D/P=\"P6",
+      "level": 2,
+      "start_line": 603
+    },
+    {
+      "anchor": "403-print-i-0-d-h-l-0-g-d-h-l1",
+      "end_line": 606,
+      "heading": "403 Print \"I-0 D/H=\"L,\"0-G D/H=\"L1",
+      "level": 2,
+      "start_line": 605
+    },
+    {
+      "anchor": "404-next-f2",
+      "end_line": 608,
+      "heading": "404 NEXT F2",
+      "level": 2,
+      "start_line": 607
+    },
+    {
+      "anchor": "405-data-1-84825e-6-1-26802e-2-0-171324-0-885819",
+      "end_line": 610,
+      "heading": "405 Data -1.84825E-6, -1.26802E-2, 0.171324, -0.885819",
+      "level": 2,
+      "start_line": 609
+    },
+    {
+      "anchor": "450-data-500-3-2836-0-0112-4-1-67",
+      "end_line": 612,
+      "heading": "450 Data 500,3.2836,0.0112,4,1.67",
+      "level": 2,
+      "start_line": 611
+    },
+    {
+      "anchor": "451-data-5-047-28-15-1300-1-009",
+      "end_line": 614,
+      "heading": "451 Data 5.047,28,15,1300,1.009",
+      "level": 2,
+      "start_line": 613
+    },
+    {
+      "anchor": "500-end",
+      "end_line": 632,
+      "heading": "500 End",
+      "level": 2,
+      "start_line": 615
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 675,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 694,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 676
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4122",
+  "tables": [],
+  "title": "DEVELOPMENT OF A VENTURI TYPE BUBBLE GENERATOR FOR USE IN THE MOLTEN-SALT REACTOR XENON REMOVAL SYSTEM",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "program-history"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

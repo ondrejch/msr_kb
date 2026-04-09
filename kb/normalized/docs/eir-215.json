@@ -1,0 +1,468 @@
+{
+  "authors": [
+    "Schweiz",
+    "Problems",
+    "Possibilities",
+    "M. Taube",
+    "J. Ligou",
+    "J. Ligou *)"
+  ],
+  "claims_path": "kb/normalized/claims/eir-215.jsonl",
+  "date_text": "1956",
+  "doc_id": "eir-215",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 9,
+        "line_hits": [
+          60,
+          185,
+          201,
+          217,
+          261,
+          562,
+          590,
+          592,
+          622
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          742
+        ],
+        "name": "Hastelloy F"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          742
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          584
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 7,
+        "line_hits": [
+          202,
+          217,
+          390,
+          391,
+          392,
+          393,
+          395
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          119,
+          125,
+          175,
+          395,
+          584,
+          836
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 3,
+        "line_hits": [
+          742,
+          825,
+          828
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          845,
+          891
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          825,
+          849
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          735
+        ],
+        "name": "EIR"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 39,
+        "line_hits": [
+          50,
+          56,
+          58,
+          92,
+          96,
+          111,
+          113,
+          115,
+          117,
+          119,
+          129,
+          150,
+          173,
+          177,
+          187,
+          192,
+          195,
+          227,
+          231,
+          261,
+          284,
+          286,
+          347,
+          401,
+          424,
+          426,
+          441,
+          457,
+          537,
+          592,
+          609,
+          611,
+          612,
+          613,
+          643,
+          646,
+          650,
+          737,
+          766
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          244,
+          833
+        ],
+        "name": "MCFR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          839
+        ],
+        "name": "MOSEL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          479
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 25,
+        "line_hits": [
+          5,
+          15,
+          50,
+          111,
+          144,
+          150,
+          180,
+          197,
+          207,
+          244,
+          416,
+          441,
+          447,
+          609,
+          628,
+          643,
+          645,
+          646,
+          652,
+          660,
+          662,
+          726,
+          735,
+          833,
+          871
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          735,
+          742,
+          746
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d1963f3bfed5c8fcd530cfeb0c27971d691ea01b5ca4d007169022a90d6935a0",
+  "markdown_path": "pdf/EIR-215/EIR-215/hybrid_ocr/EIR-215.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "eir-series",
+  "section_count": 31,
+  "sections": [
+    {
+      "anchor": "eldg-institut-f-r-reaktorforschung-w-renlingen",
+      "end_line": 2,
+      "heading": "Eldg. Institut für Reaktorforschung Würenlingen",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "schweiz",
+      "end_line": 4,
+      "heading": "Schweiz",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "molten-chlorides-fast-breeder-reactor",
+      "end_line": 6,
+      "heading": "Molten Chlorides Fast Breeder Reactor",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "problems-and-possibilities",
+      "end_line": 20,
+      "heading": "Problems and Possibilities",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "contents",
+      "end_line": 47,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "summary",
+      "end_line": 65,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "r-sum",
+      "end_line": 87,
+      "heading": "Résumé",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "1-general-problems",
+      "end_line": 136,
+      "heading": "1. General Problems",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "fuel-processing-cycle",
+      "end_line": 138,
+      "heading": "Fuel Processing Cycle",
+      "level": 2,
+      "start_line": 137
+    },
+    {
+      "anchor": "for-fast-breeder-reactors-with-solid-and-molten-fuel",
+      "end_line": 147,
+      "heading": "For Fast Breeder Reactors With Solid And Molten Fuel",
+      "level": 2,
+      "start_line": 139
+    },
+    {
+      "anchor": "2-general-description-of-the-reactor",
+      "end_line": 218,
+      "heading": "2. General description of the reactor",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "3-reactor-physics",
+      "end_line": 241,
+      "heading": "3. Reactor Physics",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "table-2",
+      "end_line": 262,
+      "heading": "Table 2",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "4-thermohydraulics",
+      "end_line": 356,
+      "heading": "4. Thermohydraulics",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "core-power-output-versus-coolant",
+      "end_line": 383,
+      "heading": "Core Power Output Versus Coolant",
+      "level": 2,
+      "start_line": 357
+    },
+    {
+      "anchor": "5-quasi-kinetic-and-pumping-problems",
+      "end_line": 413,
+      "heading": "5. Quasi-kinetic and pumping problems",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "6-fission-products",
+      "end_line": 454,
+      "heading": "6. Fission Products",
+      "level": 1,
+      "start_line": 414
+    },
+    {
+      "anchor": "fission-products-in-fertile-material",
+      "end_line": 474,
+      "heading": "Fission products in fertile material",
+      "level": 1,
+      "start_line": 455
+    },
+    {
+      "anchor": "7-rep-cessing",
+      "end_line": 525,
+      "heading": "7. Rep: cessing",
+      "level": 1,
+      "start_line": 475
+    },
+    {
+      "anchor": "fuel-reprocessing-material-balance",
+      "end_line": 550,
+      "heading": "Fuel Reprocessing Material Balance",
+      "level": 2,
+      "start_line": 526
+    },
+    {
+      "anchor": "correction",
+      "end_line": 625,
+      "heading": "Correction",
+      "level": 1,
+      "start_line": 551
+    },
+    {
+      "anchor": "10-safety-problems",
+      "end_line": 638,
+      "heading": "10. Safety Problems",
+      "level": 1,
+      "start_line": 626
+    },
+    {
+      "anchor": "11-economics",
+      "end_line": 747,
+      "heading": "11. Economics",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 787,
+      "heading": "Appendix",
+      "level": 1,
+      "start_line": 748
+    },
+    {
+      "anchor": "vapour-pressure-metal-chlorides",
+      "end_line": 802,
+      "heading": "Vapour Pressure - Metal Chlorides",
+      "level": 2,
+      "start_line": 788
+    },
+    {
+      "anchor": "free-enthalpy-of-formation",
+      "end_line": 803,
+      "heading": "Free Enthalpy Of Formation",
+      "level": 2,
+      "start_line": 803
+    },
+    {
+      "anchor": "chlorides",
+      "end_line": 805,
+      "heading": "Chlorides",
+      "level": 2,
+      "start_line": 804
+    },
+    {
+      "anchor": "acknowledgement",
+      "end_line": 809,
+      "heading": "Acknowledgement",
+      "level": 1,
+      "start_line": 806
+    },
+    {
+      "anchor": "authors-note",
+      "end_line": 820,
+      "heading": "Authors' Note",
+      "level": 1,
+      "start_line": 810
+    },
+    {
+      "anchor": "references",
+      "end_line": 890,
+      "heading": "References",
+      "level": 1,
+      "start_line": 821
+    },
+    {
+      "anchor": "a1-aec-12792-1970",
+      "end_line": 895,
+      "heading": "A1-Aec-12792 (1970)",
+      "level": 2,
+      "start_line": 891
+    }
+  ],
+  "source_dir": "pdf/EIR-215",
+  "tables": [],
+  "title": "Eldg. Institut für Reaktorforschung Würenlingen",
+  "topics": [
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "fuel-processing-and-reprocessing",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

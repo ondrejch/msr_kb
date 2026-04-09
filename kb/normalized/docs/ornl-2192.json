@@ -1,0 +1,733 @@
+{
+  "authors": [
+    "Chemistry",
+    "AND CHLORIDE COMPOUNDS",
+    "H. Insley",
+    "T.N.McVoy",
+    "R.E.Thoma",
+    "G.D. White"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2192.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-2192",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 67,
+        "line_hits": [
+          317,
+          321,
+          335,
+          357,
+          489,
+          503,
+          513,
+          525,
+          561,
+          659,
+          669,
+          681,
+          744,
+          752,
+          762,
+          870,
+          874,
+          882,
+          890,
+          1059,
+          1079,
+          1097,
+          1117,
+          1137,
+          1141,
+          1150,
+          1160,
+          1167,
+          1219,
+          1227,
+          1243,
+          1287,
+          1291,
+          1303,
+          1311,
+          1335,
+          1339,
+          1343,
+          1347,
+          1355,
+          1379,
+          1383,
+          1387,
+          1399,
+          1401,
+          1405,
+          1441,
+          1469,
+          1473,
+          1477
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 29,
+        "line_hits": [
+          280,
+          282,
+          284,
+          286,
+          289,
+          393,
+          449,
+          577,
+          589,
+          605,
+          609,
+          639,
+          772,
+          808,
+          898,
+          906,
+          918,
+          1263,
+          1267,
+          1271,
+          1351,
+          1359,
+          1367,
+          1377,
+          1409,
+          1413,
+          1417,
+          1421,
+          1433
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          551,
+          561,
+          635,
+          1315,
+          1355,
+          1375,
+          1533
+        ],
+        "name": "nickel"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          31,
+          60,
+          83,
+          227,
+          233,
+          260,
+          264,
+          270,
+          1693
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          33,
+          35,
+          87,
+          89
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          243
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          266
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 6,
+        "line_hits": [
+          260,
+          264,
+          268,
+          270,
+          1259,
+          1623
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 56,
+        "line_hits": [
+          639,
+          651,
+          669,
+          724,
+          818,
+          898,
+          906,
+          918,
+          922,
+          926,
+          930,
+          934,
+          938,
+          953,
+          965,
+          1011,
+          1027,
+          1043,
+          1059,
+          1079,
+          1097,
+          1117,
+          1133,
+          1137,
+          1141,
+          1150,
+          1160,
+          1167,
+          1261,
+          1377,
+          1387,
+          1437,
+          1493,
+          1497,
+          1501,
+          1509,
+          1517,
+          1521,
+          1525,
+          1529,
+          1533,
+          1541,
+          1549,
+          1553,
+          1573,
+          1577,
+          1605,
+          1627,
+          1629,
+          1647
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 42,
+        "line_hits": [
+          569,
+          577,
+          605,
+          609,
+          613,
+          619,
+          631,
+          635,
+          639,
+          651,
+          659,
+          669,
+          705,
+          717,
+          722,
+          726,
+          732,
+          736,
+          740,
+          744,
+          752,
+          762,
+          1261,
+          1351,
+          1359,
+          1367,
+          1371,
+          1375,
+          1377,
+          1387,
+          1391,
+          1401,
+          1405,
+          1629,
+          1631,
+          1647,
+          1655,
+          1689,
+          1711,
+          1713,
+          1715,
+          1717
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 38,
+        "line_hits": [
+          437,
+          772,
+          782,
+          788,
+          798,
+          808,
+          818,
+          830,
+          835,
+          840,
+          848,
+          852,
+          856,
+          863,
+          874,
+          882,
+          890,
+          1261,
+          1417,
+          1421,
+          1429,
+          1433,
+          1437,
+          1445,
+          1457,
+          1463,
+          1465,
+          1473,
+          1477,
+          1481,
+          1485,
+          1493,
+          1497,
+          1505,
+          1711,
+          1713,
+          1715,
+          1717
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 31,
+        "line_hits": [
+          280,
+          282,
+          286,
+          289,
+          393,
+          449,
+          577,
+          589,
+          605,
+          609,
+          639,
+          772,
+          808,
+          898,
+          906,
+          918,
+          1261,
+          1263,
+          1267,
+          1271,
+          1351,
+          1359,
+          1367,
+          1377,
+          1409,
+          1413,
+          1417,
+          1421,
+          1433,
+          1713,
+          1715
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          393,
+          405,
+          419,
+          437,
+          449,
+          479,
+          489,
+          513,
+          525,
+          1261,
+          1331,
+          1625,
+          1629,
+          1643,
+          1647,
+          1711,
+          1713
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          298,
+          818,
+          977,
+          989,
+          1261,
+          1279,
+          1283,
+          1323,
+          1375,
+          1437,
+          1449,
+          1545,
+          1561,
+          1711,
+          1713,
+          1715
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          1261,
+          1581,
+          1585,
+          1589,
+          1605,
+          1641,
+          1711,
+          1715
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          1261,
+          1541,
+          1633,
+          1659,
+          1713,
+          1715
+        ],
+        "name": "UF3"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1261,
+          1711
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1715
+        ],
+        "name": "NaF-ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "4f8163b1326b1cb8e0cae919070e2c9ee963ace0fd7ca23c2df56e9b38e69536",
+  "markdown_path": "pdf/ORNL-2192/ORNL-2192/hybrid_ocr/ORNL-2192.md",
+  "report_number": "ORNL-2192",
+  "report_numbers": [
+    "ORNL-2192",
+    "ORNL-1712"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 37,
+  "sections": [
+    {
+      "anchor": "ornl-2192",
+      "end_line": 6,
+      "heading": "Ornl-2192",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "optical-properties-and-x-ray-diffraction",
+      "end_line": 8,
+      "heading": "Optical Properties And X-Ray Diffraction",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "data-for-some-inorganic-fluoride",
+      "end_line": 10,
+      "heading": "Data For Some Inorganic Fluoride",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "and-chloride-compounds",
+      "end_line": 22,
+      "heading": "And Chloride Compounds",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "central-research-library-document-collection",
+      "end_line": 24,
+      "heading": "Central Research Library Document Collection",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 26,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 30,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 32,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "operated-byunion-carbide-nuclear-company",
+      "end_line": 38,
+      "heading": "Operated Byunion Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "post-office-box-p-oak-ridge-tennessee",
+      "end_line": 48,
+      "heading": "Post Office Box P · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 57,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 59,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "ornl-2192",
+      "end_line": 63,
+      "heading": "Ornl-2192",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "chemistry-division",
+      "end_line": 67,
+      "heading": "Chemistry Division",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "metallurgy-division",
+      "end_line": 69,
+      "heading": "Metallurgy Division",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "optical-properties-and-x-ray-diffraction-data",
+      "end_line": 71,
+      "heading": "Optical Properties And X-Ray Diffraction Data",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "for-some-inorganic-fluoride-and-chloride-compounds",
+      "end_line": 80,
+      "heading": "For Some Inorganic Fluoride And Chloride Compounds",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "0c723-196",
+      "end_line": 82,
+      "heading": "0C723 196",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 86,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 92,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 106,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 238,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 246,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "distribution-page-to-be-removed-if-report-is-given-public-distribution",
+      "end_line": 248,
+      "heading": "Distribution Page To Be Removed If Report Is Given Public Distribution",
+      "level": 2,
+      "start_line": 247
+    },
+    {
+      "anchor": "optical-properties-and-x-ray-diffraction-data",
+      "end_line": 250,
+      "heading": "OPTICAL PROPERTIES AND X-RAY DIFFRACTION DATA",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "for-some-inorganic-fluoride-and-chloride-compounds",
+      "end_line": 257,
+      "heading": "FOR SOME INORGANIC FLUORIDE AND CHLORIDE COMPOUNDS",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 261,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 271,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 262
+    },
+    {
+      "anchor": "acknowledgements",
+      "end_line": 275,
+      "heading": "ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "part-i",
+      "end_line": 277,
+      "heading": "PART I",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "optical-properties",
+      "end_line": 600,
+      "heading": "Optical Properties",
+      "level": 2,
+      "start_line": 278
+    },
+    {
+      "anchor": "xac-40",
+      "end_line": 1238,
+      "heading": "Xac=40°",
+      "level": 2,
+      "start_line": 601
+    },
+    {
+      "anchor": "zac-220",
+      "end_line": 1254,
+      "heading": "Zac 220",
+      "level": 2,
+      "start_line": 1239
+    },
+    {
+      "anchor": "part-ii",
+      "end_line": 1256,
+      "heading": "PART II",
+      "level": 1,
+      "start_line": 1255
+    },
+    {
+      "anchor": "x-ray-diffraction-data",
+      "end_line": 1632,
+      "heading": "X-Ray Diffraction Data",
+      "level": 2,
+      "start_line": 1257
+    },
+    {
+      "anchor": "3kf-uf3",
+      "end_line": 1678,
+      "heading": "3Kf·Uf3",
+      "level": 2,
+      "start_line": 1633
+    },
+    {
+      "anchor": "footnotes",
+      "end_line": 1717,
+      "heading": "Footnotes",
+      "level": 1,
+      "start_line": 1679
+    }
+  ],
+  "source_dir": "pdf/ORNL-2192",
+  "tables": [],
+  "title": "ORNL-2192",
+  "topics": [
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

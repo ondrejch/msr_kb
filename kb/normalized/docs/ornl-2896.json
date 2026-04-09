@@ -1,0 +1,846 @@
+{
+  "authors": [
+    "BREEDER REACTOR FUELS.",
+    "C. F. Weaver",
+    "R. E. Thoma",
+    "H. Insley",
+    "H. A. Friedman",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2896.jsonl",
+  "date_text": "1961",
+  "doc_id": "ornl-2896",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          376,
+          625
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          175,
+          380
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          376,
+          625
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          151
+        ],
+        "name": "nickel"
+      }
+    ],
+    "organization": [
+      {
+        "count": 53,
+        "line_hits": [
+          1,
+          21,
+          56,
+          82,
+          147,
+          159,
+          224,
+          246,
+          252,
+          256,
+          257,
+          258,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          268,
+          304,
+          338,
+          340,
+          341,
+          370,
+          382,
+          383,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391,
+          400,
+          409,
+          439,
+          445,
+          457,
+          504,
+          509,
+          538,
+          548,
+          557,
+          581,
+          597,
+          621,
+          642,
+          655,
+          681
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          29,
+          92,
+          643,
+          815,
+          816,
+          817,
+          818
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          25,
+          88
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          819
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 48,
+        "line_hits": [
+          37,
+          147,
+          151,
+          153,
+          155,
+          157,
+          165,
+          169,
+          171,
+          177,
+          183,
+          202,
+          206,
+          220,
+          229,
+          231,
+          250,
+          272,
+          277,
+          302,
+          308,
+          313,
+          315,
+          333,
+          354,
+          380,
+          402,
+          404,
+          406,
+          414,
+          433,
+          455,
+          462,
+          468,
+          481,
+          483,
+          564,
+          566,
+          568,
+          570,
+          572,
+          579,
+          603,
+          610,
+          629,
+          635,
+          652,
+          692
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          66,
+          133
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          155
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 155,
+        "line_hits": [
+          9,
+          68,
+          112,
+          114,
+          115,
+          116,
+          118,
+          119,
+          121,
+          122,
+          129,
+          135,
+          147,
+          157,
+          165,
+          175,
+          181,
+          183,
+          189,
+          192,
+          202,
+          213,
+          222,
+          224,
+          227,
+          229,
+          231,
+          233,
+          242,
+          244,
+          248,
+          250,
+          252,
+          254,
+          270,
+          272,
+          275,
+          279,
+          283,
+          293,
+          295,
+          296,
+          297,
+          298,
+          302,
+          304,
+          306,
+          308,
+          311,
+          313
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 23,
+        "line_hits": [
+          116,
+          118,
+          121,
+          122,
+          151,
+          189,
+          306,
+          326,
+          327,
+          329,
+          368,
+          374,
+          470,
+          476,
+          479,
+          555,
+          576,
+          603,
+          623,
+          643,
+          647,
+          655,
+          690
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 21,
+        "line_hits": [
+          121,
+          122,
+          151,
+          189,
+          192,
+          294,
+          297,
+          378,
+          398,
+          437,
+          443,
+          470,
+          476,
+          479,
+          511,
+          555,
+          576,
+          623,
+          647,
+          678,
+          690
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          114,
+          118,
+          122,
+          189,
+          192,
+          242,
+          244,
+          368,
+          374,
+          378,
+          398,
+          437,
+          443,
+          576,
+          603,
+          623,
+          639,
+          647,
+          690
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          114,
+          118,
+          122,
+          192,
+          378,
+          623
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          118,
+          122,
+          623
+        ],
+        "name": "LiF-BeF2-UF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          153,
+          254,
+          335
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          192,
+          378
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          254,
+          335
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          335
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          151
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a350c404c95763fbb0cebc3326ea8b73788561573923d82d32975adcf6203fdc",
+  "markdown_path": "pdf/ORNL-2896/ORNL-2896/hybrid_ocr/ORNL-2896.md",
+  "report_number": "ORNL-2896",
+  "report_numbers": [
+    "ORNL-2896",
+    "ORNL-2548",
+    "CF-56-6-25",
+    "CF-58-2-59",
+    "ORNL-2973",
+    "ORNL-2931",
+    "ORNL-2584"
+  ],
+  "report_series": "ornl-central-files",
+  "section_count": 58,
+  "sections": [
+    {
+      "anchor": "ornl-2896",
+      "end_line": 4,
+      "heading": "Ornl-2896",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "phase-equilibria-in-molten-salt",
+      "end_line": 6,
+      "heading": "Phase Equilibria In Molten Salt",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "breeder-reactor-fuels",
+      "end_line": 20,
+      "heading": "Breeder Reactor Fuels.",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 28,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 34,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 46,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "ornl-2896",
+      "end_line": 63,
+      "heading": "Ornl-2896",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 65,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "phase-equilibria-in-molten-salt-breeder-reactor-fuels",
+      "end_line": 77,
+      "heading": "Phase Equilibria In Molten Salt Breeder Reactor Fuels.",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 79,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "man-11-1961",
+      "end_line": 81,
+      "heading": "Man 11 1961",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 87,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 91,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 93,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "this-page",
+      "end_line": 95,
+      "heading": "This Page",
+      "level": 2,
+      "start_line": 94
+    },
+    {
+      "anchor": "was-intentionally",
+      "end_line": 97,
+      "heading": "Was Intentionally",
+      "level": 2,
+      "start_line": 96
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 99,
+      "heading": "Left Blank",
+      "level": 2,
+      "start_line": 98
+    },
+    {
+      "anchor": "contents",
+      "end_line": 101,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 132,
+      "heading": "Abstract. 1",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "phase-equilibria-in-molten-salt-breeder-reactor-fuels",
+      "end_line": 134,
+      "heading": "PHASE EQUILIBRIA IN MOLTEN SALT BREEDER REACTOR FUELS.",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "i-the-system-lif-bef-2-uf-4-thf-4",
+      "end_line": 144,
+      "heading": "I. THE SYSTEM LiF-BeF $_2$ -UF $_4$ -ThF $_4$",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 148,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 160,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "2-experimental-methods",
+      "end_line": 162,
+      "heading": "2. EXPERIMENTAL METHODS",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "2-1-techniques-and-apparatus",
+      "end_line": 172,
+      "heading": "2.1 Techniques and Apparatus",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "2-2-materials",
+      "end_line": 178,
+      "heading": "2.2 Materials",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "3-phase-equilibria-and-related-phenomena",
+      "end_line": 180,
+      "heading": "3. PHASE EQUILIBRIA AND RELATED PHENOMENA",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "3-1-the-components-lif-mathsf-bef-2-mathsf-thf-4-and-mathsf-uf-4",
+      "end_line": 203,
+      "heading": "3.1 The Components LiF, $\\mathsf{BeF}_2$ , $\\mathsf{ThF}_4$ , and $\\mathsf{UF}_4$",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "3-2-the-systems-mathsf-bef-2-thf-and-mathsf-bef-2-uf",
+      "end_line": 221,
+      "heading": "3.2 The Systems $\\mathsf{BeF}_2$ -ThF and $\\mathsf{BeF}_2$ -UF",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "3-3-the-system-lif-bef-2",
+      "end_line": 269,
+      "heading": "3.3 The System LiF-BeF $_2$",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "3-4-the-system-lif-thf-sub-4-sub",
+      "end_line": 305,
+      "heading": "3.4 The System LiF-ThF<sub>4</sub>",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "3-5-the-system-lif-uf4",
+      "end_line": 342,
+      "heading": "3.5 The System LiF-UF4",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "3-6-the-system-mathbf-u-mathbf-f-4-thf",
+      "end_line": 351,
+      "heading": "3.6 The System $\\mathbf{U}\\mathbf{F}_4$ -ThF",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "3-7-the-system-lif-bef-2-uf-4",
+      "end_line": 377,
+      "heading": "3.7 The System LiF-BeF $_2$ -UF $_4$",
+      "level": 1,
+      "start_line": 352
+    },
+    {
+      "anchor": "3-8-the-system-lif-bef2-thf4",
+      "end_line": 408,
+      "heading": "3.8 The System LiF-BeF2-ThF4",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-43137",
+      "end_line": 450,
+      "heading": "Unclassified Ornl-Lr-Dwg 43137",
+      "level": 2,
+      "start_line": 409
+    },
+    {
+      "anchor": "3-9-the-system-mathrm-bef-2-mathrm-thf-4-mathrm-uf-4",
+      "end_line": 456,
+      "heading": "3.9 The System $\\mathrm{BeF}_2\\mathrm{-ThF}_4\\mathrm{-UF}_4$",
+      "level": 1,
+      "start_line": 451
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-so123r",
+      "end_line": 465,
+      "heading": "Unclassified Ornl-Lr-Dwg So123R",
+      "level": 2,
+      "start_line": 457
+    },
+    {
+      "anchor": "3-10-the-system-mathrm-lif-uf-4-thf-4",
+      "end_line": 503,
+      "heading": "3.10 The System $\\mathrm{LiF - UF_4 - ThF_4}$",
+      "level": 1,
+      "start_line": 466
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-27917ar",
+      "end_line": 508,
+      "heading": "Unclassified Ornl-Lr-Dwg 27917Ar",
+      "level": 2,
+      "start_line": 504
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-35503r",
+      "end_line": 535,
+      "heading": "Unclassified Ornl-Lr-Dwg 35503R",
+      "level": 2,
+      "start_line": 509
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 537,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 536
+    },
+    {
+      "anchor": "ornl-lr-dwg-35739",
+      "end_line": 545,
+      "heading": "Ornl-Lr-Dwg 35739",
+      "level": 2,
+      "start_line": 538
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 547,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 546
+    },
+    {
+      "anchor": "ornl-lr-dwg35740r",
+      "end_line": 561,
+      "heading": "Ornl-Lr-Dwg35740R",
+      "level": 2,
+      "start_line": 548
+    },
+    {
+      "anchor": "3-11-the-system-lif-bef-2-uf-4-thf-4-selected-portions",
+      "end_line": 626,
+      "heading": "3.11 The System LiF-BeF $_2$ -UF $_4$ -ThF $_4$ (Selected Portions)",
+      "level": 1,
+      "start_line": 562
+    },
+    {
+      "anchor": "4-acknowledgments",
+      "end_line": 630,
+      "heading": "4. ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 627
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 632,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "optical-and-crystallographic-properties",
+      "end_line": 673,
+      "heading": "OPTICAL AND CRYSTALLOGRAPHIC PROPERTIES",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 687,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 674
+    },
+    {
+      "anchor": "liquidus-temperatures-and-primary-phases-for-specific-compositions",
+      "end_line": 693,
+      "heading": "Liquidus Temperatures And Primary Phases For Specific Compositions",
+      "level": 2,
+      "start_line": 688
+    },
+    {
+      "anchor": "ornl-2896",
+      "end_line": 699,
+      "heading": "Ornl-2896",
+      "level": 2,
+      "start_line": 694
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 806,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "ornl-r-c",
+      "end_line": 812,
+      "heading": "Ornl R.C.",
+      "level": 2,
+      "start_line": 807
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 823,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 813
+    }
+  ],
+  "source_dir": "pdf/ORNL-2896",
+  "tables": [],
+  "title": "ORNL-2896",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls",
+    "graphite-and-moderator-behavior",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

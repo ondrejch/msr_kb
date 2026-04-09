@@ -1,0 +1,3428 @@
+{
+  "authors": [
+    "R. B. Briggs",
+    "C.W.Nestor",
+    "National Technical Information Service",
+    "U.S. Department of Commerce",
+    "Reactor Technology"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4804.jsonl",
+  "date_text": "1975",
+  "doc_id": "ornl-tm-4804",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 12,
+        "line_hits": [
+          127,
+          197,
+          203,
+          455,
+          467,
+          1027,
+          1035,
+          1039,
+          1135,
+          1153,
+          1156,
+          1240
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1378,
+          1936,
+          2011,
+          2056
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 21,
+        "line_hits": [
+          102,
+          108,
+          131,
+          167,
+          179,
+          185,
+          191,
+          237,
+          283,
+          409,
+          499,
+          847,
+          1027,
+          1033,
+          1049,
+          1135,
+          1141,
+          1151,
+          1152,
+          1161,
+          1240
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          289,
+          347,
+          349,
+          509,
+          1027,
+          1051,
+          1135,
+          1141,
+          1162,
+          1170,
+          1240
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          8,
+          24,
+          50,
+          112,
+          1936,
+          2182
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          10,
+          56
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          10
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 35,
+        "line_hits": [
+          102,
+          108,
+          110,
+          117,
+          123,
+          125,
+          129,
+          133,
+          135,
+          139,
+          149,
+          163,
+          227,
+          229,
+          235,
+          335,
+          371,
+          378,
+          421,
+          429,
+          519,
+          571,
+          587,
+          681,
+          715,
+          725,
+          1009,
+          1246,
+          1250,
+          1262,
+          1268,
+          1286,
+          1378,
+          1786,
+          1936
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          1,
+          34,
+          80,
+          96,
+          106,
+          108,
+          110,
+          115,
+          129,
+          141,
+          151
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          127
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          1754,
+          1781
+        ],
+        "name": "KF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9c120498c8708aa47d4b0b1c6023aa306d4198218e2d30e0bc782bc2e0040ffa",
+  "markdown_path": "pdf/ORNL-TM-4804/ORNL-TM-4804/hybrid_ocr/ORNL-TM-4804.md",
+  "report_number": "ORNL-TM-4804",
+  "report_numbers": [
+    "ORNL-TM-4804"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 458,
+  "sections": [
+    {
+      "anchor": "a-method-for-calculating-the-steady-state-distribution-of-tritium-in-a-molten-salt-breeder-reactor-plant",
+      "end_line": 7,
+      "heading": "A Method for Calculating the Steady-State Distribution of Tritium in a Molten-Salt Breeder Reactor Plant",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 9,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 8
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 23,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 10
+    },
+    {
+      "anchor": "ornl-tm-4804",
+      "end_line": 43,
+      "heading": "Ornl-Tm-4804",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "april-1975",
+      "end_line": 45,
+      "heading": "April 1975",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "notice",
+      "end_line": 49,
+      "heading": "Notice",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 55,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 59,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "u-s-energy-research-and-development-administration",
+      "end_line": 61,
+      "heading": "U.S. Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "master",
+      "end_line": 65,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "contents",
+      "end_line": 77,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 93,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "a-method-for-calculating-the-steady-state-distribution",
+      "end_line": 95,
+      "heading": "A METHOD FOR CALCULATING THE STEADY-STATE DISTRIBUTION",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "of-tritium-in-a-molten-salt-breeder-reactor-plant",
+      "end_line": 99,
+      "heading": "OF TRITIUM IN A MOLTEN-SALT BREEDER REACTOR PLANT",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 103,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 111,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "ornl-dwg68-1185eb",
+      "end_line": 158,
+      "heading": "Ornl-Dwg68-1185Eb",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "ii-derivation-of-equations-and-computational-procedures",
+      "end_line": 394,
+      "heading": "II. DERIVATION OF EQUATIONS AND COMPUTATIONAL PROCEDURES",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "d-primary-system",
+      "end_line": 588,
+      "heading": "D. Primary system:",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "iii-solution-of-equations",
+      "end_line": 773,
+      "heading": "III. SOLUTION OF EQUATIONS",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "f-0-0",
+      "end_line": 796,
+      "heading": "F (0) > 0",
+      "level": 2,
+      "start_line": 774
+    },
+    {
+      "anchor": "g-0-f-0-0",
+      "end_line": 1024,
+      "heading": "G (0) = - F (0) < 0",
+      "level": 2,
+      "start_line": 797
+    },
+    {
+      "anchor": "iv-nomenclature",
+      "end_line": 1089,
+      "heading": "IV. NOMENCLATURE",
+      "level": 1,
+      "start_line": 1025
+    },
+    {
+      "anchor": "c-3-5-c-4-1",
+      "end_line": 1168,
+      "heading": "C _ {3 5} - C _ {4 1} = - -",
+      "level": 2,
+      "start_line": 1090
+    },
+    {
+      "anchor": "q20",
+      "end_line": 1224,
+      "heading": "Q20 = --",
+      "level": 2,
+      "start_line": 1169
+    },
+    {
+      "anchor": "q-3-9",
+      "end_line": 1243,
+      "heading": "Q _ {3 9} = - -",
+      "level": 2,
+      "start_line": 1225
+    },
+    {
+      "anchor": "v-computer-program-input-instructions-and-sample-problem",
+      "end_line": 1275,
+      "heading": "V. COMPUTER PROGRAM, INPUT INSTRUCTIONS AND SAMPLE PROBLEM",
+      "level": 1,
+      "start_line": 1244
+    },
+    {
+      "anchor": "reset-xxx",
+      "end_line": 1279,
+      "heading": "Reset Xxx",
+      "level": 2,
+      "start_line": 1276
+    },
+    {
+      "anchor": "reset-a",
+      "end_line": 1300,
+      "heading": "Reset A",
+      "level": 2,
+      "start_line": 1280
+    },
+    {
+      "anchor": "output-summary",
+      "end_line": 1306,
+      "heading": "Output Summary",
+      "level": 2,
+      "start_line": 1301
+    },
+    {
+      "anchor": "a-1-3",
+      "end_line": 1308,
+      "heading": "A (1,3)",
+      "level": 2,
+      "start_line": 1307
+    },
+    {
+      "anchor": "1-20000c-06-1-000000-06-7-00cc00-06",
+      "end_line": 1310,
+      "heading": "1.20000C 06 1.000000 06 7.00Cc00 06",
+      "level": 2,
+      "start_line": 1309
+    },
+    {
+      "anchor": "a-13-13",
+      "end_line": 1312,
+      "heading": "A (13.13)",
+      "level": 2,
+      "start_line": 1311
+    },
+    {
+      "anchor": "6-20000d-07",
+      "end_line": 1327,
+      "heading": "6.20000D 07",
+      "level": 2,
+      "start_line": 1313
+    },
+    {
+      "anchor": "output-summary",
+      "end_line": 1331,
+      "heading": "Output Summary",
+      "level": 2,
+      "start_line": 1328
+    },
+    {
+      "anchor": "secondary-system",
+      "end_line": 1342,
+      "heading": "Secondary System",
+      "level": 2,
+      "start_line": 1332
+    },
+    {
+      "anchor": "flows",
+      "end_line": 1343,
+      "heading": "Flows",
+      "level": 2,
+      "start_line": 1343
+    },
+    {
+      "anchor": "h-t-thru-walls-into-cell",
+      "end_line": 1344,
+      "heading": "H + T Thru Walls Into Cell",
+      "level": 2,
+      "start_line": 1344
+    },
+    {
+      "anchor": "t-thru-walls-into-cell",
+      "end_line": 1345,
+      "heading": "T Thru Walls Into Cell",
+      "level": 2,
+      "start_line": 1345
+    },
+    {
+      "anchor": "sorption-by-sink",
+      "end_line": 1346,
+      "heading": "Sorption By Sink",
+      "level": 2,
+      "start_line": 1346
+    },
+    {
+      "anchor": "h-t",
+      "end_line": 1350,
+      "heading": "H + T",
+      "level": 2,
+      "start_line": 1347
+    },
+    {
+      "anchor": "7-25410d-15",
+      "end_line": 1351,
+      "heading": "7.25410D 15",
+      "level": 2,
+      "start_line": 1351
+    },
+    {
+      "anchor": "4-38759d-16",
+      "end_line": 1352,
+      "heading": "4.38759D 16",
+      "level": 2,
+      "start_line": 1352
+    },
+    {
+      "anchor": "4-38205d-16",
+      "end_line": 1353,
+      "heading": "4.38205D 16",
+      "level": 2,
+      "start_line": 1353
+    },
+    {
+      "anchor": "2-31135d-17",
+      "end_line": 1365,
+      "heading": "2.31135D 17",
+      "level": 2,
+      "start_line": 1354
+    },
+    {
+      "anchor": "acrpmal-stop-all-cata-processed",
+      "end_line": 1367,
+      "heading": "Acrpmal Stop - All Cata Processed",
+      "level": 2,
+      "start_line": 1366
+    },
+    {
+      "anchor": "ihc002istop-0",
+      "end_line": 1373,
+      "heading": "Ihc002Istop 0",
+      "level": 2,
+      "start_line": 1368
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 1375,
+      "heading": "Appendix",
+      "level": 2,
+      "start_line": 1374
+    },
+    {
+      "anchor": "program-listing",
+      "end_line": 1379,
+      "heading": "Program Listing",
+      "level": 2,
+      "start_line": 1376
+    },
+    {
+      "anchor": "page-002",
+      "end_line": 1382,
+      "heading": "Page 002",
+      "level": 2,
+      "start_line": 1380
+    },
+    {
+      "anchor": "isn-0076-gc-tc-125",
+      "end_line": 1384,
+      "heading": "Isn 0076 Gc Tc 125",
+      "level": 2,
+      "start_line": 1383
+    },
+    {
+      "anchor": "isn-0077-135-if-card-1-ne-mres-gu-to-15c",
+      "end_line": 1385,
+      "heading": "Isn 0077 135 If(Card(1),Ne,Mres) Gu To 15C",
+      "level": 2,
+      "start_line": 1385
+    },
+    {
+      "anchor": "isn-0079-1if-card-3-ne-hblk-gu-to-137",
+      "end_line": 1386,
+      "heading": "Isn 0079 1If(Card(3),Ne,Hblk) Gu To 137",
+      "level": 2,
+      "start_line": 1386
+    },
+    {
+      "anchor": "isn-0081-136-call-setref-card-3",
+      "end_line": 1387,
+      "heading": "Isn 0081 136 Call Setref(Card(3))",
+      "level": 2,
+      "start_line": 1387
+    },
+    {
+      "anchor": "isn-0082-gc-tc-100",
+      "end_line": 1391,
+      "heading": "Isn 0082 Gc Tc 100",
+      "level": 2,
+      "start_line": 1388
+    },
+    {
+      "anchor": "page-003",
+      "end_line": 1393,
+      "heading": "Page 003",
+      "level": 2,
+      "start_line": 1392
+    },
+    {
+      "anchor": "isbn-0169",
+      "end_line": 1397,
+      "heading": "Isbn 0169",
+      "level": 2,
+      "start_line": 1394
+    },
+    {
+      "anchor": "jsn-oisi",
+      "end_line": 1399,
+      "heading": "Jsn Oisi",
+      "level": 2,
+      "start_line": 1398
+    },
+    {
+      "anchor": "1sn-0157",
+      "end_line": 1401,
+      "heading": "1Sn 0157",
+      "level": 2,
+      "start_line": 1400
+    },
+    {
+      "anchor": "1sn0133",
+      "end_line": 1403,
+      "heading": "1Sn0133",
+      "level": 2,
+      "start_line": 1402
+    },
+    {
+      "anchor": "1sn-0154",
+      "end_line": 1405,
+      "heading": "1Sn 0154",
+      "level": 2,
+      "start_line": 1404
+    },
+    {
+      "anchor": "isn-0155",
+      "end_line": 1407,
+      "heading": "Isn 0155",
+      "level": 2,
+      "start_line": 1406
+    },
+    {
+      "anchor": "1sn0156",
+      "end_line": 1409,
+      "heading": "1Sn0156",
+      "level": 2,
+      "start_line": 1408
+    },
+    {
+      "anchor": "1sn015",
+      "end_line": 1411,
+      "heading": "1Sn015?",
+      "level": 2,
+      "start_line": 1410
+    },
+    {
+      "anchor": "tsn-0158",
+      "end_line": 1413,
+      "heading": "Tsn 0158",
+      "level": 2,
+      "start_line": 1412
+    },
+    {
+      "anchor": "isn-0159",
+      "end_line": 1415,
+      "heading": "Isn 0159",
+      "level": 2,
+      "start_line": 1414
+    },
+    {
+      "anchor": "isn-0160",
+      "end_line": 1417,
+      "heading": "Isn 0160",
+      "level": 2,
+      "start_line": 1416
+    },
+    {
+      "anchor": "sn-016",
+      "end_line": 1419,
+      "heading": "[Sn 016]",
+      "level": 2,
+      "start_line": 1418
+    },
+    {
+      "anchor": "isn-0162",
+      "end_line": 1421,
+      "heading": "Isn 0162",
+      "level": 2,
+      "start_line": 1420
+    },
+    {
+      "anchor": "isn-0163",
+      "end_line": 1423,
+      "heading": "Isn 0163",
+      "level": 2,
+      "start_line": 1422
+    },
+    {
+      "anchor": "isn-0165",
+      "end_line": 1425,
+      "heading": "Isn 0165",
+      "level": 2,
+      "start_line": 1424
+    },
+    {
+      "anchor": "isn-0166",
+      "end_line": 1427,
+      "heading": "Isn 0166",
+      "level": 2,
+      "start_line": 1426
+    },
+    {
+      "anchor": "isn-0167",
+      "end_line": 1429,
+      "heading": "Isn 0167",
+      "level": 2,
+      "start_line": 1428
+    },
+    {
+      "anchor": "15n-0168",
+      "end_line": 1431,
+      "heading": "15N 0168",
+      "level": 2,
+      "start_line": 1430
+    },
+    {
+      "anchor": "tsn-0169",
+      "end_line": 1433,
+      "heading": "Tsn 0169",
+      "level": 2,
+      "start_line": 1432
+    },
+    {
+      "anchor": "isn-0170",
+      "end_line": 1435,
+      "heading": "Isn 0170",
+      "level": 2,
+      "start_line": 1434
+    },
+    {
+      "anchor": "15n-0171",
+      "end_line": 1437,
+      "heading": "15N 0171",
+      "level": 2,
+      "start_line": 1436
+    },
+    {
+      "anchor": "issn-0172",
+      "end_line": 1439,
+      "heading": "Issn 0172",
+      "level": 2,
+      "start_line": 1438
+    },
+    {
+      "anchor": "sn0173",
+      "end_line": 1441,
+      "heading": "[Sn0173",
+      "level": 2,
+      "start_line": 1440
+    },
+    {
+      "anchor": "15n-0174",
+      "end_line": 1443,
+      "heading": "15N 0174",
+      "level": 2,
+      "start_line": 1442
+    },
+    {
+      "anchor": "1sn0176",
+      "end_line": 1445,
+      "heading": "1Sn0176",
+      "level": 2,
+      "start_line": 1444
+    },
+    {
+      "anchor": "15n-c177",
+      "end_line": 1447,
+      "heading": "15N C177",
+      "level": 2,
+      "start_line": 1446
+    },
+    {
+      "anchor": "15n-0178",
+      "end_line": 1449,
+      "heading": "15N 0178",
+      "level": 2,
+      "start_line": 1448
+    },
+    {
+      "anchor": "15n-0179",
+      "end_line": 1451,
+      "heading": "15N 0179",
+      "level": 2,
+      "start_line": 1450
+    },
+    {
+      "anchor": "15n-0180",
+      "end_line": 1453,
+      "heading": "15N 0180",
+      "level": 2,
+      "start_line": 1452
+    },
+    {
+      "anchor": "isn-0181",
+      "end_line": 1455,
+      "heading": "Isn 0181",
+      "level": 2,
+      "start_line": 1454
+    },
+    {
+      "anchor": "isn-0183",
+      "end_line": 1457,
+      "heading": "Isn 0183",
+      "level": 2,
+      "start_line": 1456
+    },
+    {
+      "anchor": "15n-0184",
+      "end_line": 1459,
+      "heading": "15N 0184",
+      "level": 2,
+      "start_line": 1458
+    },
+    {
+      "anchor": "isbn-0185",
+      "end_line": 1461,
+      "heading": "Isbn 0185",
+      "level": 2,
+      "start_line": 1460
+    },
+    {
+      "anchor": "15n-0186",
+      "end_line": 1463,
+      "heading": "15N 0186",
+      "level": 2,
+      "start_line": 1462
+    },
+    {
+      "anchor": "15n-0187",
+      "end_line": 1465,
+      "heading": "15N 0187",
+      "level": 2,
+      "start_line": 1464
+    },
+    {
+      "anchor": "isn-0188",
+      "end_line": 1467,
+      "heading": "Isn 0188",
+      "level": 2,
+      "start_line": 1466
+    },
+    {
+      "anchor": "isn-0189",
+      "end_line": 1469,
+      "heading": "Isn 0189",
+      "level": 2,
+      "start_line": 1468
+    },
+    {
+      "anchor": "isn-0190",
+      "end_line": 1471,
+      "heading": "Isn 0190",
+      "level": 2,
+      "start_line": 1470
+    },
+    {
+      "anchor": "isn-0191",
+      "end_line": 1473,
+      "heading": "Isn 0191",
+      "level": 2,
+      "start_line": 1472
+    },
+    {
+      "anchor": "15n-0192",
+      "end_line": 1475,
+      "heading": "15N 0192",
+      "level": 2,
+      "start_line": 1474
+    },
+    {
+      "anchor": "15n-0193",
+      "end_line": 1477,
+      "heading": "15N 0193",
+      "level": 2,
+      "start_line": 1476
+    },
+    {
+      "anchor": "isbn-0194",
+      "end_line": 1479,
+      "heading": "Isbn 0194",
+      "level": 2,
+      "start_line": 1478
+    },
+    {
+      "anchor": "15n-g196",
+      "end_line": 1481,
+      "heading": "15N G196",
+      "level": 2,
+      "start_line": 1480
+    },
+    {
+      "anchor": "sn-0197",
+      "end_line": 1483,
+      "heading": "[Sn 0197]",
+      "level": 2,
+      "start_line": 1482
+    },
+    {
+      "anchor": "1sn-0198",
+      "end_line": 1485,
+      "heading": "1Sn 0198",
+      "level": 2,
+      "start_line": 1484
+    },
+    {
+      "anchor": "isn-0199",
+      "end_line": 1487,
+      "heading": "Isn 0199",
+      "level": 2,
+      "start_line": 1486
+    },
+    {
+      "anchor": "sn-0200",
+      "end_line": 1489,
+      "heading": "Sn 0200",
+      "level": 2,
+      "start_line": 1488
+    },
+    {
+      "anchor": "1sn-0207",
+      "end_line": 1491,
+      "heading": "1Sn 0207",
+      "level": 2,
+      "start_line": 1490
+    },
+    {
+      "anchor": "isbn-0204",
+      "end_line": 1493,
+      "heading": "Isbn 0204",
+      "level": 2,
+      "start_line": 1492
+    },
+    {
+      "anchor": "isn-0205",
+      "end_line": 1495,
+      "heading": "Isn 0205",
+      "level": 2,
+      "start_line": 1494
+    },
+    {
+      "anchor": "1sn-0206",
+      "end_line": 1497,
+      "heading": "1Sn 0206",
+      "level": 2,
+      "start_line": 1496
+    },
+    {
+      "anchor": "isbn-0207",
+      "end_line": 1499,
+      "heading": "Isbn 0207",
+      "level": 2,
+      "start_line": 1498
+    },
+    {
+      "anchor": "15n-0208",
+      "end_line": 1501,
+      "heading": "15N 0208",
+      "level": 2,
+      "start_line": 1500
+    },
+    {
+      "anchor": "isn-0210",
+      "end_line": 1503,
+      "heading": "Isn 0210",
+      "level": 2,
+      "start_line": 1502
+    },
+    {
+      "anchor": "1sn0211",
+      "end_line": 1505,
+      "heading": "1Sn0211",
+      "level": 2,
+      "start_line": 1504
+    },
+    {
+      "anchor": "isbn-0212",
+      "end_line": 1507,
+      "heading": "Isbn 0212",
+      "level": 2,
+      "start_line": 1506
+    },
+    {
+      "anchor": "isn-0213",
+      "end_line": 1509,
+      "heading": "Isn 0213",
+      "level": 2,
+      "start_line": 1508
+    },
+    {
+      "anchor": "sn-0215",
+      "end_line": 1511,
+      "heading": "[Sn 0215]",
+      "level": 2,
+      "start_line": 1510
+    },
+    {
+      "anchor": "15n-0216",
+      "end_line": 1519,
+      "heading": "15N 0216",
+      "level": 2,
+      "start_line": 1512
+    },
+    {
+      "anchor": "alf-k-i-p-i-t-i-h-i-2",
+      "end_line": 1521,
+      "heading": "Alf=K（I）*（P（I）/（T（I）*H（I）））**2",
+      "level": 2,
+      "start_line": 1520
+    },
+    {
+      "anchor": "call-colac-cc-alfa-c-1",
+      "end_line": 1523,
+      "heading": "Call Colac(Cc,Alfa.C(1))",
+      "level": 2,
+      "start_line": 1522
+    },
+    {
+      "anchor": "q-1-p-1-a-1-dsqrt-k-1-c-1-t-1",
+      "end_line": 1525,
+      "heading": "Q[1] = P[1] * A[1] * Dsqrt(K[1] * C[1]) / T[1]",
+      "level": 2,
+      "start_line": 1524
+    },
+    {
+      "anchor": "bc5-continue",
+      "end_line": 1527,
+      "heading": "Bc5 Continue",
+      "level": 2,
+      "start_line": 1526
+    },
+    {
+      "anchor": "get-c-16-c-10-eus-17a-8",
+      "end_line": 1531,
+      "heading": "Get C(16), C(10) - Eus. 17A.8",
+      "level": 2,
+      "start_line": 1528
+    },
+    {
+      "anchor": "a-fa-k-16-pw-h-16-2",
+      "end_line": 1533,
+      "heading": "A{Fa=K(16)*{Pw/H(16)】**2",
+      "level": 2,
+      "start_line": 1532
+    },
+    {
+      "anchor": "callcccad-ccalfa-c16",
+      "end_line": 1537,
+      "heading": "Callcccad{Ccalfa.C16）}",
+      "level": 2,
+      "start_line": 1534
+    },
+    {
+      "anchor": "gel-171-e9-18",
+      "end_line": 1539,
+      "heading": "Gel 171 - E9. 18",
+      "level": 2,
+      "start_line": 1538
+    },
+    {
+      "anchor": "0-17-f-3-e-3-cc",
+      "end_line": 1541,
+      "heading": "0[17]=F(3)*E(3)*Cc",
+      "level": 2,
+      "start_line": 1540
+    },
+    {
+      "anchor": "get-c-13-0-13-c-14-c-15-0-15",
+      "end_line": 1543,
+      "heading": "Get C(13), 0(13), C(14), C(15), 0(15)",
+      "level": 2,
+      "start_line": 1542
+    },
+    {
+      "anchor": "ecs-14a-b-22a-15a-b-23a-16a-b-24a",
+      "end_line": 1545,
+      "heading": "Ecs. 14A.B. 22A. 15A.B. 23A. 16A.B. 24A",
+      "level": 2,
+      "start_line": 1544
+    },
+    {
+      "anchor": "gcaf-0",
+      "end_line": 1547,
+      "heading": "Gcaf=0",
+      "level": 2,
+      "start_line": 1546
+    },
+    {
+      "anchor": "call-csclve-cc-csg-p-13-t-13-f-13-f-21-k-13-k-21-ctcl",
+      "end_line": 1549,
+      "heading": "Call Csclve(Cc.Csg.P(13).T(13).F(13).F(21).K(13).K(21)).Ctcl.",
+      "level": 2,
+      "start_line": 1548
+    },
+    {
+      "anchor": "gccf-c-13-c-21",
+      "end_line": 1557,
+      "heading": "Gccf.C（13）.C（21）",
+      "level": 2,
+      "start_line": 1550
+    },
+    {
+      "anchor": "c2-csg",
+      "end_line": 1559,
+      "heading": "C2=Csg",
+      "level": 2,
+      "start_line": 1558
+    },
+    {
+      "anchor": "15-wriie-kcut-30-k1-k2",
+      "end_line": 1561,
+      "heading": "15 WRIIE(KCUT,30) K1,K2",
+      "level": 2,
+      "start_line": 1560
+    },
+    {
+      "anchor": "fcrmt-falurein-solutionfcr-c-1-12-andc-12",
+      "end_line": 1563,
+      "heading": "Fcrmt\\*Falurein Solutionfcr C(1,12,）Andc(12,）",
+      "level": 2,
+      "start_line": 1562
+    },
+    {
+      "anchor": "1g0c-1",
+      "end_line": 1565,
+      "heading": "1G0C#-1",
+      "level": 2,
+      "start_line": 1564
+    },
+    {
+      "anchor": "call-csclve-c-c2-p-k1-t-k1-f-k1-f-k2-k-k1-k-k2-ctql",
+      "end_line": 1567,
+      "heading": "Call Csclve(C,C2,P(K1),T(K1),F(K1),F(K2),K(K1),K(K2),Ctql",
+      "level": 2,
+      "start_line": 1566
+    },
+    {
+      "anchor": "igccf-c-k1-c-k2",
+      "end_line": 1573,
+      "heading": "Igccf.C(K1）.C(K2)",
+      "level": 2,
+      "start_line": 1568
+    },
+    {
+      "anchor": "ficgcef-le-01-gutu-25",
+      "end_line": 1575,
+      "heading": "[Ficgcef.Le.01 Gutu 25",
+      "level": 2,
+      "start_line": 1574
+    },
+    {
+      "anchor": "k1-14",
+      "end_line": 1577,
+      "heading": "K1=14",
+      "level": 2,
+      "start_line": 1576
+    },
+    {
+      "anchor": "k2-22",
+      "end_line": 1581,
+      "heading": "K2=22",
+      "level": 2,
+      "start_line": 1578
+    },
+    {
+      "anchor": "go-to-315",
+      "end_line": 1583,
+      "heading": "Go To 315",
+      "level": 2,
+      "start_line": 1582
+    },
+    {
+      "anchor": "025callcsclve-cc-csr-p-15-t-15-f-15-f-23-k-15-k-23-ctcl",
+      "end_line": 1585,
+      "heading": "025Callcsclve(Cc,Csr.P(15),T(15),F(15),F(23),K(15),K(23),Ctcl.",
+      "level": 2,
+      "start_line": 1584
+    },
+    {
+      "anchor": "gcrf-c-15-c-23",
+      "end_line": 1589,
+      "heading": "Gcrf.C(15),C(23))",
+      "level": 2,
+      "start_line": 1586
+    },
+    {
+      "anchor": "k1-15",
+      "end_line": 1593,
+      "heading": "K1=15",
+      "level": 2,
+      "start_line": 1590
+    },
+    {
+      "anchor": "c2-cc",
+      "end_line": 1601,
+      "heading": "C2=Cc",
+      "level": 2,
+      "start_line": 1594
+    },
+    {
+      "anchor": "q-i-h-i-a-i-cc-c-i",
+      "end_line": 1603,
+      "heading": "Q（I）=H（I）*A（I）*（Cc-C（I））",
+      "level": 2,
+      "start_line": 1602
+    },
+    {
+      "anchor": "c-8-1-c-1",
+      "end_line": 1605,
+      "heading": "C（8+1）=-C（1）",
+      "level": 2,
+      "start_line": 1604
+    },
+    {
+      "anchor": "35-ccntinlf",
+      "end_line": 1607,
+      "heading": "35 CCNTINLF",
+      "level": 2,
+      "start_line": 1606
+    },
+    {
+      "anchor": "get-c-12-c-4-and-c-12-eqs-21a-13a-r",
+      "end_line": 1611,
+      "heading": "Get C(12), C(4) And C(12) - Eqs. 21A, 13A, R",
+      "level": 2,
+      "start_line": 1608
+    },
+    {
+      "anchor": "0-4-c-12",
+      "end_line": 1613,
+      "heading": "0（4）-C（12）",
+      "level": 2,
+      "start_line": 1612
+    },
+    {
+      "anchor": "c-12-cc-12-h-12-a-4",
+      "end_line": 1615,
+      "heading": "C（12）=Cc-（12）/（H（12）*A（4））",
+      "level": 2,
+      "start_line": 1614
+    },
+    {
+      "anchor": "1f-12-g1-0-00-60-10-340",
+      "end_line": 1619,
+      "heading": "1F[（12）.G1.0.00] 60 10 340",
+      "level": 2,
+      "start_line": 1616
+    },
+    {
+      "anchor": "white-kclt-80-ncc-hulk-cc-cc-cc",
+      "end_line": 1621,
+      "heading": "White(Kclt,80) Ncc.Hulk.Cc.Cc(Cc)",
+      "level": 2,
+      "start_line": 1620
+    },
+    {
+      "anchor": "80-format-1x-13-4-cc-a1-1-1-1fe14-5-4-112-4-1-e14-5",
+      "end_line": 1623,
+      "heading": "80 Format(1X.13.4 Cc. A1.1 = 1,1Fe14.5,4 (112.4) = 1, E14.5)",
+      "level": 2,
+      "start_line": 1622
+    },
+    {
+      "anchor": "ie-112-is-negative-adjust-cc-ang-iry-again",
+      "end_line": 1625,
+      "heading": "Ie (112) Is Negative. Adjust Cc Ang Iry Again",
+      "level": 2,
+      "start_line": 1624
+    },
+    {
+      "anchor": "136cc-cc-cc",
+      "end_line": 1627,
+      "heading": "136Cc=Cc+Cc",
+      "level": 2,
+      "start_line": 1626
+    },
+    {
+      "anchor": "see-if-an-upper-limii-cc2-was-fclnc",
+      "end_line": 1629,
+      "heading": "See If An Upper Limii (Cc2) Was Fclnc.",
+      "level": 2,
+      "start_line": 1628
+    },
+    {
+      "anchor": "if-sc-cc-not-exceed-it",
+      "end_line": 1631,
+      "heading": "If Sc, Cc Not Exceed It.",
+      "level": 2,
+      "start_line": 1630
+    },
+    {
+      "anchor": "if-cc2-eg-c-co-go-to-300",
+      "end_line": 1633,
+      "heading": "If（Cc2.Eg.C.Co）Go To 300",
+      "level": 2,
+      "start_line": 1632
+    },
+    {
+      "anchor": "if-cc-11-cc2-go-to-300",
+      "end_line": 1635,
+      "heading": "If（Cc.11.Cc2）Go To 300",
+      "level": 2,
+      "start_line": 1634
+    },
+    {
+      "anchor": "cc-0-5dc-cc2-u-500-cc",
+      "end_line": 1637,
+      "heading": "Cc=0.5Dc*（Cc2+U.500*Cc）",
+      "level": 2,
+      "start_line": 1636
+    },
+    {
+      "anchor": "gc-tc-300",
+      "end_line": 1639,
+      "heading": "Gc Tc 300",
+      "level": 2,
+      "start_line": 1638
+    },
+    {
+      "anchor": "get-c-4-and-cr-eos-13a-b-4a-b",
+      "end_line": 1643,
+      "heading": "Get C(4) And Cr - Eos. 13A.B. 4A.B",
+      "level": 2,
+      "start_line": 1640
+    },
+    {
+      "anchor": "c-f-c-4-c-12-h-4-4",
+      "end_line": 1645,
+      "heading": "C=F(C(4)-C(12)/(H(4)*Δ(4))",
+      "level": 2,
+      "start_line": 1644
+    },
+    {
+      "anchor": "ifcf-61-0-c0-go-to-500",
+      "end_line": 1647,
+      "heading": "[Ifcf.61.0.C0] Go To 500",
+      "level": 2,
+      "start_line": 1646
+    },
+    {
+      "anchor": "if-ce-is-negative-adjust-cc-and-try-again",
+      "end_line": 1649,
+      "heading": "If Ce Is Negative, Adjust Cc And Try Again",
+      "level": 2,
+      "start_line": 1648
+    },
+    {
+      "anchor": "write-kclt-81-ncc-hblk-cc-felk-cf",
+      "end_line": 1653,
+      "heading": "Write(Kclt.81) Ncc.Hblk.Cc.Felk.Cf",
+      "level": 2,
+      "start_line": 1650
+    },
+    {
+      "anchor": "gg-16-336",
+      "end_line": 1655,
+      "heading": "Gg 16 336",
+      "level": 2,
+      "start_line": 1654
+    },
+    {
+      "anchor": "ccifktry-ae-1-gto-so",
+      "end_line": 1657,
+      "heading": "Ccifktry.Ae.1)Gto So",
+      "level": 2,
+      "start_line": 1656
+    },
+    {
+      "anchor": "rf1-0-c0",
+      "end_line": 1659,
+      "heading": "Rf1×0.C0",
+      "level": 2,
+      "start_line": 1658
+    },
+    {
+      "anchor": "rf2-0-cc",
+      "end_line": 1661,
+      "heading": "Rf2=0.Cc",
+      "level": 2,
+      "start_line": 1660
+    },
+    {
+      "anchor": "page-004",
+      "end_line": 1663,
+      "heading": "Page 004",
+      "level": 2,
+      "start_line": 1662
+    },
+    {
+      "anchor": "ktry-2",
+      "end_line": 1664,
+      "heading": "Ktry=2",
+      "level": 2,
+      "start_line": 1664
+    },
+    {
+      "anchor": "nsn-0218-ncc-0",
+      "end_line": 1665,
+      "heading": "Nsn 0218 Ncc #0",
+      "level": 2,
+      "start_line": 1665
+    },
+    {
+      "anchor": "isn-0219-write-kclt-schkl",
+      "end_line": 1666,
+      "heading": "Isn 0219 Write (Kclt,Schkl",
+      "level": 2,
+      "start_line": 1666
+    },
+    {
+      "anchor": "isn-0220-50-fcrati-itfative-solution-for-cc4a1-ix",
+      "end_line": 1668,
+      "heading": "Isn 0220 50 Fcrati Itfative Solution For Cc4A1/Ix/",
+      "level": 2,
+      "start_line": 1667
+    },
+    {
+      "anchor": "c-regin-calculation-of-quantities-dependent-on-cf",
+      "end_line": 1669,
+      "heading": "C REGIN CALCULATION OF QUANTITIES DEPENDENT ON CF",
+      "level": 2,
+      "start_line": 1669
+    },
+    {
+      "anchor": "c-get-c-1-c-2-c-3-c-1-c-2-c-3",
+      "end_line": 1670,
+      "heading": "C GET C(1),C(2),C(3),C(1),C(2),C(3)",
+      "level": 2,
+      "start_line": 1670
+    },
+    {
+      "anchor": "c-eos-24b-2a-b-3a-b",
+      "end_line": 1672,
+      "heading": "C Eos.24B.2A.B.3A.B",
+      "level": 2,
+      "start_line": 1671
+    },
+    {
+      "anchor": "isn-0221-501-dc-505-1-3",
+      "end_line": 1674,
+      "heading": "Isn 0221 501 Dc 505 [1,3",
+      "level": 2,
+      "start_line": 1673
+    },
+    {
+      "anchor": "isn-0223-call-ccuad-cf-alfa-c-1",
+      "end_line": 1675,
+      "heading": "Isn 0223 Call Ccuad(Cf,Alfa,C(1))",
+      "level": 2,
+      "start_line": 1675
+    },
+    {
+      "anchor": "isn-0224-q-1-p-1-a-1-dsort-k-1-c-1-t-1",
+      "end_line": 1676,
+      "heading": "Isn 0224 Q(1)=P(1)*A(1)*Dsort(K(1)*C(1))/T(1)",
+      "level": 2,
+      "start_line": 1676
+    },
+    {
+      "anchor": "isn-0225-5cs-contale",
+      "end_line": 1677,
+      "heading": "Isn 0225 5Cs Contale",
+      "level": 2,
+      "start_line": 1677
+    },
+    {
+      "anchor": "c-cet-c-5-c-5-eos-5a-e",
+      "end_line": 1681,
+      "heading": "C Cet C(5).C(5)-Eos.5A.E",
+      "level": 2,
+      "start_line": 1678
+    },
+    {
+      "anchor": "isn-0228-call-cclad-cf-alfa-c-5",
+      "end_line": 1682,
+      "heading": "Isn 0228 Call Cclad(Cf,Alfa,C(5))",
+      "level": 2,
+      "start_line": 1682
+    },
+    {
+      "anchor": "isn-0229-o-5-r-a-5-dscr-k-5-c-5",
+      "end_line": 1683,
+      "heading": "Isn 0229 O(5)=R*A(5)*Dscr(K(5)*C(5))",
+      "level": 2,
+      "start_line": 1683
+    },
+    {
+      "anchor": "c-cft-c-6-eq-6",
+      "end_line": 1685,
+      "heading": "C Cft C(6)-Eq.6",
+      "level": 2,
+      "start_line": 1684
+    },
+    {
+      "anchor": "isn-0230-o-6-f-1-e-1-cf",
+      "end_line": 1686,
+      "heading": "Isn 0230 O(6)=F(1)*E(1)*Cf",
+      "level": 2,
+      "start_line": 1686
+    },
+    {
+      "anchor": "c-cet-cff-ec-10",
+      "end_line": 1689,
+      "heading": "C Cet Cff-Ec.10",
+      "level": 2,
+      "start_line": 1687
+    },
+    {
+      "anchor": "c-cet-c-7-c-7-eos-7a-e",
+      "end_line": 1693,
+      "heading": "C Cet C(7).C(7)-Eos.7A.E",
+      "level": 2,
+      "start_line": 1690
+    },
+    {
+      "anchor": "isn-0234-call-cclad-cff-alfa-c-7",
+      "end_line": 1694,
+      "heading": "Isn 0234 Call Cclad(Cff,Alfa,C(7))",
+      "level": 2,
+      "start_line": 1694
+    },
+    {
+      "anchor": "isn-0235-o-7-r-a-7-dscr-k-7-c-7",
+      "end_line": 1695,
+      "heading": "Isn 0235 O(7)=R*A(7)*Dscr(K(7)*C(7))",
+      "level": 2,
+      "start_line": 1695
+    },
+    {
+      "anchor": "c-cft-c-8-eg-8",
+      "end_line": 1697,
+      "heading": "C Cft C(8)-Eg.8",
+      "level": 2,
+      "start_line": 1696
+    },
+    {
+      "anchor": "isn-0236-q-8-f-2-e-2-cff",
+      "end_line": 1699,
+      "heading": "Isn 0236 Q(8)=F(2)*E(2)*Cff",
+      "level": 2,
+      "start_line": 1698
+    },
+    {
+      "anchor": "isn-0237-rsum-r-1-r-2",
+      "end_line": 1700,
+      "heading": "Isn 0237 Rsum=R(1)+R(2)",
+      "level": 2,
+      "start_line": 1700
+    },
+    {
+      "anchor": "isn-0238-rf-ci-ci-ci-ci-q-4-q-5-g-6-q-7-q-b-rsum",
+      "end_line": 1701,
+      "heading": "Isn 0238 Rf=Ci+Ci+Ci+Ci+Q(4)+Q(5)+G(6)+Q(7)+Q(B)-Rsum",
+      "level": 2,
+      "start_line": 1701
+    },
+    {
+      "anchor": "isn-0239-te-rf-rsum",
+      "end_line": 1702,
+      "heading": "Isn 0239 Te=Rf/Rsum",
+      "level": 2,
+      "start_line": 1702
+    },
+    {
+      "anchor": "c-test-ccvergence",
+      "end_line": 1704,
+      "heading": "C TEST CCVERGENCE",
+      "level": 2,
+      "start_line": 1703
+    },
+    {
+      "anchor": "isn-0240-ifloabsite-lt-ttol-go-to-tcc",
+      "end_line": 1705,
+      "heading": "Isn 0240 Ifloabsite.Lt.Ttol Go To Tcc",
+      "level": 2,
+      "start_line": 1705
+    },
+    {
+      "anchor": "c-act-ccverage-check-xtry-to-see-what-next",
+      "end_line": 1707,
+      "heading": "C ACT CCVERAGE-CHECK XTRY TO SEE WHAT NEXT",
+      "level": 2,
+      "start_line": 1706
+    },
+    {
+      "anchor": "isn-0242-if-ktry-af-2-gu-to-s40",
+      "end_line": 1709,
+      "heading": "Isn 0242 If(Ktry.Af.2)Gu To S40",
+      "level": 2,
+      "start_line": 1708
+    },
+    {
+      "anchor": "isn-0244-ktry-2-peans-preliminary-search-for-cc1-and-cc2",
+      "end_line": 1710,
+      "heading": "Isn 0244 Ktry=2 Peans Preliminary Search For Cc1 And Cc2",
+      "level": 2,
+      "start_line": 1710
+    },
+    {
+      "anchor": "c-whic-bracket-the-answer",
+      "end_line": 1712,
+      "heading": "C Whic+Bracket The Answer",
+      "level": 2,
+      "start_line": 1711
+    },
+    {
+      "anchor": "isn-0244-if-rf-gt-o-co-gu-to-s10",
+      "end_line": 1713,
+      "heading": "Isn 0244 If (Rf.Gt.O.Co) Gu To S10",
+      "level": 2,
+      "start_line": 1713
+    },
+    {
+      "anchor": "isn-0246-cc1-cc",
+      "end_line": 1714,
+      "heading": "Isn 0246 Cc1=Cc",
+      "level": 2,
+      "start_line": 1714
+    },
+    {
+      "anchor": "isn-0247-rf-rf",
+      "end_line": 1716,
+      "heading": "Isn 0247 Rf=Rf",
+      "level": 2,
+      "start_line": 1715
+    },
+    {
+      "anchor": "isn-0249-55-fcrmatix-13-1pe14-5-2bx-e14-5",
+      "end_line": 1717,
+      "heading": "Isn 0249 55 Fcrmatix,13,1Pe14,5,2Bx,E14.5)",
+      "level": 2,
+      "start_line": 1717
+    },
+    {
+      "anchor": "isn-0250-gc-to-s15",
+      "end_line": 1718,
+      "heading": "Isn 0250 Gc To S15",
+      "level": 2,
+      "start_line": 1718
+    },
+    {
+      "anchor": "isn-0251-510-cc2-cc",
+      "end_line": 1719,
+      "heading": "Isn 0251 510 Cc2=Cc",
+      "level": 2,
+      "start_line": 1719
+    },
+    {
+      "anchor": "isn-0252-rf-rf",
+      "end_line": 1721,
+      "heading": "Isn 0252 Rf=Rf",
+      "level": 2,
+      "start_line": 1720
+    },
+    {
+      "anchor": "isn-0254-56-fcrmatix-13-42x-1p2f14-5",
+      "end_line": 1722,
+      "heading": "Isn 0254 56 Fcrmatix,13,42X,1P2F14.5)",
+      "level": 2,
+      "start_line": 1722
+    },
+    {
+      "anchor": "isn-0255-515-if-rf1-rf2-530-520-16",
+      "end_line": 1723,
+      "heading": "Isn 0255 515 If(Rf1*Rf2)530,520,>16",
+      "level": 2,
+      "start_line": 1723
+    },
+    {
+      "anchor": "c-rf1-rf2-positive-shoulo-never-happen-something-wrcng",
+      "end_line": 1725,
+      "heading": "C Rf1*Rf2 Positive Shoulo Never Happen-Something Wrcng",
+      "level": 2,
+      "start_line": 1724
+    },
+    {
+      "anchor": "isn-0256-if-rf-cut-s1-hblk",
+      "end_line": 1726,
+      "heading": "Isn 0256 If (Rf.Cut.S1) Hblk",
+      "level": 2,
+      "start_line": 1726
+    },
+    {
+      "anchor": "isn-0257-ifcrmatix-rf-rf2-positive-something-fculed-up-in-cc-a1",
+      "end_line": 1727,
+      "heading": "Isn 0257 Ifcrmatix.Rf*Rf2 Positive-Something Fculed Up In Cc*,A1)",
+      "level": 2,
+      "start_line": 1727
+    },
+    {
+      "anchor": "isn-0258-go-to-ico",
+      "end_line": 1728,
+      "heading": "Isn 0258 Go To Ico",
+      "level": 2,
+      "start_line": 1728
+    },
+    {
+      "anchor": "c-still-lcktag-for-one-limit-acjust-cc-and-try-again",
+      "end_line": 1729,
+      "heading": "C STILL LCKTAG FOR ONE LIMIT-ACJUST CC AND TRY AGAIN",
+      "level": 2,
+      "start_line": 1729
+    },
+    {
+      "anchor": "c-keep-adjustment-factor-less-than-ico-and-greater-than-01",
+      "end_line": 1731,
+      "heading": "C Keep Adjustment Factor Less Than Ico And Greater Than .01",
+      "level": 2,
+      "start_line": 1730
+    },
+    {
+      "anchor": "isn-0259-tfxclg-te-xclcg",
+      "end_line": 1732,
+      "heading": "Isn 0259 Tfxclg=Te*Xclcg",
+      "level": 2,
+      "start_line": 1732
+    },
+    {
+      "anchor": "isn-0260-tfxclg-gt-4-6do-texcl-osign4-6do-texclg",
+      "end_line": 1733,
+      "heading": "Isn 0260 Tfxclg-Gt.4-6Do) Texcl=(Osign4.6Do,Texclg)",
+      "level": 2,
+      "start_line": 1733
+    },
+    {
+      "anchor": "isn-0262-adj-dlcg-cc-texclg",
+      "end_line": 1734,
+      "heading": "Isn 0262 Adj=Dlcg(Cc)-Texclg",
+      "level": 2,
+      "start_line": 1734
+    },
+    {
+      "anchor": "isn-0263-cc-cexp-aj",
+      "end_line": 1735,
+      "heading": "Isn 0263 Cc=Cexp(Aj)",
+      "level": 2,
+      "start_line": 1735
+    },
+    {
+      "anchor": "isn-0264-go-to-3oo",
+      "end_line": 1736,
+      "heading": "Isn 0264 Go To 3Oo",
+      "level": 2,
+      "start_line": 1736
+    },
+    {
+      "anchor": "c-rf1-rf2-negative-answer-eracketec",
+      "end_line": 1738,
+      "heading": "C Rf1*Rf2 Negative-Answer Eracketec",
+      "level": 2,
+      "start_line": 1737
+    },
+    {
+      "anchor": "isn-0265-ktry-3",
+      "end_line": 1739,
+      "heading": "Isn 0265 Ktry=3",
+      "level": 2,
+      "start_line": 1739
+    },
+    {
+      "anchor": "c-inverse-linear-interpolatia",
+      "end_line": 1742,
+      "heading": "C INVERSE LINEAR INTERPOLATIA",
+      "level": 2,
+      "start_line": 1740
+    },
+    {
+      "anchor": "page-005",
+      "end_line": 1744,
+      "heading": "Page 005",
+      "level": 2,
+      "start_line": 1743
+    },
+    {
+      "anchor": "1sn-0267-ktry-4",
+      "end_line": 1745,
+      "heading": "1Sn 0267 Ktry=4",
+      "level": 2,
+      "start_line": 1745
+    },
+    {
+      "anchor": "1sn-0268-if-isc-2-gg-to-537",
+      "end_line": 1746,
+      "heading": "1Sn 0268 If(Isc.2)Gg To 537",
+      "level": 2,
+      "start_line": 1746
+    },
+    {
+      "anchor": "1sn-0270-cc-ccl",
+      "end_line": 1747,
+      "heading": "1Sn 0270 Cc=Ccl",
+      "level": 2,
+      "start_line": 1747
+    },
+    {
+      "anchor": "1sn-0271-gc-tc-3co",
+      "end_line": 1748,
+      "heading": "1Sn 0271 Gc Tc 3Co",
+      "level": 2,
+      "start_line": 1748
+    },
+    {
+      "anchor": "1sn-0272-537-cct-ccl",
+      "end_line": 1749,
+      "heading": "1Sn 0272 537 Cct=Ccl",
+      "level": 2,
+      "start_line": 1749
+    },
+    {
+      "anchor": "1sn-0273-gc-tc-705",
+      "end_line": 1750,
+      "heading": "1Sn 0273 Gc Tc 705",
+      "level": 2,
+      "start_line": 1750
+    },
+    {
+      "anchor": "1sn-0274-540-if-ktry-ec-3-gto535",
+      "end_line": 1751,
+      "heading": "1Sn 0274 540 If(Ktry.Ec.3)Gto535",
+      "level": 2,
+      "start_line": 1751
+    },
+    {
+      "anchor": "1sn-c-iffktry-ae-41-gto555",
+      "end_line": 1752,
+      "heading": "1Sn C Iffktry.Ae-41 Gto555",
+      "level": 2,
+      "start_line": 1752
+    },
+    {
+      "anchor": "c-ktry-4-means-inverse-linear-interpclation-has-been",
+      "end_line": 1753,
+      "heading": "C Ktry=4 Means Inverse Linear Interpclation Has Been",
+      "level": 2,
+      "start_line": 1753
+    },
+    {
+      "anchor": "c-c-cpmpleted-and-kf-ccl-calculatec",
+      "end_line": 1755,
+      "heading": "C C CPMPLETED AND KF(CCL) CALCULATEC",
+      "level": 2,
+      "start_line": 1754
+    },
+    {
+      "anchor": "1sn-0278-write-kct-52-ncc-ccl-cc-rf-cc2",
+      "end_line": 1757,
+      "heading": "1Sn 0278 Write(Kct.52)Ncc.Ccl.Cc.Rf.Cc2",
+      "level": 2,
+      "start_line": 1756
+    },
+    {
+      "anchor": "1sn-0280-542-rft-rf",
+      "end_line": 1758,
+      "heading": "1Sn 0280 542 Rft=Rf",
+      "level": 2,
+      "start_line": 1758
+    },
+    {
+      "anchor": "c-inverse-cluahatic-interpclation",
+      "end_line": 1760,
+      "heading": "C INVERSE CLUAHATIC INTERPCLATION",
+      "level": 2,
+      "start_line": 1759
+    },
+    {
+      "anchor": "1sn-0281-d1-rf1-rft",
+      "end_line": 1761,
+      "heading": "1Sn 0281 D1=Rf1-Rft",
+      "level": 2,
+      "start_line": 1761
+    },
+    {
+      "anchor": "1sn-0282-d2-ff2-pft",
+      "end_line": 1762,
+      "heading": "1Sn 0282 D2=Ff2-Pft",
+      "level": 2,
+      "start_line": 1762
+    },
+    {
+      "anchor": "1sn-0283-d3-d2-d1",
+      "end_line": 1763,
+      "heading": "1Sn 0283 D3=D2-D1",
+      "level": 2,
+      "start_line": 1763
+    },
+    {
+      "anchor": "1sn-0284-cgx-ccl-rf1-ff2-dl-dz1-ccl-rft-rf2-g1-d3-cc2-rf1-rft-d2-d3",
+      "end_line": 1764,
+      "heading": "1Sn 0284 Cgx=Ccl*Rf1*Ff2/(Dl*Dz1-Ccl*Rft*Rf2/(G1*D3)+Cc2*Rf1*Rft/(D2*D3)",
+      "level": 2,
+      "start_line": 1764
+    },
+    {
+      "anchor": "1sn-0285-if-ccx-lt-cc1-gu-to-545",
+      "end_line": 1765,
+      "heading": "1Sn 0285 If(Ccx.Lt.Cc1)Gu To 545",
+      "level": 2,
+      "start_line": 1765
+    },
+    {
+      "anchor": "1sn-0287-if-ccx-ct-cc2-go-to-545",
+      "end_line": 1766,
+      "heading": "1Sn 0287 If(Ccx.Ct.Cc2)Go To 545",
+      "level": 2,
+      "start_line": 1766
+    },
+    {
+      "anchor": "1sn-0289-ktry-5",
+      "end_line": 1767,
+      "heading": "1Sn 0289 Ktry=5",
+      "level": 2,
+      "start_line": 1767
+    },
+    {
+      "anchor": "1sn-0290-if-isc-ec-2-go-to-544",
+      "end_line": 1768,
+      "heading": "1Sn 0290 If(Isc.Ec.2) Go To 544",
+      "level": 2,
+      "start_line": 1768
+    },
+    {
+      "anchor": "1sn-0292-cc-ccx",
+      "end_line": 1769,
+      "heading": "1Sn 0292 Cc=Ccx",
+      "level": 2,
+      "start_line": 1769
+    },
+    {
+      "anchor": "1sn-0293-gc-tc-3co",
+      "end_line": 1771,
+      "heading": "1Sn 0293 Gc Tc 3Co",
+      "level": 2,
+      "start_line": 1770
+    },
+    {
+      "anchor": "1sn-0295-gc-tc-705",
+      "end_line": 1772,
+      "heading": "1Sn 0295 Gc Tc 705",
+      "level": 2,
+      "start_line": 1772
+    },
+    {
+      "anchor": "1sn-0296-c45-if-rft-lt-c-cc-go-to-550",
+      "end_line": 1773,
+      "heading": "1Sn 0296 C45 If(Rft.Lt.C.Cc) Go To 550",
+      "level": 2,
+      "start_line": 1773
+    },
+    {
+      "anchor": "1sn-0298-cc2-ccl",
+      "end_line": 1774,
+      "heading": "1Sn 0298 Cc2=Ccl",
+      "level": 2,
+      "start_line": 1774
+    },
+    {
+      "anchor": "1sn-0299-rf2-rft",
+      "end_line": 1775,
+      "heading": "1Sn 0299 Rf2=Rft",
+      "level": 2,
+      "start_line": 1775
+    },
+    {
+      "anchor": "1sn-0300-go-to-530",
+      "end_line": 1776,
+      "heading": "1Sn 0300 Go To 530",
+      "level": 2,
+      "start_line": 1776
+    },
+    {
+      "anchor": "1sn-0301-c55-cc1-ccl",
+      "end_line": 1777,
+      "heading": "1Sn 0301 C55 Cc1=Ccl",
+      "level": 2,
+      "start_line": 1777
+    },
+    {
+      "anchor": "1sn-0302-rf1-rft",
+      "end_line": 1778,
+      "heading": "1Sn 0302 Rf1=Rft",
+      "level": 2,
+      "start_line": 1778
+    },
+    {
+      "anchor": "gc-tc-530",
+      "end_line": 1779,
+      "heading": "Gc Tc 530",
+      "level": 2,
+      "start_line": 1779
+    },
+    {
+      "anchor": "c-ktry-5-means-inverse-quadratic-interpolation-has-been",
+      "end_line": 1780,
+      "heading": "C Ktry=5 Means Inverse Quadratic Interpolation Has Been",
+      "level": 2,
+      "start_line": 1780
+    },
+    {
+      "anchor": "c-cpmpleted-and-kf-ccx-calculatec",
+      "end_line": 1782,
+      "heading": "C CPMPLETED AND KF(CCX) CALCULATEC",
+      "level": 2,
+      "start_line": 1781
+    },
+    {
+      "anchor": "1sn-0304-c55-if-ktry-nf-51-go-to-585",
+      "end_line": 1784,
+      "heading": "1Sn 0304 C55 If(Ktry.Nf.51) Go To 585",
+      "level": 2,
+      "start_line": 1783
+    },
+    {
+      "anchor": "1sn-0307-write-kcut-53-cca-rfx",
+      "end_line": 1787,
+      "heading": "1Sn 0307 Write(Kcut.53)Cca.Rfx",
+      "level": 2,
+      "start_line": 1785
+    },
+    {
+      "anchor": "1sn-0309-if-rfx-ct-c-co-go-to-570",
+      "end_line": 1788,
+      "heading": "1Sn 0309 If(Rfx.Ct.C.Co) Go To 570",
+      "level": 2,
+      "start_line": 1788
+    },
+    {
+      "anchor": "1sn-0311-if-rft-gt-o-co-gu-to-565",
+      "end_line": 1789,
+      "heading": "1Sn 0311 If(Rft.Gt.O.Co) Gu To 565",
+      "level": 2,
+      "start_line": 1789
+    },
+    {
+      "anchor": "1sn-0313-if-dabs-rfx-gt-dabs-rft-gc-tc-550",
+      "end_line": 1790,
+      "heading": "1Sn 0313 If(Dabs(Rfx).Gt.Dabs(Rft)) Gc Tc 550",
+      "level": 2,
+      "start_line": 1790
+    },
+    {
+      "anchor": "1sn-0315-c60-cc1-ccx",
+      "end_line": 1791,
+      "heading": "1Sn 0315 C60 Cc1=Ccx",
+      "level": 2,
+      "start_line": 1791
+    },
+    {
+      "anchor": "1sn-0316-rf1-rfx",
+      "end_line": 1792,
+      "heading": "1Sn 0316 Rf1=Rfx",
+      "level": 2,
+      "start_line": 1792
+    },
+    {
+      "anchor": "1sn-0317-go-to-530",
+      "end_line": 1793,
+      "heading": "1Sn 0317 Go To 530",
+      "level": 2,
+      "start_line": 1793
+    },
+    {
+      "anchor": "1sn-0318-c65-cc2-ccl",
+      "end_line": 1794,
+      "heading": "1Sn 0318 C65 Cc2=Ccl",
+      "level": 2,
+      "start_line": 1794
+    },
+    {
+      "anchor": "1sn-0319-rf2-rft",
+      "end_line": 1795,
+      "heading": "1Sn 0319 Rf2=Rft",
+      "level": 2,
+      "start_line": 1795
+    },
+    {
+      "anchor": "gc-tc-560",
+      "end_line": 1796,
+      "heading": "Gc Tc 560",
+      "level": 2,
+      "start_line": 1796
+    },
+    {
+      "anchor": "1sn-0321-c70-if-rft-lt-o-co-go-to-580",
+      "end_line": 1797,
+      "heading": "1Sn 0321 C70 If(Rft.Lt.O.Co) Go To 580",
+      "level": 2,
+      "start_line": 1797
+    },
+    {
+      "anchor": "1sn-0323-if-rfx-ct-rft-go-to-565",
+      "end_line": 1798,
+      "heading": "1Sn 0323 If(Rfx.Ct.Rft) Go To 565",
+      "level": 2,
+      "start_line": 1798
+    },
+    {
+      "anchor": "1sn-0325-c75-cc2-c-cx",
+      "end_line": 1799,
+      "heading": "1Sn 0325 C75 Cc2=C.Cx",
+      "level": 2,
+      "start_line": 1799
+    },
+    {
+      "anchor": "1sn-0326-rf2-rfx",
+      "end_line": 1800,
+      "heading": "1Sn 0326 Rf2=Rfx",
+      "level": 2,
+      "start_line": 1800
+    },
+    {
+      "anchor": "1sn-0327-gc-tc-530",
+      "end_line": 1801,
+      "heading": "1Sn 0327 Gc Tc 530",
+      "level": 2,
+      "start_line": 1801
+    },
+    {
+      "anchor": "1sn-0328-c80-cc1-ccl",
+      "end_line": 1802,
+      "heading": "1Sn 0328 C80 Cc1=Ccl",
+      "level": 2,
+      "start_line": 1802
+    },
+    {
+      "anchor": "1sn-0329-rf1-rft",
+      "end_line": 1803,
+      "heading": "1Sn 0329 Rf1=Rft",
+      "level": 2,
+      "start_line": 1803
+    },
+    {
+      "anchor": "gs-to-575",
+      "end_line": 1806,
+      "heading": "Gs To 575",
+      "level": 2,
+      "start_line": 1804
+    },
+    {
+      "anchor": "gc-tc-1oo",
+      "end_line": 1807,
+      "heading": "Gc Tc 1Oo",
+      "level": 2,
+      "start_line": 1807
+    },
+    {
+      "anchor": "c-calculation-of-tritium-distributica-cct-set-by-charge-instruction",
+      "end_line": 1809,
+      "heading": "C CALCULATION OF TRITIUM DISTRIBUTICA-CCT SET BY CHARGE INSTRUCTION",
+      "level": 2,
+      "start_line": 1808
+    },
+    {
+      "anchor": "1sn-0334-tco-ktry-1",
+      "end_line": 1810,
+      "heading": "1Sn 0334 Tco Ktry=1",
+      "level": 2,
+      "start_line": 1810
+    },
+    {
+      "anchor": "isn-0335-isn-2",
+      "end_line": 1811,
+      "heading": "Isn 0335 Isn=2",
+      "level": 2,
+      "start_line": 1811
+    },
+    {
+      "anchor": "isn-0336-ncct-o",
+      "end_line": 1812,
+      "heading": "Isn 0336 Ncct=O",
+      "level": 2,
+      "start_line": 1812
+    },
+    {
+      "anchor": "c-get-4c-and-q-4l-eqs-34-anc-35",
+      "end_line": 1814,
+      "heading": "C Get (4C) And Q(4L)- Eqs.34 Anc.35",
+      "level": 2,
+      "start_line": 1813
+    },
+    {
+      "anchor": "isn-0337-ncct-ncct-1",
+      "end_line": 1815,
+      "heading": "Isn 0337 Ncct=Ncct+1",
+      "level": 2,
+      "start_line": 1815
+    },
+    {
+      "anchor": "isn-0338-if-act-tle-5o-gu-to-jog",
+      "end_line": 1816,
+      "heading": "Isn 0338 If(Act.Tle.5O) Gu To Jog",
+      "level": 2,
+      "start_line": 1816
+    },
+    {
+      "anchor": "isn-0340-write-kcut-35-htee",
+      "end_line": 1817,
+      "heading": "Isn 0340 Write(Kcut.35) Htee",
+      "level": 2,
+      "start_line": 1817
+    },
+    {
+      "anchor": "isn-0341-gc-tc-1oo",
+      "end_line": 1818,
+      "heading": "Isn 0341 Gc Tc 1Oo",
+      "level": 2,
+      "start_line": 1818
+    },
+    {
+      "anchor": "isn-0342-t6ratic-cct-cc",
+      "end_line": 1819,
+      "heading": "Isn 0342 T6Ratic=Cct/Cc",
+      "level": 2,
+      "start_line": 1819
+    },
+    {
+      "anchor": "isn-0343-c-4c-ratic-c-1u",
+      "end_line": 1820,
+      "heading": "Isn 0343 C(4C)=Ratic*C(1U)",
+      "level": 2,
+      "start_line": 1820
+    },
+    {
+      "anchor": "isn-0344-c-4i-ratic-c-ii",
+      "end_line": 1821,
+      "heading": "Isn 0344 C(4I)=Ratic*C(Ii)",
+      "level": 2,
+      "start_line": 1821
+    },
+    {
+      "anchor": "isn-0345-osup-c-4i-q-4o",
+      "end_line": 1822,
+      "heading": "Isn 0345 Osup=C(4I)+Q(4O)",
+      "level": 2,
+      "start_line": 1822
+    },
+    {
+      "anchor": "c-get-43-c-44-c-45-g-43-c-44-c-45-eqs-37a-p-38a-b-39a-b",
+      "end_line": 1825,
+      "heading": "C Get (43),C(44),C(45),G(43),C(44),C(45)-Eqs.37A,P,38A,B,39A,B",
+      "level": 2,
+      "start_line": 1823
+    },
+    {
+      "anchor": "page-006",
+      "end_line": 1828,
+      "heading": "Page 006",
+      "level": 2,
+      "start_line": 1826
+    },
+    {
+      "anchor": "isn-0350-c-1-cct-tcp-12-duhicdp",
+      "end_line": 1829,
+      "heading": "Isn 0350 C[1]=Cct+Tcp/12.Duhicdp]",
+      "level": 2,
+      "start_line": 1829
+    },
+    {
+      "anchor": "isn-0351-q11-f1j-8-j-g-11-tc",
+      "end_line": 1830,
+      "heading": "Isn 0351 Q11=F1J*8(J)G(11)/Tc",
+      "level": 2,
+      "start_line": 1830
+    },
+    {
+      "anchor": "isn-0352-osup-ci1-csup",
+      "end_line": 1831,
+      "heading": "Isn 0352 Osup=Ci1)+Csup",
+      "level": 2,
+      "start_line": 1831
+    },
+    {
+      "anchor": "isn-0353-710-continue",
+      "end_line": 1832,
+      "heading": "Isn 0353 710 Continue",
+      "level": 2,
+      "start_line": 1832
+    },
+    {
+      "anchor": "c-get-146-thru-q-49-eqs-40-thru-43",
+      "end_line": 1833,
+      "heading": "C Get (146) Thru Q(49) - Eqs. 40 Thru 43",
+      "level": 2,
+      "start_line": 1833
+    },
+    {
+      "anchor": "c-dod-715-i-46-49",
+      "end_line": 1834,
+      "heading": "C Dod 715 I=46,49",
+      "level": 2,
+      "start_line": 1834
+    },
+    {
+      "anchor": "isn-0355-q11-g1-30-ratio",
+      "end_line": 1835,
+      "heading": "Isn 0355 Q11=G1-30)*Ratio",
+      "level": 2,
+      "start_line": 1835
+    },
+    {
+      "anchor": "isn-0356-osup-ci1-csum",
+      "end_line": 1836,
+      "heading": "Isn 0356 Osup=Ci1+Csum",
+      "level": 2,
+      "start_line": 1836
+    },
+    {
+      "anchor": "isn-0357-715-continue",
+      "end_line": 1837,
+      "heading": "Isn 0357 715 Continue",
+      "level": 2,
+      "start_line": 1837
+    },
+    {
+      "anchor": "c-get-142-and-u-34-ec-44-material-balance",
+      "end_line": 1838,
+      "heading": "C Get (142) And U(34) - Ec. 44 - Material Balance",
+      "level": 2,
+      "start_line": 1838
+    },
+    {
+      "anchor": "c-q142-f-3-csum",
+      "end_line": 1839,
+      "heading": "C Q142)=F(3)-Csum",
+      "level": 2,
+      "start_line": 1839
+    },
+    {
+      "anchor": "isn-0359-q134-c-42",
+      "end_line": 1840,
+      "heading": "Isn 0359 Q134=-C(42)",
+      "level": 2,
+      "start_line": 1840
+    },
+    {
+      "anchor": "c-c-fet-c-42-eq-36a-check-fcr-positive",
+      "end_line": 1841,
+      "heading": "C C Fet C(42)-Eq. 36A - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1841
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-36a-check-fcr-positive",
+      "end_line": 1842,
+      "heading": "C C C Fet C(42)-Eq. 36A - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1842
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-36a-check-fcr-positive",
+      "end_line": 1843,
+      "heading": "C C C Fet C(42)-Eq. 36A - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1843
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-36a-check-fcr-positive",
+      "end_line": 1844,
+      "heading": "C C C Fet C(42)-Eq. 36A - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1844
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-36a-check-fcr-positive",
+      "end_line": 1845,
+      "heading": "C C C Fet C(42)-Eq. 36A - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1845
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fcr-positive",
+      "end_line": 1846,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1846
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fcr-positive",
+      "end_line": 1847,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1847
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fcr-positive",
+      "end_line": 1848,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1848
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fcr-positive",
+      "end_line": 1849,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1849
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fpr-positive",
+      "end_line": 1850,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fpr Positive",
+      "level": 2,
+      "start_line": 1850
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fcr-positive",
+      "end_line": 1851,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1851
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fcr-positive",
+      "end_line": 1852,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1852
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fcr-positive",
+      "end_line": 1853,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1853
+    },
+    {
+      "anchor": "c-c-c-fet-c-42-eq-28b-check-fcr-positive",
+      "end_line": 1854,
+      "heading": "C C C Fet C(42) - Eq. 28B - Check Fcr Positive",
+      "level": 2,
+      "start_line": 1854
+    },
+    {
+      "anchor": "iisn-0360-c-142-cct-c-142-h112-a-4",
+      "end_line": 1855,
+      "heading": "Iisn 0360 C(142)=Cct-C(142)/(H112)*A(4))",
+      "level": 2,
+      "start_line": 1855
+    },
+    {
+      "anchor": "isn-0361-ifc-c42-gt-c-do-go-to-725",
+      "end_line": 1856,
+      "heading": "Isn 0361 Ifc(C42).Gt.C.Do) Go To 725",
+      "level": 2,
+      "start_line": 1856
+    },
+    {
+      "anchor": "isn-0363-tc-42",
+      "end_line": 1857,
+      "heading": "Isn 0363 Tc=42",
+      "level": 2,
+      "start_line": 1857
+    },
+    {
+      "anchor": "isn-0364-721-write-kcut-bd-acct-htee-cct-tc-c-1c",
+      "end_line": 1858,
+      "heading": "Isn 0364 721 Write(Kcut,Bd) Acct,Htee,Cct,Tc,C(1C)",
+      "level": 2,
+      "start_line": 1858
+    },
+    {
+      "anchor": "isn-0365-ccct-cct-cct",
+      "end_line": 1859,
+      "heading": "Isn 0365 Ccct=Cct+Cct",
+      "level": 2,
+      "start_line": 1859
+    },
+    {
+      "anchor": "isn-0366-gc-tc-705",
+      "end_line": 1868,
+      "heading": "Isn 0366 Gc Tc 705",
+      "level": 2,
+      "start_line": 1860
+    },
+    {
+      "anchor": "c-gfr-next-step",
+      "end_line": 1869,
+      "heading": "C GFR NEXT STEP",
+      "level": 2,
+      "start_line": 1869
+    },
+    {
+      "anchor": "c-c-c-fet-c-34-and-l-42-all-fcsitve-check-ktry",
+      "end_line": 1870,
+      "heading": "C C C FET C(34) AND L(42) ALL FCSITVE - CHECK KTRY",
+      "level": 2,
+      "start_line": 1870
+    },
+    {
+      "anchor": "c-gfr-next-step",
+      "end_line": 1871,
+      "heading": "C GFR NEXT STEP",
+      "level": 2,
+      "start_line": 1871
+    },
+    {
+      "anchor": "c-c-c-fet-c-34-and-l-42-all-fcsitve-check-ktry",
+      "end_line": 1872,
+      "heading": "C C C FET C(34) AND L(42) ALL FCSITVE - CHECK KTRY",
+      "level": 2,
+      "start_line": 1872
+    },
+    {
+      "anchor": "c-gfr-next-step",
+      "end_line": 1873,
+      "heading": "C GFR NEXT STEP",
+      "level": 2,
+      "start_line": 1873
+    },
+    {
+      "anchor": "c-c-c-fet-c-34-and-l-42-all-fcsitve-check-ktry",
+      "end_line": 1874,
+      "heading": "C C C FET C(34) AND L(42) ALL FCSITVE - CHECK KTRY",
+      "level": 2,
+      "start_line": 1874
+    },
+    {
+      "anchor": "c-gfr-next-step",
+      "end_line": 1875,
+      "heading": "C GFR NEXT STEP",
+      "level": 2,
+      "start_line": 1875
+    },
+    {
+      "anchor": "c-c-c-fet-c-34-and-l-42-all-fcsitve-check-ktry",
+      "end_line": 1876,
+      "heading": "C C C FET C(34) AND L(42) ALL FCSITVE - CHECK KTRY",
+      "level": 2,
+      "start_line": 1876
+    },
+    {
+      "anchor": "g-tf-rf-r",
+      "end_line": 1877,
+      "heading": "G Tf=Rf/R()",
+      "level": 2,
+      "start_line": 1877
+    },
+    {
+      "anchor": "isn-0379-kthy-2",
+      "end_line": 1878,
+      "heading": "Isn 0379 Kthy=2",
+      "level": 2,
+      "start_line": 1878
+    },
+    {
+      "anchor": "isn-0380-rf1-0-dc",
+      "end_line": 1879,
+      "heading": "Isn 0380 Rf1=0,Dc",
+      "level": 2,
+      "start_line": 1879
+    },
+    {
+      "anchor": "isn-0381-rfz-0-cc",
+      "end_line": 1880,
+      "heading": "Isn 0381 Rfz=0,Cc",
+      "level": 2,
+      "start_line": 1880
+    },
+    {
+      "anchor": "isn-0382-ncct-0",
+      "end_line": 1881,
+      "heading": "Isn 0382 Ncct=0",
+      "level": 2,
+      "start_line": 1881
+    },
+    {
+      "anchor": "isn-0383-write-kcut-5c1-htee",
+      "end_line": 1882,
+      "heading": "Isn 0383 Write(Kcut,5C1) Htee",
+      "level": 2,
+      "start_line": 1882
+    },
+    {
+      "anchor": "isn-0384-ratif-cft-cf",
+      "end_line": 1883,
+      "heading": "Isn 0384 Ratif=Cft/Cf",
+      "level": 2,
+      "start_line": 1883
+    },
+    {
+      "anchor": "isn-0385-otsp-0-co",
+      "end_line": 1884,
+      "heading": "Isn 0385 Otsp=0,Co",
+      "level": 2,
+      "start_line": 1884
+    },
+    {
+      "anchor": "isn-0386-do755-i-31-38",
+      "end_line": 1885,
+      "heading": "Isn 0386 Do755 I=31,38",
+      "level": 2,
+      "start_line": 1885
+    },
+    {
+      "anchor": "isn-0387-tf-lf-ec-34-cc-to-755",
+      "end_line": 1886,
+      "heading": "Isn 0387 Tf(Lf,Ec,34) Cc To 755",
+      "level": 2,
+      "start_line": 1886
+    },
+    {
+      "anchor": "isn-0389-qli-ratif-qli-30",
+      "end_line": 1887,
+      "heading": "Isn 0389 Qli=Ratif*Qli-30)",
+      "level": 2,
+      "start_line": 1887
+    },
+    {
+      "anchor": "isn-0390-otsp-cts-ci1",
+      "end_line": 1888,
+      "heading": "Isn 0390 Otsp=Cts#+Ci1)",
+      "level": 2,
+      "start_line": 1888
+    },
+    {
+      "anchor": "isn-0391-rf-ctsm-r",
+      "end_line": 1889,
+      "heading": "Isn 0391 Rf=Ctsm-R()",
+      "level": 2,
+      "start_line": 1889
+    },
+    {
+      "anchor": "isn-0392-tf-rf-r",
+      "end_line": 1890,
+      "heading": "Isn 0392 Tf=Rf/R()",
+      "level": 2,
+      "start_line": 1890
+    },
+    {
+      "anchor": "isn-0393-ifcarsite-lt-itul-go-to-9cc",
+      "end_line": 1891,
+      "heading": "Isn 0393 Ifcarsite.Lt.Itul Go To 9Cc",
+      "level": 2,
+      "start_line": 1891
+    },
+    {
+      "anchor": "isn-0395-ifcktry-ae-2-go-to-790",
+      "end_line": 1892,
+      "heading": "Isn 0395 Ifcktry.Ae.2) Go To 790",
+      "level": 2,
+      "start_line": 1892
+    },
+    {
+      "anchor": "isn-0397-ifcrf-ct-o-do-go-to-760",
+      "end_line": 1893,
+      "heading": "Isn 0397 Ifcrf.Ct.O.Do) Go To 760",
+      "level": 2,
+      "start_line": 1893
+    },
+    {
+      "anchor": "isn-0399-cc-ccct",
+      "end_line": 1894,
+      "heading": "Isn 0399 Cc=Ccct",
+      "level": 2,
+      "start_line": 1894
+    },
+    {
+      "anchor": "isn-0400-rf1-rf",
+      "end_line": 1895,
+      "heading": "Isn 0400 Rf1=Rf",
+      "level": 2,
+      "start_line": 1895
+    },
+    {
+      "anchor": "isn-0401-write-kcut-551-ncct-cc1-rf1",
+      "end_line": 1896,
+      "heading": "Isn 0401 Write(Kcut,551 Ncct,Cc1.Rf1",
+      "level": 2,
+      "start_line": 1896
+    },
+    {
+      "anchor": "isn-0402-gc-tc-765",
+      "end_line": 1897,
+      "heading": "Isn 0402 Gc Tc 765",
+      "level": 2,
+      "start_line": 1897
+    },
+    {
+      "anchor": "isn-0403-cc2-cct",
+      "end_line": 1898,
+      "heading": "Isn 0403 Cc2=Cct",
+      "level": 2,
+      "start_line": 1898
+    },
+    {
+      "anchor": "isn-0404-rf2-rf",
+      "end_line": 1899,
+      "heading": "Isn 0404 Rf2=Rf",
+      "level": 2,
+      "start_line": 1899
+    },
+    {
+      "anchor": "isn-0405-write-kcut-56-ncct-rf2-cc2",
+      "end_line": 1900,
+      "heading": "Isn 0405 Write(Kcut,56) Ncct.Rf2.Cc2",
+      "level": 2,
+      "start_line": 1900
+    },
+    {
+      "anchor": "isn-0406-765-i-firfi-rf2-530-770-766",
+      "end_line": 1901,
+      "heading": "Isn 0406 765 I(Firfi*Rf2)530,770,766",
+      "level": 2,
+      "start_line": 1901
+    },
+    {
+      "anchor": "isn-0407-766-write-kcut-51-htfe",
+      "end_line": 1902,
+      "heading": "Isn 0407 766 Write(Kcut,51) Htfe",
+      "level": 2,
+      "start_line": 1902
+    },
+    {
+      "anchor": "isn-0408-gc-tc-100",
+      "end_line": 1903,
+      "heading": "Isn 0408 Gc Tc 100",
+      "level": 2,
+      "start_line": 1903
+    },
+    {
+      "anchor": "c-still-locking-for-one-limit-acjust-cct-and-try-again",
+      "end_line": 1904,
+      "heading": "C STILL LOCKING FOR ONE LIMIT - ACJUST CCT AND TRY AGAIN",
+      "level": 2,
+      "start_line": 1904
+    },
+    {
+      "anchor": "c-keef-adjustment-factor-less-than-jdo-and-greater-than-01",
+      "end_line": 1905,
+      "heading": "C Keef Adjustment Factor Less Than Jdo And Greater Than .01",
+      "level": 2,
+      "start_line": 1905
+    },
+    {
+      "anchor": "c-cltplt-section",
+      "end_line": 1906,
+      "heading": "C CLTPLT SECTION",
+      "level": 2,
+      "start_line": 1906
+    },
+    {
+      "anchor": "isn-0409-770-tfxclg-tf-clg",
+      "end_line": 1907,
+      "heading": "Isn 0409 770 Tfxclg=Tf×Clg",
+      "level": 2,
+      "start_line": 1907
+    },
+    {
+      "anchor": "isn-0410-ifdabes-texclg-gt-4-6du-texclg-csign-4-6do-texclg",
+      "end_line": 1908,
+      "heading": "Isn 0410 Ifdabes(Texclg).Gt.4-6Du) Texclg=Csign(4.6Do,Texclg)",
+      "level": 2,
+      "start_line": 1908
+    },
+    {
+      "anchor": "isn-0412-adj-clce-cct-texclg",
+      "end_line": 1909,
+      "heading": "Isn 0412 Adj=Clce(Cct)-Texclg",
+      "level": 2,
+      "start_line": 1909
+    },
+    {
+      "anchor": "isn-0413-ccct-dexfi-aj",
+      "end_line": 1910,
+      "heading": "Isn 0413 Ccct=Dexfi(Aj)",
+      "level": 2,
+      "start_line": 1910
+    },
+    {
+      "anchor": "isn-0414-gc-to-7cs5",
+      "end_line": 1911,
+      "heading": "Isn 0414 Gc To 7Cs5",
+      "level": 2,
+      "start_line": 1911
+    },
+    {
+      "anchor": "isn-0415-750-ifcktry-ec-3-go-to-535",
+      "end_line": 1912,
+      "heading": "Isn 0415 750 Ifcktry.Ec.3) Go To 535",
+      "level": 2,
+      "start_line": 1912
+    },
+    {
+      "anchor": "isn-0417-ifcktry-ae-4-go-to-795",
+      "end_line": 1913,
+      "heading": "Isn 0417 Ifcktry.Ae.4) Go To 795",
+      "level": 2,
+      "start_line": 1913
+    },
+    {
+      "anchor": "isn-0419-write-kcut-571-ncct-cl-gct-ff-cc2",
+      "end_line": 1914,
+      "heading": "Isn 0419 Write(Kcut,571 Ncct.Cl.Gct.Ff.Cc2",
+      "level": 2,
+      "start_line": 1914
+    },
+    {
+      "anchor": "isn-0420-gc-tc-542",
+      "end_line": 1915,
+      "heading": "Isn 0420 Gc Tc 542",
+      "level": 2,
+      "start_line": 1915
+    },
+    {
+      "anchor": "isn-0421-ifcktry-ae-51-go-to-585",
+      "end_line": 1916,
+      "heading": "Isn 0421 Ifcktry.Ae.51 Go To 585",
+      "level": 2,
+      "start_line": 1916
+    },
+    {
+      "anchor": "isn-0423-gc-tc-556",
+      "end_line": 1919,
+      "heading": "Isn 0423 Gc Tc 556",
+      "level": 2,
+      "start_line": 1917
+    },
+    {
+      "anchor": "page-007",
+      "end_line": 1923,
+      "heading": "Page 007",
+      "level": 2,
+      "start_line": 1920
+    },
+    {
+      "anchor": "options-in-effect-name-pain-opt-02-linecnt-95-size-cccok",
+      "end_line": 1925,
+      "heading": "*Options In Effect* Name= Pain, Opt=02 Linecnt=95, Size=Cccok.",
+      "level": 2,
+      "start_line": 1924
+    },
+    {
+      "anchor": "options-in-effect-source-ebccic-nolist-ncoeck-lcac-ncmap-noedit-noid-ncxref",
+      "end_line": 1929,
+      "heading": "Options In Effect* Source:Ebccic.Nolist.Ncoeck,Lcac,Ncmap.Noedit.Noid.Ncxref",
+      "level": 2,
+      "start_line": 1926
+    },
+    {
+      "anchor": "statistics-no-diagnostics-generated",
+      "end_line": 1931,
+      "heading": "\\*Statistics\\* No Diagnostics Generated",
+      "level": 2,
+      "start_line": 1930
+    },
+    {
+      "anchor": "fnd-cf-compliation",
+      "end_line": 1941,
+      "heading": "\\*\\*\\*\\*\\* Fnd Cf Compliation \\*\\*\\*\\*",
+      "level": 2,
+      "start_line": 1932
+    },
+    {
+      "anchor": "c-i-s-n-0019-call-match-name-hm-nvar-nk-i-fink-ae-oi-gc-to-101",
+      "end_line": 1942,
+      "heading": "C I S N 0019 Call Match(Name.Hm.Nvar.Nk) I Fink.Ae.Oi Gc To 101",
+      "level": 2,
+      "start_line": 1942
+    },
+    {
+      "anchor": "c-i-s-n-0020-i-fink-ae-oi-gc-to-101",
+      "end_line": 1943,
+      "heading": "C I S N 0020 I Fink.Ae.Oi Gc To 101",
+      "level": 2,
+      "start_line": 1943
+    },
+    {
+      "anchor": "c-i-s-n-0021-nc-match-fcund-print-message",
+      "end_line": 1944,
+      "heading": "C I S N 0021 NC MATCH FCUND - PRINT MESSAGE",
+      "level": 2,
+      "start_line": 1944
+    },
+    {
+      "anchor": "c-i-s-n-0022-check-name-against-on-table",
+      "end_line": 1945,
+      "heading": "C I S N 0022 CHECK NAME AGAINST ON TABLE",
+      "level": 2,
+      "start_line": 1945
+    },
+    {
+      "anchor": "c-i-s-n-0023-i-f-kc-eg-oi-gc-to-300",
+      "end_line": 1946,
+      "heading": "C I S N 0023 I F(Kc.Eg.Oi) Gc To 300",
+      "level": 2,
+      "start_line": 1946
+    },
+    {
+      "anchor": "i-s-n-0025-j-treg-41-xc-1",
+      "end_line": 1947,
+      "heading": "I S N 0025 J = Treg(41+Xc-1",
+      "level": 2,
+      "start_line": 1947
+    },
+    {
+      "anchor": "i-s-n-0026-v-ji-vref-j",
+      "end_line": 1948,
+      "heading": "I S N 0026 V(Ji=Vref(J)",
+      "level": 2,
+      "start_line": 1948
+    },
+    {
+      "anchor": "i-s-n-0027-retlrn",
+      "end_line": 1949,
+      "heading": "I S N 0027 RETLRN",
+      "level": 2,
+      "start_line": 1949
+    },
+    {
+      "anchor": "i-s-n-0028-3co-write-kclt-1-name",
+      "end_line": 1951,
+      "heading": "I S N 0028 3Co Write(Kclt.1) Name",
+      "level": 2,
+      "start_line": 1950
+    },
+    {
+      "anchor": "i-s-n-0030-retlrn",
+      "end_line": 1952,
+      "heading": "I S N 0030 RETLRN",
+      "level": 2,
+      "start_line": 1952
+    },
+    {
+      "anchor": "c-i-s-n-0031-ici-n1-nk",
+      "end_line": 1953,
+      "heading": "C I S N 0031 Ici N1=Nk",
+      "level": 2,
+      "start_line": 1953
+    },
+    {
+      "anchor": "i-s-n-0032-n2-nk",
+      "end_line": 1954,
+      "heading": "I S N 0032 N2=Nk",
+      "level": 2,
+      "start_line": 1954
+    },
+    {
+      "anchor": "i-s-n-0033-gc-tc-103",
+      "end_line": 1955,
+      "heading": "I S N 0033 GC TC 103",
+      "level": 2,
+      "start_line": 1955
+    },
+    {
+      "anchor": "i-s-n-0034-1c2-n1-1",
+      "end_line": 1957,
+      "heading": "I S N 0034 1C2 N1=1",
+      "level": 2,
+      "start_line": 1956
+    },
+    {
+      "anchor": "i-s-n-0036-1c3-dc-11c-a-n1-a2",
+      "end_line": 1958,
+      "heading": "I S N 0036 1C3 Dc 11C A=N1,A2",
+      "level": 2,
+      "start_line": 1958
+    },
+    {
+      "anchor": "i-s-n-0037-it-ilse-a",
+      "end_line": 1959,
+      "heading": "I S N 0037 It=Ilse(A)",
+      "level": 2,
+      "start_line": 1959
+    },
+    {
+      "anchor": "i-s-n-0038-j-treg-a",
+      "end_line": 1960,
+      "heading": "I S N 0038 J=Treg(A)",
+      "level": 2,
+      "start_line": 1960
+    },
+    {
+      "anchor": "i-s-n-0039-do-105-i-1-it",
+      "end_line": 1961,
+      "heading": "I S N 0039 Do 105 I=1,It",
+      "level": 2,
+      "start_line": 1961
+    },
+    {
+      "anchor": "i-s-n-0040-v-ji-vrefij",
+      "end_line": 1962,
+      "heading": "I S N 0040 V(Ji=Vrefij)",
+      "level": 2,
+      "start_line": 1962
+    },
+    {
+      "anchor": "i-s-n-0041-1c5-j-j-1",
+      "end_line": 1963,
+      "heading": "I S N 0041 1C5 J=J+1",
+      "level": 2,
+      "start_line": 1963
+    },
+    {
+      "anchor": "i-s-n-0042-11o-continue",
+      "end_line": 1964,
+      "heading": "I S N 0042 11O CONTINUE",
+      "level": 2,
+      "start_line": 1964
+    },
+    {
+      "anchor": "i-s-n-0043-retlrn",
+      "end_line": 1965,
+      "heading": "I S N 0043 RETLRN",
+      "level": 2,
+      "start_line": 1965
+    },
+    {
+      "anchor": "c-i-s-n-0044-print-all-reference-values",
+      "end_line": 1967,
+      "heading": "C I S N 0044 PRINT ALL REFERENCE VALUES",
+      "level": 2,
+      "start_line": 1966
+    },
+    {
+      "anchor": "i-s-n-0046-do-130-a-1-nvar",
+      "end_line": 1968,
+      "heading": "I S N 0046 Do 130 A=1,Nvar",
+      "level": 2,
+      "start_line": 1968
+    },
+    {
+      "anchor": "i-s-n-0047-it-use-a-s-4",
+      "end_line": 1969,
+      "heading": "I S N 0047 It=Use(A)/S+4",
+      "level": 2,
+      "start_line": 1969
+    },
+    {
+      "anchor": "i-s-n-0048-if-lines-it-le-su-go-to-120",
+      "end_line": 1970,
+      "heading": "I S N 0048 If(Lines*It.Le.Su) Go To 120",
+      "level": 2,
+      "start_line": 1970
+    },
+    {
+      "anchor": "i-s-n-0050-call-newfg",
+      "end_line": 1972,
+      "heading": "I S N 0050 CALL NEWFG",
+      "level": 2,
+      "start_line": 1971
+    },
+    {
+      "anchor": "i-s-n-0052-format-values-in-arkay-a4",
+      "end_line": 1973,
+      "heading": "I S N 0052 ? Format('Values In Arkay ',A4)",
+      "level": 2,
+      "start_line": 1973
+    },
+    {
+      "anchor": "i-s-n-0053-lines-c",
+      "end_line": 1974,
+      "heading": "I S N 0053 Lines=C",
+      "level": 2,
+      "start_line": 1974
+    },
+    {
+      "anchor": "i-s-n-0054-12o-write-wut-3-nm-n-idim-n-ilse-n-ibeg-n-i-i-1-5",
+      "end_line": 1975,
+      "heading": "I S N 0054 12O Write(Wut.3) Nm(N).Idim(N).Ilse(N).Ibeg(N),(I,I=1,5)",
+      "level": 2,
+      "start_line": 1975
+    },
+    {
+      "anchor": "i-s-n-0055-3-format-ix-name-a4-dimesign-14-used-14-starts-at-14",
+      "end_line": 1977,
+      "heading": "I S N 0055 3 Format(Ix/Name\",A4.\" Dimesign\",14,\" Used\",14,\" Starts At'14/",
+      "level": 2,
+      "start_line": 1976
+    },
+    {
+      "anchor": "i-s-n-0056-j1-ibeg-a",
+      "end_line": 1978,
+      "heading": "I S N 0056 J1=Ibeg(A)",
+      "level": 2,
+      "start_line": 1978
+    },
+    {
+      "anchor": "i-s-n-0057-ii-j1",
+      "end_line": 1979,
+      "heading": "I S N 0057 Ii=J1",
+      "level": 2,
+      "start_line": 1979
+    },
+    {
+      "anchor": "i-s-n-0058-j2-ii-ilse-a-1",
+      "end_line": 1980,
+      "heading": "I S N 0058 J2=Ii+Ilse(A)-1",
+      "level": 2,
+      "start_line": 1980
+    },
+    {
+      "anchor": "i-s-n-0059-dc-125-j-j1-j2-5",
+      "end_line": 1981,
+      "heading": "I S N 0059 Dc 125 J=J1,J2,5",
+      "level": 2,
+      "start_line": 1981
+    },
+    {
+      "anchor": "i-s-n-0060-i2-pino-ii-4-j2",
+      "end_line": 1982,
+      "heading": "I S N 0060 I2=Pino(Ii+4,J2)",
+      "level": 2,
+      "start_line": 1982
+    },
+    {
+      "anchor": "i-s-n-0061-write-kclt-4-vref-i-i-ii-12",
+      "end_line": 1983,
+      "heading": "I S N 0061 Write(Kclt.4)(Vref(I),I=Ii,12)",
+      "level": 2,
+      "start_line": 1983
+    },
+    {
+      "anchor": "i-s-n-0062-4-format-ix-ipsel4-5",
+      "end_line": 1984,
+      "heading": "I S N 0062 4 Format(Ix,Ipsel4.5)",
+      "level": 2,
+      "start_line": 1984
+    },
+    {
+      "anchor": "i-s-n-0063-ii-ii-1",
+      "end_line": 1985,
+      "heading": "I S N 0063 Ii=Ii+1",
+      "level": 2,
+      "start_line": 1985
+    },
+    {
+      "anchor": "i-s-n-0064-i25-continue",
+      "end_line": 1986,
+      "heading": "I S N 0064 I25 CONTINUE",
+      "level": 2,
+      "start_line": 1986
+    },
+    {
+      "anchor": "i-s-n-0065-lines-line-sit",
+      "end_line": 1987,
+      "heading": "I S N 0065 Lines=Line+Sit",
+      "level": 2,
+      "start_line": 1987
+    },
+    {
+      "anchor": "i-s-n-0066-i3o-continue",
+      "end_line": 1988,
+      "heading": "I S N 0066 I3O CONTINUE",
+      "level": 2,
+      "start_line": 1988
+    },
+    {
+      "anchor": "i-s-n-0067-retlrn",
+      "end_line": 1989,
+      "heading": "I S N 0067 RETLRN",
+      "level": 2,
+      "start_line": 1989
+    },
+    {
+      "anchor": "i-s-n-0068-entry-lck",
+      "end_line": 1992,
+      "heading": "I S N 0068 ENTRY LCK",
+      "level": 2,
+      "start_line": 1990
+    },
+    {
+      "anchor": "c-i-s-n-0071-check-name",
+      "end_line": 1993,
+      "heading": "C I S N 0071 CHECK NAME",
+      "level": 2,
+      "start_line": 1993
+    },
+    {
+      "anchor": "c-i-s-n-0072-if-name-eg-iplnk-go-to-132",
+      "end_line": 1994,
+      "heading": "C I S N 0072 If(Name.Eg.Iplnk) Go To 132",
+      "level": 2,
+      "start_line": 1994
+    },
+    {
+      "anchor": "c-i-s-n-0073-ccck-fcf-match-in-table",
+      "end_line": 1995,
+      "heading": "C I S N 0073 CCCK FCF MATCH IN TABLE",
+      "level": 2,
+      "start_line": 1995
+    },
+    {
+      "anchor": "c-i-s-n-0074-call-patch-name-nvar-nk-i-fink-ae-oi-gc-to-2o1",
+      "end_line": 1997,
+      "heading": "C I S N 0074 Call Patch(Name.Nvar.Nk) I Fink.Ae.Oi Gc To 2O1",
+      "level": 2,
+      "start_line": 1996
+    },
+    {
+      "anchor": "i-s-n-0076-j-ibeg-4-kc-1",
+      "end_line": 1998,
+      "heading": "I S N 0076 J=Ibeg(4)+Kc-1",
+      "level": 2,
+      "start_line": 1998
+    },
+    {
+      "anchor": "i-s-n-0079-write-kclt-6-nmgn-kg-j-vj",
+      "end_line": 1999,
+      "heading": "I S N 0079 Write(Kclt.6) Nmgn(Kg), J.Vj",
+      "level": 2,
+      "start_line": 1999
+    },
+    {
+      "anchor": "i-s-n-008o-6-format-ix-ix-a4-vi-ii-iii-iv-value-ipel4-5",
+      "end_line": 2000,
+      "heading": "I S N 008O 6 Format(Ix/Ix,A4.\"=Vi\",Ii,Iii,Iv, Value =\",Ipel4.5)",
+      "level": 2,
+      "start_line": 2000
+    },
+    {
+      "anchor": "i-s-n-0081-retlrn",
+      "end_line": 2003,
+      "heading": "I S N 0081 RETLRN",
+      "level": 2,
+      "start_line": 2001
+    },
+    {
+      "anchor": "i-s-n-o84-retlrn",
+      "end_line": 2006,
+      "heading": "I S N O84 RETLRN",
+      "level": 2,
+      "start_line": 2004
+    },
+    {
+      "anchor": "page-003",
+      "end_line": 2012,
+      "heading": "Page 003",
+      "level": 2,
+      "start_line": 2007
+    },
+    {
+      "anchor": "page-002",
+      "end_line": 2014,
+      "heading": "Page 002",
+      "level": 2,
+      "start_line": 2013
+    },
+    {
+      "anchor": "isn-00ao-1gof-paxo-1-igof",
+      "end_line": 2015,
+      "heading": "Isn 00Ao 1Gof-Paxo（1，Igof+）",
+      "level": 2,
+      "start_line": 2015
+    },
+    {
+      "anchor": "isn-0081-return",
+      "end_line": 2016,
+      "heading": "Isn 0081 Return",
+      "level": 2,
+      "start_line": 2016
+    },
+    {
+      "anchor": "15n-00a2-120-ck-ckt",
+      "end_line": 2017,
+      "heading": "15N 00A2 120 Ck=Ckt",
+      "level": 2,
+      "start_line": 2017
+    },
+    {
+      "anchor": "isn0083-c-k-l-ck-c2",
+      "end_line": 2018,
+      "heading": "Isn0083 C=+K（L-Ck）+C2",
+      "level": 2,
+      "start_line": 2018
+    },
+    {
+      "anchor": "isn-0084-130-rfturn",
+      "end_line": 2019,
+      "heading": "Isn 0084 130 Rfturn",
+      "level": 2,
+      "start_line": 2019
+    },
+    {
+      "anchor": "isn-0085-eno",
+      "end_line": 2021,
+      "heading": "Isn 0085 Eno",
+      "level": 2,
+      "start_line": 2020
+    },
+    {
+      "anchor": "cscl-300",
+      "end_line": 2022,
+      "heading": "Cscl 300",
+      "level": 2,
+      "start_line": 2022
+    },
+    {
+      "anchor": "csol-305",
+      "end_line": 2023,
+      "heading": "Csol 305",
+      "level": 2,
+      "start_line": 2023
+    },
+    {
+      "anchor": "cs01-310",
+      "end_line": 2025,
+      "heading": "Cs01 310",
+      "level": 2,
+      "start_line": 2024
+    },
+    {
+      "anchor": "cscl-320",
+      "end_line": 2026,
+      "heading": "Cscl 320",
+      "level": 2,
+      "start_line": 2026
+    },
+    {
+      "anchor": "csol-325",
+      "end_line": 2028,
+      "heading": "Csol 325",
+      "level": 2,
+      "start_line": 2027
+    },
+    {
+      "anchor": "options-in-effect",
+      "end_line": 2030,
+      "heading": "*Options In Effect",
+      "level": 2,
+      "start_line": 2029
+    },
+    {
+      "anchor": "name-pain-cpt-02-linfctn-95-size-cccok",
+      "end_line": 2032,
+      "heading": "Name= Pain.Cpt=02.Linfctn=95.Size=Cccok,",
+      "level": 2,
+      "start_line": 2031
+    },
+    {
+      "anchor": "options-in-effect",
+      "end_line": 2034,
+      "heading": "*Options In Effect",
+      "level": 2,
+      "start_line": 2033
+    },
+    {
+      "anchor": "scupce-ebccic-nolist-ngdeck-lcac-ncmap-noedit-noio-noxref",
+      "end_line": 2036,
+      "heading": "Scupce,Ebccic,Nolist,Ngdeck,Lcac,Ncmap,Noedit,Noio,Noxref",
+      "level": 2,
+      "start_line": 2035
+    },
+    {
+      "anchor": "statistics",
+      "end_line": 2038,
+      "heading": "\\*Statistics",
+      "level": 2,
+      "start_line": 2037
+    },
+    {
+      "anchor": "source-statements",
+      "end_line": 2040,
+      "heading": "Source Statements",
+      "level": 2,
+      "start_line": 2039
+    },
+    {
+      "anchor": "64-program-size-2024",
+      "end_line": 2042,
+      "heading": "64 . Program Size = 2024",
+      "level": 2,
+      "start_line": 2041
+    },
+    {
+      "anchor": "stattiscs",
+      "end_line": 2044,
+      "heading": "\\*Stattiscs",
+      "level": 2,
+      "start_line": 2043
+    },
+    {
+      "anchor": "diagnostics-generated",
+      "end_line": 2046,
+      "heading": "Diagnostics Generated",
+      "level": 2,
+      "start_line": 2045
+    },
+    {
+      "anchor": "end-cf-compilaticn",
+      "end_line": 2048,
+      "heading": "\\*\\*\\*\\*\\* End Cf Compilaticn \\*\\*\\*\\*\\*",
+      "level": 2,
+      "start_line": 2047
+    },
+    {
+      "anchor": "121k-bytes-of-core-nct-used",
+      "end_line": 2057,
+      "heading": "121K Bytes Of Core Nct Used",
+      "level": 2,
+      "start_line": 2049
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2187,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2058
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2204,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2188
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4804",
+  "tables": [],
+  "title": "A Method for Calculating the Steady-State Distribution of Tritium in a Molten-Salt Breeder Reactor Plant",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "breeder-and-converter-design",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

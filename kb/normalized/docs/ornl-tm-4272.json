@@ -1,0 +1,888 @@
+{
+  "authors": [
+    "J. W. Koger",
+    "MASTER",
+    "J.W.Koger"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4272.jsonl",
+  "date_text": "June 30, 1958",
+  "doc_id": "ornl-tm-4272",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 40,
+        "line_hits": [
+          76,
+          80,
+          82,
+          91,
+          93,
+          94,
+          129,
+          133,
+          145,
+          149,
+          151,
+          166,
+          195,
+          217,
+          221,
+          225,
+          229,
+          233,
+          241,
+          281,
+          317,
+          352,
+          391,
+          418,
+          422,
+          426,
+          430,
+          458,
+          497,
+          538,
+          575,
+          579,
+          601,
+          606,
+          608,
+          610,
+          612,
+          614,
+          623,
+          624
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 24,
+        "line_hits": [
+          76,
+          80,
+          106,
+          110,
+          114,
+          133,
+          135,
+          137,
+          145,
+          147,
+          151,
+          155,
+          160,
+          166,
+          176,
+          225,
+          229,
+          418,
+          606,
+          610,
+          612,
+          614,
+          622,
+          788
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          151,
+          155,
+          160
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          145,
+          151,
+          160
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          145,
+          151,
+          160
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          151,
+          160
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          160,
+          418
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          606
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          606
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          82
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          126
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          770
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          80
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 22,
+        "line_hits": [
+          13,
+          33,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          93,
+          94,
+          117,
+          118,
+          119,
+          120,
+          151,
+          160,
+          634,
+          640,
+          642,
+          818
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          15,
+          17,
+          31,
+          43,
+          796,
+          814,
+          818,
+          826,
+          830
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          15,
+          39,
+          792
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          585
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 19,
+        "line_hits": [
+          82,
+          102,
+          135,
+          147,
+          160,
+          162,
+          189,
+          191,
+          221,
+          229,
+          233,
+          426,
+          430,
+          573,
+          579,
+          601,
+          606,
+          608,
+          620
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          80
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 40,
+        "line_hits": [
+          3,
+          23,
+          70,
+          76,
+          80,
+          82,
+          91,
+          108,
+          110,
+          147,
+          157,
+          160,
+          169,
+          177,
+          213,
+          241,
+          246,
+          270,
+          281,
+          286,
+          312,
+          317,
+          322,
+          347,
+          352,
+          357,
+          384,
+          391,
+          396,
+          414,
+          458,
+          465,
+          489,
+          497,
+          504,
+          535,
+          538,
+          543,
+          571,
+          620
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          110,
+          112,
+          114,
+          122,
+          126,
+          137,
+          142,
+          149,
+          151,
+          157,
+          160
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          80,
+          82,
+          91,
+          94,
+          606,
+          610
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          76,
+          80,
+          106,
+          149,
+          173,
+          616
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          157,
+          169
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          157,
+          169
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          157
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          110
+        ],
+        "name": "KF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3a2fb482d61e1b303268013688678e6edbea64ea0b9e0a857a3ca2cf377d7bb1",
+  "markdown_path": "pdf/ORNL-TM-4272/ORNL-TM-4272/hybrid_ocr/ORNL-TM-4272.md",
+  "report_number": "ORNL-4254",
+  "report_numbers": [
+    "ORNL-4254",
+    "ORNL-4344",
+    "ORNL-4396",
+    "ORNL-4449",
+    "ORNL-4548",
+    "ORNL-4622",
+    "ORNL-4676",
+    "ORNL-TM-2490",
+    "ORNL-TM-2978",
+    "ORNL-TM-3488"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 66,
+  "sections": [
+    {
+      "anchor": "compatibility-of-brazing-alloys-and-the-molten-salt-nabf-4-8-mole-percent-naf-at-610-circ-c",
+      "end_line": 6,
+      "heading": "COMPATIBILITY OF BRAZING ALLOYS AND THE MOLTEN SALT NaBF $_4$ -8 MOLE PERCENT NaF AT $610^{\\circ}$ C",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "master",
+      "end_line": 12,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 14,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 20,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 28,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "notice",
+      "end_line": 32,
+      "heading": "-NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 38,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 42,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 46,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "contents",
+      "end_line": 69,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "compatibility-of-brazing-alloys-and-the-molten-salt-mathrm-nabf-4-8-mole-percent-naf-at-610-circ-mathrm-c",
+      "end_line": 73,
+      "heading": "COMPATIBILITY OF BRAZING ALLOYS AND THE MOLTEN SALT $\\mathrm{NaBF}_4 - 8$ MOLE PERCENT NaF AT $610^{\\circ}\\mathrm{C}$",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 77,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 103,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "2-previous-work",
+      "end_line": 163,
+      "heading": "2. PREVIOUS WORK",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "3-experimental-procedure",
+      "end_line": 186,
+      "heading": "3. EXPERIMENTAL PROCEDURE",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "4-results",
+      "end_line": 214,
+      "heading": "4. RESULTS",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "4-1-braze-alloy-bni-7-ni-13-cr-10-p",
+      "end_line": 218,
+      "heading": "4.1 Braze Alloy BNi-7 (Ni-13% Cr-10% P)",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "4-2-braze-alloy-bni-3-ni-3-5-fe-4-5-si-2-9-b",
+      "end_line": 222,
+      "heading": "4.2 Braze Alloy BNi-3 (Ni-3.5% Fe-4.5% Si-2.9% B)",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "4-3-braze-alloy-bau-4-au-18-ni",
+      "end_line": 226,
+      "heading": "4.3 Braze Alloy BAu-4 (Au-18% Ni)",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "4-4-braze-alloy-bag-8-ag-28-cu",
+      "end_line": 230,
+      "heading": "4.4 Braze Alloy BAg-8 (Ag-28% Cu)",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "4-5-braze-alloy-bni-4-ni-4-5-si-3-b",
+      "end_line": 248,
+      "heading": "4.5 Braze Alloy BNi-4 (Ni-4.5% Si-3% B)",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "as-brazed",
+      "end_line": 249,
+      "heading": "As Brazed",
+      "level": 2,
+      "start_line": 249
+    },
+    {
+      "anchor": "y-112360",
+      "end_line": 252,
+      "heading": "Y-112360",
+      "level": 2,
+      "start_line": 250
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 264,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 253
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 288,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 265
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 300,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 289
+    },
+    {
+      "anchor": "after-test",
+      "end_line": 301,
+      "heading": "After Test",
+      "level": 2,
+      "start_line": 301
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 323,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 302
+    },
+    {
+      "anchor": "as-brazed",
+      "end_line": 325,
+      "heading": "As Brazed",
+      "level": 2,
+      "start_line": 324
+    },
+    {
+      "anchor": "y-112359",
+      "end_line": 328,
+      "heading": "Y-112359",
+      "level": 2,
+      "start_line": 326
+    },
+    {
+      "anchor": "backscatt-electrons",
+      "end_line": 336,
+      "heading": "Backscatt Electrons",
+      "level": 2,
+      "start_line": 329
+    },
+    {
+      "anchor": "after-test",
+      "end_line": 339,
+      "heading": "After Test",
+      "level": 2,
+      "start_line": 337
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 359,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 340
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 372,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 360
+    },
+    {
+      "anchor": "after-test",
+      "end_line": 373,
+      "heading": "After Test",
+      "level": 2,
+      "start_line": 373
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 397,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 374
+    },
+    {
+      "anchor": "as-brazed",
+      "end_line": 399,
+      "heading": "As Brazed",
+      "level": 2,
+      "start_line": 398
+    },
+    {
+      "anchor": "y-112353",
+      "end_line": 402,
+      "heading": "Y-112353",
+      "level": 2,
+      "start_line": 400
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 408,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 403
+    },
+    {
+      "anchor": "after-test",
+      "end_line": 409,
+      "heading": "After Test",
+      "level": 2,
+      "start_line": 409
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 415,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 410
+    },
+    {
+      "anchor": "4-6-braze-alloy-bcu-100-cu",
+      "end_line": 419,
+      "heading": "4.6 Braze Alloy BCu (100% Cu)",
+      "level": 1,
+      "start_line": 416
+    },
+    {
+      "anchor": "4-7-braze-alloy-bni-2-ni-7-0-cr-3-5-fe-4-5-si-2-9-b",
+      "end_line": 423,
+      "heading": "4.7 Braze Alloy BNi-2 (Ni-7.0% Cr-3.5% Fe-4.5% Si-2.9% B)",
+      "level": 1,
+      "start_line": 420
+    },
+    {
+      "anchor": "4-8-braze-alloy-bni-2-ni-6-5-cr-2-5-fe-4-5-si-3-b",
+      "end_line": 427,
+      "heading": "4.8 Braze Alloy BNi-2 (Ni-6.5% Cr-2.5% Fe-4.5% Si-3% B)",
+      "level": 1,
+      "start_line": 424
+    },
+    {
+      "anchor": "5-discussion",
+      "end_line": 459,
+      "heading": "5. DISCUSSION",
+      "level": 1,
+      "start_line": 428
+    },
+    {
+      "anchor": "0-007-inches",
+      "end_line": 466,
+      "heading": "0.007 INCHES",
+      "level": 2,
+      "start_line": 460
+    },
+    {
+      "anchor": "as-brazed",
+      "end_line": 468,
+      "heading": "As Brazed",
+      "level": 2,
+      "start_line": 467
+    },
+    {
+      "anchor": "y-112358",
+      "end_line": 471,
+      "heading": "Y-112358",
+      "level": 2,
+      "start_line": 469
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 480,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 472
+    },
+    {
+      "anchor": "after-test",
+      "end_line": 481,
+      "heading": "After Test",
+      "level": 2,
+      "start_line": 481
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 494,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 482
+    },
+    {
+      "anchor": "0-035-inches-100x",
+      "end_line": 498,
+      "heading": "0.035 INCHES 100X",
+      "level": 2,
+      "start_line": 495
+    },
+    {
+      "anchor": "0-007-inches",
+      "end_line": 505,
+      "heading": "0.007 INCHES",
+      "level": 2,
+      "start_line": 499
+    },
+    {
+      "anchor": "as-brazed",
+      "end_line": 507,
+      "heading": "As Brazed",
+      "level": 2,
+      "start_line": 506
+    },
+    {
+      "anchor": "y-112357",
+      "end_line": 510,
+      "heading": "Y-112357",
+      "level": 2,
+      "start_line": 508
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 523,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 511
+    },
+    {
+      "anchor": "after-test",
+      "end_line": 524,
+      "heading": "After Test",
+      "level": 2,
+      "start_line": 524
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 545,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 525
+    },
+    {
+      "anchor": "as-brazed",
+      "end_line": 546,
+      "heading": "As Brazed",
+      "level": 2,
+      "start_line": 546
+    },
+    {
+      "anchor": "y-112354",
+      "end_line": 547,
+      "heading": "Y-112354",
+      "level": 2,
+      "start_line": 547
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 559,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 548
+    },
+    {
+      "anchor": "after-test",
+      "end_line": 560,
+      "heading": "After Test",
+      "level": 2,
+      "start_line": 560
+    },
+    {
+      "anchor": "backscattered-electrons",
+      "end_line": 617,
+      "heading": "Backscattered Electrons",
+      "level": 2,
+      "start_line": 561
+    },
+    {
+      "anchor": "6-conclusions",
+      "end_line": 627,
+      "heading": "6. CONCLUSIONS",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 757,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 628
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 832,
+      "heading": "External Distribution",
+      "level": 2,
+      "start_line": 758
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4272",
+  "tables": [],
+  "title": "![](images/39a504e821f9634b797d93754f178abf89a6fbddacb1fa0530dd4a8f4342ce4f.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "breeder-and-converter-design",
+    "graphite-and-moderator-behavior",
+    "instrumentation-and-controls"
+  ],
+  "warnings": []
+}

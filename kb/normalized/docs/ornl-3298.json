@@ -1,0 +1,471 @@
+{
+  "authors": [
+    "for Plutonium",
+    "Uranium",
+    "FUSED FLUORIDE SALTS",
+    "G. I. Cathers",
+    "R. L. Jolley",
+    "UNION CARBIDE CORPORATION",
+    "DISCLAIMER"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-3298.jsonl",
+  "date_text": "1952",
+  "doc_id": "ornl-3298",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          216,
+          221,
+          225
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          255
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          1,
+          19,
+          68,
+          235,
+          255,
+          259,
+          273,
+          277
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          27,
+          76,
+          328,
+          332,
+          335
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          331,
+          333
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          23,
+          74
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 5,
+        "line_hits": [
+          35,
+          116,
+          206,
+          208,
+          210
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 21,
+        "line_hits": [
+          80,
+          116,
+          118,
+          121,
+          123,
+          127,
+          132,
+          151,
+          158,
+          161,
+          164,
+          167,
+          171,
+          183,
+          206,
+          208,
+          223,
+          229,
+          237,
+          245,
+          257
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          80,
+          118,
+          123,
+          132,
+          151,
+          158,
+          161,
+          164,
+          167,
+          171,
+          183,
+          206,
+          208,
+          223,
+          237,
+          245
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          11,
+          60,
+          235,
+          239
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          80,
+          127,
+          167
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          80,
+          127,
+          167
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          80,
+          167
+        ],
+        "name": "LiF-NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          127
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "49f8100c5f686362fd90bb53a8958bc2616fec90f449497d67bd5b52b8d82814",
+  "markdown_path": "pdf/ORNL-3298/ORNL-3298/hybrid_ocr/ORNL-3298.md",
+  "report_number": "ORNL-3298",
+  "report_numbers": [
+    "ORNL-3298"
+  ],
+  "report_series": null,
+  "section_count": 37,
+  "sections": [
+    {
+      "anchor": "ornl-3298",
+      "end_line": 10,
+      "heading": "Ornl-3298",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "fused-fluoride-salts",
+      "end_line": 18,
+      "heading": "Fused Fluoride Salts",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 32,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 44,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 63,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 65,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "oct-8-1952",
+      "end_line": 67,
+      "heading": "Oct 8 - 1952",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 73,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 75,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 77,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 81,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "contents",
+      "end_line": 85,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "1-0-introduction-1",
+      "end_line": 86,
+      "heading": "1.0 INTRODUCTION 1",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "2-0-fused-salt-fluoride-volatility-method-1",
+      "end_line": 93,
+      "heading": "2.0 FUSED SALT-FLUORIDE VOLATILITY METHOD 1",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "3-0-discussion-9",
+      "end_line": 98,
+      "heading": "3.0 DISCUSSION 9",
+      "level": 2,
+      "start_line": 94
+    },
+    {
+      "anchor": "4-0-experimental-test-equipment-and-procedure-11",
+      "end_line": 103,
+      "heading": "4.0 EXPERIMENTAL TEST EQUIPMENT AND PROCEDURE 11",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "5-0-references-14",
+      "end_line": 105,
+      "heading": "5.0 REFERENCES 14",
+      "level": 2,
+      "start_line": 104
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 113,
+      "heading": "1.0 INTRODUCTION",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "2-0-fused-salt-fluoride-volatility-method",
+      "end_line": 142,
+      "heading": "2.0 FUSED SALT-FLUORIDE VOLATILITY METHOD",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "2-1-retention-of-plutonium-in-fluorination-of-fused-salts",
+      "end_line": 168,
+      "heading": "2.1 Retention of Plutonium in Fluorination of Fused Salts",
+      "level": 1,
+      "start_line": 143
+    },
+    {
+      "anchor": "2-2-behavior-of-mathsf-puf-6-volatilized-in-fused-salt-tests",
+      "end_line": 172,
+      "heading": "2.2 Behavior of $\\mathsf{PuF}_6$ Volatilized in Fused Salt Tests",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "2-3-overall-plutonium-material-balances",
+      "end_line": 178,
+      "heading": "2.3 Overall-Plutonium Material Balances",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "2-4-absorption-as-a-separation-method-for-mathsf-puf-6-mathsf-uf-6-mixtures",
+      "end_line": 191,
+      "heading": "2.4 Absorption as a Separation Method for $\\mathsf{PuF}_6\\mathsf{-UF}_6$ Mixtures",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "3-0-discussion",
+      "end_line": 193,
+      "heading": "3.0 DISCUSSION",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "3-1-fused-salt-volatilization",
+      "end_line": 203,
+      "heading": "3.1 Fused Salt Volatilization",
+      "level": 1,
+      "start_line": 194
+    },
+    {
+      "anchor": "3-2-absorption-of-mathsf-puf-6",
+      "end_line": 211,
+      "heading": "3.2 Absorption of $\\mathsf{PuF}_6$",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "4-0-experimental-test-equipment-and-procedure",
+      "end_line": 213,
+      "heading": "4.0 EXPERIMENTAL TEST EQUIPMENT AND PROCEDURE",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "4-1-fluorination-work",
+      "end_line": 232,
+      "heading": "4.1 Fluorination Work",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "4-2-analytical-methods",
+      "end_line": 248,
+      "heading": "4.2 Analytical Methods",
+      "level": 1,
+      "start_line": 233
+    },
+    {
+      "anchor": "5-0-references",
+      "end_line": 258,
+      "heading": "5.0 REFERENCES",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "ornl-3298",
+      "end_line": 266,
+      "heading": "ORNL-3298",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 325,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 267
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 337,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 326
+    }
+  ],
+  "source_dir": "pdf/ORNL-3298",
+  "tables": [],
+  "title": "ORNL-3298",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox",
+    "materials-and-corrosion",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

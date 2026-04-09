@@ -1,0 +1,387 @@
+{
+  "authors": [
+    "Operated By",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "UcC",
+    "POST OFFICE BOX X",
+    "OAK RIDGE",
+    "TENNESSEE",
+    "SUBJECT: MSRE Radiator Design"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-60-11-108.jsonl",
+  "date_text": "November 30, 1960",
+  "doc_id": "ornl-cf-60-11-108",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          444
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          90,
+          98,
+          402,
+          404
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          402
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 4,
+        "line_hits": [
+          3,
+          23,
+          50,
+          706
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          52
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          402
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          7
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 15,
+        "line_hits": [
+          17,
+          35,
+          66,
+          76,
+          78,
+          80,
+          90,
+          92,
+          98,
+          396,
+          398,
+          458,
+          465,
+          471,
+          478
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          404,
+          408,
+          412,
+          430,
+          444
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          35,
+          90,
+          102,
+          412
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          92,
+          98,
+          446,
+          486
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          98
+        ],
+        "name": "BeF2"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "de3178cdc410677565d41a5fba4d32cbeab5ab6130e7e862bf852c30d0a6dde8",
+  "markdown_path": "pdf/ORNL-CF-60-11-108/ORNL-CF-60-11-108/hybrid_ocr/ORNL-CF-60-11-108.md",
+  "report_number": "CF-60-11-108",
+  "report_numbers": [
+    "CF-60-11-108"
+  ],
+  "report_series": "ornl-central-files",
+  "section_count": 32,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 10,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "post-office-box-x",
+      "end_line": 12,
+      "heading": "Post Office Box X",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-tennessee",
+      "end_line": 22,
+      "heading": "Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-ntral-files-number",
+      "end_line": 24,
+      "heading": "ORNL NTRAL FILES NUMBER",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "cf-60-11-108",
+      "end_line": 28,
+      "heading": "Cf-60-11-108",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "copy-no-94",
+      "end_line": 30,
+      "heading": "Copy No. 94",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "master",
+      "end_line": 32,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 36,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 43,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "notice",
+      "end_line": 47,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "notice",
+      "end_line": 56,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "contents",
+      "end_line": 73,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 87,
+      "heading": "Appendix",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 93,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "radiator-design",
+      "end_line": 95,
+      "heading": "Radiator Design",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "i-secondary-salt-flow-rate",
+      "end_line": 99,
+      "heading": "I. Secondary Salt Flow Rate",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "2-air-flow-rate",
+      "end_line": 103,
+      "heading": "2. Air Flow Rate",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "3-coil-size-and-configuration",
+      "end_line": 395,
+      "heading": "3. Coil Size and Configuration",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "4-msre-operation-at-power-levels-less-than-10-mw",
+      "end_line": 409,
+      "heading": "4. MSRE Operation at Power Levels Less than 10 Mw",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "5-cooling-air",
+      "end_line": 419,
+      "heading": "5. Cooling Air",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "6-radiator-frame-and-doors",
+      "end_line": 431,
+      "heading": "6. Radiator Frame and Doors",
+      "level": 1,
+      "start_line": 420
+    },
+    {
+      "anchor": "7-duct",
+      "end_line": 435,
+      "heading": "7. Duct",
+      "level": 1,
+      "start_line": 432
+    },
+    {
+      "anchor": "8-heating",
+      "end_line": 441,
+      "heading": "8. Heating",
+      "level": 1,
+      "start_line": 436
+    },
+    {
+      "anchor": "9-conclusions",
+      "end_line": 455,
+      "heading": "9. Conclusions",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "references",
+      "end_line": 466,
+      "heading": "References",
+      "level": 1,
+      "start_line": 456
+    },
+    {
+      "anchor": "969hs-8mct-itinio",
+      "end_line": 481,
+      "heading": "969Hs 8Mct-Itinio",
+      "level": 2,
+      "start_line": 467
+    },
+    {
+      "anchor": "calculations",
+      "end_line": 566,
+      "heading": "Calculations",
+      "level": 1,
+      "start_line": 482
+    },
+    {
+      "anchor": "drawing-number",
+      "end_line": 568,
+      "heading": "Drawing_Number",
+      "level": 1,
+      "start_line": 567
+    },
+    {
+      "anchor": "title",
+      "end_line": 572,
+      "heading": "Title",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 705,
+      "heading": "Distribution",
+      "level": 1,
+      "start_line": 573
+    },
+    {
+      "anchor": "94-ornl-rc",
+      "end_line": 708,
+      "heading": "94. ORNL-RC",
+      "level": 2,
+      "start_line": 706
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-60-11-108",
+  "tables": [],
+  "title": "![](images/65cca64ee0b858f36741d1887fd1d530af8215f2fa775103a27de2c83f18db0b.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

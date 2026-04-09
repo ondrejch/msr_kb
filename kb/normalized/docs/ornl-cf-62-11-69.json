@@ -1,0 +1,292 @@
+{
+  "authors": [
+    "Operated by",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "Post Office Box X",
+    "Oak Ridge",
+    "Tennessee",
+    "For Internal Use Only",
+    "COPY NO."
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-62-11-69.jsonl",
+  "date_text": "November 12, 1962",
+  "doc_id": "ornl-cf-62-11-69",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 24,
+        "line_hits": [
+          76,
+          78,
+          80,
+          81,
+          84,
+          105,
+          108,
+          110,
+          113,
+          126,
+          132,
+          162,
+          168,
+          176,
+          178,
+          180,
+          186,
+          188,
+          200,
+          224,
+          250,
+          338,
+          344,
+          366
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 11,
+        "line_hits": [
+          33,
+          51,
+          126,
+          128,
+          274,
+          276,
+          278,
+          280,
+          282,
+          306,
+          366
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          75,
+          284,
+          296,
+          366
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 2,
+        "line_hits": [
+          3,
+          39
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          9
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 19,
+        "line_hits": [
+          33,
+          35,
+          51,
+          53,
+          55,
+          57,
+          63,
+          122,
+          132,
+          136,
+          150,
+          152,
+          178,
+          186,
+          198,
+          248,
+          278,
+          280,
+          300
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          25,
+          33,
+          51,
+          132,
+          136,
+          282
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "998d93db70ce6750d8e180e77b364888c064ba20cd9bb530bca4c34b087b04c2",
+  "markdown_path": "pdf/ORNL-CF-62-11-69/ORNL-CF-62-11-69/hybrid_ocr/ORNL-CF-62-11-69.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 19,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 20,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 30,
+      "heading": "Copy No.",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 36,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "notice",
+      "end_line": 48,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 60,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "summary-of-behavior-mechanisms",
+      "end_line": 123,
+      "heading": "SUMMARY OF BEHAVIOR MECHANISMS",
+      "level": 1,
+      "start_line": 61
+    },
+    {
+      "anchor": "description-of-equations",
+      "end_line": 129,
+      "heading": "DESCRIPTION OF EQUATIONS",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "core-equations",
+      "end_line": 133,
+      "heading": "Core Equations",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "fuel-in-laminar-flow",
+      "end_line": 159,
+      "heading": "Fuel in Laminar Flow",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "fuel-in-turbulent-flow",
+      "end_line": 175,
+      "heading": "Fuel in Turbulent Flow",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "graphite",
+      "end_line": 195,
+      "heading": "Graphite",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "boundary-conditions",
+      "end_line": 273,
+      "heading": "Boundary Conditions",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "external-loop-equations",
+      "end_line": 297,
+      "heading": "External-Loop Equations",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "supplementary-equations",
+      "end_line": 313,
+      "heading": "Supplementary Equations",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 363,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "definitions-of-symbols-contd",
+      "end_line": 379,
+      "heading": "Definitions of Symbols - contd",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 407,
+      "heading": "Distribution",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "30-ird-rc",
+      "end_line": 430,
+      "heading": "30. IRD-RC",
+      "level": 2,
+      "start_line": 408
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-62-11-69",
+  "tables": [],
+  "title": "![](images/eff25f068922357866c92e36acc62630ca4653a2977ed4428e1d05a3cdc8b629.jpg)",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

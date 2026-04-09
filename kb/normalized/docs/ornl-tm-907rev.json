@@ -1,0 +1,1022 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "UNION CARBIDI",
+    "PART VII",
+    "R.B.Lindauer",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-907rev.jsonl",
+  "date_text": "December 28, 1967",
+  "doc_id": "ornl-tm-907rev",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 6,
+        "line_hits": [
+          252,
+          343,
+          417,
+          425,
+          427,
+          463
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          156,
+          195,
+          231,
+          240,
+          674
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          227,
+          457,
+          463,
+          674
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          145,
+          227,
+          304
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          138,
+          143,
+          240
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          240
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          417
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 14,
+        "line_hits": [
+          262,
+          465,
+          467,
+          470,
+          474,
+          476,
+          485,
+          570,
+          697,
+          714,
+          718,
+          720,
+          728,
+          760
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          499,
+          503,
+          510,
+          512,
+          516,
+          524,
+          533,
+          676,
+          714,
+          716,
+          745
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          262,
+          288,
+          474,
+          499,
+          672
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          467,
+          476,
+          578,
+          718,
+          749
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          514
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 30,
+        "line_hits": [
+          7,
+          21,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          72,
+          181,
+          282,
+          296,
+          318,
+          355,
+          373,
+          403,
+          412,
+          449,
+          482,
+          666,
+          690,
+          764,
+          765,
+          766,
+          767,
+          769
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          17,
+          765,
+          766,
+          767,
+          768
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          11
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 48,
+        "line_hits": [
+          80,
+          82,
+          156,
+          158,
+          195,
+          203,
+          244,
+          248,
+          262,
+          266,
+          288,
+          292,
+          294,
+          312,
+          323,
+          325,
+          327,
+          335,
+          347,
+          351,
+          365,
+          369,
+          387,
+          395,
+          397,
+          425,
+          437,
+          445,
+          461,
+          480,
+          487,
+          489,
+          499,
+          512,
+          516,
+          522,
+          528,
+          578,
+          650,
+          663,
+          674,
+          688,
+          701,
+          712,
+          714,
+          736,
+          745,
+          749
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 26,
+        "line_hits": [
+          27,
+          46,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          70,
+          74,
+          78,
+          112,
+          152,
+          271,
+          274,
+          277,
+          280,
+          447,
+          485,
+          634,
+          764,
+          767
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 35,
+        "line_hits": [
+          145,
+          156,
+          162,
+          164,
+          168,
+          197,
+          229,
+          231,
+          234,
+          238,
+          244,
+          266,
+          310,
+          312,
+          314,
+          316,
+          321,
+          329,
+          367,
+          369,
+          378,
+          381,
+          383,
+          385,
+          443,
+          445,
+          447,
+          452,
+          457,
+          503,
+          510,
+          533,
+          551,
+          676,
+          765
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          207
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          207
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a2c4349c66ceaff5ef241baca23534a6ae48e0c49697822c0d98632e5f07d5e7",
+  "markdown_path": "pdf/ORNL-TM-0907REV/ORNL-TM-0907REV/hybrid_ocr/ORNL-TM-0907REV.md",
+  "report_number": "ORNL-TM-907",
+  "report_numbers": [
+    "ORNL-TM-907",
+    "ORNL-TM-728",
+    "ORNL-TM-729",
+    "ORNL-TM-730",
+    "ORNL-TM-732",
+    "ORNL-TM-2111",
+    "ORNL-TM-733",
+    "ORNL-TM-908",
+    "ORNL-TM-909",
+    "ORNL-TM-911"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 90,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 10,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 12,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 16,
+      "heading": "NUCLEAR DIVISION",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 18,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "union-carbidi",
+      "end_line": 22,
+      "heading": "Union Carbidi",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "copy-no-112",
+      "end_line": 26,
+      "heading": "Copy No. - 112",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 28,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "part-vii",
+      "end_line": 30,
+      "heading": "Part Vii",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "fuel-handling-and-processing-plant",
+      "end_line": 34,
+      "heading": "Fuel Handling And Processing Plant",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 43,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "preface",
+      "end_line": 58,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 44
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 67,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "orni-tm-910",
+      "end_line": 71,
+      "heading": "Orni-Tm-910\\*\\*",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "ornl-tm-911",
+      "end_line": 83,
+      "heading": "Ornl-Tm-911",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 85,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 86,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "2-process-description-1",
+      "end_line": 91,
+      "heading": "2. PROCESS DESCRIPTION 1",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "3-equipment-description-14",
+      "end_line": 102,
+      "heading": "3. EQUIPMENT DESCRIPTION 14",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "4-safety-analysis-49",
+      "end_line": 109,
+      "heading": "4. SAFETY ANALYSIS 49",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "references-63",
+      "end_line": 111,
+      "heading": "References 63",
+      "level": 2,
+      "start_line": 110
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 113,
+      "heading": "MSRE DESIGN AND OPERATIONS REPORT",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "part-vii",
+      "end_line": 115,
+      "heading": "Part VII",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "fuel-handling-and-processing-plant",
+      "end_line": 119,
+      "heading": "Fuel Handling And Processing Plant",
+      "level": 2,
+      "start_line": 116
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 131,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "2-process-description",
+      "end_line": 133,
+      "heading": "2. PROCESS DESCRIPTION",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "2-1-mathbf-h-2-hf-treatment-for-oxide-removal",
+      "end_line": 135,
+      "heading": "2.1 $\\mathbf{H}_2$ -HF Treatment for Oxide Removal",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "2-1-1-summary",
+      "end_line": 146,
+      "heading": "2.1.1 Summary",
+      "level": 1,
+      "start_line": 136
+    },
+    {
+      "anchor": "2-1-2-hydrofluorination",
+      "end_line": 161,
+      "heading": "2.1.2 Hydrofluorination",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "2-1-3-naf-trapping",
+      "end_line": 165,
+      "heading": "2.1.3 NaF Trapping",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "2-1-4-monitoring-for-water",
+      "end_line": 171,
+      "heading": "2.1.4 Monitoring for Water",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "2-1-5-offgas-handling",
+      "end_line": 180,
+      "heading": "2.1.5 Offgas Handling",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "ornl-dwg-68-2729",
+      "end_line": 184,
+      "heading": "Ornl Dwg. 68-2729",
+      "level": 2,
+      "start_line": 181
+    },
+    {
+      "anchor": "2-1-6-liquid-waste-disposal",
+      "end_line": 190,
+      "heading": "2.1.6 Liquid Waste Disposal",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "2-2-uranium-recovery",
+      "end_line": 192,
+      "heading": "2.2 Uranium Recovery",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "2-2-1-summary",
+      "end_line": 200,
+      "heading": "2.2.1 Summary",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "2-2-2-fluorination",
+      "end_line": 228,
+      "heading": "2.2.2 Fluorination",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "2-2-3-naf-trapping",
+      "end_line": 241,
+      "heading": "2.2.3 NaF Trapping",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "2-2-4-uf6-absorption",
+      "end_line": 249,
+      "heading": "2.2.4 UF6 Absorption",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "2-2-5-excess-fluorine-disposal",
+      "end_line": 253,
+      "heading": "2.2.5 Excess Fluorine Disposal",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "2-2-6-offgas-handling",
+      "end_line": 257,
+      "heading": "2.2.6 Offgas Handling",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "3-equipment-description",
+      "end_line": 259,
+      "heading": "3. EQUIPMENT DESCRIPTION",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "3-1-plant-layout",
+      "end_line": 263,
+      "heading": "3.1 Plant Layout",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "3-2-maintenance",
+      "end_line": 283,
+      "heading": "3.2 Maintenance",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "3-3-in-cell-equipment",
+      "end_line": 285,
+      "heading": "3.3 In-Cell Equipment",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "3-3-1-fuel-storage-tank",
+      "end_line": 295,
+      "heading": "3.3.1 Fuel Storage Tank",
+      "level": 1,
+      "start_line": 286
+    },
+    {
+      "anchor": "ornl-dwg-65-2509",
+      "end_line": 309,
+      "heading": "Ornl-Dwg 65-2509",
+      "level": 2,
+      "start_line": 296
+    },
+    {
+      "anchor": "3-3-2-naf-trap",
+      "end_line": 317,
+      "heading": "3.3.2 NaF Trap",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "ornl-dwg-65-2511",
+      "end_line": 332,
+      "heading": "Ornl-Dwg 65-2511",
+      "level": 2,
+      "start_line": 318
+    },
+    {
+      "anchor": "3-3-3-cold-trap",
+      "end_line": 344,
+      "heading": "3.3.3 Cold Trap",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "3-3-4-siphon-pot",
+      "end_line": 348,
+      "heading": "3.3.4 Siphon Pot",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "3-3-5-caustic-scrubber",
+      "end_line": 354,
+      "heading": "3.3.5 Caustic Scrubber",
+      "level": 1,
+      "start_line": 349
+    },
+    {
+      "anchor": "ornl-dwg-65-2513",
+      "end_line": 366,
+      "heading": "Ornl-Dwg 65-2513",
+      "level": 2,
+      "start_line": 355
+    },
+    {
+      "anchor": "3-3-6-naf-absorbers",
+      "end_line": 372,
+      "heading": "3.3.6 NaF Absorbers",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "ornl-dwg65-2514",
+      "end_line": 388,
+      "heading": "Ornl-Dwg65-2514",
+      "level": 2,
+      "start_line": 373
+    },
+    {
+      "anchor": "3-3-7-fluorine-disposal-system",
+      "end_line": 398,
+      "heading": "3.3.7 Fluorine Disposal System",
+      "level": 1,
+      "start_line": 389
+    },
+    {
+      "anchor": "3-3-8-cubicle-exhauster",
+      "end_line": 402,
+      "heading": "3.3.8 Cubicle Exhauster",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "ornl-dwg-65-2545",
+      "end_line": 405,
+      "heading": "Ornl-Dwg 65-2545",
+      "level": 2,
+      "start_line": 403
+    },
+    {
+      "anchor": "f2-reactor",
+      "end_line": 411,
+      "heading": "F2 Reactor",
+      "level": 2,
+      "start_line": 406
+    },
+    {
+      "anchor": "ornl-dwg-68-2730",
+      "end_line": 420,
+      "heading": "Ornl Dwg. 68-2730",
+      "level": 2,
+      "start_line": 412
+    },
+    {
+      "anchor": "3-4-out-of-cell-equipment",
+      "end_line": 422,
+      "heading": "3.4 Out-of-Cell Equipment",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "3-4-1-activated-charcoal-traps",
+      "end_line": 428,
+      "heading": "3.4.1 Activated-Charcoal Traps",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "3-4-2-flame-arrester",
+      "end_line": 434,
+      "heading": "3.4.2 Flame Arrester",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "3-4-3-offgas-filters",
+      "end_line": 440,
+      "heading": "3.4.3 Offgas Filters",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "3-4-4-hf-trap",
+      "end_line": 448,
+      "heading": "3.4.4 HF Trap",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "ornl-dwg-65-2516",
+      "end_line": 458,
+      "heading": "Ornl-Dwg 65-2516",
+      "level": 2,
+      "start_line": 449
+    },
+    {
+      "anchor": "3-4-5-hf-heater",
+      "end_line": 464,
+      "heading": "3.4.5 HF Heater",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "3-4-6-salt-sampler",
+      "end_line": 477,
+      "heading": "3.4.6 Salt Sampler",
+      "level": 1,
+      "start_line": 465
+    },
+    {
+      "anchor": "3-5-electrical-system",
+      "end_line": 481,
+      "heading": "3.5 Electrical System",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "ornl-dwg-63-5848r",
+      "end_line": 496,
+      "heading": "Ornl-Dwg 63-5848R",
+      "level": 2,
+      "start_line": 482
+    },
+    {
+      "anchor": "3-6-helium-supply-system",
+      "end_line": 517,
+      "heading": "3.6 Helium Supply System",
+      "level": 1,
+      "start_line": 497
+    },
+    {
+      "anchor": "3-7-instrumentation",
+      "end_line": 519,
+      "heading": "3.7 Instrumentation",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "3-7-1-thermocouples",
+      "end_line": 525,
+      "heading": "3.7.1 Thermocouples",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "3-7-2-annunciators",
+      "end_line": 571,
+      "heading": "3.7.2 Annunciators",
+      "level": 1,
+      "start_line": 526
+    },
+    {
+      "anchor": "3-7-3-instrument-power",
+      "end_line": 575,
+      "heading": "3.7.3 Instrument Power.",
+      "level": 1,
+      "start_line": 572
+    },
+    {
+      "anchor": "3-8-brine-system",
+      "end_line": 579,
+      "heading": "3.8 Brine System",
+      "level": 1,
+      "start_line": 576
+    },
+    {
+      "anchor": "4-safety-analysis",
+      "end_line": 581,
+      "heading": "4. SAFETY ANALYSIS",
+      "level": 1,
+      "start_line": 580
+    },
+    {
+      "anchor": "4-1-summary-and-conclusions",
+      "end_line": 593,
+      "heading": "4.1 Summary and Conclusions",
+      "level": 1,
+      "start_line": 582
+    },
+    {
+      "anchor": "4-2-bases-for-calculations",
+      "end_line": 595,
+      "heading": "4.2 Bases for Calculations",
+      "level": 1,
+      "start_line": 594
+    },
+    {
+      "anchor": "4-2-1-diffusion-factor",
+      "end_line": 647,
+      "heading": "4.2.1 Diffusion Factor",
+      "level": 1,
+      "start_line": 596
+    },
+    {
+      "anchor": "4-2-2-maximum-permissible-exposures",
+      "end_line": 667,
+      "heading": "4.2.2 Maximum Permissible Exposures",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "4-3-gaseous-activity",
+      "end_line": 669,
+      "heading": "4.3 Gaseous Activity",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "4-3-1-activity-release-from-the-containment-stack",
+      "end_line": 689,
+      "heading": "4.3.1 Activity Release from the Containment Stack",
+      "level": 1,
+      "start_line": 670
+    },
+    {
+      "anchor": "ornl-dwg-68-2731",
+      "end_line": 694,
+      "heading": "Ornl Dwg. 68-2731",
+      "level": 2,
+      "start_line": 690
+    },
+    {
+      "anchor": "4-3-2-activity-release-to-the-operating-area",
+      "end_line": 721,
+      "heading": "4.3.2 Activity Release to the Operating Area",
+      "level": 1,
+      "start_line": 695
+    },
+    {
+      "anchor": "4-4-penetrating-radiation",
+      "end_line": 723,
+      "heading": "4.4 Penetrating Radiation",
+      "level": 1,
+      "start_line": 722
+    },
+    {
+      "anchor": "4-4-1-normal-levels",
+      "end_line": 742,
+      "heading": "4.4.1 Normal Levels",
+      "level": 1,
+      "start_line": 724
+    },
+    {
+      "anchor": "4-4-2-unusual-radiation-levels",
+      "end_line": 761,
+      "heading": "4.4.2 Unusual Radiation Levels",
+      "level": 1,
+      "start_line": 743
+    },
+    {
+      "anchor": "references",
+      "end_line": 773,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 923,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 774
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 928,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 924
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0907REV",
+  "tables": [],
+  "title": "![](images/d56773f4d2dc0acebada6d8804aec01e6287af75ce5bc3db3e92b839fbcddbdd.jpg)",
+  "topics": [
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "fuel-processing-and-reprocessing",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,927 @@
+{
+  "authors": [
+    "Peter P. Holz",
+    "LEGAL NOTICE",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2712.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2712",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          192,
+          198,
+          267,
+          271
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          452,
+          472,
+          646
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          427,
+          1103
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          425
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          194,
+          242,
+          267,
+          269
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          265,
+          478
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          190
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          419
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 25,
+        "line_hits": [
+          1,
+          19,
+          77,
+          140,
+          160,
+          237,
+          253,
+          277,
+          297,
+          321,
+          341,
+          349,
+          351,
+          353,
+          355,
+          357,
+          419,
+          438,
+          507,
+          538,
+          636,
+          638,
+          656,
+          670,
+          671
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          140,
+          152,
+          164,
+          289,
+          319,
+          321,
+          339,
+          341,
+          349,
+          351,
+          359,
+          403,
+          419,
+          425,
+          454,
+          536,
+          542,
+          546,
+          558,
+          638,
+          640,
+          646
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          29,
+          152,
+          174,
+          239,
+          241,
+          244,
+          265,
+          351,
+          791,
+          805,
+          1079,
+          1081,
+          1083,
+          1085,
+          1087,
+          1089,
+          1091,
+          1093,
+          1095
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          281
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          25
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 56,
+        "line_hits": [
+          160,
+          162,
+          174,
+          198,
+          202,
+          206,
+          212,
+          214,
+          216,
+          222,
+          224,
+          226,
+          228,
+          283,
+          287,
+          289,
+          297,
+          299,
+          305,
+          306,
+          321,
+          355,
+          361,
+          365,
+          401,
+          403,
+          407,
+          415,
+          419,
+          438,
+          440,
+          460,
+          478,
+          496,
+          512,
+          526,
+          528,
+          532,
+          548,
+          558,
+          582,
+          586,
+          594,
+          600,
+          608,
+          610,
+          612,
+          622,
+          628,
+          636
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          59,
+          275,
+          277,
+          297
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          638,
+          656,
+          671
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          636
+        ],
+        "name": "MSBR"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "20729b50c44d6ee88a6c737bb11985181cc8118cc8ea9ac9f6d1917fffc2df49",
+  "markdown_path": "pdf/ORNL-TM-2712/ORNL-TM-2712/hybrid_ocr/ORNL-TM-2712.md",
+  "report_number": "ORNL-TM-2712",
+  "report_numbers": [
+    "ORNL-TM-2712"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 90,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2712",
+      "end_line": 6,
+      "heading": "Ornl-Tm-2712",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "feasibility-study-of-remote-cutting-and-welding-for-nuclear-plant-maintenance",
+      "end_line": 10,
+      "heading": "Feasibility Study Of Remote Cutting And Welding For Nuclear Plant Maintenance",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 16,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "november-1969",
+      "end_line": 18,
+      "heading": "November 1969",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 24,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 28,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "contents",
+      "end_line": 34,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 36,
+      "heading": "Abstract. 1",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "acknowledgments-2",
+      "end_line": 38,
+      "heading": "Acknowledgments 2",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "section-a",
+      "end_line": 40,
+      "heading": "SECTION A",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "1-maintenance-philosophy-3",
+      "end_line": 53,
+      "heading": "1．MAINTENANCE PHILOSOPHY. 3",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "2-history-of-remote-welding-10",
+      "end_line": 62,
+      "heading": "2. HISTORY OF REMOTE WELDING 10",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "3-the-selection-of-a-system-to-be-developed-for-remote-maintenance-15",
+      "end_line": 71,
+      "heading": "3. THE SELECTION OF A SYSTEM TO BE DEVELOPED FOR REMOTE MAINTENANCE. 15",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "section-b",
+      "end_line": 73,
+      "heading": "SECTION B",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "4-present-program-status-17",
+      "end_line": 86,
+      "heading": "4. PRESENT PROGRAM STATUS. 17",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "5-machining-studies-28",
+      "end_line": 94,
+      "heading": "5．MACHINING STUDIES 28",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "6-welding-studies-34",
+      "end_line": 107,
+      "heading": "6. WELDING STUDIES 34",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "7-special-orbital-equipment-maintenance-requirements-44",
+      "end_line": 119,
+      "heading": "7. SPECIAL ORBITAL EQUIPMENT MAINTENANCE REQUIREMENTS. 44",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "section-c",
+      "end_line": 121,
+      "heading": "SECTION C",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "8-program-proposal-development-of-remote-cutting-welding-and-inspection-equipment-for-reactor-system-maintenance-46",
+      "end_line": 131,
+      "heading": "8. PROGRAM PROPOSAL: DEVELOPMENT OF REMOTE CUTTING, WELDING AND INSPECTION EQUIPMENT FOR REACTOR SYSTEM MAINTENANCE 46",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "feasibility-study-of-remote-cutting-and-welding-for-nuclear-plant-maintenance",
+      "end_line": 135,
+      "heading": "FEASIBILITY STUDY OF REMOTE CUTTING AND WELDING FOR NUCLEAR PLANT MAINTENANCE",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 149,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 136
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 153,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 150
+    },
+    {
+      "anchor": "section-a",
+      "end_line": 155,
+      "heading": "SECTION A",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "1-maintenance-philosophy",
+      "end_line": 157,
+      "heading": "1. MAINTENANCE PHILOSOPHY",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "l-l-introduction",
+      "end_line": 175,
+      "heading": "l.l Introduction",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "1-2-approaches-to-maintenance",
+      "end_line": 179,
+      "heading": "1.2 Approaches to Maintenance",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "1-2-1-some-examples-of-maintenance-methods",
+      "end_line": 199,
+      "heading": "1.2.1 Some Examples of Maintenance Methods",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "1-3-remote-maintenance-considerations",
+      "end_line": 203,
+      "heading": "1.3 Remote Maintenance Considerations",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "1-3-1-equipment-location-for-maintenance",
+      "end_line": 207,
+      "heading": "1.3.1 Equipment Location for Maintenance",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "1-3-2-mechanical-joint-considerations",
+      "end_line": 219,
+      "heading": "1.3.2 Mechanical Joint Considerations",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "1-3-3-welded-joint-closure-considerations",
+      "end_line": 229,
+      "heading": "1.3.3 Welded Joint Closure Considerations",
+      "level": 1,
+      "start_line": 220
+    },
+    {
+      "anchor": "references",
+      "end_line": 248,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "2-history-of-remote-welding",
+      "end_line": 250,
+      "heading": "2. HISTORY OF REMOTE WELDING",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "2-1-background",
+      "end_line": 254,
+      "heading": "2.1 Background",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "2-2-the-pennsylvania-advanced-reactor-program",
+      "end_line": 262,
+      "heading": "2.2 The Pennsylvania Advanced Reactor Program",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "2-3-the-atomics-international-program",
+      "end_line": 274,
+      "heading": "2.3 The Atomics International Program",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "2-4-state-of-the-art-survey",
+      "end_line": 278,
+      "heading": "2.4 State of the Art Survey",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "2-5-survey-findings",
+      "end_line": 292,
+      "heading": "2.5 Survey Findings",
+      "level": 1,
+      "start_line": 279
+    },
+    {
+      "anchor": "2-6-continued-need-for-remote-welding-development",
+      "end_line": 307,
+      "heading": "2.6 Continued Need for Remote Welding Development",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "references",
+      "end_line": 314,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "3-the-selection-of-a-system-to-be-developed-for-remote-maintenance",
+      "end_line": 316,
+      "heading": "3. THE SELECTION OF A SYSTEM TO BE DEVELOPED FOR REMOTE MAINTENANCE",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "3-1-orbital-vehicle-system-advantages",
+      "end_line": 322,
+      "heading": "3.1 \"Orbital-Vehicle\" System Advantages",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "3-2-future-system-expansion-and-modification-plans",
+      "end_line": 326,
+      "heading": "3.2 Future System Expansion and Modification Plans",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "3-2-1-development-of-additional-modules",
+      "end_line": 332,
+      "heading": "3.2.1 Development of Additional Modules",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "3-2-2-alternate-carriage-for-seal-weld-capability",
+      "end_line": 336,
+      "heading": "3.2.2 Alternate Carriage for Seal-Weld Capability",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "3-2-3-development-of-special-features-for-nuclear-system-applications",
+      "end_line": 342,
+      "heading": "3.2.3 Development of Special Features for Nuclear System Applications",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "section-b",
+      "end_line": 344,
+      "heading": "SECTION B",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "4-present-program-status",
+      "end_line": 346,
+      "heading": "4. PRESENT PROGRAM STATUS",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "4-1-general",
+      "end_line": 356,
+      "heading": "4.1 General",
+      "level": 1,
+      "start_line": 347
+    },
+    {
+      "anchor": "4-2-ornl-s-prototype-automated-remote-cutting-and-welding-system-for-6-and-8-in-pipes",
+      "end_line": 362,
+      "heading": "4.2 ORNL's Prototype Automated Remote Cutting and Welding System for 6 and 8-in. Pipes",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "4-2-1-carriage",
+      "end_line": 368,
+      "heading": "4.2.1 Carriage",
+      "level": 1,
+      "start_line": 363
+    },
+    {
+      "anchor": "4-2-2-universal-machining-head",
+      "end_line": 372,
+      "heading": "4.2.2 Universal Machining Head",
+      "level": 1,
+      "start_line": 369
+    },
+    {
+      "anchor": "4-2-3-universal-welding-head",
+      "end_line": 396,
+      "heading": "4.2.3 Universal Welding Head",
+      "level": 1,
+      "start_line": 373
+    },
+    {
+      "anchor": "4-2-4-welding-programmer-and-control-unit",
+      "end_line": 404,
+      "heading": "4.2.4 Welding Programmer and Control Unit",
+      "level": 1,
+      "start_line": 397
+    },
+    {
+      "anchor": "4-2-5-power-supply",
+      "end_line": 416,
+      "heading": "4.2.5 Power Supply",
+      "level": 1,
+      "start_line": 405
+    },
+    {
+      "anchor": "4-2-6-equipment-modifications-for-remote-work",
+      "end_line": 420,
+      "heading": "4.2.6 Equipment Modifications for Remote Work",
+      "level": 1,
+      "start_line": 417
+    },
+    {
+      "anchor": "5-machining-studies",
+      "end_line": 422,
+      "heading": "5. MACHINING STUDIES",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "5-1-general",
+      "end_line": 433,
+      "heading": "5.1 General",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "5-2-equipment-evaluation",
+      "end_line": 441,
+      "heading": "5.2 Equipment Evaluation",
+      "level": 1,
+      "start_line": 434
+    },
+    {
+      "anchor": "5-3-tooling",
+      "end_line": 449,
+      "heading": "5.3 Tooling",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "5-4-machining-feeds-and-speeds",
+      "end_line": 467,
+      "heading": "5.4 Machining Feeds and Speeds",
+      "level": 1,
+      "start_line": 450
+    },
+    {
+      "anchor": "5-5-machining-techniques-for-slitting-and-beveling-pipes-pipe-end-preparation-requirements-for-welding",
+      "end_line": 491,
+      "heading": "5.5 Machining Techniques for Slitting and Beveling Pipes; Pipe End Preparation Requirements for Welding",
+      "level": 1,
+      "start_line": 468
+    },
+    {
+      "anchor": "6-welding-studies",
+      "end_line": 493,
+      "heading": "6. WELDING STUDIES",
+      "level": 1,
+      "start_line": 492
+    },
+    {
+      "anchor": "6-1-general",
+      "end_line": 506,
+      "heading": "6.1 General",
+      "level": 1,
+      "start_line": 494
+    },
+    {
+      "anchor": "ornl-dwg-69-11840",
+      "end_line": 523,
+      "heading": "Ornl Dwg. 69-11840",
+      "level": 2,
+      "start_line": 507
+    },
+    {
+      "anchor": "6-2-preweld-joint-cleaning",
+      "end_line": 529,
+      "heading": "6.2 Preweld Joint Cleaning",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "6-3-joint-fitup-tolerance",
+      "end_line": 533,
+      "heading": "6.3 Joint Fitup Tolerance",
+      "level": 1,
+      "start_line": 530
+    },
+    {
+      "anchor": "6-4-inert-shield-gas",
+      "end_line": 539,
+      "heading": "6.4 Inert Shield Gas",
+      "level": 1,
+      "start_line": 534
+    },
+    {
+      "anchor": "6-5-electrode-configuration",
+      "end_line": 543,
+      "heading": "6.5 Electrode Configuration",
+      "level": 1,
+      "start_line": 540
+    },
+    {
+      "anchor": "6-6-automatic-arc-voltage-control",
+      "end_line": 549,
+      "heading": "6.6 Automatic Arc Voltage Control",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "6-7-pre-weld-positioning",
+      "end_line": 555,
+      "heading": "6.7 Pre-Weld Positioning",
+      "level": 1,
+      "start_line": 550
+    },
+    {
+      "anchor": "6-8-root-pass",
+      "end_line": 577,
+      "heading": "6.8 Root Pass",
+      "level": 1,
+      "start_line": 556
+    },
+    {
+      "anchor": "6-9-fill-passes",
+      "end_line": 583,
+      "heading": "6.9 Fill Passes",
+      "level": 1,
+      "start_line": 578
+    },
+    {
+      "anchor": "6-10-repair-welding",
+      "end_line": 591,
+      "heading": "6.10 Repair Welding",
+      "level": 1,
+      "start_line": 584
+    },
+    {
+      "anchor": "7-special-orbital-equipment-maintenance-requirements",
+      "end_line": 595,
+      "heading": "7. SPECIAL ORBITAL EQUIPMENT MAINTENANCE REQUIREMENTS",
+      "level": 1,
+      "start_line": 592
+    },
+    {
+      "anchor": "7-l-carriage",
+      "end_line": 601,
+      "heading": "7.l Carriage",
+      "level": 1,
+      "start_line": 596
+    },
+    {
+      "anchor": "7-2-electrical-items",
+      "end_line": 605,
+      "heading": "7.2 Electrical Items",
+      "level": 1,
+      "start_line": 602
+    },
+    {
+      "anchor": "7-3-milling-head",
+      "end_line": 615,
+      "heading": "7.3 Milling Head",
+      "level": 1,
+      "start_line": 606
+    },
+    {
+      "anchor": "7-4-welding-head",
+      "end_line": 623,
+      "heading": "7.4 Welding Head",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "7-5-general",
+      "end_line": 629,
+      "heading": "7.5 General",
+      "level": 1,
+      "start_line": 624
+    },
+    {
+      "anchor": "section-c",
+      "end_line": 647,
+      "heading": "SECTION C",
+      "level": 1,
+      "start_line": 630
+    },
+    {
+      "anchor": "8-2-a-long-range-three-phase-development-program-for-pipe-and-vessel-maintenance",
+      "end_line": 651,
+      "heading": "8.2 A Long-Range, Three-Phase Development Program for Pipe and Vessel Maintenance",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "8-2-1-phase-i-the-general-program",
+      "end_line": 657,
+      "heading": "8.2.1 Phase I, The General Program",
+      "level": 1,
+      "start_line": 652
+    },
+    {
+      "anchor": "8-2-2-phase-ii-the-pipe-joint-program",
+      "end_line": 661,
+      "heading": "8.2.2 Phase II, The Pipe Joint Program",
+      "level": 1,
+      "start_line": 658
+    },
+    {
+      "anchor": "8-2-3-phase-iii-the-vessel-closure-program",
+      "end_line": 667,
+      "heading": "8.2.3 Phase III, The Vessel Closure Program",
+      "level": 1,
+      "start_line": 662
+    },
+    {
+      "anchor": "references",
+      "end_line": 672,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1076,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 673
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1107,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1077
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2712",
+  "tables": [],
+  "title": "ORNL-TM-2712",
+  "topics": [
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers",
+    "program-history",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

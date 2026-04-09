@@ -1,0 +1,703 @@
+{
+  "document_count": 76,
+  "dynamics_claim_count": 50,
+  "family_counts": {
+    "anp-and-precursor-fluid-fuel": 2,
+    "civilian-molten-salt-power-reactors": 433
+  },
+  "guide": "msbr-benchmark-pack.md",
+  "id": "msbr",
+  "physics_claim_count": 385,
+  "reactor": "MSBR",
+  "relation_counts": {
+    "dynamics": {
+      "control-system": 11,
+      "frequency-response": 1,
+      "kinetics-model": 27,
+      "mixing-recirculation": 5,
+      "transient-response": 3,
+      "transport-delay": 3
+    },
+    "physics": {
+      "breeding-ratio": 71,
+      "conversion-ratio": 10,
+      "criticality": 6,
+      "delayed-neutron-fraction": 3,
+      "doubling-time": 30,
+      "fissile-inventory": 26,
+      "flux": 40,
+      "fuel-cycle-cost": 66,
+      "neutron-lifetime": 1,
+      "power-density": 53,
+      "salt-volume-fraction": 11,
+      "temperature-coefficient": 28,
+      "xenon-poisoning-effect": 40
+    }
+  },
+  "sample_dynamics_claims": [
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:control-system:ornl-tm-2489:299",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "The curve for the case with no controller is similar to previous data for the two-fluid MSBR,2 although the magnitude of the peak gain at about 3 radians/sec ( \\sim 0.5 \\, \\text{Hz} ) was greater by a factor of about 6 for the single-fluid case. Adding the servo controller greatly decreased the low-frequency gain, as expected; above the upper cutoff frequency of 5 Hz ( \\sim 30 \\, \\text{radians/sec} ) for the servo it had no effect.",
+        "date_text": "1969",
+        "display_title": "ORNL-TM-2489",
+        "doc_id": "ornl-tm-2489",
+        "line_end": 299,
+        "line_start": 299,
+        "page_hint": null,
+        "section": "3.6 Measurement of System Transfer Function",
+        "title": "ORNL-TM-2489"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "control-system",
+      "source_claim_types": [
+        "measurement",
+        "technical-statement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "The curve for the case with no controller is similar to previous data for the two-fluid MSBR,2 although the magnitude of the peak gain at about 3 radians/sec ( \\sim 0.5 \\, \\text{H…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:control-system:ornl-tm-3767:479",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "Sides, Jr., in ORNL-TM-3102.",
+        "date_text": null,
+        "display_title": "HYBRID COMPUTER SIMULATION OF THE MSBR",
+        "doc_id": "ornl-tm-3767",
+        "line_end": 479,
+        "line_start": 479,
+        "page_hint": null,
+        "section": "4.2.5.1 Reactor Outlet Temperature Controller",
+        "title": "HYBRID COMPUTER SIMULATION OF THE MSBR"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "control-system",
+      "source_claim_types": [
+        "technical-statement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "Sides, Jr., in ORNL-TM-3102."
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:control-system:tid-26156:513",
+      "conditions": [
+        "10 sec"
+      ],
+      "evidence": {
+        "claim_text": "It flows through a 6 in. plenum containing 85 percent salt and 15 percent graphite formed by the 5 in. support legs. The reactor vessel cylinder wall is cooled by a bypass flow of 140\\mathrm{gpm} which is diverted from the inlet nozzles and flows up in the gap between the thermal shield and the reactor vessel wall. Our calculations indicate that following a scram the fuel salt outlet temperature falls from 1300\\mathrm{F} to 1050\\mathrm{F} in less than 10 seconds. For the thickness of pipe in the primary system, this is equivalent to a step change of 250\\mathrm{F} . The top reflector graphite is cooled by a stream of 1050\\mathrm{F} salt injected through the control rod drive penetration. The inlet fluid enters the reactor at 1050\\mathrm{F} . The vessel cooling flow rises 50\\mathrm{F} to 1100\\mathrm{F} as it is collected at the outlet nozzles. The 1100\\mathrm{F} fluid is divided into four streams of 35\\mathrm{gpm} each, which is passed between the outlet nozzle and the transition nozzle liner extension.",
+        "date_text": "September 30, 1970",
+        "display_title": "1000 MW(e) MOLTEN SALT BREEDER REACTOR",
+        "doc_id": "tid-26156",
+        "line_end": 513,
+        "line_start": 513,
+        "page_hint": null,
+        "section": "3.2 Reactor Vessel",
+        "title": "1000 MW(e) MOLTEN SALT BREEDER REACTOR"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "control-system",
+      "source_claim_types": [
+        "measurement",
+        "technical-statement"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "It flows through a 6 in. plenum containing 85 percent salt and 15 percent graphite formed by the 5 in. support legs. The reactor vessel cylinder wall is cooled by a bypass flow of…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:frequency-response:ornl-cf-70-9-3:801",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "The pressure sensors in the MSBR should be as close to the core as possible and should have a flat frequency response up to 100 cps.",
+        "date_text": "September 1, 1970",
+        "display_title": "ORNL-CF-70-9-3",
+        "doc_id": "ornl-cf-70-9-3",
+        "line_end": 801,
+        "line_start": 801,
+        "page_hint": null,
+        "section": "Reply G (Con't)",
+        "title": "COPY NO."
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "frequency-response",
+      "source_claim_types": [
+        "measurement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "The pressure sensors in the MSBR should be as close to the core as possible and should have a flat frequency response up to 100 cps."
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:kinetics-model:aeew-r956:443",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "Nominal parameters are given in Section 8, the Flow diagrams, Figures 9 and 10, and building layout, Figures 6 and 7, show the disposition of the main items. It should be noted that only a small amount of engineering design work has been done on the auxiliary plant, most of which is similar to that proposed by ORNL for the MSBR(2) except where the chemical composition of the chloride salt in MSFR causes differences.",
+        "date_text": "August 1974",
+        "display_title": "AEEW-R956 — CONTRIButors:",
+        "doc_id": "aeew-r956",
+        "line_end": 443,
+        "line_start": 443,
+        "page_hint": null,
+        "section": "7.4 Special Auxiliary Plant",
+        "title": "![](images/5e51d81c4f194b78fb5d32f5628dbd64eb78c532ae5090d45633160fb57f7f11.jpg)"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "kinetics-model",
+      "source_claim_types": [
+        "figure-reference",
+        "measurement"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "Nominal parameters are given in Section 8, the Flow diagrams, Figures 9 and 10, and building layout, Figures 6 and 7, show the disposition of the main items. It should be noted th…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:kinetics-model:ornl-tm-3767:213",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "Experience has shown that for the rather mild transients for which this model is intended, a two-delay-group nuclear kinetics model is adequate.3 That this is a circulating fuel reactor adds to the complication of the model.",
+        "date_text": null,
+        "display_title": "HYBRID COMPUTER SIMULATION OF THE MSBR",
+        "doc_id": "ornl-tm-3767",
+        "line_end": 213,
+        "line_start": 213,
+        "page_hint": null,
+        "section": "4.2.1 The Nuclear Kinetics Model",
+        "title": "HYBRID COMPUTER SIMULATION OF THE MSBR"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "kinetics-model",
+      "source_claim_types": [
+        "measurement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "Experience has shown that for the rather mild transients for which this model is intended, a two-delay-group nuclear kinetics model is adequate.3 That this is a circulating fuel r…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:kinetics-model:university-of-california:574",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "As a result, interest in the thermal molten salt breeder reactor (MSBR) has centered on its special usefulness for breeding on the \\mathrm{Th} / ^{233}\\mathrm{U} cycle. The \\mathrm{Th} / ^{233}\\mathrm{U} and the ^{238}\\mathrm{U} / \\mathrm{Pu} cycles differ in their neutron economics. Interest in the MSFR has focused on exceptional breeding gain (BG) with the ^{238}\\mathrm{U} / \\mathrm{Pu} cycle [MSFR(U/Pu)]: up to 0.6-0.8. For an MSFR (Th) even with an anticipated reduction of 0.2-0.3, BG= 0.3-0.5 may be possible.",
+        "date_text": null,
+        "display_title": "UNIVERSITY OF CALIFORNIA",
+        "doc_id": "university-of-california",
+        "line_end": 574,
+        "line_start": 574,
+        "page_hint": null,
+        "section": "1.1.3 Technical Solution: Molten Salt Fast Reactor",
+        "title": "UNIVERSITY OF CALIFORNIA"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "kinetics-model",
+      "source_claim_types": [
+        "measurement",
+        "technical-statement"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "As a result, interest in the thermal molten salt breeder reactor (MSBR) has centered on its special usefulness for breeding on the \\mathrm{Th} / ^{233}\\mathrm{U} cycle. The \\mathr…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:mixing-recirculation:ornl-4541:2020",
+      "conditions": [
+        "10 MW(e)",
+        "580^{\\circ}\\mathrm{F",
+        "700^{\\circ}\\mathrm{F"
+      ],
+      "evidence": {
+        "claim_text": "As a result, the 580^{\\circ}\\mathrm{F} cycle is estimated to have a total construction cost, including indirect charges, of about half a million dollars less than for the 700^{\\circ}\\mathrm{F} system.[88] Taking fixed charges at 13.7\\% per annum, the saving amounts to about \\ 68,500 per year. Based on power worth 4 mills/kWhr, the value of 10 MW(e) at 80\\% plant factor is about \\ 280,000 per year. The present worth (discounted at 6\\% ) over a 30-year plant life of this yearly sum is equivalent to roughly \\ 5 million for an MSBR station. Comparing the 580 and 700^{\\circ}\\mathrm{F} cases in Table 5.4, the lower temperature affords a higher efficiency, which can amount to about 10 MW(e) of additional output capacity. An additional high-pressure feedwater heater is required to obtain the 580^{\\circ}\\mathrm{F} water, but this cost is more than offset by the expense of the mixing chamber, pressure booster pumps, and reheat steam preheaters needed in the 700^{\\circ}\\mathrm{F} cycle. The total yearly saving of the lower temperature system is thus about \\ 350,000 .",
+        "date_text": "1971",
+        "display_title": "ORNL-4541",
+        "doc_id": "ornl-4541",
+        "line_end": 2020,
+        "line_start": 2020,
+        "page_hint": null,
+        "section": "5.6 EFFECT OF FEEDWATER TEMPERATURE ON THE MSBR STEAM-POWER CYCLE",
+        "title": "ORNL-4541"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "mixing-recirculation",
+      "source_claim_types": [
+        "measurement",
+        "table-reference",
+        "technical-statement"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "As a result, the 580^{\\circ}\\mathrm{F} cycle is estimated to have a total construction cost, including indirect charges, of about half a million dollars less than for the 700^{\\ci…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:mixing-recirculation:ornl-tm-3428:114",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "A simplified flowsheet for the 1000-MW(e) MSBR station as modified to include the third salt-circulating loops is shown in Fig. l.",
+        "date_text": "1971",
+        "display_title": "ORNL-TM-3428",
+        "doc_id": "ornl-tm-3428",
+        "line_end": 114,
+        "line_start": 114,
+        "page_hint": null,
+        "section": "2. DESCRIPTION OF MSBR MODIFIED WITH THIRD LOOPS",
+        "title": "ORNL-TM-3428"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "mixing-recirculation",
+      "source_claim_types": [
+        "measurement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "A simplified flowsheet for the 1000-MW(e) MSBR station as modified to include the third salt-circulating loops is shown in Fig. l."
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:msbr:mixing-recirculation:the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor:67",
+      "conditions": [
+        "3 MW"
+      ],
+      "evidence": {
+        "claim_text": "Two thicknesses of carbon steel plate form inner and outer containment vessels, each designed for 50 psig, and also provide gamma shielding for the concrete. Nitrogen gas flows between the plates in a closed circulating loop to remove \\sim 3 MW(th) of heat. The normal cell operating pressure is \\sim 26 in.",
+        "date_text": "August 4, 1969",
+        "display_title": "THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR",
+        "doc_id": "the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor",
+        "line_end": 67,
+        "line_start": 67,
+        "page_hint": null,
+        "section": "Table Ii",
+        "title": "THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "mixing-recirculation",
+      "source_claim_types": [
+        "measurement",
+        "technical-statement"
+      ],
+      "source_kind": "conference-paper",
+      "subject": {
+        "name": "MSBR",
+        "type": "reactor"
+      },
+      "value_text": "Two thicknesses of carbon steel plate form inner and outer containment vessels, each designed for 50 psig, and also provide gamma shielding for the concrete. Nitrogen gas flows be…"
+    }
+  ],
+  "sample_physics_claims": [
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:breeding-ratio:molten-salt-reactor-concepts-with-reduced-potential-for-proliferation-of-special-nuclear-materials:53",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "Thus, a 300\\mathrm{MWe} plant would have a specific fissile inventory of about 2\\mathrm{kg / MWe} . Decreasing the breeding ratio to a nominal value of 1.0 would be accomplished by reducing the fertile and fissile inventories to about 70 percent of the calculated values for higher performance systems (see Ref.",
+        "date_text": null,
+        "display_title": "MOLTEN-SALT REACTOR CONCEPTS WITH REDUCED POTENTIAL FOR PROLIFERATION OF SPECIAL NUCLEAR MATERIALS",
+        "doc_id": "molten-salt-reactor-concepts-with-reduced-potential-for-proliferation-of-special-nuclear-materials",
+        "line_end": 53,
+        "line_start": 53,
+        "page_hint": null,
+        "section": "Break-Even MSBR with Reference Fuel Processing",
+        "title": "MOLTEN-SALT REACTOR CONCEPTS WITH REDUCED POTENTIAL FOR PROLIFERATION OF SPECIAL NUCLEAR MATERIALS"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "breeding-ratio",
+      "source_claim_types": [
+        "measurement",
+        "reactor-physics"
+      ],
+      "source_kind": "conference-paper",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "1.0"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:breeding-ratio:ornl-4782:746",
+      "conditions": [
+        "2328 MW(t)",
+        "1037 MW(e)",
+        "1000 MW(e)",
+        "2sec"
+      ],
+      "evidence": {
+        "claim_text": "Engineering units General Thermal capacity of reactor 2328 MW(t) Gross electrical generation 1037 MW(e) Net electrical output 1000 MW(e) Net overall thermal efficiency 43.4% Net plant heat rate 7856 Btu/kWhr Structures Reactor cell, diameter × height 72 × 46 ft Reactor building 290 × 160 × 200 ft high Reactor Vessel ID 22.2 ft Vessel height at center (approximate) 20 ft Vessel wall thickness 2 in. Vessel heat thickness 3 in. Vessel design pressure (abs) 75 psi Core height 13 ft Number of core assemblies 157 Radial thickness of reflector 30 in. Volume fraction of salt in central core zone 0.13 Volume fraction of salt in outer core zone 0.37 Average overall core power density 22.2 kW/liter Peak power density in core 70.4 kW/liter Average thermal-neutron flux 2.6 × 1014neutrons cm-2sec-1 Peak thermal-neutron flux 8.3 × 1014neutrons cm-2sec-1 Maximum graphite damage flux (&gt;50 keV) 3.5 × 1014neutrons cm-2sec-1 Damage flux at maximum damage region (approximate) 3.3 × 1014neutrons cm-2sec-1 Estimated useful life of graphite 4 years Total weight of graphite in reactor 669,000 lb Maximum flow velocity of salt in core 8.5 fps Total fuel salt in reactor vessel 1190 Total fuel salt volume in primary system 2292 Fissile fuel inventory in reactor primary system and fuel processing plant 4440 Thorium inventory 200,000 lb Breeding ratio 1.06",
+        "date_text": "February 29, 1972",
+        "display_title": "MOLTEN-SALT REACTOR PROGRAM",
+        "doc_id": "ornl-4782",
+        "line_end": 746,
+        "line_start": 746,
+        "page_hint": null,
+        "section": "1.3 MSBR INDUSTRIAL DESIGN STUDY",
+        "title": "MOLTEN-SALT REACTOR PROGRAM"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "breeding-ratio",
+      "source_claim_types": [
+        "table-reference"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "1.06"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:conversion-ratio:ornl-4832:1103",
+      "conditions": [
+        "1442f"
+      ],
+      "evidence": {
+        "claim_text": "Initial cycle Approach to equilibrium Lifetime total or average Equilibrium Case identification P3A.1 P3B SCC219 Processing Batch Continuous Continuous Thorium concentration,a mole % 8 12 12 Time, efpm 0-39 39-279 0-279 Feedb Primary (first 3 months) Pu(1) U(q) None Secondary (last 36 months) U(q) Fissile material balance,c kg Initial loading Plutonium 528 0 Uranium, from initial cycle 0 1099 Uranium, feed 0 223 Total 528 1322 Purchases, gross Plutonium 896 0 896 Uranium 722 318 1040 Total 1618 318 1936 Production, Uranium 0 1493 1493 Recovery at end of life, Uranium (1099)d 1366 1366 1366 Discard, Plutonium 6 0 6 Net fissile requiremente 520 -1442f -923 Conversion ratiore 0.857 1.079 1.048 1.076 Fissile costs,g mills/kWhr Fissile inventoryc 0.215 0.358 0.338 0.350 Fissile burnup or production 0.169 -0.111 -0.0722 -0.112 Total fissile cost 0.384 0.247 0.266 0.238",
+        "date_text": "August 31, 1972",
+        "display_title": "MOLTEN-SALT REACTOR PROGRAM",
+        "doc_id": "ornl-4832",
+        "line_end": 1103,
+        "line_start": 1103,
+        "page_hint": null,
+        "section": "2.3.2 Start-up of an MSBR on Plutonium Fuel",
+        "title": "MOLTEN-SALT REACTOR PROGRAM"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "conversion-ratio",
+      "source_claim_types": [
+        "table-reference"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "0.857"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:fissile-inventory:molten-salt-reactor-concepts-with-reduced-potential-for-proliferation-of-special-nuclear-materials:53",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "Thus, a 300\\mathrm{MWe} plant would have a specific fissile inventory of about 2\\mathrm{kg / MWe} . Decreasing the breeding ratio to a nominal value of 1.0 would be accomplished by reducing the fertile and fissile inventories to about 70 percent of the calculated values for higher performance systems (see Ref.",
+        "date_text": null,
+        "display_title": "MOLTEN-SALT REACTOR CONCEPTS WITH REDUCED POTENTIAL FOR PROLIFERATION OF SPECIAL NUCLEAR MATERIALS",
+        "doc_id": "molten-salt-reactor-concepts-with-reduced-potential-for-proliferation-of-special-nuclear-materials",
+        "line_end": 53,
+        "line_start": 53,
+        "page_hint": null,
+        "section": "Break-Even MSBR with Reference Fuel Processing",
+        "title": "MOLTEN-SALT REACTOR CONCEPTS WITH REDUCED POTENTIAL FOR PROLIFERATION OF SPECIAL NUCLEAR MATERIALS"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "fissile-inventory",
+      "source_claim_types": [
+        "measurement",
+        "reactor-physics"
+      ],
+      "source_kind": "conference-paper",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "Thus, a 300\\mathrm{MWe} plant would have a specific fissile inventory of about 2\\mathrm{kg / MWe} . Decreasing the breeding ratio to a nominal value of 1.0 would be accomplished b…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:fissile-inventory:ornl-4832:1103",
+      "conditions": [
+        "1442f"
+      ],
+      "evidence": {
+        "claim_text": "Initial cycle Approach to equilibrium Lifetime total or average Equilibrium Case identification P3A.1 P3B SCC219 Processing Batch Continuous Continuous Thorium concentration,a mole % 8 12 12 Time, efpm 0-39 39-279 0-279 Feedb Primary (first 3 months) Pu(1) U(q) None Secondary (last 36 months) U(q) Fissile material balance,c kg Initial loading Plutonium 528 0 Uranium, from initial cycle 0 1099 Uranium, feed 0 223 Total 528 1322 Purchases, gross Plutonium 896 0 896 Uranium 722 318 1040 Total 1618 318 1936 Production, Uranium 0 1493 1493 Recovery at end of life, Uranium (1099)d 1366 1366 1366 Discard, Plutonium 6 0 6 Net fissile requiremente 520 -1442f -923 Conversion ratiore 0.857 1.079 1.048 1.076 Fissile costs,g mills/kWhr Fissile inventoryc 0.215 0.358 0.338 0.350 Fissile burnup or production 0.169 -0.111 -0.0722 -0.112 Total fissile cost 0.384 0.247 0.266 0.238",
+        "date_text": "August 31, 1972",
+        "display_title": "MOLTEN-SALT REACTOR PROGRAM",
+        "doc_id": "ornl-4832",
+        "line_end": 1103,
+        "line_start": 1103,
+        "page_hint": null,
+        "section": "2.3.2 Start-up of an MSBR on Plutonium Fuel",
+        "title": "MOLTEN-SALT REACTOR PROGRAM"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "fissile-inventory",
+      "source_claim_types": [
+        "table-reference"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "Initial cycle Approach to equilibrium Lifetime total or average Equilibrium Case identification P3A.1 P3B SCC219 Processing Batch Continuous Continuous Thorium concentration,a mol…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:flux:ornl-4782:746",
+      "conditions": [
+        "2328 MW(t)",
+        "1037 MW(e)",
+        "1000 MW(e)",
+        "2sec"
+      ],
+      "evidence": {
+        "claim_text": "Engineering units General Thermal capacity of reactor 2328 MW(t) Gross electrical generation 1037 MW(e) Net electrical output 1000 MW(e) Net overall thermal efficiency 43.4% Net plant heat rate 7856 Btu/kWhr Structures Reactor cell, diameter × height 72 × 46 ft Reactor building 290 × 160 × 200 ft high Reactor Vessel ID 22.2 ft Vessel height at center (approximate) 20 ft Vessel wall thickness 2 in. Vessel heat thickness 3 in. Vessel design pressure (abs) 75 psi Core height 13 ft Number of core assemblies 157 Radial thickness of reflector 30 in. Volume fraction of salt in central core zone 0.13 Volume fraction of salt in outer core zone 0.37 Average overall core power density 22.2 kW/liter Peak power density in core 70.4 kW/liter Average thermal-neutron flux 2.6 × 1014neutrons cm-2sec-1 Peak thermal-neutron flux 8.3 × 1014neutrons cm-2sec-1 Maximum graphite damage flux (&gt;50 keV) 3.5 × 1014neutrons cm-2sec-1 Damage flux at maximum damage region (approximate) 3.3 × 1014neutrons cm-2sec-1 Estimated useful life of graphite 4 years Total weight of graphite in reactor 669,000 lb Maximum flow velocity of salt in core 8.5 fps Total fuel salt in reactor vessel 1190 Total fuel salt volume in primary system 2292 Fissile fuel inventory in reactor primary system and fuel processing plant 4440 Thorium inventory 200,000 lb Breeding ratio 1.06",
+        "date_text": "February 29, 1972",
+        "display_title": "MOLTEN-SALT REACTOR PROGRAM",
+        "doc_id": "ornl-4782",
+        "line_end": 746,
+        "line_start": 746,
+        "page_hint": null,
+        "section": "1.3 MSBR INDUSTRIAL DESIGN STUDY",
+        "title": "MOLTEN-SALT REACTOR PROGRAM"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "flux",
+      "source_claim_types": [
+        "table-reference"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "Engineering units General Thermal capacity of reactor 2328 MW(t) Gross electrical generation 1037 MW(e) Net electrical output 1000 MW(e) Net overall thermal efficiency 43.4% Net p…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:power-density:ornl-4782:746",
+      "conditions": [
+        "2328 MW(t)",
+        "1037 MW(e)",
+        "1000 MW(e)",
+        "2sec"
+      ],
+      "evidence": {
+        "claim_text": "Engineering units General Thermal capacity of reactor 2328 MW(t) Gross electrical generation 1037 MW(e) Net electrical output 1000 MW(e) Net overall thermal efficiency 43.4% Net plant heat rate 7856 Btu/kWhr Structures Reactor cell, diameter × height 72 × 46 ft Reactor building 290 × 160 × 200 ft high Reactor Vessel ID 22.2 ft Vessel height at center (approximate) 20 ft Vessel wall thickness 2 in. Vessel heat thickness 3 in. Vessel design pressure (abs) 75 psi Core height 13 ft Number of core assemblies 157 Radial thickness of reflector 30 in. Volume fraction of salt in central core zone 0.13 Volume fraction of salt in outer core zone 0.37 Average overall core power density 22.2 kW/liter Peak power density in core 70.4 kW/liter Average thermal-neutron flux 2.6 × 1014neutrons cm-2sec-1 Peak thermal-neutron flux 8.3 × 1014neutrons cm-2sec-1 Maximum graphite damage flux (&gt;50 keV) 3.5 × 1014neutrons cm-2sec-1 Damage flux at maximum damage region (approximate) 3.3 × 1014neutrons cm-2sec-1 Estimated useful life of graphite 4 years Total weight of graphite in reactor 669,000 lb Maximum flow velocity of salt in core 8.5 fps Total fuel salt in reactor vessel 1190 Total fuel salt volume in primary system 2292 Fissile fuel inventory in reactor primary system and fuel processing plant 4440 Thorium inventory 200,000 lb Breeding ratio 1.06",
+        "date_text": "February 29, 1972",
+        "display_title": "MOLTEN-SALT REACTOR PROGRAM",
+        "doc_id": "ornl-4782",
+        "line_end": 746,
+        "line_start": 746,
+        "page_hint": null,
+        "section": "1.3 MSBR INDUSTRIAL DESIGN STUDY",
+        "title": "MOLTEN-SALT REACTOR PROGRAM"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "power-density",
+      "source_claim_types": [
+        "table-reference"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "22.2"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:salt-volume-fraction:ornl-4782:707",
+      "conditions": [
+        "1050^{\\circ}\\mathrm{F"
+      ],
+      "evidence": {
+        "claim_text": "The reactor consists of a 2-in.-thick cylindrical vessel (nominally 22 ft OD × 20 ft high) supported from the bottom. Salt enters through four inlet nozzles at the bottom at 1050^{\\circ}\\mathrm{F} and exits through four outlet nozzles at the top. The vessel contains 415 tons of graphite which defines salt flow channels in the following regions: core, axial and radial blankets, inlet and outlet salt plena, and axial and radial neutron reflectors. This was done by preserving the salt composition, the region salt fractions, and region dimensions specified in the ORNL reference concept (case CC-120).",
+        "date_text": "February 29, 1972",
+        "display_title": "MOLTEN-SALT REACTOR PROGRAM",
+        "doc_id": "ornl-4782",
+        "line_end": 707,
+        "line_start": 707,
+        "page_hint": null,
+        "section": "1.3 MSBR INDUSTRIAL DESIGN STUDY",
+        "title": "MOLTEN-SALT REACTOR PROGRAM"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "salt-volume-fraction",
+      "source_claim_types": [
+        "measurement",
+        "technical-statement"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "The reactor consists of a 2-in.-thick cylindrical vessel (nominally 22 ft OD × 20 ft high) supported from the bottom. Salt enters through four inlet nozzles at the bottom at 1050^…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:temperature-coefficient:ornl-5011:1037",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "The prompt negative temperature coefficient of reactivity of the fuel salt (-2.7\\mathrm{cents} / {}^{\\circ}\\mathrm{C})",
+        "date_text": "August 31, 1974",
+        "display_title": "Molten-Salt Reactor Program",
+        "doc_id": "ornl-5011",
+        "line_end": 1037,
+        "line_start": 1037,
+        "page_hint": null,
+        "section": "3.2 MSBR NEUTRONIC EXCURSIONS",
+        "title": "Molten-Salt Reactor Program"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "temperature-coefficient",
+      "source_claim_types": [
+        "reactor-physics"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "The prompt negative temperature coefficient of reactivity of the fuel salt (-2.7\\mathrm{cents} / {}^{\\circ}\\mathrm{C})"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:fluid-fuel-reactor:xenon-poisoning-effect:ornl-4832:877",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "Average bubble diameter: 0.0646 cm",
+        "date_text": "August 31, 1972",
+        "display_title": "MOLTEN-SALT REACTOR PROGRAM",
+        "doc_id": "ornl-4832",
+        "line_end": 877,
+        "line_start": 877,
+        "page_hint": null,
+        "section": "1.3 XENON BEHAVIOR IN THE MSBR FUEL SALT SYSTEM",
+        "title": "MOLTEN-SALT REACTOR PROGRAM"
+      },
+      "object": null,
+      "program_family": "civilian-molten-salt-power-reactors",
+      "relation": "xenon-poisoning-effect",
+      "source_claim_types": [
+        "measurement"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "Average bubble diameter: 0.0646 cm"
+    }
+  ],
+  "title": "Molten-Salt Breeder Reactor (MSBR)",
+  "top_documents": [
+    {
+      "claim_count": 64,
+      "doc_id": "ornl-tm-3767",
+      "title": "HYBRID COMPUTER SIMULATION OF THE MSBR"
+    },
+    {
+      "claim_count": 33,
+      "doc_id": "ornl-3996",
+      "title": "ORNL-3996"
+    },
+    {
+      "claim_count": 26,
+      "doc_id": "ornl-tm-2136",
+      "title": "ORNL-TM-2136"
+    },
+    {
+      "claim_count": 19,
+      "doc_id": "ornl-4812",
+      "title": "The Development Status of"
+    },
+    {
+      "claim_count": 17,
+      "doc_id": "ornl-tm-1851",
+      "title": "ORNL-TM-1851"
+    },
+    {
+      "claim_count": 17,
+      "doc_id": "wash-1097",
+      "title": "CIVILIAN NUCLEAR POWER"
+    },
+    {
+      "claim_count": 16,
+      "doc_id": "ornl-4541",
+      "title": "ORNL-4541"
+    },
+    {
+      "claim_count": 14,
+      "doc_id": "reactor-physics-and-fuel-cycle-analyses",
+      "title": "REACTOR PHYSICS AND FUEL-CYCLE ANALYSES"
+    },
+    {
+      "claim_count": 13,
+      "doc_id": "ornl-4676",
+      "title": "ORNL-4676 — MOLTEN-SALT REACTOR PROGRAM"
+    },
+    {
+      "claim_count": 11,
+      "doc_id": "ornl-4344",
+      "title": "ORNL-4344"
+    },
+    {
+      "claim_count": 10,
+      "doc_id": "ornl-tm-3595",
+      "title": "ORNL-TM-3595"
+    },
+    {
+      "claim_count": 9,
+      "doc_id": "the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor",
+      "title": "THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR"
+    }
+  ]
+}

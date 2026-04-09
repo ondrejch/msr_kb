@@ -1,0 +1,642 @@
+{
+  "authors": [
+    "ARY",
+    "Reactors-Research",
+    "Power",
+    "AN INVESTIGATION OF",
+    "HOMOGENEOUS BREEDER REACTORS",
+    "J.O.Blomeke",
+    "CENTRAL RESEARCH LIBRARY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1030.jsonl",
+  "date_text": "1951",
+  "doc_id": "ornl-1030",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          261,
+          318
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          217
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          9,
+          25,
+          45,
+          67,
+          89,
+          101,
+          300,
+          400,
+          403
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          51,
+          95
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          149
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          147
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          166
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          190
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 9,
+        "line_hits": [
+          199,
+          232,
+          234,
+          249,
+          253,
+          312,
+          369,
+          373,
+          377
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          400,
+          403
+        ],
+        "name": "ANP Quarterly Progress Report"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          116
+        ],
+        "name": "ORNL Central Files"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 12,
+        "line_hits": [
+          199,
+          268,
+          294,
+          296,
+          339,
+          341,
+          343,
+          345,
+          349,
+          369,
+          377,
+          379
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          199,
+          255,
+          268,
+          339,
+          341,
+          343,
+          345,
+          351,
+          355,
+          363,
+          369,
+          377
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          15,
+          245,
+          268,
+          274,
+          306,
+          327,
+          331,
+          335,
+          339,
+          343,
+          347
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          298,
+          331,
+          359
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          245,
+          268
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          255,
+          268
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          268
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          255
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          245
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3fff783960a5efed6dc733ebdfb24fa657556d58906184930b31fca57db990ce",
+  "markdown_path": "pdf/ORNL-1030/ORNL-1030/hybrid_ocr/ORNL-1030.md",
+  "report_number": "ORNL-1030",
+  "report_numbers": [
+    "ORNL-1030",
+    "Y-657",
+    "ORNL-858",
+    "ORNL-919"
+  ],
+  "report_series": "ornl-central-files",
+  "section_count": 55,
+  "sections": [
+    {
+      "anchor": "ornl-1030",
+      "end_line": 12,
+      "heading": "Ornl 1030",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "an-investigation-of",
+      "end_line": 16,
+      "heading": "An Investigation Of",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "homogeneous-breeder-reactors",
+      "end_line": 20,
+      "heading": "Homogeneous Breeder Reactors",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "aeg-research-and-development-report",
+      "end_line": 24,
+      "heading": "Aeg Research And Development Report",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 28,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "circulation-section",
+      "end_line": 30,
+      "heading": "Circulation Section",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "4500n-room-175",
+      "end_line": 32,
+      "heading": "4500N Room 175",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 34,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 42,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "ucn-7869-39-77",
+      "end_line": 44,
+      "heading": "Ucn-7869(39-77)",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 46,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 48,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 50,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "a-division-of-union-carbide-and-carbon-corporation",
+      "end_line": 54,
+      "heading": "A Division Of Union Carbide And Carbon Corporation",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "post-office-box-p",
+      "end_line": 56,
+      "heading": "Post Office Box P",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "oak-ridge-tennessee",
+      "end_line": 72,
+      "heading": "Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 84,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 86,
+      "heading": "Date Issued:",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "jun-19-1951",
+      "end_line": 88,
+      "heading": "Jun 19 1951",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 92,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "carbide-and-carbon-chemicals-company",
+      "end_line": 100,
+      "heading": "Carbide And Carbon Chemicals Company",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "ornl-1030",
+      "end_line": 106,
+      "heading": "Ornl-1030",
+      "level": 2,
+      "start_line": 101
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 127,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "24-a-h-s1",
+      "end_line": 144,
+      "heading": "24. A.H.S1",
+      "level": 2,
+      "start_line": 128
+    },
+    {
+      "anchor": "extefl-distribution",
+      "end_line": 192,
+      "heading": "EXTEFL DISTRIBUTION",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 196,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "summary",
+      "end_line": 202,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 208,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "introduction-continued",
+      "end_line": 214,
+      "heading": "Introduction (continued)",
+      "level": 1,
+      "start_line": 209
+    },
+    {
+      "anchor": "thorium-reactor-solutions",
+      "end_line": 220,
+      "heading": "Thorium Reactor Solutions",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "table-i",
+      "end_line": 222,
+      "heading": "Table I",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "general-requirements-for-thorium-reactor-solutions",
+      "end_line": 237,
+      "heading": "General Requirements for Thorium Reactor Solutions",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "a-literature-survey",
+      "end_line": 250,
+      "heading": "A Literature Survey",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "a-literature-survey-continued",
+      "end_line": 256,
+      "heading": "A Literature Survey (continued)",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "experimental",
+      "end_line": 258,
+      "heading": "Experimental",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "apparatus",
+      "end_line": 271,
+      "heading": "Apparatus",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "materials",
+      "end_line": 273,
+      "heading": "Materials",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "thf4",
+      "end_line": 277,
+      "heading": "ThF4",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "aif3",
+      "end_line": 281,
+      "heading": "AIF3",
+      "level": 1,
+      "start_line": 278
+    },
+    {
+      "anchor": "mgf2",
+      "end_line": 285,
+      "heading": "MgF2",
+      "level": 1,
+      "start_line": 282
+    },
+    {
+      "anchor": "pbf2",
+      "end_line": 303,
+      "heading": "PbF2",
+      "level": 1,
+      "start_line": 286
+    },
+    {
+      "anchor": "results",
+      "end_line": 309,
+      "heading": "Results",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "thf1-mgf2",
+      "end_line": 313,
+      "heading": "ThF1-MgF2",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "thf-pbf2",
+      "end_line": 326,
+      "heading": "ThF-PbF2",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "thf4-a1f3",
+      "end_line": 330,
+      "heading": "ThF4-A1F3",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "thf4-uf4",
+      "end_line": 334,
+      "heading": "ThF4-UF4",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "thf4-l1f-mgf2",
+      "end_line": 338,
+      "heading": "ThF4-L1F-MgF2",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "thf4-lif-naf-mgf2",
+      "end_line": 358,
+      "heading": "ThF4-LiF-NaF-MgF2",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "25-0-uf4",
+      "end_line": 360,
+      "heading": "25.0% Uf4",
+      "level": 2,
+      "start_line": 359
+    },
+    {
+      "anchor": "58-2-l1f",
+      "end_line": 366,
+      "heading": "58.2 L1F",
+      "level": 2,
+      "start_line": 361
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 370,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "discussion-continued",
+      "end_line": 380,
+      "heading": "Discussion (continued)",
+      "level": 1,
+      "start_line": 371
+    },
+    {
+      "anchor": "discussion-continued",
+      "end_line": 386,
+      "heading": "Discussion (continued)",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 406,
+      "heading": "Bibliography",
+      "level": 1,
+      "start_line": 387
+    }
+  ],
+  "source_dir": "pdf/ORNL-1030",
+  "tables": [],
+  "title": "![](images/b4964672a88bdce91495126f3b851a754823d457e3d6c106211cd5bc2c7d960e.jpg)",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "graphite-and-moderator-behavior",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": []
+}

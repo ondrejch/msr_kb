@@ -1,0 +1,93 @@
+[
+  {
+    "description": "Canonical salt-system subjects used by the distilled research layer.",
+    "id": "salt-systems",
+    "kind": "catalog",
+    "outputs": [
+      "catalogs/salt_systems.json",
+      "wiki/research-guides/salt-systems.md"
+    ]
+  },
+  {
+    "description": "Canonical materials and alloy subjects used by the distilled research layer.",
+    "id": "materials-and-alloys",
+    "kind": "catalog",
+    "outputs": [
+      "catalogs/materials.json",
+      "wiki/research-guides/materials-and-compatibility.md"
+    ]
+  },
+  {
+    "description": "Deterministic family views that group distilled claims into ANP/precursor fluid-fuel, civilian molten-salt power-reactor, and fast-spectrum/chloride strands.",
+    "id": "program-families",
+    "kind": "catalog",
+    "outputs": [
+      "catalogs/program_families.json",
+      "wiki/research-guides/anp-and-precursor-fluid-fuel.md",
+      "wiki/research-guides/civilian-molten-salt-power-reactors.md",
+      "wiki/research-guides/fast-spectrum-and-chlorides.md"
+    ]
+  },
+  {
+    "description": "Deterministic benchmark packs for named historical reactors with emphasis on reactor physics and system dynamics.",
+    "id": "benchmark-packs",
+    "kind": "catalog",
+    "outputs": [
+      "catalogs/benchmark_packs.json",
+      "benchmarks/are.json",
+      "benchmarks/msbr.json",
+      "benchmarks/msre.json",
+      "wiki/research-guides/are-benchmark-pack.md",
+      "wiki/research-guides/msbr-benchmark-pack.md",
+      "wiki/research-guides/msre-benchmark-pack.md"
+    ]
+  },
+  {
+    "description": "Aggregated compatibility, property, and reactor-family comparison matrices derived from distilled claims.",
+    "id": "comparison-matrices",
+    "kind": "claims",
+    "outputs": [
+      "matrices/compatibility_matrix.json",
+      "matrices/reactor_family_comparison.json",
+      "matrices/salt_property_table.json",
+      "wiki/research-guides/compatibility-matrix.md",
+      "wiki/research-guides/property-tables.md",
+      "wiki/research-guides/reactor-family-comparison.md"
+    ]
+  },
+  {
+    "description": "Deterministic property claims for salts and materials with explicit conditions and evidence.",
+    "id": "thermophysical-properties",
+    "kind": "claims",
+    "outputs": [
+      "claims/properties.jsonl"
+    ]
+  },
+  {
+    "description": "Compatibility, corrosion, cracking, and embrittlement observations for materials in molten salts.",
+    "id": "salt-material-compatibility",
+    "kind": "claims",
+    "outputs": [
+      "claims/compatibility.jsonl",
+      "wiki/research-guides/materials-and-compatibility.md"
+    ]
+  },
+  {
+    "description": "MSR reactor-physics claims such as breeding ratio, coefficients, neutron lifetime, inventory, and xenon effects.",
+    "id": "msr-reactor-physics",
+    "kind": "claims",
+    "outputs": [
+      "claims/physics.jsonl",
+      "wiki/research-guides/reactor-physics.md"
+    ]
+  },
+  {
+    "description": "MSR system-dynamics claims such as transient response, stability, transport delays, controllers, and frequency response.",
+    "id": "msr-system-dynamics",
+    "kind": "claims",
+    "outputs": [
+      "claims/dynamics.jsonl",
+      "wiki/research-guides/system-dynamics.md"
+    ]
+  }
+]

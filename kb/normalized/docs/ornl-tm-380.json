@@ -1,0 +1,382 @@
+{
+  "authors": [
+    "P. N. Haubenreich",
+    "NOTICE",
+    "LEGAL NOTICE",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-380.jsonl",
+  "date_text": "October 13, 1962",
+  "doc_id": "ornl-tm-380",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          488
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          490
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          200,
+          588
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          318
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          761,
+          763,
+          765,
+          767,
+          769,
+          771
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          21,
+          757
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 21,
+        "line_hits": [
+          7,
+          13,
+          15,
+          17,
+          52,
+          58,
+          60,
+          72,
+          74,
+          146,
+          314,
+          340,
+          342,
+          350,
+          356,
+          480,
+          482,
+          484,
+          508,
+          524,
+          530
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          72,
+          78,
+          84,
+          108,
+          194,
+          262,
+          302,
+          314,
+          342,
+          354,
+          486,
+          490,
+          494,
+          522
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "be622c967d7b8f73b3e8a9eda98f85db8d2cd401c9f4bfbb48dceb642f32163a",
+  "markdown_path": "pdf/ORNL-TM-0380/ORNL-TM-0380/hybrid_ocr/ORNL-TM-0380.md",
+  "report_number": "ORNL-TM-380",
+  "report_numbers": [
+    "ORNL-TM-380"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 34,
+  "sections": [
+    {
+      "anchor": "ornl-tm-380",
+      "end_line": 2,
+      "heading": "Ornl-Tm-380",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-124",
+      "end_line": 6,
+      "heading": "Copy No. - 124",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "prediction-of-effective-yields-of-delayed-neutrons-in-msre",
+      "end_line": 10,
+      "heading": "PREDICTION OF EFFECTIVE YIELDS OF DELAYED NEUTRONS IN MSRE",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 18,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "notice",
+      "end_line": 22,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 31,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "contents",
+      "end_line": 35,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 32
+    },
+    {
+      "anchor": "introduction-3",
+      "end_line": 37,
+      "heading": "Introduction 3",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "approach-to-the-problem-3",
+      "end_line": 39,
+      "heading": "Approach To The Problem 3",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "derivation-of-equations-7",
+      "end_line": 51,
+      "heading": "Derivation Of Equations 7",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "results-of-msre-calculations-13",
+      "end_line": 53,
+      "heading": "Results Of Msre Calculations 13",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "appendix-18",
+      "end_line": 69,
+      "heading": "Appendix 18",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 75,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "approach-to-the-problem",
+      "end_line": 149,
+      "heading": "APPROACH TO THE PROBLEM",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "derivation-of-equations",
+      "end_line": 151,
+      "heading": "DERIVATION OF EQUATIONS",
+      "level": 1,
+      "start_line": 150
+    },
+    {
+      "anchor": "steady-state-concentrations-of-precursors",
+      "end_line": 213,
+      "heading": "Steady-State Concentrations of Precursors",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "normalized-source-distributions",
+      "end_line": 253,
+      "heading": "Normalized Source Distributions",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "expansion-of-sources-in-series-form",
+      "end_line": 287,
+      "heading": "Expansion of Sources in Series Form",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "fraction-emitted-in-the-core",
+      "end_line": 315,
+      "heading": "Fraction Emitted in the Core",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "effective-fraction-in-noncirculating-system",
+      "end_line": 339,
+      "heading": "Effective Fraction in Noncirculating System",
+      "level": 1,
+      "start_line": 316
+    },
+    {
+      "anchor": "results-of-msre-calculations",
+      "end_line": 359,
+      "heading": "RESULTS OF MSRE CALCULATIONS",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 361,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 360
+    },
+    {
+      "anchor": "expressions-for-nonleakage-probabilities",
+      "end_line": 479,
+      "heading": "Expressions for Nonleakage Probabilities",
+      "level": 1,
+      "start_line": 362
+    },
+    {
+      "anchor": "data-for-msre-calculations",
+      "end_line": 483,
+      "heading": "Data for MSRE Calculations",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "msre-dimensions",
+      "end_line": 491,
+      "heading": "MSRE Dimensions",
+      "level": 1,
+      "start_line": 484
+    },
+    {
+      "anchor": "precursor-yields-and-half-lives",
+      "end_line": 499,
+      "heading": "Precursor Yields and Half-Lives",
+      "level": 1,
+      "start_line": 492
+    },
+    {
+      "anchor": "neutron-energies-and-ages",
+      "end_line": 527,
+      "heading": "Neutron Energies and Ages",
+      "level": 1,
+      "start_line": 500
+    },
+    {
+      "anchor": "neutron-diffusion-length",
+      "end_line": 531,
+      "heading": "Neutron Diffusion Length",
+      "level": 1,
+      "start_line": 528
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 615,
+      "heading": "Nomenclature",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "subscripts",
+      "end_line": 623,
+      "heading": "Subscripts",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 724,
+      "heading": "Distribution",
+      "level": 1,
+      "start_line": 624
+    },
+    {
+      "anchor": "distribution-cont-d",
+      "end_line": 756,
+      "heading": "Distribution - cont'd",
+      "level": 1,
+      "start_line": 725
+    },
+    {
+      "anchor": "119-ornl-rc",
+      "end_line": 758,
+      "heading": "119. ORNL-RC",
+      "level": 2,
+      "start_line": 757
+    },
+    {
+      "anchor": "external",
+      "end_line": 771,
+      "heading": "External",
+      "level": 1,
+      "start_line": 759
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0380",
+  "tables": [],
+  "title": "ORNL-TM-380",
+  "topics": [
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

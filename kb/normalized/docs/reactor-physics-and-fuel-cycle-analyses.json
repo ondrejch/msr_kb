@@ -1,0 +1,415 @@
+{
+  "authors": [
+    "A. M. PERRY",
+    "H. F. BAUMAN",
+    "REACTORS",
+    "INTRODUCTION",
+    "GENERAL NUCLEAR CHARACTERISTICS"
+  ],
+  "claims_path": "kb/normalized/claims/reactor-physics-and-fuel-cycle-analyses.jsonl",
+  "date_text": "August 4, 1969",
+  "doc_id": "reactor-physics-and-fuel-cycle-analyses",
+  "document_type": "paper",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 14,
+        "line_hits": [
+          29,
+          33,
+          35,
+          39,
+          41,
+          60,
+          88,
+          116,
+          118,
+          162,
+          164,
+          224,
+          232,
+          259
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 7,
+        "line_hits": [
+          33,
+          35,
+          39,
+          116,
+          118,
+          162,
+          232
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          234
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          35
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          218
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 3,
+        "line_hits": [
+          5,
+          17,
+          257
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          252
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          252
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 37,
+        "line_hits": [
+          15,
+          17,
+          37,
+          47,
+          50,
+          56,
+          65,
+          67,
+          77,
+          81,
+          86,
+          94,
+          96,
+          114,
+          126,
+          131,
+          139,
+          142,
+          153,
+          156,
+          164,
+          171,
+          177,
+          182,
+          186,
+          188,
+          192,
+          197,
+          200,
+          213,
+          216,
+          226,
+          238,
+          242,
+          256,
+          258,
+          259
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 21,
+        "line_hits": [
+          25,
+          29,
+          39,
+          47,
+          104,
+          120,
+          133,
+          146,
+          150,
+          160,
+          164,
+          166,
+          168,
+          173,
+          177,
+          188,
+          197,
+          202,
+          218,
+          226,
+          234
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          43,
+          210,
+          218
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          222
+        ],
+        "name": "MSCR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          222,
+          226
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          29,
+          67,
+          92,
+          192
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          67
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          67
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          67
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "ee35a26c34fd406fd07674d4d44a21bbd093780c12cf72afee6f0062eb14222e",
+  "markdown_path": "pdf/NAT_MSBRfuelcycle/NAT_MSBRfuelcycle/hybrid_ocr/NAT_MSBRfuelcycle.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "natural-language-summaries",
+  "section_count": 23,
+  "sections": [
+    {
+      "anchor": "reactor-physics-and-fuel-cycle-analyses",
+      "end_line": 12,
+      "heading": "REACTOR PHYSICS AND FUEL-CYCLE ANALYSES",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "reactors",
+      "end_line": 20,
+      "heading": "Reactors",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 26,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "general-nuclear-characteristics",
+      "end_line": 57,
+      "heading": "GENERAL NUCLEAR CHARACTERISTICS",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "equilibrium-fuel-cycle-results",
+      "end_line": 63,
+      "heading": "EQUILIBRIUM FUEL-CYCLE RESULTS",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "tablei",
+      "end_line": 72,
+      "heading": "Tablei",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "uncertainties-in-neutron-cross-sections",
+      "end_line": 78,
+      "heading": "Uncertainties in Neutron Cross Sections",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "equilibrium-fuel-cycle-costs",
+      "end_line": 84,
+      "heading": "Equilibrium Fuel-Cycle Costs",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 97,
+      "heading": "Table Ii",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "effect-of-changes-in-reactor-design-parameters",
+      "end_line": 101,
+      "heading": "EFFECT OF CHANGES IN REACTOR DESIGN PARAMETERS",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "reactor-plant-size",
+      "end_line": 115,
+      "heading": "Reactor Plant Size",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "graphite-moderator-life",
+      "end_line": 121,
+      "heading": "Graphite Moderator Life",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "thorium-concentration",
+      "end_line": 134,
+      "heading": "Thorium Concentration",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "salt-volume-fractions",
+      "end_line": 143,
+      "heading": "Salt Volume Fractions",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "233pa-removal-rate",
+      "end_line": 147,
+      "heading": "233Pa Removal Rate",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "removal-of-fission-products",
+      "end_line": 174,
+      "heading": "Removal of Fission Products",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "reactor-start-up-and-approach-to-equilibrium",
+      "end_line": 189,
+      "heading": "REACTOR START-UP AND APPROACH TO EQUILIBRIUM",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "pu-start-up",
+      "end_line": 205,
+      "heading": "Pu Start-Up",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "operation-with-limited-fuel-processing",
+      "end_line": 227,
+      "heading": "OPERATION WITH LIMITED FUEL PROCESSING",
+      "level": 1,
+      "start_line": 206
+    },
+    {
+      "anchor": "temperature-coefficients-of-reactivity",
+      "end_line": 235,
+      "heading": "TEMPERATURE COEFFICIENTS OF REACTIVITY",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "summary-and-conclusion",
+      "end_line": 249,
+      "heading": "SUMMARY AND CONCLUSION",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 253,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "references",
+      "end_line": 260,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 254
+    }
+  ],
+  "source_dir": "pdf/NAT_MSBRfuelcycle",
+  "tables": [],
+  "title": "REACTOR PHYSICS AND FUEL-CYCLE ANALYSES",
+  "topics": [
+    "reactor-physics-neutronics",
+    "breeder-and-converter-design",
+    "graphite-and-moderator-behavior",
+    "salt-chemistry-and-redox",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

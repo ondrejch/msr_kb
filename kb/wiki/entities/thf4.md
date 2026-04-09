@@ -1,0 +1,212 @@
+# ThF4
+
+## Overview
+
+- Type: salt-system
+- Documents: 152
+- First seen: 1941
+- Last seen: unknown
+
+## Topic Profile
+
+- materials-and-corrosion (142)
+- reactor-operations (127)
+- pumps-loops-and-heat-exchangers (117)
+- salt-systems-and-thermophysics (106)
+- salt-chemistry-and-redox (101)
+- graphite-and-moderator-behavior (97)
+- off-gas-fission-products-and-tritium (96)
+- reactor-physics-neutronics (76)
+
+## Related Entities
+
+- ARE [reactor] (152)
+- ORNL [organization] (151)
+- LiF [salt-system] (147)
+- BeF2 [salt-system] (145)
+- AEC [organization] (141)
+- UF4 [salt-system] (137)
+- Union Carbide [organization] (131)
+- NaF [salt-system] (124)
+- graphite [alloy-material] (122)
+- fluoride salt [salt-system] (122)
+- nickel [alloy-material] (118)
+- heat exchanger [component] (115)
+
+## Representative Claims
+
+- [[../documents/chapter-12.md|CHAPTER 12]] - 1941
+  - 75 mole % LiF-16 mole % ThF4-9 mole % BeF2,
+- [[../documents/chapter-12.md|CHAPTER 12]] - 1941
+  - similarity of these two ternary systems and preliminary examination of the LiF-Bel'2-ThF4-UF4 quaternary system suggests that fractional replacement of UF4 by ThF4 will have little effect on the freezing temperature over the composition range of interest as reactor fuel.
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950
+  - (d) $\mathrm{LiF} \cdot 2\mathrm{ThF}_4$ ss + LIQUID + LiF·4UF4-LiF·4ThF4ss
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950
+  - <table><tr><td colspan="3">Composition (mole %)</td></tr><tr><td>LiF</td><td>BeF2</td><td>ThF4</td></tr><tr><td>75</td><td>0</td><td>25</td></tr><tr><td>58</td><td>16</td><td>26</td></tr><tr><td>59</td><td>20</td><td>21</td></tr></table>
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950
+  - <table><tr><td colspan="3">Composition of Liquid (mole %)</td><td rowspan="2">Invariant Temperature (℃)</td><td rowspan="2">Type of Equilibrium</td><td rowspan="2">Solids Present at Invariant Point</td></tr><tr><td>LiF</td><td>ThF4</td><td>UF4</td></tr><tr><td>72.5</td><td>7.0</td><td>20.5</td><td>500</td><td>Peritectic</td><td>LiF, 3LiF·(Th,U)F4, and 7LiF·6(U,Th)F4</td></tr><tr><td>72.0</td><td>1.5</td><td>26.5</td><td>488</td><td>Eutectic</td><td>LiF, 4LiF·UF4, and 7LiF·6(U,Th)F4</td></tr><tr><td>53</td><td>18</td><td>19</td><td>609</td><td>Peritectic</td><td>7LiF·6(U,Th)F4, LiF·2(U,U)F4, and LiF·4(U,Th)F4</td></tr></table>
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950
+  - <table><tr><td colspan="3">Composition of Liquid (mole %)</td><td rowspan="2">Invariant Temperature (℃)</td><td rowspan="2">Type of Equilibrium</td><td rowspan="2">Solids Present at Invariant Point</td></tr><tr><td>NaF</td><td>ZrF4</td><td>ThF4</td></tr><tr><td>77</td><td>3</td><td>20</td><td>645</td><td>Peritectic</td><td>NaF, α-4NaF·ThF4, and 3NaF·ZrF4</td></tr><tr><td>75.5</td><td>2.5</td><td>22</td><td>618</td><td>Eutectic</td><td>α-4NaF·ThF4, 2NaF·ThF4, and 3NaF·ZrF4</td></tr><tr><td>63</td><td>6</td><td>31*</td><td>683</td><td>Decomposition point of 3NaF·2ThF4 in ternary system</td><td>3NaF·2ThF4, 2NaF·ThF4, and NaF·ThF4</td></tr><tr><td>65.5</td><td>21.5</td><td>13</td><td>622</td><td>Peritectic</td><td>2NaF·ThF4, 3NaF·ZrF4, and NaF·ThF4</td></tr><tr><td>65.5</td><td>24.5</td><td>10</td><td>615</td><td>Peritectic</td><td>3NaF·ZrF4, NaF·ThF4, and α-5NaF·2ZrF4</td></tr><tr><td>64.5</td><td>25.5</td><td>10</td><td>593</td><td>Peritectic</td><td>α-5NaF·2ZrF4, NaF·ThF4, and NaF·2ThF4</td></tr><tr><td>58</td><td>38</td><td>4</td><td>538</td><td>Peritectic</td><td>α-5NaF·2ZrF4, α-2NaF·ZrF4, and NaF·2ThF4</td></tr><tr><td>58</td><td>40</td><td>2</td><td>495</td><td>Eutectic</td><td>β-2NaF·ZrF4, NaF·2ThF4, and 7NaF·6ZrF4-3NaF·2ZrF4ss</td></tr><tr><td>53</td><td>42</td><td>4</td><td>510</td><td>Peritectic</td><td>NaF·2ThF4, Th(Zr)F4ss, and 7NaF·6ZrF4-3NaF·2ThF4ss</td></tr><tr><td>49.5</td><td>48</td><td>2.5</td><td>505</td><td>Eutectic</td><td>7NaF·6ZrF4, 3NaF·4ZrF4, and Zr(Th)F4ss</td></tr></table>
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950
+  - <table><tr><td colspan="3">Composition of Liquid (mole %)</td><td rowspan="2">Invariant Temperature (℃)</td><td rowspan="2">Type of Invariant</td><td rowspan="2">Solids Present at Invariant Point</td></tr><tr><td>LiF</td><td>BeF2</td><td>ThF4</td></tr><tr><td>15</td><td>83</td><td>2</td><td>497 ± 4</td><td>Peritectic</td><td>ThF4, LiF·4ThF4, and BeF2</td></tr><tr><td>33.5</td><td>64</td><td>2.5</td><td>455 ± 4</td><td>Peritectic</td><td>LiF·4ThF4, LiF·2ThF4, and BeF2</td></tr><tr><td>47</td><td>51.5</td><td>1.5</td><td>356 ± 6</td><td>Eutectic</td><td>2LiF·BeF2, LiF·2ThF4, and BeF2</td></tr><tr><td>60.5</td><td>36.5</td><td>3</td><td>433 ± 5</td><td>Peritectic</td><td>LiF·2ThF4, 3LiF·ThF4ss, and 2LiF·BeF2</td></tr><tr><td>65.5</td><td>30.5</td><td>4</td><td>444 ± 4</td><td>Peritectic</td><td>LiF, 2LiF·BeF2, and 3LiF·ThF4ss</td></tr><tr><td>63</td><td>30.5</td><td>6.5</td><td>448 ± 5</td><td>Peritectic</td><td>3LiF·ThF4ss, 7LiF·6ThF4, and LiF·2ThF4</td></tr></table>
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950
+  - <table><tr><td>Mole % ThF4in Liquid</td><td>Invariant Temperature (°C)</td><td>Type of Equilibrium</td><td>Phase Reaction at Invariant Temperature</td></tr><tr><td>14</td><td>694</td><td>Eutectic</td><td>L ⇌ KF + β-5KF·ThF4</td></tr><tr><td>-</td><td>635</td><td>Inversion</td><td>α-5KF·ThF4 ⇌ β-5KF·ThF4</td></tr><tr><td>-</td><td>712</td><td>Peritectic</td><td>L + 3KF·ThF4 ⇌ α-5KF·ThF4</td></tr><tr><td>25</td><td>865</td><td>Congruent melting point</td><td>L ⇌ 3KF·ThF4</td></tr><tr><td>-</td><td>570</td><td>Decomposition</td><td>3KF·ThF4 ⇌ β-5KF·ThF4 + β-2KF·ThF4</td></tr><tr><td>31</td><td>691</td><td>Eutectic</td><td>L ⇌ 3KF·ThF4 + α-2KF·ThF4</td></tr><tr><td>-</td><td>747</td><td>Peritectic</td><td>L + KF·ThF4 ⇌ α-2KF·ThF4</td></tr><tr><td>-</td><td>645</td><td>Inversion</td><td>α-2KF·ThF4 ⇌ β-2KF·ThF4</td></tr><tr><td>50*</td><td>905</td><td>Congruent melting point</td><td>L ⇌ KF·ThF4</td></tr><tr><td>56</td><td>875</td><td>Eutectic</td><td>L ⇌ KF·ThF4 + KF·2ThF4</td></tr><tr><td>66</td><td>930</td><td>Peritectic</td><td>L + KF·3ThF4 ⇌ KF·2ThF4</td></tr><tr><td>75</td><td>990</td><td>Congruent melting point</td><td>L ⇌ KF·3ThF4</td></tr><tr><td>78</td><td>980</td><td>Eutectic</td><td>L ⇌ KF·3ThF4 + ThF4ss</td></tr></table>
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950
+  - <table><tr><td>Mole % ThF4in Liquid</td><td>Invariant Temperature (°C)</td><td>Type of Equilibrium</td><td>Phase Reaction at Invariant Temperature</td></tr><tr><td>15</td><td>664</td><td>Eutectic</td><td>L ⇌ RbF + 3RbF·ThF4</td></tr><tr><td>25</td><td>974</td><td>Congruent melting point</td><td>L ⇌ 3RbF·ThF4</td></tr><tr><td>37</td><td>762</td><td>Eutectic</td><td>L ⇌ 3RbF·ThF4 + RbF·ThF4</td></tr><tr><td>50</td><td>852</td><td>Congruent melting point</td><td>L ⇌ RbF·ThF4</td></tr><tr><td>54</td><td>848</td><td>Eutectic</td><td>L ⇌ RbF·ThF4 + RbF·3ThF4</td></tr><tr><td>75</td><td>1004</td><td>Congruent melting point</td><td>L ⇌ RbF·3ThF4</td></tr><tr><td>80</td><td>1000</td><td>Eutectic</td><td>L ⇌ RbF·3ThF4 + ThF4</td></tr></table>
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950
+  - <table><tr><td>Mole % ThF4in Liquid</td><td>Invariant Temperature (°C)</td><td>Type of Equilibrium</td><td>Phase Reaction at Invariant Temperature</td></tr><tr><td>21.5</td><td>645</td><td>Peritectic</td><td>NaF + L ⇌ α-4NaF·ThF4</td></tr><tr><td>22.5</td><td>618</td><td>Eutectic</td><td>L ⇌ α-4NaF·ThF4 + 2NaF·ThF4</td></tr><tr><td>-</td><td>604</td><td>Inversion</td><td>α-4NaF·ThF4 ⇌ β-4NaF·ThF4</td></tr><tr><td>-</td><td>558</td><td>Decomposition</td><td>β-4NaF·ThF4 ⇌ NaF + 2NaF·ThF4</td></tr><tr><td>33.3</td><td>705</td><td>Congruent melting point</td><td>L ⇌ 2NaF·ThF4</td></tr><tr><td>37</td><td>690</td><td>Eutectic</td><td>L ⇌ 2NaF·ThF4 + 3NaF·2ThF4</td></tr><tr><td>40</td><td>712</td><td>Congruent melting point</td><td>L ⇌ 3NaF·2ThF4</td></tr><tr><td>41</td><td>705</td><td>Eutectic</td><td>L ⇌ 3NaF·2ThF4 + α-NaF·ThF4</td></tr><tr><td>-</td><td>683</td><td>Decomposition</td><td>3NaF·2ThF4 ⇌ 2NaF·ThF4 + α-NaF·ThF4</td></tr><tr><td>45.5</td><td>730</td><td>Peritectic</td><td>NaF·2ThF4 + L ⇌ α-NaF·ThF4</td></tr><tr><td>58</td><td>831</td><td>Peritectic</td><td>ThF4 + L ⇌ NaF·2ThF4</td></tr></table>
+
+## Chronology
+
+- [[../documents/chapter-12.md|CHAPTER 12]] - 1941 - mentions: 2
+- [[../documents/ornl-2548.md|PHASE DIAGRAMS OF NUCLEAR REACTOR MATERIALS]] - 1950 - ORNL-2396 - mentions: 12
+- [[../documents/ornl-1030.md|![](images/b4964672a88bdce91495126f3b851a754823d457e3d6c106211cd5bc2c7d960e.jpg)]] - 1951 - ORNL-1030 - mentions: 11
+- [[../documents/ornl-1490.md|![](images/708f8bec4314a4c0782e91ae54b4cc6d125f0e3d313ac66c1597532fd66f4239.jpg)]] - 1952 - ORNL-1252 - mentions: 2
+- [[../documents/ornl-1252.md|GENERAL INFORMATION]] - February 19, 1952 - ORNL-1252 - mentions: 3
+- [[../documents/ornl-1515.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - March 10, 1953 - ORNL-1515 - mentions: 1
+- [[../documents/ornl-tm-3866.md|![](images/21d47926519d1679e8984c4291d925f12b0fad58a3797a05df44e831a5cd03ca.jpg)]] - April 20, 1953 - ORNL-4254 - mentions: 1
+- [[../documents/ornl-1649.md|DECLASSIFIED]] - December 10, 1953 - ORNL-1449 - mentions: 1
+- [[../documents/ornl-1702.md|DECLASSIFIED]] - 1954 - mentions: 2
+- [[../documents/ornl-1712.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - 1954 - mentions: 3
+- [[../documents/ornl-1729.md|![](images/b54a392e6f8c9768ec6ae55cbf2539b5e7b81adcde8c4a0a0424955e3e870da6.jpg)]] - June 10, 1954 - ORNL-1729 - mentions: 3
+- [[../documents/ornl-1896.md|ANP Authorization Required]] - June 10, 1955 - ORNL-1896 - mentions: 1
+- [[../documents/ornl-2150.md|ORNL MASTER COPY]] - 1956 - mentions: 3
+- [[../documents/ornl-cf-56-7-114.md|![](images/7e80a3fc2bc4f9c83a23b3118d4a5062c8b2dbd5d6ed88b4f08a2341a9dddb48.jpg)]] - July 18, 1956 - mentions: 1
+- [[../documents/ornl-cf-56-10-110.md|![](images/d66c532b6e49d183416f8971703b13414bb02337ffeb2d1c0e5bd6ec80d058ee.jpg)]] - October 29, 1956 - mentions: 4
+- [[../documents/ornl-2278.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1957 - ORNL-2278 - mentions: 2
+- [[../documents/anl-6792.md|MOLTEN-SALT FAST REACTORS]] - 1957 - CF-61-3-9 - mentions: 1
+- [[../documents/ornl-2295.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - March 10, 1957 - ORNL-2295 - mentions: 6
+- [[../documents/ornl-2274.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - March 31, 1957 - ORNL-528 - mentions: 2
+- [[../documents/ornl-cf-57-4-27.md|![](images/3f7cf0a8001da7322a0b64862847fd098bcc14dff6f113c0f2b93b24ab9b98f8.jpg)]] - April 29, 1957 - CF-57-1-10 - mentions: 2
+- [[../documents/molten-fluorides-as-power-reactor-fuels-sup-1-sup.md|Molten Fluorides as Power Reactor Fuels<sup>1</sup>]] - June 13, 1957 - mentions: 1
+- [[../documents/ornl-2378.md|AEC RESE CRFMENT REPORT]] - September 1, 1957 - ORNL-2378 - mentions: 2
+- [[../documents/ornl-2431.md|MOLTEN-SALT REACTOR PROGRAM]] - October 31, 1957 - ORNL-2431 - mentions: 6
+- [[../documents/ornl-2440.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 31, 1957 - ORNL-2440 - mentions: 4
+- [[../documents/ornl-2474.md|ORNL-2474]] - January 31, 1958 - ORNL-2474 - mentions: 4
+- [[../documents/ornl-2551.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - February 15, 1958 - ORNL-2551 - mentions: 7
+- [[../documents/ornl-2634.md|ORNL-2634]] - May 1, 1958 - ORNL-2634 - mentions: 5
+- [[../documents/molten-salt-reactors.md|MOLTEN-SALT REACTORS]] - June 1958 - mentions: 4
+- [[../documents/ornl-2626.md|ORNL-2626]] - October 31, 1958 - ORNL-2626 - mentions: 13
+- [[../documents/ornl-2719.md|MASTER COPY]] - 1959 - ORNL-2719 - mentions: 21
+- [[../documents/ornl-2684.md|ORNL-2684]] - January 31, 1959 - ORNL-2684 - mentions: 5
+- [[../documents/ornl-2723.md|ORNL-2723]] - April 30, 1959 - ORNL-2723 - mentions: 11
+- [[../documents/ornl-2799.md|![](images/e196c8971f9cbd257f2fbb5070322e5c08ad2686223df5233b579472fdad4e95.jpg)]] - July 31, 1959 - ORNL-2799 - mentions: 18
+- [[../documents/ornl-2890.md|ORNL-2890]] - October 31, 1959 - ORNL-2890 - mentions: 11
+- [[../documents/ornl-3014.md|![](images/3d9e2a174651a2d79ed61a6a17515dd3051e8336e6824ebffc1c42c4f35951a5.jpg)]] - 1960 - ORNL-3014 - mentions: 13
+- [[../documents/ornl-2973.md|ORNL-2973 UC-81 - Reactors - Power]] - April 30, 1960 - ORNL-2973 - mentions: 16
+- [[../documents/anl-7092.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - July 25, 1960 - ANL-6892 - mentions: 5
+- [[../documents/ornl-cf-60-12-111.md|![](images/b7b28f8315b2ad81e8650647f715dab9e72fbbb5ad602657ce4a04d4381aa5c7.jpg)]] - December 13, 1960 - mentions: 1
+- [[../documents/ornl-3215.md|![](images/b390bcb067039caf88dbc5e2ee9afe97556a586516b1e8bc48fcccfe1bf4383c.jpg)]] - 1961 - ORNL-3215 - mentions: 20
+- [[../documents/ornl-2896.md|ORNL-2896]] - 1961 - ORNL-2896 - mentions: 21
+- [[../documents/ornl-cf-61-2-46.md|MASTER COPY]] - February 28, 1961 - mentions: 1
+- [[../documents/ornl-cf-61-4-62.md|![](images/403eb9ff77ae8ffe44b9cf6f1e74d8b95371308490f3724e2fcb86888309ea49.jpg)]] - April 19, 1961 - CF-60-3-35 - mentions: 1
+- [[../documents/ornl-tm-1060.md|ORNL-TM-1060]] - July 1961 - ORNL-TM-1060 - mentions: 9
+- [[../documents/ornl-cf-61-2-46-ad.md|UCN-2363]] - August 14, 1961 - CF-61-2-46 - mentions: 1
+- [[../documents/ornl-cf-61-8-86.md|![](images/e4ec18dbd797b25d49128d86a7953ccddf1b2d4f1b0758a0b86a4095b599d319.jpg)]] - August 18, 1961 - ORNL-CF-61-3-9 - mentions: 3
+- [[../documents/ornl-3122.md|${3}^{ \times {5}^{7}}$]] - October 1961 - ORNL-3122 - mentions: 13
+- [[../documents/ornl-3282.md|ORNL-3282]] - 1962 - ORNL-3282 - mentions: 4
+- [[../documents/ornl-tm-328.md|ORNL-TM-328]] - 1962 - ORNL-TM-328 - mentions: 1
+- [[../documents/ornl-tm-251.md|OAK RIDGE NATIONAL LABORATORY]] - May 15, 1962 - ORNL-TM-251 - mentions: 1
+- [[../documents/ornl-3369.md|ORNL-3369]] - August 31, 1962 - ORNL-3369 - mentions: 4
+- [[../documents/ornl-3373.md|ORNL-3373]] - 1963 - ORNL-3373 - mentions: 1
+- [[../documents/ornl-3419.md|MOLTEN-SALT REACTOR PROGRAM]] - January 31, 1963 - mentions: 1
+- [[../documents/ornl-3529.md|ORNL-3529]] - July 31, 1963 - ORNL-3529 - mentions: 4
+- [[../documents/ornl-tm-611.md|ORNL-TM-611]] - August 27, 1963 - ORNL-TM-611 - mentions: 1
+- [[../documents/ornl-tm-732.md|![](images/c93d2ea0e38986fcb933700de987cad349cfc93caea4b5fa0e5643ceba8d3ed2.jpg)]] - 1964 - ORNL-TM-728 - mentions: 2
+- [[../documents/ornl-3594.md|ORNL-3594]] - 1964 - ORNL-3594 - mentions: 2
+- [[../documents/ornl-tm-730.md|ORNL-TM-730]] - 1964 - ORNL-TM-730 - mentions: 2
+- [[../documents/ornl-3626.md|ORNL-3626 UCA-80- Reactor Technology TID-4500 (31st ed.)]] - January 31, 1964 - ORNL-3626 - mentions: 3
+- [[../documents/anl-6909.md|Argonne National Laboratory]] - July 1, 1964 - ANL-6892 - mentions: 2
+- [[../documents/ornl-3708.md|![](images/50503ced8a785d6711476b9d883192f94a77603d1c0894f00fd35b69e5171bf6.jpg)]] - July 31, 1964 - ORNL-3708 - mentions: 8
+- [[../documents/ornl-tm-4286.md|![](images/efcbf614eaf10c25932c7194f018f827dd8994802174e2a19b1489f8dd55aeaf.jpg)]] - July 31, 1964 - ORNL-TM-4286 - mentions: 5
+- [[../documents/ornl-tm-935.md|ORNL-TM-935]] - September 11, 1964 - ORNL-TM-935 - mentions: 1
+- [[../documents/ornl-tm-3832.md|![](images/1300c978e545fa137f7c638f011312135b3d51a64be678af13c0b08dfc7b58c9.jpg)]] - December 1964 - ORNL-TM-3832 - mentions: 2
+- [[../documents/ornl-tm-728.md|ORNL-TM-728]] - 1965 - ORNL-TM-728 - mentions: 1
+- [[../documents/ornl-3872.md|ORNL-3872]] - August 31, 1965 - ORNL-3872 - mentions: 2
+- [[../documents/ornl-3913.md|ORNL.3913]] - December 31, 1965 - mentions: 3
+- [[../documents/ornl-3791.md|![](images/6a88b7b49bad0c5a62a41f205f0b4223628c001b68e171f028a1a0e51b8981ff.jpg)]] - 1966 - mentions: 2
+- [[../documents/ornl-3996.md|ORNL-3996]] - 1966 - ORNL-3996 - mentions: 6
+- [[../documents/ornl-3936.md|ORNL-3936]] - February 28, 1966 - ORNL-3936 - mentions: 2
+- [[../documents/anl-7180.md|Argonne National Laboratory]] - March 1966 - ANL-6892 - mentions: 1
+- [[../documents/ornl-tm-1467.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - April 7, 1966 - ORNL-TM-1467 - mentions: 1
+- [[../documents/ornl-tm-1543.md|![](images/e32b69c579d7dace5c0a4e57eca872561fa2aece09947fe32f53e5af33d9269c.jpg)]] - June 1, 1966 - ORNL-TM-1543 - mentions: 1
+- [[../documents/ornl-tm-497.md|ORNL-TM-497]] - August 16, 1966 - ORNL-TM-497 - mentions: 1
+- [[../documents/ornl-4037.md|ORNL-4037]] - August 31, 1966 - ORNL-4037 - mentions: 3
+- [[../documents/ornl-4076.md|HeoHcTo 95hE]] - December 31, 1966 - ORNL-4076 - mentions: 1
+- [[../documents/ornl-tm-1545.md|CFSTI PRICS]] - 1967 - ORNL-TM-1545 - mentions: 1
+- [[../documents/ornl-tm-1854.md|ORNL-TM-1854]] - 1967 - ORNL-TM-1854 - mentions: 2
+- [[../documents/ornl-4119.md|ORNL-4119]] - February 28, 1967 - ORNL-4119 - mentions: 2
+- [[../documents/ornl-tm-3344.md|ORNL-TM-3344]] - June 1967 - ORNL-TM-3344 - mentions: 1
+- [[../documents/ornl-tm-3595.md|ORNL-TM-3595]] - June 1967 - ORNL-TM-3595 - mentions: 18
+- [[../documents/ornl-tm-1851.md|ORNL-TM-1851]] - June 12, 1967 - ORNL-TM-1851 - mentions: 4
+- [[../documents/ornl-4191.md|ORNL-4191]] - August 31, 1967 - ORNL-4191 - mentions: 1
+- [[../documents/ornl-tm-1855.md|![](images/1b350d6b5cc04bc7d7604b9dd9cc29d2a51787f05b2cf8392565028b4005a7ea.jpg)]] - October 3, 1967 - ORNL-TM-1855 - mentions: 1
+- [[../documents/ornl-tm-2180.md|![](images/222b8049da11cf5124666d77a06196c600a1a53111108b44f277a5184e001a1c.jpg)]] - 1968 - ORNL-TM-2180 - mentions: 1
+- [[../documents/ornl-tm-2213.md|ORNL TM-2213]] - 1968 - mentions: 1
+- [[../documents/ornl-tm-2316.md|ORNL-TM-2316]] - 1968 - ORNL-TM-2316 - mentions: 7
+- [[../documents/ornl-tm-2098.md|ORNL-TM-2098]] - January 3, 1968 - ORNL-TM-2098 - mentions: 1
+- [[../documents/ornl-4254.md|ORNL-4254]] - February 29, 1968 - ORNL-4254 - mentions: 7
+- [[../documents/ornl-cf-68-3-38.md|DATE: March 25, 1968]] - March 25, 1968 - mentions: 1
+- [[../documents/ornl-tm-2256.md|ORNL-TM-2256]] - June 20, 1968 - ORNL-TM-2256 - mentions: 2
+- [[../documents/ornl-tm-2741.md|ORNL-TM-2741]] - June 20, 1968 - ORNL-TM-2741 - mentions: 1
+- [[../documents/ornl-tm-3257.md|![](images/332fee57df97b0d0edfc371a2f28e67441f80a8281476177cc4965ce0989950b.jpg)]] - July 1968 - ORNL-TM-3257 - mentions: 1
+- [[../documents/ornl-4344.md|ORNL-4344]] - August 31, 1968 - ORNL-4344 - mentions: 14
+- [[../documents/ornl-tm-3258.md|![](images/e1be72165e0d80134a5333c2fc49d4731fd163664688c43428428cc222ef1efa.jpg)]] - September 1968 - ORNL-TM-3258 - mentions: 1
+- [[../documents/ornl-tm-3259.md|![](images/e1861e548ef7d28210275552f525729eae0f3f742a266d286ee2bd5b68ed37e9.jpg)]] - December 1968 - ORNL-TM-3259 - mentions: 2
+- [[../documents/ornl-tm-4863.md|Engineering Development Studies for Mollen-Salt Breeder Reactor Processing No. 19]] - December 1968 - ORNL-TM-4863 - mentions: 1
+- [[../documents/ornl-tm-2335.md|![](images/58a6b6f620ed6ccec527f91d5e2a9e80ae33629359cff6d9bda52a92e6bf5093.jpg)]] - 1969 - ORNL-TM-2335 - mentions: 1
+- [[../documents/ornl-tm-2643.md|LEGAL NOTICE]] - 1969 - ORNL-TM-2643 - mentions: 1
+- [[../documents/oak-ridge-national-laboratory.md|OAK RIDGE NATIONAL LABORATORY]] - 1969 - mentions: 1
+- [[../documents/ornl-4415.md|ORNL-4415]] - 1969 - ORNL-4415 - mentions: 3
+- [[../documents/ornl-tm-2780.md|ORNL-TM-2780]] - 1969 - ORNL-TM-2780 - mentions: 1
+- [[../documents/ornl-4396.md|ORNL-4396]] - February 28, 1969 - ORNL-4396 - mentions: 14
+- [[../documents/wash-1097.md|CIVILIAN NUCLEAR POWER]] - June 1969 - mentions: 3
+- [[../documents/symposium-on.md|Symposium on]] - August 1969 - mentions: 15
+- [[../documents/molten-salt-reactor-chemistry.md|MOLTEN-SALT REACTOR CHEMISTRY]] - August 4, 1969 - mentions: 7
+- [[../documents/molten-salt-reactors-history-status-and-potential.md|MOLTEN-SALT REACTORS-HISTORY, STATUS, AND POTENTIAL]] - August 4, 1969 - mentions: 1
+- [[../documents/reactor-physics-and-fuel-cycle-analyses.md|REACTOR PHYSICS AND FUEL-CYCLE ANALYSES]] - August 4, 1969 - mentions: 1
+- [[../documents/the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor.md|THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR]] - August 4, 1969 - mentions: 1
+- [[../documents/ornl-4449.md|ORNL-4449]] - August 31, 1969 - ORNL-4449 - mentions: 16
+- [[../documents/ornl-tm-3177.md|ORNL-TM-3177]] - 1970 - ORNL-TM-3177 - mentions: 2
+- [[../documents/ornl-4548.md|ORNL-4548]] - February 28, 1970 - ORNL-4548 - mentions: 12
+- [[../documents/ornl-4622.md|ORNL-4622]] - August 31, 1970 - ORNL-4622 - mentions: 11
+- [[../documents/ornl-tm-3144.md|![](images/f9a0954256e310f7dbd247b21103a0431600f16dcda05ed28336e412601e963e.jpg)]] - September 30, 1970 - ORNL-TM-3144 - mentions: 1
+- [[../documents/ornl-4541.md|ORNL-4541]] - 1971 - ORNL-4541 - mentions: 4
+- [[../documents/ornl-4658.md|ORNL-4658]] - 1971 - ORNL-4658 - mentions: 3
+- [[../documents/ornl-tm-2952.md|ORNL-TM-2952]] - 1971 - ORNL-TM-2952 - mentions: 2
+- [[../documents/ornl-tm-3428.md|ORNL-TM-3428]] - 1971 - ORNL-TM-3428 - mentions: 1
+- [[../documents/ornl-4676.md|![](images/dd79b2ea7a269e4e2bdbdad98b315218b184c677fbd7fe6c21a5f930248bbf2e.jpg)]] - February 28, 1971 - ORNL-4676 - mentions: 6
+- [[../documents/ornl-tm-2815.md|![](images/bb8ca45e0e1b46aaebb681679979113b8c0c3ecd470ce0ca9696c201e289a854.jpg)]] - June 24, 1971 - ORNL-TM-2815 - mentions: 1
+- [[../documents/ornl-4728.md|![](images/75792d190f38fb318248f14df749be3ce5abb65eaf2a821ff2d87b4b580840ca.jpg)]] - August 31, 1971 - ORNL-2474 - mentions: 8
+- [[../documents/ornl-tm-3777.md|![](images/4e80ebbc34b88b5e66a9fbae9c7feebdc76c592fd4d469e4de02ed435b41e679.jpg)]] - 1972 - mentions: 1
+- [[../documents/ornl-tm-3763.md|ORNL-TM- 3763]] - 1972 - ORNL-TM-3763 - mentions: 1
+- [[../documents/ornl-tm-3579.md|ORNL-TM-3579]] - 1972 - ORNL-TM-3579 - mentions: 5
+- [[../documents/ornl-tm-4056.md|THE EQUILIBRIUM OF DILUTE $\mathsf{UF}_3$ SOLUTIONS CONTAINED IN GRAPHITE]] - 1972 - ORNL-TM-4056 - mentions: 3
+- [[../documents/ornl-4782.md|MOLTEN-SALT REACTOR PROGRAM]] - February 29, 1972 - ORNL-2474 - mentions: 7
+- [[../documents/ornl-4812.md|The Development Status of]] - August 1972 - ORNL-4812 - mentions: 5
+- [[../documents/ornl-4832.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1972 - ORNL-2474 - mentions: 5
+- [[../documents/wash-1222.md|AN EVALUATION]] - September 1972 - ORNL-4541 - mentions: 3
+- [[../documents/ornl-tm-3352.md|![](images/c9d1896fe0bb8997d171ed30cf7af2e6b763d9d0feaec58c6c5e8ba169f5fece.jpg)]] - December 1972 - ORNL-TM-3053 - mentions: 1
+- [[../documents/ornl-tm-4079.md|![](images/855cc2ed184a91567893984f89ebdf95982fc65ad652fa8117011581a93d6c44.jpg)]] - 1973 - mentions: 2
+- [[../documents/nd-74-66.md|JAN 10 1975]] - January 31, 1973 - ND/71/66 - mentions: 3
+- [[../documents/ornl-tm-4308.md|DENSITY AND VISCOSITY OF SEVERAL MOLTEN FLUORIDE MIXTURES]] - March 1973 - ORNL-TM-4308 - mentions: 10
+- [[../documents/ornl-5011.md|Molten-Salt Reactor Program]] - August 31, 1974 - ORNL-5011 - mentions: 7
+- [[../documents/ornl-tm-5325.md|Evaluation of Alternate Secondary (and Tertiary) Coolants for the Molten-Salt Breeder Reactor]] - September 1974 - mentions: 1
+- [[../documents/ornl-5078.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1975 - ORNL-5078 - mentions: 3
+- [[../documents/ornl-5132.md|![](images/d06517328823504576c5fcd7ace4c6cff5e8189745eaac1344265330e4180ef8.jpg)]] - February 29, 1976 - ORNL-2474 - mentions: 2
+- [[../documents/ornl-tm-7207.md|ORNL/TM-7207]] - October 28, 1976 - mentions: 4
+- [[../documents/ornl-tm-5540.md|![](images/99c82f2f990761eaa342910412b48494b8d83b74e267689cd1f04139b26a7d24.jpg)]] - November 1976 - mentions: 2
+- [[../documents/ornl-5143.md|ORNL5143]] - November 1976 - mentions: 1
+- [[../documents/ornl-tm-5335.md|ORNL/TM-5335]] - November 10, 1976 - mentions: 2
+- [[../documents/ornl-tm-5759.md|G. T. Mays]] - April 1977 - mentions: 1
+- [[../documents/ornl-tm-5920.md|Status of Materials Development for Molen Salt Reactors]] - January 1978 - ORNL-5132 - mentions: 1
+- [[../documents/chapter-14.md|CHAPTER 14]] - 1981 - mentions: 2
+- [[../documents/nas-ns-3004.md|National]] - January 1982 - mentions: 1
+- [[../documents/cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept.md|Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept]] - April 1992 - mentions: 1
+- [[../documents/ornl-tm-12925.md|OAK RIDGE NATIONAL LABORATORY]] - March 1995 - mentions: 2
+- [[../documents/chapter-13.md|CHAPTER 13]] - mentions: 1
+- [[../documents/ornl-tm-2596.md|FRACTIONAL CRYSTALLIZATION REACTIONS IN THE SYSTEM LiF-BeF $_2$ -ThF $_4$]] - ORNL-4396 - mentions: 2
+- [[../documents/ornl-tm-1853.md|OAK RIDGE NATIONAL LABORATORY]] - ORNL-TM-1853 - mentions: 2
+- [[../documents/ornl-2192.md|ORNL-2192]] - ORNL-2192 - mentions: 2
+- [[../documents/ornl-2396.md|ORNL-2396]] - ORNL-2396 - mentions: 6
+- [[../documents/parti-index.md|PARTI INDEX]] - mentions: 4

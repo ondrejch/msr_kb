@@ -1,0 +1,828 @@
+{
+  "authors": [
+    "GASEOUS WATER-HYDROGEN FLUCRIDE MIXTURES",
+    "A. L. Mathews*",
+    "C. F. Baes",
+    "Jr.",
+    "Cullowhee",
+    "North Carolina.",
+    "LEGAL NOTICE",
+    "ACKNOWLEDGMENTS"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1129.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-tm-1129",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 29,
+        "line_hits": [
+          961,
+          1065,
+          1132,
+          1136,
+          1202,
+          1397,
+          1401,
+          1653,
+          1778,
+          1783,
+          1788,
+          1793,
+          1798,
+          1803,
+          1808,
+          1813,
+          1818,
+          1823,
+          1828,
+          1833,
+          1838,
+          1843,
+          1848,
+          1936,
+          2034,
+          2184,
+          2195,
+          2229,
+          2256
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          3,
+          195,
+          201,
+          209,
+          552,
+          1353,
+          1689
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          354,
+          587,
+          865,
+          1210
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1961,
+          2293,
+          2336
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          583,
+          595
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          311
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          317
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 16,
+        "line_hits": [
+          25,
+          199,
+          542,
+          589,
+          1690,
+          1691,
+          1718,
+          1724,
+          1726,
+          1727,
+          1729,
+          1735,
+          1736,
+          1739,
+          1749,
+          2494
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          25
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          25
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2504
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 76,
+        "line_hits": [
+          195,
+          197,
+          209,
+          217,
+          224,
+          236,
+          238,
+          242,
+          244,
+          250,
+          262,
+          264,
+          266,
+          280,
+          286,
+          315,
+          334,
+          354,
+          362,
+          378,
+          394,
+          420,
+          432,
+          480,
+          540,
+          542,
+          733,
+          737,
+          847,
+          851,
+          853,
+          857,
+          861,
+          961,
+          967,
+          985,
+          991,
+          997,
+          1042,
+          1044,
+          1046,
+          1104,
+          1122,
+          1124,
+          1126,
+          1128,
+          1196,
+          1222,
+          1244,
+          1268
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          199,
+          552
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 116,
+        "line_hits": [
+          3,
+          41,
+          129,
+          195,
+          209,
+          248,
+          292,
+          552,
+          1065,
+          1071,
+          1122,
+          1322,
+          1328,
+          1437,
+          1441,
+          1689,
+          1778,
+          1783,
+          1788,
+          1793,
+          1798,
+          1803,
+          1808,
+          1813,
+          1818,
+          1823,
+          1828,
+          1833,
+          1838,
+          1843,
+          1848,
+          1853,
+          1858,
+          1863,
+          1868,
+          1873,
+          1878,
+          1884,
+          1889,
+          1894,
+          1899,
+          1904,
+          1909,
+          1919,
+          1924,
+          1929,
+          1934,
+          1939,
+          1944,
+          1949
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 77,
+        "line_hits": [
+          3,
+          41,
+          129,
+          135,
+          157,
+          158,
+          169,
+          175,
+          189,
+          191,
+          195,
+          197,
+          199,
+          205,
+          207,
+          209,
+          213,
+          215,
+          217,
+          220,
+          224,
+          244,
+          252,
+          256,
+          274,
+          284,
+          286,
+          288,
+          292,
+          299,
+          303,
+          305,
+          315,
+          321,
+          334,
+          350,
+          356,
+          378,
+          444,
+          552,
+          859,
+          861,
+          871,
+          963,
+          965,
+          993,
+          995,
+          1073,
+          1210,
+          1218
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          195,
+          197,
+          299,
+          303,
+          311,
+          1721
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          41,
+          1322,
+          1328
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1736
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c152d7289fc810ec947e17d8123cff8bde51576e9457c9af0310166fd1991cc8",
+  "markdown_path": "pdf/ORNL-TM-1129/ORNL-TM-1129/hybrid_ocr/ORNL-TM-1129.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 63,
+  "sections": [
+    {
+      "anchor": "oxide-chemistry-and-thermodynamics-of-molten",
+      "end_line": 2,
+      "heading": "Oxide Chemistry And Thermodynamics Of Molten",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "lithium-fluoride-beryllium-fluoride-by-equilibration-with",
+      "end_line": 4,
+      "heading": "Lithium Fluoride-Beryllium Fluoride By Equilibration With",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "gaseous-water-hydrogen-flucride-mixtures",
+      "end_line": 13,
+      "heading": "Gaseous Water-Hydrogen Flucride Mixtures",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 22,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 14
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 26,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "contents",
+      "end_line": 28,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "page",
+      "end_line": 36,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 38,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "i-introduction-1",
+      "end_line": 60,
+      "heading": "I. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "ii-experimental-23",
+      "end_line": 124,
+      "heading": "II. EXPERIMENTAL 23",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "iii-results-44",
+      "end_line": 130,
+      "heading": "III. RESULTS 44",
+      "level": 2,
+      "start_line": 125
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 163,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 186,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 192,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 206,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "physical-properties-of-the-lif-bef-2-system",
+      "end_line": 221,
+      "heading": "Physical Properties of the LiF-BeF $_2$ System",
+      "level": 1,
+      "start_line": 207
+    },
+    {
+      "anchor": "thermodynamic-properties-of-the-various-possible-species",
+      "end_line": 257,
+      "heading": "Thermodynamic Properties of the Various Possible Species",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "thermodynamic-studies-of-molten-salt-mixtures",
+      "end_line": 296,
+      "heading": "Thermodynamic Studies of Molten Salt Mixtures",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "solubilities-of-gases-in-melts",
+      "end_line": 306,
+      "heading": "Solubilities of Gases in Melts",
+      "level": 1,
+      "start_line": 297
+    },
+    {
+      "anchor": "determination-of-oxides-in-melts",
+      "end_line": 318,
+      "heading": "Determination of Oxides in Melts",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "suitable-experimental-approach",
+      "end_line": 322,
+      "heading": "Suitable Experimental Approach",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "transpiration-method",
+      "end_line": 347,
+      "heading": "Transpiration Method",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "equilibria",
+      "end_line": 440,
+      "heading": "Equilibria",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "q-c-q-a-q",
+      "end_line": 477,
+      "heading": "Q _ {C} = Q _ {A} / Q.",
+      "level": 2,
+      "start_line": 441
+    },
+    {
+      "anchor": "saturated-melts",
+      "end_line": 505,
+      "heading": "Saturated Melts",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "unsaturated-melts",
+      "end_line": 543,
+      "heading": "Unsaturated Melts",
+      "level": 1,
+      "start_line": 506
+    },
+    {
+      "anchor": "ii-experimental",
+      "end_line": 545,
+      "heading": "II. EXPERIMENTAL",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "chemicals",
+      "end_line": 547,
+      "heading": "Chemicals",
+      "level": 1,
+      "start_line": 546
+    },
+    {
+      "anchor": "gases",
+      "end_line": 555,
+      "heading": "Gases",
+      "level": 1,
+      "start_line": 548
+    },
+    {
+      "anchor": "apparatus",
+      "end_line": 563,
+      "heading": "Apparatus",
+      "level": 1,
+      "start_line": 556
+    },
+    {
+      "anchor": "flow-control-panel",
+      "end_line": 574,
+      "heading": "Flow Control Panel",
+      "level": 1,
+      "start_line": 564
+    },
+    {
+      "anchor": "aqueous-hf-saturator",
+      "end_line": 580,
+      "heading": "Aqueous HF Saturator",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "anhydrous-hf-mixing-system",
+      "end_line": 584,
+      "heading": "Anhydrous HF Mixing System",
+      "level": 1,
+      "start_line": 581
+    },
+    {
+      "anchor": "reaction-vessel",
+      "end_line": 596,
+      "heading": "Reaction Vessel",
+      "level": 1,
+      "start_line": 585
+    },
+    {
+      "anchor": "titration-assembly",
+      "end_line": 608,
+      "heading": "Titration Assembly",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 610,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 609
+    },
+    {
+      "anchor": "measurements",
+      "end_line": 642,
+      "heading": "Measurements",
+      "level": 1,
+      "start_line": 611
+    },
+    {
+      "anchor": "systematic-errors",
+      "end_line": 854,
+      "heading": "Systematic Errors",
+      "level": 1,
+      "start_line": 643
+    },
+    {
+      "anchor": "random-errors",
+      "end_line": 886,
+      "heading": "Random Errors",
+      "level": 1,
+      "start_line": 855
+    },
+    {
+      "anchor": "statistical-error-analysis",
+      "end_line": 954,
+      "heading": "Statistical Error Analysis",
+      "level": 1,
+      "start_line": 887
+    },
+    {
+      "anchor": "iii-results",
+      "end_line": 956,
+      "heading": "III. RESULTS",
+      "level": 1,
+      "start_line": 955
+    },
+    {
+      "anchor": "tabulation",
+      "end_line": 958,
+      "heading": "Tabulation",
+      "level": 1,
+      "start_line": 957
+    },
+    {
+      "anchor": "saturated-melts",
+      "end_line": 988,
+      "heading": "Saturated Melts",
+      "level": 1,
+      "start_line": 959
+    },
+    {
+      "anchor": "unsaturated-melts",
+      "end_line": 998,
+      "heading": "Unsaturated Melts",
+      "level": 1,
+      "start_line": 989
+    },
+    {
+      "anchor": "determination-of-equilibrium-quotients",
+      "end_line": 1002,
+      "heading": "Determination of Equilibrium Quotients",
+      "level": 1,
+      "start_line": 999
+    },
+    {
+      "anchor": "saturated-melts",
+      "end_line": 1075,
+      "heading": "Saturated Melts",
+      "level": 1,
+      "start_line": 1003
+    },
+    {
+      "anchor": "unsaturated-melts",
+      "end_line": 1193,
+      "heading": "Unsaturated Melts",
+      "level": 1,
+      "start_line": 1076
+    },
+    {
+      "anchor": "validity-of-results",
+      "end_line": 1197,
+      "heading": "Validity of Results",
+      "level": 1,
+      "start_line": 1194
+    },
+    {
+      "anchor": "saturated-melts",
+      "end_line": 1215,
+      "heading": "Saturated Melts",
+      "level": 1,
+      "start_line": 1198
+    },
+    {
+      "anchor": "iv-discussion",
+      "end_line": 1219,
+      "heading": "IV. DISCUSSION",
+      "level": 1,
+      "start_line": 1216
+    },
+    {
+      "anchor": "correlation-of-q",
+      "end_line": 1414,
+      "heading": "Correlation of Q",
+      "level": 1,
+      "start_line": 1220
+    },
+    {
+      "anchor": "thermodynamics-of-mathsf-bef-2-underline-1",
+      "end_line": 1479,
+      "heading": "Thermodynamics of $\\mathsf{BeF}_2(\\underline{1})$",
+      "level": 1,
+      "start_line": 1415
+    },
+    {
+      "anchor": "correlation-of-mathbf-q-mathrm-a",
+      "end_line": 1594,
+      "heading": "Correlation of $\\mathbf{Q}_{\\mathrm{A}}$",
+      "level": 1,
+      "start_line": 1480
+    },
+    {
+      "anchor": "correlation-of-q-0",
+      "end_line": 1660,
+      "heading": "Correlation of $Q_{0}$",
+      "level": 1,
+      "start_line": 1595
+    },
+    {
+      "anchor": "summary",
+      "end_line": 1686,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 1661
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 1752,
+      "heading": "BIBLIOGRAPHY",
+      "level": 1,
+      "start_line": 1687
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1754,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 1753
+    },
+    {
+      "anchor": "partial-pressures-from-studies-on-beo-saturated-melts",
+      "end_line": 2142,
+      "heading": "Partial Pressures from Studies on BeO-Saturated Melts",
+      "level": 1,
+      "start_line": 1755
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 2370,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 2143
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 2372,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 2371
+    },
+    {
+      "anchor": "glossary",
+      "end_line": 2489,
+      "heading": "Glossary",
+      "level": 1,
+      "start_line": 2373
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2495,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2490
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2531,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2496
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1129",
+  "tables": [],
+  "title": "OXIDE CHEMISTRY AND THERMODYNAMICS OF MOLTEN",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "program-history"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

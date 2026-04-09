@@ -1,0 +1,4164 @@
+{
+  "authors": [
+    "PART I",
+    "DESCRIPTION OF REACTOR DESIGN",
+    "R. C. Robertson",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-728.jsonl",
+  "date_text": "1965",
+  "doc_id": "ornl-tm-728",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 113,
+        "line_hits": [
+          720,
+          733,
+          821,
+          898,
+          909,
+          1050,
+          1525,
+          1533,
+          1603,
+          1609,
+          1625,
+          1629,
+          1642,
+          1644,
+          1646,
+          1648,
+          1650,
+          1674,
+          1680,
+          1682,
+          1684,
+          1686,
+          1688,
+          1694,
+          1712,
+          1714,
+          1716,
+          1791,
+          1814,
+          1858,
+          1860,
+          1876,
+          1915,
+          1919,
+          1965,
+          1974,
+          1979,
+          1985,
+          2012,
+          2014,
+          2020,
+          2103,
+          2107,
+          2146,
+          2148,
+          2152,
+          2154,
+          2236,
+          2269,
+          2285
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 105,
+        "line_hits": [
+          156,
+          175,
+          718,
+          720,
+          732,
+          828,
+          898,
+          908,
+          909,
+          928,
+          934,
+          954,
+          956,
+          958,
+          968,
+          970,
+          1068,
+          1543,
+          1547,
+          1625,
+          1629,
+          1631,
+          1633,
+          1638,
+          1640,
+          1644,
+          1646,
+          1648,
+          1650,
+          1674,
+          1680,
+          1682,
+          1684,
+          1686,
+          1688,
+          1694,
+          1696,
+          1698,
+          1700,
+          1702,
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          1714,
+          1716,
+          1718,
+          1722,
+          1724
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 52,
+        "line_hits": [
+          770,
+          1258,
+          1321,
+          1330,
+          2028,
+          2039,
+          2077,
+          2087,
+          2093,
+          2301,
+          2306,
+          2310,
+          2828,
+          2955,
+          2959,
+          2991,
+          3163,
+          3192,
+          3209,
+          3213,
+          3221,
+          3233,
+          3266,
+          3330,
+          3368,
+          3480,
+          3563,
+          3702,
+          3734,
+          3742,
+          3855,
+          3861,
+          3863,
+          3994,
+          4071,
+          4079,
+          4192,
+          4336,
+          4340,
+          4369,
+          4379,
+          4396,
+          4408,
+          4416,
+          4656,
+          4811,
+          4817,
+          4877,
+          4879,
+          5009
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          898,
+          909,
+          1042,
+          2081,
+          2376,
+          2533,
+          2586,
+          2794,
+          3710,
+          5590,
+          5800
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          391,
+          2491,
+          2493,
+          2690,
+          3021,
+          4429,
+          4638,
+          5748
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          3873,
+          3885,
+          4429,
+          4640,
+          5009,
+          5013
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          934,
+          942,
+          1993,
+          1995,
+          3420,
+          4448
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          4018,
+          4020,
+          4022,
+          4033,
+          4035
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          915,
+          934,
+          942
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1974
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1042
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 386,
+        "line_hits": [
+          108,
+          110,
+          133,
+          188,
+          193,
+          204,
+          207,
+          209,
+          303,
+          354,
+          359,
+          419,
+          496,
+          498,
+          520,
+          697,
+          736,
+          737,
+          739,
+          740,
+          741,
+          764,
+          785,
+          795,
+          826,
+          830,
+          833,
+          844,
+          855,
+          918,
+          950,
+          974,
+          976,
+          978,
+          983,
+          985,
+          987,
+          991,
+          995,
+          997,
+          999,
+          1056,
+          1191,
+          1352,
+          1356,
+          1364,
+          1366,
+          1380,
+          1394,
+          1459
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 253,
+        "line_hits": [
+          130,
+          131,
+          260,
+          264,
+          269,
+          270,
+          392,
+          528,
+          559,
+          700,
+          712,
+          751,
+          754,
+          755,
+          824,
+          839,
+          840,
+          849,
+          864,
+          881,
+          972,
+          1013,
+          1015,
+          1017,
+          1030,
+          1058,
+          1094,
+          1102,
+          1108,
+          1118,
+          1185,
+          1189,
+          1191,
+          1217,
+          1230,
+          1279,
+          1281,
+          1283,
+          1328,
+          1334,
+          1336,
+          1338,
+          1340,
+          1348,
+          1350,
+          1358,
+          1376,
+          1378,
+          1380,
+          1396
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 105,
+        "line_hits": [
+          116,
+          140,
+          340,
+          435,
+          440,
+          762,
+          780,
+          781,
+          785,
+          787,
+          789,
+          854,
+          856,
+          857,
+          858,
+          980,
+          985,
+          1044,
+          1046,
+          1058,
+          1398,
+          1423,
+          1425,
+          1431,
+          1433,
+          1435,
+          1439,
+          1443,
+          1923,
+          1933,
+          1955,
+          2140,
+          2216,
+          2230,
+          2232,
+          2335,
+          2901,
+          2903,
+          3045,
+          3105,
+          3345,
+          3355,
+          3357,
+          3436,
+          3474,
+          3476,
+          3478,
+          3480,
+          3534,
+          3793
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 90,
+        "line_hits": [
+          228,
+          243,
+          248,
+          249,
+          250,
+          251,
+          746,
+          747,
+          748,
+          749,
+          836,
+          1034,
+          1459,
+          1527,
+          1591,
+          1595,
+          1627,
+          2053,
+          2439,
+          2608,
+          2610,
+          2612,
+          2614,
+          2616,
+          2618,
+          2631,
+          2633,
+          2637,
+          2639,
+          2641,
+          2643,
+          2649,
+          2655,
+          2661,
+          2663,
+          2672,
+          2676,
+          2680,
+          2684,
+          2688,
+          2690,
+          2696,
+          2698,
+          2704,
+          2708,
+          2717,
+          2723,
+          2725,
+          2729,
+          2731
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 81,
+        "line_hits": [
+          175,
+          275,
+          347,
+          732,
+          758,
+          760,
+          761,
+          762,
+          843,
+          1062,
+          1289,
+          1402,
+          1547,
+          1571,
+          1696,
+          1860,
+          1876,
+          1890,
+          1909,
+          1919,
+          1921,
+          1935,
+          1952,
+          2101,
+          2174,
+          2287,
+          2941,
+          3065,
+          3071,
+          3075,
+          3079,
+          3085,
+          3105,
+          3109,
+          3111,
+          3117,
+          3132,
+          3161,
+          3165,
+          3168,
+          3182,
+          3198,
+          3286,
+          3293,
+          3297,
+          3313,
+          3315,
+          3324,
+          3336,
+          3338
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 77,
+        "line_hits": [
+          109,
+          215,
+          698,
+          742,
+          743,
+          834,
+          950,
+          993,
+          995,
+          1006,
+          1481,
+          1503,
+          1507,
+          1511,
+          1523,
+          1525,
+          1583,
+          1585,
+          1587,
+          1822,
+          2291,
+          2343,
+          2345,
+          2347,
+          2351,
+          2358,
+          2360,
+          2383,
+          2387,
+          2395,
+          2401,
+          2407,
+          2415,
+          2421,
+          2425,
+          2427,
+          2429,
+          2433,
+          2437,
+          2451,
+          2453,
+          2459,
+          2463,
+          2467,
+          2469,
+          2493,
+          2776,
+          2821,
+          3420,
+          3428
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 47,
+        "line_hits": [
+          169,
+          173,
+          717,
+          719,
+          728,
+          729,
+          730,
+          907,
+          970,
+          1062,
+          1068,
+          1070,
+          1543,
+          1621,
+          1644,
+          1659,
+          1694,
+          1696,
+          1730,
+          1814,
+          1848,
+          1856,
+          1860,
+          1864,
+          1866,
+          1868,
+          1870,
+          1872,
+          1874,
+          1876,
+          1878,
+          1880,
+          1883,
+          1886,
+          1888,
+          1890,
+          1894,
+          1896,
+          1899,
+          1901,
+          1905,
+          1907,
+          4917,
+          4933,
+          5791,
+          5792,
+          5793
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 34,
+        "line_hits": [
+          737,
+          764,
+          2107,
+          2130,
+          2163,
+          2196,
+          2236,
+          2291,
+          2449,
+          3067,
+          3398,
+          3402,
+          3422,
+          3428,
+          3486,
+          3488,
+          3504,
+          3508,
+          3518,
+          3520,
+          3534,
+          3540,
+          3546,
+          3550,
+          3554,
+          3559,
+          3563,
+          3748,
+          3970,
+          3974,
+          3976,
+          4255,
+          4795,
+          4887
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          1149,
+          1511,
+          1714,
+          1820,
+          1830,
+          2105,
+          2443,
+          2459,
+          2864,
+          2922,
+          2943,
+          3069,
+          3132,
+          3819,
+          4919,
+          5105,
+          5109,
+          5508
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          909,
+          928,
+          1911
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 400,
+        "line_hits": [
+          1,
+          17,
+          40,
+          50,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          77,
+          701,
+          898,
+          900,
+          902,
+          918,
+          924,
+          938,
+          1086,
+          1124,
+          1130,
+          1134,
+          1137,
+          1153,
+          1160,
+          1171,
+          1469,
+          1503,
+          1521,
+          1541,
+          1549,
+          1603,
+          1607,
+          1627,
+          1629,
+          1631,
+          1633,
+          1642,
+          1655,
+          1661,
+          1680,
+          1682,
+          1684,
+          1686,
+          1704,
+          1876
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          27,
+          44,
+          918,
+          1086,
+          5749,
+          6698,
+          6700,
+          6702,
+          6704,
+          6708
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          2796,
+          3634,
+          5338,
+          5460,
+          5462,
+          5472,
+          5558,
+          5578,
+          5580
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          23,
+          2885,
+          2918,
+          4168,
+          5927
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 736,
+        "line_hits": [
+          64,
+          900,
+          902,
+          907,
+          908,
+          909,
+          912,
+          924,
+          942,
+          950,
+          956,
+          968,
+          970,
+          978,
+          985,
+          989,
+          1011,
+          1015,
+          1017,
+          1023,
+          1027,
+          1034,
+          1038,
+          1042,
+          1062,
+          1072,
+          1074,
+          1084,
+          1086,
+          1090,
+          1092,
+          1094,
+          1106,
+          1108,
+          1110,
+          1114,
+          1116,
+          1118,
+          1128,
+          1130,
+          1145,
+          1149,
+          1160,
+          1164,
+          1166,
+          1181,
+          1183,
+          1191,
+          1199,
+          1201
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 284,
+        "line_hits": [
+          7,
+          38,
+          50,
+          52,
+          64,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          79,
+          83,
+          683,
+          685,
+          694,
+          695,
+          697,
+          702,
+          703,
+          704,
+          705,
+          707,
+          716,
+          726,
+          743,
+          798,
+          812,
+          814,
+          828,
+          833,
+          836,
+          837,
+          838,
+          886,
+          898,
+          918,
+          920,
+          924,
+          926,
+          928,
+          934,
+          942,
+          950,
+          961,
+          983
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          902,
+          924,
+          1128,
+          1164,
+          1183,
+          1246,
+          3573,
+          5194,
+          5249,
+          5266,
+          5278,
+          5290,
+          5558,
+          5755,
+          5903
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1141,
+          4200
+        ],
+        "name": "HRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5746
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5778
+        ],
+        "name": "MSCR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          1832
+        ],
+        "name": "two-fluid breeder"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 5,
+        "line_hits": [
+          5756,
+          5787,
+          5859,
+          5861,
+          5869
+        ],
+        "name": "MSR Program Semiannual Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          942,
+          946,
+          3033,
+          3069
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1084,
+          6289,
+          6291
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          909,
+          915,
+          934
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          942,
+          946
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          915,
+          946
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          946
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          946
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "dee4a2884d98ef1627473cc009219009c326279ca04c29e9379e3fdde470d99d",
+  "markdown_path": "pdf/ORNL-TM-0728/ORNL-TM-0728/hybrid_ocr/ORNL-TM-0728.md",
+  "report_number": "ORNL-TM-728",
+  "report_numbers": [
+    "ORNL-TM-728",
+    "ORNL-TM-729",
+    "ORNL-TM-730",
+    "ORNL-TM-731",
+    "ORNL-TM-732",
+    "ORNL-TM-733",
+    "ORNL-TM-907",
+    "ORNL-TM-908",
+    "ORNL-TM-909",
+    "ORNL-TM-910"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 436,
+  "sections": [
+    {
+      "anchor": "ornl-tm-728",
+      "end_line": 6,
+      "heading": "Ornl-Tm-728",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 8,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "part-i",
+      "end_line": 10,
+      "heading": "Part I",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "description-of-reactor-design",
+      "end_line": 14,
+      "heading": "Description Of Reactor Design",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "january-1965",
+      "end_line": 16,
+      "heading": "January 1965",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 35,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "preface",
+      "end_line": 47,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 61,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "general-index",
+      "end_line": 76,
+      "heading": "GENERAL INDEX",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "ornl-tm-911",
+      "end_line": 84,
+      "heading": "Ornl-Tm-911**",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "contents",
+      "end_line": 86,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "page",
+      "end_line": 88,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "preface-v",
+      "end_line": 98,
+      "heading": "Preface V",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "1-introduction-3",
+      "end_line": 99,
+      "heading": "1. INTRODUCTION 3",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "2-general-description-7",
+      "end_line": 121,
+      "heading": "2. GENERAL DESCRIPTION 7",
+      "level": 2,
+      "start_line": 100
+    },
+    {
+      "anchor": "3-site-27",
+      "end_line": 122,
+      "heading": "3. SITE 27",
+      "level": 2,
+      "start_line": 122
+    },
+    {
+      "anchor": "4-plant-35",
+      "end_line": 148,
+      "heading": "4. PLANT 35",
+      "level": 2,
+      "start_line": 123
+    },
+    {
+      "anchor": "5-fuel-circulating-system-63",
+      "end_line": 187,
+      "heading": "5. FUEL CIRCULATING SYSTEM 63",
+      "level": 1,
+      "start_line": 149
+    },
+    {
+      "anchor": "5-4-fuel-circulating-pump-133",
+      "end_line": 259,
+      "heading": "5.4 Fuel Circulating Pump 133",
+      "level": 1,
+      "start_line": 188
+    },
+    {
+      "anchor": "6-fuel-drain-tank-system-220",
+      "end_line": 274,
+      "heading": "6. FUEL DRAIN TANK SYSTEM 220",
+      "level": 2,
+      "start_line": 260
+    },
+    {
+      "anchor": "7-sampler-enricher-system-244",
+      "end_line": 348,
+      "heading": "7. SAMPLER-ENRICHER SYSTEM 244",
+      "level": 2,
+      "start_line": 275
+    },
+    {
+      "anchor": "8-coolant-salt-circulating-system-277",
+      "end_line": 387,
+      "heading": "8. COOLANT-SALT CIRCULATING SYSTEM 277",
+      "level": 2,
+      "start_line": 349
+    },
+    {
+      "anchor": "9-coolant-salt-storage-system-315",
+      "end_line": 403,
+      "heading": "9. COOLANT-SALT STORAGE SYSTEM 315",
+      "level": 2,
+      "start_line": 388
+    },
+    {
+      "anchor": "10-cover-gas-system-325",
+      "end_line": 425,
+      "heading": "10. COVER-GAS SYSTEM 325",
+      "level": 2,
+      "start_line": 404
+    },
+    {
+      "anchor": "11-leak-detector-system-344",
+      "end_line": 434,
+      "heading": "11．Leak Detector System 344",
+      "level": 2,
+      "start_line": 426
+    },
+    {
+      "anchor": "12-off-gas-disposal-system-356",
+      "end_line": 453,
+      "heading": "12. OFF-GAS DISPOSAL SYSTEM 356",
+      "level": 2,
+      "start_line": 435
+    },
+    {
+      "anchor": "13-containment-ventilation-system-383",
+      "end_line": 481,
+      "heading": "13. CONTAINMENT VENTILATION SYSTEM 383",
+      "level": 2,
+      "start_line": 454
+    },
+    {
+      "anchor": "14-liquid-waste-system-397",
+      "end_line": 502,
+      "heading": "14. LIQUID WASTE SYSTEM 397",
+      "level": 2,
+      "start_line": 482
+    },
+    {
+      "anchor": "15-cooling-water-system-408",
+      "end_line": 538,
+      "heading": "15. COOLING WATER SYSTEM 408",
+      "level": 2,
+      "start_line": 503
+    },
+    {
+      "anchor": "16-component-cooling-systems-428",
+      "end_line": 555,
+      "heading": "16. COMPONENT COOLING SYSTEMS 428",
+      "level": 2,
+      "start_line": 539
+    },
+    {
+      "anchor": "17-containment-439",
+      "end_line": 565,
+      "heading": "17. CONTAINMENT 439",
+      "level": 2,
+      "start_line": 556
+    },
+    {
+      "anchor": "18-biological-shielding-449",
+      "end_line": 568,
+      "heading": "18. BIOLOGICAL SHIELDING 449",
+      "level": 2,
+      "start_line": 566
+    },
+    {
+      "anchor": "19-electrical-services-453",
+      "end_line": 654,
+      "heading": "19. ELECTRICAL SERVICES 453",
+      "level": 2,
+      "start_line": 569
+    },
+    {
+      "anchor": "20-building-services-506",
+      "end_line": 674,
+      "heading": "20. BUILDING SERVICES 506",
+      "level": 2,
+      "start_line": 655
+    },
+    {
+      "anchor": "appendix-513",
+      "end_line": 688,
+      "heading": "Appendix 513",
+      "level": 2,
+      "start_line": 675
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 817,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 689
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 885,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 818
+    },
+    {
+      "anchor": "molten-salt-reactor-experiment",
+      "end_line": 887,
+      "heading": "Molten-Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 886
+    },
+    {
+      "anchor": "part-i",
+      "end_line": 889,
+      "heading": "PART I",
+      "level": 1,
+      "start_line": 888
+    },
+    {
+      "anchor": "description-of-reactor-design",
+      "end_line": 895,
+      "heading": "DESCRIPTION OF REACTOR DESIGN",
+      "level": 1,
+      "start_line": 890
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 929,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 896
+    },
+    {
+      "anchor": "2-general-description",
+      "end_line": 931,
+      "heading": "2. GENERAL DESCRIPTION",
+      "level": 1,
+      "start_line": 930
+    },
+    {
+      "anchor": "2-1-type",
+      "end_line": 935,
+      "heading": "2.1 Type",
+      "level": 1,
+      "start_line": 932
+    },
+    {
+      "anchor": "2-2-location",
+      "end_line": 939,
+      "heading": "2.2. Location",
+      "level": 1,
+      "start_line": 936
+    },
+    {
+      "anchor": "2-3-fuel-and-coolant-salts",
+      "end_line": 947,
+      "heading": "2.3 Fuel and Coolant Salts",
+      "level": 1,
+      "start_line": 940
+    },
+    {
+      "anchor": "2-4-equipment-and-process",
+      "end_line": 951,
+      "heading": "2.4 Equipment and Process",
+      "level": 1,
+      "start_line": 948
+    },
+    {
+      "anchor": "2-4-1-reactor",
+      "end_line": 973,
+      "heading": "2.4.1 Reactor",
+      "level": 1,
+      "start_line": 952
+    },
+    {
+      "anchor": "2-4-2-fuel-pump",
+      "end_line": 982,
+      "heading": "2.4.2 Fuel Pump",
+      "level": 1,
+      "start_line": 974
+    },
+    {
+      "anchor": "fig-2-3-msre-fuel-pump",
+      "end_line": 992,
+      "heading": "Fig. 2.3. Msre Fuel Pump",
+      "level": 2,
+      "start_line": 983
+    },
+    {
+      "anchor": "2-4-3-heat-exchanger",
+      "end_line": 996,
+      "heading": "2.4.3 Heat Exchanger",
+      "level": 1,
+      "start_line": 993
+    },
+    {
+      "anchor": "2-4-4-coolant-pump",
+      "end_line": 1000,
+      "heading": "2.4.4 Coolant Pump",
+      "level": 1,
+      "start_line": 997
+    },
+    {
+      "anchor": "2-4-5-radiator",
+      "end_line": 1012,
+      "heading": "2.4.5 Radiator",
+      "level": 1,
+      "start_line": 1001
+    },
+    {
+      "anchor": "2-4-6-drain-tank-systems",
+      "end_line": 1024,
+      "heading": "2.4.6 Drain Tank Systems",
+      "level": 1,
+      "start_line": 1013
+    },
+    {
+      "anchor": "2-4-7-piping-and-flanges",
+      "end_line": 1035,
+      "heading": "2.4.7 Piping and Flanges",
+      "level": 1,
+      "start_line": 1025
+    },
+    {
+      "anchor": "2-4-8-heaters",
+      "end_line": 1039,
+      "heading": "2.4.8 Heaters",
+      "level": 1,
+      "start_line": 1036
+    },
+    {
+      "anchor": "2-4-9-materials",
+      "end_line": 1045,
+      "heading": "2.4.9 Materials",
+      "level": 1,
+      "start_line": 1040
+    },
+    {
+      "anchor": "2-4-10-cover-and-off-gas-systems",
+      "end_line": 1059,
+      "heading": "2.4.10 Cover- and Off-Gas Systems",
+      "level": 1,
+      "start_line": 1046
+    },
+    {
+      "anchor": "2-4-11-instrumentation-and-control-systems",
+      "end_line": 1075,
+      "heading": "2.4.11 Instrumentation and Control Systems",
+      "level": 1,
+      "start_line": 1060
+    },
+    {
+      "anchor": "2-5-fuel-processing",
+      "end_line": 1087,
+      "heading": "2.5 Fuel Processing",
+      "level": 1,
+      "start_line": 1076
+    },
+    {
+      "anchor": "2-6-plant-arrangement",
+      "end_line": 1121,
+      "heading": "2.6 Plant Arrangement",
+      "level": 1,
+      "start_line": 1088
+    },
+    {
+      "anchor": "3-site",
+      "end_line": 1131,
+      "heading": "3. SITE",
+      "level": 1,
+      "start_line": 1122
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 1133,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 1132
+    },
+    {
+      "anchor": "ornl-lr-dwg-4406r",
+      "end_line": 1152,
+      "heading": "Ornl-Lr-Dwg 4406R",
+      "level": 2,
+      "start_line": 1134
+    },
+    {
+      "anchor": "ornl-dwg-64-8806",
+      "end_line": 1176,
+      "heading": "Ornl-Dwg 64-8806",
+      "level": 2,
+      "start_line": 1153
+    },
+    {
+      "anchor": "4-plant",
+      "end_line": 1178,
+      "heading": "4. PLANT",
+      "level": 1,
+      "start_line": 1177
+    },
+    {
+      "anchor": "4-1-general",
+      "end_line": 1206,
+      "heading": "4.1 General",
+      "level": 1,
+      "start_line": 1179
+    },
+    {
+      "anchor": "4-2-offices",
+      "end_line": 1210,
+      "heading": "4.2 Offices",
+      "level": 1,
+      "start_line": 1207
+    },
+    {
+      "anchor": "4-3-building",
+      "end_line": 1243,
+      "heading": "4.3 Building",
+      "level": 1,
+      "start_line": 1211
+    },
+    {
+      "anchor": "4-3-1-reactor-cell",
+      "end_line": 1280,
+      "heading": "4.3.1 Reactor Cell",
+      "level": 1,
+      "start_line": 1244
+    },
+    {
+      "anchor": "4-3-2-drain-tank-cell",
+      "end_line": 1292,
+      "heading": "4.3.2 Drain Tank Cell",
+      "level": 1,
+      "start_line": 1281
+    },
+    {
+      "anchor": "dkkd-40976-ebbd-41863-ebbd-41864-emmz-56230-emmz-56246",
+      "end_line": 1293,
+      "heading": "Dkkd-40976, Ebbd-41863, Ebbd-41864, Emmz-56230, Emmz-56246",
+      "level": 2,
+      "start_line": 1293
+    },
+    {
+      "anchor": "dkkd-40976-ebbd-41863-ebbd-41864-emmz-56230-emmz-56246",
+      "end_line": 1294,
+      "heading": "Dkkd-40976, Ebbd-41863, Ebbd-41864, Emmz-56230, Emmz-56246",
+      "level": 2,
+      "start_line": 1294
+    },
+    {
+      "anchor": "dkkd-40976-ebbd-41863-ebbd-41864-dhhb-55567",
+      "end_line": 1295,
+      "heading": "Dkkd-40976, Ebbd-41863, Ebbd-41864, Dhhb-55567",
+      "level": 2,
+      "start_line": 1295
+    },
+    {
+      "anchor": "dkkd-40976-ebbd-41863-ebbd-41864-dhhb-55567",
+      "end_line": 1296,
+      "heading": "Dkkd-40976, Ebbd-41863, Ebbd-41864, Dhhb-55567",
+      "level": 2,
+      "start_line": 1296
+    },
+    {
+      "anchor": "dkkd-40973-dkkd-40974",
+      "end_line": 1297,
+      "heading": "Dkkd-40973, Dkkd-40974",
+      "level": 2,
+      "start_line": 1297
+    },
+    {
+      "anchor": "dkkd-40973-dkkd-40974-dbbc-41339",
+      "end_line": 1298,
+      "heading": "Dkkd-40973, Dkkd-40974, Dbbc-41339",
+      "level": 2,
+      "start_line": 1298
+    },
+    {
+      "anchor": "dkkd-40717-ekkd-40735",
+      "end_line": 1299,
+      "heading": "Dkkd-40717, Ekkd-40735",
+      "level": 2,
+      "start_line": 1299
+    },
+    {
+      "anchor": "dkkd-40716-ekkd-40715-ehha-41796",
+      "end_line": 1300,
+      "heading": "Dkkd-40716, Ekkd-40715, Ehha-41796",
+      "level": 2,
+      "start_line": 1300
+    },
+    {
+      "anchor": "dkkd-40973-dkkd-40975-eggd-55411-ejjd-55428",
+      "end_line": 1301,
+      "heading": "Dkkd-40973, Dkkd-40975, Eggd-55411, Ejjd-55428",
+      "level": 2,
+      "start_line": 1301
+    },
+    {
+      "anchor": "dkkd-40718-ekkd-40737-eggd-55411",
+      "end_line": 1302,
+      "heading": "Dkkd-40718, Ekkd-40737, Eggd-55411",
+      "level": 2,
+      "start_line": 1302
+    },
+    {
+      "anchor": "dkkd-40714-eggd-55411",
+      "end_line": 1303,
+      "heading": "Dkkd-40714, Eggd-55411",
+      "level": 2,
+      "start_line": 1303
+    },
+    {
+      "anchor": "ekkd-40711-eggz-55498",
+      "end_line": 1304,
+      "heading": "Ekkd-40711, Eggz-55498",
+      "level": 2,
+      "start_line": 1304
+    },
+    {
+      "anchor": "dkkd-40740-dkkd-40741",
+      "end_line": 1305,
+      "heading": "Dkkd-40740, Dkkd-40741",
+      "level": 2,
+      "start_line": 1305
+    },
+    {
+      "anchor": "dkkd-40740-dkkd-40741",
+      "end_line": 1306,
+      "heading": "Dkkd-40740, Dkkd-40741",
+      "level": 2,
+      "start_line": 1306
+    },
+    {
+      "anchor": "dkkd-40740-dkkd-40741",
+      "end_line": 1307,
+      "heading": "Dkkd-40740, Dkkd-40741",
+      "level": 2,
+      "start_line": 1307
+    },
+    {
+      "anchor": "dkkd-40740-dkkd-40741",
+      "end_line": 1308,
+      "heading": "Dkkd-40740, Dkkd-40741",
+      "level": 2,
+      "start_line": 1308
+    },
+    {
+      "anchor": "dkkd-40740-dkkd-40741",
+      "end_line": 1309,
+      "heading": "Dkkd-40740, Dkkd-40741",
+      "level": 2,
+      "start_line": 1309
+    },
+    {
+      "anchor": "dkkd-40712-eggz-55498",
+      "end_line": 1310,
+      "heading": "Dkkd-40712, Eggz-55498",
+      "level": 2,
+      "start_line": 1310
+    },
+    {
+      "anchor": "dkkd-40740-dkkd-40741",
+      "end_line": 1311,
+      "heading": "Dkkd-40740, Dkkd-40741",
+      "level": 2,
+      "start_line": 1311
+    },
+    {
+      "anchor": "dkkd-40740-dkkd-40741",
+      "end_line": 1312,
+      "heading": "Dkkd-40740, Dkkd-40741",
+      "level": 2,
+      "start_line": 1312
+    },
+    {
+      "anchor": "dkkd-40710-ekkd-40749",
+      "end_line": 1313,
+      "heading": "Dkkd-40710, Ekkd-40749",
+      "level": 2,
+      "start_line": 1313
+    },
+    {
+      "anchor": "dkkd-40976-ebbd-41863-ebbd-41864-dhhb-55567",
+      "end_line": 1335,
+      "heading": "Dkkd-40976, Ebbd-41863, Ebbd-41864, Dhhb-55567",
+      "level": 2,
+      "start_line": 1314
+    },
+    {
+      "anchor": "4-3-3-coolant-cell-and-coolant-drain-tank-cell",
+      "end_line": 1353,
+      "heading": "4.3.3 Coolant Cell and Coolant Drain Tank Cell",
+      "level": 1,
+      "start_line": 1336
+    },
+    {
+      "anchor": "4-3-4-special-equipment-room",
+      "end_line": 1363,
+      "heading": "4.3.4 Special Equipment Room",
+      "level": 1,
+      "start_line": 1354
+    },
+    {
+      "anchor": "4-3-5-pump-room",
+      "end_line": 1367,
+      "heading": "4.3.5 Pump Room",
+      "level": 1,
+      "start_line": 1364
+    },
+    {
+      "anchor": "4-3-6-service-tunnel",
+      "end_line": 1373,
+      "heading": "4.3.6 Service Tunnel",
+      "level": 1,
+      "start_line": 1368
+    },
+    {
+      "anchor": "4-3-7-transmitter-room-and-electric-service-areas",
+      "end_line": 1381,
+      "heading": "4.3.7 Transmitter Room and Electric Service Areas",
+      "level": 1,
+      "start_line": 1374
+    },
+    {
+      "anchor": "4-3-8-auxiliary-cells",
+      "end_line": 1399,
+      "heading": "4.3.8 Auxiliary Cells",
+      "level": 1,
+      "start_line": 1382
+    },
+    {
+      "anchor": "4-3-9-high-bay-containment-enclosure",
+      "end_line": 1416,
+      "heading": "4.3.9 High-Bay Containment Enclosure",
+      "level": 1,
+      "start_line": 1400
+    },
+    {
+      "anchor": "4-3-10-maintenance-control-room",
+      "end_line": 1422,
+      "heading": "4.3.10 Maintenance Control Room",
+      "level": 1,
+      "start_line": 1417
+    },
+    {
+      "anchor": "4-4-off-gas-area",
+      "end_line": 1440,
+      "heading": "4.4 Off-Gas Area",
+      "level": 1,
+      "start_line": 1423
+    },
+    {
+      "anchor": "4-5-stack-area",
+      "end_line": 1450,
+      "heading": "4.5 Stack Area",
+      "level": 1,
+      "start_line": 1441
+    },
+    {
+      "anchor": "4-6-vapor-condensing-tanks",
+      "end_line": 1454,
+      "heading": "4.6 Vapor-Condensing Tanks",
+      "level": 1,
+      "start_line": 1451
+    },
+    {
+      "anchor": "4-7-blower-house",
+      "end_line": 1466,
+      "heading": "4.7 Blower House",
+      "level": 1,
+      "start_line": 1455
+    },
+    {
+      "anchor": "4-8-store-room-and-cooling-tower",
+      "end_line": 1472,
+      "heading": "4.8 Store Room and Cooling Tower",
+      "level": 1,
+      "start_line": 1467
+    },
+    {
+      "anchor": "4-9-diesel-house",
+      "end_line": 1498,
+      "heading": "4.9 Diesel House",
+      "level": 1,
+      "start_line": 1473
+    },
+    {
+      "anchor": "5-fuel-circulating-system",
+      "end_line": 1500,
+      "heading": "5. FUEL CIRCULATING SYSTEM",
+      "level": 1,
+      "start_line": 1499
+    },
+    {
+      "anchor": "5-1-layout",
+      "end_line": 1513,
+      "heading": "5.1 Layout",
+      "level": 1,
+      "start_line": 1501
+    },
+    {
+      "anchor": "fig-5-1-reactor-cell-plan",
+      "end_line": 1516,
+      "heading": "Fig. 5.1. Reactor Cell Plan.",
+      "level": 2,
+      "start_line": 1514
+    },
+    {
+      "anchor": "fig-5-2-reactor-cell-elevation",
+      "end_line": 1518,
+      "heading": "Fig. 5.2. Reactor Cell Elevation.",
+      "level": 2,
+      "start_line": 1517
+    },
+    {
+      "anchor": "5-2-flowsheet",
+      "end_line": 1530,
+      "heading": "5.2 Flowsheet",
+      "level": 1,
+      "start_line": 1519
+    },
+    {
+      "anchor": "figure-5-3",
+      "end_line": 1596,
+      "heading": "Figure 5.3",
+      "level": 2,
+      "start_line": 1531
+    },
+    {
+      "anchor": "5-3-reactor-vessel-and-core",
+      "end_line": 1600,
+      "heading": "5.3 Reactor Vessel and Core",
+      "level": 1,
+      "start_line": 1597
+    },
+    {
+      "anchor": "5-3-1-description",
+      "end_line": 1614,
+      "heading": "5.3.1 Description",
+      "level": 1,
+      "start_line": 1601
+    },
+    {
+      "anchor": "cross-section",
+      "end_line": 1615,
+      "heading": "Cross Section",
+      "level": 2,
+      "start_line": 1615
+    },
+    {
+      "anchor": "msre-reactor-vessel-and-access-nozzle",
+      "end_line": 1634,
+      "heading": "Msre Reactor Vessel And Access Nozzle",
+      "level": 2,
+      "start_line": 1616
+    },
+    {
+      "anchor": "unclassified-l-lr-dwg-56874-r",
+      "end_line": 1637,
+      "heading": "Unclassified L-Lr-Dwg 56874 R",
+      "level": 2,
+      "start_line": 1635
+    },
+    {
+      "anchor": "fig-5-6-typical-graphite-stringer-arrangement",
+      "end_line": 1652,
+      "heading": "Fig. 5.6. Typical Graphite Stringer Arrangement",
+      "level": 2,
+      "start_line": 1638
+    },
+    {
+      "anchor": "typical-fuel-passage",
+      "end_line": 1657,
+      "heading": "Typical Fuel Passage",
+      "level": 2,
+      "start_line": 1653
+    },
+    {
+      "anchor": "note-stringers-nos-7-60-and-61-five-are-removable",
+      "end_line": 1697,
+      "heading": "Note: Stringers Nos. 7, 60 And 61 (Five) Are Removable.",
+      "level": 2,
+      "start_line": 1658
+    },
+    {
+      "anchor": "5-3-2-graphite",
+      "end_line": 1845,
+      "heading": "5.3.2 Graphite",
+      "level": 1,
+      "start_line": 1698
+    },
+    {
+      "anchor": "5-3-4-reactor-access-nozzle-plug-and-strainer",
+      "end_line": 1863,
+      "heading": "5.3.4 Reactor Access Nozzle, Plug, and Strainer",
+      "level": 1,
+      "start_line": 1846
+    },
+    {
+      "anchor": "5-3-5-control-rods",
+      "end_line": 1908,
+      "heading": "5.3.5 Control Rods",
+      "level": 1,
+      "start_line": 1864
+    },
+    {
+      "anchor": "5-3-6-graphite-sampler",
+      "end_line": 1946,
+      "heading": "5.3.6 Graphite Sampler",
+      "level": 1,
+      "start_line": 1909
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 1948,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 1947
+    },
+    {
+      "anchor": "ornl-dwg-64-6745",
+      "end_line": 1951,
+      "heading": "Ornl-Dwg.64-6745",
+      "level": 2,
+      "start_line": 1949
+    },
+    {
+      "anchor": "work-shield-for-graphite-sampler",
+      "end_line": 1952,
+      "heading": "Work Shield For Graphite Sampler",
+      "level": 2,
+      "start_line": 1952
+    },
+    {
+      "anchor": "fig-5-17",
+      "end_line": 1958,
+      "heading": "Fig. 5.17",
+      "level": 2,
+      "start_line": 1953
+    },
+    {
+      "anchor": "5-3-7-mechanical-design-of-reactor-vessel",
+      "end_line": 1990,
+      "heading": "5.3.7 Mechanical Design of Reactor Vessel",
+      "level": 1,
+      "start_line": 1959
+    },
+    {
+      "anchor": "5-3-8-tubes-for-neutron-source-and-special-detectors",
+      "end_line": 2002,
+      "heading": "5.3.8 Tubes for Neutron Source and Special Detectors",
+      "level": 1,
+      "start_line": 1991
+    },
+    {
+      "anchor": "5-3-9-support",
+      "end_line": 2021,
+      "heading": "5.3.9 Support",
+      "level": 1,
+      "start_line": 2003
+    },
+    {
+      "anchor": "5-3-10-thermal-shield",
+      "end_line": 2072,
+      "heading": "5.3.10 Thermal Shield",
+      "level": 1,
+      "start_line": 2022
+    },
+    {
+      "anchor": "5-3-11-heaters",
+      "end_line": 2094,
+      "heading": "5.3.11 Heaters",
+      "level": 1,
+      "start_line": 2073
+    },
+    {
+      "anchor": "5-4-fuel-circulation-pump",
+      "end_line": 2127,
+      "heading": "5.4 Fuel Circulation Pump",
+      "level": 1,
+      "start_line": 2095
+    },
+    {
+      "anchor": "5-4-1-description",
+      "end_line": 2162,
+      "heading": "5.4.1 Description",
+      "level": 1,
+      "start_line": 2128
+    },
+    {
+      "anchor": "fig-5-22-fuel-salt-pump-bridge-and",
+      "end_line": 2163,
+      "heading": "Fig. 5.22. Fuel-Salt Pump Bridge And",
+      "level": 2,
+      "start_line": 2163
+    },
+    {
+      "anchor": "impeller-seal-clearances",
+      "end_line": 2233,
+      "heading": "Impeller Seal Clearances",
+      "level": 2,
+      "start_line": 2164
+    },
+    {
+      "anchor": "5-4-2-hydraulics",
+      "end_line": 2252,
+      "heading": "5.4.2 Hydraulics",
+      "level": 1,
+      "start_line": 2234
+    },
+    {
+      "anchor": "5-4-3-mechanical-design-considerations",
+      "end_line": 2280,
+      "heading": "5.4.3 Mechanical Design Considerations",
+      "level": 1,
+      "start_line": 2253
+    },
+    {
+      "anchor": "5-4-4-thermal-stress-design-considerations",
+      "end_line": 2288,
+      "heading": "5.4.4 Thermal-Stress Design Considerations",
+      "level": 1,
+      "start_line": 2281
+    },
+    {
+      "anchor": "5-4-5-pump-supports",
+      "end_line": 2296,
+      "heading": "5.4.5 Pump Supports",
+      "level": 1,
+      "start_line": 2289
+    },
+    {
+      "anchor": "5-4-6-heaters",
+      "end_line": 2315,
+      "heading": "5.4.6 Heaters",
+      "level": 1,
+      "start_line": 2297
+    },
+    {
+      "anchor": "5-4-7-fuel-pump-overflow-tank",
+      "end_line": 2342,
+      "heading": "5.4.7 Fuel-Pump Overflow Tank",
+      "level": 1,
+      "start_line": 2316
+    },
+    {
+      "anchor": "5-5-fuel-heat-exchanger",
+      "end_line": 2348,
+      "heading": "5.5 Fuel Heat Exchanger",
+      "level": 1,
+      "start_line": 2343
+    },
+    {
+      "anchor": "5-5-1-description",
+      "end_line": 2392,
+      "heading": "5.5.1 Description",
+      "level": 1,
+      "start_line": 2349
+    },
+    {
+      "anchor": "5-5-2-design-considerations",
+      "end_line": 2422,
+      "heading": "5.5.2 Design Considerations",
+      "level": 1,
+      "start_line": 2393
+    },
+    {
+      "anchor": "5-5-3-supports",
+      "end_line": 2434,
+      "heading": "5.5.3 Supports",
+      "level": 1,
+      "start_line": 2423
+    },
+    {
+      "anchor": "5-5-4-heaters",
+      "end_line": 2438,
+      "heading": "5.5.4 Heaters",
+      "level": 1,
+      "start_line": 2435
+    },
+    {
+      "anchor": "5-6-primary-circulating-system-piping-supports-heaters-insulation-freeze-flanges-and-freeze-valves",
+      "end_line": 2440,
+      "heading": "5.6 Primary Circulating System Piping, Supports, Heaters, Insulation, Freeze Flanges and Freeze Valves.",
+      "level": 1,
+      "start_line": 2439
+    },
+    {
+      "anchor": "5-6-1-piping",
+      "end_line": 2456,
+      "heading": "5.6.1 Piping",
+      "level": 1,
+      "start_line": 2441
+    },
+    {
+      "anchor": "5-6-2-piping-stresses-and-flexibility-analysis",
+      "end_line": 2472,
+      "heading": "5.6.2 Piping Stresses and Flexibility Analysis",
+      "level": 1,
+      "start_line": 2457
+    },
+    {
+      "anchor": "5-6-3-supports",
+      "end_line": 2498,
+      "heading": "5.6.3 Supports",
+      "level": 1,
+      "start_line": 2473
+    },
+    {
+      "anchor": "5-6-4-freeze-flanges",
+      "end_line": 2507,
+      "heading": "5.6.4 Freeze Flanges",
+      "level": 1,
+      "start_line": 2499
+    },
+    {
+      "anchor": "unclassified-ornl-lr-owg-63248r2",
+      "end_line": 2607,
+      "heading": "Unclassified Ornl-Lr-Owg 63248R2",
+      "level": 2,
+      "start_line": 2508
+    },
+    {
+      "anchor": "5-6-5-freeze-valves",
+      "end_line": 2669,
+      "heading": "5.6.5 Freeze Valves",
+      "level": 1,
+      "start_line": 2608
+    },
+    {
+      "anchor": "fig-5-31",
+      "end_line": 2671,
+      "heading": "Fig. 5.31.",
+      "level": 2,
+      "start_line": 2670
+    },
+    {
+      "anchor": "freeze-valve-in-line-103",
+      "end_line": 2706,
+      "heading": "Freeze Valve In Line 103",
+      "level": 2,
+      "start_line": 2672
+    },
+    {
+      "anchor": "fig-5-32",
+      "end_line": 2707,
+      "heading": "Fig. 5.32",
+      "level": 2,
+      "start_line": 2707
+    },
+    {
+      "anchor": "freeze-valve-in-lines",
+      "end_line": 2710,
+      "heading": "Freeze Valve In Lines",
+      "level": 2,
+      "start_line": 2708
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 2712,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 2711
+    },
+    {
+      "anchor": "ornl-dwg-64-6900",
+      "end_line": 2715,
+      "heading": "Ornl-Dwg.64-6900",
+      "level": 2,
+      "start_line": 2713
+    },
+    {
+      "anchor": "fig-5-33",
+      "end_line": 2716,
+      "heading": "Fig. 5.33.",
+      "level": 2,
+      "start_line": 2716
+    },
+    {
+      "anchor": "freeze-valve-in-lines",
+      "end_line": 2734,
+      "heading": "Freeze Valve In Lines",
+      "level": 2,
+      "start_line": 2717
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 2736,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 2735
+    },
+    {
+      "anchor": "ornl-dwg-64-6901",
+      "end_line": 2739,
+      "heading": "Ornl-Dwg.64-6901",
+      "level": 2,
+      "start_line": 2737
+    },
+    {
+      "anchor": "fig-5-34",
+      "end_line": 2740,
+      "heading": "Fig. 5.34.",
+      "level": 2,
+      "start_line": 2740
+    },
+    {
+      "anchor": "freeze-valve-in-lines",
+      "end_line": 2757,
+      "heading": "Freeze Valve In Lines",
+      "level": 2,
+      "start_line": 2741
+    },
+    {
+      "anchor": "5-6-6-pipe-insulation-and-heaters",
+      "end_line": 2849,
+      "heading": "5.6.6 Pipe Insulation and Heaters",
+      "level": 1,
+      "start_line": 2758
+    },
+    {
+      "anchor": "6-fuel-drain-tank-system",
+      "end_line": 2851,
+      "heading": "6. FUEL DRAIN TANK SYSTEM",
+      "level": 1,
+      "start_line": 2850
+    },
+    {
+      "anchor": "6-1-general-description-and-layout",
+      "end_line": 2879,
+      "heading": "6.1 General Description and Layout",
+      "level": 1,
+      "start_line": 2852
+    },
+    {
+      "anchor": "6-2-flowsheet",
+      "end_line": 2886,
+      "heading": "6.2 Flowsheet",
+      "level": 1,
+      "start_line": 2880
+    },
+    {
+      "anchor": "figure-6-1",
+      "end_line": 2910,
+      "heading": "Figure 6.1",
+      "level": 2,
+      "start_line": 2887
+    },
+    {
+      "anchor": "6-3-drain-tanks-no-1-and-2",
+      "end_line": 2912,
+      "heading": "6.3 Drain Tanks No. 1 and 2",
+      "level": 1,
+      "start_line": 2911
+    },
+    {
+      "anchor": "6-3-1-description",
+      "end_line": 2919,
+      "heading": "6.3.1 Description",
+      "level": 1,
+      "start_line": 2913
+    },
+    {
+      "anchor": "figure-6-2",
+      "end_line": 2949,
+      "heading": "Figure 6.2",
+      "level": 2,
+      "start_line": 2920
+    },
+    {
+      "anchor": "unclassified-l-lr-dwg-60",
+      "end_line": 2964,
+      "heading": "Unclassified L-Lr Dwg 60",
+      "level": 2,
+      "start_line": 2950
+    },
+    {
+      "anchor": "6-3-2-design",
+      "end_line": 2974,
+      "heading": "6.3.2 Design",
+      "level": 1,
+      "start_line": 2965
+    },
+    {
+      "anchor": "6-3-3-decay-heat-removal-system",
+      "end_line": 3000,
+      "heading": "6.3.3 Decay Heat Removal System",
+      "level": 1,
+      "start_line": 2975
+    },
+    {
+      "anchor": "6-3-4-drain-tank-electric-heaters-and-insulation",
+      "end_line": 3014,
+      "heading": "6.3.4 Drain Tank Electric Heaters and Insulation",
+      "level": 1,
+      "start_line": 3001
+    },
+    {
+      "anchor": "6-3-5-supports-for-drain-tanks",
+      "end_line": 3030,
+      "heading": "6.3.5 Supports for Drain Tanks",
+      "level": 1,
+      "start_line": 3015
+    },
+    {
+      "anchor": "6-4-fuel-flush-tank",
+      "end_line": 3046,
+      "heading": "6.4 Fuel Flush Tank",
+      "level": 1,
+      "start_line": 3031
+    },
+    {
+      "anchor": "6-5-salt-transfer-pipe-line-supports",
+      "end_line": 3064,
+      "heading": "6.5 Salt-Transfer Pipe Line Supports",
+      "level": 1,
+      "start_line": 3047
+    },
+    {
+      "anchor": "7-sampler-enricher-system",
+      "end_line": 3072,
+      "heading": "7. SAMPLER-ENRICHER SYSTEM",
+      "level": 1,
+      "start_line": 3065
+    },
+    {
+      "anchor": "7-1-brief-description-of-operation",
+      "end_line": 3082,
+      "heading": "7.1 Brief Description of Operation",
+      "level": 1,
+      "start_line": 3073
+    },
+    {
+      "anchor": "7-2-design-criteria",
+      "end_line": 3086,
+      "heading": "7.2 Design Criteria",
+      "level": 1,
+      "start_line": 3083
+    },
+    {
+      "anchor": "7-2-1-sampling",
+      "end_line": 3090,
+      "heading": "7.2.1 Sampling",
+      "level": 1,
+      "start_line": 3087
+    },
+    {
+      "anchor": "7-2-2-enriching",
+      "end_line": 3094,
+      "heading": "7.2.2 Enriching",
+      "level": 1,
+      "start_line": 3091
+    },
+    {
+      "anchor": "7-2-3-poisoning",
+      "end_line": 3098,
+      "heading": "7.2.3 Poisoning",
+      "level": 1,
+      "start_line": 3095
+    },
+    {
+      "anchor": "7-2-4-addition-of-contaminants",
+      "end_line": 3102,
+      "heading": "7.2.4 Addition of Contaminants",
+      "level": 1,
+      "start_line": 3099
+    },
+    {
+      "anchor": "7-2-5-containment",
+      "end_line": 3114,
+      "heading": "7.2.5 Containment",
+      "level": 1,
+      "start_line": 3103
+    },
+    {
+      "anchor": "7-2-6-stresses",
+      "end_line": 3118,
+      "heading": "7.2.6 Stresses",
+      "level": 1,
+      "start_line": 3115
+    },
+    {
+      "anchor": "7-3-description-of-equipment",
+      "end_line": 3120,
+      "heading": "7.3 Description of Equipment",
+      "level": 1,
+      "start_line": 3119
+    },
+    {
+      "anchor": "7-3-1-capsules",
+      "end_line": 3135,
+      "heading": "7.3.1 Capsules",
+      "level": 1,
+      "start_line": 3121
+    },
+    {
+      "anchor": "7-3-2-capsule-latch-and-latchkey",
+      "end_line": 3143,
+      "heading": "7.3.2 Capsule Latch and Latchkey",
+      "level": 1,
+      "start_line": 3136
+    },
+    {
+      "anchor": "7-3-3-cable",
+      "end_line": 3147,
+      "heading": "7.3.3 Cable",
+      "level": 1,
+      "start_line": 3144
+    },
+    {
+      "anchor": "7-3-4-pump-bowl-equipment",
+      "end_line": 3158,
+      "heading": "7.3.4 Pump Bowl Equipment",
+      "level": 1,
+      "start_line": 3148
+    },
+    {
+      "anchor": "7-3-5-transfer-tube",
+      "end_line": 3177,
+      "heading": "7.3.5 Transfer Tube",
+      "level": 1,
+      "start_line": 3159
+    },
+    {
+      "anchor": "7-3-6-operational-and-maintenance-valve-box",
+      "end_line": 3199,
+      "heading": "7.3.6 Operational and Maintenance Valve Box",
+      "level": 1,
+      "start_line": 3178
+    },
+    {
+      "anchor": "7-3-7-transfer-box",
+      "end_line": 3261,
+      "heading": "7.3.7 Transfer Box",
+      "level": 1,
+      "start_line": 3200
+    },
+    {
+      "anchor": "7-3-8-capsule-transporting-equipment",
+      "end_line": 3283,
+      "heading": "7.3.8 Capsule Transporting Equipment",
+      "level": 1,
+      "start_line": 3262
+    },
+    {
+      "anchor": "7-4-containment",
+      "end_line": 3289,
+      "heading": "7.4 Containment",
+      "level": 1,
+      "start_line": 3284
+    },
+    {
+      "anchor": "ornl-dwg-64-8823",
+      "end_line": 3310,
+      "heading": "Ornl Dwg 64-8823",
+      "level": 2,
+      "start_line": 3290
+    },
+    {
+      "anchor": "7-5-shielding",
+      "end_line": 3318,
+      "heading": "7.5 Shielding",
+      "level": 1,
+      "start_line": 3311
+    },
+    {
+      "anchor": "7-6-stresses",
+      "end_line": 3327,
+      "heading": "7.6 Stresses",
+      "level": 1,
+      "start_line": 3319
+    },
+    {
+      "anchor": "ornl-dwg-64-8824",
+      "end_line": 3333,
+      "heading": "Ornl Dwg 64-8824",
+      "level": 2,
+      "start_line": 3328
+    },
+    {
+      "anchor": "7-7-cover-gas-and-leak-detection-system",
+      "end_line": 3354,
+      "heading": "7.7 Cover-Gas and Leak-Detection System",
+      "level": 1,
+      "start_line": 3334
+    },
+    {
+      "anchor": "7-8-off-gas-system",
+      "end_line": 3358,
+      "heading": "7.8 Off-Gas System",
+      "level": 1,
+      "start_line": 3355
+    },
+    {
+      "anchor": "7-8-1-system-no-1",
+      "end_line": 3373,
+      "heading": "7.8.1 System No. 1",
+      "level": 1,
+      "start_line": 3359
+    },
+    {
+      "anchor": "7-8-2-system-no-2",
+      "end_line": 3383,
+      "heading": "7.8.2 System No. 2",
+      "level": 1,
+      "start_line": 3374
+    },
+    {
+      "anchor": "7-8-3-exhaust-hood",
+      "end_line": 3387,
+      "heading": "7.8.3 Exhaust Hood",
+      "level": 1,
+      "start_line": 3384
+    },
+    {
+      "anchor": "7-9-electrical",
+      "end_line": 3395,
+      "heading": "7.9 Electrical",
+      "level": 1,
+      "start_line": 3388
+    },
+    {
+      "anchor": "7-10-coolant-salt-sampler-enricher-system",
+      "end_line": 3415,
+      "heading": "7.10 Coolant-Salt Sampler-Enricher System",
+      "level": 1,
+      "start_line": 3396
+    },
+    {
+      "anchor": "8-coolant-salt-circulating-system",
+      "end_line": 3417,
+      "heading": "8. COOLANT-SALT CIRCULATING SYSTEM",
+      "level": 1,
+      "start_line": 3416
+    },
+    {
+      "anchor": "8-1-layout-and-general-description",
+      "end_line": 3441,
+      "heading": "8.1 Layout and General Description",
+      "level": 1,
+      "start_line": 3418
+    },
+    {
+      "anchor": "8-2-flowsheet",
+      "end_line": 3453,
+      "heading": "8.2 Flowsheet",
+      "level": 1,
+      "start_line": 3442
+    },
+    {
+      "anchor": "daa-a-108812",
+      "end_line": 3497,
+      "heading": "Daa-A-108812",
+      "level": 2,
+      "start_line": 3454
+    },
+    {
+      "anchor": "8-3-coolant-salt-circulating-pump",
+      "end_line": 3505,
+      "heading": "8.3 Coolant-Salt Circulating Pump",
+      "level": 1,
+      "start_line": 3498
+    },
+    {
+      "anchor": "8-3-1-description",
+      "end_line": 3543,
+      "heading": "8.3.1 Description",
+      "level": 1,
+      "start_line": 3506
+    },
+    {
+      "anchor": "8-3-2-hydraulics",
+      "end_line": 3547,
+      "heading": "8.3.2 Hydraulics",
+      "level": 1,
+      "start_line": 3544
+    },
+    {
+      "anchor": "8-3-3-stresses",
+      "end_line": 3551,
+      "heading": "8.3.3 Stresses",
+      "level": 1,
+      "start_line": 3548
+    },
+    {
+      "anchor": "8-3-4-pump-supports",
+      "end_line": 3560,
+      "heading": "8.3.4 Pump Supports",
+      "level": 1,
+      "start_line": 3552
+    },
+    {
+      "anchor": "8-3-5-heaters",
+      "end_line": 3566,
+      "heading": "8.3.5 Heaters",
+      "level": 1,
+      "start_line": 3561
+    },
+    {
+      "anchor": "8-3-6-thermal-insulation",
+      "end_line": 3570,
+      "heading": "8.3.6 Thermal Insulation",
+      "level": 1,
+      "start_line": 3567
+    },
+    {
+      "anchor": "8-4-radiator",
+      "end_line": 3574,
+      "heading": "8.4 Radiator",
+      "level": 1,
+      "start_line": 3571
+    },
+    {
+      "anchor": "8-4-1-description",
+      "end_line": 3595,
+      "heading": "8.4.1 Description",
+      "level": 1,
+      "start_line": 3575
+    },
+    {
+      "anchor": "ornl-lr-dwg-54696r",
+      "end_line": 3641,
+      "heading": "Ornl Lr Dwg 54696R",
+      "level": 2,
+      "start_line": 3596
+    },
+    {
+      "anchor": "8-4-2-stress",
+      "end_line": 3647,
+      "heading": "8.4.2 Stress",
+      "level": 1,
+      "start_line": 3642
+    },
+    {
+      "anchor": "8-4-3-performance",
+      "end_line": 3653,
+      "heading": "8.4.3 Performance",
+      "level": 1,
+      "start_line": 3648
+    },
+    {
+      "anchor": "ornl-dwg-64-8828",
+      "end_line": 3697,
+      "heading": "Ornl Dwg 64-8828",
+      "level": 2,
+      "start_line": 3654
+    },
+    {
+      "anchor": "8-4-4-heaters",
+      "end_line": 3711,
+      "heading": "8.4.4 Heaters",
+      "level": 1,
+      "start_line": 3698
+    },
+    {
+      "anchor": "8-5-cell-wall-penetrations-for-lines-200-and-201",
+      "end_line": 3717,
+      "heading": "8.5 Cell Wall Penetrations for Lines 200 and 201",
+      "level": 1,
+      "start_line": 3712
+    },
+    {
+      "anchor": "8-5-1-reactor-cell-sleeve",
+      "end_line": 3723,
+      "heading": "8.5.1 Reactor Cell Sleeve",
+      "level": 1,
+      "start_line": 3718
+    },
+    {
+      "anchor": "8-5-2-anchor-sleeve",
+      "end_line": 3731,
+      "heading": "8.5.2 Anchor Sleeve",
+      "level": 1,
+      "start_line": 3724
+    },
+    {
+      "anchor": "8-5-3-shielding",
+      "end_line": 3735,
+      "heading": "8.5.3 Shielding",
+      "level": 1,
+      "start_line": 3732
+    },
+    {
+      "anchor": "8-5-4-heaters-and-insulation",
+      "end_line": 3745,
+      "heading": "8.5.4 Heaters and Insulation",
+      "level": 1,
+      "start_line": 3736
+    },
+    {
+      "anchor": "8-6-secondary-circulating-system-piping-and-supports",
+      "end_line": 3753,
+      "heading": "8.6 Secondary Circulating System Piping and Supports",
+      "level": 1,
+      "start_line": 3746
+    },
+    {
+      "anchor": "8-1-piping-stresses-and-flexibility-analyses",
+      "end_line": 3761,
+      "heading": "8.1 Piping Stresses and Flexibility Analyses",
+      "level": 1,
+      "start_line": 3754
+    },
+    {
+      "anchor": "8-6-2-coolant-salt-piping-supports",
+      "end_line": 3780,
+      "heading": "8.6.2 Coolant-Salt Piping Supports",
+      "level": 1,
+      "start_line": 3762
+    },
+    {
+      "anchor": "9-coolant-salt-storage-system",
+      "end_line": 3788,
+      "heading": "9. COOLANT-SALT STORAGE SYSTEM",
+      "level": 1,
+      "start_line": 3781
+    },
+    {
+      "anchor": "9-1-layout-and-general-description",
+      "end_line": 3800,
+      "heading": "9.1 Layout and General Description",
+      "level": 1,
+      "start_line": 3789
+    },
+    {
+      "anchor": "9-2-flowsheet",
+      "end_line": 3820,
+      "heading": "9.2 Flowsheet",
+      "level": 1,
+      "start_line": 3801
+    },
+    {
+      "anchor": "9-3-coolant-salt-drain-tank",
+      "end_line": 3822,
+      "heading": "9.3 Coolant-Salt Drain Tank",
+      "level": 1,
+      "start_line": 3821
+    },
+    {
+      "anchor": "9-3-1-tank",
+      "end_line": 3836,
+      "heading": "9.3.1 Tank",
+      "level": 1,
+      "start_line": 3823
+    },
+    {
+      "anchor": "9-3-2-supports-and-weigh-cells",
+      "end_line": 3850,
+      "heading": "9.3.2 Supports and Weigh Cells",
+      "level": 1,
+      "start_line": 3837
+    },
+    {
+      "anchor": "9-3-3-electric-heaters-and-insulation",
+      "end_line": 3864,
+      "heading": "9.3.3 Electric Heaters and Insulation",
+      "level": 1,
+      "start_line": 3851
+    },
+    {
+      "anchor": "9-3-4-thermocouples",
+      "end_line": 3870,
+      "heading": "9.3.4 Thermocouples",
+      "level": 1,
+      "start_line": 3865
+    },
+    {
+      "anchor": "9-4-coolant-salt-transfer-line-203",
+      "end_line": 3874,
+      "heading": "9.4 Coolant-Salt Transfer Line 203",
+      "level": 1,
+      "start_line": 3871
+    },
+    {
+      "anchor": "9-4-1-upper-flange-on-line-203",
+      "end_line": 3880,
+      "heading": "9.4.1 Upper Flange on Line 203",
+      "level": 1,
+      "start_line": 3875
+    },
+    {
+      "anchor": "9-4-2-lower-flange-on-line-203",
+      "end_line": 3888,
+      "heading": "9.4.2 Lower Flange on Line 203",
+      "level": 1,
+      "start_line": 3881
+    },
+    {
+      "anchor": "10-cover-gas-system",
+      "end_line": 3896,
+      "heading": "10. COVER-GAS SYSTEM",
+      "level": 1,
+      "start_line": 3889
+    },
+    {
+      "anchor": "10-1-layout-and-general-description",
+      "end_line": 3904,
+      "heading": "10.1 Layout and General Description",
+      "level": 1,
+      "start_line": 3897
+    },
+    {
+      "anchor": "10-2-system-requirements",
+      "end_line": 3911,
+      "heading": "10.2 System Requirements",
+      "level": 1,
+      "start_line": 3905
+    },
+    {
+      "anchor": "arrangement-at-containment-cell-wall-typical-for-supply-to",
+      "end_line": 3912,
+      "heading": "Arrangement At Containment Cell Wall Typical For Supply To:",
+      "level": 2,
+      "start_line": 3912
+    },
+    {
+      "anchor": "fuel-pump-sweep-gas",
+      "end_line": 3913,
+      "heading": "Fuel Pump Sweep Gas",
+      "level": 2,
+      "start_line": 3913
+    },
+    {
+      "anchor": "fuel-pump-level-bubblers",
+      "end_line": 3914,
+      "heading": "Fuel Pump Level Bubblers",
+      "level": 2,
+      "start_line": 3914
+    },
+    {
+      "anchor": "fuel-drain-tanks",
+      "end_line": 3937,
+      "heading": "Fuel Drain Tanks",
+      "level": 2,
+      "start_line": 3915
+    },
+    {
+      "anchor": "10-3-flowsheet",
+      "end_line": 3985,
+      "heading": "10.3 Flowsheet",
+      "level": 1,
+      "start_line": 3938
+    },
+    {
+      "anchor": "10-4-helium-supply",
+      "end_line": 3991,
+      "heading": "10.4 Helium Supply",
+      "level": 1,
+      "start_line": 3986
+    },
+    {
+      "anchor": "10-5-dryers",
+      "end_line": 4007,
+      "heading": "10.5 Dryers",
+      "level": 1,
+      "start_line": 3992
+    },
+    {
+      "anchor": "10-6-preheater",
+      "end_line": 4015,
+      "heading": "10.6 Preheater",
+      "level": 1,
+      "start_line": 4008
+    },
+    {
+      "anchor": "10-7-oxygen-removal-units",
+      "end_line": 4026,
+      "heading": "10.7 Oxygen Removal Units",
+      "level": 1,
+      "start_line": 4016
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 4028,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 4027
+    },
+    {
+      "anchor": "ornl-lr-dwg68585",
+      "end_line": 4040,
+      "heading": "Ornl-Lr-Dwg68585",
+      "level": 2,
+      "start_line": 4029
+    },
+    {
+      "anchor": "10-8-treated-helium-storage-tank",
+      "end_line": 4046,
+      "heading": "10.8 Treated-Helium Storage Tank",
+      "level": 1,
+      "start_line": 4041
+    },
+    {
+      "anchor": "10-9-bubblers-for-indicating-the-salt-levels-in-the-fuel-and-coolant-pump-bowls-and-overflow-tank",
+      "end_line": 4050,
+      "heading": "10.9 Bubblers for Indicating the Salt Levels in the Fuel and Coolant Pump Bowls and Overflow Tank",
+      "level": 1,
+      "start_line": 4047
+    },
+    {
+      "anchor": "10-9-1-layout-and-general-description",
+      "end_line": 4066,
+      "heading": "10.9.1 Layout and General Description",
+      "level": 1,
+      "start_line": 4051
+    },
+    {
+      "anchor": "10-9-2-containment-tank",
+      "end_line": 4076,
+      "heading": "10.9.2 Containment Tank",
+      "level": 1,
+      "start_line": 4067
+    },
+    {
+      "anchor": "10-10-piping-valves-and-appurtenances",
+      "end_line": 4105,
+      "heading": "10.10 Piping, Valves, and Appurtenances",
+      "level": 1,
+      "start_line": 4077
+    },
+    {
+      "anchor": "11-leak-detector-system",
+      "end_line": 4111,
+      "heading": "11. LEAK DETECTOR SYSTEM",
+      "level": 1,
+      "start_line": 4106
+    },
+    {
+      "anchor": "11-1-layout-and-general-description",
+      "end_line": 4140,
+      "heading": "11.1 Layout and General Description",
+      "level": 1,
+      "start_line": 4112
+    },
+    {
+      "anchor": "11-2-flowsheet",
+      "end_line": 4156,
+      "heading": "11.2 Flowsheet",
+      "level": 1,
+      "start_line": 4141
+    },
+    {
+      "anchor": "this-drawing-reflects",
+      "end_line": 4158,
+      "heading": "This Drawing Reflects",
+      "level": 2,
+      "start_line": 4157
+    },
+    {
+      "anchor": "as-built",
+      "end_line": 4160,
+      "heading": "As Built",
+      "level": 2,
+      "start_line": 4159
+    },
+    {
+      "anchor": "changes",
+      "end_line": 4162,
+      "heading": "Changes",
+      "level": 2,
+      "start_line": 4161
+    },
+    {
+      "anchor": "date-9-23-64",
+      "end_line": 4165,
+      "heading": "Date 9-23-64",
+      "level": 2,
+      "start_line": 4163
+    },
+    {
+      "anchor": "process-flow-sheet",
+      "end_line": 4167,
+      "heading": "Process Flow Sheet",
+      "level": 2,
+      "start_line": 4166
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4168,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4168
+    },
+    {
+      "anchor": "beneficiary-of-the-carridce-or-contrahnd",
+      "end_line": 4171,
+      "heading": "Beneficiary Of The Carridce Or Contrahnd",
+      "level": 2,
+      "start_line": 4169
+    },
+    {
+      "anchor": "figure-11-4",
+      "end_line": 4189,
+      "heading": "Figure 11.4",
+      "level": 2,
+      "start_line": 4172
+    },
+    {
+      "anchor": "11-3-headers",
+      "end_line": 4197,
+      "heading": "11.3 Headers",
+      "level": 1,
+      "start_line": 4190
+    },
+    {
+      "anchor": "11-4-valves",
+      "end_line": 4201,
+      "heading": "11.4 Valves",
+      "level": 1,
+      "start_line": 4198
+    },
+    {
+      "anchor": "11-5-disconnects",
+      "end_line": 4209,
+      "heading": "11.5 Disconnects",
+      "level": 1,
+      "start_line": 4202
+    },
+    {
+      "anchor": "ornl-dwg-64-8835",
+      "end_line": 4222,
+      "heading": "Ornl Dwg 64-8835",
+      "level": 2,
+      "start_line": 4210
+    },
+    {
+      "anchor": "11-6-local-leak-detectors",
+      "end_line": 4226,
+      "heading": "11.6 Local Leak Detectors",
+      "level": 1,
+      "start_line": 4223
+    },
+    {
+      "anchor": "12-off-gas-disposal-system",
+      "end_line": 4252,
+      "heading": "12. OFF-GAS DISPOSAL SYSTEM",
+      "level": 1,
+      "start_line": 4227
+    },
+    {
+      "anchor": "12-1-layout-and-general-description",
+      "end_line": 4281,
+      "heading": "12.1 Layout and General Description",
+      "level": 1,
+      "start_line": 4253
+    },
+    {
+      "anchor": "12-2-flowsheet",
+      "end_line": 4329,
+      "heading": "12.2 Flowsheet",
+      "level": 1,
+      "start_line": 4282
+    },
+    {
+      "anchor": "12-3-holdup-volumes",
+      "end_line": 4341,
+      "heading": "12.3 Holdup Volumes",
+      "level": 1,
+      "start_line": 4330
+    },
+    {
+      "anchor": "12-4-off-gas-charcoal-beds",
+      "end_line": 4343,
+      "heading": "12.4 Off-Gas Charcoal Beds",
+      "level": 1,
+      "start_line": 4342
+    },
+    {
+      "anchor": "12-4-1-main-charcoal-beds",
+      "end_line": 4351,
+      "heading": "12.4.1 Main Charcoal Beds",
+      "level": 1,
+      "start_line": 4344
+    },
+    {
+      "anchor": "ornl-dwg-64-8836",
+      "end_line": 4372,
+      "heading": "Ornl Dwg 64-8836",
+      "level": 2,
+      "start_line": 4352
+    },
+    {
+      "anchor": "12-4-2-auxiliary-charcoal-bed",
+      "end_line": 4389,
+      "heading": "12.4.2 Auxiliary Charcoal Bed",
+      "level": 1,
+      "start_line": 4373
+    },
+    {
+      "anchor": "12-5-piping-valves-and-filters",
+      "end_line": 4391,
+      "heading": "12.5 Piping, Valves and Filters",
+      "level": 1,
+      "start_line": 4390
+    },
+    {
+      "anchor": "12-5-1-piping",
+      "end_line": 4397,
+      "heading": "12.5.1 Piping",
+      "level": 1,
+      "start_line": 4392
+    },
+    {
+      "anchor": "12-5-2-valves",
+      "end_line": 4405,
+      "heading": "12.5.2 Valves",
+      "level": 1,
+      "start_line": 4398
+    },
+    {
+      "anchor": "12-5-3-filters",
+      "end_line": 4432,
+      "heading": "12.5.3 Filters",
+      "level": 1,
+      "start_line": 4406
+    },
+    {
+      "anchor": "ornl-dwg-64-8840",
+      "end_line": 4445,
+      "heading": "Ornl Dwg 64-8840",
+      "level": 2,
+      "start_line": 4433
+    },
+    {
+      "anchor": "13-containment-ventilation-system",
+      "end_line": 4453,
+      "heading": "13. CONTAINMENT VENTILATION SYSTEM",
+      "level": 1,
+      "start_line": 4446
+    },
+    {
+      "anchor": "13-1-layout-and-general-description",
+      "end_line": 4488,
+      "heading": "13.1 Layout and General Description",
+      "level": 1,
+      "start_line": 4454
+    },
+    {
+      "anchor": "13-2-flowsheet",
+      "end_line": 4534,
+      "heading": "13.2 Flowsheet",
+      "level": 1,
+      "start_line": 4489
+    },
+    {
+      "anchor": "13-3-description-of-equipment",
+      "end_line": 4536,
+      "heading": "13.3 Description of Equipment",
+      "level": 1,
+      "start_line": 4535
+    },
+    {
+      "anchor": "13-3-1-inlet-air-filter-house",
+      "end_line": 4556,
+      "heading": "13.3.1 Inlet-Air Filter House",
+      "level": 1,
+      "start_line": 4537
+    },
+    {
+      "anchor": "13-3-2-liquid-waste-tank-blower",
+      "end_line": 4560,
+      "heading": "13.3.2 Liquid-Waste Tank Blower",
+      "level": 1,
+      "start_line": 4557
+    },
+    {
+      "anchor": "13-3-3-vent-house",
+      "end_line": 4564,
+      "heading": "13.3.3 Vent House",
+      "level": 1,
+      "start_line": 4561
+    },
+    {
+      "anchor": "13-3-4-filter-pit",
+      "end_line": 4572,
+      "heading": "13.3.4 Filter Pit",
+      "level": 1,
+      "start_line": 4565
+    },
+    {
+      "anchor": "13-3-5-stack-fans",
+      "end_line": 4578,
+      "heading": "13.3.5 Stack Fans",
+      "level": 1,
+      "start_line": 4573
+    },
+    {
+      "anchor": "13-3-6-stack",
+      "end_line": 4593,
+      "heading": "13.3.6 Stack",
+      "level": 1,
+      "start_line": 4579
+    },
+    {
+      "anchor": "13-4-design-criteria",
+      "end_line": 4603,
+      "heading": "13.4 Design Criteria",
+      "level": 1,
+      "start_line": 4594
+    },
+    {
+      "anchor": "14-liquid-waste-system",
+      "end_line": 4607,
+      "heading": "14. LIQUID WASTE SYSTEM",
+      "level": 1,
+      "start_line": 4604
+    },
+    {
+      "anchor": "14-1-layout-and-general-description",
+      "end_line": 4611,
+      "heading": "14.1 Layout and General Description",
+      "level": 1,
+      "start_line": 4608
+    },
+    {
+      "anchor": "14-1-1-liquid-waste-cell",
+      "end_line": 4615,
+      "heading": "14.1.1 Liquid Waste Cell",
+      "level": 1,
+      "start_line": 4612
+    },
+    {
+      "anchor": "14-1-2-decontamination-cell",
+      "end_line": 4621,
+      "heading": "14.1.2 Decontamination Cell",
+      "level": 1,
+      "start_line": 4616
+    },
+    {
+      "anchor": "14-1-3-remote-maintenance-practice-cell",
+      "end_line": 4625,
+      "heading": "14.1.3 Remote Maintenance Practice Cell",
+      "level": 1,
+      "start_line": 4622
+    },
+    {
+      "anchor": "14-1-4-sump-room",
+      "end_line": 4629,
+      "heading": "14.1.4 Sump Room",
+      "level": 1,
+      "start_line": 4626
+    },
+    {
+      "anchor": "14-2-flowsheet",
+      "end_line": 4677,
+      "heading": "14.2 Flowsheet",
+      "level": 1,
+      "start_line": 4630
+    },
+    {
+      "anchor": "14-3-description-of-equipment",
+      "end_line": 4679,
+      "heading": "14.3 Description of Equipment",
+      "level": 1,
+      "start_line": 4678
+    },
+    {
+      "anchor": "14-3-1-liquid-waste-storage-tank",
+      "end_line": 4683,
+      "heading": "14.3.1 Liquid Waste Storage Tank",
+      "level": 1,
+      "start_line": 4680
+    },
+    {
+      "anchor": "14-3-2-waste-filter",
+      "end_line": 4689,
+      "heading": "14.3.2 Waste Filter",
+      "level": 1,
+      "start_line": 4684
+    },
+    {
+      "anchor": "14-3-3-waste-pump",
+      "end_line": 4693,
+      "heading": "14.3.3 Waste Pump",
+      "level": 1,
+      "start_line": 4690
+    },
+    {
+      "anchor": "14-3-4-sump-pumps",
+      "end_line": 4697,
+      "heading": "14.3.4 Sump Pumps",
+      "level": 1,
+      "start_line": 4694
+    },
+    {
+      "anchor": "14-3-5-pit-pump",
+      "end_line": 4701,
+      "heading": "14.3.5 Pit Pump",
+      "level": 1,
+      "start_line": 4698
+    },
+    {
+      "anchor": "14-3-6-jet-pumps",
+      "end_line": 4705,
+      "heading": "14.3.6 Jet Pumps",
+      "level": 1,
+      "start_line": 4702
+    },
+    {
+      "anchor": "14-4-design-criteria",
+      "end_line": 4721,
+      "heading": "14.4 Design Criteria",
+      "level": 1,
+      "start_line": 4706
+    },
+    {
+      "anchor": "15-cooling-water-system",
+      "end_line": 4723,
+      "heading": "15. COOLING WATER SYSTEM",
+      "level": 1,
+      "start_line": 4722
+    },
+    {
+      "anchor": "15-1-layout-and-general-description",
+      "end_line": 4749,
+      "heading": "15.1 Layout and General Description",
+      "level": 1,
+      "start_line": 4724
+    },
+    {
+      "anchor": "15-2-flowsheet",
+      "end_line": 4755,
+      "heading": "15.2 Flowsheet",
+      "level": 1,
+      "start_line": 4750
+    },
+    {
+      "anchor": "15-2-1-potable-and-process-water",
+      "end_line": 4767,
+      "heading": "15.2.1 Potable and Process Water",
+      "level": 1,
+      "start_line": 4756
+    },
+    {
+      "anchor": "15-2-2-cooling-tower-water-system",
+      "end_line": 4779,
+      "heading": "15.2.2 Cooling Tower Water System",
+      "level": 1,
+      "start_line": 4768
+    },
+    {
+      "anchor": "15-2-3-treated-water-system",
+      "end_line": 4800,
+      "heading": "15.2.3 Treated Water System",
+      "level": 1,
+      "start_line": 4780
+    },
+    {
+      "anchor": "15-2-4-condensate-system",
+      "end_line": 4806,
+      "heading": "15.2.4 Condensate System",
+      "level": 1,
+      "start_line": 4801
+    },
+    {
+      "anchor": "15-3-description-of-equipment",
+      "end_line": 4808,
+      "heading": "15.3 Description of Equipment",
+      "level": 1,
+      "start_line": 4807
+    },
+    {
+      "anchor": "15-3-1-condensate-storage-tank-no-1",
+      "end_line": 4814,
+      "heading": "15.3.1 Condensate Storage Tank No. 1",
+      "level": 1,
+      "start_line": 4809
+    },
+    {
+      "anchor": "15-3-2-condensate-storage-tank-no-2",
+      "end_line": 4818,
+      "heading": "15.3.2 Condensate Storage Tank No. 2",
+      "level": 1,
+      "start_line": 4815
+    },
+    {
+      "anchor": "15-3-3-treated-water-surge-tank",
+      "end_line": 4822,
+      "heading": "15.3.3 Treated Water Surge Tank",
+      "level": 1,
+      "start_line": 4819
+    },
+    {
+      "anchor": "15-3-4-cooling-tower",
+      "end_line": 4828,
+      "heading": "15.3.4 Cooling Tower",
+      "level": 1,
+      "start_line": 4823
+    },
+    {
+      "anchor": "15-3-5-treated-water-cooler",
+      "end_line": 4834,
+      "heading": "15.3.5 Treated Water cooler",
+      "level": 1,
+      "start_line": 4829
+    },
+    {
+      "anchor": "15-3-6-treated-water-circulating-pumps",
+      "end_line": 4845,
+      "heading": "15.3.6 Treated Water Circulating Pumps",
+      "level": 1,
+      "start_line": 4835
+    },
+    {
+      "anchor": "15-3-7-cooling-tower-pumps",
+      "end_line": 4849,
+      "heading": "15.3.7 Cooling Tower Pumps",
+      "level": 1,
+      "start_line": 4846
+    },
+    {
+      "anchor": "15-3-8-steam-condenser-for-condensate-system",
+      "end_line": 4853,
+      "heading": "15.3.8 Steam Condenser for Condensate System",
+      "level": 1,
+      "start_line": 4850
+    },
+    {
+      "anchor": "15-3-9-space-coolers",
+      "end_line": 4874,
+      "heading": "15.3.9 Space Coolers",
+      "level": 1,
+      "start_line": 4854
+    },
+    {
+      "anchor": "15-3-10-piping-valves-and-appurtenances",
+      "end_line": 4910,
+      "heading": "15.3.10 Piping Valves and Appurtenances",
+      "level": 1,
+      "start_line": 4875
+    },
+    {
+      "anchor": "15-3-11-treated-water-filter",
+      "end_line": 4914,
+      "heading": "15.3.11 Treated Water Filter",
+      "level": 1,
+      "start_line": 4911
+    },
+    {
+      "anchor": "16-component-cooling-systems",
+      "end_line": 4920,
+      "heading": "16. COMPONENT COOLING SYSTEMS",
+      "level": 1,
+      "start_line": 4915
+    },
+    {
+      "anchor": "16-1-general-description-and-layout",
+      "end_line": 4922,
+      "heading": "16.1 General Description and Layout",
+      "level": 1,
+      "start_line": 4921
+    },
+    {
+      "anchor": "16-1-1-circulating-gas-system",
+      "end_line": 4938,
+      "heading": "16.1.1 Circulating Gas System",
+      "level": 1,
+      "start_line": 4923
+    },
+    {
+      "anchor": "16-1-2-cooling-air-supply",
+      "end_line": 4942,
+      "heading": "16.1.2 Cooling Air Supply",
+      "level": 1,
+      "start_line": 4939
+    },
+    {
+      "anchor": "16-2-flowsheet",
+      "end_line": 4980,
+      "heading": "16.2 Flowsheet",
+      "level": 1,
+      "start_line": 4943
+    },
+    {
+      "anchor": "16-3-description-of-equipment",
+      "end_line": 4982,
+      "heading": "16.3 Description of Equipment",
+      "level": 1,
+      "start_line": 4981
+    },
+    {
+      "anchor": "16-3-1-gas-blowers-ccp-1-and-ccp-2-and-containment-tanks",
+      "end_line": 4998,
+      "heading": "16.3.1 Gas Blowers CCP-1 and CCP-2 and Containment Tanks",
+      "level": 1,
+      "start_line": 4983
+    },
+    {
+      "anchor": "16-3-2-air-blower-ccp-3",
+      "end_line": 5002,
+      "heading": "16.3.2 Air Blower, CCP-3",
+      "level": 1,
+      "start_line": 4999
+    },
+    {
+      "anchor": "16-3-3-gas-cooler-gc",
+      "end_line": 5006,
+      "heading": "16.3.3 Gas Cooler, GC.",
+      "level": 1,
+      "start_line": 5003
+    },
+    {
+      "anchor": "16-3-4-valves",
+      "end_line": 5032,
+      "heading": "16.3.4 Valves",
+      "level": 1,
+      "start_line": 5007
+    },
+    {
+      "anchor": "16-3-5-piping",
+      "end_line": 5038,
+      "heading": "16.3.5 Piping",
+      "level": 1,
+      "start_line": 5033
+    },
+    {
+      "anchor": "17-containment",
+      "end_line": 5040,
+      "heading": "17. CONTAINMENT",
+      "level": 1,
+      "start_line": 5039
+    },
+    {
+      "anchor": "17-1-general-design-considerations",
+      "end_line": 5062,
+      "heading": "17.1 General Design Considerations",
+      "level": 1,
+      "start_line": 5041
+    },
+    {
+      "anchor": "17-2-reactor-and-drain-tank-cells",
+      "end_line": 5068,
+      "heading": "17.2 Reactor and Drain Tank Cells",
+      "level": 1,
+      "start_line": 5063
+    },
+    {
+      "anchor": "17-2-1-cell-leak-rate",
+      "end_line": 5072,
+      "heading": "17.2.1 Cell Leak Rate",
+      "level": 1,
+      "start_line": 5069
+    },
+    {
+      "anchor": "17-2-2-cell-atmosphere",
+      "end_line": 5078,
+      "heading": "17.2.2 Cell Atmosphere",
+      "level": 1,
+      "start_line": 5073
+    },
+    {
+      "anchor": "17-2-3-penetrations-and-methods-of-sealing",
+      "end_line": 5122,
+      "heading": "17.2.3 Penetrations and Methods of Sealing",
+      "level": 1,
+      "start_line": 5079
+    },
+    {
+      "anchor": "17-3-vapor-condensing-system",
+      "end_line": 5126,
+      "heading": "17.3 Vapor Condensing System*",
+      "level": 1,
+      "start_line": 5123
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-67162r2",
+      "end_line": 5153,
+      "heading": "Unclassified Ornl-Lr-Dwg.67162R2",
+      "level": 2,
+      "start_line": 5127
+    },
+    {
+      "anchor": "18-biological-shielding",
+      "end_line": 5165,
+      "heading": "18. BIOLOGICAL SHIELDING",
+      "level": 1,
+      "start_line": 5154
+    },
+    {
+      "anchor": "18-1-general-description",
+      "end_line": 5189,
+      "heading": "18.1 General Description",
+      "level": 1,
+      "start_line": 5166
+    },
+    {
+      "anchor": "19-electrical-services",
+      "end_line": 5203,
+      "heading": "19. ELECTRICAL SERVICES",
+      "level": 1,
+      "start_line": 5190
+    },
+    {
+      "anchor": "19-1-general-description",
+      "end_line": 5215,
+      "heading": "19.1 General Description",
+      "level": 1,
+      "start_line": 5204
+    },
+    {
+      "anchor": "fig-19-i-simplified-one-line-diagram-of-electrical-supply-system",
+      "end_line": 5253,
+      "heading": "Fig.19.I Simplified One-Line Diagram Of Electrical Supply System",
+      "level": 2,
+      "start_line": 5216
+    },
+    {
+      "anchor": "19-2-transmission-lines-and-substations",
+      "end_line": 5263,
+      "heading": "19.2 Transmission Lines and Substations",
+      "level": 1,
+      "start_line": 5254
+    },
+    {
+      "anchor": "19-3-emergency-diesel-generators",
+      "end_line": 5271,
+      "heading": "19.3 Emergency Diesel-Generators",
+      "level": 1,
+      "start_line": 5264
+    },
+    {
+      "anchor": "19-3-1-diesel-generator-units-no-3-and-no-4",
+      "end_line": 5283,
+      "heading": "19.3.1 Diesel-Generator Units No. 3 and No. 4",
+      "level": 1,
+      "start_line": 5272
+    },
+    {
+      "anchor": "19-3-2-diesel-generator-unit-no-5",
+      "end_line": 5291,
+      "heading": "19.3.2 Diesel-Generator Unit No. 5",
+      "level": 1,
+      "start_line": 5284
+    },
+    {
+      "anchor": "19-4-process-electrical-circuits",
+      "end_line": 5293,
+      "heading": "19.4 Process Electrical Circuits",
+      "level": 1,
+      "start_line": 5292
+    },
+    {
+      "anchor": "19-4-1-switchgear-equipment",
+      "end_line": 5301,
+      "heading": "19.4.1 Switchgear Equipment",
+      "level": 1,
+      "start_line": 5294
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 5303,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 5302
+    },
+    {
+      "anchor": "ornl-dwg-64-6747",
+      "end_line": 5308,
+      "heading": "Ornl-Dwg. 64-6747",
+      "level": 2,
+      "start_line": 5304
+    },
+    {
+      "anchor": "fig-19-4-location-of-equipment-in-switch-house",
+      "end_line": 5335,
+      "heading": "Fig.19.4 Location Of Equipment In Switch House",
+      "level": 2,
+      "start_line": 5309
+    },
+    {
+      "anchor": "19-4-2-motor-control-centers",
+      "end_line": 5369,
+      "heading": "19.4.2 Motor-Control Centers*",
+      "level": 1,
+      "start_line": 5336
+    },
+    {
+      "anchor": "19-5-building-service-circuits",
+      "end_line": 5373,
+      "heading": "19.5 Building Service Circuits",
+      "level": 1,
+      "start_line": 5370
+    },
+    {
+      "anchor": "19-5-1-building-service-panel-no-1",
+      "end_line": 5377,
+      "heading": "19.5.1 Building Service Panel No. 1",
+      "level": 1,
+      "start_line": 5374
+    },
+    {
+      "anchor": "19-5-2-building-service-panel-no-2",
+      "end_line": 5405,
+      "heading": "19.5.2 Building Service Panel No.2",
+      "level": 1,
+      "start_line": 5378
+    },
+    {
+      "anchor": "19-6-direct-current-electrical-systems",
+      "end_line": 5409,
+      "heading": "19.6 Direct-Current Electrical Systems",
+      "level": 1,
+      "start_line": 5406
+    },
+    {
+      "anchor": "19-6-1-battery-m-g-set-and-distribution-panel-for-250-v-dc-system",
+      "end_line": 5449,
+      "heading": "19.6.1 Battery, M-G Set and Distribution Panel for 250-v DC System",
+      "level": 1,
+      "start_line": 5410
+    },
+    {
+      "anchor": "19-7-heater-control-circuits",
+      "end_line": 5483,
+      "heading": "19.7 Heater Control Circuits",
+      "level": 1,
+      "start_line": 5450
+    },
+    {
+      "anchor": "19-7-4-heater-control-panels-and-equipment",
+      "end_line": 5526,
+      "heading": "19.7.4 Heater Control Panels and Equipment",
+      "level": 1,
+      "start_line": 5484
+    },
+    {
+      "anchor": "h200-3",
+      "end_line": 5527,
+      "heading": "H200-3",
+      "level": 2,
+      "start_line": 5527
+    },
+    {
+      "anchor": "h200-4a",
+      "end_line": 5534,
+      "heading": "H200-4A",
+      "level": 2,
+      "start_line": 5528
+    },
+    {
+      "anchor": "h200-7",
+      "end_line": 5536,
+      "heading": "H200-7",
+      "level": 2,
+      "start_line": 5535
+    },
+    {
+      "anchor": "h200-9b",
+      "end_line": 5537,
+      "heading": "H200-9B",
+      "level": 2,
+      "start_line": 5537
+    },
+    {
+      "anchor": "h201-4a",
+      "end_line": 5581,
+      "heading": "H201-4A",
+      "level": 2,
+      "start_line": 5538
+    },
+    {
+      "anchor": "19-7-5-heater-leads",
+      "end_line": 5620,
+      "heading": "19.7.5 Heater Leads",
+      "level": 1,
+      "start_line": 5582
+    },
+    {
+      "anchor": "east-side-drain-tank-cell",
+      "end_line": 5632,
+      "heading": "East Side - Drain Tank Cell",
+      "level": 2,
+      "start_line": 5621
+    },
+    {
+      "anchor": "19-8-cell-wall-penetrations-for-electrical-leads",
+      "end_line": 5636,
+      "heading": "19.8 Cell Wall Penetrations for Electrical Leads",
+      "level": 1,
+      "start_line": 5633
+    },
+    {
+      "anchor": "19-8-1-sheathed-cable",
+      "end_line": 5642,
+      "heading": "19.8.1 Sheathed Cable.",
+      "level": 1,
+      "start_line": 5637
+    },
+    {
+      "anchor": "19-8-2-cable-sleeves",
+      "end_line": 5658,
+      "heading": "19.8.2 Cable Sleeves.",
+      "level": 1,
+      "start_line": 5643
+    },
+    {
+      "anchor": "19-8-3-reactor-cell-penetration-plug-and-sleeve",
+      "end_line": 5665,
+      "heading": "19.8.3 Reactor Cell Penetration Plug and Sleeve.",
+      "level": 1,
+      "start_line": 5659
+    },
+    {
+      "anchor": "figure-19-9",
+      "end_line": 5666,
+      "heading": "Figure 19.9",
+      "level": 2,
+      "start_line": 5666
+    },
+    {
+      "anchor": "typical-electric-lead-penetration-of-reactor-cell-wall",
+      "end_line": 5668,
+      "heading": "Typical Electric Lead Penetration Of Reactor Cell Wall",
+      "level": 2,
+      "start_line": 5667
+    },
+    {
+      "anchor": "20-building-services",
+      "end_line": 5670,
+      "heading": "20. BUILDING SERVICES",
+      "level": 1,
+      "start_line": 5669
+    },
+    {
+      "anchor": "20-1-potable-water",
+      "end_line": 5676,
+      "heading": "20.1 Potable Water",
+      "level": 1,
+      "start_line": 5671
+    },
+    {
+      "anchor": "20-2-process-water",
+      "end_line": 5686,
+      "heading": "20.2 Process Water",
+      "level": 1,
+      "start_line": 5677
+    },
+    {
+      "anchor": "20-3-building-lighting",
+      "end_line": 5696,
+      "heading": "20.3 Building Lighting",
+      "level": 1,
+      "start_line": 5687
+    },
+    {
+      "anchor": "20-4-fencing",
+      "end_line": 5700,
+      "heading": "20.4 Fencing",
+      "level": 1,
+      "start_line": 5697
+    },
+    {
+      "anchor": "20-5-steam-supply",
+      "end_line": 5704,
+      "heading": "20.5 Steam Supply",
+      "level": 1,
+      "start_line": 5701
+    },
+    {
+      "anchor": "20-6-roof-foundation-and-floor-drains",
+      "end_line": 5710,
+      "heading": "20.6 Roof, Foundation and Floor Drains",
+      "level": 1,
+      "start_line": 5705
+    },
+    {
+      "anchor": "20-7-sanitary-disposal",
+      "end_line": 5714,
+      "heading": "20.7 Sanitary Disposal",
+      "level": 1,
+      "start_line": 5711
+    },
+    {
+      "anchor": "20-8-air-conditioners",
+      "end_line": 5720,
+      "heading": "20.8 Air Conditioners",
+      "level": 1,
+      "start_line": 5715
+    },
+    {
+      "anchor": "20-9-fire-protection-system",
+      "end_line": 5739,
+      "heading": "20.9 Fire Protection System",
+      "level": 1,
+      "start_line": 5721
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 5743,
+      "heading": "Appendix",
+      "level": 2,
+      "start_line": 5740
+    },
+    {
+      "anchor": "list-of-references-used-in-part-i",
+      "end_line": 5932,
+      "heading": "LIST OF REFERENCES USED IN PART I",
+      "level": 1,
+      "start_line": 5744
+    },
+    {
+      "anchor": "abbreviations",
+      "end_line": 6112,
+      "heading": "ABBREVIATIONS",
+      "level": 1,
+      "start_line": 5933
+    },
+    {
+      "anchor": "equipment-and-location-abbreviations",
+      "end_line": 6335,
+      "heading": "EQUIPMENT AND LOCATION ABBREVIATIONS",
+      "level": 1,
+      "start_line": 6113
+    },
+    {
+      "anchor": "locally-mounted-at-or-near-process",
+      "end_line": 6337,
+      "heading": "Locally Mounted (At Or Near Process)",
+      "level": 2,
+      "start_line": 6336
+    },
+    {
+      "anchor": "panel-mounted-on-panel-no-xx",
+      "end_line": 6341,
+      "heading": "Panel Mounted (On Panel No. Xx)",
+      "level": 2,
+      "start_line": 6338
+    },
+    {
+      "anchor": "designation-of-annunciator-unit-no-xx-point-no-x",
+      "end_line": 6347,
+      "heading": "Designation Of Annunciator (Unit No. Xx-Point No. X)",
+      "level": 2,
+      "start_line": 6342
+    },
+    {
+      "anchor": "air-supply-to-instrument-component-16-in-diam",
+      "end_line": 6349,
+      "heading": "Air Supply To Instrument Component $(\\%_{16}$ -In, Diam)",
+      "level": 2,
+      "start_line": 6348
+    },
+    {
+      "anchor": "leadsto-electrical-controlcircuit-on-drawing-no-xx",
+      "end_line": 6351,
+      "heading": "Leadsto Electrical Controlcircuit (On Drawing No.Xx)",
+      "level": 2,
+      "start_line": 6350
+    },
+    {
+      "anchor": "process-electrical-power-on-drawing-no-xx",
+      "end_line": 6357,
+      "heading": "Process Electrical Power (On Drawing No. Xx)",
+      "level": 2,
+      "start_line": 6352
+    },
+    {
+      "anchor": "ornl-dwg-64-9110",
+      "end_line": 6371,
+      "heading": "Ornl Dwg 64-9110",
+      "level": 2,
+      "start_line": 6358
+    },
+    {
+      "anchor": "ecc-xx",
+      "end_line": 6381,
+      "heading": "Ecc Xx",
+      "level": 2,
+      "start_line": 6372
+    },
+    {
+      "anchor": "symbols-used-in-msre-drawing-identification-number",
+      "end_line": 6383,
+      "heading": "SYMBOLS USED IN MSRE DRAWING IDENTIFICATION NUMBER",
+      "level": 1,
+      "start_line": 6382
+    },
+    {
+      "anchor": "aa-flowsheets",
+      "end_line": 6393,
+      "heading": "AA Flowsheets",
+      "level": 1,
+      "start_line": 6384
+    },
+    {
+      "anchor": "bb-reactor",
+      "end_line": 6405,
+      "heading": "BB Reactor",
+      "level": 1,
+      "start_line": 6394
+    },
+    {
+      "anchor": "cc-pumps",
+      "end_line": 6417,
+      "heading": "CC Pumps",
+      "level": 1,
+      "start_line": 6406
+    },
+    {
+      "anchor": "dd-radiator",
+      "end_line": 6429,
+      "heading": "DD Radiator",
+      "level": 1,
+      "start_line": 6418
+    },
+    {
+      "anchor": "ee-heat-exchanger",
+      "end_line": 6441,
+      "heading": "EE Heat Exchanger",
+      "level": 1,
+      "start_line": 6430
+    },
+    {
+      "anchor": "ff-salt-storage-and-handling",
+      "end_line": 6453,
+      "heading": "FF Salt Storage and Handling",
+      "level": 1,
+      "start_line": 6442
+    },
+    {
+      "anchor": "gg-process-piping",
+      "end_line": 6467,
+      "heading": "GG Process Piping",
+      "level": 1,
+      "start_line": 6454
+    },
+    {
+      "anchor": "hh-instrumentation-and-control",
+      "end_line": 6479,
+      "heading": "HH Instrumentation and Control",
+      "level": 1,
+      "start_line": 6468
+    },
+    {
+      "anchor": "jj-gas-system",
+      "end_line": 6493,
+      "heading": "JJ Gas System",
+      "level": 1,
+      "start_line": 6480
+    },
+    {
+      "anchor": "kk-building-and-services",
+      "end_line": 6507,
+      "heading": "KK Building and Services",
+      "level": 1,
+      "start_line": 6494
+    },
+    {
+      "anchor": "ll-maintenance-equipment",
+      "end_line": 6521,
+      "heading": "LL Maintenance Equipment",
+      "level": 1,
+      "start_line": 6508
+    },
+    {
+      "anchor": "mm-process-heating",
+      "end_line": 6531,
+      "heading": "MM Process Heating",
+      "level": 1,
+      "start_line": 6522
+    },
+    {
+      "anchor": "zz-miscellaneous",
+      "end_line": 6541,
+      "heading": "ZZ Miscellaneous",
+      "level": 1,
+      "start_line": 6532
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 6695,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 6542
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 6710,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 6696
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0728",
+  "tables": [],
+  "title": "ORNL-TM-728",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "instrumentation-and-controls",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,1364 @@
+{
+  "authors": [
+    "AIRCRAFT NUCLEAR PROPULSION PROJECT",
+    "APPROVED FOR PUBLIC RELEASE",
+    "Name/Title: Leesa Laymance",
+    "ORNL TIO"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2840.jsonl",
+  "date_text": "December 21, 2015",
+  "doc_id": "ornl-2840",
+  "document_type": "semiannual-progress-report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 54,
+        "line_hits": [
+          125,
+          139,
+          141,
+          147,
+          149,
+          169,
+          175,
+          211,
+          255,
+          269,
+          283,
+          289,
+          299,
+          307,
+          359,
+          487,
+          489,
+          501,
+          509,
+          517,
+          528,
+          565,
+          571,
+          587,
+          589,
+          667,
+          671,
+          684,
+          686,
+          688,
+          690,
+          695,
+          711,
+          713,
+          715,
+          717,
+          719,
+          768,
+          810,
+          812,
+          879,
+          899,
+          924,
+          1049,
+          1051,
+          1064,
+          1067,
+          1101,
+          1460,
+          1462
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 43,
+        "line_hits": [
+          180,
+          181,
+          189,
+          317,
+          323,
+          327,
+          489,
+          498,
+          509,
+          517,
+          528,
+          563,
+          764,
+          768,
+          1089,
+          1091,
+          1093,
+          1095,
+          1097,
+          1099,
+          1101,
+          1103,
+          1105,
+          1107,
+          1111,
+          1113,
+          1124,
+          1129,
+          1151,
+          1153,
+          1173,
+          1186,
+          1192,
+          1194,
+          1196,
+          1203,
+          1205,
+          1209,
+          1213,
+          1215,
+          1221,
+          1626,
+          1729
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          145,
+          147,
+          271,
+          273,
+          699,
+          701,
+          703,
+          709,
+          711,
+          715,
+          723
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          229,
+          371,
+          1578,
+          1598,
+          1604,
+          1626,
+          1640,
+          1660
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          255,
+          283,
+          482,
+          509,
+          517,
+          528,
+          565
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          331,
+          1229,
+          1241,
+          1243,
+          1257
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          331,
+          1229,
+          1241,
+          1243,
+          1257
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          283,
+          770,
+          778,
+          782,
+          1101
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1291
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 12,
+        "line_hits": [
+          363,
+          383,
+          385,
+          1505,
+          1513,
+          1517,
+          1523,
+          1768,
+          1770,
+          1772,
+          1784,
+          1785
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          301,
+          938,
+          1079
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          845,
+          1079
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          996
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 59,
+        "line_hits": [
+          13,
+          39,
+          55,
+          79,
+          105,
+          387,
+          517,
+          690,
+          692,
+          799,
+          800,
+          867,
+          1075,
+          1119,
+          1453,
+          1523,
+          1573,
+          1578,
+          1626,
+          1677,
+          1683,
+          1685,
+          1803,
+          1880,
+          1884,
+          2050,
+          2052,
+          2054,
+          2056,
+          2058,
+          2064,
+          2066,
+          2068,
+          2070,
+          2072,
+          2074,
+          2076,
+          2078,
+          2080,
+          2082,
+          2084,
+          2086,
+          2088,
+          2090,
+          2092,
+          2094,
+          2096,
+          2098,
+          2100,
+          2102
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          105,
+          1091,
+          1111,
+          1119,
+          1966,
+          1968
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          47,
+          89,
+          1075,
+          1930,
+          2044
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          105,
+          379,
+          1739,
+          2018
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1896,
+          1910,
+          1928
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1383,
+          1920
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          43,
+          85
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2038
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 132,
+        "line_hits": [
+          293,
+          297,
+          299,
+          301,
+          313,
+          317,
+          319,
+          347,
+          355,
+          365,
+          377,
+          387,
+          399,
+          410,
+          412,
+          424,
+          426,
+          438,
+          448,
+          458,
+          475,
+          491,
+          505,
+          511,
+          513,
+          522,
+          528,
+          567,
+          573,
+          575,
+          585,
+          614,
+          655,
+          669,
+          690,
+          701,
+          715,
+          727,
+          748,
+          764,
+          770,
+          782,
+          806,
+          808,
+          810,
+          841,
+          855,
+          865,
+          873,
+          881
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          859
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          637,
+          641,
+          647
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          938
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f6fdf7544fcaa8442bf67abd5a0ac0291891cc89f2eba839ab55ee6a42b90b00",
+  "markdown_path": "pdf/ORNL-2840/ORNL-2840/hybrid_ocr/ORNL-2840.md",
+  "report_number": "ORNL-2840",
+  "report_numbers": [
+    "ORNL-2840"
+  ],
+  "report_series": null,
+  "section_count": 126,
+  "sections": [
+    {
+      "anchor": "aircraft-nuclear-propulsion-project",
+      "end_line": 4,
+      "heading": "Aircraft Nuclear Propulsion Project",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "semiannual-progress-report",
+      "end_line": 6,
+      "heading": "Semiannual Progress Report",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "for-period-ending-october-31-1959",
+      "end_line": 10,
+      "heading": "For Period Ending October 31, 1959",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "approved-for-public-release",
+      "end_line": 28,
+      "heading": "Approved For Public Release",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "segret",
+      "end_line": 38,
+      "heading": "-Segret",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 42,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 46,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 48,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "eetied-data",
+      "end_line": 54,
+      "heading": "Eetied:Data",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "ornl-2840",
+      "end_line": 68,
+      "heading": "Ornl-2840",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "aircraft-nuclear-propulsion-project",
+      "end_line": 70,
+      "heading": "Aircraft Nuclear Propulsion Project",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "semiannual-progress-report",
+      "end_line": 76,
+      "heading": "Semiannual Progress Report",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "dec-291959",
+      "end_line": 78,
+      "heading": "Dec 291959",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 84,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 88,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 102,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 108,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "contents",
+      "end_line": 110,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "summary",
+      "end_line": 112,
+      "heading": "Summary",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "part-1-materials-research-and-engineering",
+      "end_line": 114,
+      "heading": "PART 1. MATERIALS RESEARCH AND ENGINEERING",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "1-materials-preparation-and-fabrication-research-3",
+      "end_line": 134,
+      "heading": "1. MATERIALS PREPARATION AND FABRICATION RESEARCH 3",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "2-materials-compatibility-studies-24",
+      "end_line": 156,
+      "heading": "2. MATERIALS COMPATIBILITY STUDIES 24",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "3-welding-and-brazing-studies-38",
+      "end_line": 164,
+      "heading": "3、WELDING AND BRAZING STUDIES 38",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "4-mechanical-properties-investigations-44",
+      "end_line": 171,
+      "heading": "4. MECHANICAL PROPERTIES INVESTIGATIONS 44",
+      "level": 1,
+      "start_line": 165
+    },
+    {
+      "anchor": "5-engineering-and-heat-transfer-studies-55",
+      "end_line": 177,
+      "heading": "5. ENGINEERING AND HEAT TRANSFER STUDIES 55",
+      "level": 2,
+      "start_line": 172
+    },
+    {
+      "anchor": "6-ceramics-research-64",
+      "end_line": 190,
+      "heading": "6. CERAMICS RESEARCH 64",
+      "level": 2,
+      "start_line": 178
+    },
+    {
+      "anchor": "7-radiation-effects-79",
+      "end_line": 195,
+      "heading": "7. RADIATION EFFECTS 79",
+      "level": 2,
+      "start_line": 191
+    },
+    {
+      "anchor": "8-advanced-power-plant-studies-87",
+      "end_line": 200,
+      "heading": "8. ADVANCED POWER PLANT STUDIES 87",
+      "level": 2,
+      "start_line": 196
+    },
+    {
+      "anchor": "part-2-shielding",
+      "end_line": 202,
+      "heading": "PART 2. SHIELDING",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "9-shielding-theory-97",
+      "end_line": 209,
+      "heading": "9. SHIELDING THEORY 97",
+      "level": 2,
+      "start_line": 203
+    },
+    {
+      "anchor": "10-lid-tank-shielding-facility-109",
+      "end_line": 213,
+      "heading": "10.Lid Tank Shielding Facility 109",
+      "level": 2,
+      "start_line": 210
+    },
+    {
+      "anchor": "secret",
+      "end_line": 215,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "11-bulk-shielding-facility-112",
+      "end_line": 230,
+      "heading": "11. BULK SHIELDING FACILITY 112",
+      "level": 1,
+      "start_line": 216
+    },
+    {
+      "anchor": "12-tower-shielding-facility-129",
+      "end_line": 240,
+      "heading": "12. TOWER SHIELDING FACILITY 129",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "tower-shielding-reactor-ii-146",
+      "end_line": 242,
+      "heading": "TOWER SHIELDING REACTOR II 146",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "anp-project-semiannual-progress-report",
+      "end_line": 244,
+      "heading": "ANP PROJECT SEMIANNUAL PROGRESS REPORT",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "summary",
+      "end_line": 246,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "part-1-materials-research-and-engineering",
+      "end_line": 248,
+      "heading": "Part 1. Materials Research and Engineering",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "1-materials-preparation-and-fabrication-research",
+      "end_line": 262,
+      "heading": "1. Materials Preparation and Fabrication Research",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "2-materials-compatibility-studies",
+      "end_line": 286,
+      "heading": "2. Materials Compatibility Studies",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "3-welding-and-brazing-studies",
+      "end_line": 294,
+      "heading": "3. Welding and Brazing Studies",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "4-mechanical-properties-investigations",
+      "end_line": 302,
+      "heading": "4. Mechanical Properties Investigations",
+      "level": 1,
+      "start_line": 295
+    },
+    {
+      "anchor": "5-heat-transfer-studies-and-seal-development",
+      "end_line": 314,
+      "heading": "5. Heat Transfer Studies and Seal Development",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "6-ceramics-research",
+      "end_line": 324,
+      "heading": "6. Ceramics Research",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "7-radiation-effects",
+      "end_line": 332,
+      "heading": "7. Radiation Effects",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "8-advanced-power-plant-studies",
+      "end_line": 338,
+      "heading": "8. Advanced Power Plant Studies",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "part-2-shielding",
+      "end_line": 340,
+      "heading": "Part 2. Shielding",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "9-shielding-theory",
+      "end_line": 356,
+      "heading": "9. Shielding Theory",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "10-lid-tank-shielding-facility",
+      "end_line": 360,
+      "heading": "10. Lid Tank Shielding Facility",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "11-bulk-shielding-facility",
+      "end_line": 372,
+      "heading": "11. Bulk Shielding Facility",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "12-tower-shielding-facility",
+      "end_line": 380,
+      "heading": "12. Tower Shielding Facility",
+      "level": 1,
+      "start_line": 373
+    },
+    {
+      "anchor": "13-tower-shielding-reactor-ii",
+      "end_line": 390,
+      "heading": "13. Tower Shielding Reactor II",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "part-1-materials-research-and-engineering",
+      "end_line": 392,
+      "heading": "Part 1. Materials Research And Engineering",
+      "level": 2,
+      "start_line": 391
+    },
+    {
+      "anchor": "columbium-alloys",
+      "end_line": 394,
+      "heading": "Columbium Alloys",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "effect-of-oxygen-on-columbiun-metal",
+      "end_line": 427,
+      "heading": "Effect of Oxygen on Columbiun Metal",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "reaction-rates-of-columbium-in-low-pressure-cases",
+      "end_line": 470,
+      "heading": "Reaction Rates of Columbium in Low-Pressure Cases",
+      "level": 1,
+      "start_line": 428
+    },
+    {
+      "anchor": "characteristics-of-various-colombium-base-alloys",
+      "end_line": 568,
+      "heading": "Characteristics of Various Colombium-Base Alloys",
+      "level": 1,
+      "start_line": 471
+    },
+    {
+      "anchor": "aging-studies-of-columbia-zireonium-alloys",
+      "end_line": 590,
+      "heading": "Aging Studies of Columbia-Zireonium Alloys",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "yttrium-studies",
+      "end_line": 592,
+      "heading": "Yttrium Studies",
+      "level": 1,
+      "start_line": 591
+    },
+    {
+      "anchor": "zone-refining-of-yttrium",
+      "end_line": 615,
+      "heading": "Zone Refining of Yttrium",
+      "level": 1,
+      "start_line": 593
+    },
+    {
+      "anchor": "yttrium-preparation",
+      "end_line": 638,
+      "heading": "Yttrium Preparation",
+      "level": 1,
+      "start_line": 616
+    },
+    {
+      "anchor": "purification-of-lithium-metal-by-salt-extraction",
+      "end_line": 648,
+      "heading": "Purification of Lithium Metal by Salt Extraction",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "2-materials-compatibility-studies",
+      "end_line": 650,
+      "heading": "2. MATERIALS COMPATIBILITY STUDIES",
+      "level": 1,
+      "start_line": 649
+    },
+    {
+      "anchor": "effect-of-oxygen-concentration-and-subsequent-exposure-to-lithium-on-the-room-temperature-tensile",
+      "end_line": 652,
+      "heading": "Effect of Oxygen Concentration and Subsequent Exposure to Lithium on the Room-Temperature Tensile",
+      "level": 1,
+      "start_line": 651
+    },
+    {
+      "anchor": "properties-of-columbia",
+      "end_line": 698,
+      "heading": "Properties of Columbia",
+      "level": 1,
+      "start_line": 653
+    },
+    {
+      "anchor": "columbium-sodium-type-316-stainless-steel-system",
+      "end_line": 743,
+      "heading": "Columbium-Sodium-Type 316 Stainless Steel System",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "screening-tests-of-the-corrosion-of-various",
+      "end_line": 759,
+      "heading": "Screening Tests of the Corrosion of Various",
+      "level": 1,
+      "start_line": 744
+    },
+    {
+      "anchor": "screening-tests-of-brazing-alloys-in-lithium",
+      "end_line": 779,
+      "heading": "Screening Tests of Brazing Alloys in Lithium",
+      "level": 1,
+      "start_line": 760
+    },
+    {
+      "anchor": "corrosion-of-beo-by-molten-lithium",
+      "end_line": 801,
+      "heading": "Corrosion of BeO by Molten Lithium",
+      "level": 1,
+      "start_line": 780
+    },
+    {
+      "anchor": "3-weding-and-brazing-studies",
+      "end_line": 834,
+      "heading": "3. WEDING AND BRAZING STUDIES",
+      "level": 1,
+      "start_line": 802
+    },
+    {
+      "anchor": "welding-of-columbium-plate",
+      "end_line": 842,
+      "heading": "Welding of Columbium Plate",
+      "level": 1,
+      "start_line": 835
+    },
+    {
+      "anchor": "fabrication-of-stainless-steel-clad-columbium-radiators",
+      "end_line": 898,
+      "heading": "Fabrication of Stainless-Steel-Clad Columbium Radiators",
+      "level": 1,
+      "start_line": 843
+    },
+    {
+      "anchor": "aging-of-columbium-zirconium-alloy-specimens",
+      "end_line": 902,
+      "heading": "Aging of Columbium-Zirconium Alloy Specimens",
+      "level": 1,
+      "start_line": 899
+    },
+    {
+      "anchor": "unclassified-y-30285",
+      "end_line": 909,
+      "heading": "Unclassified Y-30285",
+      "level": 2,
+      "start_line": 903
+    },
+    {
+      "anchor": "unclassified-y-28954",
+      "end_line": 916,
+      "heading": "Unclassified Y-28954",
+      "level": 2,
+      "start_line": 910
+    },
+    {
+      "anchor": "one-inch",
+      "end_line": 935,
+      "heading": "ONE INCH",
+      "level": 1,
+      "start_line": 917
+    },
+    {
+      "anchor": "effects-of-thermal-stress-cycling-on-structural-materials",
+      "end_line": 958,
+      "heading": "Effects of Thermal-Stress Cycling on Structural Materials",
+      "level": 1,
+      "start_line": 936
+    },
+    {
+      "anchor": "where",
+      "end_line": 993,
+      "heading": "where",
+      "level": 1,
+      "start_line": 959
+    },
+    {
+      "anchor": "molten-lithium-heat-transfer",
+      "end_line": 1048,
+      "heading": "Molten Lithium Heat Transfer",
+      "level": 1,
+      "start_line": 994
+    },
+    {
+      "anchor": "thermal-properties-of-columbium-zirconium-alloys",
+      "end_line": 1072,
+      "heading": "Thermal Properties of Columbium-Zirconium Alloys",
+      "level": 1,
+      "start_line": 1049
+    },
+    {
+      "anchor": "dynamic-seal-research",
+      "end_line": 1086,
+      "heading": "Dynamic Seal Research",
+      "level": 1,
+      "start_line": 1073
+    },
+    {
+      "anchor": "6-ceramics-research",
+      "end_line": 1088,
+      "heading": "6. CERAMICS RESEARCH",
+      "level": 1,
+      "start_line": 1087
+    },
+    {
+      "anchor": "preparation-of-beryllium-oxide",
+      "end_line": 1102,
+      "heading": "Preparation of Beryllium Oxide",
+      "level": 1,
+      "start_line": 1089
+    },
+    {
+      "anchor": "beryllium-oxide-calcining-studies",
+      "end_line": 1136,
+      "heading": "Beryllium Oxide Calcining Studies",
+      "level": 1,
+      "start_line": 1103
+    },
+    {
+      "anchor": "studies-of-the-ginterability-of-beo",
+      "end_line": 1138,
+      "heading": "Studies of the Ginterability of BeO",
+      "level": 1,
+      "start_line": 1137
+    },
+    {
+      "anchor": "effects-of-process-variables-on-density",
+      "end_line": 1154,
+      "heading": "Effects of Process Variables on Density",
+      "level": 1,
+      "start_line": 1139
+    },
+    {
+      "anchor": "vacuum-sintering",
+      "end_line": 1163,
+      "heading": "Vacuum Sintering",
+      "level": 1,
+      "start_line": 1155
+    },
+    {
+      "anchor": "uncl-assisfedy-e-144",
+      "end_line": 1176,
+      "heading": "Uncl Assisfedy E 144",
+      "level": 2,
+      "start_line": 1164
+    },
+    {
+      "anchor": "stages-of-sintering",
+      "end_line": 1202,
+      "heading": "Stages of Sintering",
+      "level": 1,
+      "start_line": 1177
+    },
+    {
+      "anchor": "analyses-of-beryllium-oxide",
+      "end_line": 1216,
+      "heading": "Analyses of Beryllium Oxide",
+      "level": 1,
+      "start_line": 1203
+    },
+    {
+      "anchor": "7-radiation-effects",
+      "end_line": 1218,
+      "heading": "7. RADIATION EFFECTS",
+      "level": 1,
+      "start_line": 1217
+    },
+    {
+      "anchor": "irradiation-of-moderator-materials-in-the-etr",
+      "end_line": 1224,
+      "heading": "Irradiation of Moderator Materials in the ETR",
+      "level": 1,
+      "start_line": 1219
+    },
+    {
+      "anchor": "creep-and-stress-rupture-tests-under-irradiation",
+      "end_line": 1280,
+      "heading": "Creep and Stress Rupture Tests Under Irradiation",
+      "level": 1,
+      "start_line": 1225
+    },
+    {
+      "anchor": "space-power-units",
+      "end_line": 1286,
+      "heading": "Space Power Units",
+      "level": 1,
+      "start_line": 1281
+    },
+    {
+      "anchor": "vortex-reactor-experiments",
+      "end_line": 1349,
+      "heading": "Vortex Reactor Experiments",
+      "level": 1,
+      "start_line": 1287
+    },
+    {
+      "anchor": "part-2-shielding",
+      "end_line": 1351,
+      "heading": "Part 2. Shielding",
+      "level": 2,
+      "start_line": 1350
+    },
+    {
+      "anchor": "9-sheilding-theory",
+      "end_line": 1353,
+      "heading": "9. SHEILDING THEORY",
+      "level": 1,
+      "start_line": 1352
+    },
+    {
+      "anchor": "monte-carlo-calculations-of-response-functions-of-gamma-ray-scintillation-detectors",
+      "end_line": 1422,
+      "heading": "Monte Carlo Calculations of Response Functions of Gamma-Ray Scintillation Detectors",
+      "level": 1,
+      "start_line": 1354
+    },
+    {
+      "anchor": "monte-carlo-calculations-of-dose-rates-inside-a-cylindrical-crew-compartment4",
+      "end_line": 1432,
+      "heading": "Monte Carlo Calculations of Dose Rates Inside a Cylindrical Crew Compartment4",
+      "level": 1,
+      "start_line": 1423
+    },
+    {
+      "anchor": "a-monte-carlo-code-for-the-calculation-of-deep-penetrations-of-gamma-rays",
+      "end_line": 1457,
+      "heading": "A Monte Carlo Code for the Calculation of Deep Penetrations of Gamma Rays",
+      "level": 1,
+      "start_line": 1433
+    },
+    {
+      "anchor": "10-lid-tank-shielding-facility",
+      "end_line": 1459,
+      "heading": "10、LID TANK SHIELDING FACILITY",
+      "level": 1,
+      "start_line": 1458
+    },
+    {
+      "anchor": "effective-neutron-removal-cross-section-for-zirconium",
+      "end_line": 1478,
+      "heading": "Effective Neutron Removal Cross Section for Zirconium",
+      "level": 1,
+      "start_line": 1460
+    },
+    {
+      "anchor": "experimental-flux-depression-and-other-corrections-for-gold-foils-exposed-in-water",
+      "end_line": 1482,
+      "heading": "Experimental Flux Depression and Other Corrections for Gold Foils Exposed in Water",
+      "level": 1,
+      "start_line": 1479
+    },
+    {
+      "anchor": "stainless-steel-mathrm-uo-2-reactor-bsr-ii",
+      "end_line": 1486,
+      "heading": "Stainless Steel- $\\mathrm{UO_2}$ Reactor (BSR-II)",
+      "level": 1,
+      "start_line": 1483
+    },
+    {
+      "anchor": "design-changes",
+      "end_line": 1494,
+      "heading": "Design Changes",
+      "level": 1,
+      "start_line": 1487
+    },
+    {
+      "anchor": "critical-experiments",
+      "end_line": 1510,
+      "heading": "Critical Experiments",
+      "level": 1,
+      "start_line": 1495
+    },
+    {
+      "anchor": "recent-reactivity-calculations",
+      "end_line": 1520,
+      "heading": "Recent Reactivity Calculations",
+      "level": 1,
+      "start_line": 1511
+    },
+    {
+      "anchor": "spert-1-tests",
+      "end_line": 1524,
+      "heading": "SPERT-1 Tests",
+      "level": 1,
+      "start_line": 1521
+    },
+    {
+      "anchor": "the-model-iv-gamma-ray-spectrometer",
+      "end_line": 1538,
+      "heading": "The Model IV Gamma-Ray Spectrometer",
+      "level": 1,
+      "start_line": 1525
+    },
+    {
+      "anchor": "investigation-of-the-nonproportionality-of-response-of-a-sodium-iodide-thallium-activated-scintillation",
+      "end_line": 1540,
+      "heading": "Investigation of the Nonproportionality of Response of a Sodium Iodide (Thallium-Activated) Scintillation",
+      "level": 1,
+      "start_line": 1539
+    },
+    {
+      "anchor": "crystal-to-gamma-rays",
+      "end_line": 1560,
+      "heading": "Crystal to Gamma Rays",
+      "level": 1,
+      "start_line": 1541
+    },
+    {
+      "anchor": "energy-spectra-of-gamma-rays-associated-with",
+      "end_line": 1562,
+      "heading": "Energy Spectra of Gamma Rays Associated with",
+      "level": 1,
+      "start_line": 1561
+    },
+    {
+      "anchor": "the-thermal-fission-of-u235",
+      "end_line": 1597,
+      "heading": "the Thermal Fission of U235",
+      "level": 1,
+      "start_line": 1563
+    },
+    {
+      "anchor": "correction-factors-for-foil-activation-measurements-of-neutron-fluxes-in-water-and-graphite",
+      "end_line": 1661,
+      "heading": "Correction Factors for Foil-Activation Measurements of Neutron Fluxes in Water and Graphite",
+      "level": 1,
+      "start_line": 1598
+    },
+    {
+      "anchor": "12-tower-shielding-facility",
+      "end_line": 1674,
+      "heading": "12. TOWER SHIELDING FACILITY",
+      "level": 1,
+      "start_line": 1662
+    },
+    {
+      "anchor": "intra-laboratory-correspondence",
+      "end_line": 1676,
+      "heading": "INTRA-LABORATORY CORRESPONDENCE",
+      "level": 1,
+      "start_line": 1675
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 1713,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 1677
+    },
+    {
+      "anchor": "tsr-iii-experimental-shielding-program",
+      "end_line": 1717,
+      "heading": "TSR-III Experimental Shielding Program",
+      "level": 1,
+      "start_line": 1714
+    },
+    {
+      "anchor": "beam-differential-experiments",
+      "end_line": 1736,
+      "heading": "Beam Differential Experiments",
+      "level": 1,
+      "start_line": 1718
+    },
+    {
+      "anchor": "shield-mockup-experiments",
+      "end_line": 1765,
+      "heading": "Shield Mockup Experiments",
+      "level": 1,
+      "start_line": 1737
+    },
+    {
+      "anchor": "13-tower-sheilding-reactor-ii",
+      "end_line": 1806,
+      "heading": "13. TOWER SHEILDING REACTOR II",
+      "level": 1,
+      "start_line": 1766
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1836,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1807
+    },
+    {
+      "anchor": "28-m-r-hill",
+      "end_line": 1891,
+      "heading": "28. M.R.Hill",
+      "level": 2,
+      "start_line": 1837
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2127,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1892
+    },
+    {
+      "anchor": "secret",
+      "end_line": 2129,
+      "heading": "Secret",
+      "level": 2,
+      "start_line": 2128
+    },
+    {
+      "anchor": "segre",
+      "end_line": 2136,
+      "heading": "Segre",
+      "level": 2,
+      "start_line": 2130
+    }
+  ],
+  "source_dir": "pdf/ORNL-2840",
+  "tables": [],
+  "title": "![](images/5b749ff087384a6cd1d37ce3213610645a94a0a690a19ed1d5dee122aa3ebbd0.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "instrumentation-and-controls"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

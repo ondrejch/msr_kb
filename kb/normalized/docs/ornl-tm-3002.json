@@ -1,0 +1,478 @@
+{
+  "authors": [
+    "MASTER",
+    "C. H. Gabbard",
+    "LEGAL NOTICE",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3002.jsonl",
+  "date_text": "March 1968",
+  "doc_id": "ornl-tm-3002",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          217
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 34,
+        "line_hits": [
+          41,
+          45,
+          51,
+          79,
+          81,
+          83,
+          89,
+          133,
+          161,
+          201,
+          203,
+          205,
+          211,
+          213,
+          215,
+          220,
+          222,
+          224,
+          240,
+          248,
+          250,
+          266,
+          274,
+          279,
+          283,
+          286,
+          290,
+          292,
+          323,
+          325,
+          327,
+          342,
+          345,
+          347
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          115,
+          135,
+          149,
+          151,
+          182
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          133,
+          145
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 14,
+        "line_hits": [
+          1,
+          100,
+          333,
+          335,
+          338,
+          339,
+          340,
+          341,
+          342,
+          344,
+          345,
+          348,
+          516,
+          536
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          388,
+          400,
+          448,
+          462,
+          486,
+          492,
+          498,
+          500,
+          504,
+          506
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 35,
+        "line_hits": [
+          11,
+          71,
+          77,
+          79,
+          83,
+          87,
+          89,
+          93,
+          98,
+          100,
+          113,
+          151,
+          157,
+          180,
+          189,
+          203,
+          215,
+          217,
+          220,
+          242,
+          250,
+          279,
+          283,
+          286,
+          319,
+          323,
+          327,
+          333,
+          334,
+          335,
+          336,
+          337,
+          342,
+          347,
+          348
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          89,
+          123,
+          125,
+          145,
+          151,
+          167,
+          173,
+          191,
+          215,
+          283,
+          290,
+          314,
+          316,
+          325
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          87
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c80c8e82fe11515c669579527b9cb3b9dd08b2725f13e7c5c53875fa034a0137",
+  "markdown_path": "pdf/ORNL-TM-3002/ORNL-TM-3002/hybrid_ocr/ORNL-TM-3002.md",
+  "report_number": "ORNL-TM-3002",
+  "report_numbers": [
+    "ORNL-TM-3002"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 37,
+  "sections": [
+    {
+      "anchor": "ornl-tm-3002",
+      "end_line": 2,
+      "heading": "Ornl-Tm- 3002",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-109",
+      "end_line": 6,
+      "heading": "Copy No. -109",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "master",
+      "end_line": 8,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "reactor-power-measurement-and-heat-transfer-performance",
+      "end_line": 10,
+      "heading": "Reactor Power Measurement And Heat Transfer Performance",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "in-the-molten-salt-reactor-experiment",
+      "end_line": 14,
+      "heading": "In The Molten Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 23,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "contents",
+      "end_line": 27,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 24
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 28,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "introduction-2",
+      "end_line": 30,
+      "heading": "Introduction 2",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "measurement-of-reactor-power-2",
+      "end_line": 40,
+      "heading": "Measurement Of Reactor Power 2",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "performance-of-the-main-heat-exchanger-and-radiator-15",
+      "end_line": 54,
+      "heading": "Performance Of The Main Heat Exchanger And Radiator. 15",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "conclusions-and-recommendations-27",
+      "end_line": 56,
+      "heading": "Conclusions And Recommendations. 27",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "references-29",
+      "end_line": 58,
+      "heading": "References 29",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 70,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "reactor-power-measurement-and-heat-transfer-performance-in-the-molten-salt-reactor-experiment",
+      "end_line": 74,
+      "heading": "REACTOR POWER MEASUREMENT AND HEAT TRANSFER PERFORMANCE IN THE MOLTEN SALT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 71
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 84,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 90,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "measurement-of-reactor-power",
+      "end_line": 103,
+      "heading": "MEASUREMENT OF REACTOR POWER",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "normal-heat-balance-calculation",
+      "end_line": 146,
+      "heading": "Normal Heat Balance Calculation",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "coolant-system-pressure-drop",
+      "end_line": 152,
+      "heading": "Coolant System Pressure Drop",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 162,
+      "heading": "Table II",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "air-heat-balance-calculation",
+      "end_line": 177,
+      "heading": "Air Heat Balance Calculation",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 200,
+      "heading": "Table III",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "performance-of-the-main-heat-exchanger-and-radiator",
+      "end_line": 208,
+      "heading": "PERFORMANCE OF THE MAIN HEAT EXCHANGER AND RADIATOR",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "design-review",
+      "end_line": 210,
+      "heading": "Design Review",
+      "level": 1,
+      "start_line": 209
+    },
+    {
+      "anchor": "primary-heat-exchanger",
+      "end_line": 235,
+      "heading": "Primary Heat Exchanger",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "coolant-radiator",
+      "end_line": 245,
+      "heading": "Coolant Radiator",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "analysis-of-performance",
+      "end_line": 247,
+      "heading": "Analysis of Performance",
+      "level": 1,
+      "start_line": 246
+    },
+    {
+      "anchor": "primary-heat-exchanger",
+      "end_line": 293,
+      "heading": "Primary Heat Exchanger",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "coolant-radiator",
+      "end_line": 320,
+      "heading": "Coolant Radiator",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "conclusions-and-recommendations",
+      "end_line": 330,
+      "heading": "CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "references",
+      "end_line": 349,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 515,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 350
+    },
+    {
+      "anchor": "ornl-tm-3002",
+      "end_line": 517,
+      "heading": "Ornl-Tm-3002",
+      "level": 2,
+      "start_line": 516
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 519,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "continued",
+      "end_line": 537,
+      "heading": "(continued)",
+      "level": 1,
+      "start_line": 520
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 541,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 538
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3002",
+  "tables": [],
+  "title": "ORNL-TM- 3002",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,1103 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "UNION",
+    "CARBIDE",
+    "MASTEK",
+    "W. L. Carter",
+    "R. P. Milford",
+    "W. G. Stockdale",
+    "Capital Cost ($)"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-522.jsonl",
+  "date_text": "October 10, 1962",
+  "doc_id": "ornl-tm-522",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 7,
+        "line_hits": [
+          321,
+          530,
+          708,
+          710,
+          714,
+          732,
+          736
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          321,
+          361,
+          792
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          710,
+          736
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          415,
+          960
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          740
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          530
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          415
+        ],
+        "name": "niobium"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          321,
+          361,
+          395,
+          487
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          107,
+          574,
+          583
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          578,
+          586
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          487
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          361
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          736
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          361
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 24,
+        "line_hits": [
+          3,
+          19,
+          57,
+          350,
+          483,
+          495,
+          503,
+          507,
+          521,
+          542,
+          558,
+          578,
+          623,
+          650,
+          706,
+          842,
+          958,
+          959,
+          960,
+          964,
+          967,
+          968,
+          973,
+          974
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          15,
+          648,
+          966,
+          1044,
+          1045,
+          1046,
+          1047
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          7,
+          902,
+          948
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 60,
+        "line_hits": [
+          319,
+          323,
+          325,
+          327,
+          331,
+          333,
+          381,
+          383,
+          401,
+          415,
+          417,
+          423,
+          429,
+          441,
+          449,
+          455,
+          485,
+          487,
+          510,
+          530,
+          532,
+          536,
+          538,
+          540,
+          542,
+          544,
+          560,
+          562,
+          566,
+          568,
+          570,
+          572,
+          574,
+          578,
+          590,
+          600,
+          614,
+          640,
+          642,
+          656,
+          660,
+          662,
+          670,
+          672,
+          674,
+          676,
+          686,
+          690,
+          694,
+          698
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          31,
+          319,
+          353,
+          390,
+          393,
+          458,
+          469,
+          754,
+          899,
+          944
+        ],
+        "name": "MSCR"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          487,
+          496,
+          510,
+          574,
+          578,
+          586,
+          708
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 12,
+        "line_hits": [
+          31,
+          319,
+          357,
+          390,
+          393,
+          458,
+          469,
+          754,
+          899,
+          916,
+          926,
+          944
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 20,
+        "line_hits": [
+          53,
+          84,
+          401,
+          411,
+          413,
+          415,
+          417,
+          419,
+          421,
+          423,
+          532,
+          534,
+          538,
+          542,
+          550,
+          640,
+          706,
+          732,
+          736,
+          792
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          31,
+          319,
+          323,
+          361,
+          372,
+          383,
+          441
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          79,
+          357,
+          379,
+          383,
+          441,
+          449
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          710
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "78e86163693ff0f300f5453d239c571d130af34c488f665a5d25d4a584fc17ee",
+  "markdown_path": "pdf/ORNL-TM-0522/ORNL-TM-0522/hybrid_ocr/ORNL-TM-0522.md",
+  "report_number": "ORNL-TM-522",
+  "report_numbers": [
+    "ORNL-TM-522"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 103,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 10,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "union",
+      "end_line": 12,
+      "heading": "Union",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "carbide",
+      "end_line": 14,
+      "heading": "Carbide",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 16,
+      "heading": "U.S. ATOMIC ENERGY COMMISSION",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "mastek",
+      "end_line": 18,
+      "heading": "Mastek",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl-tm-522",
+      "end_line": 20,
+      "heading": "Ornl-Tm-522",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "copy-no-65",
+      "end_line": 24,
+      "heading": "Copy No. - 65",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "design-studies-and-cost-estimates-of-two-fluoride-volatility-plants",
+      "end_line": 28,
+      "heading": "Design Studies And Cost Estimates Of Two Fluoride Volatility Plants",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 54,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "notice",
+      "end_line": 58,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 65,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "contents",
+      "end_line": 67,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "page",
+      "end_line": 69,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 71,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "1-0-summary",
+      "end_line": 73,
+      "heading": "1.0 SUMMARY",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "2-0-introduction",
+      "end_line": 78,
+      "heading": "2.0 INTRODUCTION",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "3-0-processing-molten-fluoride-salts",
+      "end_line": 87,
+      "heading": "3.0 PROCESSING MOLTEN FLUORIDE SALTS",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "4-0-processing-plant-design",
+      "end_line": 190,
+      "heading": "4.0 PROCESSING PLANT DESIGN",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "contents-contd",
+      "end_line": 192,
+      "heading": "CONTENTS - contd",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "4-5-over-all-plant-layout",
+      "end_line": 220,
+      "heading": "4.5 Over-all Plant Layout",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "5-0-capital-cost-estimate",
+      "end_line": 234,
+      "heading": "5.0 CAPITAL COST ESTIMATE",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "6-0-operating-cost-estimate",
+      "end_line": 239,
+      "heading": "6.0 OPERATING COST ESTIMATE",
+      "level": 1,
+      "start_line": 235
+    },
+    {
+      "anchor": "7-0-capital-cost-estimate-of-modified",
+      "end_line": 241,
+      "heading": "7.0 CAPITAL COST ESTIMATE OF MODIFIED",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "1-2-ft3-day-plant",
+      "end_line": 250,
+      "heading": "1.2 FT3/DAY PLANT",
+      "level": 2,
+      "start_line": 242
+    },
+    {
+      "anchor": "page",
+      "end_line": 316,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "1-0-summary",
+      "end_line": 347,
+      "heading": "1.0 SUMMARY",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 349,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 348
+    },
+    {
+      "anchor": "ornl-lr-dwg74109",
+      "end_line": 354,
+      "heading": "Ornl-Lr-Dwg74109",
+      "level": 2,
+      "start_line": 350
+    },
+    {
+      "anchor": "2-0-introduction",
+      "end_line": 358,
+      "heading": "2.0 INTRODUCTION",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "2-1-reactor-description",
+      "end_line": 364,
+      "heading": "2.1 Reactor Description",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "2-2-design-bases",
+      "end_line": 378,
+      "heading": "2.2 Design Bases",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "3-0-processing-molten-fluoride-salts",
+      "end_line": 384,
+      "heading": "3.0 PROCESSING MOLTEN FLUORIDE SALTS",
+      "level": 1,
+      "start_line": 379
+    },
+    {
+      "anchor": "3-1-prefluorination-storage",
+      "end_line": 398,
+      "heading": "3.1 Prefluorination Storage",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "3-2-fluorination",
+      "end_line": 404,
+      "heading": "3.2 Fluorination",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "3-3-waste-storage",
+      "end_line": 410,
+      "heading": "3.3 Waste Storage",
+      "level": 1,
+      "start_line": 405
+    },
+    {
+      "anchor": "3-4-naf-absorption",
+      "end_line": 424,
+      "heading": "3.4 NaF Absorption",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "3-5-cold-trap",
+      "end_line": 430,
+      "heading": "3.5 Cold Trap",
+      "level": 1,
+      "start_line": 425
+    },
+    {
+      "anchor": "3-6-reduction-and-fuel-make-up",
+      "end_line": 444,
+      "heading": "3.6 Reduction and Fuel Make-up",
+      "level": 1,
+      "start_line": 431
+    },
+    {
+      "anchor": "4-0-processing-plant-design",
+      "end_line": 446,
+      "heading": "4.0 PROCESSING PLANT DESIGN",
+      "level": 1,
+      "start_line": 445
+    },
+    {
+      "anchor": "4-1-decay-heat-removal",
+      "end_line": 456,
+      "heading": "4.1 Decay Heat Removal",
+      "level": 1,
+      "start_line": 447
+    },
+    {
+      "anchor": "table-4-1",
+      "end_line": 457,
+      "heading": "Table 4.1",
+      "level": 2,
+      "start_line": 457
+    },
+    {
+      "anchor": "decay-heat-in-molten-salt-converter-reactor",
+      "end_line": 458,
+      "heading": "Decay Heat In Molten Salt Converter Reactor",
+      "level": 2,
+      "start_line": 458
+    },
+    {
+      "anchor": "fuel-withdrawn-for-chemical-processing",
+      "end_line": 467,
+      "heading": "Fuel Withdrawn For Chemical Processing",
+      "level": 2,
+      "start_line": 459
+    },
+    {
+      "anchor": "table-4-2",
+      "end_line": 468,
+      "heading": "Table 4.2",
+      "level": 2,
+      "start_line": 468
+    },
+    {
+      "anchor": "decay-heat-in-molten-salt-converter-reactor",
+      "end_line": 469,
+      "heading": "Decay Heat In Molten Salt Converter Reactor",
+      "level": 2,
+      "start_line": 469
+    },
+    {
+      "anchor": "fuel-withdrawn-for-chemical-processing",
+      "end_line": 480,
+      "heading": "Fuel Withdrawn For Chemical Processing",
+      "level": 2,
+      "start_line": 470
+    },
+    {
+      "anchor": "4-2-equipment-design",
+      "end_line": 493,
+      "heading": "4.2 Equipment Design",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 494,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 494
+    },
+    {
+      "anchor": "ornl-lr-dwg61719",
+      "end_line": 501,
+      "heading": "Ornl-Lr-Dwg61719",
+      "level": 2,
+      "start_line": 495
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 502,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 502
+    },
+    {
+      "anchor": "ornl-lr-dwg-60838a",
+      "end_line": 587,
+      "heading": "Ornl-Lr-Dwg 60838A",
+      "level": 2,
+      "start_line": 503
+    },
+    {
+      "anchor": "4-3-shielding-calculations",
+      "end_line": 620,
+      "heading": "4.3 Shielding Calculations",
+      "level": 1,
+      "start_line": 588
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 622,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 621
+    },
+    {
+      "anchor": "ornl-lr-dwg-65606",
+      "end_line": 637,
+      "heading": "Ornl-Lr-Dwg 65606",
+      "level": 2,
+      "start_line": 623
+    },
+    {
+      "anchor": "4-4-process-equipment-layout",
+      "end_line": 645,
+      "heading": "4.4 Process Equipment Layout",
+      "level": 1,
+      "start_line": 638
+    },
+    {
+      "anchor": "4-5-plant-layout",
+      "end_line": 695,
+      "heading": "4.5 Plant Layout",
+      "level": 1,
+      "start_line": 646
+    },
+    {
+      "anchor": "5-0-capital-cost-estimate",
+      "end_line": 699,
+      "heading": "5.0 CAPITAL COST ESTIMATE",
+      "level": 1,
+      "start_line": 696
+    },
+    {
+      "anchor": "5-1-accounting-procedure",
+      "end_line": 703,
+      "heading": "5.1 Accounting Procedure",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "5-2-bases-for-estimates",
+      "end_line": 719,
+      "heading": "5.2 Bases for Estimates",
+      "level": 1,
+      "start_line": 704
+    },
+    {
+      "anchor": "5-3-process-equipment-capital-cost",
+      "end_line": 723,
+      "heading": "5.3 Process Equipment Capital Cost",
+      "level": 1,
+      "start_line": 720
+    },
+    {
+      "anchor": "table-5-1",
+      "end_line": 725,
+      "heading": "TABLE 5.1",
+      "level": 1,
+      "start_line": 724
+    },
+    {
+      "anchor": "estimated-cost-of-major-process-equipment-for",
+      "end_line": 727,
+      "heading": "ESTIMATED COST OF MAJOR PROCESS EQUIPMENT FOR",
+      "level": 1,
+      "start_line": 726
+    },
+    {
+      "anchor": "two-fluoride-volatility-plants",
+      "end_line": 741,
+      "heading": "TWO FLUORIDE VOLATILITY PLANTS",
+      "level": 1,
+      "start_line": 728
+    },
+    {
+      "anchor": "5-4-building-capital-cost",
+      "end_line": 745,
+      "heading": "5.4 Building Capital Cost",
+      "level": 1,
+      "start_line": 742
+    },
+    {
+      "anchor": "5-5-total-capital-cost",
+      "end_line": 751,
+      "heading": "5.5 Total Capital Cost",
+      "level": 1,
+      "start_line": 746
+    },
+    {
+      "anchor": "table-5-2",
+      "end_line": 752,
+      "heading": "Table 5.2",
+      "level": 2,
+      "start_line": 752
+    },
+    {
+      "anchor": "building-costs-for-two-fluoride-volatility-plants-for",
+      "end_line": 753,
+      "heading": "Building Costs For Two Fluoride Volatility Plants For",
+      "level": 2,
+      "start_line": 753
+    },
+    {
+      "anchor": "on-site-processing-of-molten-salt-converter-reactor-fuel",
+      "end_line": 764,
+      "heading": "On-Site Processing Of Molten Salt Converter Reactor Fuel",
+      "level": 2,
+      "start_line": 754
+    },
+    {
+      "anchor": "6-0-operating-cost-estimate",
+      "end_line": 768,
+      "heading": "6.0 OPERATING COST ESTIMATE",
+      "level": 1,
+      "start_line": 765
+    },
+    {
+      "anchor": "6-1-operating-manpower",
+      "end_line": 772,
+      "heading": "6.1 Operating Manpower",
+      "level": 1,
+      "start_line": 769
+    },
+    {
+      "anchor": "6-2-summary-of-direct-operating-costs",
+      "end_line": 776,
+      "heading": "6.2 Summary of Direct Operating Costs",
+      "level": 1,
+      "start_line": 773
+    },
+    {
+      "anchor": "table-6-1",
+      "end_line": 777,
+      "heading": "Table 6.1",
+      "level": 2,
+      "start_line": 777
+    },
+    {
+      "anchor": "operating-manpower-estimates-for-two-on-site",
+      "end_line": 778,
+      "heading": "Operating Manpower Estimates For Two, On-Site",
+      "level": 2,
+      "start_line": 778
+    },
+    {
+      "anchor": "fluoride-volatility-plants",
+      "end_line": 786,
+      "heading": "Fluoride Volatility Plants",
+      "level": 2,
+      "start_line": 779
+    },
+    {
+      "anchor": "table-6-2",
+      "end_line": 787,
+      "heading": "Table 6.2",
+      "level": 2,
+      "start_line": 787
+    },
+    {
+      "anchor": "summary-of-direct-operating-costs-for-two-on-site",
+      "end_line": 793,
+      "heading": "Summary Of Direct Operating Costs For Two, On-Site",
+      "level": 2,
+      "start_line": 788
+    },
+    {
+      "anchor": "7-0-capital-cost-estimate-of-modified-1-2-ft-3-day-plant",
+      "end_line": 795,
+      "heading": "7.0 CAPITAL COST ESTIMATE OF MODIFIED 1.2 FT $^3$ /DAY PLANT",
+      "level": 1,
+      "start_line": 794
+    },
+    {
+      "anchor": "7-1-modifications",
+      "end_line": 813,
+      "heading": "7.1 Modifications",
+      "level": 1,
+      "start_line": 796
+    },
+    {
+      "anchor": "7-2-process-equipment",
+      "end_line": 817,
+      "heading": "7.2 Process Equipment",
+      "level": 1,
+      "start_line": 814
+    },
+    {
+      "anchor": "7-3-waste-storage",
+      "end_line": 829,
+      "heading": "7.3 Waste Storage",
+      "level": 1,
+      "start_line": 818
+    },
+    {
+      "anchor": "7-4-process-building",
+      "end_line": 833,
+      "heading": "7.4 Process Building",
+      "level": 1,
+      "start_line": 830
+    },
+    {
+      "anchor": "7-5-total-plant-cost",
+      "end_line": 839,
+      "heading": "7.5 Total Plant Cost",
+      "level": 1,
+      "start_line": 834
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 841,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 840
+    },
+    {
+      "anchor": "ornl-lr-dwg-74110",
+      "end_line": 856,
+      "heading": "Ornl-Lr-Dwg 74110",
+      "level": 2,
+      "start_line": 842
+    },
+    {
+      "anchor": "7-6-economic-advantage",
+      "end_line": 886,
+      "heading": "7.6 Economic Advantage",
+      "level": 1,
+      "start_line": 857
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 899,
+      "heading": "Appendix",
+      "level": 2,
+      "start_line": 887
+    },
+    {
+      "anchor": "fluoride-volatility-chemical-plant",
+      "end_line": 901,
+      "heading": "Fluoride Volatility Chemical Plant",
+      "level": 2,
+      "start_line": 900
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 902,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 902
+    },
+    {
+      "anchor": "gainse-of-brak-charge-compensation",
+      "end_line": 916,
+      "heading": "Gainse Of Brak Charge Compensation",
+      "level": 2,
+      "start_line": 903
+    },
+    {
+      "anchor": "fluoride-volatility-chemical-plant",
+      "end_line": 918,
+      "heading": "Fluoride Volatility Chemical Plant",
+      "level": 2,
+      "start_line": 917
+    },
+    {
+      "anchor": "cin-on-of",
+      "end_line": 919,
+      "heading": "Cin##On Of",
+      "level": 2,
+      "start_line": 919
+    },
+    {
+      "anchor": "union-carbidic-nuclear-company",
+      "end_line": 920,
+      "heading": "Union Carbidic Nuclear Company",
+      "level": 2,
+      "start_line": 920
+    },
+    {
+      "anchor": "genome-originance-co-nnection",
+      "end_line": 935,
+      "heading": "Genome Originance Co#Nnection",
+      "level": 2,
+      "start_line": 921
+    },
+    {
+      "anchor": "section-d-d",
+      "end_line": 944,
+      "heading": "Section \"D·D\"",
+      "level": 2,
+      "start_line": 936
+    },
+    {
+      "anchor": "fluoride-volatility-chemical-plant",
+      "end_line": 946,
+      "heading": "Fluoride Volatility Chemical Plant",
+      "level": 2,
+      "start_line": 945
+    },
+    {
+      "anchor": "copayes-of",
+      "end_line": 947,
+      "heading": "Copayes Of",
+      "level": 2,
+      "start_line": 947
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 948,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 948
+    },
+    {
+      "anchor": "becases-of-bone-crafted",
+      "end_line": 953,
+      "heading": "Becases Of Bone Crafted",
+      "level": 2,
+      "start_line": 949
+    },
+    {
+      "anchor": "references",
+      "end_line": 970,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 954
+    },
+    {
+      "anchor": "references-contd",
+      "end_line": 979,
+      "heading": "REFERENCES - contd",
+      "level": 1,
+      "start_line": 971
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1041,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 980
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1048,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1042
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0522",
+  "tables": [],
+  "title": "![](images/7e0408010649f195c8401259e4c697a10252939b67992e2775a5be93e106198b.jpg)",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance",
+    "off-gas-fission-products-and-tritium",
+    "breeder-and-converter-design",
+    "salt-chemistry-and-redox",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": []
+}

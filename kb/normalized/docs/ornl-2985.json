@@ -1,0 +1,607 @@
+{
+  "authors": [
+    "NUCLEAR POWER PLANT",
+    "M. W. Rosenthal",
+    "M. M. Yarosh",
+    "C. F. Baes",
+    "Jr.",
+    "R.C.Robertson",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2985.jsonl",
+  "date_text": "1960",
+  "doc_id": "ornl-2985",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          195,
+          655,
+          970
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          407
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 26,
+        "line_hits": [
+          249,
+          259,
+          315,
+          317,
+          344,
+          391,
+          415,
+          417,
+          419,
+          497,
+          499,
+          522,
+          560,
+          612,
+          626,
+          630,
+          633,
+          641,
+          643,
+          645,
+          649,
+          659,
+          709,
+          718,
+          723,
+          725
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          499,
+          501,
+          578,
+          582,
+          584,
+          588,
+          592,
+          594,
+          598,
+          602,
+          624,
+          637,
+          639,
+          643,
+          651,
+          657,
+          718,
+          752,
+          756
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          101,
+          313,
+          317,
+          344,
+          448,
+          450,
+          453,
+          456,
+          459,
+          594,
+          651,
+          655,
+          657,
+          723
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          415,
+          456,
+          457
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          385,
+          669
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          1,
+          19,
+          61,
+          143,
+          171,
+          731,
+          738,
+          955
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          191,
+          964,
+          989,
+          993,
+          996,
+          998,
+          1003
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          27,
+          71,
+          995,
+          1013
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          23,
+          67
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 74,
+        "line_hits": [
+          147,
+          162,
+          171,
+          177,
+          213,
+          223,
+          231,
+          241,
+          247,
+          249,
+          265,
+          277,
+          294,
+          300,
+          301,
+          311,
+          315,
+          317,
+          319,
+          323,
+          331,
+          335,
+          337,
+          344,
+          348,
+          350,
+          359,
+          373,
+          375,
+          379,
+          383,
+          385,
+          387,
+          401,
+          407,
+          415,
+          419,
+          442,
+          444,
+          477,
+          479,
+          483,
+          491,
+          497,
+          499,
+          514,
+          530,
+          532,
+          538,
+          540
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "29f81d8f4ef94ecc8e13fddaeb5b031343f9d4377416c22e134b71b9c60cc00a",
+  "markdown_path": "pdf/ORNL-2985/ORNL-2985/hybrid_ocr/ORNL-2985.md",
+  "report_number": "ORNL-2985",
+  "report_numbers": [
+    "ORNL-2985"
+  ],
+  "report_series": null,
+  "section_count": 49,
+  "sections": [
+    {
+      "anchor": "ornl-2985",
+      "end_line": 4,
+      "heading": "Ornl-2985",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "the-feasibility-of-an-unattended",
+      "end_line": 6,
+      "heading": "The Feasibility Of An Unattended",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "nuclear-power-plant",
+      "end_line": 18,
+      "heading": "Nuclear Power Plant",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "1-75",
+      "end_line": 38,
+      "heading": "\\$1.75",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 49,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "the-feasibility-of-an-unattended-nuclear-power-plant",
+      "end_line": 56,
+      "heading": "The Feasibility Of An Unattended Nuclear Power Plant",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 58,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "sep-8-1960",
+      "end_line": 60,
+      "heading": "Sep 8 1960",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 66,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 70,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 74,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 78,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 80,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "some-comments-on-the-achievement-of-reliability-4",
+      "end_line": 82,
+      "heading": "Some Comments On The Achievement Of Reliability 4",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "selection-of-a-reactor-power-plant-13",
+      "end_line": 88,
+      "heading": "Selection Of A Reactor Power Plant 13",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "concept-of-a-simplified-pressurized-water-reactor-16",
+      "end_line": 114,
+      "heading": "Concept Of A Simplified Pressurized-Water Reactor 16",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "effect-of-altered-requirements-on-the-design-concept-53",
+      "end_line": 126,
+      "heading": "Effect Of Altered Requirements On The Design Concept 53",
+      "level": 2,
+      "start_line": 115
+    },
+    {
+      "anchor": "summary-and-conclusions-56",
+      "end_line": 128,
+      "heading": "Summary And Conclusions 56",
+      "level": 2,
+      "start_line": 127
+    },
+    {
+      "anchor": "references-60",
+      "end_line": 132,
+      "heading": "References 60",
+      "level": 2,
+      "start_line": 129
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 140,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 210,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "some-comments-on-the-achievement-of-reliability",
+      "end_line": 306,
+      "heading": "SOME COMMENTS ON THE ACHIEVEMENT OF RELIABILITY",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "selection-of-a-reactor-power-plant",
+      "end_line": 308,
+      "heading": "SELECTION OF A REACTOR POWER PLANT",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "reactor-type",
+      "end_line": 326,
+      "heading": "Reactor Type",
+      "level": 1,
+      "start_line": 309
+    },
+    {
+      "anchor": "power-recovery-system",
+      "end_line": 332,
+      "heading": "Power Recovery System",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "concept-of-a-simplified-pressurized-water-reactor",
+      "end_line": 341,
+      "heading": "CONCEPT OF A SIMPLIFIED PRESSURIZED-WATER REACTOR",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "primary-system",
+      "end_line": 345,
+      "heading": "Primary System",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "reactor-control",
+      "end_line": 398,
+      "heading": "Reactor Control",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "fuel-elements",
+      "end_line": 412,
+      "heading": "Fuel Elements",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "primary-coolant-pumps",
+      "end_line": 420,
+      "heading": "Primary Coolant Pumps",
+      "level": 1,
+      "start_line": 413
+    },
+    {
+      "anchor": "core-pressurizer",
+      "end_line": 447,
+      "heading": "Core Pressurizer",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "main-heat-exchanger",
+      "end_line": 460,
+      "heading": "Main Heat Exchanger",
+      "level": 1,
+      "start_line": 448
+    },
+    {
+      "anchor": "water-treatment",
+      "end_line": 492,
+      "heading": "Water Treatment",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "secondary-system",
+      "end_line": 515,
+      "heading": "Secondary System",
+      "level": 1,
+      "start_line": 493
+    },
+    {
+      "anchor": "hermetically-sealed-steam-system",
+      "end_line": 527,
+      "heading": "Hermetically Sealed Steam System",
+      "level": 1,
+      "start_line": 516
+    },
+    {
+      "anchor": "basic-features-of-the-steam-cycle",
+      "end_line": 660,
+      "heading": "Basic Features of the Steam Cycle",
+      "level": 1,
+      "start_line": 528
+    },
+    {
+      "anchor": "effect-of-altered-requirements-on-the-design-concept",
+      "end_line": 664,
+      "heading": "EFFECT OF ALTERED REQUIREMENTS ON THE DESIGN CONCEPT",
+      "level": 1,
+      "start_line": 661
+    },
+    {
+      "anchor": "communication-with-the-plant",
+      "end_line": 672,
+      "heading": "Communication with the Plant",
+      "level": 1,
+      "start_line": 665
+    },
+    {
+      "anchor": "plant-size-and-weight",
+      "end_line": 676,
+      "heading": "Plant Size and Weight",
+      "level": 1,
+      "start_line": 673
+    },
+    {
+      "anchor": "long-term-reliability-and-expendability",
+      "end_line": 686,
+      "heading": "Long-Term Reliability and Expendability",
+      "level": 1,
+      "start_line": 677
+    },
+    {
+      "anchor": "variable-loads",
+      "end_line": 694,
+      "heading": "Variable Loads",
+      "level": 1,
+      "start_line": 687
+    },
+    {
+      "anchor": "effects-of-time-schedule",
+      "end_line": 698,
+      "heading": "Effects of Time Schedule",
+      "level": 1,
+      "start_line": 695
+    },
+    {
+      "anchor": "summary-and-conclusions",
+      "end_line": 726,
+      "heading": "SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "references",
+      "end_line": 760,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 727
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 960,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 761
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1014,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 961
+    }
+  ],
+  "source_dir": "pdf/ORNL-2985",
+  "tables": [],
+  "title": "ORNL-2985",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance",
+    "program-history",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

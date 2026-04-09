@@ -1,0 +1,1864 @@
+{
+  "authors": [
+    "Los Angeles",
+    "Eric Heinz Ottewitte",
+    "Vijay K. Dhir",
+    "Steven A. Hoszkovski"
+  ],
+  "claims_path": "kb/normalized/claims/university-of-california.jsonl",
+  "date_text": null,
+  "doc_id": "university-of-california",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 53,
+        "line_hits": [
+          307,
+          629,
+          672,
+          697,
+          710,
+          1140,
+          1146,
+          1148,
+          1300,
+          1311,
+          1329,
+          1331,
+          1339,
+          1376,
+          1498,
+          1628,
+          1678,
+          1681,
+          1683,
+          1694,
+          1700,
+          1708,
+          1908,
+          1994,
+          2387,
+          2401,
+          2867,
+          2871,
+          2875,
+          2877,
+          2883,
+          2936,
+          2975,
+          2979,
+          2983,
+          2991,
+          3006,
+          3059,
+          3593,
+          3920,
+          3933,
+          3938,
+          4000,
+          4313,
+          4351,
+          4403,
+          4690,
+          4883,
+          4890,
+          4961
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          672,
+          678,
+          2892,
+          2918,
+          2920,
+          2936,
+          2938,
+          2940,
+          2947,
+          2949,
+          2951,
+          2967,
+          3010,
+          3014,
+          3016,
+          3020,
+          3032,
+          4690,
+          4983
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          672,
+          2883,
+          2920,
+          2936,
+          2938,
+          2947,
+          3032,
+          3059,
+          4403,
+          4969
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          611,
+          672,
+          2875,
+          2936,
+          2947,
+          3014,
+          4973
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1329
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2443
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1605
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 71,
+        "line_hits": [
+          179,
+          180,
+          206,
+          211,
+          214,
+          215,
+          220,
+          308,
+          621,
+          680,
+          689,
+          714,
+          1174,
+          1207,
+          1469,
+          1477,
+          1506,
+          1520,
+          1620,
+          1626,
+          1651,
+          1692,
+          1708,
+          1710,
+          1738,
+          1793,
+          1847,
+          1853,
+          1910,
+          1934,
+          1936,
+          1938,
+          1942,
+          1960,
+          1970,
+          1982,
+          1992,
+          2674,
+          2677,
+          2761,
+          2871,
+          2879,
+          2928,
+          2930,
+          2947,
+          2975,
+          2985,
+          3014,
+          3032,
+          3597
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 25,
+        "line_hits": [
+          690,
+          692,
+          1494,
+          1934,
+          1936,
+          1938,
+          1945,
+          1960,
+          1970,
+          2879,
+          3020,
+          4399,
+          4407,
+          4409,
+          4422,
+          4424,
+          4457,
+          4612,
+          4864,
+          4872,
+          4997,
+          4999,
+          5001,
+          5007,
+          5009
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          314,
+          3010,
+          3016,
+          4434,
+          4989,
+          5022
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1940,
+          2663,
+          3604,
+          4355
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          690,
+          3020,
+          4612,
+          4997
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1300,
+          1311,
+          4351
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          689,
+          1626,
+          2930
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          4881
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          4424
+        ],
+        "name": "freeze valve"
+      }
+    ],
+    "organization": [
+      {
+        "count": 40,
+        "line_hits": [
+          584,
+          588,
+          611,
+          619,
+          621,
+          629,
+          636,
+          649,
+          1300,
+          1514,
+          1620,
+          1839,
+          1845,
+          2323,
+          2631,
+          2633,
+          2679,
+          2702,
+          2716,
+          2733,
+          2735,
+          2756,
+          2777,
+          2798,
+          4000,
+          4028,
+          4997,
+          5022,
+          5123,
+          5137,
+          5146,
+          5156,
+          5159,
+          5175,
+          5180,
+          5204,
+          5266,
+          5267,
+          5279,
+          5280
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          609,
+          617,
+          623,
+          818,
+          1279,
+          1504,
+          1643,
+          1647,
+          2633,
+          2784,
+          2800,
+          4552,
+          5138,
+          5278
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          5139,
+          5148,
+          5182,
+          5213,
+          5295
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          516,
+          5150,
+          5169,
+          5216,
+          5224
+        ],
+        "name": "EIR"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          37,
+          533
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          509
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5146
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 139,
+        "line_hits": [
+          5,
+          139,
+          146,
+          208,
+          255,
+          298,
+          303,
+          319,
+          321,
+          468,
+          521,
+          613,
+          619,
+          623,
+          625,
+          632,
+          645,
+          647,
+          655,
+          668,
+          676,
+          685,
+          710,
+          818,
+          935,
+          977,
+          1004,
+          1010,
+          1012,
+          1057,
+          1061,
+          1072,
+          1106,
+          1130,
+          1132,
+          1190,
+          1192,
+          1194,
+          1198,
+          1200,
+          1202,
+          1219,
+          1259,
+          1463,
+          1469,
+          1490,
+          1494,
+          1504,
+          1514,
+          1568
+        ],
+        "name": "MCFR"
+      },
+      {
+        "count": 127,
+        "line_hits": [
+          570,
+          586,
+          630,
+          710,
+          724,
+          730,
+          758,
+          769,
+          782,
+          798,
+          800,
+          805,
+          873,
+          883,
+          893,
+          913,
+          933,
+          945,
+          967,
+          971,
+          973,
+          983,
+          1014,
+          1057,
+          1076,
+          1104,
+          1124,
+          1142,
+          1249,
+          1270,
+          1331,
+          1333,
+          1430,
+          1457,
+          1560,
+          1574,
+          1591,
+          1607,
+          1628,
+          1649,
+          1671,
+          1678,
+          1717,
+          1726,
+          1938,
+          2002,
+          2017,
+          2021,
+          2046,
+          2071
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 23,
+        "line_hits": [
+          56,
+          445,
+          574,
+          588,
+          607,
+          611,
+          629,
+          636,
+          653,
+          665,
+          674,
+          1264,
+          1352,
+          1463,
+          1710,
+          2590,
+          3142,
+          3569,
+          4327,
+          4351,
+          4612,
+          4684,
+          5282
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          470,
+          605,
+          710,
+          4405,
+          4862,
+          4864,
+          4997
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          66,
+          708
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5301
+        ],
+        "name": "MSCR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 5,
+        "line_hits": [
+          49,
+          564,
+          1030,
+          5144,
+          5145
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          5301
+        ],
+        "name": "converter reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 3,
+        "line_hits": [
+          5192,
+          5221,
+          5286
+        ],
+        "name": "Nuclear Science and Engineering"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1030
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 26,
+        "line_hits": [
+          5,
+          139,
+          521,
+          632,
+          674,
+          818,
+          1132,
+          2225,
+          2258,
+          2307,
+          2558,
+          2615,
+          2638,
+          2641,
+          2902,
+          2936,
+          4534,
+          4554,
+          4576,
+          4619,
+          5123,
+          5141,
+          5150,
+          5155,
+          5163,
+          5216
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          2221,
+          2345,
+          2399,
+          2568,
+          2576,
+          2590,
+          2598,
+          2814,
+          2975,
+          4977
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          586,
+          2221,
+          2568,
+          2578,
+          2635,
+          4548,
+          4977
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          584,
+          617,
+          674,
+          2916,
+          2983,
+          4351,
+          5133
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          2576,
+          2590,
+          5024
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          672,
+          2221,
+          5275
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          2576,
+          4977
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          2221,
+          4977
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2221
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2221
+        ],
+        "name": "LiF-NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2221
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2221
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2221
+        ],
+        "name": "RbF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d20263fd7482d093b7d4c6d6534a0c9bd67a1d3f9284d6589d3a7f13091b18c6",
+  "markdown_path": "pdf/MCFR_UCLA_Ottewitte_thesis/MCFR_UCLA_Ottewitte_thesis/hybrid_ocr/MCFR_UCLA_Ottewitte_thesis.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 153,
+  "sections": [
+    {
+      "anchor": "university-of-california",
+      "end_line": 38,
+      "heading": "UNIVERSITY OF CALIFORNIA",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 40,
+      "heading": "Table of Contents",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 147,
+      "heading": "1.0 Introduction",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "3-0-concept-design",
+      "end_line": 174,
+      "heading": "3.0 Concept Design",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "3-2-reactor-thermohydraulics",
+      "end_line": 457,
+      "heading": "3.2 Reactor Thermohydraulics",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "3-8-safeguards",
+      "end_line": 465,
+      "heading": "3.8 Safeguards",
+      "level": 1,
+      "start_line": 458
+    },
+    {
+      "anchor": "3-9-access-and-maintenance",
+      "end_line": 474,
+      "heading": "3.9 Access and Maintenance",
+      "level": 1,
+      "start_line": 466
+    },
+    {
+      "anchor": "3-10-auxiliary-plant",
+      "end_line": 485,
+      "heading": "3.10 Auxiliary Plant",
+      "level": 1,
+      "start_line": 475
+    },
+    {
+      "anchor": "3-11-economics",
+      "end_line": 497,
+      "heading": "3.11 Economics",
+      "level": 1,
+      "start_line": 486
+    },
+    {
+      "anchor": "4-0-summary",
+      "end_line": 503,
+      "heading": "4.0 Summary",
+      "level": 1,
+      "start_line": 498
+    },
+    {
+      "anchor": "5-0-references",
+      "end_line": 505,
+      "heading": "5.0 References",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "vita",
+      "end_line": 518,
+      "heading": "VITA",
+      "level": 1,
+      "start_line": 506
+    },
+    {
+      "anchor": "abstract-of-the-dissertation",
+      "end_line": 543,
+      "heading": "ABSTRACT OF THE DISSERTATION",
+      "level": 1,
+      "start_line": 519
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 545,
+      "heading": "1.0 INTRODUCTION",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "1-1-overview-of-current-nuclear-politics-and-technology",
+      "end_line": 547,
+      "heading": "1.1 Overview of Current Nuclear Politics and Technology",
+      "level": 1,
+      "start_line": 546
+    },
+    {
+      "anchor": "1-1-1-nuclear-fuel-cycle-problems-and-their-politics",
+      "end_line": 557,
+      "heading": "1.1.1 Nuclear Fuel Cycle Problems and Their Politics",
+      "level": 1,
+      "start_line": 548
+    },
+    {
+      "anchor": "1-1-2-technical-solution-thorium-fuel-cycle",
+      "end_line": 561,
+      "heading": "1.1.2 Technical Solution: Thorium Fuel Cycle",
+      "level": 1,
+      "start_line": 558
+    },
+    {
+      "anchor": "1-1-3-technical-solution-molten-salt-fast-reactor",
+      "end_line": 577,
+      "heading": "1.1.3 Technical Solution: Molten Salt Fast Reactor",
+      "level": 1,
+      "start_line": 562
+    },
+    {
+      "anchor": "1-2-historical-review-of-molten-salt-activities",
+      "end_line": 581,
+      "heading": "1.2 Historical Review of Molten Salt Activities",
+      "level": 1,
+      "start_line": 578
+    },
+    {
+      "anchor": "1-2-1-american-activities",
+      "end_line": 638,
+      "heading": "1.2.1 American Activities",
+      "level": 1,
+      "start_line": 582
+    },
+    {
+      "anchor": "1-2-2-european-activity",
+      "end_line": 686,
+      "heading": "1.2.2 European Activity",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "core",
+      "end_line": 687,
+      "heading": "Core",
+      "level": 2,
+      "start_line": 687
+    },
+    {
+      "anchor": "2-blanket",
+      "end_line": 692,
+      "heading": "2 BLANKET",
+      "level": 2,
+      "start_line": 688
+    },
+    {
+      "anchor": "7-isolation-valve",
+      "end_line": 693,
+      "heading": "7 ISOLATION VALVE",
+      "level": 2,
+      "start_line": 693
+    },
+    {
+      "anchor": "8-lead-inlet",
+      "end_line": 695,
+      "heading": "8 LEAD INLET",
+      "level": 2,
+      "start_line": 694
+    },
+    {
+      "anchor": "9-lead-outlet",
+      "end_line": 696,
+      "heading": "9 LEAD OUTLET",
+      "level": 2,
+      "start_line": 696
+    },
+    {
+      "anchor": "io-graphite",
+      "end_line": 697,
+      "heading": "Io Graphite",
+      "level": 2,
+      "start_line": 697
+    },
+    {
+      "anchor": "ii-high-temperature",
+      "end_line": 699,
+      "heading": "II HIGH TEMPERATURE",
+      "level": 2,
+      "start_line": 698
+    },
+    {
+      "anchor": "resistant-lining",
+      "end_line": 701,
+      "heading": "Resistant Lining",
+      "level": 2,
+      "start_line": 700
+    },
+    {
+      "anchor": "12-drain-line",
+      "end_line": 703,
+      "heading": "12 DRAIN LINE",
+      "level": 2,
+      "start_line": 702
+    },
+    {
+      "anchor": "14-support-flange",
+      "end_line": 707,
+      "heading": "14 SUPPORT FLANGE",
+      "level": 2,
+      "start_line": 704
+    },
+    {
+      "anchor": "1-2-3-summary-msr-state-of-the-art",
+      "end_line": 715,
+      "heading": "1.2.3 Summary MSR State-of-the-Art",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "2-0-analysis-of-contempory-concerns-about-the-nuclear-fuel-cycle",
+      "end_line": 717,
+      "heading": "2.0 ANALYSIS OF CONTEMPORY CONCERNS ABOUT THE NUCLEAR FUEL CYCLE",
+      "level": 2,
+      "start_line": 716
+    },
+    {
+      "anchor": "and-other-considerations-affecting-cchoice-of-an-advanced-concept",
+      "end_line": 719,
+      "heading": "And Other Considerations Affecting Cchoice Of An Advanced Concept",
+      "level": 2,
+      "start_line": 718
+    },
+    {
+      "anchor": "2-1-nuclear-fuel-cycle-waste-management",
+      "end_line": 727,
+      "heading": "2.1 Nuclear Fuel Cycle Waste Management",
+      "level": 1,
+      "start_line": 720
+    },
+    {
+      "anchor": "2-1-1-characterization-of-spent-fuel-wastes",
+      "end_line": 774,
+      "heading": "2.1.1 Characterization of Spent Fuel Wastes",
+      "level": 1,
+      "start_line": 728
+    },
+    {
+      "anchor": "table-2-1-i",
+      "end_line": 795,
+      "heading": "Table 2.1-I",
+      "level": 2,
+      "start_line": 775
+    },
+    {
+      "anchor": "2-1-2-management-of-spent-fuel-wastes",
+      "end_line": 822,
+      "heading": "2.1.2 Management of Spent Fuel Wastes",
+      "level": 1,
+      "start_line": 796
+    },
+    {
+      "anchor": "2-2-non-proliferation",
+      "end_line": 824,
+      "heading": "2.2 Non-proliferation",
+      "level": 1,
+      "start_line": 823
+    },
+    {
+      "anchor": "2-2-1-development-of-us-policy",
+      "end_line": 860,
+      "heading": "2.2.1 Development of US Policy",
+      "level": 1,
+      "start_line": 825
+    },
+    {
+      "anchor": "2-2-2-relationship-between-nuclear-electric-power-and",
+      "end_line": 862,
+      "heading": "2.2.2 Relationship Between Nuclear Electric Power and",
+      "level": 1,
+      "start_line": 861
+    },
+    {
+      "anchor": "nuclear-weapons-development",
+      "end_line": 940,
+      "heading": "Nuclear Weapons Development",
+      "level": 1,
+      "start_line": 863
+    },
+    {
+      "anchor": "235u",
+      "end_line": 942,
+      "heading": "235U",
+      "level": 2,
+      "start_line": 941
+    },
+    {
+      "anchor": "233u",
+      "end_line": 950,
+      "heading": "233U",
+      "level": 2,
+      "start_line": 943
+    },
+    {
+      "anchor": "2-2-4-the-significance-of-stockpiles",
+      "end_line": 978,
+      "heading": "2.2.4 The Significance of Stockpiles",
+      "level": 1,
+      "start_line": 951
+    },
+    {
+      "anchor": "2-2-5-fuel-cycle-vulnerability-to-diversion",
+      "end_line": 1015,
+      "heading": "2.2.5 Fuel Cycle Vulnerability to Diversion",
+      "level": 1,
+      "start_line": 979
+    },
+    {
+      "anchor": "2-3-fuel-utilization",
+      "end_line": 1017,
+      "heading": "2.3 Fuel Utilization",
+      "level": 1,
+      "start_line": 1016
+    },
+    {
+      "anchor": "2-3-1-earth-s-resources",
+      "end_line": 1025,
+      "heading": "2.3.1 Earth's Resources",
+      "level": 1,
+      "start_line": 1018
+    },
+    {
+      "anchor": "2-3-2-use-of-thorium",
+      "end_line": 1031,
+      "heading": "2.3.2 Use of Thorium",
+      "level": 1,
+      "start_line": 1026
+    },
+    {
+      "anchor": "2-3-3-intercomparison-of-reactor",
+      "end_line": 1033,
+      "heading": "2.3.3 Intercomparison of Reactor",
+      "level": 1,
+      "start_line": 1032
+    },
+    {
+      "anchor": "concepts-with-regard-to-fuel-utilization",
+      "end_line": 1038,
+      "heading": "Concepts with Regard to Fuel Utilization",
+      "level": 1,
+      "start_line": 1034
+    },
+    {
+      "anchor": "sone-30-year-fuel-cycle-performance-comparisons-74",
+      "end_line": 1058,
+      "heading": "Sone 30-Year Fuel Cycle Performance Comparisons [74]",
+      "level": 2,
+      "start_line": 1039
+    },
+    {
+      "anchor": "2-3-4-use-of-both-th-and-u-reserves",
+      "end_line": 1062,
+      "heading": "2.3.4 Use of Both Th and U Reserves",
+      "level": 1,
+      "start_line": 1059
+    },
+    {
+      "anchor": "2-4-strategic-security",
+      "end_line": 1073,
+      "heading": "2.4 Strategic Security",
+      "level": 1,
+      "start_line": 1063
+    },
+    {
+      "anchor": "2-4-1-present-susceptibility",
+      "end_line": 1085,
+      "heading": "2.4.1 Present Susceptibility",
+      "level": 1,
+      "start_line": 1074
+    },
+    {
+      "anchor": "2-4-2-potential-remedy-with-an-msr",
+      "end_line": 1094,
+      "heading": "2.4.2 Potential Remedy with an MSR",
+      "level": 1,
+      "start_line": 1086
+    },
+    {
+      "anchor": "2-4-3-summary",
+      "end_line": 1109,
+      "heading": "2.4.3 Summary",
+      "level": 1,
+      "start_line": 1095
+    },
+    {
+      "anchor": "2-5-1-waste-management-restraints",
+      "end_line": 1113,
+      "heading": "2.5.1 Waste Management Restraints",
+      "level": 1,
+      "start_line": 1110
+    },
+    {
+      "anchor": "2-5-2-non-proliferation-restraints",
+      "end_line": 1121,
+      "heading": "2.5.2 Non-proliferation Restraints",
+      "level": 1,
+      "start_line": 1114
+    },
+    {
+      "anchor": "2-5-3-fuel-utilization-restraints",
+      "end_line": 1127,
+      "heading": "2.5.3 Fuel Utilization Restraints",
+      "level": 1,
+      "start_line": 1122
+    },
+    {
+      "anchor": "2-5-4-strategic-security-restraints",
+      "end_line": 1135,
+      "heading": "2.5.4 Strategic Security Restraints",
+      "level": 1,
+      "start_line": 1128
+    },
+    {
+      "anchor": "2-6-1-advantages-of-the-molten-state",
+      "end_line": 1161,
+      "heading": "2.6.1 Advantages of the Molten State",
+      "level": 1,
+      "start_line": 1136
+    },
+    {
+      "anchor": "2-6-2-advantages-stemming-from-the-exclusive-use-of-thorium",
+      "end_line": 1167,
+      "heading": "2.6.2 Advantages Stemming from the Exclusive Use of Thorium",
+      "level": 1,
+      "start_line": 1162
+    },
+    {
+      "anchor": "2-6-3-advantages-of-on-site-continuous-reprocessing",
+      "end_line": 1175,
+      "heading": "2.6.3 Advantages of On-site Continuous Reprocessing",
+      "level": 1,
+      "start_line": 1168
+    },
+    {
+      "anchor": "2-6-4-advantages-of-a-very-fast-neutron-spectrum",
+      "end_line": 1195,
+      "heading": "2.6.4 Advantages of a Very Fast Neutron Spectrum",
+      "level": 1,
+      "start_line": 1176
+    },
+    {
+      "anchor": "2-6-5-spinoff-ability-to-digest-existing-spent-fuels",
+      "end_line": 1199,
+      "heading": "2.6.5 Spinoff Ability to Digest Existing Spent Fuels",
+      "level": 1,
+      "start_line": 1196
+    },
+    {
+      "anchor": "2-6-6-inherent-disadvantages-and-limitations-to-mcfrs",
+      "end_line": 1216,
+      "heading": "2.6.6 Inherent Disadvantages and Limitations to MCFRs",
+      "level": 1,
+      "start_line": 1200
+    },
+    {
+      "anchor": "3-0-concept-design",
+      "end_line": 1220,
+      "heading": "3.0 CONCEPT DESIGN",
+      "level": 1,
+      "start_line": 1217
+    },
+    {
+      "anchor": "3-1-choosing-the-reactor-configuration",
+      "end_line": 1265,
+      "heading": "3.1 Choosing the Reactor Configuration",
+      "level": 1,
+      "start_line": 1221
+    },
+    {
+      "anchor": "3-1-2-kaximinizing-breeding-by-minimizing-leakage",
+      "end_line": 1340,
+      "heading": "3.1.2 Kaximinizing Breeding by Minimizing Leakage",
+      "level": 1,
+      "start_line": 1266
+    },
+    {
+      "anchor": "3-1-3-core-and-blanket-design",
+      "end_line": 1342,
+      "heading": "3.1.3 Core and Blanket Design",
+      "level": 1,
+      "start_line": 1341
+    },
+    {
+      "anchor": "3-1-3-1-choice-of-geometry-spherical-geometry-offers",
+      "end_line": 1435,
+      "heading": "3.1.3.1 Choice of geometry. Spherical geometry offers",
+      "level": 1,
+      "start_line": 1343
+    },
+    {
+      "anchor": "3-1-4-method-of-reactivity-shimming",
+      "end_line": 1452,
+      "heading": "3.1.4 Method of Reactivity Shimming",
+      "level": 1,
+      "start_line": 1436
+    },
+    {
+      "anchor": "3-1-5-summary-guidelines-on-reactor-configuration",
+      "end_line": 1460,
+      "heading": "3.1.5 Summary Guidelines on Reactor Configuration",
+      "level": 1,
+      "start_line": 1453
+    },
+    {
+      "anchor": "3-2-reactor-thermohydraulics",
+      "end_line": 1464,
+      "heading": "3.2 Reactor Thermohydraulics",
+      "level": 1,
+      "start_line": 1461
+    },
+    {
+      "anchor": "3-2-1-means-of-cooling-the-molten-salt-fuel",
+      "end_line": 1509,
+      "heading": "3.2.1 Means of Cooling the Molten Salt Fuel",
+      "level": 1,
+      "start_line": 1465
+    },
+    {
+      "anchor": "3-2-2-power-density-in-an-msfr",
+      "end_line": 1588,
+      "heading": "3.2.2 Power Density in an MSFR",
+      "level": 1,
+      "start_line": 1510
+    },
+    {
+      "anchor": "3-2-3-primary-coolant-velocity",
+      "end_line": 1611,
+      "heading": "3.2.3 Primary Coolant Velocity",
+      "level": 1,
+      "start_line": 1589
+    },
+    {
+      "anchor": "corrosion-mechanism",
+      "end_line": 1621,
+      "heading": "Corrosion Mechanism",
+      "level": 1,
+      "start_line": 1612
+    },
+    {
+      "anchor": "3-2-4-operating-temperatures",
+      "end_line": 1909,
+      "heading": "3.2.4 Operating Temperatures",
+      "level": 1,
+      "start_line": 1622
+    },
+    {
+      "anchor": "3-2-5-3-volume-in-heat-exchanger-and-associated-plena-and-piping",
+      "end_line": 1929,
+      "heading": "3.2.5.3 Volume in heat exchanger and associated plena and piping",
+      "level": 1,
+      "start_line": 1910
+    },
+    {
+      "anchor": "3-2-6-primary-circuit-arrangement",
+      "end_line": 1976,
+      "heading": "3.2.6 Primary Circuit Arrangement",
+      "level": 1,
+      "start_line": 1930
+    },
+    {
+      "anchor": "plan-view",
+      "end_line": 1980,
+      "heading": "Plan View",
+      "level": 2,
+      "start_line": 1977
+    },
+    {
+      "anchor": "elevation-view",
+      "end_line": 1985,
+      "heading": "Elevation View",
+      "level": 2,
+      "start_line": 1981
+    },
+    {
+      "anchor": "3-2-7-summary",
+      "end_line": 1995,
+      "heading": "3.2.7 Summary",
+      "level": 1,
+      "start_line": 1986
+    },
+    {
+      "anchor": "3-3-choosing-the-salt-composition",
+      "end_line": 1999,
+      "heading": "3.3 Choosing the Salt Composition",
+      "level": 1,
+      "start_line": 1996
+    },
+    {
+      "anchor": "3-3-1-introduction",
+      "end_line": 2326,
+      "heading": "3.3.1 Introduction",
+      "level": 1,
+      "start_line": 2000
+    },
+    {
+      "anchor": "3-3-2-choice-of-halogen",
+      "end_line": 2413,
+      "heading": "3.3.2 Choice of Halogen",
+      "level": 1,
+      "start_line": 2327
+    },
+    {
+      "anchor": "3-3-3-choice-of-actinide-chemical-states-stoichiometry",
+      "end_line": 2656,
+      "heading": "3.3.3 Choice of Actinide Chemical States(Stoichiometry)",
+      "level": 1,
+      "start_line": 2414
+    },
+    {
+      "anchor": "3-3-5-choice-of-relative-proportions-of-actinide-and-carrier-salt",
+      "end_line": 2660,
+      "heading": "3.3.5 Choice of Relative Proportions of Actinide and Carrier Salt.",
+      "level": 1,
+      "start_line": 2657
+    },
+    {
+      "anchor": "3-3-5-1-neutron-physics-of-the-mathrm-thcl-4-mathrm-ucl-3-ratio-in-the-core-mixture",
+      "end_line": 2817,
+      "heading": "3.3.5.1 Neutron physics of the $\\mathrm{ThCl}_4 / \\mathrm{UCl}_3$ ratio in the core mixture.",
+      "level": 1,
+      "start_line": 2661
+    },
+    {
+      "anchor": "3-4-structural-materials",
+      "end_line": 2823,
+      "heading": "3.4 Structural Materials",
+      "level": 1,
+      "start_line": 2818
+    },
+    {
+      "anchor": "3-4-1-general-considerations-and-criteria",
+      "end_line": 2880,
+      "heading": "3.4.1 General Considerations and Criteria",
+      "level": 1,
+      "start_line": 2824
+    },
+    {
+      "anchor": "3-4-2-chemical-reactions-in-an-mcfr",
+      "end_line": 2923,
+      "heading": "3.4.2 Chemical Reactions in an MCFR",
+      "level": 1,
+      "start_line": 2881
+    },
+    {
+      "anchor": "3-4-3-candidate-materials-for-an-mcfr",
+      "end_line": 2988,
+      "heading": "3.4.3 Candidate Materials for an MCFR",
+      "level": 1,
+      "start_line": 2924
+    },
+    {
+      "anchor": "3-4-4-materials-for-the-core-blanket-interface",
+      "end_line": 2992,
+      "heading": "3.4.4 Materials for the Core/Blanket Interface",
+      "level": 1,
+      "start_line": 2989
+    },
+    {
+      "anchor": "3-4-5-materials-for-reactor-vessel",
+      "end_line": 3007,
+      "heading": "3.4.5 Materials for Reactor Vessel",
+      "level": 1,
+      "start_line": 2993
+    },
+    {
+      "anchor": "3-4-6-material-for-a-lead-secondary-circuit",
+      "end_line": 3017,
+      "heading": "3.4.6 Material for a Lead Secondary Circuit",
+      "level": 1,
+      "start_line": 3008
+    },
+    {
+      "anchor": "3-4-7-material-for-a-helium-secondary-circuit",
+      "end_line": 3033,
+      "heading": "3.4.7 Material for a Helium Secondary Circuit",
+      "level": 1,
+      "start_line": 3018
+    },
+    {
+      "anchor": "3-5-physics-of-mcfr-th-and-its-fuel-cycle",
+      "end_line": 3035,
+      "heading": "3.5 Physics of MCFR(Th) and Its Fuel Cycle",
+      "level": 1,
+      "start_line": 3034
+    },
+    {
+      "anchor": "3-5-1-nuclear-models-of-an-mcfr",
+      "end_line": 3045,
+      "heading": "3.5.1 Nuclear Models of an MCFR",
+      "level": 1,
+      "start_line": 3036
+    },
+    {
+      "anchor": "3-5-1-2-use-of-spherical-geometry-for-neutronic-calculations",
+      "end_line": 3089,
+      "heading": "3.5.1.2 Use of spherical geometry for neutronic calculations.",
+      "level": 1,
+      "start_line": 3046
+    },
+    {
+      "anchor": "3-5-2-neutronic-calculational-methods",
+      "end_line": 3107,
+      "heading": "3.5.2 Neutronic Calculational Methods",
+      "level": 1,
+      "start_line": 3090
+    },
+    {
+      "anchor": "3-5-3-neutron-cross-sections",
+      "end_line": 3552,
+      "heading": "3.5.3 Neutron Cross Sections",
+      "level": 1,
+      "start_line": 3108
+    },
+    {
+      "anchor": "3-5-5-pertinent-physics-metrics",
+      "end_line": 3570,
+      "heading": "3.5.5 Pertinent Physics Metrics",
+      "level": 1,
+      "start_line": 3553
+    },
+    {
+      "anchor": "3-5-5-2-bgx-bg-extended-to-zero-neutron-leakage-bgx",
+      "end_line": 3580,
+      "heading": "3.5.5.2 BGX: BG extended to zero neutron leakage. BGX",
+      "level": 1,
+      "start_line": 3571
+    },
+    {
+      "anchor": "3-5-5-3-bgp-bg-potential-associated-with-the-core-spectrum",
+      "end_line": 3681,
+      "heading": "3.5.5.3 BGP: BG potential associated with the core spectrum.",
+      "level": 1,
+      "start_line": 3581
+    },
+    {
+      "anchor": "3-5-6-fuel-cycle-modelling",
+      "end_line": 3987,
+      "heading": "3.5.6 Fuel Cycle Modelling",
+      "level": 1,
+      "start_line": 3682
+    },
+    {
+      "anchor": "3-5-9-reactor-design-choosing-the-core-salt-thcl-ucl3-ratio",
+      "end_line": 4055,
+      "heading": "3.5.9 Reactor Design: Choosing the Core Salt ThCl/UCl3 Ratio",
+      "level": 1,
+      "start_line": 3988
+    },
+    {
+      "anchor": "3-5-7-3-effect-on-power-density-and-flux-levels",
+      "end_line": 4078,
+      "heading": "3.5.7.3 Effect on power density and flux levels",
+      "level": 1,
+      "start_line": 4056
+    },
+    {
+      "anchor": "2-3-3-u-2-3-4-u",
+      "end_line": 4094,
+      "heading": "2 3 3 _ {U} / 2 3 4 _ {U}",
+      "level": 2,
+      "start_line": 4079
+    },
+    {
+      "anchor": "3-5-10-reactor-design-core-carrier-salt-nacl-content",
+      "end_line": 4166,
+      "heading": "3.5.10 Reactor Design: Core Carrier Salt (NaCl) Content",
+      "level": 1,
+      "start_line": 4095
+    },
+    {
+      "anchor": "233u-234u",
+      "end_line": 4177,
+      "heading": "233U/234U",
+      "level": 2,
+      "start_line": 4167
+    },
+    {
+      "anchor": "3-5-11-mutation-effects",
+      "end_line": 4292,
+      "heading": "3.5.11 Mutation Effects",
+      "level": 1,
+      "start_line": 4178
+    },
+    {
+      "anchor": "3-5-11-3-impact-of-fission-product-concentration-upon-neutron-physics",
+      "end_line": 4308,
+      "heading": "3.5.11.3 Impact of fission product concentration upon neutron physics",
+      "level": 1,
+      "start_line": 4293
+    },
+    {
+      "anchor": "3-5-12-summary",
+      "end_line": 4332,
+      "heading": "3.5.12 Summary",
+      "level": 1,
+      "start_line": 4309
+    },
+    {
+      "anchor": "3-6-safety-kinetics",
+      "end_line": 4334,
+      "heading": "3.6 Safety & Kinetics",
+      "level": 1,
+      "start_line": 4333
+    },
+    {
+      "anchor": "3-6-1-physics-of-reactor-safety-and-kinetics",
+      "end_line": 4352,
+      "heading": "3.6.1 Physics of Reactor Safety and Kinetics",
+      "level": 1,
+      "start_line": 4335
+    },
+    {
+      "anchor": "3-6-2-analysis-of-formal-operations",
+      "end_line": 4392,
+      "heading": "3.6.2 Analysis of Formal Operations",
+      "level": 1,
+      "start_line": 4353
+    },
+    {
+      "anchor": "3-6-3-analysis-of-accident-situations",
+      "end_line": 4494,
+      "heading": "3.6.3 Analysis of Accident Situations",
+      "level": 1,
+      "start_line": 4393
+    },
+    {
+      "anchor": "3-7-1-principal-salt-reprocessing-methods",
+      "end_line": 4577,
+      "heading": "3.7.1 Principal Salt Reprocessing Methods",
+      "level": 1,
+      "start_line": 4495
+    },
+    {
+      "anchor": "3-7-2-core-salt-processing",
+      "end_line": 4694,
+      "heading": "3.7.2 Core Salt Processing",
+      "level": 1,
+      "start_line": 4578
+    },
+    {
+      "anchor": "3-7-3-blanket-salt-processing",
+      "end_line": 4747,
+      "heading": "3.7.3 Blanket Salt Processing",
+      "level": 1,
+      "start_line": 4695
+    },
+    {
+      "anchor": "3-7-4-starter-fuels",
+      "end_line": 4787,
+      "heading": "3.7.4 Starter Fuels",
+      "level": 1,
+      "start_line": 4748
+    },
+    {
+      "anchor": "3-7-5-fuel-cycle-summary",
+      "end_line": 4801,
+      "heading": "3.7.5 Fuel Cycle Summary",
+      "level": 1,
+      "start_line": 4788
+    },
+    {
+      "anchor": "3-8-safeguards",
+      "end_line": 4803,
+      "heading": "3.8 Safeguards",
+      "level": 1,
+      "start_line": 4802
+    },
+    {
+      "anchor": "3-s-1-national-fuel-inventory",
+      "end_line": 4815,
+      "heading": "3.S.1 National Fuel Inventory",
+      "level": 1,
+      "start_line": 4804
+    },
+    {
+      "anchor": "3-8-2-in-plant-diversicn-potential",
+      "end_line": 4821,
+      "heading": "3.8.2 In-plant Diversicn Potential",
+      "level": 1,
+      "start_line": 4816
+    },
+    {
+      "anchor": "2-8-3-facility-modification",
+      "end_line": 4825,
+      "heading": "2.8.3 Facility Modification",
+      "level": 1,
+      "start_line": 4822
+    },
+    {
+      "anchor": "3-8-4-desired-radioactivity-in-transported-breeding-gain",
+      "end_line": 4835,
+      "heading": "3.8.4 Desired Radioactivity in Transported Breeding Gain",
+      "level": 1,
+      "start_line": 4826
+    },
+    {
+      "anchor": "3-8-5-radiological-sabotage-threat",
+      "end_line": 4841,
+      "heading": "3.8.5 Radiological Sabotage Threat",
+      "level": 1,
+      "start_line": 4836
+    },
+    {
+      "anchor": "3-9-access-and-maintenance",
+      "end_line": 4845,
+      "heading": "3.9 Access and Maintenance",
+      "level": 1,
+      "start_line": 4842
+    },
+    {
+      "anchor": "3-9-1-compactness-of-an-hcfr",
+      "end_line": 4849,
+      "heading": "3.9.1 Compactness of an HCFR",
+      "level": 1,
+      "start_line": 4846
+    },
+    {
+      "anchor": "3-9-2-intrinsic-reliability",
+      "end_line": 4861,
+      "heading": "3.9.2 Intrinsic Reliability",
+      "level": 1,
+      "start_line": 4850
+    },
+    {
+      "anchor": "3-9-3-msre-experience",
+      "end_line": 4865,
+      "heading": "3.9.3 MSRE Experience",
+      "level": 1,
+      "start_line": 4862
+    },
+    {
+      "anchor": "3-9-4-comparison-of-primary-circuit-configurations",
+      "end_line": 4878,
+      "heading": "3.9.4 Comparison of Primary Circuit Configurations",
+      "level": 1,
+      "start_line": 4866
+    },
+    {
+      "anchor": "3-9-5-reactor-maintenance-replacement-procedure",
+      "end_line": 4891,
+      "heading": "3.9.5 Reactor Maintenance/Replacement Procedure",
+      "level": 1,
+      "start_line": 4879
+    },
+    {
+      "anchor": "3-9-6-reactor-shielding",
+      "end_line": 4941,
+      "heading": "3.9.6 Reactor Shielding",
+      "level": 1,
+      "start_line": 4892
+    },
+    {
+      "anchor": "3-9-7-radiation-sources-in-reprocessing-equipment",
+      "end_line": 4947,
+      "heading": "3.9.7 Radiation Sources in Reprocessing Equipment",
+      "level": 1,
+      "start_line": 4942
+    },
+    {
+      "anchor": "3-10-auxiliary-plant",
+      "end_line": 4949,
+      "heading": "3.10 Auxiliary Plant",
+      "level": 1,
+      "start_line": 4948
+    },
+    {
+      "anchor": "3-10-1-power-cycle-options",
+      "end_line": 4992,
+      "heading": "3.10.1 Power Cycle Options",
+      "level": 1,
+      "start_line": 4950
+    },
+    {
+      "anchor": "3-10-2-auxiliary-hardware",
+      "end_line": 5025,
+      "heading": "3.10.2 Auxiliary Hardware",
+      "level": 1,
+      "start_line": 4993
+    },
+    {
+      "anchor": "3-10-5-overall-plant-size",
+      "end_line": 5029,
+      "heading": "3.10.5 Overall Plant Size",
+      "level": 1,
+      "start_line": 5026
+    },
+    {
+      "anchor": "3-11-economics",
+      "end_line": 5033,
+      "heading": "3.11 Economics",
+      "level": 1,
+      "start_line": 5030
+    },
+    {
+      "anchor": "3-11-1-british-study-results",
+      "end_line": 5037,
+      "heading": "3.11.1 British Study Results",
+      "level": 1,
+      "start_line": 5034
+    },
+    {
+      "anchor": "3-11-1-1-capital-costs-here-they-found",
+      "end_line": 5066,
+      "heading": "3.11.1.1 Capital costs. Here they found",
+      "level": 1,
+      "start_line": 5038
+    },
+    {
+      "anchor": "3-11-2-transportation-costs",
+      "end_line": 5084,
+      "heading": "3.11.2 Transportation Costs",
+      "level": 1,
+      "start_line": 5067
+    },
+    {
+      "anchor": "3-11-3-outage-penalties",
+      "end_line": 5088,
+      "heading": "3.11.3 Outage Penalties",
+      "level": 1,
+      "start_line": 5085
+    },
+    {
+      "anchor": "3-11-4-other-costs",
+      "end_line": 5092,
+      "heading": "3.11.4 Other Costs",
+      "level": 1,
+      "start_line": 5089
+    },
+    {
+      "anchor": "4-0-summary",
+      "end_line": 5094,
+      "heading": "4.0 SUMMARY",
+      "level": 1,
+      "start_line": 5093
+    },
+    {
+      "anchor": "4-1-fu-proliferation-safeguards-security-and-waste-management",
+      "end_line": 5108,
+      "heading": "4.1 Fu, Proliferation, Safeguards, Security, and Waste Management",
+      "level": 1,
+      "start_line": 5095
+    },
+    {
+      "anchor": "4-2-reactor-design",
+      "end_line": 5120,
+      "heading": "4.2 Reactor Design",
+      "level": 1,
+      "start_line": 5109
+    },
+    {
+      "anchor": "4-3-technical-and-economic-feasibility",
+      "end_line": 5303,
+      "heading": "4.3 Technical and Economic Feasibility",
+      "level": 1,
+      "start_line": 5121
+    }
+  ],
+  "source_dir": "pdf/MCFR_UCLA_Ottewitte_thesis",
+  "tables": [],
+  "title": "UNIVERSITY OF CALIFORNIA",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance",
+    "fuel-processing-and-reprocessing",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

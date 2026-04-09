@@ -1,0 +1,1506 @@
+{
+  "authors": [
+    "J. W. Cooke",
+    "Oak Ridge",
+    "Tennessee",
+    "Operated by",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3528.jsonl",
+  "date_text": "1971",
+  "doc_id": "ornl-tm-3528",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          495
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          515
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          13,
+          25,
+          1022,
+          1023,
+          1026,
+          1028,
+          1029,
+          1030,
+          1033,
+          1034,
+          1036
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1,
+          15,
+          1027,
+          1031
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          21
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 28,
+        "line_hits": [
+          59,
+          65,
+          71,
+          75,
+          93,
+          171,
+          221,
+          225,
+          229,
+          281,
+          294,
+          298,
+          302,
+          311,
+          313,
+          327,
+          350,
+          356,
+          358,
+          360,
+          362,
+          369,
+          371,
+          373,
+          382,
+          384,
+          465,
+          481
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "537221982098254133ee8dbe1bb11c3eb3a2abeea5e73a0677f666443a3374e5",
+  "markdown_path": "pdf/ORNL-TM-3528/ORNL-TM-3528/hybrid_ocr/ORNL-TM-3528.md",
+  "report_number": "ORNL-TM-3528",
+  "report_numbers": [
+    "ORNL-TM-3528"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 197,
+  "sections": [
+    {
+      "anchor": "ornl-tm-3528",
+      "end_line": 10,
+      "heading": "Ornl-Tm-3528",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "august-1971",
+      "end_line": 14,
+      "heading": "August 1971",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 24,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "contents",
+      "end_line": 56,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 62,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 72,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "derivation-of-the-interfacial-equation",
+      "end_line": 154,
+      "heading": "DERIVATION OF THE INTERFACIAL EQUATION",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "numerical-solution-of-the-interfacial-equation",
+      "end_line": 222,
+      "heading": "NUMERICAL SOLUTION OF THE INTERFACIAL EQUATION",
+      "level": 1,
+      "start_line": 155
+    },
+    {
+      "anchor": "computer-program",
+      "end_line": 291,
+      "heading": "COMPUTER PROGRAM",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "range-running-time-and-accuracy",
+      "end_line": 299,
+      "heading": "Range, Running Time, and Accuracy",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "results",
+      "end_line": 353,
+      "heading": "RESULTS",
+      "level": 1,
+      "start_line": 300
+    },
+    {
+      "anchor": "discussion-of-results",
+      "end_line": 379,
+      "heading": "DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 354
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 385,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "references",
+      "end_line": 399,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 386
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 444,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 400
+    },
+    {
+      "anchor": "greek-letters",
+      "end_line": 458,
+      "heading": "Greek Letters",
+      "level": 1,
+      "start_line": 445
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 462,
+      "heading": "Appendices",
+      "level": 2,
+      "start_line": 459
+    },
+    {
+      "anchor": "a-parametric-crossplots",
+      "end_line": 478,
+      "heading": "A. PARAMETRIC CROSSPLOTS",
+      "level": 1,
+      "start_line": 463
+    },
+    {
+      "anchor": "b-tabulated-results",
+      "end_line": 521,
+      "heading": "B. TABULATED RESULTS",
+      "level": 1,
+      "start_line": 479
+    },
+    {
+      "anchor": "c-computer-program",
+      "end_line": 527,
+      "heading": "C. COMPUTER PROGRAM",
+      "level": 1,
+      "start_line": 522
+    },
+    {
+      "anchor": "c-solution-of-interfacial-eq-for-the-press-and-vol",
+      "end_line": 528,
+      "heading": "C Solution Of Interfacial Eq. For The Press. And Vol.",
+      "level": 2,
+      "start_line": 528
+    },
+    {
+      "anchor": "c-within-attached-bubble-case-1-attached-above-positive-beta",
+      "end_line": 530,
+      "heading": "C Within Attached Bubble. Case 1-Attached Above (Positive Beta)",
+      "level": 2,
+      "start_line": 529
+    },
+    {
+      "anchor": "implicit-real-8-d-real-4-a-c-e-h-o-z",
+      "end_line": 531,
+      "heading": "Implicit Real*8(D), Real*4(A-C, E-H, O-Z)",
+      "level": 2,
+      "start_line": 531
+    },
+    {
+      "anchor": "dimensiona-4-b-4-c-4-d-4-e-8-r-4-g1-10-p-4",
+      "end_line": 532,
+      "heading": "Dimensiona(4), B(4), C(4), D(4), E(8), R(4), G1(10), P(4)",
+      "level": 2,
+      "start_line": 532
+    },
+    {
+      "anchor": "dimensionda-4-db-4-dc-4-dz-4-de-8-dp-4-dr-4",
+      "end_line": 533,
+      "heading": "Dimensionda(4), Db(4), Dc(4), Dz(4), De(8), Dp(4), Dr(4)",
+      "level": 2,
+      "start_line": 533
+    },
+    {
+      "anchor": "9-format-i1-i2",
+      "end_line": 534,
+      "heading": "9 FORMAT(I1,I2)",
+      "level": 2,
+      "start_line": 534
+    },
+    {
+      "anchor": "11-read-9-i-n3",
+      "end_line": 535,
+      "heading": "11 READ 9,I,N3",
+      "level": 2,
+      "start_line": 535
+    },
+    {
+      "anchor": "if-i-1-401-10-501",
+      "end_line": 537,
+      "heading": "If (I-1)401,10,501",
+      "level": 2,
+      "start_line": 536
+    },
+    {
+      "anchor": "c-solution-at-max-press-for-given-values-of-r-a-g",
+      "end_line": 539,
+      "heading": "C. Solution At Max. Press For Given Values Of R/A (=G)",
+      "level": 2,
+      "start_line": 538
+    },
+    {
+      "anchor": "300-format-f15-7",
+      "end_line": 540,
+      "heading": "300 Format(F15.7)",
+      "level": 2,
+      "start_line": 540
+    },
+    {
+      "anchor": "10-continue",
+      "end_line": 541,
+      "heading": "10 CONTINUE",
+      "level": 2,
+      "start_line": 541
+    },
+    {
+      "anchor": "do-201-n4-1-n3",
+      "end_line": 542,
+      "heading": "Do 201 N4=1,N3",
+      "level": 2,
+      "start_line": 542
+    },
+    {
+      "anchor": "read300-g",
+      "end_line": 543,
+      "heading": "Read300,G",
+      "level": 2,
+      "start_line": 543
+    },
+    {
+      "anchor": "c-estimate-of-initial-beta",
+      "end_line": 544,
+      "heading": "C ESTIMATE OF INITIAL BETA",
+      "level": 2,
+      "start_line": 544
+    },
+    {
+      "anchor": "if-g-ge-0-099-and-g-lt-0-4-goto1001",
+      "end_line": 545,
+      "heading": "If(G.Ge.0.099 And G.Lt.0.4)Goto1001",
+      "level": 2,
+      "start_line": 545
+    },
+    {
+      "anchor": "if-g-ge-0-39-and-g-lt-0-8-goto1002",
+      "end_line": 546,
+      "heading": "If(G.Ge.0.39 And G.Lt.0.8)Goto1002",
+      "level": 2,
+      "start_line": 546
+    },
+    {
+      "anchor": "if-g-ge-0-79-and-g-lt-3-01-goto1003",
+      "end_line": 547,
+      "heading": "If(G.Ge.0.79 And G.Lt.3.01)Goto1003",
+      "level": 2,
+      "start_line": 547
+    },
+    {
+      "anchor": "1001-beta-11175-92434-g-3-92521-g-2",
+      "end_line": 548,
+      "heading": "1001 Beta=.11175-.92434*G+3.92521*G**2.",
+      "level": 2,
+      "start_line": 548
+    },
+    {
+      "anchor": "goto301",
+      "end_line": 549,
+      "heading": "Goto301",
+      "level": 2,
+      "start_line": 549
+    },
+    {
+      "anchor": "1002-beta-2-87267-12-78143-g-16-40021-g-2",
+      "end_line": 550,
+      "heading": "1002 Beta=2.87267-12.78143*G+16.40021*G**2.",
+      "level": 2,
+      "start_line": 550
+    },
+    {
+      "anchor": "goto301",
+      "end_line": 551,
+      "heading": "Goto301",
+      "level": 2,
+      "start_line": 551
+    },
+    {
+      "anchor": "1003-beta-16-30443-49-43188-g-40-54628-g-2",
+      "end_line": 552,
+      "heading": "1003 Beta=16.30443-49.43188*G+40.54628*G**2.",
+      "level": 2,
+      "start_line": 552
+    },
+    {
+      "anchor": "goto301",
+      "end_line": 553,
+      "heading": "Goto301",
+      "level": 2,
+      "start_line": 553
+    },
+    {
+      "anchor": "c-course-beta-grid",
+      "end_line": 554,
+      "heading": "C COURSE BETA GRID",
+      "level": 2,
+      "start_line": 554
+    },
+    {
+      "anchor": "301-beta-beta-0-1-beta",
+      "end_line": 555,
+      "heading": "301 Beta=Beta+0.1*Beta",
+      "level": 2,
+      "start_line": 555
+    },
+    {
+      "anchor": "n20-0",
+      "end_line": 556,
+      "heading": "N20=0",
+      "level": 2,
+      "start_line": 556
+    },
+    {
+      "anchor": "p-2-0",
+      "end_line": 557,
+      "heading": "P(2)=0",
+      "level": 2,
+      "start_line": 557
+    },
+    {
+      "anchor": "58-beta-beta-01-beta",
+      "end_line": 558,
+      "heading": "58 Beta=Beta-.01*Beta",
+      "level": 2,
+      "start_line": 558
+    },
+    {
+      "anchor": "call-mains-a-b-c-z-e-h-j-p-beta-g-r",
+      "end_line": 559,
+      "heading": "Call Mains(A,B,C,Z,E,H,J,P,Beta,G,R)",
+      "level": 2,
+      "start_line": 559
+    },
+    {
+      "anchor": "if-p-1-p-2-59-59-60",
+      "end_line": 560,
+      "heading": "If(P(1)-P(2))59,59,60",
+      "level": 2,
+      "start_line": 560
+    },
+    {
+      "anchor": "60-p-2-p-1",
+      "end_line": 561,
+      "heading": "60 P(2)=P(1)",
+      "level": 2,
+      "start_line": 561
+    },
+    {
+      "anchor": "n20-n20-1",
+      "end_line": 562,
+      "heading": "N20=N20+1",
+      "level": 2,
+      "start_line": 562
+    },
+    {
+      "anchor": "goto58",
+      "end_line": 563,
+      "heading": "Goto58",
+      "level": 2,
+      "start_line": 563
+    },
+    {
+      "anchor": "59-if-n20-1-301-301-57",
+      "end_line": 564,
+      "heading": "59 IF(N20-1)301,301,57",
+      "level": 2,
+      "start_line": 564
+    },
+    {
+      "anchor": "57-print-50-beta-h",
+      "end_line": 565,
+      "heading": "57 PRINT 50,BETA,H",
+      "level": 2,
+      "start_line": 565
+    },
+    {
+      "anchor": "print-100",
+      "end_line": 566,
+      "heading": "Print 100",
+      "level": 2,
+      "start_line": 566
+    },
+    {
+      "anchor": "print-200-e-8-e-6-e-7-r-1-p-1-v",
+      "end_line": 567,
+      "heading": "Print 200,E(8),E(6),E(7),R(1),P(1),V",
+      "level": 2,
+      "start_line": 567
+    },
+    {
+      "anchor": "beta-beta-02-beta",
+      "end_line": 568,
+      "heading": "Beta=Beta+.02*Beta",
+      "level": 2,
+      "start_line": 568
+    },
+    {
+      "anchor": "p-2-0",
+      "end_line": 569,
+      "heading": "P(2)=0",
+      "level": 2,
+      "start_line": 569
+    },
+    {
+      "anchor": "c-fine-beta-grid",
+      "end_line": 570,
+      "heading": "C FINE BETA GRID",
+      "level": 2,
+      "start_line": 570
+    },
+    {
+      "anchor": "65-beta-beta-001-beta",
+      "end_line": 571,
+      "heading": "65 Beta=Beta-.001*Beta",
+      "level": 2,
+      "start_line": 571
+    },
+    {
+      "anchor": "call-mains-a-b-c-z-e-h-j-p-beta-g-r",
+      "end_line": 572,
+      "heading": "Call Mains(A,B,C,Z,E,H,J,P,Beta,G,R)",
+      "level": 2,
+      "start_line": 572
+    },
+    {
+      "anchor": "if-p-1-p-2-61-61-62",
+      "end_line": 573,
+      "heading": "If(P(1)-P(2))61,61,62",
+      "level": 2,
+      "start_line": 573
+    },
+    {
+      "anchor": "62-p-2-p-1",
+      "end_line": 574,
+      "heading": "62 P(2)=P(1)",
+      "level": 2,
+      "start_line": 574
+    },
+    {
+      "anchor": "goto65",
+      "end_line": 580,
+      "heading": "Goto65",
+      "level": 2,
+      "start_line": 575
+    },
+    {
+      "anchor": "61-print-50-beta-h",
+      "end_line": 581,
+      "heading": "61 PRINT 50,BETA,H",
+      "level": 2,
+      "start_line": 581
+    },
+    {
+      "anchor": "print-100",
+      "end_line": 582,
+      "heading": "Print 100",
+      "level": 2,
+      "start_line": 582
+    },
+    {
+      "anchor": "print-200-e-8-e-6-e-7-r-1-p-1-v",
+      "end_line": 583,
+      "heading": "Print 200,E(8),E(6),E(7),R(1),P(1),V",
+      "level": 2,
+      "start_line": 583
+    },
+    {
+      "anchor": "beta-beta-002-beta",
+      "end_line": 584,
+      "heading": "Beta=Beta+.002*Beta",
+      "level": 2,
+      "start_line": 584
+    },
+    {
+      "anchor": "dp-2-0",
+      "end_line": 585,
+      "heading": "Dp(2)=0",
+      "level": 2,
+      "start_line": 585
+    },
+    {
+      "anchor": "c-extra-fine-beta-grid-with-double-precision",
+      "end_line": 586,
+      "heading": "C EXTRA FINE BETA GRID WITH DOUBLE PRECISION",
+      "level": 2,
+      "start_line": 586
+    },
+    {
+      "anchor": "dbeta-beta",
+      "end_line": 587,
+      "heading": "Dbeta=Beta",
+      "level": 2,
+      "start_line": 587
+    },
+    {
+      "anchor": "dg-g",
+      "end_line": 588,
+      "heading": "Dg=G",
+      "level": 2,
+      "start_line": 588
+    },
+    {
+      "anchor": "66-dbeta-dbeta-0001-dbeta",
+      "end_line": 589,
+      "heading": "66 Dbeta=Dbeta-.0001*Dbeta",
+      "level": 2,
+      "start_line": 589
+    },
+    {
+      "anchor": "call-maind-da-db-dc-dz-de-dh-j-dp-dbeta-dg-dr",
+      "end_line": 590,
+      "heading": "Call Maind(Da,Db,Dc,Dz,De,Dh,J,Dp,Dbeta,Dg,Dr)",
+      "level": 2,
+      "start_line": 590
+    },
+    {
+      "anchor": "if-dp-1-dp-2-63-63-64",
+      "end_line": 591,
+      "heading": "If(Dp(1)-Dp(2))63,63,64",
+      "level": 2,
+      "start_line": 591
+    },
+    {
+      "anchor": "64-dp-2-dp-1",
+      "end_line": 592,
+      "heading": "64 Dp(2)=Dp(1)",
+      "level": 2,
+      "start_line": 592
+    },
+    {
+      "anchor": "got066",
+      "end_line": 593,
+      "heading": "Got066",
+      "level": 2,
+      "start_line": 593
+    },
+    {
+      "anchor": "63-dv-3-14159265-dg-dp-1-dg-dsin-de-5",
+      "end_line": 594,
+      "heading": "63 Dv=3.14159265*Dg *(Dp(1)*Dg -Dsin(De(5)))",
+      "level": 2,
+      "start_line": 594
+    },
+    {
+      "anchor": "de-4-de-1-57-29577957",
+      "end_line": 595,
+      "heading": "De(4)=De(1)*57.29577957",
+      "level": 2,
+      "start_line": 595
+    },
+    {
+      "anchor": "de-8-de-5-57-29577957",
+      "end_line": 596,
+      "heading": "De(8)=De(5)*57.29577957",
+      "level": 2,
+      "start_line": 596
+    },
+    {
+      "anchor": "print-50-dbeta-dh",
+      "end_line": 597,
+      "heading": "Print 50,Dbeta,Dh",
+      "level": 2,
+      "start_line": 597
+    },
+    {
+      "anchor": "50-format-1h2-6hbeta-e15-7-6x-3hh-e15-7",
+      "end_line": 598,
+      "heading": "50 Format(1H2,6Hbeta=E15.7,6X,3Hh=E15.7//)",
+      "level": 2,
+      "start_line": 598
+    },
+    {
+      "anchor": "100-format-1ho-5x-3hphi-8x-3hx-b-13x-3hz-b-13x-3hr-a-13x-3hh-113x-4hv-a3",
+      "end_line": 599,
+      "heading": "100 FORMAT(1HO,5X,3HPHI,8X,3HX/B,13X,3HZ/B,13X,3HR/A,13X,3HH/113X,4HV/A3)",
+      "level": 2,
+      "start_line": 599
+    },
+    {
+      "anchor": "200-format-1h-op1f9-3-1p5e16-7",
+      "end_line": 600,
+      "heading": "200 Format(1H,Op1F9.3,1P5E16.7)",
+      "level": 2,
+      "start_line": 600
+    },
+    {
+      "anchor": "print100",
+      "end_line": 601,
+      "heading": "Print100",
+      "level": 2,
+      "start_line": 601
+    },
+    {
+      "anchor": "print200-de-8-de-6-de-7-dg-dp-1-dv",
+      "end_line": 602,
+      "heading": "Print200,De(8),De(6),De(7),Dg,Dp(1),Dv",
+      "level": 2,
+      "start_line": 602
+    },
+    {
+      "anchor": "201-continue",
+      "end_line": 603,
+      "heading": "201 CONTINUE",
+      "level": 2,
+      "start_line": 603
+    },
+    {
+      "anchor": "goto-11",
+      "end_line": 605,
+      "heading": "Goto 11",
+      "level": 2,
+      "start_line": 604
+    },
+    {
+      "anchor": "c-solution-for-given-values-of-beta-and-r-a-g1",
+      "end_line": 607,
+      "heading": "C Solution For Given Values Of Beta And R/A=(G1)",
+      "level": 2,
+      "start_line": 606
+    },
+    {
+      "anchor": "400-format-8f10-7",
+      "end_line": 608,
+      "heading": "400 Format(8F10.7)",
+      "level": 2,
+      "start_line": 608
+    },
+    {
+      "anchor": "401-continue",
+      "end_line": 609,
+      "heading": "401 CONTINUE",
+      "level": 2,
+      "start_line": 609
+    },
+    {
+      "anchor": "do-202-n4-1-n3",
+      "end_line": 610,
+      "heading": "Do 202 N4=1,N3",
+      "level": 2,
+      "start_line": 610
+    },
+    {
+      "anchor": "read-400-beta-g1-i-i-1-8",
+      "end_line": 611,
+      "heading": "Read 400,Beta,(G1(I),I=1,8)",
+      "level": 2,
+      "start_line": 611
+    },
+    {
+      "anchor": "call-mainis-a-b-c-z-e-h-j-p-beta-g1-r",
+      "end_line": 612,
+      "heading": "Call Mainis(A,B,C,Z,E,H,J,P,Beta,G1,R)",
+      "level": 2,
+      "start_line": 612
+    },
+    {
+      "anchor": "202-continue",
+      "end_line": 613,
+      "heading": "202 CONTINUE",
+      "level": 2,
+      "start_line": 613
+    },
+    {
+      "anchor": "goto-11",
+      "end_line": 615,
+      "heading": "Goto 11",
+      "level": 2,
+      "start_line": 614
+    },
+    {
+      "anchor": "c-solution-for-given-values-of-beta-at-intervals-n1-of-phi",
+      "end_line": 617,
+      "heading": "C SOLUTION FOR GIVEN VALUES OF BETA AT INTERVALS (N1) OF PHI",
+      "level": 2,
+      "start_line": 616
+    },
+    {
+      "anchor": "501-continue",
+      "end_line": 618,
+      "heading": "501 CONTINUE",
+      "level": 2,
+      "start_line": 618
+    },
+    {
+      "anchor": "do-203-n4-1-n3",
+      "end_line": 619,
+      "heading": "Do 203 N4=1,N3",
+      "level": 2,
+      "start_line": 619
+    },
+    {
+      "anchor": "read-500-beta-n1-n2",
+      "end_line": 620,
+      "heading": "Read 500,Beta,N1,N2",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "500-format-f10-7-2i4",
+      "end_line": 621,
+      "heading": "500 Format(F10.7,2I4)",
+      "level": 2,
+      "start_line": 621
+    },
+    {
+      "anchor": "call-main2s-a-b-c-z-e-h-j-p-beta-g-r-n1-n2",
+      "end_line": 622,
+      "heading": "Call Main2S(A,B,C,Z,E,H,J,P,Beta,G,R,N1,N2)",
+      "level": 2,
+      "start_line": 622
+    },
+    {
+      "anchor": "203-continue",
+      "end_line": 623,
+      "heading": "203 CONTINUE",
+      "level": 2,
+      "start_line": 623
+    },
+    {
+      "anchor": "goto-11",
+      "end_line": 630,
+      "heading": "Goto 11",
+      "level": 2,
+      "start_line": 624
+    },
+    {
+      "anchor": "subroutine-mains-a-b-c-z-e-h-j-p-beta-g-r",
+      "end_line": 631,
+      "heading": "Subroutine Mains(A,B,C,Z,E,H,J,P,Beta,G,R)",
+      "level": 2,
+      "start_line": 631
+    },
+    {
+      "anchor": "c-implicit-real-8-d-real-4-a-c-e-h-o-z",
+      "end_line": 632,
+      "heading": "C Implicit Real*8(D),Real*4(A-C,E-H,O-Z)",
+      "level": 2,
+      "start_line": 632
+    },
+    {
+      "anchor": "dimensiona-4-b-4-c-4-z-4-e-8-p-4-r-4",
+      "end_line": 633,
+      "heading": "Dimensiona(4),B(4),C(4),Z(4),E(8),P(4),R(4)",
+      "level": 2,
+      "start_line": 633
+    },
+    {
+      "anchor": "h-0-1745329e-01",
+      "end_line": 634,
+      "heading": "H=0.1745329E-01",
+      "level": 2,
+      "start_line": 634
+    },
+    {
+      "anchor": "e-6-0",
+      "end_line": 636,
+      "heading": "E(6)=0.",
+      "level": 2,
+      "start_line": 635
+    },
+    {
+      "anchor": "e-1-0",
+      "end_line": 637,
+      "heading": "E(1)=0.",
+      "level": 2,
+      "start_line": 637
+    },
+    {
+      "anchor": "e-2-0",
+      "end_line": 638,
+      "heading": "E(2)=0.",
+      "level": 2,
+      "start_line": 638
+    },
+    {
+      "anchor": "e-3-0",
+      "end_line": 639,
+      "heading": "E(3)=0.",
+      "level": 2,
+      "start_line": 639
+    },
+    {
+      "anchor": "n1-1",
+      "end_line": 640,
+      "heading": "N1=1",
+      "level": 2,
+      "start_line": 640
+    },
+    {
+      "anchor": "r-2-0",
+      "end_line": 641,
+      "heading": "R(2)=0.",
+      "level": 2,
+      "start_line": 641
+    },
+    {
+      "anchor": "do150m-1-360",
+      "end_line": 642,
+      "heading": "Do150M=1,360",
+      "level": 2,
+      "start_line": 642
+    },
+    {
+      "anchor": "call-rungks-a-b-c-z-e-h-j-beta-g-p",
+      "end_line": 643,
+      "heading": "Call Rungks(A,B,C,Z,E,H,J,Beta,G,P)",
+      "level": 2,
+      "start_line": 643
+    },
+    {
+      "anchor": "r-1-e-2-sort-beta-2-0",
+      "end_line": 644,
+      "heading": "R(1)=E(2)*Sort(Beta/2.0)",
+      "level": 2,
+      "start_line": 644
+    },
+    {
+      "anchor": "goto-4-5-n1",
+      "end_line": 645,
+      "heading": "Goto(4,5),N1",
+      "level": 2,
+      "start_line": 645
+    },
+    {
+      "anchor": "4-if-g-r-1-5-3-3",
+      "end_line": 646,
+      "heading": "4 IF(G-R(1))5,3,3",
+      "level": 2,
+      "start_line": 646
+    },
+    {
+      "anchor": "3-if-r-1-r-2-8-8-10",
+      "end_line": 647,
+      "heading": "3 IF(R(1)-R(2))8,8,10",
+      "level": 2,
+      "start_line": 647
+    },
+    {
+      "anchor": "5-if-g-r-1-1-6-7",
+      "end_line": 648,
+      "heading": "5 IF(G-R(1))1,6,7",
+      "level": 2,
+      "start_line": 648
+    },
+    {
+      "anchor": "1-n1-2",
+      "end_line": 649,
+      "heading": "1 N1=2",
+      "level": 2,
+      "start_line": 649
+    },
+    {
+      "anchor": "10-r-2-r-1",
+      "end_line": 650,
+      "heading": "10 R(2)=R(1)",
+      "level": 2,
+      "start_line": 650
+    },
+    {
+      "anchor": "e-5-e-1",
+      "end_line": 651,
+      "heading": "E(5)=E(1)",
+      "level": 2,
+      "start_line": 651
+    },
+    {
+      "anchor": "e-6-e-2",
+      "end_line": 652,
+      "heading": "E(6)=E(2)",
+      "level": 2,
+      "start_line": 652
+    },
+    {
+      "anchor": "e-7-e-3",
+      "end_line": 653,
+      "heading": "E(7)=E(3)",
+      "level": 2,
+      "start_line": 653
+    },
+    {
+      "anchor": "150-continue",
+      "end_line": 654,
+      "heading": "150 CONTINUE",
+      "level": 2,
+      "start_line": 654
+    },
+    {
+      "anchor": "7-f-g-r-2-r-1-r-2",
+      "end_line": 655,
+      "heading": "7 F=(G-R(2))/R(1)-R(2))",
+      "level": 2,
+      "start_line": 655
+    },
+    {
+      "anchor": "e-5-f-e-1-e-5-e-5",
+      "end_line": 656,
+      "heading": "E(5)=F*(E(1)-E(5))+E(5)",
+      "level": 2,
+      "start_line": 656
+    },
+    {
+      "anchor": "e-6-f-e-2-e-6-e-6",
+      "end_line": 657,
+      "heading": "E(6)=F*(E(2)-E(6))+E(6)",
+      "level": 2,
+      "start_line": 657
+    },
+    {
+      "anchor": "e-7-f-e-3-e-7-e-7",
+      "end_line": 658,
+      "heading": "E(7)=F*(E(3)-E(7))+E(7)",
+      "level": 2,
+      "start_line": 658
+    },
+    {
+      "anchor": "6-p-1-sqrt-2-beta-e-7-sqrt-beta-2",
+      "end_line": 659,
+      "heading": "6 P(1)=Sqrt(2./Beta)+E(7)*Sqrt(Beta/2.)",
+      "level": 2,
+      "start_line": 659
+    },
+    {
+      "anchor": "goto9",
+      "end_line": 660,
+      "heading": "Goto9",
+      "level": 2,
+      "start_line": 660
+    },
+    {
+      "anchor": "8-p-1-1-0",
+      "end_line": 661,
+      "heading": "8 P(1)=1.0",
+      "level": 2,
+      "start_line": 661
+    },
+    {
+      "anchor": "p-2-2-0",
+      "end_line": 662,
+      "heading": "P(2)=2.0",
+      "level": 2,
+      "start_line": 662
+    },
+    {
+      "anchor": "9-return",
+      "end_line": 739,
+      "heading": "9 RETURN",
+      "level": 2,
+      "start_line": 663
+    },
+    {
+      "anchor": "22-n2-1",
+      "end_line": 740,
+      "heading": "22 N2=1",
+      "level": 2,
+      "start_line": 740
+    },
+    {
+      "anchor": "n1-3",
+      "end_line": 741,
+      "heading": "N1=3",
+      "level": 2,
+      "start_line": 741
+    },
+    {
+      "anchor": "if-g1-i-r-1-7-6-140",
+      "end_line": 742,
+      "heading": "If(G1(I)-R(1))7,6,140",
+      "level": 2,
+      "start_line": 742
+    },
+    {
+      "anchor": "7-f-g1-i-r-2-r-1-r-2",
+      "end_line": 743,
+      "heading": "7 F=(G1(I)-R(2))/(R(1)-R(2))",
+      "level": 2,
+      "start_line": 743
+    },
+    {
+      "anchor": "e-1-f-e-1-e-5-e-5",
+      "end_line": 744,
+      "heading": "E(1)=F*(E(1)-E(5))+E(5)",
+      "level": 2,
+      "start_line": 744
+    },
+    {
+      "anchor": "e-2-f-e-2-e-6-e-6",
+      "end_line": 745,
+      "heading": "E(2)=F*(E(2)-E(6))+E(6)",
+      "level": 2,
+      "start_line": 745
+    },
+    {
+      "anchor": "e-3-f-e-3-e-7-e-7",
+      "end_line": 746,
+      "heading": "E(3)=F*(E(3)-E(7))+E(7)",
+      "level": 2,
+      "start_line": 746
+    },
+    {
+      "anchor": "6-p-1-sqrt-2-beta-e-3-sqrt-beta-2",
+      "end_line": 747,
+      "heading": "6 P(1)=Sqrt(2./Beta)+E(3)*Sqrt(Beta/2.)",
+      "level": 2,
+      "start_line": 747
+    },
+    {
+      "anchor": "v-3-14159265-g1-i-p-1-g1-i-sin-e-1",
+      "end_line": 748,
+      "heading": "V=3.14159265*G1(I)*(P(1)*G1(I)-Sin(E(1)))",
+      "level": 2,
+      "start_line": 748
+    },
+    {
+      "anchor": "e-4-e-1-57-29577957",
+      "end_line": 749,
+      "heading": "E(4)=E(1)*57.29577957",
+      "level": 2,
+      "start_line": 749
+    },
+    {
+      "anchor": "50-format-1h2-6hbeta-e15-7-6x-3hh-e15-7",
+      "end_line": 750,
+      "heading": "50 Format(1H2,6Hbeta=E15.7,6X,3Hh=E15.7///)",
+      "level": 2,
+      "start_line": 750
+    },
+    {
+      "anchor": "print-50-beta-h",
+      "end_line": 751,
+      "heading": "Print 50,Beta,H",
+      "level": 2,
+      "start_line": 751
+    },
+    {
+      "anchor": "print-100",
+      "end_line": 752,
+      "heading": "Print 100",
+      "level": 2,
+      "start_line": 752
+    },
+    {
+      "anchor": "print-200-e-4-e-2-e-3-g1-i-p-1-v",
+      "end_line": 753,
+      "heading": "Print 200,E(4),E(2),E(3),G1(I),P(1),V",
+      "level": 2,
+      "start_line": 753
+    },
+    {
+      "anchor": "200-format-1h-op1f9-3-ip5e16-7",
+      "end_line": 754,
+      "heading": "200 Format(1H,Op1F9.3,Ip5E16.7)",
+      "level": 2,
+      "start_line": 754
+    },
+    {
+      "anchor": "100-format-1ho-5x-3hphi-8x-3hx-b-13x-3hz-b-13x-3hr-a-13x-3hh-a-113x-4hv-a3",
+      "end_line": 755,
+      "heading": "100 FORMAT(1HO,5X,3HPHI,8X,3HX/B,13X,3HZ/B,13X,3HR/A,13X,3HH/A,113X,4HV/A3)",
+      "level": 2,
+      "start_line": 755
+    },
+    {
+      "anchor": "i-i-n2",
+      "end_line": 756,
+      "heading": "I=I+N2",
+      "level": 2,
+      "start_line": 756
+    },
+    {
+      "anchor": "if-i-8-130-130-3",
+      "end_line": 757,
+      "heading": "If(I-8)130,130,3",
+      "level": 2,
+      "start_line": 757
+    },
+    {
+      "anchor": "130-if-i-1-9-140-140",
+      "end_line": 758,
+      "heading": "130 IF(I-1)9,140,140",
+      "level": 2,
+      "start_line": 758
+    },
+    {
+      "anchor": "140-r-2-r-1",
+      "end_line": 759,
+      "heading": "140 R(2)=R(1)",
+      "level": 2,
+      "start_line": 759
+    },
+    {
+      "anchor": "e-5-e-1",
+      "end_line": 760,
+      "heading": "E(5)=E(1)",
+      "level": 2,
+      "start_line": 760
+    },
+    {
+      "anchor": "e-6-e-2",
+      "end_line": 761,
+      "heading": "E(6)=E(2)",
+      "level": 2,
+      "start_line": 761
+    },
+    {
+      "anchor": "e-7-e-3",
+      "end_line": 762,
+      "heading": "E(7)=E(3)",
+      "level": 2,
+      "start_line": 762
+    },
+    {
+      "anchor": "150-continue",
+      "end_line": 763,
+      "heading": "150 CONTINUE",
+      "level": 2,
+      "start_line": 763
+    },
+    {
+      "anchor": "9-return",
+      "end_line": 768,
+      "heading": "9 RETURN",
+      "level": 2,
+      "start_line": 764
+    },
+    {
+      "anchor": "subroutine-main2s-a-b-c-z-e-h-j-p-beta-g-r-n1-n2",
+      "end_line": 770,
+      "heading": "Subroutine Main2S(A,B,C,Z,E,H,J,P,Beta,G,R,N1,N2)",
+      "level": 2,
+      "start_line": 769
+    },
+    {
+      "anchor": "implicit-real-8-d-real-4-a-c-e-h-o-z",
+      "end_line": 771,
+      "heading": "Implicit Real*8(D),Real*4(A-C,E-H,O-Z)",
+      "level": 2,
+      "start_line": 771
+    },
+    {
+      "anchor": "dimensiona-4-b-4-c-4-z-4-e-8-p-4-r-4",
+      "end_line": 772,
+      "heading": "Dimensiona(4),B(4),C(4),Z(4),E(8),P(4),R(4)",
+      "level": 2,
+      "start_line": 772
+    },
+    {
+      "anchor": "101-format-1ho-5x-3hphi-8x-3hx-b-13x-3hz-b-13x-3hr-a-13x-3hh-a-113x-4hv-a3",
+      "end_line": 773,
+      "heading": "101 FORMAT(1HO,5X,3HPHI,8X,3HX/B,13X,3HZ/B,13X,3HR/A,13X,3HH/A,113X,4HV/A3)",
+      "level": 2,
+      "start_line": 773
+    },
+    {
+      "anchor": "50-format-1h1-5hbeta-e15-7-6x-2hh-e15-7",
+      "end_line": 774,
+      "heading": "50 Format(1H1,5Hbeta=E15.7,6X,2Hh=E15.7///)",
+      "level": 2,
+      "start_line": 774
+    },
+    {
+      "anchor": "200-format-1h-op1f9-3-ip5e16-7",
+      "end_line": 775,
+      "heading": "200 Format(1H,Op1F9.3,Ip5E16.7)",
+      "level": 2,
+      "start_line": 775
+    },
+    {
+      "anchor": "h-0-1745329e-01",
+      "end_line": 776,
+      "heading": "H=0.1745329E-01",
+      "level": 2,
+      "start_line": 776
+    },
+    {
+      "anchor": "print-50-beta-h",
+      "end_line": 777,
+      "heading": "Print 50,Beta,H",
+      "level": 2,
+      "start_line": 777
+    },
+    {
+      "anchor": "print-101",
+      "end_line": 778,
+      "heading": "Print 101",
+      "level": 2,
+      "start_line": 778
+    },
+    {
+      "anchor": "e-6-0",
+      "end_line": 780,
+      "heading": "E(6)=0.",
+      "level": 2,
+      "start_line": 779
+    },
+    {
+      "anchor": "n2-n2-n1",
+      "end_line": 781,
+      "heading": "N2=N2/N1",
+      "level": 2,
+      "start_line": 781
+    },
+    {
+      "anchor": "n3-1746e-01-h",
+      "end_line": 782,
+      "heading": "N3=.1746E-01/H",
+      "level": 2,
+      "start_line": 782
+    },
+    {
+      "anchor": "n1-n3-n1",
+      "end_line": 783,
+      "heading": "N1=N3*N1",
+      "level": 2,
+      "start_line": 783
+    },
+    {
+      "anchor": "e-1-0",
+      "end_line": 784,
+      "heading": "E(1)=0.",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "e-2-0",
+      "end_line": 785,
+      "heading": "E(2)=0.",
+      "level": 2,
+      "start_line": 785
+    },
+    {
+      "anchor": "e-3-0",
+      "end_line": 786,
+      "heading": "E(3)=0.",
+      "level": 2,
+      "start_line": 786
+    },
+    {
+      "anchor": "do-150-m-1-n2",
+      "end_line": 791,
+      "heading": "Do 150 M=1,N2",
+      "level": 2,
+      "start_line": 787
+    },
+    {
+      "anchor": "do-100-n-1-n1call-rungks-a-b-c-z-e-h-j-beta-g-p",
+      "end_line": 793,
+      "heading": "Do 100 N=1,N1Call Rungks(A,B,C,Z,E,H,J,Beta,G,P)",
+      "level": 2,
+      "start_line": 792
+    },
+    {
+      "anchor": "150-continuereturnend",
+      "end_line": 798,
+      "heading": "150 CONTINUERETURNEND",
+      "level": 2,
+      "start_line": 794
+    },
+    {
+      "anchor": "subroutinerungdda-db-dc-dz-de-dh-j-dbeta-dg-dp",
+      "end_line": 802,
+      "heading": "Subroutinerungdda,Db,Dc,Dz,De,Dh,J,Dbeta,Dg,Dp)",
+      "level": 2,
+      "start_line": 799
+    },
+    {
+      "anchor": "50-dz-i-de-i-db-k-dz-i",
+      "end_line": 803,
+      "heading": "50 Dz(I)=De(I)+Db(K)*Dz(I)",
+      "level": 2,
+      "start_line": 803
+    },
+    {
+      "anchor": "30-continuedc-1-dhdo60i-1-j",
+      "end_line": 804,
+      "heading": "30 Continuedc(1)=Dhdo60I=1,J",
+      "level": 2,
+      "start_line": 804
+    },
+    {
+      "anchor": "60-de-i-de-i-dc-i-returnend",
+      "end_line": 808,
+      "heading": "60 De(I)=De(I)+Dc(I)Returnend",
+      "level": 2,
+      "start_line": 805
+    },
+    {
+      "anchor": "subroutine-rhod-da-db-dc-dz-de-dh-j-dbeta-dg-dp",
+      "end_line": 815,
+      "heading": "Subroutine Rhod(Da,Db,Dc,Dz,De,Dh,J,Dbeta,Dg,Dp)",
+      "level": 2,
+      "start_line": 809
+    },
+    {
+      "anchor": "if-dz-1-70-75-70",
+      "end_line": 816,
+      "heading": "If(Dz(1))70,75,70",
+      "level": 2,
+      "start_line": 816
+    },
+    {
+      "anchor": "70-drh-1-0-2-0-dbeta-dz-3-dsin-dz-1-dz-2",
+      "end_line": 817,
+      "heading": "70 Drh=1.0/(2.0+Dbeta*Dz(3)-Dsin(Dz(1))/Dz(2))",
+      "level": 2,
+      "start_line": 817
+    },
+    {
+      "anchor": "goto76",
+      "end_line": 818,
+      "heading": "Goto76",
+      "level": 2,
+      "start_line": 818
+    },
+    {
+      "anchor": "75-drh-1-0",
+      "end_line": 819,
+      "heading": "75 Drh=1.0",
+      "level": 2,
+      "start_line": 819
+    },
+    {
+      "anchor": "76-dz-2-drh-dcos-dz-1",
+      "end_line": 820,
+      "heading": "76 Dz(2)=Drh*Dcos(Dz(1))",
+      "level": 2,
+      "start_line": 820
+    },
+    {
+      "anchor": "dz-3-drh-dsin-dz-1",
+      "end_line": 821,
+      "heading": "Dz(3)=Drh*Dsin(Dz(1))",
+      "level": 2,
+      "start_line": 821
+    },
+    {
+      "anchor": "return",
+      "end_line": 903,
+      "heading": "Return",
+      "level": 2,
+      "start_line": 822
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1019,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 904
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1036,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1020
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3528",
+  "tables": [],
+  "title": "ORNL-TM-3528",
+  "topics": [
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

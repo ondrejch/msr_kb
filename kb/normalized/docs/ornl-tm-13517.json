@@ -1,0 +1,638 @@
+{
+  "authors": [
+    "C.W.Forsberg",
+    "C. M. Hopper",
+    "J. L. Richter",
+    "H. C. Vantine",
+    "LIST OF FIGURES V",
+    "LIST OF TABLES V"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-13517.jsonl",
+  "date_text": "March 1998",
+  "doc_id": "ornl-tm-13517",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          7,
+          336,
+          337,
+          341,
+          343,
+          344,
+          350,
+          362,
+          442,
+          451,
+          467,
+          507,
+          521
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          336,
+          337,
+          341,
+          343,
+          344,
+          453
+        ],
+        "name": "Lockheed Martin"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          348,
+          1062,
+          1091,
+          1099,
+          1132
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1019
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          350
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 34,
+        "line_hits": [
+          122,
+          124,
+          126,
+          144,
+          150,
+          160,
+          164,
+          184,
+          188,
+          190,
+          198,
+          212,
+          214,
+          217,
+          219,
+          237,
+          267,
+          269,
+          270,
+          275,
+          285,
+          289,
+          300,
+          306,
+          308,
+          327,
+          331,
+          368,
+          400,
+          422,
+          485,
+          491,
+          493,
+          515
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          507
+        ],
+        "name": "ART"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "e353d6dcae57219847783530e0cb4da832f4bb984d84b758e3d293fe3eb70ecf",
+  "markdown_path": "pdf/ORNL-TM-13517/ORNL-TM-13517/hybrid_ocr/ORNL-TM-13517.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 70,
+  "sections": [
+    {
+      "anchor": "definition-of-weapons-usable-uranium-233",
+      "end_line": 19,
+      "heading": "Definition of Weapons-Usable Uranium-233",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "contents",
+      "end_line": 21,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 20
+    },
+    {
+      "anchor": "list-of-figures-v",
+      "end_line": 23,
+      "heading": "List Of Figures V",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "list-of-tables-v",
+      "end_line": 29,
+      "heading": "List Of Tables V",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 31,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "1-1-objectives-1",
+      "end_line": 32,
+      "heading": "1.1 OBJECTIVES 1",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "1-2-history-1",
+      "end_line": 45,
+      "heading": "1.2 HISTORY 1",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "1-5-report-organization-5",
+      "end_line": 50,
+      "heading": "1.5 REPORT ORGANIZATION 5",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "3-1-definition-11",
+      "end_line": 51,
+      "heading": "3.1 DEFINITION 11",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "3-2-basis-for-definition-11",
+      "end_line": 68,
+      "heading": "3.2 BASIS FOR DEFINITION 11",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 70,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "4-conclusions-19",
+      "end_line": 71,
+      "heading": "4. CONCLUSIONS 19",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "5-references-21",
+      "end_line": 79,
+      "heading": "5. REFERENCES 21",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 85,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 91,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "acronyms-and-abbreviations",
+      "end_line": 117,
+      "heading": "ACRONYMS AND ABBREVIATIONS",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "executive-summary",
+      "end_line": 135,
+      "heading": "EXECUTIVE SUMMARY",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 137,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 136
+    },
+    {
+      "anchor": "1-1-objectives",
+      "end_line": 147,
+      "heading": "1.1 OBJECTIVES",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "1-2-history",
+      "end_line": 151,
+      "heading": "1.2 HISTORY",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "1-2-1-production-methods-used-to-produce-233-mathrm-u",
+      "end_line": 161,
+      "heading": "1.2.1 Production Methods Used to Produce $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "1-2-2-development-history",
+      "end_line": 169,
+      "heading": "1.2.2 Development History",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "1-3-the-need-to-define-nonweapons-233-mathrm-u",
+      "end_line": 173,
+      "heading": "1.3 THE NEED TO DEFINE NONWEAPONS $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "1-3-1-disposition-of-excess-weapons-usable-fissile-materials",
+      "end_line": 181,
+      "heading": "1.3.1 Disposition of Excess Weapons-Usable Fissile Materials",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "1-3-2-medical-applications",
+      "end_line": 185,
+      "heading": "1.3.2 Medical Applications",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "1-3-3-nuclear-power-applications",
+      "end_line": 195,
+      "heading": "1.3.3 Nuclear Power Applications",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "1-3-4-waste-management",
+      "end_line": 199,
+      "heading": "1.3.4 Waste Management",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "1-4-assumptions-used-in-defining-nonweapons-233-mathrm-u",
+      "end_line": 205,
+      "heading": "1.4 ASSUMPTIONS USED IN DEFINING NONWEAPONS $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "1-5-report-organization",
+      "end_line": 209,
+      "heading": "1.5 REPORT ORGANIZATION",
+      "level": 1,
+      "start_line": 206
+    },
+    {
+      "anchor": "2-structure-of-the-definition-of-non-weapons-usable-233-mathrm-u",
+      "end_line": 238,
+      "heading": "2. STRUCTURE OF THE DEFINITION OF NON-WEAPONS USABLE $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "3-definition-of-non-weapons-usable-233-mathbf-u",
+      "end_line": 240,
+      "heading": "3. DEFINITION OF NON-WEAPONS-USABLE $^{233}\\mathbf{U}$",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "3-1-definition",
+      "end_line": 250,
+      "heading": "3.1 DEFINITION",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "3-2-basis-for-definition",
+      "end_line": 254,
+      "heading": "3.2 BASIS FOR DEFINITION",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "3-2-1-history",
+      "end_line": 262,
+      "heading": "3.2.1 History",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "3-2-2-nuclear-equivalence",
+      "end_line": 272,
+      "heading": "3.2.2 Nuclear Equivalence",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "3-2-2-1-critical-mass-equivalent-of-a-233-mathrm-u-238-mathrm-u-mixture-and-235-mathrm-u-238-mathrm-u-mixture",
+      "end_line": 282,
+      "heading": "3.2.2.1 Critical Mass Equivalent of a $^{233}\\mathrm{U} - ^{238}\\mathrm{U}$ Mixture and $^{235}\\mathrm{U} - ^{238}\\mathrm{U}$ Mixture",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "3-2-2-2-subcritical-mass-equivalence-of-a-233-mathrm-u-238-mathrm-u-mixture-with-20-wt-235-mathrm-u-mixtures",
+      "end_line": 293,
+      "heading": "3.2.2.2 Subcritical Mass Equivalence of a $^{233}\\mathrm{U} - ^{238}\\mathrm{U}$ Mixture with 20 wt % $^{235}\\mathrm{U}$ Mixtures",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "3-2-3-radiological-characteristics-of-233-mathrm-u",
+      "end_line": 297,
+      "heading": "3.2.3 Radiological Characteristics of $^{233}\\mathrm{U}$",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "3-2-3-1-alpha-radiation-levels",
+      "end_line": 301,
+      "heading": "3.2.3.1 Alpha Radiation Levels",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "3-2-3-2-gamma-radiation-levels",
+      "end_line": 312,
+      "heading": "3.2.3.2 Gamma Radiation Levels",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "3-2-4-heat-generation",
+      "end_line": 318,
+      "heading": "3.2.4 Heat Generation",
+      "level": 1,
+      "start_line": 313
+    },
+    {
+      "anchor": "3-3-other-form-and-category-definitions-for-233-mathbf-u",
+      "end_line": 328,
+      "heading": "3.3 OTHER FORM AND CATEGORY DEFINITIONS FOR $^{233}\\mathbf{U}$",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "4-conclusions",
+      "end_line": 332,
+      "heading": "4. CONCLUSIONS",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "5-references",
+      "end_line": 427,
+      "heading": "5. REFERENCES",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "03-95-bcv",
+      "end_line": 441,
+      "heading": "03/95:Bcv",
+      "level": 2,
+      "start_line": 428
+    },
+    {
+      "anchor": "ornl-dwg-97c-247",
+      "end_line": 450,
+      "heading": "Ornl Dwg 97C-247",
+      "level": 2,
+      "start_line": 442
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 452,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 451
+    },
+    {
+      "anchor": "managed-by-lockheed-martin-energy-research-corporation",
+      "end_line": 454,
+      "heading": "Managed By Lockheed Martin Energy Research Corporation",
+      "level": 2,
+      "start_line": 453
+    },
+    {
+      "anchor": "for-the-u-s-department-of-energy",
+      "end_line": 458,
+      "heading": "For The U.S. Department Of Energy",
+      "level": 2,
+      "start_line": 455
+    },
+    {
+      "anchor": "post-office-box-2008",
+      "end_line": 460,
+      "heading": "Post Office Box 2008",
+      "level": 2,
+      "start_line": 459
+    },
+    {
+      "anchor": "oak-ridge-tn-37831-6370",
+      "end_line": 462,
+      "heading": "Oak Ridge, Tn 37831-6370",
+      "level": 2,
+      "start_line": 461
+    },
+    {
+      "anchor": "phone-423-576-8617",
+      "end_line": 464,
+      "heading": "Phone: (423) 576-8617",
+      "level": 2,
+      "start_line": 463
+    },
+    {
+      "anchor": "fax-423-576-3513",
+      "end_line": 502,
+      "heading": "Fax: (423) 576-3513",
+      "level": 2,
+      "start_line": 465
+    },
+    {
+      "anchor": "attachment",
+      "end_line": 504,
+      "heading": "ATTACHMENT",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "background",
+      "end_line": 508,
+      "heading": "BACKGROUND",
+      "level": 1,
+      "start_line": 505
+    },
+    {
+      "anchor": "computational-method",
+      "end_line": 512,
+      "heading": "COMPUTATIONAL METHOD",
+      "level": 1,
+      "start_line": 509
+    },
+    {
+      "anchor": "results",
+      "end_line": 516,
+      "heading": "RESULTS",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "interpretations",
+      "end_line": 522,
+      "heading": "INTERPRETATIONS",
+      "level": 1,
+      "start_line": 517
+    },
+    {
+      "anchor": "considerations-about-the-equivalency-approach",
+      "end_line": 526,
+      "heading": "CONSIDERATIONS ABOUT THE EQUIVALENcy APPROACH",
+      "level": 1,
+      "start_line": 523
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 582,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "sd-0-3385962727",
+      "end_line": 588,
+      "heading": "Sd: 0.3385962727",
+      "level": 2,
+      "start_line": 583
+    },
+    {
+      "anchor": "sd-0-3076934247",
+      "end_line": 683,
+      "heading": "Sd: 0.3076934247",
+      "level": 2,
+      "start_line": 589
+    },
+    {
+      "anchor": "sd-0-3385962727",
+      "end_line": 689,
+      "heading": "Sd: 0.3385962727",
+      "level": 2,
+      "start_line": 684
+    },
+    {
+      "anchor": "sd-0-4148528778",
+      "end_line": 769,
+      "heading": "Sd: 0.4148528778",
+      "level": 2,
+      "start_line": 690
+    },
+    {
+      "anchor": "sd-0-3385962727",
+      "end_line": 775,
+      "heading": "Sd: 0.3385962727",
+      "level": 2,
+      "start_line": 770
+    },
+    {
+      "anchor": "sd-0-3352789163",
+      "end_line": 811,
+      "heading": "Sd: 0.3352789163",
+      "level": 2,
+      "start_line": 776
+    },
+    {
+      "anchor": "sd-0-3385962727",
+      "end_line": 817,
+      "heading": "Sd: 0.3385962727",
+      "level": 2,
+      "start_line": 812
+    },
+    {
+      "anchor": "sd-0-4419474676",
+      "end_line": 881,
+      "heading": "Sd: 0.4419474676",
+      "level": 2,
+      "start_line": 818
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1007,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 882
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1135,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1008
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-13517",
+  "tables": [],
+  "title": "Definition of Weapons-Usable Uranium-233",
+  "topics": [
+    "reactor-physics-neutronics",
+    "program-history",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing",
+    "irradiation-and-damage"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,3559 @@
+{
+  "authors": [
+    "SOLVING ORDINARY DIFFERENTIAL EQUATIONS",
+    "S.J.Ball R.K.Adams",
+    "LEGAL NOTICE",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1933.jsonl",
+  "date_text": "August 30, 1967",
+  "doc_id": "ornl-tm-1933",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          1293,
+          1295
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          1,
+          83,
+          686,
+          691,
+          1814,
+          1816,
+          1826
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 59,
+        "line_hits": [
+          17,
+          79,
+          83,
+          211,
+          213,
+          237,
+          241,
+          273,
+          277,
+          289,
+          297,
+          299,
+          311,
+          313,
+          315,
+          319,
+          345,
+          391,
+          419,
+          436,
+          450,
+          459,
+          461,
+          478,
+          490,
+          522,
+          527,
+          529,
+          537,
+          539,
+          541,
+          552,
+          554,
+          558,
+          570,
+          580,
+          585,
+          591,
+          593,
+          595,
+          599,
+          681,
+          719,
+          783,
+          789,
+          803,
+          805,
+          807,
+          809,
+          815
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "8f01568f29d75f3f8f3c890253bffd9f2cfd0034b1f263430c17ecf2e6e77e96",
+  "markdown_path": "pdf/ORNL-TM-1933/ORNL-TM-1933/hybrid_ocr/ORNL-TM-1933.md",
+  "report_number": "ORNL-TM-1933",
+  "report_numbers": [
+    "ORNL-TM-1933"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 491,
+  "sections": [
+    {
+      "anchor": "ornl-tm-1933",
+      "end_line": 2,
+      "heading": "Ornl-Tm-1933",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-133",
+      "end_line": 6,
+      "heading": "Copy No.133",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "matexp-a-general-purpose-digital-computer-program-for",
+      "end_line": 8,
+      "heading": "\"Matexp,\" A General Purpose Digital Computer Program For",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "solving-ordinary-differential-equations",
+      "end_line": 10,
+      "heading": "Solving Ordinary Differential Equations",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "by-the-matrix-exponential-method",
+      "end_line": 14,
+      "heading": "By The Matrix Exponential Method",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 20,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 29,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "contents",
+      "end_line": 55,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 84,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "2-development-of-the-matrix-exponential-method",
+      "end_line": 86,
+      "heading": "2. DEVELOPMENT OF THE MATRIX EXPONENTIAL METHOD",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "2-1-for-homogeneous-equations",
+      "end_line": 176,
+      "heading": "2.1 For Homogeneous Equations",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "2-2-for-nonhomogeneous-equations",
+      "end_line": 238,
+      "heading": "2.2 For Nonhomogeneous Equations",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "2-3-miscellaneous-features-of-the-matrix-exponential",
+      "end_line": 290,
+      "heading": "2.3 Miscellaneous Features of the Matrix Exponential",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "3-description-of-matexp-program-and-options",
+      "end_line": 292,
+      "heading": "3. DESCRIPTION OF MATEXP PROGRAM AND OPTIONS",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "3-1-basic-input-information",
+      "end_line": 322,
+      "heading": "3.1 Basic Input Information",
+      "level": 1,
+      "start_line": 293
+    },
+    {
+      "anchor": "3-2-alternative-methods-of-generating-the-coefficient-matrix-a",
+      "end_line": 342,
+      "heading": "3.2 Alternative Methods of Generating the Coefficient Matrix A",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "3-3-alternative-methods-of-generating-the-forcing-function-vector-z",
+      "end_line": 416,
+      "heading": "3.3 Alternative Methods of Generating the Forcing Function Vector Z",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "3-4-methods-for-solving-time-varying-parameter-and-nonlinear-differential-equations",
+      "end_line": 464,
+      "heading": "3.4 Methods for Solving Time-Varying-Parameter and Nonlinear Differential Equations",
+      "level": 1,
+      "start_line": 417
+    },
+    {
+      "anchor": "3-5-special-forcing-function-subroutines",
+      "end_line": 468,
+      "heading": "3.5 Special Forcing Function Subroutines",
+      "level": 1,
+      "start_line": 465
+    },
+    {
+      "anchor": "3-5-1-arbitrary-function-generation-dfg",
+      "end_line": 479,
+      "heading": "3.5.1 Arbitrary Function Generation - DFG",
+      "level": 1,
+      "start_line": 469
+    },
+    {
+      "anchor": "3-5-2-variable-transport-lag-generation-trlg",
+      "end_line": 547,
+      "heading": "3.5.2 Variable Transport Lag Generation - TRLG",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "4-summary-and-conclusions",
+      "end_line": 559,
+      "heading": "4. SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 548
+    },
+    {
+      "anchor": "5-appendix",
+      "end_line": 561,
+      "heading": "5. APPENDIX",
+      "level": 1,
+      "start_line": 560
+    },
+    {
+      "anchor": "5-1-problems-in-the-evaluation-of-exponential-functions",
+      "end_line": 596,
+      "heading": "5.1 Problems in the Evaluation of Exponential Functions",
+      "level": 1,
+      "start_line": 562
+    },
+    {
+      "anchor": "5-2-detailed-description-of-programs",
+      "end_line": 600,
+      "heading": "5.2 Detailed Description of Programs",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "5-2-1-matexp-main-program",
+      "end_line": 685,
+      "heading": "5.2.1 MATEXP Main Program",
+      "level": 1,
+      "start_line": 601
+    },
+    {
+      "anchor": "ornl-dwg-67-10217",
+      "end_line": 690,
+      "heading": "Ornl Dwg. 67-10217",
+      "level": 2,
+      "start_line": 686
+    },
+    {
+      "anchor": "ornl-dwg-67-10218",
+      "end_line": 698,
+      "heading": "Ornl Dwg. 67-10218",
+      "level": 2,
+      "start_line": 691
+    },
+    {
+      "anchor": "matexp-main-program-symbol-key",
+      "end_line": 780,
+      "heading": "MATEXP MAIN PROGRAM SYMBOL KEY",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "5-2-2-subroutine-output",
+      "end_line": 784,
+      "heading": "5.2.2 Subroutine OUTPUT",
+      "level": 1,
+      "start_line": 781
+    },
+    {
+      "anchor": "5-2-3-subroutine-distrb",
+      "end_line": 818,
+      "heading": "5.2.3 Subroutine DISTRB",
+      "level": 1,
+      "start_line": 785
+    },
+    {
+      "anchor": "5-2-4-subroutine-varco",
+      "end_line": 822,
+      "heading": "5.2.4 Subroutine VARCO",
+      "level": 1,
+      "start_line": 819
+    },
+    {
+      "anchor": "5-2-5-subroutine-dfg",
+      "end_line": 854,
+      "heading": "5.2.5 Subroutine DFG",
+      "level": 1,
+      "start_line": 823
+    },
+    {
+      "anchor": "5-2-6-subroutine-trlg",
+      "end_line": 880,
+      "heading": "5.2.6 Subroutine TRLG",
+      "level": 1,
+      "start_line": 855
+    },
+    {
+      "anchor": "5-3-fortran-listing-of-programs",
+      "end_line": 882,
+      "heading": "5.3 FORTRAN LISTING OF PROGRAMS",
+      "level": 1,
+      "start_line": 881
+    },
+    {
+      "anchor": "ibftc-main-deck",
+      "end_line": 884,
+      "heading": "$Ibftc Main Deck",
+      "level": 2,
+      "start_line": 883
+    },
+    {
+      "anchor": "program-matexp-for-the-7090-fortran-4",
+      "end_line": 886,
+      "heading": "Program Matexp For The 7090 - Fortran 4",
+      "level": 2,
+      "start_line": 885
+    },
+    {
+      "anchor": "this-program-calculates-the-solution-of-a-matrix-of-first",
+      "end_line": 890,
+      "heading": "This Program Calculates The Solution Of A Matrix Of First",
+      "level": 2,
+      "start_line": 887
+    },
+    {
+      "anchor": "of-the-form-dx-dt-ax-z",
+      "end_line": 892,
+      "heading": "Of The Form Dx/Dt # Ax + Z.",
+      "level": 2,
+      "start_line": 891
+    },
+    {
+      "anchor": "the-method-is-paynter-s-matrix-exponential-method",
+      "end_line": 894,
+      "heading": "The Method Is Paynter-S Matrix Exponential Method",
+      "level": 2,
+      "start_line": 893
+    },
+    {
+      "anchor": "the-solution-is-given-for-increments-of-the-independent",
+      "end_line": 896,
+      "heading": "The Solution Is Given For Increments Of The Independent",
+      "level": 2,
+      "start_line": 895
+    },
+    {
+      "anchor": "variable-t-from-tzero-through-tmax",
+      "end_line": 898,
+      "heading": "Variable (T) From Tzero Through Tmax",
+      "level": 2,
+      "start_line": 897
+    },
+    {
+      "anchor": "computes-matrices-c-exp-a-t-and",
+      "end_line": 900,
+      "heading": "Computes Matrices C # Exp(A*T) And",
+      "level": 2,
+      "start_line": 899
+    },
+    {
+      "anchor": "hp-c-i-a-inverse",
+      "end_line": 902,
+      "heading": "Hp # (C-I) \\*A Inverse",
+      "level": 2,
+      "start_line": 901
+    },
+    {
+      "anchor": "solution-x-n-t-c-x-n-1-t-hp-z-n-1-t",
+      "end_line": 904,
+      "heading": "Solution X(N*T) # C*X((N-1)*T)+Hp*Z((N-1)*T)",
+      "level": 2,
+      "start_line": 903
+    },
+    {
+      "anchor": "series-calculation-of-c-and-hp-monitored-to",
+      "end_line": 906,
+      "heading": "Series Calculation Of C And Hp Monitored To",
+      "level": 2,
+      "start_line": 905
+    },
+    {
+      "anchor": "assure-specified-significance",
+      "end_line": 908,
+      "heading": "Assure Specified Significance.",
+      "level": 2,
+      "start_line": 907
+    },
+    {
+      "anchor": "if-t-is-reduced-for-c-and-hp-calcs",
+      "end_line": 910,
+      "heading": "If T Is Reduced For C And Hp Calcs.",
+      "level": 2,
+      "start_line": 909
+    },
+    {
+      "anchor": "original-arguments-are-restored-by",
+      "end_line": 912,
+      "heading": "Original Arguments Are Restored By -",
+      "level": 2,
+      "start_line": 911
+    },
+    {
+      "anchor": "c-2-t-c-t-c-t",
+      "end_line": 914,
+      "heading": "C(2*T) #C(T)*C(T)",
+      "level": 2,
+      "start_line": 913
+    },
+    {
+      "anchor": "hp-2-t-hp-t-c-t-hp-t",
+      "end_line": 916,
+      "heading": "Hp（2\\*T）#Hp（T）+C（T）\\*Hp（T）",
+      "level": 2,
+      "start_line": 915
+    },
+    {
+      "anchor": "output-from-the-program-is-printed-at-intervals-pltinc",
+      "end_line": 918,
+      "heading": "Output From The Program Is Printed At Intervals Pltinc.",
+      "level": 2,
+      "start_line": 917
+    },
+    {
+      "anchor": "the-program-uses-subroutines-distrb-and-output",
+      "end_line": 920,
+      "heading": "The Program Uses Subroutines Distrb And Output",
+      "level": 2,
+      "start_line": 919
+    },
+    {
+      "anchor": "input-for-the-program-consists-of",
+      "end_line": 922,
+      "heading": "Input For The Program Consists Of",
+      "level": 2,
+      "start_line": 921
+    },
+    {
+      "anchor": "one-control-card",
+      "end_line": 926,
+      "heading": "One Control Card",
+      "level": 2,
+      "start_line": 923
+    },
+    {
+      "anchor": "the-initial-condition-vector-x",
+      "end_line": 928,
+      "heading": "The Initial Condition Vector X",
+      "level": 2,
+      "start_line": 927
+    },
+    {
+      "anchor": "a-fixed-disturbance-vector-z",
+      "end_line": 930,
+      "heading": "A Fixed Disturbance Vector Z",
+      "level": 2,
+      "start_line": 929
+    },
+    {
+      "anchor": "a-varying-z-can-be-generated-by-distrb",
+      "end_line": 932,
+      "heading": "A Varying Z Can Be Generated By Distrb",
+      "level": 2,
+      "start_line": 931
+    },
+    {
+      "anchor": "variable-coefficient-equations-may-be-solved-by-appropriate",
+      "end_line": 934,
+      "heading": "Variable Coefficient Equations May Be Solved By Appropriate",
+      "level": 2,
+      "start_line": 933
+    },
+    {
+      "anchor": "fudging-of-the-disturbance-function-subroutine",
+      "end_line": 936,
+      "heading": "Fudging Of The Disturbance Function Subroutine.",
+      "level": 2,
+      "start_line": 935
+    },
+    {
+      "anchor": "control-card-input-information",
+      "end_line": 938,
+      "heading": "Control Card Input Information",
+      "level": 2,
+      "start_line": 937
+    },
+    {
+      "anchor": "ne-no-of-equations-i2",
+      "end_line": 940,
+      "heading": "Ne#No. Of Equations (I2)",
+      "level": 2,
+      "start_line": 939
+    },
+    {
+      "anchor": "ll-coeff-matrix-tag-no-i2",
+      "end_line": 942,
+      "heading": "Ll#Coeff. Matrix Tag No. (I2)",
+      "level": 2,
+      "start_line": 941
+    },
+    {
+      "anchor": "p-precision-of-c-and-hp-fio-o-recommend-i-oe-6-or-less",
+      "end_line": 944,
+      "heading": "P#Precision Of C And Hp (Fio·O) - Recommend I·Oe-6 Or Less",
+      "level": 2,
+      "start_line": 943
+    },
+    {
+      "anchor": "tzero-zero-time-fio-0",
+      "end_line": 946,
+      "heading": "Tzero#Zero Time (Fio.0)",
+      "level": 2,
+      "start_line": 945
+    },
+    {
+      "anchor": "t-computation-time-interval-f10-0",
+      "end_line": 948,
+      "heading": "T#Computation Time Interval (F10.0)",
+      "level": 2,
+      "start_line": 947
+    },
+    {
+      "anchor": "tmax-maximum-time-fio-o",
+      "end_line": 950,
+      "heading": "Tmax#Maximum Time (Fio·O)",
+      "level": 2,
+      "start_line": 949
+    },
+    {
+      "anchor": "pltinc-printing-time-interval-fio-0",
+      "end_line": 952,
+      "heading": "Pltinc#Printing Time Interval (Fio·0)",
+      "level": 2,
+      "start_line": 951
+    },
+    {
+      "anchor": "matyescoeff-matrix-a-controlflag-i2",
+      "end_line": 954,
+      "heading": "Matyescoeff.Matrix（A）Controlflag（I2）",
+      "level": 2,
+      "start_line": 953
+    },
+    {
+      "anchor": "i-use-previous-a-and-t",
+      "end_line": 956,
+      "heading": "I#Use Previous A And T",
+      "level": 2,
+      "start_line": 955
+    },
+    {
+      "anchor": "2read-new-coeff-s-to-alter-a",
+      "end_line": 958,
+      "heading": "2Read New Coeff.S To Alter A",
+      "level": 2,
+      "start_line": 957
+    },
+    {
+      "anchor": "3-read-entire-new-a-non-zero-values",
+      "end_line": 960,
+      "heading": "3#Read Entire New A (Non-Zero Values)",
+      "level": 2,
+      "start_line": 959
+    },
+    {
+      "anchor": "4-distrb-to-calc-entire-new-a",
+      "end_line": 962,
+      "heading": "4#Distrb To Calc. Entire New A",
+      "level": 2,
+      "start_line": 961
+    },
+    {
+      "anchor": "5read-some-distrb-to-calc-others",
+      "end_line": 964,
+      "heading": "5Read Some, Distrb To Calc. Others",
+      "level": 2,
+      "start_line": 963
+    },
+    {
+      "anchor": "6-distrb-to-alter-some-a-elements",
+      "end_line": 966,
+      "heading": "6#Distrb To Alter Some A Elements",
+      "level": 2,
+      "start_line": 965
+    },
+    {
+      "anchor": "icss-initial-condition-vector-xic-flag-i2",
+      "end_line": 968,
+      "heading": "Icss# Initial Condition Vector (Xic) Flag (I2)",
+      "level": 2,
+      "start_line": 967
+    },
+    {
+      "anchor": "i-read-in-all-new-non-zero-values",
+      "end_line": 970,
+      "heading": "I#Read In All New Non-Zero Values",
+      "level": 2,
+      "start_line": 969
+    },
+    {
+      "anchor": "2-read-new-values-to-alter-previous-vector",
+      "end_line": 972,
+      "heading": "2#Read New Values To Alter Previous Vector",
+      "level": 2,
+      "start_line": 971
+    },
+    {
+      "anchor": "3-use-previous-vector",
+      "end_line": 974,
+      "heading": "3#Use Previous Vector",
+      "level": 2,
+      "start_line": 973
+    },
+    {
+      "anchor": "4-vector-0",
+      "end_line": 979,
+      "heading": "4#Vector#0",
+      "level": 2,
+      "start_line": 975
+    },
+    {
+      "anchor": "5-use-last-value-of-x-vector-from-previous-run",
+      "end_line": 980,
+      "heading": "5#Use Last Value Of X Vector From Previous Run",
+      "level": 2,
+      "start_line": 980
+    },
+    {
+      "anchor": "jflag-forcing-function-z-flag-i2",
+      "end_line": 981,
+      "heading": "Jflag#Forcing Function (Z) Flag (I2)",
+      "level": 2,
+      "start_line": 981
+    },
+    {
+      "anchor": "i-thru-4-same-as-for-icss-for-constant-z",
+      "end_line": 982,
+      "heading": "I Thru 4#Same As For Icss For Constant Z",
+      "level": 2,
+      "start_line": 982
+    },
+    {
+      "anchor": "5-call-distrb-at-each-time-step-for-variable-z",
+      "end_line": 983,
+      "heading": "5#Call Distrb At Each Time Step For Variable Z",
+      "level": 2,
+      "start_line": 983
+    },
+    {
+      "anchor": "itmax-max-no-of-terms-in-series-approx",
+      "end_line": 984,
+      "heading": "Itmax # Max. No. Of Terms In Series Approx.",
+      "level": 2,
+      "start_line": 984
+    },
+    {
+      "anchor": "of-exp-at-i3",
+      "end_line": 985,
+      "heading": "Of Exp(At). (I3)",
+      "level": 2,
+      "start_line": 985
+    },
+    {
+      "anchor": "lastcc-non-zero-for-last-case-ii",
+      "end_line": 986,
+      "heading": "Lastcc # Non-Zero For Last Case (Ii)",
+      "level": 2,
+      "start_line": 986
+    },
+    {
+      "anchor": "iiz-row-no-of-z-if-only-one-non-zero",
+      "end_line": 987,
+      "heading": "Iiz # Row No. Of Z If Only One Non-Zero,",
+      "level": 2,
+      "start_line": 987
+    },
+    {
+      "anchor": "otherwise-0-i2",
+      "end_line": 988,
+      "heading": "Otherwise #0 (I2)",
+      "level": 2,
+      "start_line": 988
+    },
+    {
+      "anchor": "icontr-for-internal-control-options-i2",
+      "end_line": 989,
+      "heading": "Icontr - For Internal Control Options (I2)",
+      "level": 2,
+      "start_line": 989
+    },
+    {
+      "anchor": "0-read-new-control-card-for-next-case",
+      "end_line": 990,
+      "heading": "0#Read New Control Card For Next Case",
+      "level": 2,
+      "start_line": 990
+    },
+    {
+      "anchor": "1-go-to-212-call-distrb-for-new-a-or-t",
+      "end_line": 991,
+      "heading": "1#Go To 212 Call Distrb For New A Or T",
+      "level": 2,
+      "start_line": 991
+    },
+    {
+      "anchor": "1-go-to-215-call-distrb-for-new-i-c-s",
+      "end_line": 992,
+      "heading": "-1#Go To 215 Call Distrb For New I.C.-S",
+      "level": 2,
+      "start_line": 992
+    },
+    {
+      "anchor": "var-max-allowable-value-of-largest-coeff-matrix-element-t",
+      "end_line": 993,
+      "heading": "Var # Max. Allowable Value Of Largest Coeff. Matrix Element * T",
+      "level": 2,
+      "start_line": 993
+    },
+    {
+      "anchor": "recommend-var-1-d-f6-d",
+      "end_line": 997,
+      "heading": "(Recommend Var#1.D) (F6.D)",
+      "level": 2,
+      "start_line": 994
+    },
+    {
+      "anchor": "dimension-a-60-60-c-60-60-hp-60-60-qpt-60-60",
+      "end_line": 998,
+      "heading": "Dimension A(60,60), C(60,60), Hp(60,60), Qpt(60,60),",
+      "level": 2,
+      "start_line": 998
+    },
+    {
+      "anchor": "ix-60-y-60-z-60-xic-60-tqp-60",
+      "end_line": 999,
+      "heading": "Ix(60), Y(60), Z(60), Xic(60), Tqp(60)",
+      "level": 2,
+      "start_line": 999
+    },
+    {
+      "anchor": "common-c-hp-a-qpt-x-z-y-itmax-kk-ll-mm",
+      "end_line": 1000,
+      "heading": "Common C, Hp, A, Qpt, X, Z, Y, Itmax, Kk, Ll, Mm,",
+      "level": 2,
+      "start_line": 1000
+    },
+    {
+      "anchor": "ijjflag-xic-ni-time-tmax-tzero-ne-tqp-t",
+      "end_line": 1001,
+      "heading": "Ijjflag, Xic, Ni, Time, Tmax, Tzero, Ne, Tqp, T,",
+      "level": 2,
+      "start_line": 1001
+    },
+    {
+      "anchor": "2-iiz-icontr-pltinc-matyes-icss-jflag-plt",
+      "end_line": 1005,
+      "heading": "2.Iiz, Icontr, Pltinc, Matyes, Icss, Jflag, Plt",
+      "level": 2,
+      "start_line": 1002
+    },
+    {
+      "anchor": "k-case-number",
+      "end_line": 1006,
+      "heading": "K#Case Number",
+      "level": 2,
+      "start_line": 1006
+    },
+    {
+      "anchor": "ni-0-on-i-st-pass-set-to-i-on-i-st-call-of-output",
+      "end_line": 1008,
+      "heading": "Ni#0 On I-St Pass. Set To I On I-St Call Of Output.",
+      "level": 2,
+      "start_line": 1007
+    },
+    {
+      "anchor": "ni-0",
+      "end_line": 1016,
+      "heading": "Ni#0",
+      "level": 2,
+      "start_line": 1009
+    },
+    {
+      "anchor": "100-format-2-i2-3x-5f10-0-3i2-i3-i1-2i2-f6-c",
+      "end_line": 1020,
+      "heading": "100 Format(2(I2,3X),5F10.0,3I2,I3,I1,2I2,F6.C)",
+      "level": 2,
+      "start_line": 1017
+    },
+    {
+      "anchor": "coefficient-matrix-input-go-to-3-99-2-2-2-3-matyes",
+      "end_line": 1024,
+      "heading": "Coefficient Matrix Input Go To (3,99,2,2,2,3), Matyes",
+      "level": 2,
+      "start_line": 1021
+    },
+    {
+      "anchor": "2-do-90-i-1-ne-do-90-j-1-ne",
+      "end_line": 1028,
+      "heading": "2 Do 90 I#1,Ne Do 90 J#1,Ne",
+      "level": 2,
+      "start_line": 1025
+    },
+    {
+      "anchor": "90-a-i-j-if-matyes-4-99-3-99",
+      "end_line": 1032,
+      "heading": "90 A(I,J)#□·□If(Matyes-4)99,3,99",
+      "level": 2,
+      "start_line": 1029
+    },
+    {
+      "anchor": "99-do-91-i-1-1379",
+      "end_line": 1036,
+      "heading": "99 Do 91 I#1,1379",
+      "level": 2,
+      "start_line": 1033
+    },
+    {
+      "anchor": "c-matrix-elements-5-row-column-value",
+      "end_line": 1040,
+      "heading": "C MATRIX ELEMENTS 5 (ROW, COLUMN, VALUE)",
+      "level": 2,
+      "start_line": 1037
+    },
+    {
+      "anchor": "c-all-i-and-j-entries-on-card-must-be-non-zero",
+      "end_line": 1048,
+      "heading": "C All I And J Entries On Card Must Be Non-Zero.",
+      "level": 2,
+      "start_line": 1041
+    },
+    {
+      "anchor": "101-format-4-213-e12-3-if-i1-3-3-92",
+      "end_line": 1052,
+      "heading": "101 Format（4（213，E12.3））If（I1）3,3,92",
+      "level": 2,
+      "start_line": 1049
+    },
+    {
+      "anchor": "92-a-i1-j1-d1-a-i2-j2-d2-a-i3-j3-d3",
+      "end_line": 1056,
+      "heading": "92 A（I1，J1）#D1 A（I2，J2）#D2 A（I3，J3）#D3",
+      "level": 2,
+      "start_line": 1053
+    },
+    {
+      "anchor": "91-a-i4-j4-d4",
+      "end_line": 1060,
+      "heading": "91 A（I4，J4#D4",
+      "level": 2,
+      "start_line": 1057
+    },
+    {
+      "anchor": "c-initial-condition-vector-xic-input",
+      "end_line": 1064,
+      "heading": "C INITIAL CONDITION VECTOR XIC INPUT",
+      "level": 2,
+      "start_line": 1061
+    },
+    {
+      "anchor": "3-gto14-120-6-5-61-icss",
+      "end_line": 1068,
+      "heading": "3 GTO14,120,6,5,61,ICSS",
+      "level": 2,
+      "start_line": 1065
+    },
+    {
+      "anchor": "4-do-93-i-1-ne",
+      "end_line": 1072,
+      "heading": "4 Do 93 I#1,Ne",
+      "level": 2,
+      "start_line": 1069
+    },
+    {
+      "anchor": "93-xic-i-0",
+      "end_line": 1076,
+      "heading": "93 Xic(I)#0.",
+      "level": 2,
+      "start_line": 1073
+    },
+    {
+      "anchor": "120-do-94-i-1-15",
+      "end_line": 1080,
+      "heading": "120 Do 94 I#1,15",
+      "level": 2,
+      "start_line": 1077
+    },
+    {
+      "anchor": "c-all-row-i-entries-must-be-non-zero",
+      "end_line": 1081,
+      "heading": "C ALL ROW (I) ENTRIES MUST BE NON-ZERO",
+      "level": 2,
+      "start_line": 1081
+    },
+    {
+      "anchor": "c-a-blank-card-is-required-after-all-elements-are-read-in",
+      "end_line": 1082,
+      "heading": "C A Blank Card Is Required After All Elements Are Read In.",
+      "level": 2,
+      "start_line": 1082
+    },
+    {
+      "anchor": "read-5-95-mm-iii-dii-i12-d12-i13-d13-i14-d14-i15-d15",
+      "end_line": 1086,
+      "heading": "Read (5,95) Mm,Iii,Dii,I12,D12,I13,D13,I14,D14,I15,D15",
+      "level": 2,
+      "start_line": 1083
+    },
+    {
+      "anchor": "95-format-i2-5-i3-e12-3",
+      "end_line": 1089,
+      "heading": "95 Format(I2,5(I3,E12.3))",
+      "level": 2,
+      "start_line": 1087
+    },
+    {
+      "anchor": "if-i11-6-6-96",
+      "end_line": 1091,
+      "heading": "If (I11)6,6,96",
+      "level": 2,
+      "start_line": 1090
+    },
+    {
+      "anchor": "96-xic-i-d",
+      "end_line": 1093,
+      "heading": "96 Xic（I||）#D||",
+      "level": 2,
+      "start_line": 1092
+    },
+    {
+      "anchor": "xic-112-d12",
+      "end_line": 1095,
+      "heading": "Xic（112）#D12",
+      "level": 2,
+      "start_line": 1094
+    },
+    {
+      "anchor": "xic-113-d13",
+      "end_line": 1097,
+      "heading": "Xic（113）#D13",
+      "level": 2,
+      "start_line": 1096
+    },
+    {
+      "anchor": "xic-114-d14",
+      "end_line": 1099,
+      "heading": "Xic（114）#D14",
+      "level": 2,
+      "start_line": 1098
+    },
+    {
+      "anchor": "94-xic-115-d15",
+      "end_line": 1103,
+      "heading": "94 Xic（115）#D15",
+      "level": 2,
+      "start_line": 1100
+    },
+    {
+      "anchor": "5-mm-0",
+      "end_line": 1104,
+      "heading": "5 Mm#0",
+      "level": 2,
+      "start_line": 1104
+    },
+    {
+      "anchor": "do7i-1-ne",
+      "end_line": 1105,
+      "heading": "Do7I#1,Ne",
+      "level": 2,
+      "start_line": 1105
+    },
+    {
+      "anchor": "7-xic-i-0-0",
+      "end_line": 1106,
+      "heading": "7 Xic（I）#0·0",
+      "level": 2,
+      "start_line": 1106
+    },
+    {
+      "anchor": "6-if-icss-5-81-214-81",
+      "end_line": 1107,
+      "heading": "6 IF(ICSS-5)81,214,81",
+      "level": 2,
+      "start_line": 1107
+    },
+    {
+      "anchor": "81-do-82-i-1-ne",
+      "end_line": 1108,
+      "heading": "81 Do 82 I#1,Ne",
+      "level": 2,
+      "start_line": 1108
+    },
+    {
+      "anchor": "82-x-i-xc-i",
+      "end_line": 1109,
+      "heading": "82 X(I)#Xc(I)",
+      "level": 2,
+      "start_line": 1109
+    },
+    {
+      "anchor": "214-if-matyes-3-213-213-212",
+      "end_line": 1110,
+      "heading": "214 IF(MATYES-3)213,213,212",
+      "level": 2,
+      "start_line": 1110
+    },
+    {
+      "anchor": "212calldistrb",
+      "end_line": 1111,
+      "heading": "212Calldistrb",
+      "level": 2,
+      "start_line": 1111
+    },
+    {
+      "anchor": "213-jjflag-0",
+      "end_line": 1113,
+      "heading": "213 Jjflag#0",
+      "level": 2,
+      "start_line": 1112
+    },
+    {
+      "anchor": "c-qptmp-max-permissible-element-of-qpt-for-8-decimal-computer",
+      "end_line": 1114,
+      "heading": "C Qptmp # Max. Permissible Element Of Qpt For 8 Decimal Computer",
+      "level": 2,
+      "start_line": 1114
+    },
+    {
+      "anchor": "c-matrix-calc-loses-significance-if-largest",
+      "end_line": 1115,
+      "heading": "C Matrix Calc. Loses Significance If Largest",
+      "level": 2,
+      "start_line": 1115
+    },
+    {
+      "anchor": "c-element-in-series-approx-matrix-qpt-is",
+      "end_line": 1116,
+      "heading": "C Element In Series Approx. Matrix Qpt Is",
+      "level": 2,
+      "start_line": 1116
+    },
+    {
+      "anchor": "c-greater-than-p-i-de8",
+      "end_line": 1118,
+      "heading": "C Greater Than P\\*I.De8",
+      "level": 2,
+      "start_line": 1117
+    },
+    {
+      "anchor": "qptmp-p-i-0e8",
+      "end_line": 1122,
+      "heading": "Qptmp#P\\*I.0E8",
+      "level": 2,
+      "start_line": 1119
+    },
+    {
+      "anchor": "write-6-211-k-ne-p-t",
+      "end_line": 1124,
+      "heading": "Write (6,211) K,Ne,P,T,",
+      "level": 2,
+      "start_line": 1123
+    },
+    {
+      "anchor": "ipltinc-matyes-icss-jflag-icontr-itmax-iiz-var-qptmp",
+      "end_line": 1128,
+      "heading": "Ipltinc, Matyes, Icss, Jflag, Icontr, Itmax, Iiz, Var, Qptmp",
+      "level": 2,
+      "start_line": 1125
+    },
+    {
+      "anchor": "2110format-12himatexp-case-13-17h-no-of-equations",
+      "end_line": 1130,
+      "heading": "2110Format(12Himatexp Case,13/17H No. Of Equations,",
+      "level": 2,
+      "start_line": 1129
+    },
+    {
+      "anchor": "113-20h-specified-precision-f12-8-6h-time",
+      "end_line": 1132,
+      "heading": "113/20H Specified Precision, F12.8/6H Time ,",
+      "level": 2,
+      "start_line": 1131
+    },
+    {
+      "anchor": "28hinterval-f18-8-15h-plot-increment-f17-8",
+      "end_line": 1134,
+      "heading": "28Hinterval,F18.8/15H Plot Increment,F17.8//",
+      "level": 2,
+      "start_line": 1133
+    },
+    {
+      "anchor": "316h-control-flags-ih-5x-6hmatyes-i4-ih",
+      "end_line": 1136,
+      "heading": "316H Control Flags -/Ih ,5X,6Hmatyes,I4/Ih ,",
+      "level": 2,
+      "start_line": 1135
+    },
+    {
+      "anchor": "45x-4hicss-i6-1h-5x-5hjflag-i5-1h-5x-6hicontr-i4",
+      "end_line": 1138,
+      "heading": "45X,4Hicss,I6/1H,5X,5Hjflag,I5/1H,5X,6Hicontr,I4/",
+      "level": 2,
+      "start_line": 1137
+    },
+    {
+      "anchor": "534homax-terms-in-exponential-approx-i5",
+      "end_line": 1140,
+      "heading": "534Homax. Terms In Exponential Approx.,I5/",
+      "level": 2,
+      "start_line": 1139
+    },
+    {
+      "anchor": "613h-single-z-row-i4-2dh-max-allowable-a-dt-f9-3",
+      "end_line": 1146,
+      "heading": "613H Single Z Row,I4/2Dh Max. Allowable A*Dt,F9.3/",
+      "level": 2,
+      "start_line": 1141
+    },
+    {
+      "anchor": "pltinc-pltinc-9999",
+      "end_line": 1150,
+      "heading": "Pltinc#Pltinc\\*.9999",
+      "level": 2,
+      "start_line": 1147
+    },
+    {
+      "anchor": "jfk-0",
+      "end_line": 1152,
+      "heading": "Jfk#0",
+      "level": 2,
+      "start_line": 1151
+    },
+    {
+      "anchor": "if-matyes-1-20-20-806",
+      "end_line": 1154,
+      "heading": "If(Matyes-1)20,20,806",
+      "level": 2,
+      "start_line": 1153
+    },
+    {
+      "anchor": "c-scan-matrix-for-max-and-min-non-zero-elements",
+      "end_line": 1156,
+      "heading": "C Scan Matrix For Max. And Min. Non-Zero Elements.",
+      "level": 2,
+      "start_line": 1155
+    },
+    {
+      "anchor": "806-imax-1",
+      "end_line": 1158,
+      "heading": "806 Imax#1",
+      "level": 2,
+      "start_line": 1157
+    },
+    {
+      "anchor": "jmax-1",
+      "end_line": 1160,
+      "heading": "Jmax#1",
+      "level": 2,
+      "start_line": 1159
+    },
+    {
+      "anchor": "amax-abs-a-1-1",
+      "end_line": 1162,
+      "heading": "Amax#Abs (A(1,1))",
+      "level": 2,
+      "start_line": 1161
+    },
+    {
+      "anchor": "do-401-i-1-ne",
+      "end_line": 1164,
+      "heading": "Do 401 I#1,Ne",
+      "level": 2,
+      "start_line": 1163
+    },
+    {
+      "anchor": "do-401-j-1-ne",
+      "end_line": 1166,
+      "heading": "Do 401 J#1,Ne",
+      "level": 2,
+      "start_line": 1165
+    },
+    {
+      "anchor": "if-amax-abs-a-i-j-402-401-401",
+      "end_line": 1168,
+      "heading": "If(Amax-Abs(A(I,J)))402,401,401",
+      "level": 2,
+      "start_line": 1167
+    },
+    {
+      "anchor": "402-amax-abs-a-i-j",
+      "end_line": 1170,
+      "heading": "402 Amax#Abs(A(I,J))",
+      "level": 2,
+      "start_line": 1169
+    },
+    {
+      "anchor": "imax-i",
+      "end_line": 1172,
+      "heading": "Imax#I",
+      "level": 2,
+      "start_line": 1171
+    },
+    {
+      "anchor": "jmax-j",
+      "end_line": 1174,
+      "heading": "Jmax#J",
+      "level": 2,
+      "start_line": 1173
+    },
+    {
+      "anchor": "40i-continue",
+      "end_line": 1176,
+      "heading": "40I Continue",
+      "level": 2,
+      "start_line": 1175
+    },
+    {
+      "anchor": "imin-imax",
+      "end_line": 1178,
+      "heading": "Imin#Imax",
+      "level": 2,
+      "start_line": 1177
+    },
+    {
+      "anchor": "jmin-jmax",
+      "end_line": 1180,
+      "heading": "Jmin#Jmax",
+      "level": 2,
+      "start_line": 1179
+    },
+    {
+      "anchor": "amin-amax",
+      "end_line": 1182,
+      "heading": "Amin#Amax",
+      "level": 2,
+      "start_line": 1181
+    },
+    {
+      "anchor": "do-4-9-i-1-ne",
+      "end_line": 1184,
+      "heading": "Do 4#9 I#1,Ne",
+      "level": 2,
+      "start_line": 1183
+    },
+    {
+      "anchor": "do-409-j-1-ne",
+      "end_line": 1186,
+      "heading": "Do 409 J#1,Ne",
+      "level": 2,
+      "start_line": 1185
+    },
+    {
+      "anchor": "if-a-i-j-407-409-407",
+      "end_line": 1188,
+      "heading": "If(A(I,J)) 407,409,407",
+      "level": 2,
+      "start_line": 1187
+    },
+    {
+      "anchor": "407-if-abs-a-i-j-amin-408-409-409",
+      "end_line": 1190,
+      "heading": "407 IF(ABS(A(I,J))-AMIN) 408,409,409",
+      "level": 2,
+      "start_line": 1189
+    },
+    {
+      "anchor": "408-amin-abs-a-i-j",
+      "end_line": 1192,
+      "heading": "408 Amin#Abs(A(I,J))",
+      "level": 2,
+      "start_line": 1191
+    },
+    {
+      "anchor": "imin-i",
+      "end_line": 1194,
+      "heading": "Imin#I",
+      "level": 2,
+      "start_line": 1193
+    },
+    {
+      "anchor": "jmin-j",
+      "end_line": 1197,
+      "heading": "Jmin#J",
+      "level": 2,
+      "start_line": 1195
+    },
+    {
+      "anchor": "409-continue-ratio-amax-amin",
+      "end_line": 1199,
+      "heading": "409 Continue Ratio#Amax/Amin",
+      "level": 2,
+      "start_line": 1198
+    },
+    {
+      "anchor": "413-istor-istor-1",
+      "end_line": 1200,
+      "heading": "413 Istor#Istor+1",
+      "level": 2,
+      "start_line": 1200
+    },
+    {
+      "anchor": "403-adt-adt-0-5",
+      "end_line": 1201,
+      "heading": "403 Adt#Adt\\*0.5",
+      "level": 2,
+      "start_line": 1201
+    },
+    {
+      "anchor": "404-t-adt-amax",
+      "end_line": 1205,
+      "heading": "404 T#Adt/Amax",
+      "level": 2,
+      "start_line": 1202
+    },
+    {
+      "anchor": "c-if-istor-10-8-410-410",
+      "end_line": 1206,
+      "heading": "C IF (ISTOR-10)8,410,410",
+      "level": 2,
+      "start_line": 1206
+    },
+    {
+      "anchor": "410-write-6-411",
+      "end_line": 1209,
+      "heading": "410 WRITE (6,411)",
+      "level": 2,
+      "start_line": 1207
+    },
+    {
+      "anchor": "c-do-10-i-1-ne-10-c-i-i-1",
+      "end_line": 1210,
+      "heading": "C Do 10 I#1,Ne 10 C(I,I)#1.",
+      "level": 2,
+      "start_line": 1210
+    },
+    {
+      "anchor": "c-skip-hp-calcs-for-homogeneous-equations-if-jflag-4-48-51-48",
+      "end_line": 1211,
+      "heading": "C Skip Hp Calcs. For Homogeneous Equations If (Jflag-4)48,51,48",
+      "level": 2,
+      "start_line": 1211
+    },
+    {
+      "anchor": "48-do-49-i-1-ne-do-49-j-1-ne",
+      "end_line": 1212,
+      "heading": "48 Do 49 I#1,Ne Do 49 J#1,Ne",
+      "level": 2,
+      "start_line": 1212
+    },
+    {
+      "anchor": "49-hp-i-j-0",
+      "end_line": 1213,
+      "heading": "49 Hp(I,J)#0.",
+      "level": 2,
+      "start_line": 1213
+    },
+    {
+      "anchor": "c-do-50-i-1-ne",
+      "end_line": 1214,
+      "heading": "C Do 50 I#1,Ne",
+      "level": 2,
+      "start_line": 1214
+    },
+    {
+      "anchor": "50-hp-i-i-t",
+      "end_line": 1215,
+      "heading": "50 Hp(I,I)#T",
+      "level": 2,
+      "start_line": 1215
+    },
+    {
+      "anchor": "c-pe-0-0",
+      "end_line": 1216,
+      "heading": "C Pe#0.0",
+      "level": 2,
+      "start_line": 1216
+    },
+    {
+      "anchor": "c-do-ii-i-1-ne-do-ii-j-1-ne",
+      "end_line": 1217,
+      "heading": "C Do Ii I#1,Ne. Do Ii J#1,Ne",
+      "level": 2,
+      "start_line": 1217
+    },
+    {
+      "anchor": "ii-qpt-i-j-c-i-j",
+      "end_line": 1218,
+      "heading": "Ii Qpt(I,J)#C(I,J)",
+      "level": 2,
+      "start_line": 1218
+    },
+    {
+      "anchor": "c-now-form-the-matrix-exponentials-c-exp-a-t-and-hp-c-i-a-inverse",
+      "end_line": 1219,
+      "heading": "C Now Form The Matrix Exponentials C#Exp(A*T) And Hp#((C-I)*A Inverse)",
+      "level": 2,
+      "start_line": 1219
+    },
+    {
+      "anchor": "c-al-i-o",
+      "end_line": 1220,
+      "heading": "C Al#I.O",
+      "level": 2,
+      "start_line": 1220
+    },
+    {
+      "anchor": "c-12-do-16-kl-i-itmax",
+      "end_line": 1221,
+      "heading": "C 12 Do 16 Kl#I,Itmax",
+      "level": 2,
+      "start_line": 1221
+    },
+    {
+      "anchor": "c-klm-kl-all-t-al-al-al-i-o-talll-t-al",
+      "end_line": 1224,
+      "heading": "C Klm#Kl All#T/Al Al#Al+I.O Talll#T/Al",
+      "level": 2,
+      "start_line": 1222
+    },
+    {
+      "anchor": "do-18-i-1-ne",
+      "end_line": 1226,
+      "heading": "Do 18 I#1,Ne",
+      "level": 2,
+      "start_line": 1225
+    },
+    {
+      "anchor": "dc-13-j-1-ne",
+      "end_line": 1228,
+      "heading": "Dc 13 J#1,Ne",
+      "level": 2,
+      "start_line": 1227
+    },
+    {
+      "anchor": "tqp-j",
+      "end_line": 1230,
+      "heading": "Tqp（J）#□",
+      "level": 2,
+      "start_line": 1229
+    },
+    {
+      "anchor": "do-13-kx-1-ne",
+      "end_line": 1232,
+      "heading": "Do 13 Kx#1,Ne",
+      "level": 2,
+      "start_line": 1231
+    },
+    {
+      "anchor": "13-tqp-j-tqp-j-qpt-i-kx-a-kx-j",
+      "end_line": 1234,
+      "heading": "13 Tqp(J)#Tqp(J)+Qpt(I,Kx)*A(Kx,J)",
+      "level": 2,
+      "start_line": 1233
+    },
+    {
+      "anchor": "do-18-j-1-ne",
+      "end_line": 1236,
+      "heading": "Do 18 J#1,Ne",
+      "level": 2,
+      "start_line": 1235
+    },
+    {
+      "anchor": "18-qpt-i-j-tqp-j-all",
+      "end_line": 1238,
+      "heading": "18 Qpt(I, J) #Tqp(J) *All",
+      "level": 2,
+      "start_line": 1237
+    },
+    {
+      "anchor": "qpt-matrix-term-in-series-approx-a-t-k-k-factorial",
+      "end_line": 1240,
+      "heading": "Qpt#Matrix Term In Series Approx. #((A*T)***K)/K Factorial",
+      "level": 2,
+      "start_line": 1239
+    },
+    {
+      "anchor": "do-44-i-1-ne",
+      "end_line": 1242,
+      "heading": "Do 44 I#1,Ne",
+      "level": 2,
+      "start_line": 1241
+    },
+    {
+      "anchor": "do-44-j-1-ne",
+      "end_line": 1244,
+      "heading": "Do 44 J#1,Ne",
+      "level": 2,
+      "start_line": 1243
+    },
+    {
+      "anchor": "44-c-i-j-c-i-j-qpt-i-j",
+      "end_line": 1246,
+      "heading": "44 C(I, J) # C(I, J) + Qpt(I, J)",
+      "level": 2,
+      "start_line": 1245
+    },
+    {
+      "anchor": "if-jflag-4-45-47-45",
+      "end_line": 1248,
+      "heading": "If (Jflag-4)45,47,45",
+      "level": 2,
+      "start_line": 1247
+    },
+    {
+      "anchor": "45-if-itmax-kl-47-47-145",
+      "end_line": 1250,
+      "heading": "45 IF(ITMAX-KL)47,47,145",
+      "level": 2,
+      "start_line": 1249
+    },
+    {
+      "anchor": "145-do-46-i-1-ne",
+      "end_line": 1252,
+      "heading": "145 Do 46 I#1,Ne",
+      "level": 2,
+      "start_line": 1251
+    },
+    {
+      "anchor": "do-46-j-1-ne",
+      "end_line": 1254,
+      "heading": "Do 46 J#1,Ne",
+      "level": 2,
+      "start_line": 1253
+    },
+    {
+      "anchor": "46-hp-i-j-hp-i-j-qpt-i-j-tall",
+      "end_line": 1256,
+      "heading": "46 Hp(I,J) $\\&$ Hp(I,J)+Qpt(I,J)*Tall",
+      "level": 2,
+      "start_line": 1255
+    },
+    {
+      "anchor": "find-max-abs-element-in-qpt-and-call-it-pmk",
+      "end_line": 1258,
+      "heading": "Find Max Abs Element In Qpt And Call It Pmk",
+      "level": 2,
+      "start_line": 1257
+    },
+    {
+      "anchor": "largest-qpt-element-usually-in-row-imax-column-jmax",
+      "end_line": 1260,
+      "heading": "Largest Qpt Element Usually In Row Imax, Column Jmax",
+      "level": 2,
+      "start_line": 1259
+    },
+    {
+      "anchor": "47-pmk-abs-qpt-imax-jmax",
+      "end_line": 1262,
+      "heading": "47 Pmk#Abs (Qpt(Imax, Jmax))",
+      "level": 2,
+      "start_line": 1261
+    },
+    {
+      "anchor": "if-qptmp-pmk-83-83-502",
+      "end_line": 1264,
+      "heading": "If(Qptmp-Pmk) 83,83,502",
+      "level": 2,
+      "start_line": 1263
+    },
+    {
+      "anchor": "502-if-pmk-p-406-406-16",
+      "end_line": 1268,
+      "heading": "502 IF(PMK-P) 406,406,16",
+      "level": 2,
+      "start_line": 1265
+    },
+    {
+      "anchor": "406-do-14-i-1-ne",
+      "end_line": 1270,
+      "heading": "406 Do 14 I#1,Ne",
+      "level": 2,
+      "start_line": 1269
+    },
+    {
+      "anchor": "do-14-j-1-ne",
+      "end_line": 1272,
+      "heading": "Do 14 J#1,Ne",
+      "level": 2,
+      "start_line": 1271
+    },
+    {
+      "anchor": "14-pmk-amaxi-pmk-abs-qpt-i-j",
+      "end_line": 1274,
+      "heading": "14 Pmk#Amaxi(Pmk,Abs(Qpt(I,J)))",
+      "level": 2,
+      "start_line": 1273
+    },
+    {
+      "anchor": "if-pmk-p-17-17-16",
+      "end_line": 1276,
+      "heading": "If(Pmk-P)17,17,16",
+      "level": 2,
+      "start_line": 1275
+    },
+    {
+      "anchor": "present-max-qpt-element-should-be-less-than",
+      "end_line": 1278,
+      "heading": "Present Max. Qpt Element Should Be Less Than",
+      "level": 2,
+      "start_line": 1277
+    },
+    {
+      "anchor": "half-previous-max-to-insure-convergence",
+      "end_line": 1280,
+      "heading": "Half Previous Max. To Insure Convergence",
+      "level": 2,
+      "start_line": 1279
+    },
+    {
+      "anchor": "17-if-pe-2-pmk-16-21-21",
+      "end_line": 1282,
+      "heading": "17 If(Pe-2.*Pmk)16,21,21",
+      "level": 2,
+      "start_line": 1281
+    },
+    {
+      "anchor": "16-pe-pmk",
+      "end_line": 1284,
+      "heading": "16 Pe#Pmk",
+      "level": 2,
+      "start_line": 1283
+    },
+    {
+      "anchor": "21-write-6-200-klm",
+      "end_line": 1286,
+      "heading": "21 WRITE (6,200) KLM",
+      "level": 2,
+      "start_line": 1285
+    },
+    {
+      "anchor": "200-format-44hono-of-terms-in-series-approx-of-matexp-i2",
+      "end_line": 1288,
+      "heading": "200 Format(44Hono. Of Terms In Series Approx. Of Matexp #,I2)",
+      "level": 2,
+      "start_line": 1287
+    },
+    {
+      "anchor": "if-itmax-1-20-20-538",
+      "end_line": 1290,
+      "heading": "If（Itmax-1）20，20，538",
+      "level": 2,
+      "start_line": 1289
+    },
+    {
+      "anchor": "538-if-klm-itmax-414-83-83",
+      "end_line": 1292,
+      "heading": "538 IF(KLM-ITMAX) 414,83,83",
+      "level": 2,
+      "start_line": 1291
+    },
+    {
+      "anchor": "83-t-t-0-5-jfk-jfk-1-if-jfk-7-303-304-304",
+      "end_line": 1294,
+      "heading": "83 T#T\\*0.5 Jfk#Jfk+1 If(Jfk-7)303,304,304",
+      "level": 2,
+      "start_line": 1293
+    },
+    {
+      "anchor": "304-write-6-305-pmk",
+      "end_line": 1296,
+      "heading": "304 WRITE (6,305) PMK",
+      "level": 2,
+      "start_line": 1295
+    },
+    {
+      "anchor": "305-oformat-32h07-tries-at-halving-t-n-g-pmk-f12-6",
+      "end_line": 1298,
+      "heading": "305 Oformat(32H07 Tries At Halving T N.G., Pmk#, F12.6)",
+      "level": 2,
+      "start_line": 1297
+    },
+    {
+      "anchor": "gto37",
+      "end_line": 1300,
+      "heading": "Gto37",
+      "level": 2,
+      "start_line": 1299
+    },
+    {
+      "anchor": "303-write-6-210-klm-pmk-t",
+      "end_line": 1302,
+      "heading": "303 WRITE (6,210) KLM,PMK,T",
+      "level": 2,
+      "start_line": 1301
+    },
+    {
+      "anchor": "210-format-21homax-element-in-term-i3-8hof-qpt-eii-3",
+      "end_line": 1304,
+      "heading": "210 Format(21Homax. Element In Term, I3, 8Hof Qpt#, Eii.3/",
+      "level": 2,
+      "start_line": 1303
+    },
+    {
+      "anchor": "135htryhalvedtimeintervaldelta-f15-8",
+      "end_line": 1306,
+      "heading": "135Htryhalvedtimeintervaldelta#,F15.8)",
+      "level": 2,
+      "start_line": 1305
+    },
+    {
+      "anchor": "goto8",
+      "end_line": 1310,
+      "heading": "Goto8",
+      "level": 2,
+      "start_line": 1307
+    },
+    {
+      "anchor": "c-original-arguments-of-c-and-hp-matrices-restored-if-istor-greater-than-oif-istor-20-20-416",
+      "end_line": 1312,
+      "heading": "C ORIGINAL ARGUMENTS OF C AND HP MATRICES RESTORED IF ISTOR GREATER THAN OIF (ISTOR) 20,20,416",
+      "level": 2,
+      "start_line": 1311
+    },
+    {
+      "anchor": "416write-6-415-istor",
+      "end_line": 1314,
+      "heading": "416Write(6,415) Istor",
+      "level": 2,
+      "start_line": 1313
+    },
+    {
+      "anchor": "415-format-26hototal-nc-of-t-halvings-13",
+      "end_line": 1315,
+      "heading": "415 Format(26Hototal Nc. Of T Halvings #,13)",
+      "level": 2,
+      "start_line": 1315
+    },
+    {
+      "anchor": "do-417-kr-1-istor",
+      "end_line": 1316,
+      "heading": "Do 417 Kr#1,Istor",
+      "level": 2,
+      "start_line": 1316
+    },
+    {
+      "anchor": "if-jflag-4-419-418-419",
+      "end_line": 1318,
+      "heading": "If (Jflag-4) 419,418,419",
+      "level": 2,
+      "start_line": 1317
+    },
+    {
+      "anchor": "c-skip-hp-calcs-for-homogeneous-equations",
+      "end_line": 1320,
+      "heading": "C Skip Hp Calcs. For Homogeneous Equations",
+      "level": 2,
+      "start_line": 1319
+    },
+    {
+      "anchor": "419-do-420-i-1-ne",
+      "end_line": 1322,
+      "heading": "419 Do 420 I#1,Ne",
+      "level": 2,
+      "start_line": 1321
+    },
+    {
+      "anchor": "do-421-j-1-ne",
+      "end_line": 1324,
+      "heading": "Do 421 J#1,Ne",
+      "level": 2,
+      "start_line": 1323
+    },
+    {
+      "anchor": "tqp-j-0-0",
+      "end_line": 1326,
+      "heading": "Tqp（J）#0·0",
+      "level": 2,
+      "start_line": 1325
+    },
+    {
+      "anchor": "do-421-kx-1-ne",
+      "end_line": 1328,
+      "heading": "Do 421 Kx#1,Ne",
+      "level": 2,
+      "start_line": 1327
+    },
+    {
+      "anchor": "421-tqp-j-tqp-j-hp-i-kx-c-kx-j",
+      "end_line": 1330,
+      "heading": "421 Tqp(J)#Tqp(J)+Hp(I,Kx)*C(Kx,J)",
+      "level": 2,
+      "start_line": 1329
+    },
+    {
+      "anchor": "do-420-j-1-ne",
+      "end_line": 1332,
+      "heading": "Do 420 J#1,Ne",
+      "level": 2,
+      "start_line": 1331
+    },
+    {
+      "anchor": "420-hp-i-j-tqp-j-hp-i-j",
+      "end_line": 1336,
+      "heading": "420 Hp(I, J) #Tqp(J) + Hp(I, J)",
+      "level": 2,
+      "start_line": 1333
+    },
+    {
+      "anchor": "418-do-430-i-1-ne",
+      "end_line": 1338,
+      "heading": "418 Do 430 I#1,Ne",
+      "level": 2,
+      "start_line": 1337
+    },
+    {
+      "anchor": "do-430-j-1-ne",
+      "end_line": 1340,
+      "heading": "Do 430 J#1,Ne",
+      "level": 2,
+      "start_line": 1339
+    },
+    {
+      "anchor": "430-qpt-i-j",
+      "end_line": 1342,
+      "heading": "430 Qpt（I，J）#□。",
+      "level": 2,
+      "start_line": 1341
+    },
+    {
+      "anchor": "do-431-i-1-ne",
+      "end_line": 1344,
+      "heading": "Do 431 I#1,Ne",
+      "level": 2,
+      "start_line": 1343
+    },
+    {
+      "anchor": "do-431-j-1-ne",
+      "end_line": 1346,
+      "heading": "Do 431 J#1,Ne",
+      "level": 2,
+      "start_line": 1345
+    },
+    {
+      "anchor": "do-431-kx-1-ne",
+      "end_line": 1348,
+      "heading": "Do 431 Kx#1,Ne",
+      "level": 2,
+      "start_line": 1347
+    },
+    {
+      "anchor": "431-qpt-i-j-qpt-i-j-c-i-kx-c-kx-j",
+      "end_line": 1350,
+      "heading": "431 Qpt(I,J)#Qpt(I,J)+C(I,Kx)*C(Kx,J)",
+      "level": 2,
+      "start_line": 1349
+    },
+    {
+      "anchor": "do-432-i-1-ne",
+      "end_line": 1352,
+      "heading": "Do 432 I#1,Ne",
+      "level": 2,
+      "start_line": 1351
+    },
+    {
+      "anchor": "do-432-j-1-ne",
+      "end_line": 1354,
+      "heading": "Do 432 J#1,Ne",
+      "level": 2,
+      "start_line": 1353
+    },
+    {
+      "anchor": "432-c-i-j-qpt-i-j",
+      "end_line": 1356,
+      "heading": "432 C(I, J) #Qpt(I, J)",
+      "level": 2,
+      "start_line": 1355
+    },
+    {
+      "anchor": "417-t-2-0-t",
+      "end_line": 1360,
+      "heading": "417 T#2.0*T",
+      "level": 2,
+      "start_line": 1357
+    },
+    {
+      "anchor": "c-i-j-is-the-matrix-exponential-c-exp-a-t",
+      "end_line": 1362,
+      "heading": "C(I,J) Is The Matrix Exponential C#Exp(A*T)",
+      "level": 2,
+      "start_line": 1361
+    },
+    {
+      "anchor": "c-and-hp-i-j-is-the-c-i-a-inverse-matrix",
+      "end_line": 1364,
+      "heading": "C And Hp(I,J) Is The ((C-I)*A Inverse) Matrix",
+      "level": 2,
+      "start_line": 1363
+    },
+    {
+      "anchor": "c-now-we-read-or-call-subroutine-for-disturbance-vector",
+      "end_line": 1368,
+      "heading": "C NOW WE READ (OR CALL SUBROUTINE FOR) DISTURBANCE VECTOR",
+      "level": 2,
+      "start_line": 1365
+    },
+    {
+      "anchor": "20-time-tzero",
+      "end_line": 1370,
+      "heading": "20 Time#Tzero",
+      "level": 2,
+      "start_line": 1369
+    },
+    {
+      "anchor": "plt-0",
+      "end_line": 1372,
+      "heading": "Plt#0.",
+      "level": 2,
+      "start_line": 1371
+    },
+    {
+      "anchor": "go-to-26-121-27-25-55-jflag",
+      "end_line": 1374,
+      "heading": "Go To (26,121,27,25,55),Jflag",
+      "level": 2,
+      "start_line": 1373
+    },
+    {
+      "anchor": "55-if-matyes-3-215-215-27",
+      "end_line": 1376,
+      "heading": "55 IF(MATYES-3)215,215,27",
+      "level": 2,
+      "start_line": 1375
+    },
+    {
+      "anchor": "215calldistrb",
+      "end_line": 1378,
+      "heading": "215Calldistrb",
+      "level": 2,
+      "start_line": 1377
+    },
+    {
+      "anchor": "i-i-i-i-z",
+      "end_line": 1380,
+      "heading": "I I#I I Z",
+      "level": 2,
+      "start_line": 1379
+    },
+    {
+      "anchor": "goto27",
+      "end_line": 1384,
+      "heading": "Goto27",
+      "level": 2,
+      "start_line": 1381
+    },
+    {
+      "anchor": "26-do-97-i-1-ne",
+      "end_line": 1386,
+      "heading": "26 Do 97 I#1,Ne",
+      "level": 2,
+      "start_line": 1385
+    },
+    {
+      "anchor": "97-z-i-0-0",
+      "end_line": 1388,
+      "heading": "97 Z（I）#0.0",
+      "level": 2,
+      "start_line": 1387
+    },
+    {
+      "anchor": "121-do-98-i-1-15",
+      "end_line": 1390,
+      "heading": "121 Do 98 I#1,15",
+      "level": 2,
+      "start_line": 1389
+    },
+    {
+      "anchor": "c-all-row-i-entries-must-be-non-zero",
+      "end_line": 1392,
+      "heading": "C ALL ROW (I) ENTRIES MUST BE NON-ZERO",
+      "level": 2,
+      "start_line": 1391
+    },
+    {
+      "anchor": "c-a-blank-card-is-required-after-all-elements-are-read-in",
+      "end_line": 1393,
+      "heading": "C A Blank Card Is Required After All Elements Are Read In.",
+      "level": 2,
+      "start_line": 1393
+    },
+    {
+      "anchor": "read-5-95-kk-i21-d21-i22-d22-i23-d23-i24-d24-i25-d25",
+      "end_line": 1394,
+      "heading": "Read (5,95) Kk,I21,D21,I22,D22,I23,D23,I24,D24,I25,D25",
+      "level": 2,
+      "start_line": 1394
+    },
+    {
+      "anchor": "if-i21-27-27-78",
+      "end_line": 1396,
+      "heading": "If(I21)27,27,78",
+      "level": 2,
+      "start_line": 1395
+    },
+    {
+      "anchor": "78-z-121-d21",
+      "end_line": 1398,
+      "heading": "78 Z（121）#D21",
+      "level": 2,
+      "start_line": 1397
+    },
+    {
+      "anchor": "z-122-d22",
+      "end_line": 1400,
+      "heading": "Z（122）#D22",
+      "level": 2,
+      "start_line": 1399
+    },
+    {
+      "anchor": "z-i23-d23",
+      "end_line": 1402,
+      "heading": "Z（I23）#D23",
+      "level": 2,
+      "start_line": 1401
+    },
+    {
+      "anchor": "z-124-d24",
+      "end_line": 1404,
+      "heading": "Z（124）#D24",
+      "level": 2,
+      "start_line": 1403
+    },
+    {
+      "anchor": "98-z-125-d25",
+      "end_line": 1408,
+      "heading": "98 Z（125）#D25",
+      "level": 2,
+      "start_line": 1405
+    },
+    {
+      "anchor": "25-kk-0",
+      "end_line": 1410,
+      "heading": "25 Kk#0",
+      "level": 2,
+      "start_line": 1409
+    },
+    {
+      "anchor": "do-28-i-1-ne",
+      "end_line": 1412,
+      "heading": "Do 28 I#1,Ne",
+      "level": 2,
+      "start_line": 1411
+    },
+    {
+      "anchor": "28-z-i",
+      "end_line": 1416,
+      "heading": "28 Z(I)#□.",
+      "level": 2,
+      "start_line": 1413
+    },
+    {
+      "anchor": "c-on-i-st-call-of-output-ni-set-to-i",
+      "end_line": 1418,
+      "heading": "C ON I-ST CALL OF OUTPUT NI SET TO I",
+      "level": 2,
+      "start_line": 1417
+    },
+    {
+      "anchor": "27-call-output",
+      "end_line": 1422,
+      "heading": "27 CALL OUTPUT",
+      "level": 2,
+      "start_line": 1419
+    },
+    {
+      "anchor": "c-now-comes-the-equation-solution-based-on",
+      "end_line": 1423,
+      "heading": "C NOW COMES THE EQUATION SOLUTION BASED ON",
+      "level": 2,
+      "start_line": 1423
+    },
+    {
+      "anchor": "c-x-nt-m-x-nt-1-m-i-a-inv-z-nt-1",
+      "end_line": 1425,
+      "heading": "C X(Nt)#M*X(Nt-1) + ((M-I)A Inv.)*Z(Nt-1)",
+      "level": 2,
+      "start_line": 1424
+    },
+    {
+      "anchor": "24-if-jflag-4-29-54-56",
+      "end_line": 1426,
+      "heading": "24 IF (JFLAG-4)29,54,56",
+      "level": 2,
+      "start_line": 1426
+    },
+    {
+      "anchor": "54-do-53-i-1-ne-y-i-c-i-1-x-i-do-53-j-2-ne",
+      "end_line": 1427,
+      "heading": "54 Do 53 I#1,Ne Y(I)#C(I,1)*X(I) Do 53 J#2,Ne",
+      "level": 2,
+      "start_line": 1427
+    },
+    {
+      "anchor": "53-y-i-y-i-c-i-j-x-j-if-iiz-52-52-702",
+      "end_line": 1428,
+      "heading": "53 Y(I)#Y(I)+C(I,J)*X(J) If (Iiz)52,52,702",
+      "level": 2,
+      "start_line": 1428
+    },
+    {
+      "anchor": "56-if-jjflag-30-29-30",
+      "end_line": 1429,
+      "heading": "56 IF (JJFLAG)30,29,30",
+      "level": 2,
+      "start_line": 1429
+    },
+    {
+      "anchor": "30-call-distrb",
+      "end_line": 1430,
+      "heading": "30 CALL DISTRB",
+      "level": 2,
+      "start_line": 1430
+    },
+    {
+      "anchor": "29-if-iiz-700-700-54",
+      "end_line": 1431,
+      "heading": "29 IF (IIZ)700,700,54",
+      "level": 2,
+      "start_line": 1431
+    },
+    {
+      "anchor": "c-only-one-z-term-calc-if-iiz-is-greater-than-zero",
+      "end_line": 1432,
+      "heading": "C Only One Z-Term Calc. If Iiz Is Greater Than Zero",
+      "level": 2,
+      "start_line": 1432
+    },
+    {
+      "anchor": "702-do-703-i-1-ne",
+      "end_line": 1433,
+      "heading": "702 Do 703 I#1,Ne",
+      "level": 2,
+      "start_line": 1433
+    },
+    {
+      "anchor": "703-y-i-y-i-hp-i-iiz-z-iiz",
+      "end_line": 1434,
+      "heading": "703 Y(I)#Y(I)+Hp(I,Iiz)*Z(Iiz)",
+      "level": 2,
+      "start_line": 1434
+    },
+    {
+      "anchor": "go-to-52",
+      "end_line": 1435,
+      "heading": "Go To 52",
+      "level": 2,
+      "start_line": 1435
+    },
+    {
+      "anchor": "700-do-32-i-1-ne-y-i-c-i-1-x-i-hp-i-i-z-i-do-32-j-2-ne",
+      "end_line": 1436,
+      "heading": "700 Do 32 I#1,Ne Y(I)#C(I,1)*X(I)+Hp(I,I)*Z(I) Do 32 J#2,Ne",
+      "level": 2,
+      "start_line": 1436
+    },
+    {
+      "anchor": "32-y-i-y-i-c-i-j-x-j-hp-i-j-z-j",
+      "end_line": 1437,
+      "heading": "32 Y(I)#Y(I)+C(I,J)*X(J)+Hp(I,J)*Z(J)",
+      "level": 2,
+      "start_line": 1437
+    },
+    {
+      "anchor": "52-do-31-i-1-ne",
+      "end_line": 1438,
+      "heading": "52 Do 31 I#1,Ne",
+      "level": 2,
+      "start_line": 1438
+    },
+    {
+      "anchor": "31-x-i-y-i",
+      "end_line": 1440,
+      "heading": "31 X(I)#Y(I)",
+      "level": 2,
+      "start_line": 1439
+    },
+    {
+      "anchor": "c-one-time-increment-of-the-solution-has-just-been-found",
+      "end_line": 1441,
+      "heading": "C ONE TIME INCREMENT OF THE SOLUTION HAS JUST BEEN FOUND",
+      "level": 2,
+      "start_line": 1441
+    },
+    {
+      "anchor": "c-now-plot-and-print-if-pltinc-interval-has-elapsed",
+      "end_line": 1443,
+      "heading": "C NOW PLOT AND PRINT IF PLTINC INTERVAL HAS ELAPSED",
+      "level": 2,
+      "start_line": 1442
+    },
+    {
+      "anchor": "33-call-output-plt-0",
+      "end_line": 1444,
+      "heading": "33 Call Output Plt#0.",
+      "level": 2,
+      "start_line": 1444
+    },
+    {
+      "anchor": "35-if-time-tmax-24-37-37",
+      "end_line": 1445,
+      "heading": "35 IF (TIME-TMAX)24,37,37",
+      "level": 2,
+      "start_line": 1445
+    },
+    {
+      "anchor": "37-if-lastcc-40-34-40",
+      "end_line": 1446,
+      "heading": "37 IF(LASTCC)40,34,40",
+      "level": 2,
+      "start_line": 1446
+    },
+    {
+      "anchor": "34-k-k-1-ni-0-plt-0-if-icontr-215-1-212",
+      "end_line": 1447,
+      "heading": "34 K#K+1 Ni#0 Plt#0. #If (Icontr)215,1,212",
+      "level": 2,
+      "start_line": 1447
+    },
+    {
+      "anchor": "40-stop-end",
+      "end_line": 1450,
+      "heading": "40 STOP END",
+      "level": 2,
+      "start_line": 1448
+    },
+    {
+      "anchor": "ibftc-out-deck",
+      "end_line": 1451,
+      "heading": "$Ibftc Out Deck",
+      "level": 2,
+      "start_line": 1451
+    },
+    {
+      "anchor": "subroutine-output",
+      "end_line": 1465,
+      "heading": "Subroutine Output",
+      "level": 2,
+      "start_line": 1452
+    },
+    {
+      "anchor": "if-ni-2-1-2",
+      "end_line": 1467,
+      "heading": "If(Ni)2,1,2",
+      "level": 2,
+      "start_line": 1466
+    },
+    {
+      "anchor": "1-ni-1-nc-io-do-iincm-1-51-10-write-6-200-ll-a-i-j-j-ncm-nc-i-1-ne",
+      "end_line": 1469,
+      "heading": "1 Ni#1 Nc#Io Do Iincm#1,51,10 Write(6,200) Ll，((A(I,J)，J#Ncm,Nc),I#1,Ne)",
+      "level": 2,
+      "start_line": 1468
+    },
+    {
+      "anchor": "200-format-2h0a-i2-ih-ip10e11-3-if-ne-nc-10-10-11",
+      "end_line": 1471,
+      "heading": "200 Format（2H0A,I2/（Ih，Ip10E11.3））If(Ne-Nc) 10,10,11",
+      "level": 2,
+      "start_line": 1470
+    },
+    {
+      "anchor": "nc-nc-10",
+      "end_line": 1475,
+      "heading": "Nc/Nc+10",
+      "level": 2,
+      "start_line": 1472
+    },
+    {
+      "anchor": "10-nc-10-do-21-ncm-1-51-10-write-6-201-c-i-j-j-ncm-nc-i-1-ne",
+      "end_line": 1477,
+      "heading": "10 Nc#10 Do 21 Ncm#1,51,10 Write(6,201) ((C(I,J),J#Ncm,Nc),I#1,Ne)",
+      "level": 2,
+      "start_line": 1476
+    },
+    {
+      "anchor": "201-format-2hoc-ih-ipioe11-3-if-ne-nc-20-20-21",
+      "end_line": 1479,
+      "heading": "201 Format（2Hoc/（Ih，Ipioe11.3））If(Ne-Nc) 20,20,21",
+      "level": 2,
+      "start_line": 1478
+    },
+    {
+      "anchor": "21-nc-nc-10",
+      "end_line": 1483,
+      "heading": "21 Nc#Nc+10",
+      "level": 2,
+      "start_line": 1480
+    },
+    {
+      "anchor": "20-nc-10-do-31-ncm-1-51-10-write-6-202-hp-i-j-j-ncm-nc-i-1-ne",
+      "end_line": 1485,
+      "heading": "20 Nc#10 Do 31 Ncm#1,51,10 Write(6,202) (Hp(I,J),J#Ncm,Nc),I#1,Ne)",
+      "level": 2,
+      "start_line": 1484
+    },
+    {
+      "anchor": "202-format-3hoph-1h-ipideli-3-if-ne-nc-2-2-31",
+      "end_line": 1487,
+      "heading": "202 Format (3Hoph/(1H ,Ipideli.3)) If(Ne-Nc) 2,2,31",
+      "level": 2,
+      "start_line": 1486
+    },
+    {
+      "anchor": "31-nc-nc-10",
+      "end_line": 1491,
+      "heading": "31 Nc#Nc+10",
+      "level": 2,
+      "start_line": 1488
+    },
+    {
+      "anchor": "2write-6-203-time-x-i-i-1-ne",
+      "end_line": 1497,
+      "heading": "2Write(6,203)Time,(X(I),I#1,Ne)",
+      "level": 2,
+      "start_line": 1492
+    },
+    {
+      "anchor": "write-6-204-z-i-i-1-ne",
+      "end_line": 1499,
+      "heading": "Write(6,204) (Z(I),I#1,Ne)",
+      "level": 2,
+      "start_line": 1498
+    },
+    {
+      "anchor": "204-format-6h0z-ip1oe11-3-ih-5x-1oe11-3",
+      "end_line": 1501,
+      "heading": "204 Format(6H0Z # ,Ip1Oe11.3/(Ih,5X,1Oe11.3))",
+      "level": 2,
+      "start_line": 1500
+    },
+    {
+      "anchor": "30-return-end",
+      "end_line": 1503,
+      "heading": "30 RETURN END",
+      "level": 2,
+      "start_line": 1502
+    },
+    {
+      "anchor": "ibftc-subz-deck",
+      "end_line": 1504,
+      "heading": "$Ibftc Subz Deck",
+      "level": 2,
+      "start_line": 1504
+    },
+    {
+      "anchor": "subroutine-distrb",
+      "end_line": 1506,
+      "heading": "Subroutine Distrb",
+      "level": 2,
+      "start_line": 1505
+    },
+    {
+      "anchor": "c-distrb-for-report-example",
+      "end_line": 1507,
+      "heading": "C DISTRB FOR REPORT EXAMPLE",
+      "level": 2,
+      "start_line": 1507
+    },
+    {
+      "anchor": "c-dimension-a-60-60-c-60-60-hp-60-60-qpt-60-60",
+      "end_line": 1508,
+      "heading": "C DIMENSION A(60,60),C(60,60),HP(60,60),QPT(60,60),",
+      "level": 2,
+      "start_line": 1508
+    },
+    {
+      "anchor": "ix-60-y-60-z-60-xic-60-tqp-60-dimens",
+      "end_line": 1509,
+      "heading": "Ix(60),Y(60),Z(60),Xic(60),Tqp(60) Dimens",
+      "level": 2,
+      "start_line": 1509
+    },
+    {
+      "anchor": "c-common-c-hp-a-qpt-x-z-y-itmax-kk-ll-mm",
+      "end_line": 1510,
+      "heading": "C COMMON C,HP,A,QPT,X,Z,Y,ITMAX,KK,LL,MM,",
+      "level": 2,
+      "start_line": 1510
+    },
+    {
+      "anchor": "1jjflag-xic-ni-time-tmax-tzero-ne-tqp-t",
+      "end_line": 1511,
+      "heading": "1Jjflag,Xic,Ni,Time,Tmax,Tzero,Ne,Tqp,T,",
+      "level": 2,
+      "start_line": 1511
+    },
+    {
+      "anchor": "2iiz-icontr-pltinc-matyes-icss-jflag-plt",
+      "end_line": 1512,
+      "heading": "2Iiz,Icontr,Pltinc,Matyes,Icss,Jflag,Plt",
+      "level": 2,
+      "start_line": 1512
+    },
+    {
+      "anchor": "c-tx-time-o-5-t-z-i-sin-2-0-tx",
+      "end_line": 1513,
+      "heading": "C Tx#Time+O.5*T Z(I)#Sin (2.0\\*Tx)",
+      "level": 2,
+      "start_line": 1513
+    },
+    {
+      "anchor": "return",
+      "end_line": 1516,
+      "heading": "Return",
+      "level": 2,
+      "start_line": 1514
+    },
+    {
+      "anchor": "ibftc-dsens-deck",
+      "end_line": 1517,
+      "heading": "$Ibftc Dsens Deck",
+      "level": 2,
+      "start_line": 1517
+    },
+    {
+      "anchor": "subroutine-distrb",
+      "end_line": 1518,
+      "heading": "Subroutine Distrb",
+      "level": 2,
+      "start_line": 1518
+    },
+    {
+      "anchor": "c-distrb-for-time-response-sensitivity-calcs",
+      "end_line": 1519,
+      "heading": "C Distrb For Time Response Sensitivity Calcs.",
+      "level": 2,
+      "start_line": 1519
+    },
+    {
+      "anchor": "dimension-a-60-60-c-60-60-hp-60-60-qpt-60-60",
+      "end_line": 1520,
+      "heading": "Dimension A(60,60), C(60,60), Hp(60,60), Qpt(60,60),",
+      "level": 2,
+      "start_line": 1520
+    },
+    {
+      "anchor": "ix-60-y-60-z-60-xic-60-tqp-60",
+      "end_line": 1521,
+      "heading": "Ix(60), Y(60), Z(60), Xic(60), Tqp(60)",
+      "level": 2,
+      "start_line": 1521
+    },
+    {
+      "anchor": "common-c-hp-a-qpt-x-z-y-itmax-kk-ll-mm",
+      "end_line": 1522,
+      "heading": "Common C, Hp, A, Qpt, X, Z, Y, Itmax, Kk, Ll, Mm,",
+      "level": 2,
+      "start_line": 1522
+    },
+    {
+      "anchor": "1jjflag-xic-ni-time-tmax-tzero-ne-tqp-t",
+      "end_line": 1523,
+      "heading": "1Jjflag, Xic, Ni, Time, Tmax, Tzero, Ne, Tqp, T,",
+      "level": 2,
+      "start_line": 1523
+    },
+    {
+      "anchor": "2iiz-icontr-pltinc-matyes-icss-jflag-plt",
+      "end_line": 1524,
+      "heading": "2Iiz, Icontr, Pltinc, Matyes, Icss, Jflag, Plt",
+      "level": 2,
+      "start_line": 1524
+    },
+    {
+      "anchor": "dimension-ir-5-is-15-js-15-iq-30-xt-5-1000",
+      "end_line": 1525,
+      "heading": "Dimension Ir(5), Is(15), Js(15), Iq(30), Xt(5,1000),",
+      "level": 2,
+      "start_line": 1525
+    },
+    {
+      "anchor": "ixsen-15-30-xpsi-30",
+      "end_line": 1526,
+      "heading": "Ixsen(15,30), Xpsi(30)",
+      "level": 2,
+      "start_line": 1526
+    },
+    {
+      "anchor": "if-ni-1-1-2",
+      "end_line": 1527,
+      "heading": "If(Ni)1,1,2",
+      "level": 2,
+      "start_line": 1527
+    },
+    {
+      "anchor": "1-if-icontr-2-5-4-3",
+      "end_line": 1528,
+      "heading": "1 If(Icontr+2)5,4,3",
+      "level": 2,
+      "start_line": 1528
+    },
+    {
+      "anchor": "2-if-icontr-2-7-6-6",
+      "end_line": 1529,
+      "heading": "2 If(Icontr+2)7,6,6",
+      "level": 2,
+      "start_line": 1529
+    },
+    {
+      "anchor": "c-initial-inputs-and-calcs",
+      "end_line": 1530,
+      "heading": "C Initial Inputs And Calcs.",
+      "level": 2,
+      "start_line": 1530
+    },
+    {
+      "anchor": "3-read-5-100-is-i-js-i-i-1-5-nti-nsens",
+      "end_line": 1531,
+      "heading": "3 Read(5,100)(Is(I), Js(I), I#1,5), Nti, Nsens",
+      "level": 2,
+      "start_line": 1531
+    },
+    {
+      "anchor": "100-format-6-213-4x",
+      "end_line": 1532,
+      "heading": "100 FORMAT(6(213,4X))",
+      "level": 2,
+      "start_line": 1532
+    },
+    {
+      "anchor": "ndt-1",
+      "end_line": 1533,
+      "heading": "Ndt#1",
+      "level": 2,
+      "start_line": 1533
+    },
+    {
+      "anchor": "icontr-2",
+      "end_line": 1534,
+      "heading": "Icontr#-2",
+      "level": 2,
+      "start_line": 1534
+    },
+    {
+      "anchor": "ntimo-nti-1",
+      "end_line": 1535,
+      "heading": "Ntimo#Nti-1",
+      "level": 2,
+      "start_line": 1535
+    },
+    {
+      "anchor": "do-8-i-1-ne",
+      "end_line": 1536,
+      "heading": "Do 8 I#1,Ne",
+      "level": 2,
+      "start_line": 1536
+    },
+    {
+      "anchor": "8-z-i-0-0",
+      "end_line": 1537,
+      "heading": "8 Z(I)#0.0",
+      "level": 2,
+      "start_line": 1537
+    },
+    {
+      "anchor": "c-during-solution-of-system-equations",
+      "end_line": 1538,
+      "heading": "C DURING SOLUTION OF SYSTEM EQUATIONS",
+      "level": 2,
+      "start_line": 1538
+    },
+    {
+      "anchor": "6-do-20-i-1-nsens",
+      "end_line": 1539,
+      "heading": "6 Do 20 I#1, Nsens",
+      "level": 2,
+      "start_line": 1539
+    },
+    {
+      "anchor": "ico-js-i",
+      "end_line": 1540,
+      "heading": "Ico#Js(I)",
+      "level": 2,
+      "start_line": 1540
+    },
+    {
+      "anchor": "20-xt-i-ndt-x-ico",
+      "end_line": 1541,
+      "heading": "20 Xt(I, Ndt)#X(Ico)",
+      "level": 2,
+      "start_line": 1541
+    },
+    {
+      "anchor": "ndt-ndt-1",
+      "end_line": 1542,
+      "heading": "Ndt#Ndt+1",
+      "level": 2,
+      "start_line": 1542
+    },
+    {
+      "anchor": "go-to-30",
+      "end_line": 1544,
+      "heading": "Go To 30",
+      "level": 2,
+      "start_line": 1543
+    },
+    {
+      "anchor": "c-just-after-system-solution-is-completed",
+      "end_line": 1545,
+      "heading": "C JUST AFTER SYSTEM SOLUTION IS COMPLETED",
+      "level": 2,
+      "start_line": 1545
+    },
+    {
+      "anchor": "4-ist-0",
+      "end_line": 1546,
+      "heading": "4 Ist#0",
+      "level": 2,
+      "start_line": 1546
+    },
+    {
+      "anchor": "icontr-3",
+      "end_line": 1547,
+      "heading": "Icontr#-3",
+      "level": 2,
+      "start_line": 1547
+    },
+    {
+      "anchor": "do-21-i-1-nsens",
+      "end_line": 1548,
+      "heading": "Do 21 I#1, Nsens",
+      "level": 2,
+      "start_line": 1548
+    },
+    {
+      "anchor": "do-21-j-1-ntimo",
+      "end_line": 1549,
+      "heading": "Do 21 J#1, Ntimo",
+      "level": 2,
+      "start_line": 1549
+    },
+    {
+      "anchor": "21-xt-i-j-0-5-xt-i-j-xt-i-j-1",
+      "end_line": 1550,
+      "heading": "21 Xt(I,J)#0.5*(Xt(I,J)+Xt(I,J+1))",
+      "level": 2,
+      "start_line": 1550
+    },
+    {
+      "anchor": "c-xt-avg-values-of-sensitivity-eqn-inputs",
+      "end_line": 1551,
+      "heading": "C Xt # Avg Values Of Sensitivity Eqn Inputs",
+      "level": 2,
+      "start_line": 1551
+    },
+    {
+      "anchor": "write-6-102-xt-i-j-j-1-nti-i-1-nsens",
+      "end_line": 1552,
+      "heading": "Write(6,102) ((Xt(I,J), J#1, Nti), I#1, Nsens)",
+      "level": 2,
+      "start_line": 1552
+    },
+    {
+      "anchor": "102-format-3hoxt-ih-ideii-3",
+      "end_line": 1554,
+      "heading": "102 Format(3Hoxt/(Ih , Ideii.3))",
+      "level": 2,
+      "start_line": 1553
+    },
+    {
+      "anchor": "c-after-completing-each-sensitivity-run",
+      "end_line": 1555,
+      "heading": "C AFTER COMPLETING EACH SENSITIVITY RUN -",
+      "level": 2,
+      "start_line": 1555
+    },
+    {
+      "anchor": "5-ist-ist-1",
+      "end_line": 1556,
+      "heading": "5 Ist#Ist+1",
+      "level": 2,
+      "start_line": 1556
+    },
+    {
+      "anchor": "if-ist-nsens-31-31-32",
+      "end_line": 1558,
+      "heading": "If (Ist-Nsens)31,31,32",
+      "level": 2,
+      "start_line": 1557
+    },
+    {
+      "anchor": "c-go-to-next-case",
+      "end_line": 1560,
+      "heading": "C GO TO NEXT CASE",
+      "level": 2,
+      "start_line": 1559
+    },
+    {
+      "anchor": "32-icontr-0",
+      "end_line": 1562,
+      "heading": "32 Icontr#0",
+      "level": 2,
+      "start_line": 1561
+    },
+    {
+      "anchor": "pltinc-tmax",
+      "end_line": 1564,
+      "heading": "Pltinc#Tmax",
+      "level": 2,
+      "start_line": 1563
+    },
+    {
+      "anchor": "tmax-0-0",
+      "end_line": 1566,
+      "heading": "Tmax#0.0",
+      "level": 2,
+      "start_line": 1565
+    },
+    {
+      "anchor": "n-1",
+      "end_line": 1568,
+      "heading": "N！#1",
+      "level": 2,
+      "start_line": 1567
+    },
+    {
+      "anchor": "go-to-30",
+      "end_line": 1570,
+      "heading": "Go To 30",
+      "level": 2,
+      "start_line": 1569
+    },
+    {
+      "anchor": "31-iiz-is-ist",
+      "end_line": 1572,
+      "heading": "31 Iiz#Is（Ist）",
+      "level": 2,
+      "start_line": 1571
+    },
+    {
+      "anchor": "c-col-iiz-of-hp-matrix-mult-by-z",
+      "end_line": 1574,
+      "heading": "C Col. Iiz Of Hp Matrix Mult. By Z",
+      "level": 2,
+      "start_line": 1573
+    },
+    {
+      "anchor": "write-6-101-is-ist-js-ist",
+      "end_line": 1576,
+      "heading": "Write(6,101) Is(Ist),Js(Ist)",
+      "level": 2,
+      "start_line": 1575
+    },
+    {
+      "anchor": "101-format-18hosensitivity-to-a-i3-ih-i3-ih",
+      "end_line": 1578,
+      "heading": "101 Format(18Hosensitivity To A(，I3,Ih，，I3,Ih))",
+      "level": 2,
+      "start_line": 1577
+    },
+    {
+      "anchor": "time-tzero",
+      "end_line": 1580,
+      "heading": "Time#Tzero",
+      "level": 2,
+      "start_line": 1579
+    },
+    {
+      "anchor": "ndt-1",
+      "end_line": 1582,
+      "heading": "Ndt#1",
+      "level": 2,
+      "start_line": 1581
+    },
+    {
+      "anchor": "do-41-i-1-ne",
+      "end_line": 1584,
+      "heading": "Do 41 I#1,Ne",
+      "level": 2,
+      "start_line": 1583
+    },
+    {
+      "anchor": "x-i-0",
+      "end_line": 1586,
+      "heading": "X（I）#□·0",
+      "level": 2,
+      "start_line": 1585
+    },
+    {
+      "anchor": "4-z-i-0",
+      "end_line": 1588,
+      "heading": "4|Z（I）#□·0",
+      "level": 2,
+      "start_line": 1587
+    },
+    {
+      "anchor": "jjflag",
+      "end_line": 1590,
+      "heading": "Jjflag",
+      "level": 2,
+      "start_line": 1589
+    },
+    {
+      "anchor": "c-during-each-sensitivity-run",
+      "end_line": 1592,
+      "heading": "C DURING EACH SENSITIVITY RUN -",
+      "level": 2,
+      "start_line": 1591
+    },
+    {
+      "anchor": "7-z-i-z-xt-ist-ndt",
+      "end_line": 1594,
+      "heading": "7 Z(I|Z)#Xt(Ist,Ndt)",
+      "level": 2,
+      "start_line": 1593
+    },
+    {
+      "anchor": "ndt-ndt-1",
+      "end_line": 1596,
+      "heading": "Ndt#Ndt+1",
+      "level": 2,
+      "start_line": 1595
+    },
+    {
+      "anchor": "30-return",
+      "end_line": 1617,
+      "heading": "30 RETURN",
+      "level": 2,
+      "start_line": 1597
+    },
+    {
+      "anchor": "ibftc-subv-deck",
+      "end_line": 1618,
+      "heading": "$Ibftc Subv Deck",
+      "level": 2,
+      "start_line": 1618
+    },
+    {
+      "anchor": "subroutine-varco-xtr-tx",
+      "end_line": 1619,
+      "heading": "Subroutine Varco(Xtr,Tx)",
+      "level": 2,
+      "start_line": 1619
+    },
+    {
+      "anchor": "for-use-with-distribut-and-matexp-for",
+      "end_line": 1620,
+      "heading": "For Use With Distribut And Matexp For",
+      "level": 2,
+      "start_line": 1620
+    },
+    {
+      "anchor": "variable-z-s-gives-i-st-order-extrap",
+      "end_line": 1621,
+      "heading": "Variable Z-S. Gives I-St Order Extrap.",
+      "level": 2,
+      "start_line": 1621
+    },
+    {
+      "anchor": "for-avg-x-and-time-plus-restart",
+      "end_line": 1622,
+      "heading": "For Avg. X And Time, Plus Restart",
+      "level": 2,
+      "start_line": 1622
+    },
+    {
+      "anchor": "on-i-st-interval-distribut-form",
+      "end_line": 1623,
+      "heading": "On I-St Interval. Distribut Form",
+      "level": 2,
+      "start_line": 1623
+    },
+    {
+      "anchor": "calc-matrix-coeff-s-etc-if-n-0",
+      "end_line": 1624,
+      "heading": "Calc. Matrix Coeff.-S, Etc. If N#0",
+      "level": 2,
+      "start_line": 1624
+    },
+    {
+      "anchor": "call-varco-xtr-tx",
+      "end_line": 1625,
+      "heading": "Call Varco(Xtr,Tx)",
+      "level": 2,
+      "start_line": 1625
+    },
+    {
+      "anchor": "calc-z-s-using-xtr-i-s-and-tx-time",
+      "end_line": 1626,
+      "heading": "Calc. Z-S Using Xtr(I)-S And Tx (Time).",
+      "level": 2,
+      "start_line": 1626
+    },
+    {
+      "anchor": "dimension-a-60-60-c-60-60-hp-60-60-qpt-60-60",
+      "end_line": 1627,
+      "heading": "Dimension A(60,60), C(60,60), Hp(60,60), Qpt(60,60),",
+      "level": 2,
+      "start_line": 1627
+    },
+    {
+      "anchor": "ix-60-y-60-z-60-xic-60-tqp-60",
+      "end_line": 1628,
+      "heading": "Ix(60), Y(60), Z(60), Xic(60), Tqp(60)",
+      "level": 2,
+      "start_line": 1628
+    },
+    {
+      "anchor": "common-c-hp-a-qpt-x-z-y-itmax-kk-ll-mm",
+      "end_line": 1629,
+      "heading": "Common C, Hp, A, Qpt, X, Z, Y, Itmax, Kk, Ll, Mm,",
+      "level": 2,
+      "start_line": 1629
+    },
+    {
+      "anchor": "ijflag-xic-ni-time-tmax-tzero-ne-tqp-t",
+      "end_line": 1630,
+      "heading": "Ijflag, Xic, Ni, Time, Tmax, Tzero, Ne, Tqp, T,",
+      "level": 2,
+      "start_line": 1630
+    },
+    {
+      "anchor": "2iiz-icontr-pltinc-matyes-icss-jflag-plt",
+      "end_line": 1631,
+      "heading": "2Iiz, Icontr, Pltinc, Matyes, Icss, Jflag, Plt",
+      "level": 2,
+      "start_line": 1631
+    },
+    {
+      "anchor": "dimension-xtr-60-xl-60",
+      "end_line": 1632,
+      "heading": "Dimension Xtr(60), Xl(60)",
+      "level": 2,
+      "start_line": 1632
+    },
+    {
+      "anchor": "if-ni-1-1-2",
+      "end_line": 1633,
+      "heading": "If(Ni)1,1,2",
+      "level": 2,
+      "start_line": 1633
+    },
+    {
+      "anchor": "first-entry",
+      "end_line": 1635,
+      "heading": "First Entry",
+      "level": 2,
+      "start_line": 1634
+    },
+    {
+      "anchor": "tx-tzero-0-5-t",
+      "end_line": 1636,
+      "heading": "Tx#Tzero+0.5*T",
+      "level": 2,
+      "start_line": 1636
+    },
+    {
+      "anchor": "do-io-i-1-ne",
+      "end_line": 1637,
+      "heading": "Do Io I#1,Ne",
+      "level": 2,
+      "start_line": 1637
+    },
+    {
+      "anchor": "io-xtr-i-xic-i",
+      "end_line": 1638,
+      "heading": "Io Xtr(I)#Xic(I)",
+      "level": 2,
+      "start_line": 1638
+    },
+    {
+      "anchor": "go-to-30",
+      "end_line": 1639,
+      "heading": "Go To 30",
+      "level": 2,
+      "start_line": 1639
+    },
+    {
+      "anchor": "2-if-nv-3-3-4",
+      "end_line": 1640,
+      "heading": "2 IF(NV)3,3,4",
+      "level": 2,
+      "start_line": 1640
+    },
+    {
+      "anchor": "second-entry",
+      "end_line": 1642,
+      "heading": "Second Entry",
+      "level": 2,
+      "start_line": 1641
+    },
+    {
+      "anchor": "time-tzero",
+      "end_line": 1643,
+      "heading": "Time#Tzero",
+      "level": 2,
+      "start_line": 1643
+    },
+    {
+      "anchor": "plt-0-0",
+      "end_line": 1644,
+      "heading": "Plt#0.0",
+      "level": 2,
+      "start_line": 1644
+    },
+    {
+      "anchor": "do-ii-i-1-ne",
+      "end_line": 1645,
+      "heading": "Do Ii I#1,Ne",
+      "level": 2,
+      "start_line": 1645
+    },
+    {
+      "anchor": "xl-i-xic-i",
+      "end_line": 1646,
+      "heading": "Xl(I)#Xic(I)",
+      "level": 2,
+      "start_line": 1646
+    },
+    {
+      "anchor": "xtr-i-0-5-xl-i-x-i",
+      "end_line": 1647,
+      "heading": "Xtr(I)#0.5*(Xl(I)+X(I))",
+      "level": 2,
+      "start_line": 1647
+    },
+    {
+      "anchor": "ii-x-i-xic-i",
+      "end_line": 1648,
+      "heading": "Ii X(I)#Xic(I)",
+      "level": 2,
+      "start_line": 1648
+    },
+    {
+      "anchor": "go-to-30",
+      "end_line": 1649,
+      "heading": "Go To 30",
+      "level": 2,
+      "start_line": 1649
+    },
+    {
+      "anchor": "entries-after-second",
+      "end_line": 1650,
+      "heading": "Entries After Second",
+      "level": 2,
+      "start_line": 1650
+    },
+    {
+      "anchor": "3-tx-time-0-5-t",
+      "end_line": 1651,
+      "heading": "3 Tx#Time+0.5*T",
+      "level": 2,
+      "start_line": 1651
+    },
+    {
+      "anchor": "do-12-i-1-ne",
+      "end_line": 1652,
+      "heading": "Do 12 I#1,Ne",
+      "level": 2,
+      "start_line": 1652
+    },
+    {
+      "anchor": "xtr-i-x-i-0-5-x-i-xl-i",
+      "end_line": 1653,
+      "heading": "Xtr(I)#X(I)+0.5*(X(I)-Xl(I))",
+      "level": 2,
+      "start_line": 1653
+    },
+    {
+      "anchor": "12-xl-i-x-i",
+      "end_line": 1654,
+      "heading": "12 Xl(I)#X(I)",
+      "level": 2,
+      "start_line": 1654
+    },
+    {
+      "anchor": "return",
+      "end_line": 1659,
+      "heading": "Return",
+      "level": 2,
+      "start_line": 1655
+    },
+    {
+      "anchor": "ibftc-fgen-deck",
+      "end_line": 1660,
+      "heading": "$Ibftc Fgen Deck",
+      "level": 2,
+      "start_line": 1660
+    },
+    {
+      "anchor": "subroutine-dfg-xd-zd",
+      "end_line": 1662,
+      "heading": "Subroutine Dfg(Xd,Zd)",
+      "level": 2,
+      "start_line": 1661
+    },
+    {
+      "anchor": "equivalent-to-8-dfg-s-with-up-to-32",
+      "end_line": 1664,
+      "heading": "Equivalent To 8 Dfg-S With Up To 32",
+      "level": 2,
+      "start_line": 1663
+    },
+    {
+      "anchor": "points-each-called-by-distribut",
+      "end_line": 1667,
+      "heading": "Points Each. Called By Distribut.",
+      "level": 2,
+      "start_line": 1665
+    },
+    {
+      "anchor": "inputs-are",
+      "end_line": 1668,
+      "heading": "Inputs Are",
+      "level": 2,
+      "start_line": 1668
+    },
+    {
+      "anchor": "ndfgs-no-of-dfg-s-used",
+      "end_line": 1669,
+      "heading": "Ndfgs No. Of Dfg-S Used",
+      "level": 2,
+      "start_line": 1669
+    },
+    {
+      "anchor": "npts-no-of-points-in-each-dfg",
+      "end_line": 1670,
+      "heading": "Npts No. Of Points In Each Dfg",
+      "level": 2,
+      "start_line": 1670
+    },
+    {
+      "anchor": "xp-independent-variable-dfg-points",
+      "end_line": 1671,
+      "heading": "Xp Independent Variable Dfg Points",
+      "level": 2,
+      "start_line": 1671
+    },
+    {
+      "anchor": "zp-dependent-variable-dfg-points",
+      "end_line": 1672,
+      "heading": "Zp Dependent Variable Dfg Points",
+      "level": 2,
+      "start_line": 1672
+    },
+    {
+      "anchor": "xd-is-the-input-variable-and-zd-the-output",
+      "end_line": 1673,
+      "heading": "Xd Is The Input Variable And Zd The Output",
+      "level": 2,
+      "start_line": 1673
+    },
+    {
+      "anchor": "dimension-a-60-60-c-60-60-hp-60-60-qpt-60-60",
+      "end_line": 1674,
+      "heading": "Dimension A(60,60), C(60,60), Hp(60,60), Qpt(60,60),",
+      "level": 2,
+      "start_line": 1674
+    },
+    {
+      "anchor": "ix-60-y-60-z-60-xic-60-tqp-60",
+      "end_line": 1675,
+      "heading": "Ix(60), Y(60), Z(60), Xic(60), Tqp(60)",
+      "level": 2,
+      "start_line": 1675
+    },
+    {
+      "anchor": "common-c-hp-a-qpt-x-z-y-itmax-kk-ll-mm",
+      "end_line": 1676,
+      "heading": "Common C,Hp,A,Qpt,X,Z,Y,Itmax,Kk,Ll,Mm,",
+      "level": 2,
+      "start_line": 1676
+    },
+    {
+      "anchor": "ijflag-xic-ni-time-tmax-tzero-ne-tqp-t",
+      "end_line": 1677,
+      "heading": "Ijflag,Xic,Ni,Time,Tmax,Tzero,Ne,Tqp,T,",
+      "level": 2,
+      "start_line": 1677
+    },
+    {
+      "anchor": "2iiz-icontr-pltinc-matyes-icss-jflag-plt",
+      "end_line": 1678,
+      "heading": "2Iiz,Icontr,Pltinc,Matyes,Icss,Jflag,Plt",
+      "level": 2,
+      "start_line": 1678
+    },
+    {
+      "anchor": "dimension-xp-32-8-zp-32-8-sl-32-8-npts-8",
+      "end_line": 1679,
+      "heading": "Dimension Xp(32,8), Zp(32,8), Sl(32,8), Npts(8),",
+      "level": 2,
+      "start_line": 1679
+    },
+    {
+      "anchor": "ijp-8-zd-8-xd-8",
+      "end_line": 1681,
+      "heading": "Ijp(8), Zd(8), Xd(8)",
+      "level": 2,
+      "start_line": 1680
+    },
+    {
+      "anchor": "if-ni-1-2-1",
+      "end_line": 1682,
+      "heading": "If(Ni)1,2,1",
+      "level": 2,
+      "start_line": 1682
+    },
+    {
+      "anchor": "first-call-comp",
+      "end_line": 1683,
+      "heading": "First Call Comp.",
+      "level": 2,
+      "start_line": 1683
+    },
+    {
+      "anchor": "2-read-5-100-ndfgs-npts",
+      "end_line": 1684,
+      "heading": "2 READ (5,100) NDFGS, NPTS",
+      "level": 2,
+      "start_line": 1684
+    },
+    {
+      "anchor": "100-format-i2-8x-8i3",
+      "end_line": 1685,
+      "heading": "100 FORMAT(I2,8X,8I3)",
+      "level": 2,
+      "start_line": 1685
+    },
+    {
+      "anchor": "do-86-i-1-ndfgs",
+      "end_line": 1686,
+      "heading": "Do 86 I#1,Ndfgs",
+      "level": 2,
+      "start_line": 1686
+    },
+    {
+      "anchor": "np-npts-i",
+      "end_line": 1687,
+      "heading": "Np#Npts(I)",
+      "level": 2,
+      "start_line": 1687
+    },
+    {
+      "anchor": "7-read-5-101-xp-j-i-zp-j-i-j-1-np",
+      "end_line": 1688,
+      "heading": "7 Read (5,101) (Xp(J,I), Zp(J,I), J#1,Np)",
+      "level": 2,
+      "start_line": 1688
+    },
+    {
+      "anchor": "101-format-8e10-3",
+      "end_line": 1689,
+      "heading": "101 Format(8E10.3)",
+      "level": 2,
+      "start_line": 1689
+    },
+    {
+      "anchor": "86-write-6-200-i-xp-j-i-zp-j-i-j-1-np",
+      "end_line": 1690,
+      "heading": "86 Write (6,200) I,(Xp(J,I), Zp(J,I), J#1,Np)",
+      "level": 2,
+      "start_line": 1690
+    },
+    {
+      "anchor": "2000format-4hdfg-i3-17h-xp-and-zp-inputs",
+      "end_line": 1691,
+      "heading": "2000Format(4Hdfg,I3,17H Xp And Zp Inputs/",
+      "level": 2,
+      "start_line": 1691
+    },
+    {
+      "anchor": "i-iho-4-2e12-4-4x",
+      "end_line": 1692,
+      "heading": "I(Iho,4(2E12.4,4X))",
+      "level": 2,
+      "start_line": 1692
+    },
+    {
+      "anchor": "do-3-i-1-ndfgs",
+      "end_line": 1693,
+      "heading": "Do 3 I#1,Ndfgs",
+      "level": 2,
+      "start_line": 1693
+    },
+    {
+      "anchor": "m-npts-i-i",
+      "end_line": 1694,
+      "heading": "M#Npts(I)-I",
+      "level": 2,
+      "start_line": 1694
+    },
+    {
+      "anchor": "do-3-j-1-m",
+      "end_line": 1695,
+      "heading": "Do 3 J#1,M",
+      "level": 2,
+      "start_line": 1695
+    },
+    {
+      "anchor": "3-sl-j-i-zp-j-1-i-zp-j-i-xp-j-1-i-xp-j-i",
+      "end_line": 1696,
+      "heading": "3 Sl(J,I)#(Zp(J+1,I)-Zp(J,I))/(Xp(J+1,I)-Xp(J,I))",
+      "level": 2,
+      "start_line": 1696
+    },
+    {
+      "anchor": "do-5-i-1-ndfgs",
+      "end_line": 1697,
+      "heading": "Do 5 I#1,Ndfgs",
+      "level": 2,
+      "start_line": 1697
+    },
+    {
+      "anchor": "do-4-j-2-32",
+      "end_line": 1698,
+      "heading": "Do 4 J#2,32",
+      "level": 2,
+      "start_line": 1698
+    },
+    {
+      "anchor": "if-xd-i-xp-j-i-5-5-4",
+      "end_line": 1699,
+      "heading": "If(Xd(I)-Xp(J,I))5,5,4",
+      "level": 2,
+      "start_line": 1699
+    },
+    {
+      "anchor": "4-continue",
+      "end_line": 1700,
+      "heading": "4 CONTINUE",
+      "level": 2,
+      "start_line": 1700
+    },
+    {
+      "anchor": "5-jp-i-j",
+      "end_line": 1702,
+      "heading": "5 Jp(I)#J",
+      "level": 2,
+      "start_line": 1701
+    },
+    {
+      "anchor": "calcs-made-each-time",
+      "end_line": 1703,
+      "heading": "Calcs. Made Each Time",
+      "level": 2,
+      "start_line": 1703
+    },
+    {
+      "anchor": "1-do-6-i-1-ndfgs",
+      "end_line": 1704,
+      "heading": "1 Do 6 I#1,Ndfgs",
+      "level": 2,
+      "start_line": 1704
+    },
+    {
+      "anchor": "j-jp-i",
+      "end_line": 1705,
+      "heading": "J#Jp(I)",
+      "level": 2,
+      "start_line": 1705
+    },
+    {
+      "anchor": "18-if-xd-i-xp-j-i-10-11-12",
+      "end_line": 1706,
+      "heading": "18 IF(XD(I)-XP(J,I))10,11,12",
+      "level": 2,
+      "start_line": 1706
+    },
+    {
+      "anchor": "10-if-xd-i-xp-j-1-i-13-14-15",
+      "end_line": 1707,
+      "heading": "10 IF(XD(I)-XP(J-1,I))13,14,15",
+      "level": 2,
+      "start_line": 1707
+    },
+    {
+      "anchor": "13-j-j-1",
+      "end_line": 1708,
+      "heading": "13 J#J-1",
+      "level": 2,
+      "start_line": 1708
+    },
+    {
+      "anchor": "if-j-1-16-16-10",
+      "end_line": 1709,
+      "heading": "If(J-1)16,16,10",
+      "level": 2,
+      "start_line": 1709
+    },
+    {
+      "anchor": "16-j-2",
+      "end_line": 1710,
+      "heading": "16 J#2",
+      "level": 2,
+      "start_line": 1710
+    },
+    {
+      "anchor": "go-to-19",
+      "end_line": 1711,
+      "heading": "Go To 19",
+      "level": 2,
+      "start_line": 1711
+    },
+    {
+      "anchor": "14-zd-i-zp-j-1-i",
+      "end_line": 1712,
+      "heading": "14 Zd(I)#Zp(J-1,I)",
+      "level": 2,
+      "start_line": 1712
+    },
+    {
+      "anchor": "go-to-6",
+      "end_line": 1713,
+      "heading": "Go To 6",
+      "level": 2,
+      "start_line": 1713
+    },
+    {
+      "anchor": "12-j-j-1",
+      "end_line": 1714,
+      "heading": "12 J#J+1",
+      "level": 2,
+      "start_line": 1714
+    },
+    {
+      "anchor": "if-npts-i-j-17-18-18",
+      "end_line": 1718,
+      "heading": "If(Npts(I)-J)17,18,18",
+      "level": 2,
+      "start_line": 1715
+    },
+    {
+      "anchor": "17j-npts-i-go-to-19",
+      "end_line": 1719,
+      "heading": "17J#Npts(I) Go To 19",
+      "level": 2,
+      "start_line": 1719
+    },
+    {
+      "anchor": "11zd-i-zp-j-i-go-to-6",
+      "end_line": 1720,
+      "heading": "11Zd(I)#Zp(J,I) Go To 6",
+      "level": 2,
+      "start_line": 1720
+    },
+    {
+      "anchor": "19write-6-102-i",
+      "end_line": 1721,
+      "heading": "19Write(6,102）I",
+      "level": 2,
+      "start_line": 1721
+    },
+    {
+      "anchor": "102format-4h0dfg-i3-16h-range-exceeded",
+      "end_line": 1723,
+      "heading": "102Format(4H0Dfg,I3,16H Range Exceeded.)",
+      "level": 2,
+      "start_line": 1722
+    },
+    {
+      "anchor": "15zd-i-zp-j-i-i-sl-j-i-i-xd-i-xp-j-i-i-jp-i-stores-value-ofxdlocation",
+      "end_line": 1724,
+      "heading": "15Zd(I)#Zp(J-I,I)+Sl(J-I,I)*(Xd(I)-Xp(J-I,I)) Jp(I)Stores Value Ofxdlocation",
+      "level": 2,
+      "start_line": 1724
+    },
+    {
+      "anchor": "c-to-useasfirsttrynexttime",
+      "end_line": 1725,
+      "heading": "C To Useasfirsttrynexttime.",
+      "level": 2,
+      "start_line": 1725
+    },
+    {
+      "anchor": "6jp-i-j",
+      "end_line": 1726,
+      "heading": "6Jp(I)#J",
+      "level": 2,
+      "start_line": 1726
+    },
+    {
+      "anchor": "c-return-end",
+      "end_line": 1749,
+      "heading": "C RETURN END",
+      "level": 2,
+      "start_line": 1727
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1825,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1750
+    },
+    {
+      "anchor": "ornl-tm-1933",
+      "end_line": 1827,
+      "heading": "ORNL-TM-1933",
+      "level": 1,
+      "start_line": 1826
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1851,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1828
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1933",
+  "tables": [],
+  "title": "ORNL-TM-1933",
+  "topics": [
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "program-history",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

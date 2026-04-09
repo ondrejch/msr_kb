@@ -1,0 +1,4156 @@
+{
+  "authors": [
+    "Fusion-Fission Energy Systems Evaluation",
+    "V. L. Teofilo",
+    "D. T. Aase",
+    "W.E.Bickford",
+    "B. R. Leonard",
+    "Jr.",
+    "N. J. McCormick"
+  ],
+  "claims_path": "kb/normalized/claims/pnl-3116.jsonl",
+  "date_text": "January 1980",
+  "doc_id": "pnl-3116",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 17,
+        "line_hits": [
+          771,
+          773,
+          807,
+          813,
+          1381,
+          1502,
+          1516,
+          1575,
+          1622,
+          1636,
+          1642,
+          1697,
+          1748,
+          1839,
+          2946,
+          2980,
+          2998
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          773,
+          2924,
+          2980,
+          3169,
+          3175,
+          3179
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          829,
+          836,
+          844,
+          2980
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          2998,
+          3175,
+          3179
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          813,
+          3175,
+          3179
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          2757,
+          2940
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          813
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          803
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 11,
+        "line_hits": [
+          410,
+          1284,
+          1301,
+          1303,
+          1311,
+          2673,
+          2767,
+          2783,
+          2886,
+          3027,
+          3029
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          695,
+          1284,
+          1301,
+          1303,
+          2719,
+          2892,
+          2900,
+          2930
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1303,
+          2767,
+          2892,
+          3765
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          645,
+          668,
+          3043,
+          3163
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          3765
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          1260,
+          1262,
+          2203,
+          3357,
+          3361,
+          3369,
+          3522,
+          5081,
+          5089
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          593,
+          795,
+          1375,
+          3187
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          2193,
+          3471,
+          5073
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2614
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 321,
+        "line_hits": [
+          45,
+          110,
+          533,
+          543,
+          559,
+          565,
+          581,
+          585,
+          587,
+          603,
+          610,
+          614,
+          616,
+          620,
+          629,
+          637,
+          645,
+          647,
+          656,
+          658,
+          681,
+          683,
+          685,
+          695,
+          699,
+          705,
+          716,
+          718,
+          744,
+          771,
+          785,
+          803,
+          805,
+          807,
+          809,
+          813,
+          815,
+          840,
+          856,
+          869,
+          877,
+          898,
+          907,
+          911,
+          913,
+          917,
+          919,
+          930,
+          936,
+          946
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          2228,
+          3553,
+          3615
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          3782,
+          3794,
+          3802
+        ],
+        "name": "HRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          4429
+        ],
+        "name": "AHR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          813
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          873,
+          883
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          883
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          883
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          873
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6e9aacf5485f44f9670d591eb5ef3af7f97d233ec01bdeb4d6e2e6e6574225dd",
+  "markdown_path": "pdf/PNL-3116/PNL-3116/hybrid_ocr/PNL-3116.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 543,
+  "sections": [
+    {
+      "anchor": "pnl-3116",
+      "end_line": 4,
+      "heading": "Pnl-3116",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "fusion-fission-energy-systems-evaluation",
+      "end_line": 40,
+      "heading": "Fusion-Fission Energy Systems Evaluation",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "notice",
+      "end_line": 46,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "pacific-northwest-laboratory",
+      "end_line": 50,
+      "heading": "Pacific Northwest Laboratory",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "battelle",
+      "end_line": 54,
+      "heading": "Battelle",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "united-states-department-of-energy",
+      "end_line": 77,
+      "heading": "United States Department Of Energy",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "fusion-fission-energy-systems-evaluation",
+      "end_line": 79,
+      "heading": "FUSION-FISSION ENERGY SYSTEMS EVALUATION",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "pacific-northwest-laboratory",
+      "end_line": 87,
+      "heading": "Pacific Northwest Laboratory",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "university-of-washington",
+      "end_line": 107,
+      "heading": "University of Washington",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "preface",
+      "end_line": 124,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "contents",
+      "end_line": 126,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 125
+    },
+    {
+      "anchor": "preface-v",
+      "end_line": 132,
+      "heading": "Preface V",
+      "level": 2,
+      "start_line": 127
+    },
+    {
+      "anchor": "i-summary-i-1",
+      "end_line": 134,
+      "heading": "I. SUMMARY I-1",
+      "level": 2,
+      "start_line": 133
+    },
+    {
+      "anchor": "a-fusion-drivers-i-1",
+      "end_line": 135,
+      "heading": "A. Fusion Drivers I-1",
+      "level": 2,
+      "start_line": 135
+    },
+    {
+      "anchor": "b-fission-blankets-i-2",
+      "end_line": 142,
+      "heading": "B. Fission Blankets I-2",
+      "level": 2,
+      "start_line": 136
+    },
+    {
+      "anchor": "c-section-i-references-i-8",
+      "end_line": 144,
+      "heading": "C. SECTION I REFERENCES I-8",
+      "level": 2,
+      "start_line": 143
+    },
+    {
+      "anchor": "ii-introduction-ii-1",
+      "end_line": 146,
+      "heading": "II. INTRODUCTION II-1",
+      "level": 2,
+      "start_line": 145
+    },
+    {
+      "anchor": "section-ii-references-ii-4",
+      "end_line": 148,
+      "heading": "Section Ii References Ii-4",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "iii-fusiondrivers-iii-1",
+      "end_line": 150,
+      "heading": "Iii．Fusiondrivers Iii-1",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "a-tokamak-iii-1",
+      "end_line": 155,
+      "heading": "A. Tokamak Iii-1",
+      "level": 2,
+      "start_line": 151
+    },
+    {
+      "anchor": "b-mirror-iii-6",
+      "end_line": 160,
+      "heading": "B. Mirror Iii-6",
+      "level": 2,
+      "start_line": 156
+    },
+    {
+      "anchor": "c-linear-theta-pinch-iii-9",
+      "end_line": 165,
+      "heading": "C．Linear Theta Pinch . Iii-9",
+      "level": 2,
+      "start_line": 161
+    },
+    {
+      "anchor": "d-laser-inertial-iii-15",
+      "end_line": 170,
+      "heading": "D.Laser Inertial Iii-15",
+      "level": 2,
+      "start_line": 166
+    },
+    {
+      "anchor": "e-section-iii-references-iii-20",
+      "end_line": 172,
+      "heading": "E. Section Iii References Iii-20",
+      "level": 2,
+      "start_line": 171
+    },
+    {
+      "anchor": "iv-fission-blankets-iv-1",
+      "end_line": 174,
+      "heading": "IV. FISSION BLANKETS IV-1",
+      "level": 2,
+      "start_line": 173
+    },
+    {
+      "anchor": "a-fuel-forms-iv-1",
+      "end_line": 175,
+      "heading": "A. Fuel Forms Iv-1",
+      "level": 2,
+      "start_line": 175
+    },
+    {
+      "anchor": "b-tritium-breeding-material-candidates-iv-4",
+      "end_line": 176,
+      "heading": "B. Tritium Breeding Material Candidates Iv-4",
+      "level": 2,
+      "start_line": 176
+    },
+    {
+      "anchor": "c-coolants-iv-7",
+      "end_line": 177,
+      "heading": "C．Coolants Iv-7",
+      "level": 2,
+      "start_line": 177
+    },
+    {
+      "anchor": "d-heat-transfer-fluid-flow-iv-10",
+      "end_line": 179,
+      "heading": "D. Heat Transfer - Fluid Flow Iv-10",
+      "level": 2,
+      "start_line": 178
+    },
+    {
+      "anchor": "e-structural-design-iv-11",
+      "end_line": 180,
+      "heading": "E. Structural Design Iv-11",
+      "level": 2,
+      "start_line": 180
+    },
+    {
+      "anchor": "f-mechanical-and-thermal-hydraulic-data-iv-19",
+      "end_line": 181,
+      "heading": "F. Mechanical And Thermal Hydraulic Data Iv-19",
+      "level": 2,
+      "start_line": 181
+    },
+    {
+      "anchor": "g-remote-disassembly-and-maintenance-iv-26",
+      "end_line": 182,
+      "heading": "G. Remote Disassembly And Maintenance Iv-26",
+      "level": 2,
+      "start_line": 182
+    },
+    {
+      "anchor": "h-section-iv-references-iv-32",
+      "end_line": 184,
+      "heading": "H. Section Iv References Iv-32",
+      "level": 2,
+      "start_line": 183
+    },
+    {
+      "anchor": "v-neutronics-v-1",
+      "end_line": 186,
+      "heading": "V. NEUTRONICS V-1",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "a-computational-methodology-v-1",
+      "end_line": 187,
+      "heading": "A. Computational Methodology V-1",
+      "level": 2,
+      "start_line": 187
+    },
+    {
+      "anchor": "b-nuclear-data-v-4",
+      "end_line": 188,
+      "heading": "B. Nuclear Data V-4",
+      "level": 2,
+      "start_line": 188
+    },
+    {
+      "anchor": "c-fissile-fuel-breeding-v-5",
+      "end_line": 189,
+      "heading": "C. FISSILE FUEL BREEDING V-5",
+      "level": 2,
+      "start_line": 189
+    },
+    {
+      "anchor": "d-tritium-breeding-v-9",
+      "end_line": 190,
+      "heading": "D. Tritium Breeding V-9",
+      "level": 2,
+      "start_line": 190
+    },
+    {
+      "anchor": "e-burnup-and-isotopics-v-10",
+      "end_line": 191,
+      "heading": "E. Burnup And Isotopics V-10",
+      "level": 2,
+      "start_line": 191
+    },
+    {
+      "anchor": "f-fissile-fuel-and-power-production-v-11",
+      "end_line": 192,
+      "heading": "F. Fissile Fuel And Power Production . V-11",
+      "level": 2,
+      "start_line": 192
+    },
+    {
+      "anchor": "g-sectionvreferences-v-18",
+      "end_line": 194,
+      "heading": "G.Sectionvreferences V-18",
+      "level": 2,
+      "start_line": 193
+    },
+    {
+      "anchor": "vi-conceptual-plant-design-vi-1",
+      "end_line": 196,
+      "heading": "VI. CONCEPTUAL PLANT DESIGN VI-1",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "a-plant-layout-vi-1",
+      "end_line": 203,
+      "heading": "A. Plant Layout Vi-1",
+      "level": 2,
+      "start_line": 197
+    },
+    {
+      "anchor": "b-power-analysis-vi-9",
+      "end_line": 204,
+      "heading": "B. Power Analysis Vi-9",
+      "level": 2,
+      "start_line": 204
+    },
+    {
+      "anchor": "c-section-vi-references-vi-20",
+      "end_line": 206,
+      "heading": "C. SECTION VI REFERENCES VI-20",
+      "level": 2,
+      "start_line": 205
+    },
+    {
+      "anchor": "vii-hybrid-fuel-cycle-analysis-vii-1",
+      "end_line": 208,
+      "heading": "VII. HYBRID FUEL CYCLE ANALYSIS VII-1",
+      "level": 1,
+      "start_line": 207
+    },
+    {
+      "anchor": "a-fueling-alternatives-vii-1",
+      "end_line": 213,
+      "heading": "A. Fueling Alternatives Vii-1",
+      "level": 2,
+      "start_line": 209
+    },
+    {
+      "anchor": "b-fuel-management-strategies-vii-12",
+      "end_line": 218,
+      "heading": "B. Fuel Management Strategies Vii-12",
+      "level": 2,
+      "start_line": 214
+    },
+    {
+      "anchor": "c-facility-requirements-vii-40",
+      "end_line": 234,
+      "heading": "C. FACILITY REQUIREMENTS VII-40",
+      "level": 2,
+      "start_line": 219
+    },
+    {
+      "anchor": "d-section-vii-references-vii-70",
+      "end_line": 236,
+      "heading": "D. Section Vii References Vii-70",
+      "level": 2,
+      "start_line": 235
+    },
+    {
+      "anchor": "viii-proliferation-resistance-considerations-viii-1",
+      "end_line": 238,
+      "heading": "VIII. PROLIFERATION RESISTANCE CONSIDERATIONS VIII-1",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "a-introduction-general-considerations-viii-1",
+      "end_line": 245,
+      "heading": "A. Introduction - General Considerations Viii-1",
+      "level": 2,
+      "start_line": 239
+    },
+    {
+      "anchor": "b-no-reprocessing-viii-4",
+      "end_line": 246,
+      "heading": "B. No Reprocessing Viii-4",
+      "level": 2,
+      "start_line": 246
+    },
+    {
+      "anchor": "c-reprocessing-and-recycling-viii-5",
+      "end_line": 252,
+      "heading": "C. REPROCESSING AND RECYCLING VIII-5",
+      "level": 2,
+      "start_line": 247
+    },
+    {
+      "anchor": "d-proliferation-resistance-engineering-viii-7",
+      "end_line": 257,
+      "heading": "D. Proliferation Resistance Engineering Viii-7",
+      "level": 2,
+      "start_line": 253
+    },
+    {
+      "anchor": "e-references-for-section-viii-viii-11",
+      "end_line": 259,
+      "heading": "E. References For Section Viii . Viii-11",
+      "level": 2,
+      "start_line": 258
+    },
+    {
+      "anchor": "ix-economics-ix-1",
+      "end_line": 261,
+      "heading": "IX. ECONOMICS IX-1",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "a-ground-rules-and-assumptions-ix-1",
+      "end_line": 262,
+      "heading": "A. Ground Rules And Assumptions . Ix-1",
+      "level": 2,
+      "start_line": 262
+    },
+    {
+      "anchor": "b-capital-investment-costs-ix-1",
+      "end_line": 263,
+      "heading": "B. Capital Investment Costs Ix-1",
+      "level": 2,
+      "start_line": 263
+    },
+    {
+      "anchor": "c-blanket-costs-ix-5",
+      "end_line": 264,
+      "heading": "C. Blanket Costs . Ix-5",
+      "level": 2,
+      "start_line": 264
+    },
+    {
+      "anchor": "d-annual-operating-and-maintenance-costs-ix-5",
+      "end_line": 265,
+      "heading": "D.Annual Operating And Maintenance Costs Ix-5",
+      "level": 2,
+      "start_line": 265
+    },
+    {
+      "anchor": "e-fuel-cycle-costs-ix-6",
+      "end_line": 266,
+      "heading": "E. Fuel Cycle Costs Ix-6",
+      "level": 2,
+      "start_line": 266
+    },
+    {
+      "anchor": "f-levelized-energy-costs-ix-7",
+      "end_line": 267,
+      "heading": "F. Levelized Energy Costs Ix-7",
+      "level": 2,
+      "start_line": 267
+    },
+    {
+      "anchor": "g-fissile-fuel-value-ix-8",
+      "end_line": 268,
+      "heading": "G. Fissile Fuel Value . Ix-8",
+      "level": 2,
+      "start_line": 268
+    },
+    {
+      "anchor": "h-market-penetration-ix-10",
+      "end_line": 270,
+      "heading": "H. Market Penetration . Ix-10",
+      "level": 2,
+      "start_line": 269
+    },
+    {
+      "anchor": "i-nonproliferation-impact-ix-12",
+      "end_line": 278,
+      "heading": "I. Nonproliferation Impact . Ix-12",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "j-section-ix-references-ix-17",
+      "end_line": 280,
+      "heading": "J. Section Ix References Ix-17",
+      "level": 2,
+      "start_line": 279
+    },
+    {
+      "anchor": "x-licensing-and-safety-x-1",
+      "end_line": 282,
+      "heading": "X.Licensing And Safety X-1",
+      "level": 2,
+      "start_line": 281
+    },
+    {
+      "anchor": "a-generic-discussion-of-the-hybrid-concept-x-1",
+      "end_line": 283,
+      "heading": "A. Generic Discussion Of The Hybrid Concept X-1",
+      "level": 2,
+      "start_line": 283
+    },
+    {
+      "anchor": "b-generic-safety-and-licensing-issues-x-3",
+      "end_line": 288,
+      "heading": "B. Generic Safety And Licensing Issues X-3",
+      "level": 2,
+      "start_line": 284
+    },
+    {
+      "anchor": "c-tokamak-hybrid-x-11",
+      "end_line": 299,
+      "heading": "C. Tokamak Hybrid. X-11",
+      "level": 2,
+      "start_line": 289
+    },
+    {
+      "anchor": "d-mirror-hybrid-x-19",
+      "end_line": 304,
+      "heading": "D.Mirror Hybrid. X-19",
+      "level": 2,
+      "start_line": 300
+    },
+    {
+      "anchor": "e-theta-pinch-x-24",
+      "end_line": 309,
+      "heading": "E. Theta Pinch X-24",
+      "level": 2,
+      "start_line": 305
+    },
+    {
+      "anchor": "f-laser-fusion-hybrid-x-27",
+      "end_line": 314,
+      "heading": "F. Laser Fusion Hybrid X-27",
+      "level": 2,
+      "start_line": 310
+    },
+    {
+      "anchor": "g-sectionxreferences-x-32",
+      "end_line": 316,
+      "heading": "G.Sectionxreferences X-32",
+      "level": 2,
+      "start_line": 315
+    },
+    {
+      "anchor": "xi-environmental-considerations-xi-1",
+      "end_line": 318,
+      "heading": "XI. ENVIRONMENTAL CONSIDERATIONS XI-1",
+      "level": 2,
+      "start_line": 317
+    },
+    {
+      "anchor": "a-fusion-fuel-cycle-xi-1",
+      "end_line": 324,
+      "heading": "A. Fusion Fuel Cycle Xi-1",
+      "level": 2,
+      "start_line": 319
+    },
+    {
+      "anchor": "b-fission-fuel-cycle-xi-4",
+      "end_line": 325,
+      "heading": "B. Fission Fuel Cycle . Xi-4",
+      "level": 2,
+      "start_line": 325
+    },
+    {
+      "anchor": "c-magnetic-fields-xi-8",
+      "end_line": 326,
+      "heading": "C．Magnetic Fields Xi-8",
+      "level": 2,
+      "start_line": 326
+    },
+    {
+      "anchor": "d-toxic-laser-gases-xi-8",
+      "end_line": 327,
+      "heading": "D. Toxic Laser Gases Xi-8",
+      "level": 2,
+      "start_line": 327
+    },
+    {
+      "anchor": "e-unique-resource-requirement-xi-9",
+      "end_line": 328,
+      "heading": "E．Unique Resource Requirement Xi-9",
+      "level": 2,
+      "start_line": 328
+    },
+    {
+      "anchor": "f-section-xi-references-xi-11",
+      "end_line": 330,
+      "heading": "F. Section Xi References Xi-11",
+      "level": 2,
+      "start_line": 329
+    },
+    {
+      "anchor": "xii-utility-and-industrial-perspectives-commercializing-hybrid-hybrid-reactors-xii-1",
+      "end_line": 332,
+      "heading": "XII. UTILITY AND INDUSTRIAL PERSPECTIVES - COMMERCIALIZING HYBRID HYBRID REACTORS XII-1",
+      "level": 2,
+      "start_line": 331
+    },
+    {
+      "anchor": "a-significance-of-commercialization-issues-xii-1",
+      "end_line": 333,
+      "heading": "A. Significance Of Commercialization Issues Xii-1",
+      "level": 2,
+      "start_line": 333
+    },
+    {
+      "anchor": "b-conceptual-model-of-the-commercialization-process-xii-3",
+      "end_line": 334,
+      "heading": "B. Conceptual Model Of The Commercialization Process Xii-3",
+      "level": 2,
+      "start_line": 334
+    },
+    {
+      "anchor": "c-characteristics-of-demand-xii-6",
+      "end_line": 335,
+      "heading": "C. CHARACTERISTICS OF DEMAND XII-6",
+      "level": 2,
+      "start_line": 335
+    },
+    {
+      "anchor": "d-problems-of-property-rights-xii-8",
+      "end_line": 336,
+      "heading": "D. Problems Of Property Rights Xii-8",
+      "level": 2,
+      "start_line": 336
+    },
+    {
+      "anchor": "e-capacity-to-produce-xii-12",
+      "end_line": 337,
+      "heading": "E. Capacity To Produce Xii-12",
+      "level": 2,
+      "start_line": 337
+    },
+    {
+      "anchor": "f-product-characteristics-xii-15",
+      "end_line": 338,
+      "heading": "F.Product Characteristics.Xii-15",
+      "level": 2,
+      "start_line": 338
+    },
+    {
+      "anchor": "g-conclusions-xii-17",
+      "end_line": 339,
+      "heading": "G. Conclusions Xii-17",
+      "level": 2,
+      "start_line": 339
+    },
+    {
+      "anchor": "h-section-xii-references-xii-19",
+      "end_line": 341,
+      "heading": "H. Section Xii References Xii-19",
+      "level": 2,
+      "start_line": 340
+    },
+    {
+      "anchor": "xiii-technology-status-and-rd-d-requirements-xii-1",
+      "end_line": 343,
+      "heading": "Xiii. Technology Status And Rd&D Requirements Xii-1",
+      "level": 2,
+      "start_line": 342
+    },
+    {
+      "anchor": "a-present-status-of-fusion-physics-viii-1",
+      "end_line": 350,
+      "heading": "A. Present Status Of Fusion Physics Viii-1",
+      "level": 2,
+      "start_line": 344
+    },
+    {
+      "anchor": "b-fusion-driver-rd-d-requirements-xiii-13",
+      "end_line": 358,
+      "heading": "B. Fusion Driver Rd&D Requirements Xiii-13",
+      "level": 2,
+      "start_line": 351
+    },
+    {
+      "anchor": "c-present-status-of-blanket-engineering-xiii-30",
+      "end_line": 363,
+      "heading": "C. PRESENT STATUS OF BLANKET ENGINEERING XIII-30",
+      "level": 2,
+      "start_line": 359
+    },
+    {
+      "anchor": "d-blanket-rd-d-requirements-xii-35",
+      "end_line": 368,
+      "heading": "D. Blanket Rd&D Requirements Xii-35",
+      "level": 2,
+      "start_line": 364
+    },
+    {
+      "anchor": "e-possible-hybrid-rd-d-program-xii-38",
+      "end_line": 374,
+      "heading": "E. Possible Hybrid Rd&D Program . Xii-38",
+      "level": 2,
+      "start_line": 369
+    },
+    {
+      "anchor": "f-selection-xiii-references-viii-45",
+      "end_line": 376,
+      "heading": "F. Selection Xiii References Viii-45",
+      "level": 2,
+      "start_line": 375
+    },
+    {
+      "anchor": "appendix-a-capital-investment-cost-estimates-a-1",
+      "end_line": 378,
+      "heading": "Appendix A - Capital Investment Cost Estimates A-1",
+      "level": 2,
+      "start_line": 377
+    },
+    {
+      "anchor": "appendix-b-levelized-energy-cost-estimates-b-1",
+      "end_line": 380,
+      "heading": "Appendix B - Levelized Energy Cost Estimates B-1",
+      "level": 2,
+      "start_line": 379
+    },
+    {
+      "anchor": "figures",
+      "end_line": 445,
+      "heading": "FIGURES",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "tables",
+      "end_line": 526,
+      "heading": "TABLES",
+      "level": 1,
+      "start_line": 446
+    },
+    {
+      "anchor": "i-summary",
+      "end_line": 530,
+      "heading": "I. SUMMARY",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "a-fusion-drivers",
+      "end_line": 540,
+      "heading": "A. FUSION DRIVERS",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "b-fission-blankets",
+      "end_line": 544,
+      "heading": "B. FISSION BLANKETS",
+      "level": 1,
+      "start_line": 541
+    },
+    {
+      "anchor": "1-once-through-fuel-cycle",
+      "end_line": 550,
+      "heading": "1. Once-Through Fuel Cycle",
+      "level": 1,
+      "start_line": 545
+    },
+    {
+      "anchor": "2-pu-recycle",
+      "end_line": 562,
+      "heading": "2. Pu Recycle",
+      "level": 1,
+      "start_line": 551
+    },
+    {
+      "anchor": "3-refresh-cycle",
+      "end_line": 566,
+      "heading": "3. Refresh Cycle",
+      "level": 1,
+      "start_line": 563
+    },
+    {
+      "anchor": "4-u-233-recycling",
+      "end_line": 590,
+      "heading": "4. U-233 Recycling",
+      "level": 1,
+      "start_line": 567
+    },
+    {
+      "anchor": "c-section-i-references",
+      "end_line": 596,
+      "heading": "C. SECTION I REFERENCES",
+      "level": 2,
+      "start_line": 591
+    },
+    {
+      "anchor": "ii-introduction",
+      "end_line": 626,
+      "heading": "II. INTRODUCTION",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "iii-fusion-drivers",
+      "end_line": 630,
+      "heading": "III. FUSION DRIVERS",
+      "level": 1,
+      "start_line": 627
+    },
+    {
+      "anchor": "a-tokamak",
+      "end_line": 632,
+      "heading": "A. TOKAMAK",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "1-plasma-physics",
+      "end_line": 640,
+      "heading": "1. Plasma Physics",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "2-conceptual-engineering-design",
+      "end_line": 669,
+      "heading": "2. Conceptual Engineering Design",
+      "level": 1,
+      "start_line": 641
+    },
+    {
+      "anchor": "b-mirror",
+      "end_line": 671,
+      "heading": "B. MIRROR",
+      "level": 1,
+      "start_line": 670
+    },
+    {
+      "anchor": "1-plasma-physics",
+      "end_line": 688,
+      "heading": "1. Plasma Physics",
+      "level": 1,
+      "start_line": 672
+    },
+    {
+      "anchor": "2-conceptual-engineering-design",
+      "end_line": 700,
+      "heading": "2. Conceptual Engineering Design",
+      "level": 1,
+      "start_line": 689
+    },
+    {
+      "anchor": "c-linear-theta-pinch",
+      "end_line": 702,
+      "heading": "C. LINEAR THETA PINCH",
+      "level": 1,
+      "start_line": 701
+    },
+    {
+      "anchor": "1-plasma-physics",
+      "end_line": 730,
+      "heading": "1. Plasma Physics",
+      "level": 1,
+      "start_line": 703
+    },
+    {
+      "anchor": "2-conceptual-engineering-design",
+      "end_line": 732,
+      "heading": "2. Conceptual Engineering Design",
+      "level": 1,
+      "start_line": 731
+    },
+    {
+      "anchor": "a-the-lasl-designs",
+      "end_line": 748,
+      "heading": "a. The LASL Designs",
+      "level": 1,
+      "start_line": 733
+    },
+    {
+      "anchor": "d-laser-inertial",
+      "end_line": 750,
+      "heading": "D. LASER INERTIAL",
+      "level": 1,
+      "start_line": 749
+    },
+    {
+      "anchor": "1-inertial-fusion-physics",
+      "end_line": 755,
+      "heading": "1. Inertial Fusion Physics",
+      "level": 1,
+      "start_line": 751
+    },
+    {
+      "anchor": "figure-iii-c-2",
+      "end_line": 766,
+      "heading": "Figure Iii-C-2.",
+      "level": 2,
+      "start_line": 756
+    },
+    {
+      "anchor": "2-conceptual-engineering-design",
+      "end_line": 788,
+      "heading": "2. Conceptual Engineering Design",
+      "level": 1,
+      "start_line": 767
+    },
+    {
+      "anchor": "e-section-iii-references",
+      "end_line": 796,
+      "heading": "E. Section Iii References",
+      "level": 2,
+      "start_line": 789
+    },
+    {
+      "anchor": "a-fuel-forms",
+      "end_line": 848,
+      "heading": "A. FUEL FORMS",
+      "level": 1,
+      "start_line": 797
+    },
+    {
+      "anchor": "b-tritium-breeding-material-candidates",
+      "end_line": 886,
+      "heading": "B. TRITIUM BREEDING MATERIAL CANDIDATES",
+      "level": 1,
+      "start_line": 849
+    },
+    {
+      "anchor": "c-coolants",
+      "end_line": 927,
+      "heading": "C. COOLANTS",
+      "level": 1,
+      "start_line": 887
+    },
+    {
+      "anchor": "d-heat-transfer-fluid-flow",
+      "end_line": 937,
+      "heading": "D. HEAT TRANSFER - FLUID FLOW",
+      "level": 1,
+      "start_line": 928
+    },
+    {
+      "anchor": "e-structural-design",
+      "end_line": 947,
+      "heading": "E. STRUCTURAL DESIGN",
+      "level": 1,
+      "start_line": 938
+    },
+    {
+      "anchor": "materials-properties",
+      "end_line": 955,
+      "heading": "- Materials Properties",
+      "level": 1,
+      "start_line": 948
+    },
+    {
+      "anchor": "structural-layout",
+      "end_line": 969,
+      "heading": "Structural Layout",
+      "level": 1,
+      "start_line": 956
+    },
+    {
+      "anchor": "figure-iv-e-2",
+      "end_line": 975,
+      "heading": "Figure Iv-E-2.",
+      "level": 2,
+      "start_line": 970
+    },
+    {
+      "anchor": "figure-iv-e-4",
+      "end_line": 991,
+      "heading": "Figure Iv-E-4.",
+      "level": 2,
+      "start_line": 976
+    },
+    {
+      "anchor": "f-mechanical-and-thermal-hydraulic-data",
+      "end_line": 1019,
+      "heading": "F. MECHANICAL AND THERMAL HYDRAULIC DATA",
+      "level": 1,
+      "start_line": 992
+    },
+    {
+      "anchor": "g-remote-disassembly-and-maintenance",
+      "end_line": 1074,
+      "heading": "G. REMOTE DISASSEMBLY AND MAINTENANCE",
+      "level": 1,
+      "start_line": 1020
+    },
+    {
+      "anchor": "h-section-iv-references",
+      "end_line": 1081,
+      "heading": "H. Section Iv References",
+      "level": 2,
+      "start_line": 1075
+    },
+    {
+      "anchor": "v-neutronics",
+      "end_line": 1083,
+      "heading": "V. NEUTRONICS",
+      "level": 1,
+      "start_line": 1082
+    },
+    {
+      "anchor": "a-computational-methodology",
+      "end_line": 1141,
+      "heading": "A. COMPUTATIONAL METHODOLOGY",
+      "level": 1,
+      "start_line": 1084
+    },
+    {
+      "anchor": "b-nuclear-data",
+      "end_line": 1153,
+      "heading": "B. NUCLEAR DATA",
+      "level": 1,
+      "start_line": 1142
+    },
+    {
+      "anchor": "c-fissile-fuel-breeding",
+      "end_line": 1192,
+      "heading": "C. FISSILE FUEL BREEDING",
+      "level": 1,
+      "start_line": 1154
+    },
+    {
+      "anchor": "d-tritium-breeding",
+      "end_line": 1202,
+      "heading": "D. TRITIUM BREEDING",
+      "level": 1,
+      "start_line": 1193
+    },
+    {
+      "anchor": "e-burnup-and-isotopics",
+      "end_line": 1214,
+      "heading": "E. BURNUP AND ISOTOPICS",
+      "level": 1,
+      "start_line": 1203
+    },
+    {
+      "anchor": "f-fissile-fuel-and-power-production",
+      "end_line": 1257,
+      "heading": "F. FISSILE FUEL AND POWER PRODUCTION",
+      "level": 1,
+      "start_line": 1215
+    },
+    {
+      "anchor": "g-section-v-references",
+      "end_line": 1267,
+      "heading": "G. Section V References",
+      "level": 2,
+      "start_line": 1258
+    },
+    {
+      "anchor": "vi-conceptual-plant-design",
+      "end_line": 1271,
+      "heading": "VI. CONCEPTUAL PLANT DESIGN",
+      "level": 1,
+      "start_line": 1268
+    },
+    {
+      "anchor": "a-plant-layout",
+      "end_line": 1273,
+      "heading": "A. PLANT LAYOUT",
+      "level": 1,
+      "start_line": 1272
+    },
+    {
+      "anchor": "1-tokamak-hybrid-reactor",
+      "end_line": 1279,
+      "heading": "1. Tokamak Hybrid Reactor",
+      "level": 1,
+      "start_line": 1274
+    },
+    {
+      "anchor": "2-mirror-hybrid-reactor",
+      "end_line": 1304,
+      "heading": "2. Mirror Hybrid Reactor",
+      "level": 1,
+      "start_line": 1280
+    },
+    {
+      "anchor": "3-laser-hybrid-reactor",
+      "end_line": 1309,
+      "heading": "3. Laser Hybrid Reactor",
+      "level": 1,
+      "start_line": 1305
+    },
+    {
+      "anchor": "note-duct-diameters-shown-in-meters",
+      "end_line": 1318,
+      "heading": "Note: Duct Diameters Shown In Meters ( )",
+      "level": 2,
+      "start_line": 1310
+    },
+    {
+      "anchor": "4-linear-theta-pinch-hybrid-reactor",
+      "end_line": 1322,
+      "heading": "4. Linear Theta-Pinch Hybrid Reactor",
+      "level": 1,
+      "start_line": 1319
+    },
+    {
+      "anchor": "b-power-analysis",
+      "end_line": 1371,
+      "heading": "B. POWER ANALYSIS",
+      "level": 1,
+      "start_line": 1323
+    },
+    {
+      "anchor": "c-section-vi-references",
+      "end_line": 1384,
+      "heading": "C. SECTION VI REFERENCES",
+      "level": 2,
+      "start_line": 1372
+    },
+    {
+      "anchor": "a-fueling-alternatives",
+      "end_line": 1398,
+      "heading": "A. FUELING ALTERNATIVES",
+      "level": 1,
+      "start_line": 1385
+    },
+    {
+      "anchor": "1-no-reprocessing",
+      "end_line": 1421,
+      "heading": "1. No-Reprocessing",
+      "level": 1,
+      "start_line": 1399
+    },
+    {
+      "anchor": "9-11a",
+      "end_line": 1426,
+      "heading": "9-11A",
+      "level": 2,
+      "start_line": 1422
+    },
+    {
+      "anchor": "2-reprocessing-and-recycle-of-fissile-materials",
+      "end_line": 1448,
+      "heading": "2. Reprocessing and Recycle of Fissile Materials",
+      "level": 1,
+      "start_line": 1427
+    },
+    {
+      "anchor": "b-plutonium-recovery-and-recycle",
+      "end_line": 1457,
+      "heading": "b. Plutonium Recovery and Recycle",
+      "level": 1,
+      "start_line": 1449
+    },
+    {
+      "anchor": "vii-10",
+      "end_line": 1469,
+      "heading": "Vii-10",
+      "level": 2,
+      "start_line": 1458
+    },
+    {
+      "anchor": "b-fuel-management-strategies",
+      "end_line": 1473,
+      "heading": "B. FUEL MANAGEMENT STRATEGIES",
+      "level": 1,
+      "start_line": 1470
+    },
+    {
+      "anchor": "1-tokamak-hybrid-reactor",
+      "end_line": 1517,
+      "heading": "1. Tokamak Hybrid Reactor",
+      "level": 1,
+      "start_line": 1474
+    },
+    {
+      "anchor": "table-vii-b-4-once-through-and-pu-recycle-fuel-charge-data",
+      "end_line": 1519,
+      "heading": "TABLE VII-B-4. Once-Through and Pu-Recycle Fuel Charge Data",
+      "level": 1,
+      "start_line": 1518
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1527,
+      "heading": "FUEL MANAGEMENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 1520
+    },
+    {
+      "anchor": "table-vii-b-5-once-through-and-pu-recycle-fuel-discharge-data",
+      "end_line": 1529,
+      "heading": "TABLE VII-B-5. Once-Through and Pu-Recycle Fuel Discharge Data",
+      "level": 1,
+      "start_line": 1528
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1541,
+      "heading": "FUEL MANAGEMENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 1530
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1578,
+      "heading": "FUEL MANAGEMENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 1542
+    },
+    {
+      "anchor": "b-pu-recycle-to-thermal-reactor",
+      "end_line": 1589,
+      "heading": "b. Pu-Recycle to Thermal Reactor",
+      "level": 1,
+      "start_line": 1579
+    },
+    {
+      "anchor": "c-pu-catalyst-fuel-cycle",
+      "end_line": 1596,
+      "heading": "c. Pu Catalyst Fuel Cycle",
+      "level": 1,
+      "start_line": 1590
+    },
+    {
+      "anchor": "d-refresh-fuel-cycle",
+      "end_line": 1611,
+      "heading": "d. Refresh Fuel Cycle",
+      "level": 1,
+      "start_line": 1597
+    },
+    {
+      "anchor": "2-mirror-hybrid-reactor",
+      "end_line": 1625,
+      "heading": "2. Mirror Hybrid Reactor",
+      "level": 1,
+      "start_line": 1612
+    },
+    {
+      "anchor": "a-laser-hybrid-reactor",
+      "end_line": 1645,
+      "heading": "a. Laser Hybrid Reactor",
+      "level": 1,
+      "start_line": 1626
+    },
+    {
+      "anchor": "b-theta-pinch-hybrid-reactor",
+      "end_line": 1649,
+      "heading": "b. Theta-Pinch Hybrid Reactor",
+      "level": 1,
+      "start_line": 1646
+    },
+    {
+      "anchor": "table-vii-b-10-pu-recycle-fuel-charge-data",
+      "end_line": 1651,
+      "heading": "TABLE VII-B-10. Pu-Recycle Fuel Charge Data",
+      "level": 1,
+      "start_line": 1650
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1659,
+      "heading": "FUEL MANAGEMENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 1652
+    },
+    {
+      "anchor": "table-vii-b-11-pu-recycle-fuel-discharge-data",
+      "end_line": 1661,
+      "heading": "TABLE VII-B-11. Pu-Recycle Fuel Discharge Data",
+      "level": 1,
+      "start_line": 1660
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1674,
+      "heading": "FUEL MANAGEMENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 1662
+    },
+    {
+      "anchor": "table-vii-b-12-pu-catalyst-fuel-charge-data",
+      "end_line": 1676,
+      "heading": "TABLE VII-B-12. Pu-Catalyst Fuel Charge Data",
+      "level": 1,
+      "start_line": 1675
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1698,
+      "heading": "FUEL MANAGEMENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 1677
+    },
+    {
+      "anchor": "table-vii-b-14-once-through-and-pu-recycle-fuel-charge-data",
+      "end_line": 1700,
+      "heading": "TABLE VII-B-14. Once-Through and Pu-Recycle Fuel Charge Data",
+      "level": 1,
+      "start_line": 1699
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1710,
+      "heading": "FUEL MANAGEMENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 1701
+    },
+    {
+      "anchor": "table-vii-b-15-once-through-and-pu-recycle-fuel-discharge-data",
+      "end_line": 1712,
+      "heading": "TABLE VII-B-15. Once-Through and Pu-Recycle Fuel Discharge Data",
+      "level": 1,
+      "start_line": 1711
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1722,
+      "heading": "Fuel Management Characteristics",
+      "level": 2,
+      "start_line": 1713
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1751,
+      "heading": "FUEL MANAGEMENT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 1723
+    },
+    {
+      "anchor": "c-facility-requirements",
+      "end_line": 1755,
+      "heading": "C. FACILITY REQUIREMENTS",
+      "level": 1,
+      "start_line": 1752
+    },
+    {
+      "anchor": "1-fuel-fabrication-mainline-process-description",
+      "end_line": 1765,
+      "heading": "1. Fuel Fabrication - Mainline Process Description",
+      "level": 1,
+      "start_line": 1756
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1777,
+      "heading": "Fuel Management Characteristics",
+      "level": 2,
+      "start_line": 1766
+    },
+    {
+      "anchor": "table-vii-b-20-once-through-and-pu-recycle-fuel-discharge-data",
+      "end_line": 1779,
+      "heading": "TABLE VII-B-20. Once-Through and Pu-Recycle Fuel Discharge Data",
+      "level": 1,
+      "start_line": 1778
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1788,
+      "heading": "Fuel Management Characteristics",
+      "level": 2,
+      "start_line": 1780
+    },
+    {
+      "anchor": "fuel-management-characteristics",
+      "end_line": 1806,
+      "heading": "Fuel Management Characteristics",
+      "level": 2,
+      "start_line": 1789
+    },
+    {
+      "anchor": "description-of-process-steps",
+      "end_line": 1820,
+      "heading": "Description of Process Steps",
+      "level": 1,
+      "start_line": 1807
+    },
+    {
+      "anchor": "rod-loading-and-finishing",
+      "end_line": 1824,
+      "heading": "Rod Loading and Finishing",
+      "level": 1,
+      "start_line": 1821
+    },
+    {
+      "anchor": "module-assembly",
+      "end_line": 1828,
+      "heading": "- Module Assembly",
+      "level": 1,
+      "start_line": 1825
+    },
+    {
+      "anchor": "scrap-recovery",
+      "end_line": 1840,
+      "heading": "- Scrap Recovery",
+      "level": 1,
+      "start_line": 1829
+    },
+    {
+      "anchor": "2-mathrm-uo-2-mathrm-puo-2-fuel-fabrication",
+      "end_line": 1844,
+      "heading": "2. $\\mathrm{UO}_2 / \\mathrm{PuO}_2$ Fuel Fabrication",
+      "level": 1,
+      "start_line": 1841
+    },
+    {
+      "anchor": "3-mathrm-uo-2-mathrm-puo-2-fuel-fabrication-mainline-process-description",
+      "end_line": 1901,
+      "heading": "3. $\\mathrm{UO}_2 / \\mathrm{PuO}_2$ Fuel Fabrication Mainline Process Description",
+      "level": 1,
+      "start_line": 1845
+    },
+    {
+      "anchor": "b-description-of-process-steps",
+      "end_line": 1918,
+      "heading": "b. Description of Process Steps",
+      "level": 1,
+      "start_line": 1902
+    },
+    {
+      "anchor": "first-level",
+      "end_line": 1921,
+      "heading": "First Level",
+      "level": 2,
+      "start_line": 1919
+    },
+    {
+      "anchor": "second-level",
+      "end_line": 1944,
+      "heading": "Second Level",
+      "level": 2,
+      "start_line": 1922
+    },
+    {
+      "anchor": "4-refresh-fuel-cycle-fabrication",
+      "end_line": 1948,
+      "heading": "4. Refresh Fuel Cycle Fabrication",
+      "level": 1,
+      "start_line": 1945
+    },
+    {
+      "anchor": "5-thc-fuel-fabrication",
+      "end_line": 1952,
+      "heading": "5. ThC Fuel Fabrication",
+      "level": 1,
+      "start_line": 1949
+    },
+    {
+      "anchor": "a-chemical-conversion-packaging",
+      "end_line": 1962,
+      "heading": "a. Chemical Conversion/Packaging",
+      "level": 1,
+      "start_line": 1953
+    },
+    {
+      "anchor": "b-pelletizing",
+      "end_line": 1968,
+      "heading": "b. Pelletizing",
+      "level": 1,
+      "start_line": 1963
+    },
+    {
+      "anchor": "6-hybrid-fuel-storage",
+      "end_line": 1972,
+      "heading": "6. Hybrid Fuel Storage",
+      "level": 1,
+      "start_line": 1969
+    },
+    {
+      "anchor": "7-operational-waste-facilities",
+      "end_line": 1976,
+      "heading": "7. Operational Waste Facilities",
+      "level": 1,
+      "start_line": 1973
+    },
+    {
+      "anchor": "8-reprocessing-spent-hybrid-fuel",
+      "end_line": 1994,
+      "heading": "8. Reprocessing - Spent Hybrid Fuel",
+      "level": 1,
+      "start_line": 1977
+    },
+    {
+      "anchor": "spent-module-receiving",
+      "end_line": 1998,
+      "heading": "- Spent Module Receiving",
+      "level": 1,
+      "start_line": 1995
+    },
+    {
+      "anchor": "hybrid-fuel-rod-shearing-and-dissolution",
+      "end_line": 2002,
+      "heading": "- Hybrid Fuel Rod Shearing and Dissolution",
+      "level": 1,
+      "start_line": 1999
+    },
+    {
+      "anchor": "solvent-extraction-partitioning-and-stripping-of-plutonium-and-uranium",
+      "end_line": 2008,
+      "heading": "- Solvent Extraction, Partitioning, and Stripping of Plutonium and Uranium",
+      "level": 1,
+      "start_line": 2003
+    },
+    {
+      "anchor": "second-uranium-solvent-extraction-and-concentration",
+      "end_line": 2012,
+      "heading": "Second Uranium Solvent Extraction and Concentration",
+      "level": 1,
+      "start_line": 2009
+    },
+    {
+      "anchor": "second-plutonium-solvent-extraction",
+      "end_line": 2052,
+      "heading": "Second Plutonium Solvent Extraction",
+      "level": 1,
+      "start_line": 2013
+    },
+    {
+      "anchor": "plutonium-nitrate-conversion",
+      "end_line": 2056,
+      "heading": "- Plutonium Nitrate Conversion",
+      "level": 1,
+      "start_line": 2053
+    },
+    {
+      "anchor": "11-thorex-process-for-u-th-reprocessing-in-the-pu-catalyst-fuel-cycle",
+      "end_line": 2060,
+      "heading": "11. Thorex Process for U/Th Reprocessing in the Pu-Catalyst Fuel Cycle",
+      "level": 1,
+      "start_line": 2057
+    },
+    {
+      "anchor": "12-reprocessing-options",
+      "end_line": 2064,
+      "heading": "12. Reprocessing Options",
+      "level": 1,
+      "start_line": 2061
+    },
+    {
+      "anchor": "process",
+      "end_line": 2123,
+      "heading": "Process",
+      "level": 1,
+      "start_line": 2065
+    },
+    {
+      "anchor": "table-vii-c-3-contd",
+      "end_line": 2164,
+      "heading": "TABLE VII-C-3. (contd)",
+      "level": 1,
+      "start_line": 2124
+    },
+    {
+      "anchor": "233u-0-72",
+      "end_line": 2165,
+      "heading": "233U - 0.72%",
+      "level": 2,
+      "start_line": 2165
+    },
+    {
+      "anchor": "234u-98-2",
+      "end_line": 2190,
+      "heading": "234U - 98.2%",
+      "level": 2,
+      "start_line": 2166
+    },
+    {
+      "anchor": "d-section-vii-references",
+      "end_line": 2205,
+      "heading": "D. Section Vii References",
+      "level": 2,
+      "start_line": 2191
+    },
+    {
+      "anchor": "a-introduction-general-considerations",
+      "end_line": 2217,
+      "heading": "A. INTRODUCTION - GENERAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 2206
+    },
+    {
+      "anchor": "1-the-issue-of-reprocessing",
+      "end_line": 2225,
+      "heading": "1. The Issue of Reprocessing",
+      "level": 1,
+      "start_line": 2218
+    },
+    {
+      "anchor": "2-fusion-fission-reactors-studied",
+      "end_line": 2243,
+      "heading": "2. Fusion-Fission Reactors Studied",
+      "level": 1,
+      "start_line": 2226
+    },
+    {
+      "anchor": "3-fuel-cycle-operations-of-interest-for-non-proliferation",
+      "end_line": 2251,
+      "heading": "3. Fuel Cycle Operations of Interest for Non-Proliferation",
+      "level": 1,
+      "start_line": 2244
+    },
+    {
+      "anchor": "4-standard-of-comparison",
+      "end_line": 2255,
+      "heading": "4. Standard of Comparison",
+      "level": 1,
+      "start_line": 2252
+    },
+    {
+      "anchor": "b-no-reprocessing",
+      "end_line": 2265,
+      "heading": "B. NO REPROCESSING",
+      "level": 1,
+      "start_line": 2256
+    },
+    {
+      "anchor": "c-reprocessing-and-recycling",
+      "end_line": 2269,
+      "heading": "C. REPROCESSING AND RECYCLING",
+      "level": 1,
+      "start_line": 2266
+    },
+    {
+      "anchor": "1-plutonium-recover-and-recycle",
+      "end_line": 2281,
+      "heading": "1. Plutonium Recover and Recycle",
+      "level": 1,
+      "start_line": 2270
+    },
+    {
+      "anchor": "2-denatured-233-mathrm-u-cycle",
+      "end_line": 2287,
+      "heading": "2. Denatured $^{233}\\mathrm{U}$ Cycle",
+      "level": 1,
+      "start_line": 2282
+    },
+    {
+      "anchor": "3-high-gain-mixed-cycle",
+      "end_line": 2295,
+      "heading": "3. High Gain Mixed Cycle",
+      "level": 1,
+      "start_line": 2288
+    },
+    {
+      "anchor": "d-proliferation-resistance-engineering",
+      "end_line": 2297,
+      "heading": "D. PROLIFERATION RESISTANCE ENGINEERING",
+      "level": 1,
+      "start_line": 2296
+    },
+    {
+      "anchor": "1-allowable-activities",
+      "end_line": 2328,
+      "heading": "1. Allowable Activities",
+      "level": 1,
+      "start_line": 2298
+    },
+    {
+      "anchor": "2-proliferation-resistance-effectiveness-evaluation",
+      "end_line": 2336,
+      "heading": "2. Proliferation Resistance Effectiveness Evaluation",
+      "level": 1,
+      "start_line": 2329
+    },
+    {
+      "anchor": "e-references-for-section-viii",
+      "end_line": 2360,
+      "heading": "E. References For Section Viii",
+      "level": 2,
+      "start_line": 2337
+    },
+    {
+      "anchor": "ix-economics",
+      "end_line": 2364,
+      "heading": "IX. ECONOMICS",
+      "level": 1,
+      "start_line": 2361
+    },
+    {
+      "anchor": "a-ground-rules-and-assumptions",
+      "end_line": 2368,
+      "heading": "A. GROUND RULES AND ASSUMPTIONS",
+      "level": 1,
+      "start_line": 2365
+    },
+    {
+      "anchor": "b-capital-investment-costs-hybrid-reactor",
+      "end_line": 2480,
+      "heading": "B. CAPITAL INVESTMENT COSTS (Hybrid Reactor)",
+      "level": 1,
+      "start_line": 2369
+    },
+    {
+      "anchor": "c-blanket-costs",
+      "end_line": 2486,
+      "heading": "C. BLANKET COSTS",
+      "level": 1,
+      "start_line": 2481
+    },
+    {
+      "anchor": "d-annual-operating-and-maintenance-costs-hybrid-reactor",
+      "end_line": 2497,
+      "heading": "D. ANNUAL OPERATING AND MAINTENANCE COSTS (Hybrid Reactor)",
+      "level": 1,
+      "start_line": 2487
+    },
+    {
+      "anchor": "e-fuel-cycle-costs-hybrid-fission-reactor-system",
+      "end_line": 2510,
+      "heading": "E. FUEL CYCLE COSTS (Hybrid/Fission Reactor System)",
+      "level": 1,
+      "start_line": 2498
+    },
+    {
+      "anchor": "f-levelized-energy-costs",
+      "end_line": 2528,
+      "heading": "F. LEVELIZED ENERGY COSTS",
+      "level": 1,
+      "start_line": 2511
+    },
+    {
+      "anchor": "g-fissile-fuel-value-i-e-breakeven-value",
+      "end_line": 2545,
+      "heading": "G. FISSILE FUEL VALUE (i.e., Breakeven Value)",
+      "level": 1,
+      "start_line": 2529
+    },
+    {
+      "anchor": "h-market-penetration",
+      "end_line": 2565,
+      "heading": "H. MARKET PENETRATION",
+      "level": 1,
+      "start_line": 2546
+    },
+    {
+      "anchor": "i-nonproliferation-impact",
+      "end_line": 2569,
+      "heading": "I. NONPROLIFERATION IMPACT",
+      "level": 1,
+      "start_line": 2566
+    },
+    {
+      "anchor": "1-nuclear-center",
+      "end_line": 2594,
+      "heading": "1. Nuclear Center",
+      "level": 1,
+      "start_line": 2570
+    },
+    {
+      "anchor": "2-throw-away-fuel-cycle",
+      "end_line": 2598,
+      "heading": "2. \"Throw Away\" Fuel Cycle",
+      "level": 1,
+      "start_line": 2595
+    },
+    {
+      "anchor": "3-co-processing",
+      "end_line": 2602,
+      "heading": "3. Co-processing",
+      "level": 1,
+      "start_line": 2599
+    },
+    {
+      "anchor": "4-refresh-blanket",
+      "end_line": 2606,
+      "heading": "4. Refresh Blanket",
+      "level": 1,
+      "start_line": 2603
+    },
+    {
+      "anchor": "5-denaturing",
+      "end_line": 2610,
+      "heading": "5. Denaturing",
+      "level": 1,
+      "start_line": 2607
+    },
+    {
+      "anchor": "j-section-ix-references",
+      "end_line": 2632,
+      "heading": "J. SECTION IX REFERENCES",
+      "level": 1,
+      "start_line": 2611
+    },
+    {
+      "anchor": "x-licensing-and-safety",
+      "end_line": 2636,
+      "heading": "X. LICENSING AND SAFETY",
+      "level": 1,
+      "start_line": 2633
+    },
+    {
+      "anchor": "a-generic-discussion-of-the-hybrid-concept",
+      "end_line": 2646,
+      "heading": "A. GENERIC DISCUSSION OF THE HYBRID CONCEPT",
+      "level": 1,
+      "start_line": 2637
+    },
+    {
+      "anchor": "b-generic-safety-and-licensing-issues",
+      "end_line": 2648,
+      "heading": "B. GENERIC SAFETY AND LICENSING ISSUES",
+      "level": 1,
+      "start_line": 2647
+    },
+    {
+      "anchor": "1-radiation-exposure",
+      "end_line": 2652,
+      "heading": "1. Radiation Exposure",
+      "level": 1,
+      "start_line": 2649
+    },
+    {
+      "anchor": "a-tritium",
+      "end_line": 2666,
+      "heading": "a. Tritium",
+      "level": 1,
+      "start_line": 2653
+    },
+    {
+      "anchor": "b-blanket-and-structure-activation",
+      "end_line": 2674,
+      "heading": "b. Blanket and Structure Activation",
+      "level": 1,
+      "start_line": 2667
+    },
+    {
+      "anchor": "c-fission-products-and-actinides",
+      "end_line": 2690,
+      "heading": "c. Fission Products and Actinides",
+      "level": 1,
+      "start_line": 2675
+    },
+    {
+      "anchor": "2-accidents",
+      "end_line": 2702,
+      "heading": "2. Accidents",
+      "level": 1,
+      "start_line": 2691
+    },
+    {
+      "anchor": "a-loca-lofa-accidents",
+      "end_line": 2710,
+      "heading": "a. LOCA/LOFA Accidents",
+      "level": 1,
+      "start_line": 2703
+    },
+    {
+      "anchor": "b-criticality",
+      "end_line": 2726,
+      "heading": "b. Criticality",
+      "level": 1,
+      "start_line": 2711
+    },
+    {
+      "anchor": "c-vacuum-vessel-safety",
+      "end_line": 2732,
+      "heading": "c. Vacuum Vessel Safety",
+      "level": 1,
+      "start_line": 2727
+    },
+    {
+      "anchor": "d-hazardous-materials",
+      "end_line": 2750,
+      "heading": "d. Hazardous Materials",
+      "level": 1,
+      "start_line": 2733
+    },
+    {
+      "anchor": "c-tokamak-hybrid",
+      "end_line": 2752,
+      "heading": "C. TOKAMAK HYBRID",
+      "level": 1,
+      "start_line": 2751
+    },
+    {
+      "anchor": "1-description-of-the-tokamak-hybrid-concept",
+      "end_line": 2768,
+      "heading": "1. Description of the Tokamak Hybrid Concept",
+      "level": 1,
+      "start_line": 2753
+    },
+    {
+      "anchor": "2-safety-and-licensing-issues-for-the-thr",
+      "end_line": 2790,
+      "heading": "2. Safety and Licensing Issues for the THR",
+      "level": 1,
+      "start_line": 2769
+    },
+    {
+      "anchor": "3-liquid-lithium-spills",
+      "end_line": 2812,
+      "heading": "3. Liquid Lithium Spills",
+      "level": 1,
+      "start_line": 2791
+    },
+    {
+      "anchor": "4-magnet-safety",
+      "end_line": 2826,
+      "heading": "4. Magnet Safety",
+      "level": 1,
+      "start_line": 2813
+    },
+    {
+      "anchor": "5-criticality",
+      "end_line": 2836,
+      "heading": "5. Criticality",
+      "level": 1,
+      "start_line": 2827
+    },
+    {
+      "anchor": "6-magnetic-fields",
+      "end_line": 2869,
+      "heading": "6. Magnetic Fields",
+      "level": 1,
+      "start_line": 2837
+    },
+    {
+      "anchor": "7-cryogenics",
+      "end_line": 2877,
+      "heading": "7. Cryogenics",
+      "level": 1,
+      "start_line": 2870
+    },
+    {
+      "anchor": "8-activation-products",
+      "end_line": 2881,
+      "heading": "8. Activation Products",
+      "level": 1,
+      "start_line": 2878
+    },
+    {
+      "anchor": "d-mirror-hybrid",
+      "end_line": 2883,
+      "heading": "D. MIRROR HYBRID",
+      "level": 1,
+      "start_line": 2882
+    },
+    {
+      "anchor": "1-description-of-the-mirror-hybrid-concept",
+      "end_line": 2921,
+      "heading": "1. Description of the Mirror Hybrid Concept",
+      "level": 1,
+      "start_line": 2884
+    },
+    {
+      "anchor": "b-tritium-safety",
+      "end_line": 2931,
+      "heading": "b. Tritium Safety",
+      "level": 1,
+      "start_line": 2922
+    },
+    {
+      "anchor": "c-lithium-safety",
+      "end_line": 2935,
+      "heading": "c. Lithium Safety",
+      "level": 1,
+      "start_line": 2932
+    },
+    {
+      "anchor": "d-magnet-safety",
+      "end_line": 2941,
+      "heading": "d. Magnet Safety",
+      "level": 1,
+      "start_line": 2936
+    },
+    {
+      "anchor": "e-theta-pinch",
+      "end_line": 2943,
+      "heading": "E. THETA PINCH",
+      "level": 1,
+      "start_line": 2942
+    },
+    {
+      "anchor": "1-description-of-the-theta-pinch-hybrid-reactor-concept",
+      "end_line": 2949,
+      "heading": "1. Description of the Theta Pinch Hybrid Reactor Concept",
+      "level": 1,
+      "start_line": 2944
+    },
+    {
+      "anchor": "2-safety-and-licensing-issues-for-the-linear-theta-pinch-hybrid-reactor",
+      "end_line": 2951,
+      "heading": "2. Safety and Licensing Issues for the Linear Theta Pinch Hybrid Reactor",
+      "level": 1,
+      "start_line": 2950
+    },
+    {
+      "anchor": "a-operating-characteristics",
+      "end_line": 2957,
+      "heading": "a. Operating Characteristics",
+      "level": 1,
+      "start_line": 2952
+    },
+    {
+      "anchor": "b-loca-lofa-analysis",
+      "end_line": 2965,
+      "heading": "b. LOCA/LOFA Analysis",
+      "level": 1,
+      "start_line": 2958
+    },
+    {
+      "anchor": "c-coil-safety",
+      "end_line": 2975,
+      "heading": "c. Coil Safety",
+      "level": 1,
+      "start_line": 2966
+    },
+    {
+      "anchor": "f-laser-fusion-hybrid",
+      "end_line": 2977,
+      "heading": "F. LASER FUSION HYBRID",
+      "level": 1,
+      "start_line": 2976
+    },
+    {
+      "anchor": "1-description-of-the-laser-hybrid-reactor-concept",
+      "end_line": 3024,
+      "heading": "1. Description of the Laser Hybrid Reactor Concept",
+      "level": 1,
+      "start_line": 2978
+    },
+    {
+      "anchor": "c-tritium",
+      "end_line": 3030,
+      "heading": "c. Tritium",
+      "level": 1,
+      "start_line": 3025
+    },
+    {
+      "anchor": "d-laser-safety",
+      "end_line": 3044,
+      "heading": "d. Laser Safety",
+      "level": 1,
+      "start_line": 3031
+    },
+    {
+      "anchor": "e-fuel-handling",
+      "end_line": 3050,
+      "heading": "e. Fuel Handling",
+      "level": 1,
+      "start_line": 3045
+    },
+    {
+      "anchor": "g-section-x-references",
+      "end_line": 3060,
+      "heading": "G. SECTION X REFERENCES",
+      "level": 1,
+      "start_line": 3051
+    },
+    {
+      "anchor": "xi-environmental-considerations",
+      "end_line": 3064,
+      "heading": "XI. ENVIRONMENTAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 3061
+    },
+    {
+      "anchor": "a-fusion-fuel-cycle",
+      "end_line": 3066,
+      "heading": "A. FUSION FUEL CYCLE",
+      "level": 1,
+      "start_line": 3065
+    },
+    {
+      "anchor": "1-deuterium-and-lithium",
+      "end_line": 3080,
+      "heading": "1. Deuterium and Lithium",
+      "level": 1,
+      "start_line": 3067
+    },
+    {
+      "anchor": "2-tritium",
+      "end_line": 3103,
+      "heading": "2. Tritium",
+      "level": 1,
+      "start_line": 3081
+    },
+    {
+      "anchor": "3-activation-products",
+      "end_line": 3111,
+      "heading": "3. Activation Products",
+      "level": 1,
+      "start_line": 3104
+    },
+    {
+      "anchor": "b-fission-fuel-cycle",
+      "end_line": 3152,
+      "heading": "B. FISSION FUEL CYCLE",
+      "level": 1,
+      "start_line": 3112
+    },
+    {
+      "anchor": "c-magnetic-fields",
+      "end_line": 3160,
+      "heading": "C. MAGNETIC FIELDS",
+      "level": 1,
+      "start_line": 3153
+    },
+    {
+      "anchor": "d-toxic-laser-gases",
+      "end_line": 3166,
+      "heading": "D. TOXIC LASER GASES",
+      "level": 1,
+      "start_line": 3161
+    },
+    {
+      "anchor": "e-unique-resource-requirement",
+      "end_line": 3180,
+      "heading": "E. UNIQUE RESOURCE REQUIREMENT",
+      "level": 1,
+      "start_line": 3167
+    },
+    {
+      "anchor": "f-section-xi-references",
+      "end_line": 3193,
+      "heading": "F. SECTION XI REFERENCES",
+      "level": 1,
+      "start_line": 3181
+    },
+    {
+      "anchor": "a-significance-of-commercialization-issues",
+      "end_line": 3212,
+      "heading": "A. SIGNIFICANCE OF COMMERCIALIZATION ISSUES",
+      "level": 1,
+      "start_line": 3194
+    },
+    {
+      "anchor": "b-conceptual-model-of-the-commercialization-process",
+      "end_line": 3237,
+      "heading": "B. CONCEPTUAL MODEL OF THE COMMERCIALIZATION PROCESS",
+      "level": 1,
+      "start_line": 3213
+    },
+    {
+      "anchor": "c-characteristics-of-demand",
+      "end_line": 3253,
+      "heading": "C. CHARACTERISTICS OF DEMAND",
+      "level": 1,
+      "start_line": 3238
+    },
+    {
+      "anchor": "d-problems-of-property-rights",
+      "end_line": 3277,
+      "heading": "D. PROBLEMS OF PROPERTY RIGHTS",
+      "level": 1,
+      "start_line": 3254
+    },
+    {
+      "anchor": "e-capacity-to-produce",
+      "end_line": 3295,
+      "heading": "E. CAPACITY TO PRODUCE",
+      "level": 1,
+      "start_line": 3278
+    },
+    {
+      "anchor": "f-product-characteristics",
+      "end_line": 3317,
+      "heading": "F. PRODUCT CHARACTERISTICS",
+      "level": 1,
+      "start_line": 3296
+    },
+    {
+      "anchor": "g-conclusions",
+      "end_line": 3327,
+      "heading": "G. CONCLUSIONS",
+      "level": 1,
+      "start_line": 3318
+    },
+    {
+      "anchor": "h-section-xii-references",
+      "end_line": 3352,
+      "heading": "H. SECTION XII REFERENCES",
+      "level": 1,
+      "start_line": 3328
+    },
+    {
+      "anchor": "a-present-status-of-fusion-physics",
+      "end_line": 3354,
+      "heading": "A. PRESENT STATUS OF FUSION PHYSICS",
+      "level": 1,
+      "start_line": 3353
+    },
+    {
+      "anchor": "1-tokamak",
+      "end_line": 3379,
+      "heading": "1. Tokamak",
+      "level": 1,
+      "start_line": 3355
+    },
+    {
+      "anchor": "2-mirror",
+      "end_line": 3414,
+      "heading": "2. Mirror",
+      "level": 1,
+      "start_line": 3380
+    },
+    {
+      "anchor": "3-linear-theta-pinch",
+      "end_line": 3420,
+      "heading": "3. Linear Theta Pinch",
+      "level": 1,
+      "start_line": 3415
+    },
+    {
+      "anchor": "4-inertial-confinement",
+      "end_line": 3424,
+      "heading": "4. Inertial Confinement",
+      "level": 1,
+      "start_line": 3421
+    },
+    {
+      "anchor": "a-lasers",
+      "end_line": 3442,
+      "heading": "a. Lasers",
+      "level": 1,
+      "start_line": 3425
+    },
+    {
+      "anchor": "b-light-particle-beams",
+      "end_line": 3452,
+      "heading": "b. Light Particle Beams",
+      "level": 1,
+      "start_line": 3443
+    },
+    {
+      "anchor": "c-heavy-ion-beams",
+      "end_line": 3474,
+      "heading": "c. Heavy Ion Beams",
+      "level": 1,
+      "start_line": 3453
+    },
+    {
+      "anchor": "d-fusion-targets",
+      "end_line": 3482,
+      "heading": "d. Fusion Targets",
+      "level": 1,
+      "start_line": 3475
+    },
+    {
+      "anchor": "b-fusion-driver-rd-d-requirements",
+      "end_line": 3484,
+      "heading": "B. FUSION DRIVER RD&D REQUIREMENTS",
+      "level": 1,
+      "start_line": 3483
+    },
+    {
+      "anchor": "1-tokamak",
+      "end_line": 3533,
+      "heading": "1. Tokamak",
+      "level": 1,
+      "start_line": 3485
+    },
+    {
+      "anchor": "2-mirror",
+      "end_line": 3550,
+      "heading": "2. Mirror",
+      "level": 1,
+      "start_line": 3534
+    },
+    {
+      "anchor": "3-linear-theta-pinch",
+      "end_line": 3556,
+      "heading": "3. Linear Theta-Pinch",
+      "level": 1,
+      "start_line": 3551
+    },
+    {
+      "anchor": "4-inertial-confinement",
+      "end_line": 3560,
+      "heading": "4. Inertial Confinement",
+      "level": 1,
+      "start_line": 3557
+    },
+    {
+      "anchor": "a-lasers",
+      "end_line": 3600,
+      "heading": "a. Lasers",
+      "level": 1,
+      "start_line": 3561
+    },
+    {
+      "anchor": "b-light-particle-beam",
+      "end_line": 3626,
+      "heading": "b. Light Particle Beam",
+      "level": 1,
+      "start_line": 3601
+    },
+    {
+      "anchor": "c-heavy-ions",
+      "end_line": 3636,
+      "heading": "c. Heavy Ions",
+      "level": 1,
+      "start_line": 3627
+    },
+    {
+      "anchor": "d-icf-fusion-targets",
+      "end_line": 3642,
+      "heading": "d. ICF Fusion Targets",
+      "level": 1,
+      "start_line": 3637
+    },
+    {
+      "anchor": "5-icf-r-d-facilities",
+      "end_line": 3655,
+      "heading": "5. ICF R&D Facilities",
+      "level": 1,
+      "start_line": 3643
+    },
+    {
+      "anchor": "c-present-status-of-blanket-engineering",
+      "end_line": 3657,
+      "heading": "C. PRESENT STATUS OF BLANKET ENGINEERING",
+      "level": 1,
+      "start_line": 3656
+    },
+    {
+      "anchor": "1-neutronics-design",
+      "end_line": 3661,
+      "heading": "1. Neutronics Design",
+      "level": 1,
+      "start_line": 3658
+    },
+    {
+      "anchor": "a-nuclear-data",
+      "end_line": 3665,
+      "heading": "a. Nuclear Data",
+      "level": 1,
+      "start_line": 3662
+    },
+    {
+      "anchor": "b-calculational-analysis",
+      "end_line": 3671,
+      "heading": "b. Calculational Analysis",
+      "level": 1,
+      "start_line": 3666
+    },
+    {
+      "anchor": "c-experiments",
+      "end_line": 3675,
+      "heading": "c. Experiments",
+      "level": 1,
+      "start_line": 3672
+    },
+    {
+      "anchor": "2-thermal-and-mechanical-design",
+      "end_line": 3679,
+      "heading": "2. Thermal and Mechanical Design",
+      "level": 1,
+      "start_line": 3676
+    },
+    {
+      "anchor": "a-fuel-form",
+      "end_line": 3683,
+      "heading": "a. Fuel Form",
+      "level": 1,
+      "start_line": 3680
+    },
+    {
+      "anchor": "b-blanket-coolants",
+      "end_line": 3722,
+      "heading": "b. Blanket Coolants",
+      "level": 1,
+      "start_line": 3684
+    },
+    {
+      "anchor": "c-design-analysis",
+      "end_line": 3730,
+      "heading": "c. Design Analysis",
+      "level": 1,
+      "start_line": 3723
+    },
+    {
+      "anchor": "d-blanket-rd-d-requirements",
+      "end_line": 3732,
+      "heading": "D. BLANKET_RD&D REQUIREMENTS",
+      "level": 1,
+      "start_line": 3731
+    },
+    {
+      "anchor": "1-fission",
+      "end_line": 3740,
+      "heading": "1. Fission",
+      "level": 1,
+      "start_line": 3733
+    },
+    {
+      "anchor": "2-neutronics",
+      "end_line": 3754,
+      "heading": "2. Neutronics",
+      "level": 1,
+      "start_line": 3741
+    },
+    {
+      "anchor": "1-program",
+      "end_line": 3775,
+      "heading": "1. Program",
+      "level": 1,
+      "start_line": 3755
+    },
+    {
+      "anchor": "a-prototype-hybrid-reactor",
+      "end_line": 3779,
+      "heading": "a. Prototype Hybrid Reactor",
+      "level": 1,
+      "start_line": 3776
+    },
+    {
+      "anchor": "b-hybrid-blanket",
+      "end_line": 3783,
+      "heading": "b. Hybrid Blanket",
+      "level": 1,
+      "start_line": 3780
+    },
+    {
+      "anchor": "2-facilities",
+      "end_line": 3785,
+      "heading": "2. Facilities",
+      "level": 1,
+      "start_line": 3784
+    },
+    {
+      "anchor": "a-magnetic-fusion",
+      "end_line": 3791,
+      "heading": "a. Magnetic Fusion",
+      "level": 1,
+      "start_line": 3786
+    },
+    {
+      "anchor": "b-inertial",
+      "end_line": 3797,
+      "heading": "b. Inertial",
+      "level": 1,
+      "start_line": 3792
+    },
+    {
+      "anchor": "3-funding-requirements",
+      "end_line": 3807,
+      "heading": "3. Funding Requirements",
+      "level": 1,
+      "start_line": 3798
+    },
+    {
+      "anchor": "f-section-xiii-references",
+      "end_line": 3815,
+      "heading": "F. Section Xiii References",
+      "level": 2,
+      "start_line": 3808
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 3817,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 3816
+    },
+    {
+      "anchor": "capital-investment-cost-estimates",
+      "end_line": 3904,
+      "heading": "CAPITAL INVESTMENT COST ESTIMATES",
+      "level": 1,
+      "start_line": 3818
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 3906,
+      "heading": "Appendix B",
+      "level": 2,
+      "start_line": 3905
+    },
+    {
+      "anchor": "levelized-energy-cost-estimates",
+      "end_line": 3908,
+      "heading": "Levelized Energy Cost Estimates",
+      "level": 2,
+      "start_line": 3907
+    },
+    {
+      "anchor": "laser-once-through-fuel-cycle-costs-nasap-hpqid",
+      "end_line": 3915,
+      "heading": "Laser Once Through Fuel Cycle Costs - Nasap/Hpqid",
+      "level": 2,
+      "start_line": 3909
+    },
+    {
+      "anchor": "total-cost-51-96",
+      "end_line": 3917,
+      "heading": "Total Cost 51.96",
+      "level": 2,
+      "start_line": 3916
+    },
+    {
+      "anchor": "laser",
+      "end_line": 3919,
+      "heading": "Laser",
+      "level": 2,
+      "start_line": 3918
+    },
+    {
+      "anchor": "fuel-cycle-costs-nasap-yhptu",
+      "end_line": 3921,
+      "heading": "Fuel Cycle Costs - Nasap/ Yhptu",
+      "level": 2,
+      "start_line": 3920
+    },
+    {
+      "anchor": "capital-investment-cost",
+      "end_line": 3923,
+      "heading": "Capital Investment Cost",
+      "level": 2,
+      "start_line": 3922
+    },
+    {
+      "anchor": "hybwin-capital-investment-cost",
+      "end_line": 3925,
+      "heading": "Hybwin Capital Investment Cost",
+      "level": 2,
+      "start_line": 3924
+    },
+    {
+      "anchor": "lwk-capital-investment-cost",
+      "end_line": 3927,
+      "heading": "Lwk Capital Investment Cost",
+      "level": 2,
+      "start_line": 3926
+    },
+    {
+      "anchor": "operating-and-maintenance-cost",
+      "end_line": 3929,
+      "heading": "Operating And Maintenance Cost",
+      "level": 2,
+      "start_line": 3928
+    },
+    {
+      "anchor": "hyrpin-operating-and-maintennfnc-cost",
+      "end_line": 3931,
+      "heading": "Hyrpin Operating And Maintennfnc Cost",
+      "level": 2,
+      "start_line": 3930
+    },
+    {
+      "anchor": "lwr-operating-and-maintfnance-cost",
+      "end_line": 3933,
+      "heading": "Lwr Operating And Maintfnance Cost",
+      "level": 2,
+      "start_line": 3932
+    },
+    {
+      "anchor": "fuel-cycle-activity-costs",
+      "end_line": 3935,
+      "heading": "Fuel Cycle Activity Costs",
+      "level": 2,
+      "start_line": 3934
+    },
+    {
+      "anchor": "pur-intl-alkt-ic",
+      "end_line": 3937,
+      "heading": "Pur Intl Alkt Ic",
+      "level": 2,
+      "start_line": 3936
+    },
+    {
+      "anchor": "pur-yply-hlkt-uc",
+      "end_line": 3939,
+      "heading": "Pur Yply Hlkt Uc",
+      "level": 2,
+      "start_line": 3938
+    },
+    {
+      "anchor": "pur-intl-hlkt-fah",
+      "end_line": 3941,
+      "heading": "Pur Intl Hlkt Fah",
+      "level": 2,
+      "start_line": 3940
+    },
+    {
+      "anchor": "pur-yrly-alkt-fah",
+      "end_line": 3943,
+      "heading": "Pur Yrly Alkt Fah",
+      "level": 2,
+      "start_line": 3942
+    },
+    {
+      "anchor": "pur-intplk31ss",
+      "end_line": 3945,
+      "heading": "Pur Intplk31Ss",
+      "level": 2,
+      "start_line": 3944
+    },
+    {
+      "anchor": "pur-yrly-hlkt-31655",
+      "end_line": 3947,
+      "heading": "Pur Yrly Hlkt 31655",
+      "level": 2,
+      "start_line": 3946
+    },
+    {
+      "anchor": "pur-int-tritium",
+      "end_line": 3949,
+      "heading": "Pur Int Tritium",
+      "level": 2,
+      "start_line": 3948
+    },
+    {
+      "anchor": "puryplydfilter",
+      "end_line": 3951,
+      "heading": "Puryplydfilter",
+      "level": 2,
+      "start_line": 3950
+    },
+    {
+      "anchor": "pir-inti-lithiim",
+      "end_line": 3953,
+      "heading": "Pir Inti Lithiim",
+      "level": 2,
+      "start_line": 3952
+    },
+    {
+      "anchor": "shpg-hyhspnt-fuiy-yhly",
+      "end_line": 3955,
+      "heading": "Shpg Hyhspnt Fuiy Yhly",
+      "level": 2,
+      "start_line": 3954
+    },
+    {
+      "anchor": "repro-yryyhydoutput",
+      "end_line": 3957,
+      "heading": "Repro Yryyhydoutput",
+      "level": 2,
+      "start_line": 3956
+    },
+    {
+      "anchor": "disp-hyd-repro-wstf",
+      "end_line": 3959,
+      "heading": "Disp Hyd Repro Wstf",
+      "level": 2,
+      "start_line": 3958
+    },
+    {
+      "anchor": "pir-ypli-wri-kiiip",
+      "end_line": 3961,
+      "heading": "Pir Ypli Wri Kiiip",
+      "level": 2,
+      "start_line": 3960
+    },
+    {
+      "anchor": "wrr-yoy-lwr-pii-kjdp",
+      "end_line": 3963,
+      "heading": "Wrr Yoy Lwr Pii \"Kjdp",
+      "level": 2,
+      "start_line": 3962
+    },
+    {
+      "anchor": "pir-yhly-lwk-pi-mkijd",
+      "end_line": 3965,
+      "heading": "Pir Yhly Lwk Pi Mkijd",
+      "level": 2,
+      "start_line": 3964
+    },
+    {
+      "anchor": "pur-yrly-lwr-pu-mkiup",
+      "end_line": 3967,
+      "heading": "Pur Yrly Lwr Pu Mkiup",
+      "level": 2,
+      "start_line": 3966
+    },
+    {
+      "anchor": "pih-ypiy-lwr-fuifl",
+      "end_line": 3969,
+      "heading": "Pih Ypiy Lwr Fuifl",
+      "level": 2,
+      "start_line": 3968
+    },
+    {
+      "anchor": "pur-yriy-lwr-fptl-fuei",
+      "end_line": 3971,
+      "heading": "Pur Yriy Lwr Fptl Fuei",
+      "level": 2,
+      "start_line": 3970
+    },
+    {
+      "anchor": "repro-yhly-lwr-butput",
+      "end_line": 3973,
+      "heading": "Repro Yhly Lwr (Butput)",
+      "level": 2,
+      "start_line": 3972
+    },
+    {
+      "anchor": "shpgi-wprspntfuelly",
+      "end_line": 3977,
+      "heading": "Shpgi Wprspntfuelly",
+      "level": 2,
+      "start_line": 3974
+    },
+    {
+      "anchor": "ifueiized-rushar-energy-cost",
+      "end_line": 3979,
+      "heading": "Ifueiized Rushar Energy Cost",
+      "level": 2,
+      "start_line": 3978
+    },
+    {
+      "anchor": "millslkwh-1978dollars",
+      "end_line": 3981,
+      "heading": "Millslkwh (1978Dollars)",
+      "level": 2,
+      "start_line": 3980
+    },
+    {
+      "anchor": "14-9a",
+      "end_line": 4037,
+      "heading": "14.9A",
+      "level": 2,
+      "start_line": 3982
+    },
+    {
+      "anchor": "t01a-c0c",
+      "end_line": 4039,
+      "heading": "T01A C0C",
+      "level": 2,
+      "start_line": 4038
+    },
+    {
+      "anchor": "laser-u-pul-catalyst-fuel-cycle-costs-nasap-yyhio",
+      "end_line": 4045,
+      "heading": "Laser U - Pul Catalyst Fuel Cycle Costs - Nasap/Yyhio",
+      "level": 2,
+      "start_line": 4040
+    },
+    {
+      "anchor": "total-cost-17-39",
+      "end_line": 4047,
+      "heading": "Total Cost 17.39",
+      "level": 2,
+      "start_line": 4046
+    },
+    {
+      "anchor": "mirror",
+      "end_line": 4049,
+      "heading": "Mirror",
+      "level": 2,
+      "start_line": 4048
+    },
+    {
+      "anchor": "fuel-cycle-costs-nasap-hyhpin",
+      "end_line": 4051,
+      "heading": "Fuel Cycle Costs - Nasap/Hyhpin",
+      "level": 2,
+      "start_line": 4050
+    },
+    {
+      "anchor": "capital-investment-cost",
+      "end_line": 4053,
+      "heading": "Capital Investment Cost",
+      "level": 2,
+      "start_line": 4052
+    },
+    {
+      "anchor": "hybrid-capital-investment-cost",
+      "end_line": 4055,
+      "heading": "Hybrid Capital Investment Cost",
+      "level": 2,
+      "start_line": 4054
+    },
+    {
+      "anchor": "lwk-capital-investment-cost",
+      "end_line": 4057,
+      "heading": "Lwk Capital Investment Cost",
+      "level": 2,
+      "start_line": 4056
+    },
+    {
+      "anchor": "operating-and-maintenance-cost",
+      "end_line": 4059,
+      "heading": "Operating And Maintenance Cost",
+      "level": 2,
+      "start_line": 4058
+    },
+    {
+      "anchor": "hybrid-operating-and-maintennfncf-cost",
+      "end_line": 4061,
+      "heading": "Hybrid Operating And Maintennfncf Cost",
+      "level": 2,
+      "start_line": 4060
+    },
+    {
+      "anchor": "lwr-operating-and-maintenence-cost",
+      "end_line": 4063,
+      "heading": "Lwr (Operating And) Maintenence Cost",
+      "level": 2,
+      "start_line": 4062
+    },
+    {
+      "anchor": "fuel-cycle-activity-costs",
+      "end_line": 4065,
+      "heading": "Fuel Cycle Activity Costs",
+      "level": 2,
+      "start_line": 4064
+    },
+    {
+      "anchor": "pur-intl-hlkt-ic",
+      "end_line": 4067,
+      "heading": "Pur Intl Hlkt Ic",
+      "level": 2,
+      "start_line": 4066
+    },
+    {
+      "anchor": "pur-yply-hkt-u",
+      "end_line": 4069,
+      "heading": "Pur Yply Hkt U",
+      "level": 2,
+      "start_line": 4068
+    },
+    {
+      "anchor": "pur-intl-hlkt-fah",
+      "end_line": 4071,
+      "heading": "Pur Intl Hlkt Fah",
+      "level": 2,
+      "start_line": 4070
+    },
+    {
+      "anchor": "pur-yriy-alkt-fah",
+      "end_line": 4073,
+      "heading": "Pur Yriy Alkt Fah",
+      "level": 2,
+      "start_line": 4072
+    },
+    {
+      "anchor": "pur-intl-blkt-316ss",
+      "end_line": 4077,
+      "heading": "Pur Intl Blkt 316Ss",
+      "level": 2,
+      "start_line": 4074
+    },
+    {
+      "anchor": "pur-intl-tritium",
+      "end_line": 4079,
+      "heading": "Pur Intl Tritium",
+      "level": 2,
+      "start_line": 4078
+    },
+    {
+      "anchor": "purylydefuterjim",
+      "end_line": 4081,
+      "heading": "Purylydefuterjim",
+      "level": 2,
+      "start_line": 4080
+    },
+    {
+      "anchor": "pur-intl-lithium",
+      "end_line": 4083,
+      "heading": "Pur Intl Lithium",
+      "level": 2,
+      "start_line": 4082
+    },
+    {
+      "anchor": "shpghyndspntfuefly",
+      "end_line": 4085,
+      "heading": "Shpghyndspntfuefly",
+      "level": 2,
+      "start_line": 4084
+    },
+    {
+      "anchor": "disp-hyan-spnt-fuel-yhly",
+      "end_line": 4087,
+      "heading": "Disp Hyan Spnt Fuel Yhly",
+      "level": 2,
+      "start_line": 4086
+    },
+    {
+      "anchor": "ifvelized-rushar-energy-cost",
+      "end_line": 4089,
+      "heading": "Ifvelized Rushar Energy Cost",
+      "level": 2,
+      "start_line": 4088
+    },
+    {
+      "anchor": "mills-kwh-1974-dollars",
+      "end_line": 4107,
+      "heading": "Mills/Kwh (1974 Dollars)",
+      "level": 2,
+      "start_line": 4090
+    },
+    {
+      "anchor": "a-93",
+      "end_line": 4115,
+      "heading": "A.93",
+      "level": 2,
+      "start_line": 4108
+    },
+    {
+      "anchor": "a-63",
+      "end_line": 4127,
+      "heading": "A.63",
+      "level": 2,
+      "start_line": 4116
+    },
+    {
+      "anchor": "total-cost-405-13",
+      "end_line": 4129,
+      "heading": "Total Cost 405.13",
+      "level": 2,
+      "start_line": 4128
+    },
+    {
+      "anchor": "capital-investment-cost",
+      "end_line": 4131,
+      "heading": "Capital Investment Cost",
+      "level": 2,
+      "start_line": 4130
+    },
+    {
+      "anchor": "hybrid-capital-investment-cost",
+      "end_line": 4133,
+      "heading": "Hybrid Capital Investment Cost",
+      "level": 2,
+      "start_line": 4132
+    },
+    {
+      "anchor": "iwr-capital-investment-cost",
+      "end_line": 4135,
+      "heading": "Iwr Capital Investment Cost",
+      "level": 2,
+      "start_line": 4134
+    },
+    {
+      "anchor": "operating-and-maintenance-cost",
+      "end_line": 4137,
+      "heading": "Operating And Maintenance Cost",
+      "level": 2,
+      "start_line": 4136
+    },
+    {
+      "anchor": "hybrid-operating-and-maintenence-cost",
+      "end_line": 4139,
+      "heading": "Hybrid Operating And Maintenence Cost",
+      "level": 2,
+      "start_line": 4138
+    },
+    {
+      "anchor": "iwr-operating-and-maintenence-cost",
+      "end_line": 4141,
+      "heading": "Iwr Operating And Maintenence Cost",
+      "level": 2,
+      "start_line": 4140
+    },
+    {
+      "anchor": "fuel-cycle-activity-costs",
+      "end_line": 4143,
+      "heading": "Fuel Cycle Activity Costs",
+      "level": 2,
+      "start_line": 4142
+    },
+    {
+      "anchor": "pur-intl-blktuc",
+      "end_line": 4145,
+      "heading": "Pur Intl Blktuc",
+      "level": 2,
+      "start_line": 4144
+    },
+    {
+      "anchor": "pur-yoly-rlktuc",
+      "end_line": 4147,
+      "heading": "Pur Yoly Rlktuc",
+      "level": 2,
+      "start_line": 4146
+    },
+    {
+      "anchor": "pur-intl-blkt-fan",
+      "end_line": 4149,
+      "heading": "Pur Intl Blkt Fan",
+      "level": 2,
+      "start_line": 4148
+    },
+    {
+      "anchor": "pur-yrly-blkt-fah",
+      "end_line": 4151,
+      "heading": "Pur Yrly Blkt Fah",
+      "level": 2,
+      "start_line": 4150
+    },
+    {
+      "anchor": "pur-intl-rlkt-316ss",
+      "end_line": 4153,
+      "heading": "Pur Intl Rlkt 316Ss",
+      "level": 2,
+      "start_line": 4152
+    },
+    {
+      "anchor": "pir-yply-blkt-316ss",
+      "end_line": 4155,
+      "heading": "Pir Yply Blkt 316Ss",
+      "level": 2,
+      "start_line": 4154
+    },
+    {
+      "anchor": "pur-intl-tritium",
+      "end_line": 4157,
+      "heading": "Pur Intl Tritium",
+      "level": 2,
+      "start_line": 4156
+    },
+    {
+      "anchor": "puryly-deuterjum",
+      "end_line": 4159,
+      "heading": "Puryly Deuterjum",
+      "level": 2,
+      "start_line": 4158
+    },
+    {
+      "anchor": "pur-intl-lithium",
+      "end_line": 4161,
+      "heading": "Pur Intl Lithium",
+      "level": 2,
+      "start_line": 4160
+    },
+    {
+      "anchor": "shpg-hybspnt-fuel-vply",
+      "end_line": 4163,
+      "heading": "Shpg Hybspnt Fuel Vply",
+      "level": 2,
+      "start_line": 4162
+    },
+    {
+      "anchor": "repro-yrly-hyad-output",
+      "end_line": 4165,
+      "heading": "Repro Yrly Hyad Output",
+      "level": 2,
+      "start_line": 4164
+    },
+    {
+      "anchor": "disp-hyad-repro-wste",
+      "end_line": 4167,
+      "heading": "Disp Hyad Repro Wste",
+      "level": 2,
+      "start_line": 4166
+    },
+    {
+      "anchor": "pub-yoly-lwr-pii-mkiup",
+      "end_line": 4169,
+      "heading": "Pub Yoly Lwr Pii Mkiup",
+      "level": 2,
+      "start_line": 4168
+    },
+    {
+      "anchor": "pir-yply-lwa-pi-mkup",
+      "end_line": 4171,
+      "heading": "Pir Yply Lwa Pi Mkup",
+      "level": 2,
+      "start_line": 4170
+    },
+    {
+      "anchor": "pir-yri-lwr-pimkup",
+      "end_line": 4173,
+      "heading": "Pir Yri Lwr Pimkup",
+      "level": 2,
+      "start_line": 4172
+    },
+    {
+      "anchor": "pir-yrly-lwr-pu-mk10",
+      "end_line": 4175,
+      "heading": "Pir Yrly Lwr Pu Mk10",
+      "level": 2,
+      "start_line": 4174
+    },
+    {
+      "anchor": "pur-vally-lwr-fuel-fah",
+      "end_line": 4177,
+      "heading": "Pur Vally Lwr Fuel Fah",
+      "level": 2,
+      "start_line": 4176
+    },
+    {
+      "anchor": "pur-yqi-lwr-frtl-full",
+      "end_line": 4179,
+      "heading": "Pur Yqi Lwr Frtl Full",
+      "level": 2,
+      "start_line": 4178
+    },
+    {
+      "anchor": "rfpro-yrl-lwr-output",
+      "end_line": 4181,
+      "heading": "Rfpro Yrl Lwr Output",
+      "level": 2,
+      "start_line": 4180
+    },
+    {
+      "anchor": "shpg-iwr-spnt-fuly-yrly",
+      "end_line": 4185,
+      "heading": "Shpg Iwr Spnt Fuly Yrly",
+      "level": 2,
+      "start_line": 4182
+    },
+    {
+      "anchor": "levelized-rusbar-energy-cost",
+      "end_line": 4189,
+      "heading": "Levelized Rusbar Energy Cost",
+      "level": 2,
+      "start_line": 4186
+    },
+    {
+      "anchor": "23-a3",
+      "end_line": 4197,
+      "heading": "23.A3",
+      "level": 2,
+      "start_line": 4190
+    },
+    {
+      "anchor": "55-a5",
+      "end_line": 4245,
+      "heading": "55.A5",
+      "level": 2,
+      "start_line": 4198
+    },
+    {
+      "anchor": "lhror-1-pul-catalyst",
+      "end_line": 4247,
+      "heading": "Lhror 1 - Pul Catalyst",
+      "level": 2,
+      "start_line": 4246
+    },
+    {
+      "anchor": "uelcycle-costs-nasap-yyawid",
+      "end_line": 4251,
+      "heading": "Uelcycle Costs-Nasap/Yyawid",
+      "level": 2,
+      "start_line": 4248
+    },
+    {
+      "anchor": "levelized-rusbar-energy-cost-mills-kwh-1978-dollars",
+      "end_line": 4255,
+      "heading": "Levelized Rusbar Energy Cost Mills/Kwh (1978 Dollars)",
+      "level": 2,
+      "start_line": 4252
+    },
+    {
+      "anchor": "total-cost-21-55",
+      "end_line": 4257,
+      "heading": "Total Cost 21.55",
+      "level": 2,
+      "start_line": 4256
+    },
+    {
+      "anchor": "theta-pinch-once-through-fuel-cycle-costs-nasap-hybrid",
+      "end_line": 4264,
+      "heading": "Theta Pinch Once Through Fuel Cycle Costs - Nasap/Hybrid",
+      "level": 2,
+      "start_line": 4258
+    },
+    {
+      "anchor": "total-cost-2205-75",
+      "end_line": 4266,
+      "heading": "Total Cost 2205.75",
+      "level": 2,
+      "start_line": 4265
+    },
+    {
+      "anchor": "theta-pinch-11-recycle",
+      "end_line": 4268,
+      "heading": "Theta Pinch 11 Recycle",
+      "level": 2,
+      "start_line": 4267
+    },
+    {
+      "anchor": "fuel-cycle-costs-nasap-hyhrid",
+      "end_line": 4270,
+      "heading": "Fuel Cycle Costs - Nasap/Hyhrid",
+      "level": 2,
+      "start_line": 4269
+    },
+    {
+      "anchor": "capital-investment-cost",
+      "end_line": 4272,
+      "heading": "Capital Investment Cost",
+      "level": 2,
+      "start_line": 4271
+    },
+    {
+      "anchor": "hyhrid-capital-investment-cost",
+      "end_line": 4274,
+      "heading": "Hyhrid Capital Investment Cost",
+      "level": 2,
+      "start_line": 4273
+    },
+    {
+      "anchor": "lwr-capital-investment-cost",
+      "end_line": 4276,
+      "heading": "Lwr Capital Investment Cost",
+      "level": 2,
+      "start_line": 4275
+    },
+    {
+      "anchor": "operating-and-maintenance-cost",
+      "end_line": 4278,
+      "heading": "Operating And Maintenance Cost",
+      "level": 2,
+      "start_line": 4277
+    },
+    {
+      "anchor": "hybrid-operating-and-mainefence-cost",
+      "end_line": 4280,
+      "heading": "Hybrid Operating And Mainefence Cost",
+      "level": 2,
+      "start_line": 4279
+    },
+    {
+      "anchor": "lwr-operating-and-maintenence-cost",
+      "end_line": 4282,
+      "heading": "Lwr Operating And Maintenence Cost",
+      "level": 2,
+      "start_line": 4281
+    },
+    {
+      "anchor": "fuel-cycle-activity-costs",
+      "end_line": 4284,
+      "heading": "Fuel Cycle Activity Costs",
+      "level": 2,
+      "start_line": 4283
+    },
+    {
+      "anchor": "pur-intl-hktuc",
+      "end_line": 4286,
+      "heading": "Pur Intl Hktuc",
+      "level": 2,
+      "start_line": 4285
+    },
+    {
+      "anchor": "pur-yaly-hlkt-uci",
+      "end_line": 4288,
+      "heading": "Pur Yaly Hlkt Uci",
+      "level": 2,
+      "start_line": 4287
+    },
+    {
+      "anchor": "pir-intl-rkt-fah",
+      "end_line": 4290,
+      "heading": "Pir Intl Rkt Fah",
+      "level": 2,
+      "start_line": 4289
+    },
+    {
+      "anchor": "dur-yrly-alkt-fab",
+      "end_line": 4292,
+      "heading": "Dur Yrly Alkt Fab",
+      "level": 2,
+      "start_line": 4291
+    },
+    {
+      "anchor": "pur-intl-blkt-316ss",
+      "end_line": 4294,
+      "heading": "Pur Intl Blkt 316Ss",
+      "level": 2,
+      "start_line": 4293
+    },
+    {
+      "anchor": "pur-yraly-alkt-31655",
+      "end_line": 4296,
+      "heading": "Pur Yraly Alkt 31655",
+      "level": 2,
+      "start_line": 4295
+    },
+    {
+      "anchor": "pur-intl-tritium",
+      "end_line": 4298,
+      "heading": "Pur Intl Tritium",
+      "level": 2,
+      "start_line": 4297
+    },
+    {
+      "anchor": "puryqly-deuterium",
+      "end_line": 4300,
+      "heading": "Puryqly Deuterium",
+      "level": 2,
+      "start_line": 4299
+    },
+    {
+      "anchor": "pur-intl-lithium",
+      "end_line": 4302,
+      "heading": "Pur Intl Lithium",
+      "level": 2,
+      "start_line": 4301
+    },
+    {
+      "anchor": "shpg-hyhd-spnt-ful-yriy",
+      "end_line": 4304,
+      "heading": "Shpg Hyhd Spnt Ful Yriy",
+      "level": 2,
+      "start_line": 4303
+    },
+    {
+      "anchor": "repryrlyhyhuiiitpij",
+      "end_line": 4306,
+      "heading": "Repryrlyhyhuiiitpij",
+      "level": 2,
+      "start_line": 4305
+    },
+    {
+      "anchor": "disp-hyd-repro-vste",
+      "end_line": 4308,
+      "heading": "Disp Hyd Repro Vste",
+      "level": 2,
+      "start_line": 4307
+    },
+    {
+      "anchor": "pur-yrly-lwr-pii-mkup",
+      "end_line": 4310,
+      "heading": "Pur Yrly Lwr Pii Mkup",
+      "level": 2,
+      "start_line": 4309
+    },
+    {
+      "anchor": "piiy-ypiy-lwr-pijk",
+      "end_line": 4312,
+      "heading": "Piiy Ypiy Lwr Pijk",
+      "level": 2,
+      "start_line": 4311
+    },
+    {
+      "anchor": "pir-yri-lwr-pi-mkiip",
+      "end_line": 4314,
+      "heading": "Pir Yri Lwr Pi Mkiip",
+      "level": 2,
+      "start_line": 4313
+    },
+    {
+      "anchor": "pir-yrly-i-wr-pij-mkiip",
+      "end_line": 4316,
+      "heading": "Pir Yrly I.Wr Pij Mkiip",
+      "level": 2,
+      "start_line": 4315
+    },
+    {
+      "anchor": "pur-ybly-lwh-fiifl-fah",
+      "end_line": 4318,
+      "heading": "Pur Ybly Lwh Fiifl Fah",
+      "level": 2,
+      "start_line": 4317
+    },
+    {
+      "anchor": "pur-yoly-lwa-fwtl-futi",
+      "end_line": 4320,
+      "heading": "Pur Yoly Lwa Fwtl Futi",
+      "level": 2,
+      "start_line": 4319
+    },
+    {
+      "anchor": "rfpro-yr1y-lwh-output",
+      "end_line": 4322,
+      "heading": "Rfpro Yr1Y Lwh Output",
+      "level": 2,
+      "start_line": 4321
+    },
+    {
+      "anchor": "shpg-i-wr-spnt-fuly",
+      "end_line": 4326,
+      "heading": "Shpg I Wr Spnt Fuly",
+      "level": 2,
+      "start_line": 4323
+    },
+    {
+      "anchor": "leveized-buisar-energy-cost-mills-kwh-1978-dollars",
+      "end_line": 4376,
+      "heading": "Leveized Buisar Energy Cost Mills/Kwh (1978 Dollars)",
+      "level": 2,
+      "start_line": 4327
+    },
+    {
+      "anchor": "total-cost-37-46",
+      "end_line": 4378,
+      "heading": "Total Cost 37.46",
+      "level": 2,
+      "start_line": 4377
+    },
+    {
+      "anchor": "theta-ping",
+      "end_line": 4380,
+      "heading": "Theta Ping",
+      "level": 2,
+      "start_line": 4379
+    },
+    {
+      "anchor": "1-pul-catalyst",
+      "end_line": 4382,
+      "heading": "1 - Pul Catalyst",
+      "level": 2,
+      "start_line": 4381
+    },
+    {
+      "anchor": "fuel-cycle-costs-nasal-nyhpin",
+      "end_line": 4384,
+      "heading": "Fuel Cycle Costs - Nasal/Nyhpin",
+      "level": 2,
+      "start_line": 4383
+    },
+    {
+      "anchor": "capital-investment-cost",
+      "end_line": 4386,
+      "heading": "Capital Investment Cost",
+      "level": 2,
+      "start_line": 4385
+    },
+    {
+      "anchor": "hyehn-capital-investment-cost",
+      "end_line": 4388,
+      "heading": "Hyehn Capital Investment Cost",
+      "level": 2,
+      "start_line": 4387
+    },
+    {
+      "anchor": "lwk-capital-investment-cost",
+      "end_line": 4390,
+      "heading": "Lwk Capital Investment Cost",
+      "level": 2,
+      "start_line": 4389
+    },
+    {
+      "anchor": "operating-and-maintenance-cost",
+      "end_line": 4392,
+      "heading": "Operating And Maintenance Cost",
+      "level": 2,
+      "start_line": 4391
+    },
+    {
+      "anchor": "hybrid-operating-and-maintenence-cost",
+      "end_line": 4394,
+      "heading": "Hybrid Operating And Maintenence Cost",
+      "level": 2,
+      "start_line": 4393
+    },
+    {
+      "anchor": "iwr-operating-and-maintenence-cost",
+      "end_line": 4396,
+      "heading": "Iwr Operating And Maintenence Cost",
+      "level": 2,
+      "start_line": 4395
+    },
+    {
+      "anchor": "fuel-cycle-activity-costs",
+      "end_line": 4398,
+      "heading": "Fuel Cycle Activity Costs",
+      "level": 2,
+      "start_line": 4397
+    },
+    {
+      "anchor": "pur-intl-hlp-102",
+      "end_line": 4400,
+      "heading": "Pur Intl Hlp 102",
+      "level": 2,
+      "start_line": 4399
+    },
+    {
+      "anchor": "puryply-hlek-u02",
+      "end_line": 4402,
+      "heading": "Puryply Hlek U02",
+      "level": 2,
+      "start_line": 4401
+    },
+    {
+      "anchor": "pub-intl-hkt",
+      "end_line": 4404,
+      "heading": "Pub Intl Hkt",
+      "level": 2,
+      "start_line": 4403
+    },
+    {
+      "anchor": "pir-yll-hlxt-thc",
+      "end_line": 4406,
+      "heading": "Pir Yll Hlxt Thc",
+      "level": 2,
+      "start_line": 4405
+    },
+    {
+      "anchor": "pir-intl-klkt-pi",
+      "end_line": 4408,
+      "heading": "Pir Intl Klkt Pi",
+      "level": 2,
+      "start_line": 4407
+    },
+    {
+      "anchor": "purnti-m-01ktkfan",
+      "end_line": 4410,
+      "heading": "Purnti.M-01Ktkfan",
+      "level": 2,
+      "start_line": 4409
+    },
+    {
+      "anchor": "plylym-01plkffh",
+      "end_line": 4412,
+      "heading": "Plylym-01Plkffh",
+      "level": 2,
+      "start_line": 4411
+    },
+    {
+      "anchor": "pur-intl-tritium",
+      "end_line": 4414,
+      "heading": "Pur Intl Tritium",
+      "level": 2,
+      "start_line": 4413
+    },
+    {
+      "anchor": "pub-yiy-nutferiium",
+      "end_line": 4416,
+      "heading": "Pub Yiy Nutferiium",
+      "level": 2,
+      "start_line": 4415
+    },
+    {
+      "anchor": "pur-intl-lithium",
+      "end_line": 4418,
+      "heading": "Pur Intl Lithium",
+      "level": 2,
+      "start_line": 4417
+    },
+    {
+      "anchor": "shpghyhspntfuelvoly",
+      "end_line": 4420,
+      "heading": "Shpghyhspntfuelvoly",
+      "level": 2,
+      "start_line": 4419
+    },
+    {
+      "anchor": "rfpro-yyiy-hyad-output",
+      "end_line": 4424,
+      "heading": "Rfpro-Yyiy Hyad Output",
+      "level": 2,
+      "start_line": 4421
+    },
+    {
+      "anchor": "disp-hypn-repro-wstypl",
+      "end_line": 4426,
+      "heading": "Disp Hypn Repro Wstypl",
+      "level": 2,
+      "start_line": 4425
+    },
+    {
+      "anchor": "pdrypllylru233mk114",
+      "end_line": 4428,
+      "heading": "Pdrypllylru233Mk114",
+      "level": 2,
+      "start_line": 4427
+    },
+    {
+      "anchor": "ahr-yhly-wkr-123-m",
+      "end_line": 4430,
+      "heading": "Ahr Yhly Wkr 123 M",
+      "level": 2,
+      "start_line": 4429
+    },
+    {
+      "anchor": "pur-yh-y-lwr-1233-mhp",
+      "end_line": 4436,
+      "heading": "Pur Yh Y Lwr 1233 Mhp",
+      "level": 2,
+      "start_line": 4431
+    },
+    {
+      "anchor": "pir-yaly-lar-fill-f-fl",
+      "end_line": 4438,
+      "heading": "Pir Yaly Lar Fill F:Fl",
+      "level": 2,
+      "start_line": 4437
+    },
+    {
+      "anchor": "pir-yiy-iwp-frii-fif",
+      "end_line": 4440,
+      "heading": "Pir Yiy Iwp Frii Fif",
+      "level": 2,
+      "start_line": 4439
+    },
+    {
+      "anchor": "rephyiy-i-w",
+      "end_line": 4442,
+      "heading": "Rephyiy I W",
+      "level": 2,
+      "start_line": 4441
+    },
+    {
+      "anchor": "shdg-iwr-spnt-fuel-yrly",
+      "end_line": 4446,
+      "heading": "Shdg Iwr Spnt Fuel Yrly",
+      "level": 2,
+      "start_line": 4443
+    },
+    {
+      "anchor": "levelized-hushar-energy-cost",
+      "end_line": 4520,
+      "heading": "Levelized Hushar Energy Cost",
+      "level": 2,
+      "start_line": 4447
+    },
+    {
+      "anchor": "apal",
+      "end_line": 4538,
+      "heading": "Apal",
+      "level": 2,
+      "start_line": 4521
+    },
+    {
+      "anchor": "pntl",
+      "end_line": 4542,
+      "heading": "Pntl",
+      "level": 2,
+      "start_line": 4539
+    },
+    {
+      "anchor": "0-12-109l-06431658",
+      "end_line": 4550,
+      "heading": "0.12 109L 06431658",
+      "level": 2,
+      "start_line": 4543
+    },
+    {
+      "anchor": "jhk-11",
+      "end_line": 4558,
+      "heading": "Jhk 11",
+      "level": 2,
+      "start_line": 4551
+    },
+    {
+      "anchor": "leveled-bushar-energy-cost",
+      "end_line": 4602,
+      "heading": "Leveled Bushar Energy Cost",
+      "level": 2,
+      "start_line": 4559
+    },
+    {
+      "anchor": "gnie-1",
+      "end_line": 4606,
+      "heading": "[Gnie]1",
+      "level": 2,
+      "start_line": 4603
+    },
+    {
+      "anchor": "capital-livestocks",
+      "end_line": 4636,
+      "heading": "Capital Livestocks",
+      "level": 2,
+      "start_line": 4607
+    },
+    {
+      "anchor": "jh-111",
+      "end_line": 4638,
+      "heading": "Jh 111",
+      "level": 2,
+      "start_line": 4637
+    },
+    {
+      "anchor": "sapg-74-5-156",
+      "end_line": 4652,
+      "heading": "Sapg 74> 5.156",
+      "level": 2,
+      "start_line": 4639
+    },
+    {
+      "anchor": "jh-v-l-f",
+      "end_line": 4662,
+      "heading": "Jh V L F",
+      "level": 2,
+      "start_line": 4653
+    },
+    {
+      "anchor": "levelized-bushar-energy-cost",
+      "end_line": 4728,
+      "heading": "Levelized Bushar Energy Cost",
+      "level": 2,
+      "start_line": 4663
+    },
+    {
+      "anchor": "1-1a-151-19-25",
+      "end_line": 4732,
+      "heading": "1.1A. 151 19.25",
+      "level": 2,
+      "start_line": 4729
+    },
+    {
+      "anchor": "fjel",
+      "end_line": 4740,
+      "heading": "Fjel",
+      "level": 2,
+      "start_line": 4733
+    },
+    {
+      "anchor": "j-151",
+      "end_line": 4746,
+      "heading": "J 151",
+      "level": 2,
+      "start_line": 4741
+    },
+    {
+      "anchor": "jep-2",
+      "end_line": 4748,
+      "heading": "Jep 2",
+      "level": 2,
+      "start_line": 4747
+    },
+    {
+      "anchor": "jhntl",
+      "end_line": 4756,
+      "heading": "Jhntl",
+      "level": 2,
+      "start_line": 4749
+    },
+    {
+      "anchor": "jhkvil-1",
+      "end_line": 4762,
+      "heading": "Jhkvil 1",
+      "level": 2,
+      "start_line": 4757
+    },
+    {
+      "anchor": "jh-111",
+      "end_line": 4768,
+      "heading": "Jh 111",
+      "level": 2,
+      "start_line": 4763
+    },
+    {
+      "anchor": "34p-1",
+      "end_line": 4776,
+      "heading": "34P 1",
+      "level": 2,
+      "start_line": 4769
+    },
+    {
+      "anchor": "2j-1",
+      "end_line": 4780,
+      "heading": "2J 1",
+      "level": 2,
+      "start_line": 4777
+    },
+    {
+      "anchor": "jh-1",
+      "end_line": 4790,
+      "heading": "Jh 1",
+      "level": 2,
+      "start_line": 4781
+    },
+    {
+      "anchor": "26p-1-4-4",
+      "end_line": 4872,
+      "heading": "26P 1 4 4",
+      "level": 2,
+      "start_line": 4791
+    },
+    {
+      "anchor": "fie-cycle-105",
+      "end_line": 4874,
+      "heading": "Fie. Cycle 105",
+      "level": 2,
+      "start_line": 4873
+    },
+    {
+      "anchor": "capital-investment",
+      "end_line": 4880,
+      "heading": "Capital Investment",
+      "level": 2,
+      "start_line": 4875
+    },
+    {
+      "anchor": "jeeatng",
+      "end_line": 4886,
+      "heading": "Jeeatng",
+      "level": 2,
+      "start_line": 4881
+    },
+    {
+      "anchor": "fjelgclcivitisio",
+      "end_line": 4894,
+      "heading": "Fjelgclcivitisio",
+      "level": 2,
+      "start_line": 4887
+    },
+    {
+      "anchor": "dhnilgl",
+      "end_line": 4896,
+      "heading": "Dhnilgl",
+      "level": 2,
+      "start_line": 4895
+    },
+    {
+      "anchor": "jrkntl-31535",
+      "end_line": 4904,
+      "heading": "Jrkntl 31535",
+      "level": 2,
+      "start_line": 4897
+    },
+    {
+      "anchor": "j1vil",
+      "end_line": 4908,
+      "heading": "J1Vil",
+      "level": 2,
+      "start_line": 4905
+    },
+    {
+      "anchor": "jntl",
+      "end_line": 4922,
+      "heading": "Jntl",
+      "level": 2,
+      "start_line": 4909
+    },
+    {
+      "anchor": "levelized-aushan-energy",
+      "end_line": 4978,
+      "heading": "Levelized Aushan Energy",
+      "level": 2,
+      "start_line": 4923
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 4984,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 4979
+    },
+    {
+      "anchor": "offsite",
+      "end_line": 5180,
+      "heading": "OFFSITE",
+      "level": 1,
+      "start_line": 4985
+    },
+    {
+      "anchor": "onsite",
+      "end_line": 5223,
+      "heading": "Onsite",
+      "level": 2,
+      "start_line": 5181
+    }
+  ],
+  "source_dir": "pdf/PNL-3116",
+  "tables": [],
+  "title": "PNL-3116",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "fuel-processing-and-reprocessing",
+    "pumps-loops-and-heat-exchangers",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

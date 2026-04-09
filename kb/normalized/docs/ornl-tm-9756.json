@@ -1,0 +1,1191 @@
+{
+  "authors": [
+    "MARTIN MARIETTA",
+    "NOT MODE COVER",
+    "Flush Salt",
+    "Karl J. Notz",
+    "OPERATED BY",
+    "MARTIN MARIETTA ENERGY SYSTEMS",
+    "INC."
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-9756.jsonl",
+  "date_text": "September 1985",
+  "doc_id": "ornl-tm-9756",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 6,
+        "line_hits": [
+          163,
+          206,
+          221,
+          585,
+          702,
+          804
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          206,
+          221,
+          551,
+          559,
+          567,
+          585
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          559
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1213
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 44,
+        "line_hits": [
+          163,
+          177,
+          206,
+          219,
+          227,
+          255,
+          296,
+          333,
+          530,
+          561,
+          589,
+          597,
+          609,
+          611,
+          623,
+          627,
+          647,
+          720,
+          744,
+          753,
+          813,
+          842,
+          853,
+          880,
+          1087,
+          1091,
+          1104,
+          1108,
+          1115,
+          1116,
+          1120,
+          1139,
+          1142,
+          1144,
+          1150,
+          1154,
+          1156,
+          1158,
+          1162,
+          1166,
+          1176,
+          1205,
+          1213,
+          1227
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          257,
+          609,
+          649,
+          841,
+          1209,
+          1213,
+          1218,
+          1220,
+          1224,
+          1234,
+          1236
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          251,
+          595,
+          621,
+          1112,
+          1176
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          609,
+          1126,
+          1127,
+          1162,
+          1176
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 30,
+        "line_hits": [
+          1,
+          3,
+          5,
+          67,
+          153,
+          870,
+          872,
+          878,
+          879,
+          880,
+          881,
+          882,
+          883,
+          884,
+          886,
+          887,
+          888,
+          889,
+          890,
+          891,
+          892,
+          895,
+          897,
+          898,
+          1196,
+          1201,
+          1259,
+          1263,
+          1294,
+          1308
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          7,
+          17,
+          51,
+          55,
+          59,
+          73,
+          874,
+          1081,
+          1184
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 100,
+        "line_hits": [
+          153,
+          163,
+          171,
+          173,
+          177,
+          191,
+          193,
+          195,
+          206,
+          227,
+          229,
+          231,
+          243,
+          249,
+          251,
+          253,
+          255,
+          261,
+          263,
+          289,
+          300,
+          302,
+          304,
+          306,
+          323,
+          325,
+          329,
+          348,
+          366,
+          394,
+          398,
+          464,
+          466,
+          482,
+          524,
+          526,
+          567,
+          571,
+          579,
+          581,
+          585,
+          589,
+          595,
+          601,
+          605,
+          615,
+          617,
+          621,
+          623,
+          625
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 88,
+        "line_hits": [
+          11,
+          37,
+          137,
+          139,
+          147,
+          153,
+          161,
+          163,
+          187,
+          208,
+          214,
+          231,
+          233,
+          245,
+          249,
+          261,
+          272,
+          276,
+          277,
+          281,
+          294,
+          308,
+          316,
+          344,
+          350,
+          352,
+          354,
+          356,
+          358,
+          360,
+          362,
+          364,
+          469,
+          472,
+          496,
+          516,
+          539,
+          557,
+          607,
+          611,
+          623,
+          647,
+          664,
+          668,
+          670,
+          674,
+          694,
+          712,
+          730,
+          734
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1216,
+          1218,
+          1220,
+          1230
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 10,
+        "line_hits": [
+          153,
+          161,
+          165,
+          274,
+          275,
+          346,
+          496,
+          551,
+          559,
+          641
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          187,
+          235,
+          577
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          235,
+          878
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          235,
+          577
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          235
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9f259d850a546c74f229c0b4f2236d094e8793419ef6082f3c42643dd6a03a86",
+  "markdown_path": "pdf/ORNL-TM-9756/ORNL-TM-9756/hybrid_ocr/ORNL-TM-9756.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 110,
+  "sections": [
+    {
+      "anchor": "ornl",
+      "end_line": 2,
+      "heading": "ornl",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-tm-9756",
+      "end_line": 4,
+      "heading": "Ornl/Tm-9756",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "martin-marietta",
+      "end_line": 8,
+      "heading": "Martin Marietta",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "not-mode-cover",
+      "end_line": 10,
+      "heading": "NOT MODE COVER",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "extended-storage-in-place-of-msre-fuel-salt-and-flush-salt",
+      "end_line": 14,
+      "heading": "Extended Storage-in-Place of MSRE Fuel Salt and Flush Salt",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 16,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-inc",
+      "end_line": 18,
+      "heading": "Martin Marietta Energy Systems, Inc.",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "for-the-united-states",
+      "end_line": 20,
+      "heading": "For The United States",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "department-of-energy",
+      "end_line": 36,
+      "heading": "Department Of Energy",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "extended-storage-in-place-of-msre-fuel-salt-and-flush-salt",
+      "end_line": 66,
+      "heading": "Extended Storage-In-Place Of Msre Fuel Salt And Flush Salt",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 72,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-inc",
+      "end_line": 76,
+      "heading": "Martin Marietta Energy Systems, Inc.",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "u-s-department-of-energy",
+      "end_line": 80,
+      "heading": "U.S. Department Of Energy",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "contents",
+      "end_line": 84,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 86,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "1-executive-summary-3",
+      "end_line": 88,
+      "heading": "1．Executive Summary 3",
+      "level": 2,
+      "start_line": 87
+    },
+    {
+      "anchor": "1-1-history-3",
+      "end_line": 89,
+      "heading": "1.1 HISTORY 3",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "1-2-projections-4",
+      "end_line": 90,
+      "heading": "1.2 PROJECTIONS 4",
+      "level": 2,
+      "start_line": 90
+    },
+    {
+      "anchor": "1-3-conclusions-5",
+      "end_line": 92,
+      "heading": "1.3 CONCLUSIONS 5",
+      "level": 2,
+      "start_line": 91
+    },
+    {
+      "anchor": "2-introduction-7",
+      "end_line": 94,
+      "heading": "2. INTRODUCTION 7",
+      "level": 2,
+      "start_line": 93
+    },
+    {
+      "anchor": "3-history-9",
+      "end_line": 96,
+      "heading": "3. HISTORY 9",
+      "level": 2,
+      "start_line": 95
+    },
+    {
+      "anchor": "3-1-description-9",
+      "end_line": 97,
+      "heading": "3.1 DESCRIPTION 9",
+      "level": 2,
+      "start_line": 97
+    },
+    {
+      "anchor": "3-2-surveillance-and-maintenance-16",
+      "end_line": 98,
+      "heading": "3.2 SURVEILLANCE AND MAINTENANCE 16",
+      "level": 2,
+      "start_line": 98
+    },
+    {
+      "anchor": "3-3-prior-studies-17",
+      "end_line": 99,
+      "heading": "3.3 PRIOR STUDIES 17",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "3-4-options-18",
+      "end_line": 101,
+      "heading": "3.4 OPTIONS 18",
+      "level": 2,
+      "start_line": 100
+    },
+    {
+      "anchor": "4-projections-27",
+      "end_line": 103,
+      "heading": "4. PROJECTIONS 27",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "4-1-radioactivity-27",
+      "end_line": 104,
+      "heading": "4.1 RADIOACTIVITY 27",
+      "level": 2,
+      "start_line": 104
+    },
+    {
+      "anchor": "4-2-radiolysis-45",
+      "end_line": 110,
+      "heading": "4.2 RADIOLYSIS 45",
+      "level": 2,
+      "start_line": 105
+    },
+    {
+      "anchor": "4-3-integrity-of-the-facility-54",
+      "end_line": 116,
+      "heading": "4.3 INTEGRITY OF THE FACILITY 54",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "4-4-geology-and-hydrology-62",
+      "end_line": 117,
+      "heading": "4.4 GEOLOGY AND HYDROLOGY 62",
+      "level": 2,
+      "start_line": 117
+    },
+    {
+      "anchor": "4-5entombment-63",
+      "end_line": 119,
+      "heading": "4.5Entombment 63",
+      "level": 2,
+      "start_line": 118
+    },
+    {
+      "anchor": "4-6-utilization-64",
+      "end_line": 120,
+      "heading": "4.6 UTILIZATION 64",
+      "level": 2,
+      "start_line": 120
+    },
+    {
+      "anchor": "4-7-final-disposal-65",
+      "end_line": 122,
+      "heading": "4.7 FINAL DISPOSAL 65",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "4-7-1-wipp-66",
+      "end_line": 127,
+      "heading": "4.7.1 WIPP 66",
+      "level": 2,
+      "start_line": 123
+    },
+    {
+      "anchor": "4-8-in-cell-alterations-67",
+      "end_line": 128,
+      "heading": "4.8 IN-CELL ALTERATIONS 67",
+      "level": 2,
+      "start_line": 128
+    },
+    {
+      "anchor": "4-9-contingency-planning-68",
+      "end_line": 130,
+      "heading": "4.9 CONTINGENCY PLANNING 68",
+      "level": 2,
+      "start_line": 129
+    },
+    {
+      "anchor": "5-conclusions-71",
+      "end_line": 132,
+      "heading": "5. CONCLUSIONS 71",
+      "level": 2,
+      "start_line": 131
+    },
+    {
+      "anchor": "5-1-evaluation-of-options-71",
+      "end_line": 133,
+      "heading": "5.1 EVALUATION OF OPTIONS 71",
+      "level": 2,
+      "start_line": 133
+    },
+    {
+      "anchor": "5-2-selection-of-plan-73",
+      "end_line": 146,
+      "heading": "5.2 SELECTION OF PLAN 73",
+      "level": 2,
+      "start_line": 134
+    },
+    {
+      "anchor": "extended-storage-in-place-of-msre-fuel-salt-and-flush-salt",
+      "end_line": 150,
+      "heading": "EXTENDED STORAGE-IN-PLACE OF MSRE FUEL SALT AND FLUSH SALT",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 156,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 151
+    },
+    {
+      "anchor": "1-executive-summary",
+      "end_line": 158,
+      "heading": "1. EXECUTIVE SUMMARY",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "1-1-history",
+      "end_line": 168,
+      "heading": "1.1 HISTORY",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "1-2-projections",
+      "end_line": 178,
+      "heading": "1.2 PROJECTIONS",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "1-3-conclusions",
+      "end_line": 184,
+      "heading": "1.3 CONCLUSIONS",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "2-introduction",
+      "end_line": 201,
+      "heading": "2. INTRODUCTION",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "3-history",
+      "end_line": 203,
+      "heading": "3. HISTORY",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "3-1-description",
+      "end_line": 213,
+      "heading": "3.1 DESCRIPTION",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "msre-plant-layout-elevation",
+      "end_line": 246,
+      "heading": "Msre Plant Layout, Elevation",
+      "level": 2,
+      "start_line": 214
+    },
+    {
+      "anchor": "3-2-surveillance-and-maintenance",
+      "end_line": 258,
+      "heading": "3.2 SURVEILLANCE AND MAINTENANCE",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "3-3-prior-studies",
+      "end_line": 269,
+      "heading": "3.3 PRIOR STUDIES",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "3-4-options",
+      "end_line": 297,
+      "heading": "3.4 OPTIONS",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "3-identify-the-limiting-factor-s",
+      "end_line": 339,
+      "heading": "3. Identify the limiting factor(s).",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "4-projections",
+      "end_line": 341,
+      "heading": "4. PROJECTIONS",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "4-1-radioactivity",
+      "end_line": 493,
+      "heading": "4.1 RADIOACTIVITY",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "4-2-radiolysis",
+      "end_line": 527,
+      "heading": "4.2 RADIOLYSIS",
+      "level": 1,
+      "start_line": 494
+    },
+    {
+      "anchor": "4-2-1-pressure-rise",
+      "end_line": 548,
+      "heading": "4.2.1 Pressure Rise",
+      "level": 1,
+      "start_line": 528
+    },
+    {
+      "anchor": "4-2-2-corrosion-rates",
+      "end_line": 568,
+      "heading": "4.2.2 Corrosion Rates",
+      "level": 1,
+      "start_line": 549
+    },
+    {
+      "anchor": "4-2-3-use-of-getters",
+      "end_line": 582,
+      "heading": "4.2.3 Use of Getters",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "4-3-integrity-of-the-facility",
+      "end_line": 586,
+      "heading": "4.3 INTEGRITY OF THE FACILITY",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "4-3-1-cell-penetrations",
+      "end_line": 590,
+      "heading": "4.3.1 Cell Penetrations",
+      "level": 1,
+      "start_line": 587
+    },
+    {
+      "anchor": "reactor-cell",
+      "end_line": 596,
+      "heading": "Reactor Cell",
+      "level": 1,
+      "start_line": 591
+    },
+    {
+      "anchor": "drain-tank-cell",
+      "end_line": 618,
+      "heading": "Drain Tank Cell",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "reprocessing-cell",
+      "end_line": 634,
+      "heading": "Reprocessing Cell",
+      "level": 1,
+      "start_line": 619
+    },
+    {
+      "anchor": "4-3-2-water-control",
+      "end_line": 657,
+      "heading": "4.3.2 Water Control",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "4-3-3-secondary-containment",
+      "end_line": 665,
+      "heading": "4.3.3 Secondary Containment",
+      "level": 1,
+      "start_line": 658
+    },
+    {
+      "anchor": "4-4-geology-and-hydrology",
+      "end_line": 677,
+      "heading": "4.4 GEOLOGY AND HYDROLOGY",
+      "level": 1,
+      "start_line": 666
+    },
+    {
+      "anchor": "4-5-entombment",
+      "end_line": 691,
+      "heading": "4.5 ENTOMBMENT",
+      "level": 1,
+      "start_line": 678
+    },
+    {
+      "anchor": "4-6-utilization",
+      "end_line": 699,
+      "heading": "4.6 UTILIZATION",
+      "level": 1,
+      "start_line": 692
+    },
+    {
+      "anchor": "4-7-final-disposal",
+      "end_line": 709,
+      "heading": "4.7 FINAL DISPOSAL",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "4-7-1-wipp",
+      "end_line": 727,
+      "heading": "4.7.1 WIPP",
+      "level": 1,
+      "start_line": 710
+    },
+    {
+      "anchor": "4-7-2-commercial-spent-fuel-repository",
+      "end_line": 731,
+      "heading": "4.7.2 Commercial Spent Fuel Repository",
+      "level": 1,
+      "start_line": 728
+    },
+    {
+      "anchor": "4-7-3-greater-confinement-disposal",
+      "end_line": 735,
+      "heading": "4.7.3 Greater Confinement Disposal",
+      "level": 1,
+      "start_line": 732
+    },
+    {
+      "anchor": "4-8-in-cell-alterations",
+      "end_line": 756,
+      "heading": "4.8 IN-CELL ALTERATIONS",
+      "level": 1,
+      "start_line": 736
+    },
+    {
+      "anchor": "4-9-contingency-planning",
+      "end_line": 760,
+      "heading": "4.9 CONTINGENCY PLANNING",
+      "level": 1,
+      "start_line": 757
+    },
+    {
+      "anchor": "5-conclusions",
+      "end_line": 762,
+      "heading": "5. CONCLUSIONS",
+      "level": 1,
+      "start_line": 761
+    },
+    {
+      "anchor": "5-1-evaluation-of-options",
+      "end_line": 833,
+      "heading": "5.1 EVALUATION OF OPTIONS",
+      "level": 1,
+      "start_line": 763
+    },
+    {
+      "anchor": "5-2-selection-of-plan",
+      "end_line": 867,
+      "heading": "5.2 SELECTION OF PLAN",
+      "level": 1,
+      "start_line": 834
+    },
+    {
+      "anchor": "appendix-a-bibliography-and-references",
+      "end_line": 899,
+      "heading": "Appendix A. BIBLIOGRAPHY AND REFERENCES",
+      "level": 1,
+      "start_line": 868
+    },
+    {
+      "anchor": "appendix-b-semiquantitative-evaluation-of-six-msre-options",
+      "end_line": 946,
+      "heading": "Appendix B. SEMIQUANTITATIVE EVALUATION OF SIX MSRE OPTIONS",
+      "level": 1,
+      "start_line": 900
+    },
+    {
+      "anchor": "c-1-wipp-waste-acceptance-criteria-for-remotely-handled-rh-tru-waste",
+      "end_line": 947,
+      "heading": "C.1. Wipp Waste Acceptance Criteria For Remotely Handled (Rh) Tru Waste",
+      "level": 2,
+      "start_line": 947
+    },
+    {
+      "anchor": "c-2-wipp-certification-compliance-requirements",
+      "end_line": 948,
+      "heading": "C.2. Wipp Certification Compliance Requirements",
+      "level": 2,
+      "start_line": 948
+    },
+    {
+      "anchor": "c-3-wipp-general-comments",
+      "end_line": 950,
+      "heading": "C.3. Wipp: General Comments",
+      "level": 2,
+      "start_line": 949
+    },
+    {
+      "anchor": "c-1-wipp-waste-acceptance-criteria-for-rh-tru-waste",
+      "end_line": 1006,
+      "heading": "C.1. Wipp Waste Acceptance Criteria For Rh Tru Waste",
+      "level": 2,
+      "start_line": 951
+    },
+    {
+      "anchor": "c-2-wipp-certification-compliance-requirements",
+      "end_line": 1048,
+      "heading": "C.2. WIPP CERTIFICATION COMPLIANCE REQUIREMENTS",
+      "level": 1,
+      "start_line": 1007
+    },
+    {
+      "anchor": "c-3-wipp-general-comments",
+      "end_line": 1084,
+      "heading": "C.3. Wipp: General Comments",
+      "level": 2,
+      "start_line": 1049
+    },
+    {
+      "anchor": "d-1-introduction",
+      "end_line": 1088,
+      "heading": "D.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 1085
+    },
+    {
+      "anchor": "d-2-containment-envelopes",
+      "end_line": 1095,
+      "heading": "D.2 CONTAINMENT ENVELOPES",
+      "level": 1,
+      "start_line": 1089
+    },
+    {
+      "anchor": "ref-dwg-x3e-12598-001",
+      "end_line": 1098,
+      "heading": "Ref.Dwg.X3E-12598-001",
+      "level": 2,
+      "start_line": 1096
+    },
+    {
+      "anchor": "envelope-i",
+      "end_line": 1105,
+      "heading": "Envelope I",
+      "level": 2,
+      "start_line": 1099
+    },
+    {
+      "anchor": "d-3-description-of-penetrations",
+      "end_line": 1109,
+      "heading": "D.3 DESCRIPTION OF PENETRATIONS",
+      "level": 1,
+      "start_line": 1106
+    },
+    {
+      "anchor": "d-4-reactor-cell-penetrations",
+      "end_line": 1114,
+      "heading": "D.4 REACTOR CELL PENETRATIONS",
+      "level": 1,
+      "start_line": 1110
+    },
+    {
+      "anchor": "reactor-drain-tank-interconnect",
+      "end_line": 1118,
+      "heading": "Reactor-Drain Tank Interconnect",
+      "level": 2,
+      "start_line": 1115
+    },
+    {
+      "anchor": "salt-transfer-line",
+      "end_line": 1125,
+      "heading": "Salt Transfer Line",
+      "level": 2,
+      "start_line": 1119
+    },
+    {
+      "anchor": "sampler-and-sampler-offgas-lines",
+      "end_line": 1134,
+      "heading": "Sampler And Sampler Offgas Lines",
+      "level": 2,
+      "start_line": 1126
+    },
+    {
+      "anchor": "instrumentation-electrical-lines",
+      "end_line": 1143,
+      "heading": "Instrumentation Electrical Lines",
+      "level": 2,
+      "start_line": 1135
+    },
+    {
+      "anchor": "d-5-drain-tank-and-fuel-processing-cell-penetrations",
+      "end_line": 1147,
+      "heading": "D.5 DRAIN TANK AND FUEL PROCESSING CELL PENETRATIONS",
+      "level": 1,
+      "start_line": 1144
+    },
+    {
+      "anchor": "d-6-tabulation-of-pertinent-information",
+      "end_line": 1151,
+      "heading": "D.6 TABULATION OF PERTINENT INFORMATION",
+      "level": 1,
+      "start_line": 1148
+    },
+    {
+      "anchor": "d-7-closure-options",
+      "end_line": 1173,
+      "heading": "D.7 CLOSURE OPTIONS",
+      "level": 1,
+      "start_line": 1152
+    },
+    {
+      "anchor": "d-7-summary",
+      "end_line": 1187,
+      "heading": "D.7 SUMMARY",
+      "level": 1,
+      "start_line": 1174
+    },
+    {
+      "anchor": "building-7503-drainage-systems",
+      "end_line": 1191,
+      "heading": "BUILDING 7503 DRAINAGE SYSTEMS",
+      "level": 1,
+      "start_line": 1188
+    },
+    {
+      "anchor": "overall-description",
+      "end_line": 1202,
+      "heading": "Overall Description",
+      "level": 1,
+      "start_line": 1192
+    },
+    {
+      "anchor": "radioactive-liquid-waste-collection",
+      "end_line": 1206,
+      "heading": "Radioactive Liquid Waste Collection",
+      "level": 1,
+      "start_line": 1203
+    },
+    {
+      "anchor": "building-water-collection-and-dispersal",
+      "end_line": 1237,
+      "heading": "Building Water Collection and Dispersal",
+      "level": 1,
+      "start_line": 1207
+    },
+    {
+      "anchor": "storm-water-dispersal",
+      "end_line": 1290,
+      "heading": "Storm Water Dispersal",
+      "level": 1,
+      "start_line": 1238
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1291,
+      "heading": "Internal Distribution",
+      "level": 2,
+      "start_line": 1291
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1308,
+      "heading": "External Distribution",
+      "level": 2,
+      "start_line": 1292
+    },
+    {
+      "anchor": "process-flow-sheet",
+      "end_line": 1311,
+      "heading": "Process Flow Sheet",
+      "level": 2,
+      "start_line": 1309
+    },
+    {
+      "anchor": "decimals",
+      "end_line": 1314,
+      "heading": "Decimals ±",
+      "level": 2,
+      "start_line": 1312
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-9756",
+  "tables": [],
+  "title": "ORNL/TM-9756",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "instrumentation-and-controls",
+    "fuel-processing-and-reprocessing",
+    "program-history"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

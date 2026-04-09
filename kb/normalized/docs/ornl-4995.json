@@ -1,0 +1,3010 @@
+{
+  "authors": [
+    "Nuclear Systems",
+    "T. D. Anderson",
+    "H. I. Bowers",
+    "R. H. Bryan",
+    "J. G. Delene",
+    "E. C. Hise"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4995.jsonl",
+  "date_text": "1975",
+  "doc_id": "ornl-4995",
+  "document_type": "progress-report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          345,
+          806,
+          1051,
+          1057
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1553,
+          2965,
+          3034,
+          5309
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          409,
+          694
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          2990,
+          2992
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          3285,
+          5298
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 29,
+        "line_hits": [
+          359,
+          361,
+          363,
+          816,
+          818,
+          820,
+          983,
+          997,
+          1001,
+          1003,
+          1053,
+          1055,
+          1063,
+          1069,
+          1278,
+          1282,
+          1290,
+          1646,
+          1658,
+          1660,
+          1702,
+          2457,
+          2635,
+          3428,
+          3874,
+          3918,
+          3920,
+          4541,
+          4710
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          856,
+          893,
+          905,
+          907,
+          985,
+          987,
+          997,
+          999,
+          1059,
+          1278,
+          1282,
+          1658,
+          1704
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          822,
+          899,
+          901,
+          1001,
+          1074,
+          1640,
+          3435,
+          3437,
+          3441,
+          3452,
+          4081,
+          4269,
+          4273
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          893,
+          899,
+          1001,
+          1003,
+          1278,
+          1830,
+          2485,
+          4514
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1636,
+          1638,
+          1640
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          969,
+          3034
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          4661
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 91,
+        "line_hits": [
+          21,
+          264,
+          411,
+          416,
+          486,
+          488,
+          704,
+          718,
+          744,
+          838,
+          1212,
+          1242,
+          1247,
+          1248,
+          1253,
+          1288,
+          1290,
+          1292,
+          1294,
+          1296,
+          1370,
+          1372,
+          1379,
+          1395,
+          1398,
+          1402,
+          1413,
+          1421,
+          1955,
+          1957,
+          1959,
+          1979,
+          1981,
+          2005,
+          2007,
+          2011,
+          2013,
+          2033,
+          2035,
+          2043,
+          2048,
+          2052,
+          2056,
+          2058,
+          2068,
+          2080,
+          2092,
+          2105,
+          2111,
+          2113
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 43,
+        "line_hits": [
+          19,
+          39,
+          84,
+          275,
+          293,
+          860,
+          950,
+          1100,
+          1128,
+          1234,
+          1304,
+          1423,
+          1608,
+          1666,
+          1674,
+          1676,
+          1715,
+          1820,
+          1839,
+          1947,
+          2045,
+          2145,
+          2247,
+          2347,
+          2348,
+          2415,
+          2419,
+          2703,
+          2815,
+          3020,
+          3064,
+          3264,
+          3363,
+          3713,
+          3845,
+          3851,
+          3853,
+          4019,
+          4081,
+          4110,
+          4268,
+          5198,
+          5250
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          21,
+          76,
+          90,
+          255,
+          2348,
+          2783,
+          2846,
+          2888,
+          3756,
+          3845,
+          5273,
+          5276,
+          5284,
+          5325,
+          5327
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          812,
+          814,
+          824,
+          885,
+          941,
+          953,
+          5286,
+          5287,
+          5297,
+          5326
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          2635,
+          2708,
+          2722,
+          3289,
+          3294,
+          5267,
+          5301
+        ],
+        "name": "Foster Wheeler"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          2635,
+          2655,
+          2666,
+          2693
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 425,
+        "line_hits": [
+          281,
+          297,
+          299,
+          311,
+          315,
+          316,
+          320,
+          331,
+          335,
+          337,
+          345,
+          347,
+          349,
+          361,
+          369,
+          371,
+          373,
+          377,
+          381,
+          391,
+          395,
+          407,
+          409,
+          418,
+          420,
+          422,
+          426,
+          430,
+          446,
+          492,
+          512,
+          520,
+          526,
+          528,
+          540,
+          542,
+          544,
+          556,
+          558,
+          562,
+          564,
+          573,
+          581,
+          585,
+          587,
+          593,
+          597,
+          601,
+          607,
+          611
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          3680
+        ],
+        "name": "ART"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          411
+        ],
+        "name": "converter reactor"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a70a4898121d72304360627fb86acce6aaadf92511ba6b28a1482908f682f537",
+  "markdown_path": "pdf/ORNL-4995/ORNL-4995/hybrid_ocr/ORNL-4995.md",
+  "report_number": "ORNL-4995",
+  "report_numbers": [
+    "ORNL-4995"
+  ],
+  "report_series": "natural-language-summaries",
+  "section_count": 367,
+  "sections": [
+    {
+      "anchor": "an-assessment-of-industrial-energy-options-based-on-coal-and-nuclear-systems",
+      "end_line": 18,
+      "heading": "An Assessment of Industrial Energy Options Based on Coal and Nuclear Systems",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 22,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "master",
+      "end_line": 38,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "ornl-4995",
+      "end_line": 46,
+      "heading": "Ornl-4995",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "reactor-division",
+      "end_line": 48,
+      "heading": "Reactor Division",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "an-assessment-of-industrial-energy-options",
+      "end_line": 50,
+      "heading": "AN ASSESSMENT OF INDUSTRIAL ENERGY OPTIONS",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "based-on-coal-and-nuclear-systems",
+      "end_line": 62,
+      "heading": "BASED ON COAL AND NUCLEAR SYSTEMS",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "industrial-participants",
+      "end_line": 77,
+      "heading": "Industrial Participants",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "july-1975",
+      "end_line": 79,
+      "heading": "July 1975",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "notice",
+      "end_line": 83,
+      "heading": "-Notice",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 89,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 93,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 90
+    },
+    {
+      "anchor": "u-s-energy-research-and-development-administration",
+      "end_line": 95,
+      "heading": "U. S. Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 94
+    },
+    {
+      "anchor": "master",
+      "end_line": 99,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 96
+    },
+    {
+      "anchor": "contents",
+      "end_line": 105,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "part-i-executive-summary",
+      "end_line": 107,
+      "heading": "PART I. EXECUTIVE SUMMARY",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 113,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "2-results-6",
+      "end_line": 141,
+      "heading": "2. RESULTS 6",
+      "level": 2,
+      "start_line": 114
+    },
+    {
+      "anchor": "3-conclusions-24",
+      "end_line": 153,
+      "heading": "3. CONCLUSIONS 24",
+      "level": 2,
+      "start_line": 142
+    },
+    {
+      "anchor": "4-recommendations-27",
+      "end_line": 158,
+      "heading": "4. RECOMMENDATIONS 27",
+      "level": 2,
+      "start_line": 154
+    },
+    {
+      "anchor": "part-ii-energy-systems",
+      "end_line": 160,
+      "heading": "Part II. ENERGY SYSTEMS",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "5-nuclear-energy-systems-29",
+      "end_line": 229,
+      "heading": "5. NUCLEAR ENERGY SYSTEMS 29",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "part-iii-assessment",
+      "end_line": 231,
+      "heading": "PART III. ASSESSMENT",
+      "level": 1,
+      "start_line": 230
+    },
+    {
+      "anchor": "7-assessment-of-energy-alternatives-223",
+      "end_line": 242,
+      "heading": "7. ASSESSMENT OF ENERGY ALTERNATIVES 223",
+      "level": 2,
+      "start_line": 232
+    },
+    {
+      "anchor": "8-industrial-view-of-alternatives-239",
+      "end_line": 261,
+      "heading": "8. INDUSTRIAL VIEW OF ALTERNATIVES 239",
+      "level": 2,
+      "start_line": 243
+    },
+    {
+      "anchor": "appendix-a-nuclear-fuel-cycle-analysis-257",
+      "end_line": 262,
+      "heading": "Appendix A. Nuclear Fuel Cycle Analysis 257",
+      "level": 2,
+      "start_line": 262
+    },
+    {
+      "anchor": "appendix-b-steam-line-cost-study-basis-of-cost-estimate-274",
+      "end_line": 268,
+      "heading": "Appendix B. Steam Line Cost Study - Basis Of Cost Estimate 274",
+      "level": 2,
+      "start_line": 263
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 278,
+      "heading": "Acknowledgments",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 286,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 279
+    },
+    {
+      "anchor": "part-i-executive-summary",
+      "end_line": 288,
+      "heading": "Part I. Executive Summary",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 290,
+      "heading": "1. Introduction",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "1-1-purpose-and-scope",
+      "end_line": 294,
+      "heading": "1.1 PURPOSE AND SCOPE",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "1-2-need-for-alternatives",
+      "end_line": 332,
+      "heading": "1.2 NEED FOR ALTERNATIVES",
+      "level": 1,
+      "start_line": 295
+    },
+    {
+      "anchor": "1-3-energy-alternatives-considered",
+      "end_line": 338,
+      "heading": "1.3 ENERGY ALTERNATIVES CONSIDERED",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "2-results",
+      "end_line": 340,
+      "heading": "2. Results",
+      "level": 1,
+      "start_line": 339
+    },
+    {
+      "anchor": "2-1-description-and-status-of-energy-systems",
+      "end_line": 342,
+      "heading": "2.1 DESCRIPTION AND STATUS OF ENERGY SYSTEMS",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "2-1-1-large-nuclear-systems",
+      "end_line": 356,
+      "heading": "2.1.1 Large Nuclear Systems",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "2-1-2-small-pwr",
+      "end_line": 366,
+      "heading": "2.1.2 Small PWR",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "2-1-3-direct-coal-firing",
+      "end_line": 378,
+      "heading": "2.1.3 Direct Coal Firing",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "2-1-4-gas-from-coal",
+      "end_line": 392,
+      "heading": "2.1.4 Gas from Coal",
+      "level": 1,
+      "start_line": 379
+    },
+    {
+      "anchor": "2-1-5-liquid-fuels-from-coal",
+      "end_line": 396,
+      "heading": "2.1.5 Liquid Fuels from Coal",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "2-1-6-solvent-refined-coal-src",
+      "end_line": 402,
+      "heading": "2.1.6 Solvent-Refined Coal (SRC)",
+      "level": 1,
+      "start_line": 397
+    },
+    {
+      "anchor": "2-2-assessment",
+      "end_line": 404,
+      "heading": "2.2 ASSESSMENT",
+      "level": 1,
+      "start_line": 403
+    },
+    {
+      "anchor": "2-2-1-resources",
+      "end_line": 423,
+      "heading": "2.2.1 Resources",
+      "level": 1,
+      "start_line": 405
+    },
+    {
+      "anchor": "2-2-2-general-applicability",
+      "end_line": 427,
+      "heading": "2.2.2 General Applicability",
+      "level": 1,
+      "start_line": 424
+    },
+    {
+      "anchor": "size",
+      "end_line": 435,
+      "heading": "Size",
+      "level": 1,
+      "start_line": 428
+    },
+    {
+      "anchor": "application-by-energy-form",
+      "end_line": 447,
+      "heading": "Application by energy form",
+      "level": 1,
+      "start_line": 436
+    },
+    {
+      "anchor": "ease-of-retrofitting",
+      "end_line": 459,
+      "heading": "Ease of retrofitting",
+      "level": 1,
+      "start_line": 448
+    },
+    {
+      "anchor": "9-htgr",
+      "end_line": 465,
+      "heading": "9. HTGR,",
+      "level": 2,
+      "start_line": 460
+    },
+    {
+      "anchor": "energy-acquisition",
+      "end_line": 481,
+      "heading": "Energy acquisition",
+      "level": 1,
+      "start_line": 466
+    },
+    {
+      "anchor": "2-3-environmental-considerations",
+      "end_line": 483,
+      "heading": "2.3 ENVIRONMENTAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 482
+    },
+    {
+      "anchor": "2-3-1-nuclear",
+      "end_line": 489,
+      "heading": "2.3.1 Nuclear",
+      "level": 1,
+      "start_line": 484
+    },
+    {
+      "anchor": "2-3-2-coal-based-systems",
+      "end_line": 505,
+      "heading": "2.3.2 Coal-Based Systems",
+      "level": 1,
+      "start_line": 490
+    },
+    {
+      "anchor": "2-4-economics",
+      "end_line": 509,
+      "heading": "2.4 ECONOMICS",
+      "level": 1,
+      "start_line": 506
+    },
+    {
+      "anchor": "2-4-1-capital-investments",
+      "end_line": 521,
+      "heading": "2.4.1 Capital Investments",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "2-4-2-fuel-costs",
+      "end_line": 537,
+      "heading": "2.4.2 Fuel Costs",
+      "level": 1,
+      "start_line": 522
+    },
+    {
+      "anchor": "2-4-3-energy-production-costs",
+      "end_line": 547,
+      "heading": "2.4.3 Energy Production Costs",
+      "level": 1,
+      "start_line": 538
+    },
+    {
+      "anchor": "hl6lz1-05m07n8o",
+      "end_line": 559,
+      "heading": "Hl6Lz1-05M07N8O",
+      "level": 2,
+      "start_line": 548
+    },
+    {
+      "anchor": "2-4-4-effects-of-cost-variables-on-economic-results",
+      "end_line": 574,
+      "heading": "2.4.4 Effects of Cost Variables on Economic Results",
+      "level": 1,
+      "start_line": 560
+    },
+    {
+      "anchor": "3-conclusions",
+      "end_line": 576,
+      "heading": "3. Conclusions",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "3-1-the-energy-need",
+      "end_line": 582,
+      "heading": "3.1 THE ENERGY NEED",
+      "level": 1,
+      "start_line": 577
+    },
+    {
+      "anchor": "3-2-the-energy-resources",
+      "end_line": 588,
+      "heading": "3.2 THE ENERGY RESOURCES",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "3-3-the-energy-system-choices",
+      "end_line": 594,
+      "heading": "3.3 THE ENERGY SYSTEM CHOICES",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "3-3-1-direct-firing-of-coal",
+      "end_line": 604,
+      "heading": "3.3.1 Direct Firing of Coal",
+      "level": 1,
+      "start_line": 595
+    },
+    {
+      "anchor": "3-3-2-on-site-coal-gasification",
+      "end_line": 608,
+      "heading": "3.3.2 On-Site Coal Gasification",
+      "level": 1,
+      "start_line": 605
+    },
+    {
+      "anchor": "3-3-3-mine-mouth-coal-conversion-processes",
+      "end_line": 620,
+      "heading": "3.3.3 Mine-Mouth Coal-Conversion Processes",
+      "level": 1,
+      "start_line": 609
+    },
+    {
+      "anchor": "3-3-4-nuclear-energy",
+      "end_line": 630,
+      "heading": "3.3.4 Nuclear Energy",
+      "level": 1,
+      "start_line": 621
+    },
+    {
+      "anchor": "4-recommendations",
+      "end_line": 634,
+      "heading": "4. Recommendations",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "coal-systems",
+      "end_line": 642,
+      "heading": "Coal systems",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "nuclear-systems",
+      "end_line": 664,
+      "heading": "Nuclear systems",
+      "level": 1,
+      "start_line": 643
+    },
+    {
+      "anchor": "4-1-coal-systems",
+      "end_line": 670,
+      "heading": "4.1 COAL SYSTEMS",
+      "level": 1,
+      "start_line": 665
+    },
+    {
+      "anchor": "4-2-nuclear-systems",
+      "end_line": 679,
+      "heading": "4.2 NUCLEAR SYSTEMS",
+      "level": 1,
+      "start_line": 671
+    },
+    {
+      "anchor": "part-ii-energy-systems",
+      "end_line": 685,
+      "heading": "Part II. Energy Systems",
+      "level": 1,
+      "start_line": 680
+    },
+    {
+      "anchor": "5-nuclear-energy-systems",
+      "end_line": 687,
+      "heading": "5. Nuclear Energy Systems",
+      "level": 1,
+      "start_line": 686
+    },
+    {
+      "anchor": "5-1-assessment-of-uranium-resources",
+      "end_line": 691,
+      "heading": "5.1 ASSESSMENT OF URANIUM RESOURCES",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "5-1-1-uranium-availability",
+      "end_line": 715,
+      "heading": "5.1.1 Uranium Availability",
+      "level": 1,
+      "start_line": 692
+    },
+    {
+      "anchor": "5-1-2-uranium-demand",
+      "end_line": 723,
+      "heading": "5.1.2 Uranium Demand",
+      "level": 1,
+      "start_line": 716
+    },
+    {
+      "anchor": "5-1-3-uranium-price-projections",
+      "end_line": 747,
+      "heading": "5.1.3 Uranium Price Projections",
+      "level": 1,
+      "start_line": 724
+    },
+    {
+      "anchor": "5-1-4-uranium-enrichment",
+      "end_line": 778,
+      "heading": "5.1.4 Uranium Enrichment",
+      "level": 1,
+      "start_line": 748
+    },
+    {
+      "anchor": "5-1-5-fuel-cycle-capital-requirements",
+      "end_line": 801,
+      "heading": "5.1.5 Fuel Cycle Capital Requirements",
+      "level": 1,
+      "start_line": 779
+    },
+    {
+      "anchor": "5-2-commercial-nuclear-plants",
+      "end_line": 803,
+      "heading": "5.2 COMMERCIAL NUCLEAR PLANTS",
+      "level": 1,
+      "start_line": 802
+    },
+    {
+      "anchor": "5-2-1-introduction",
+      "end_line": 849,
+      "heading": "5.2.1 Introduction",
+      "level": 1,
+      "start_line": 804
+    },
+    {
+      "anchor": "5-2-2-the-bwr-power-plant",
+      "end_line": 851,
+      "heading": "5.2.2 The BWR Power Plant",
+      "level": 1,
+      "start_line": 850
+    },
+    {
+      "anchor": "the-nuclear-steam-system",
+      "end_line": 859,
+      "heading": "The nuclear steam system",
+      "level": 1,
+      "start_line": 852
+    },
+    {
+      "anchor": "ornl-dwg-74-5669a",
+      "end_line": 861,
+      "heading": "Ornl-Dwg 74-5669A",
+      "level": 2,
+      "start_line": 860
+    },
+    {
+      "anchor": "legend",
+      "end_line": 863,
+      "heading": "LEGEND",
+      "level": 1,
+      "start_line": 862
+    },
+    {
+      "anchor": "flow",
+      "end_line": 865,
+      "heading": "= FLOW",
+      "level": 1,
+      "start_line": 864
+    },
+    {
+      "anchor": "f-temperature-f",
+      "end_line": 869,
+      "heading": "F = Temperature (°F)",
+      "level": 2,
+      "start_line": 866
+    },
+    {
+      "anchor": "m-moisture",
+      "end_line": 875,
+      "heading": "M = % Moisture",
+      "level": 2,
+      "start_line": 870
+    },
+    {
+      "anchor": "isolation-valves",
+      "end_line": 877,
+      "heading": "Isolation Valves",
+      "level": 2,
+      "start_line": 876
+    },
+    {
+      "anchor": "assumed-system-losses",
+      "end_line": 879,
+      "heading": "Assumed System Losses",
+      "level": 2,
+      "start_line": 878
+    },
+    {
+      "anchor": "thermal-1-1",
+      "end_line": 934,
+      "heading": "Thermal 1.1",
+      "level": 2,
+      "start_line": 880
+    },
+    {
+      "anchor": "balance-of-plant",
+      "end_line": 949,
+      "heading": "Balance of plant",
+      "level": 1,
+      "start_line": 935
+    },
+    {
+      "anchor": "ornl-dwg-74-5671",
+      "end_line": 978,
+      "heading": "Ornl-Dwg 74-5671",
+      "level": 2,
+      "start_line": 950
+    },
+    {
+      "anchor": "5-2-3-the-pwr-power-plant",
+      "end_line": 980,
+      "heading": "5.2.3 The PWR Power Plant",
+      "level": 1,
+      "start_line": 979
+    },
+    {
+      "anchor": "the-nuclear-steam-system",
+      "end_line": 1028,
+      "heading": "The nuclear steam system",
+      "level": 1,
+      "start_line": 981
+    },
+    {
+      "anchor": "balance-of-plant",
+      "end_line": 1046,
+      "heading": "Balance of plant",
+      "level": 1,
+      "start_line": 1029
+    },
+    {
+      "anchor": "5-2-4-the-htgr-power-plant",
+      "end_line": 1048,
+      "heading": "5.2.4 The HTGR Power Plant",
+      "level": 1,
+      "start_line": 1047
+    },
+    {
+      "anchor": "the-nuclear-steam-system",
+      "end_line": 1077,
+      "heading": "The nuclear steam system",
+      "level": 1,
+      "start_line": 1049
+    },
+    {
+      "anchor": "balance-of-plant",
+      "end_line": 1095,
+      "heading": "Balance of plant",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "5-2-5-environmental-parameters",
+      "end_line": 1099,
+      "heading": "5.2.5 Environmental Parameters",
+      "level": 1,
+      "start_line": 1096
+    },
+    {
+      "anchor": "ornl-dwg-74-5675a",
+      "end_line": 1117,
+      "heading": "Ornl-Dwg 74-5675A",
+      "level": 2,
+      "start_line": 1100
+    },
+    {
+      "anchor": "waste-heat",
+      "end_line": 1127,
+      "heading": "Waste heat",
+      "level": 1,
+      "start_line": 1118
+    },
+    {
+      "anchor": "ornl-dwg-74-5676",
+      "end_line": 1138,
+      "heading": "Ornl-Dwg 74-5676",
+      "level": 2,
+      "start_line": 1128
+    },
+    {
+      "anchor": "radiological",
+      "end_line": 1154,
+      "heading": "Radiological",
+      "level": 1,
+      "start_line": 1139
+    },
+    {
+      "anchor": "5-2-6-operating-and-maintenance-manpower-needs",
+      "end_line": 1160,
+      "heading": "5.2.6 Operating and Maintenance Manpower Needs",
+      "level": 1,
+      "start_line": 1155
+    },
+    {
+      "anchor": "operations-and-maintenance-staff",
+      "end_line": 1185,
+      "heading": "Operations and maintenance staff",
+      "level": 1,
+      "start_line": 1161
+    },
+    {
+      "anchor": "staff-training",
+      "end_line": 1227,
+      "heading": "Staff training",
+      "level": 1,
+      "start_line": 1186
+    },
+    {
+      "anchor": "5-2-7-downtime-for-refueling-and-other-maintenance",
+      "end_line": 1233,
+      "heading": "5.2.7 Downtime for Refueling and Other Maintenance",
+      "level": 1,
+      "start_line": 1228
+    },
+    {
+      "anchor": "ornl-dwg-74-5678",
+      "end_line": 1237,
+      "heading": "Ornl-Dwg 74-5678",
+      "level": 2,
+      "start_line": 1234
+    },
+    {
+      "anchor": "procedures-and-train-the-operating",
+      "end_line": 1238,
+      "heading": "Procedures, And Train The Operating",
+      "level": 2,
+      "start_line": 1238
+    },
+    {
+      "anchor": "crews-eventually-to-provide-senior",
+      "end_line": 1239,
+      "heading": "Crews . Eventually To Provide Senior",
+      "level": 2,
+      "start_line": 1239
+    },
+    {
+      "anchor": "staff-personnel-for-subsequent-power",
+      "end_line": 1240,
+      "heading": "Staff Personnel For Subsequent Power",
+      "level": 2,
+      "start_line": 1240
+    },
+    {
+      "anchor": "reactors-contains-that-group-which",
+      "end_line": 1241,
+      "heading": "Reactors . Contains That Group Which",
+      "level": 2,
+      "start_line": 1241
+    },
+    {
+      "anchor": "will-obtain-aec-operator-and-senior",
+      "end_line": 1242,
+      "heading": "Will Obtain Aec Operator And Senior",
+      "level": 2,
+      "start_line": 1242
+    },
+    {
+      "anchor": "operator-licenses-prior-to-initial",
+      "end_line": 1247,
+      "heading": "Operator Licenses Prior To Initial",
+      "level": 2,
+      "start_line": 1243
+    },
+    {
+      "anchor": "which-will-obtain-aec-operator-and",
+      "end_line": 1248,
+      "heading": "Which Will Obtain Aec Operator And",
+      "level": 2,
+      "start_line": 1248
+    },
+    {
+      "anchor": "senior-operator-licenses-after-initial",
+      "end_line": 1283,
+      "heading": "Senior Operator Licenses After Initial",
+      "level": 2,
+      "start_line": 1249
+    },
+    {
+      "anchor": "5-2-8-construction-schedule",
+      "end_line": 1303,
+      "heading": "5.2.8 Construction Schedule",
+      "level": 1,
+      "start_line": 1284
+    },
+    {
+      "anchor": "ornl-dwg-74-5679",
+      "end_line": 1422,
+      "heading": "Ornl-Dwg 74-5679",
+      "level": 2,
+      "start_line": 1304
+    },
+    {
+      "anchor": "ornl-dwg-74-5680",
+      "end_line": 1427,
+      "heading": "Ornl-Dwg 74-5680",
+      "level": 2,
+      "start_line": 1423
+    },
+    {
+      "anchor": "5-2-9-economic-analysis",
+      "end_line": 1443,
+      "heading": "5.2.9 Economic Analysis",
+      "level": 1,
+      "start_line": 1428
+    },
+    {
+      "anchor": "large-nuclear-plants",
+      "end_line": 1478,
+      "heading": "Large nuclear plants",
+      "level": 1,
+      "start_line": 1444
+    },
+    {
+      "anchor": "intermediate-size-nuclear-plants",
+      "end_line": 1562,
+      "heading": "Intermediate-size nuclear plants",
+      "level": 1,
+      "start_line": 1479
+    },
+    {
+      "anchor": "prime-steam-for-process-applications-from-lwrs-and-htgrs",
+      "end_line": 1607,
+      "heading": "Prime steam for process applications from LWRs and HTGRs",
+      "level": 1,
+      "start_line": 1563
+    },
+    {
+      "anchor": "ornl-dwg-74-5961",
+      "end_line": 1627,
+      "heading": "Ornl-Dwg 74-5961",
+      "level": 2,
+      "start_line": 1608
+    },
+    {
+      "anchor": "high-temperature-process-heat-from-the-htgr",
+      "end_line": 1641,
+      "heading": "High-temperature process heat from the HTGR",
+      "level": 1,
+      "start_line": 1628
+    },
+    {
+      "anchor": "5-3-special-purpose-pwr-for-industry",
+      "end_line": 1643,
+      "heading": "5.3 SPECIAL-PURPOSE PWR FOR INDUSTRY",
+      "level": 1,
+      "start_line": 1642
+    },
+    {
+      "anchor": "5-3-1-background-and-status-of-the-cnsg-reactor",
+      "end_line": 1655,
+      "heading": "5.3.1 Background and Status of the CNSG Reactor",
+      "level": 1,
+      "start_line": 1644
+    },
+    {
+      "anchor": "5-3-2-reactor-plant",
+      "end_line": 1665,
+      "heading": "5.3.2 Reactor Plant",
+      "level": 1,
+      "start_line": 1656
+    },
+    {
+      "anchor": "ornl-dwg-74-7104",
+      "end_line": 1673,
+      "heading": "Ornl-Dwg 74-7104",
+      "level": 2,
+      "start_line": 1666
+    },
+    {
+      "anchor": "ornl-dwg-74-7103",
+      "end_line": 1675,
+      "heading": "Ornl-Dwg 74-7103",
+      "level": 2,
+      "start_line": 1674
+    },
+    {
+      "anchor": "ornl-dwg-74-2333r",
+      "end_line": 1677,
+      "heading": "Ornl-Dwg 74-2333R",
+      "level": 2,
+      "start_line": 1676
+    },
+    {
+      "anchor": "1-circulating-system-intake-and-discharge",
+      "end_line": 1679,
+      "heading": "1 CIRCULATING SYSTEM INTAKE AND DISCHARGE",
+      "level": 2,
+      "start_line": 1678
+    },
+    {
+      "anchor": "3-vessel-head-storage",
+      "end_line": 1680,
+      "heading": "3 VESSEL HEAD STORAGE",
+      "level": 2,
+      "start_line": 1680
+    },
+    {
+      "anchor": "4-fuel-handling-pool-and-internals-storage",
+      "end_line": 1682,
+      "heading": "4 FUEL HANDLING POOL AND INTERNALS STORAGE",
+      "level": 2,
+      "start_line": 1681
+    },
+    {
+      "anchor": "6-spent-fuel-storage",
+      "end_line": 1683,
+      "heading": "6 SPENT FUEL STORAGE",
+      "level": 2,
+      "start_line": 1683
+    },
+    {
+      "anchor": "7-spent-fuel-shipping-pit",
+      "end_line": 1684,
+      "heading": "7 SPENT FUEL SHIPPING PIT",
+      "level": 2,
+      "start_line": 1684
+    },
+    {
+      "anchor": "8-new-fuel-storage",
+      "end_line": 1685,
+      "heading": "8 NEW FUEL STORAGE",
+      "level": 2,
+      "start_line": 1685
+    },
+    {
+      "anchor": "9-reactor-building",
+      "end_line": 1686,
+      "heading": "9 REACTOR BUILDING",
+      "level": 2,
+      "start_line": 1686
+    },
+    {
+      "anchor": "10-air-lock",
+      "end_line": 1687,
+      "heading": "10 AIR LOCK",
+      "level": 2,
+      "start_line": 1687
+    },
+    {
+      "anchor": "11-demineralizer",
+      "end_line": 1688,
+      "heading": "11 DEMINERALIZER",
+      "level": 2,
+      "start_line": 1688
+    },
+    {
+      "anchor": "12-pressure-suppression-pool",
+      "end_line": 1691,
+      "heading": "12 PRESSURE SUPPRESSION POOL",
+      "level": 2,
+      "start_line": 1689
+    },
+    {
+      "anchor": "14-reactor",
+      "end_line": 1692,
+      "heading": "14 REACTOR",
+      "level": 2,
+      "start_line": 1692
+    },
+    {
+      "anchor": "15-primary-containment",
+      "end_line": 1693,
+      "heading": "15 PRIMARY CONTAINMENT",
+      "level": 2,
+      "start_line": 1693
+    },
+    {
+      "anchor": "16-control-room",
+      "end_line": 1694,
+      "heading": "16 CONTROL ROOM",
+      "level": 2,
+      "start_line": 1694
+    },
+    {
+      "anchor": "17-service-building",
+      "end_line": 1705,
+      "heading": "17 SERVICE BUILDING",
+      "level": 2,
+      "start_line": 1695
+    },
+    {
+      "anchor": "5-3-3-power-conversion-plant",
+      "end_line": 1714,
+      "heading": "5.3.3 Power-Conversion Plant",
+      "level": 1,
+      "start_line": 1706
+    },
+    {
+      "anchor": "ornl-dwg-74-8842",
+      "end_line": 1722,
+      "heading": "Ornl-Dwg 74-8842",
+      "level": 2,
+      "start_line": 1715
+    },
+    {
+      "anchor": "5-3-4-description-of-1235-mw-t-system",
+      "end_line": 1728,
+      "heading": "5.3.4 Description of 1235-MW(t) System",
+      "level": 1,
+      "start_line": 1723
+    },
+    {
+      "anchor": "5-3-5-economic-analysis",
+      "end_line": 1732,
+      "heading": "5.3.5 Economic Analysis",
+      "level": 1,
+      "start_line": 1729
+    },
+    {
+      "anchor": "plant-capital-costs",
+      "end_line": 1744,
+      "heading": "Plant capital costs",
+      "level": 1,
+      "start_line": 1733
+    },
+    {
+      "anchor": "operating-and-maintenance-costs",
+      "end_line": 1760,
+      "heading": "Operating and maintenance costs",
+      "level": 1,
+      "start_line": 1745
+    },
+    {
+      "anchor": "process-heat-and-power-costs",
+      "end_line": 1808,
+      "heading": "Process heat and power costs",
+      "level": 1,
+      "start_line": 1761
+    },
+    {
+      "anchor": "5-3-6-platform-mounted-cnsg-reactor",
+      "end_line": 1825,
+      "heading": "5.3.6 Platform-Mounted CNSG Reactor",
+      "level": 1,
+      "start_line": 1809
+    },
+    {
+      "anchor": "platform-description",
+      "end_line": 1838,
+      "heading": "Platform description",
+      "level": 1,
+      "start_line": 1826
+    },
+    {
+      "anchor": "ornl-dwg-74-8841",
+      "end_line": 1843,
+      "heading": "Ornl-Dwg 74-8841",
+      "level": 2,
+      "start_line": 1839
+    },
+    {
+      "anchor": "machinery-space",
+      "end_line": 1845,
+      "heading": "Machinery Space",
+      "level": 2,
+      "start_line": 1844
+    },
+    {
+      "anchor": "level",
+      "end_line": 1852,
+      "heading": "Level",
+      "level": 2,
+      "start_line": 1846
+    },
+    {
+      "anchor": "nboard-profile",
+      "end_line": 1868,
+      "heading": "Nboard Profile",
+      "level": 2,
+      "start_line": 1853
+    },
+    {
+      "anchor": "platform-mounted-reactor-plant-capital-costs",
+      "end_line": 1901,
+      "heading": "Platform-mounted reactor plant capital costs",
+      "level": 1,
+      "start_line": 1869
+    },
+    {
+      "anchor": "site-facilities",
+      "end_line": 1915,
+      "heading": "Site facilities",
+      "level": 1,
+      "start_line": 1902
+    },
+    {
+      "anchor": "5-4-thermal-energy-transport-from-nuclear-plants",
+      "end_line": 1946,
+      "heading": "5.4 THERMAL ENERGY TRANSPORT FROM NUCLEAR PLANTS",
+      "level": 1,
+      "start_line": 1916
+    },
+    {
+      "anchor": "ornl-dwg-74-12795",
+      "end_line": 1948,
+      "heading": "Ornl-Dwg 74-12795",
+      "level": 2,
+      "start_line": 1947
+    },
+    {
+      "anchor": "5-5-nuclear-plant-siting-licensing-and-regulation",
+      "end_line": 1950,
+      "heading": "5.5 NUCLEAR PLANT SITING, LICENSING, AND REGULATION",
+      "level": 1,
+      "start_line": 1949
+    },
+    {
+      "anchor": "5-5-1-licensing-and-regulation",
+      "end_line": 1952,
+      "heading": "5.5.1 Licensing and Regulation",
+      "level": 1,
+      "start_line": 1951
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1958,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1953
+    },
+    {
+      "anchor": "specialized-terms-used-in-aec-licensing",
+      "end_line": 1978,
+      "heading": "Specialized terms used in AEC licensing",
+      "level": 1,
+      "start_line": 1959
+    },
+    {
+      "anchor": "aec-rules-and-regulations",
+      "end_line": 2008,
+      "heading": "AEC rules and regulations",
+      "level": 1,
+      "start_line": 1979
+    },
+    {
+      "anchor": "other-official-regulatory-guides",
+      "end_line": 2030,
+      "heading": "Other official regulatory guides.",
+      "level": 1,
+      "start_line": 2009
+    },
+    {
+      "anchor": "the-licensing-process",
+      "end_line": 2044,
+      "heading": "The licensing process",
+      "level": 1,
+      "start_line": 2031
+    },
+    {
+      "anchor": "ornl-dwg-74-12811",
+      "end_line": 2114,
+      "heading": "Ornl-Dwg 74-12811",
+      "level": 2,
+      "start_line": 2045
+    },
+    {
+      "anchor": "5-5-2-siting",
+      "end_line": 2116,
+      "heading": "5.5.2 Siting",
+      "level": 1,
+      "start_line": 2115
+    },
+    {
+      "anchor": "general-considerations",
+      "end_line": 2132,
+      "heading": "General considerations",
+      "level": 1,
+      "start_line": 2117
+    },
+    {
+      "anchor": "population-risk-factor-estimates",
+      "end_line": 2144,
+      "heading": "Population risk-factor estimates",
+      "level": 1,
+      "start_line": 2133
+    },
+    {
+      "anchor": "ornl-dwg-74-12738",
+      "end_line": 2220,
+      "heading": "Ornl-Dwg 74-12738",
+      "level": 2,
+      "start_line": 2145
+    },
+    {
+      "anchor": "6-coal-based-systems",
+      "end_line": 2222,
+      "heading": "6. Coal-Based Systems",
+      "level": 1,
+      "start_line": 2221
+    },
+    {
+      "anchor": "6-1-assessment-of-coal-resources-availability-and-cost",
+      "end_line": 2224,
+      "heading": "6.1 ASSESSMENT OF COAL RESOURCES, AVAILABILITY, AND COST",
+      "level": 1,
+      "start_line": 2223
+    },
+    {
+      "anchor": "6-1-1-resource-base",
+      "end_line": 2228,
+      "heading": "6.1.1 Resource Base",
+      "level": 1,
+      "start_line": 2225
+    },
+    {
+      "anchor": "6-1-2-recoverable-reserves",
+      "end_line": 2236,
+      "heading": "6.1.2 Recoverable Reserves",
+      "level": 1,
+      "start_line": 2229
+    },
+    {
+      "anchor": "6-1-3-availability",
+      "end_line": 2246,
+      "heading": "6.1.3 Availability",
+      "level": 1,
+      "start_line": 2237
+    },
+    {
+      "anchor": "ornl-dwg-74-12810",
+      "end_line": 2262,
+      "heading": "Ornl-Dwg 74-12810",
+      "level": 2,
+      "start_line": 2247
+    },
+    {
+      "anchor": "environmental-constraints",
+      "end_line": 2270,
+      "heading": "Environmental constraints",
+      "level": 1,
+      "start_line": 2263
+    },
+    {
+      "anchor": "coal-mining-expansion",
+      "end_line": 2287,
+      "heading": "Coal mining expansion",
+      "level": 1,
+      "start_line": 2271
+    },
+    {
+      "anchor": "transportation",
+      "end_line": 2303,
+      "heading": "Transportation",
+      "level": 1,
+      "start_line": 2288
+    },
+    {
+      "anchor": "6-1-4-demand",
+      "end_line": 2321,
+      "heading": "6.1.4 Demand",
+      "level": 1,
+      "start_line": 2304
+    },
+    {
+      "anchor": "6-1-5-coal-costs",
+      "end_line": 2323,
+      "heading": "6.1.5 Coal Costs",
+      "level": 1,
+      "start_line": 2322
+    },
+    {
+      "anchor": "coal-values-at-mine",
+      "end_line": 2405,
+      "heading": "Coal values at mine",
+      "level": 1,
+      "start_line": 2324
+    },
+    {
+      "anchor": "transportation-cost",
+      "end_line": 2424,
+      "heading": "Transportation cost",
+      "level": 1,
+      "start_line": 2406
+    },
+    {
+      "anchor": "delivered-coal-costs",
+      "end_line": 2440,
+      "heading": "Delivered coal costs",
+      "level": 1,
+      "start_line": 2425
+    },
+    {
+      "anchor": "6-2-conventional-firing-with-coal",
+      "end_line": 2442,
+      "heading": "6.2 CONVENTIONAL FIRING WITH COAL",
+      "level": 1,
+      "start_line": 2441
+    },
+    {
+      "anchor": "6-2-1-low-sulfur-coal-with-conventional-boilers",
+      "end_line": 2454,
+      "heading": "6.2.1 Low-Sulfur Coal with Conventional Boilers",
+      "level": 1,
+      "start_line": 2443
+    },
+    {
+      "anchor": "6-2-2-conventional-boilers-with-stack-gas-treatment",
+      "end_line": 2466,
+      "heading": "6.2.2 Conventional Boilers with Stack-Gas Treatment",
+      "level": 1,
+      "start_line": 2455
+    },
+    {
+      "anchor": "6-2-3-throwaway-scrubbing",
+      "end_line": 2476,
+      "heading": "6.2.3 Throwaway Scrubbing",
+      "level": 1,
+      "start_line": 2467
+    },
+    {
+      "anchor": "6-2-4-regenerable-scrubbing",
+      "end_line": 2496,
+      "heading": "6.2.4 Regenerable Scrubbing",
+      "level": 1,
+      "start_line": 2477
+    },
+    {
+      "anchor": "6-2-5-dry-processes",
+      "end_line": 2520,
+      "heading": "6.2.5 Dry Processes",
+      "level": 1,
+      "start_line": 2497
+    },
+    {
+      "anchor": "6-2-6-environmental-impact",
+      "end_line": 2546,
+      "heading": "6.2.6 Environmental Impact",
+      "level": 1,
+      "start_line": 2521
+    },
+    {
+      "anchor": "6-2-7-economic-analysis",
+      "end_line": 2596,
+      "heading": "6.2.7 Economic Analysis",
+      "level": 1,
+      "start_line": 2547
+    },
+    {
+      "anchor": "6-2-8-cost-of-steam-using-coal-fired-boilers",
+      "end_line": 2615,
+      "heading": "6.2.8 Cost of Steam Using Coal-Fired Boilers",
+      "level": 1,
+      "start_line": 2597
+    },
+    {
+      "anchor": "6-3-fluidized-bed-combustion",
+      "end_line": 2617,
+      "heading": "6.3 FLUIDIZED-BED COMBUSTION",
+      "level": 1,
+      "start_line": 2616
+    },
+    {
+      "anchor": "6-3-1-fluidized-bed-boiler-general-description",
+      "end_line": 2659,
+      "heading": "6.3.1 Fluidized-Bed Boiler: General Description",
+      "level": 1,
+      "start_line": 2618
+    },
+    {
+      "anchor": "6-3-2-sulfur-removal",
+      "end_line": 2663,
+      "heading": "6.3.2 Sulfur Removal",
+      "level": 1,
+      "start_line": 2660
+    },
+    {
+      "anchor": "6-3-3-regeneration-of-the-lime",
+      "end_line": 2677,
+      "heading": "6.3.3 Regeneration of the Lime",
+      "level": 1,
+      "start_line": 2664
+    },
+    {
+      "anchor": "6-3-4-mathbf-no-x-formation",
+      "end_line": 2688,
+      "heading": "6.3.4 $\\mathbf{NO}_x$ Formation",
+      "level": 1,
+      "start_line": 2678
+    },
+    {
+      "anchor": "6-3-5-development-problems",
+      "end_line": 2696,
+      "heading": "6.3.5 Development Problems",
+      "level": 1,
+      "start_line": 2689
+    },
+    {
+      "anchor": "6-3-6-economic-analyses",
+      "end_line": 2702,
+      "heading": "6.3.6 Economic Analyses",
+      "level": 1,
+      "start_line": 2697
+    },
+    {
+      "anchor": "ornl-dwg-75-1966",
+      "end_line": 2719,
+      "heading": "Ornl-Dwg 75-1966",
+      "level": 2,
+      "start_line": 2703
+    },
+    {
+      "anchor": "6-3-7-direct-fired-process-heaters",
+      "end_line": 2730,
+      "heading": "6.3.7 Direct-Fired Process Heaters",
+      "level": 1,
+      "start_line": 2720
+    },
+    {
+      "anchor": "6-4-low-and-intermediate-btu-gas",
+      "end_line": 2732,
+      "heading": "6.4 LOW- AND INTERMEDIATE-Btu GAS",
+      "level": 1,
+      "start_line": 2731
+    },
+    {
+      "anchor": "6-4-1-general-description",
+      "end_line": 2770,
+      "heading": "6.4.1 General Description",
+      "level": 1,
+      "start_line": 2733
+    },
+    {
+      "anchor": "6-4-2-state-of-development-and-commercial-availability",
+      "end_line": 2774,
+      "heading": "6.4.2 State of Development and Commercial Availability",
+      "level": 1,
+      "start_line": 2771
+    },
+    {
+      "anchor": "6-4-3-system-characteristics",
+      "end_line": 2786,
+      "heading": "6.4.3 System Characteristics",
+      "level": 1,
+      "start_line": 2775
+    },
+    {
+      "anchor": "6-4-4-commercial-systems-presently-available",
+      "end_line": 2788,
+      "heading": "6.4.4 Commercial Systems Presently Available",
+      "level": 1,
+      "start_line": 2787
+    },
+    {
+      "anchor": "lurgi-process",
+      "end_line": 2801,
+      "heading": "Lurgi process",
+      "level": 1,
+      "start_line": 2789
+    },
+    {
+      "anchor": "koppers-totzek-process",
+      "end_line": 2810,
+      "heading": "Koppers-Totzek process",
+      "level": 1,
+      "start_line": 2802
+    },
+    {
+      "anchor": "wellman-galusha-process",
+      "end_line": 2814,
+      "heading": "Wellman-Galusha process",
+      "level": 1,
+      "start_line": 2811
+    },
+    {
+      "anchor": "ornl-dwg-73-12395",
+      "end_line": 2830,
+      "heading": "Ornl-Dwg 73-12395",
+      "level": 2,
+      "start_line": 2815
+    },
+    {
+      "anchor": "winkler-process",
+      "end_line": 2841,
+      "heading": "Winkler process",
+      "level": 1,
+      "start_line": 2831
+    },
+    {
+      "anchor": "6-4-5-new-systems-under-development",
+      "end_line": 2845,
+      "heading": "6.4.5 New Systems Under Development",
+      "level": 1,
+      "start_line": 2842
+    },
+    {
+      "anchor": "union-carbide-ash-agglomerating-fluid-bed-process",
+      "end_line": 2853,
+      "heading": "Union Carbide ash-agglomerating fluid-bed process",
+      "level": 1,
+      "start_line": 2846
+    },
+    {
+      "anchor": "atgas-process",
+      "end_line": 2859,
+      "heading": "Atgas Process",
+      "level": 1,
+      "start_line": 2854
+    },
+    {
+      "anchor": "6-4-6-gas-purification",
+      "end_line": 2881,
+      "heading": "6.4.6 Gas Purification",
+      "level": 1,
+      "start_line": 2860
+    },
+    {
+      "anchor": "6-4-7-economic-analyses",
+      "end_line": 2952,
+      "heading": "6.4.7 Economic Analyses",
+      "level": 1,
+      "start_line": 2882
+    },
+    {
+      "anchor": "6-5-high-btu-gas",
+      "end_line": 2954,
+      "heading": "6.5 HIGH-Btu GAS",
+      "level": 1,
+      "start_line": 2953
+    },
+    {
+      "anchor": "6-5-1-general-description-122-123",
+      "end_line": 2956,
+      "heading": "6.5.1 General Description $^{122,123}$",
+      "level": 1,
+      "start_line": 2955
+    },
+    {
+      "anchor": "basic-chemistry",
+      "end_line": 2976,
+      "heading": "Basic chemistry",
+      "level": 1,
+      "start_line": 2957
+    },
+    {
+      "anchor": "high-btu-gas-production",
+      "end_line": 2997,
+      "heading": "High-Btu gas production",
+      "level": 1,
+      "start_line": 2977
+    },
+    {
+      "anchor": "6-5-2-state-of-development-and-commercial-availability",
+      "end_line": 3011,
+      "heading": "6.5.2 State of Development and Commercial Availability",
+      "level": 1,
+      "start_line": 2998
+    },
+    {
+      "anchor": "6-5-3-system-characteristics",
+      "end_line": 3013,
+      "heading": "6.5.3 System Characteristics",
+      "level": 1,
+      "start_line": 3012
+    },
+    {
+      "anchor": "lurgi-process",
+      "end_line": 3019,
+      "heading": "Lurgi process",
+      "level": 1,
+      "start_line": 3014
+    },
+    {
+      "anchor": "ornl-dwg-75-1969",
+      "end_line": 3031,
+      "heading": "Ornl-Dwg 75-1969",
+      "level": 2,
+      "start_line": 3020
+    },
+    {
+      "anchor": "hygasprocess-instituteofgastechnology",
+      "end_line": 3046,
+      "heading": "Hygasprocess(InstituteofGasTechnology)",
+      "level": 1,
+      "start_line": 3032
+    },
+    {
+      "anchor": "mathbf-co-2-acceptor-process-consolidation-coal-company",
+      "end_line": 3059,
+      "heading": "$\\mathbf{CO}_2$ -Acceptor process (Consolidation Coal Company)",
+      "level": 1,
+      "start_line": 3047
+    },
+    {
+      "anchor": "bigas-process-bituminous-coal-research-inc",
+      "end_line": 3063,
+      "heading": "Bigas process (Bituminous Coal Research, Inc.)",
+      "level": 1,
+      "start_line": 3060
+    },
+    {
+      "anchor": "ornl-dwg-74-12807",
+      "end_line": 3072,
+      "heading": "Ornl-Dwg 74-12807",
+      "level": 2,
+      "start_line": 3064
+    },
+    {
+      "anchor": "synthane-process-bureau-of-mines",
+      "end_line": 3083,
+      "heading": "Synthane process (Bureau of Mines)",
+      "level": 1,
+      "start_line": 3073
+    },
+    {
+      "anchor": "6-5-4-economic-analysis",
+      "end_line": 3085,
+      "heading": "6.5.4 Economic Analysis",
+      "level": 1,
+      "start_line": 3084
+    },
+    {
+      "anchor": "lurgi-process",
+      "end_line": 3135,
+      "heading": "Lurgi process",
+      "level": 1,
+      "start_line": 3086
+    },
+    {
+      "anchor": "economic-potential-of-developmental-processes",
+      "end_line": 3179,
+      "heading": "Economic potential of developmental processes",
+      "level": 1,
+      "start_line": 3136
+    },
+    {
+      "anchor": "6-5-5-availability",
+      "end_line": 3192,
+      "heading": "6.5.5 Availability",
+      "level": 1,
+      "start_line": 3180
+    },
+    {
+      "anchor": "6-6-liquefaction-and-clean-boiler-fuels-from-coal",
+      "end_line": 3194,
+      "heading": "6.6 LIQUEFACTION AND CLEAN BOILER FUELS FROM COAL",
+      "level": 1,
+      "start_line": 3193
+    },
+    {
+      "anchor": "6-6-1-general-description-129-130",
+      "end_line": 3215,
+      "heading": "6.6.1 General Description $^{129,130}$",
+      "level": 1,
+      "start_line": 3195
+    },
+    {
+      "anchor": "6-6-2-technology-for-coal-liquefaction",
+      "end_line": 3217,
+      "heading": "6.6.2 Technology for Coal Liquefaction",
+      "level": 1,
+      "start_line": 3216
+    },
+    {
+      "anchor": "pyrolysis",
+      "end_line": 3221,
+      "heading": "Pyrolysis",
+      "level": 1,
+      "start_line": 3218
+    },
+    {
+      "anchor": "fischer-tropsch-process",
+      "end_line": 3229,
+      "heading": "Fischer-Tropsch process",
+      "level": 1,
+      "start_line": 3222
+    },
+    {
+      "anchor": "catalytic-hydrogenation",
+      "end_line": 3235,
+      "heading": "Catalytic hydrogenation",
+      "level": 1,
+      "start_line": 3230
+    },
+    {
+      "anchor": "hydrogen-donor-solvents",
+      "end_line": 3239,
+      "heading": "Hydrogen donor solvents",
+      "level": 1,
+      "start_line": 3236
+    },
+    {
+      "anchor": "low-sulfur-fuel-oils-from-coal",
+      "end_line": 3243,
+      "heading": "Low-sulfur fuel oils from coal",
+      "level": 1,
+      "start_line": 3240
+    },
+    {
+      "anchor": "6-6-3-state-of-development-and-commercial-availability",
+      "end_line": 3249,
+      "heading": "6.6.3 State of Development and Commercial Availability",
+      "level": 1,
+      "start_line": 3244
+    },
+    {
+      "anchor": "6-6-4-system-characteristics",
+      "end_line": 3251,
+      "heading": "6.6.4 System Characteristics",
+      "level": 1,
+      "start_line": 3250
+    },
+    {
+      "anchor": "solvent-refined-coal-131-133",
+      "end_line": 3263,
+      "heading": "Solvent-refined coal $^{131-133}$",
+      "level": 1,
+      "start_line": 3252
+    },
+    {
+      "anchor": "ornl-dwg-73-7747",
+      "end_line": 3280,
+      "heading": "Ornl-Dwg 73-7747",
+      "level": 2,
+      "start_line": 3264
+    },
+    {
+      "anchor": "consol-process",
+      "end_line": 3295,
+      "heading": "CONSOL process",
+      "level": 1,
+      "start_line": 3281
+    },
+    {
+      "anchor": "coed-process",
+      "end_line": 3325,
+      "heading": "COED process",
+      "level": 1,
+      "start_line": 3296
+    },
+    {
+      "anchor": "h-coal-process",
+      "end_line": 3334,
+      "heading": "H-coal process",
+      "level": 1,
+      "start_line": 3326
+    },
+    {
+      "anchor": "6-6-5-economic-analysis",
+      "end_line": 3338,
+      "heading": "6.6.5 Economic Analysis",
+      "level": 1,
+      "start_line": 3335
+    },
+    {
+      "anchor": "solvent-refined-coal",
+      "end_line": 3354,
+      "heading": "Solvent-refined coal",
+      "level": 1,
+      "start_line": 3339
+    },
+    {
+      "anchor": "liquid-boiler-fuel",
+      "end_line": 3380,
+      "heading": "Liquid boiler fuel",
+      "level": 1,
+      "start_line": 3355
+    },
+    {
+      "anchor": "6-7-methanol-from-coal",
+      "end_line": 3413,
+      "heading": "6.7 METHANOL FROM COAL",
+      "level": 1,
+      "start_line": 3381
+    },
+    {
+      "anchor": "part-iii-assessment",
+      "end_line": 3417,
+      "heading": "Part III. Assessment",
+      "level": 1,
+      "start_line": 3414
+    },
+    {
+      "anchor": "7-assessment-of-energy-alternatives",
+      "end_line": 3425,
+      "heading": "7. Assessment of Energy Alternatives",
+      "level": 1,
+      "start_line": 3418
+    },
+    {
+      "anchor": "7-1-nuclear-energy",
+      "end_line": 3461,
+      "heading": "7.1 NUCLEAR ENERGY",
+      "level": 1,
+      "start_line": 3426
+    },
+    {
+      "anchor": "7-2-direct-coal-fired-boiler",
+      "end_line": 3472,
+      "heading": "7.2 DIRECT COAL-FIRED BOILER",
+      "level": 1,
+      "start_line": 3462
+    },
+    {
+      "anchor": "7-3-low-intermediate-and-high-btu-gas-from-coal",
+      "end_line": 3482,
+      "heading": "7.3 LOW-, INTERMEDIATE-, AND HIGH-Btu GAS FROM COAL",
+      "level": 1,
+      "start_line": 3473
+    },
+    {
+      "anchor": "960l-2-ldm-7n80",
+      "end_line": 3492,
+      "heading": "960L-2 Ldm-7N80",
+      "level": 2,
+      "start_line": 3483
+    },
+    {
+      "anchor": "7-4-solvent-refined-coal-and-liquid-boiler-fuel-from-coal",
+      "end_line": 3509,
+      "heading": "7.4 SOLVENT-REFINED COAL AND LIQUID BOILER FUEL FROM COAL",
+      "level": 1,
+      "start_line": 3493
+    },
+    {
+      "anchor": "7-5-selected-comparison-of-steam-costs-from-alternative-processes",
+      "end_line": 3517,
+      "heading": "7.5 SELECTED COMPARISON OF STEAM COSTS FROM ALTERNATIVE PROCESSES",
+      "level": 1,
+      "start_line": 3510
+    },
+    {
+      "anchor": "860l-4l-5mo-1nho",
+      "end_line": 3519,
+      "heading": "860L-4L 5Mo-1Nho",
+      "level": 2,
+      "start_line": 3518
+    },
+    {
+      "anchor": "7-6-retrofitting-an-existing-gas-fired-boiler-or-process-heater",
+      "end_line": 3535,
+      "heading": "7.6 RETROFITTING AN EXISTING GAS-FIRED BOILER (OR PROCESS HEATER)",
+      "level": 1,
+      "start_line": 3520
+    },
+    {
+      "anchor": "7-7-sensitivity-analysis",
+      "end_line": 3547,
+      "heading": "7.7 SENSITIVITY ANALYSIS",
+      "level": 1,
+      "start_line": 3536
+    },
+    {
+      "anchor": "7-8-conclusions",
+      "end_line": 3561,
+      "heading": "7.8 CONCLUSIONS",
+      "level": 1,
+      "start_line": 3548
+    },
+    {
+      "anchor": "9-htgr",
+      "end_line": 3591,
+      "heading": "9. HTGR,",
+      "level": 2,
+      "start_line": 3562
+    },
+    {
+      "anchor": "8-industrial-view-of-alternatives",
+      "end_line": 3593,
+      "heading": "8. Industrial View of Alternatives",
+      "level": 1,
+      "start_line": 3592
+    },
+    {
+      "anchor": "8-1-pulp-and-paper-manufacturing",
+      "end_line": 3595,
+      "heading": "8.1 PULP AND PAPER MANUFACTURING",
+      "level": 1,
+      "start_line": 3594
+    },
+    {
+      "anchor": "8-1-1-crown-zellerbach",
+      "end_line": 3605,
+      "heading": "8.1.1 Crown Zellerbach",
+      "level": 1,
+      "start_line": 3596
+    },
+    {
+      "anchor": "energy-requirement",
+      "end_line": 3627,
+      "heading": "Energy requirement",
+      "level": 1,
+      "start_line": 3606
+    },
+    {
+      "anchor": "special-problems",
+      "end_line": 3639,
+      "heading": "Special problems",
+      "level": 1,
+      "start_line": 3628
+    },
+    {
+      "anchor": "energy-alternatives-at-bogalusa",
+      "end_line": 3646,
+      "heading": "Energy alternatives at Bogalusa",
+      "level": 1,
+      "start_line": 3640
+    },
+    {
+      "anchor": "recommendations",
+      "end_line": 3657,
+      "heading": "Recommendations",
+      "level": 1,
+      "start_line": 3647
+    },
+    {
+      "anchor": "priorities",
+      "end_line": 3666,
+      "heading": "Priorities",
+      "level": 1,
+      "start_line": 3658
+    },
+    {
+      "anchor": "5-src",
+      "end_line": 3669,
+      "heading": "5. SRC,",
+      "level": 2,
+      "start_line": 3667
+    },
+    {
+      "anchor": "8-1-2-international-paper-company",
+      "end_line": 3675,
+      "heading": "8.1.2 International Paper Company",
+      "level": 1,
+      "start_line": 3670
+    },
+    {
+      "anchor": "recommendations",
+      "end_line": 3698,
+      "heading": "Recommendations",
+      "level": 1,
+      "start_line": 3676
+    },
+    {
+      "anchor": "8-2-petrochemical-manufacturing",
+      "end_line": 3700,
+      "heading": "8.2 PETROCHEMICAL MANUFACTURING",
+      "level": 1,
+      "start_line": 3699
+    },
+    {
+      "anchor": "8-2-1-celanese-chemical-company",
+      "end_line": 3714,
+      "heading": "8.2.1 Celanese Chemical Company",
+      "level": 1,
+      "start_line": 3701
+    },
+    {
+      "anchor": "8-2-2-dow-chemical-usa",
+      "end_line": 3738,
+      "heading": "8.2.2 Dow Chemical, USA",
+      "level": 1,
+      "start_line": 3715
+    },
+    {
+      "anchor": "8-2-3-monsanto-company",
+      "end_line": 3755,
+      "heading": "8.2.3 Monsanto Company",
+      "level": 1,
+      "start_line": 3739
+    },
+    {
+      "anchor": "8-2-4-union-carbide-corporation-ucc",
+      "end_line": 3780,
+      "heading": "8.2.4 Union Carbide Corporation (UCC)",
+      "level": 1,
+      "start_line": 3756
+    },
+    {
+      "anchor": "fuel-source",
+      "end_line": 3816,
+      "heading": "Fuel source",
+      "level": 1,
+      "start_line": 3781
+    },
+    {
+      "anchor": "fuel-type",
+      "end_line": 3830,
+      "heading": "Fuel type",
+      "level": 1,
+      "start_line": 3817
+    },
+    {
+      "anchor": "fuel-user",
+      "end_line": 3861,
+      "heading": "Fuel user",
+      "level": 1,
+      "start_line": 3831
+    },
+    {
+      "anchor": "8-3-petroleum-refining",
+      "end_line": 3863,
+      "heading": "8.3 PETROLEUM REFINING",
+      "level": 1,
+      "start_line": 3862
+    },
+    {
+      "anchor": "8-3-1-amoco-oil-company",
+      "end_line": 3867,
+      "heading": "8.3.1 Amoco Oil Company",
+      "level": 1,
+      "start_line": 3864
+    },
+    {
+      "anchor": "energy-requirements",
+      "end_line": 3911,
+      "heading": "Energy requirements",
+      "level": 1,
+      "start_line": 3868
+    },
+    {
+      "anchor": "energy-sources",
+      "end_line": 3925,
+      "heading": "Energy sources",
+      "level": 1,
+      "start_line": 3912
+    },
+    {
+      "anchor": "recommendations",
+      "end_line": 3935,
+      "heading": "Recommendations",
+      "level": 1,
+      "start_line": 3926
+    },
+    {
+      "anchor": "8-3-2-shell-oil-company",
+      "end_line": 3937,
+      "heading": "8.3.2 Shell Oil Company",
+      "level": 1,
+      "start_line": 3936
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 3943,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 3938
+    },
+    {
+      "anchor": "characteristics-of-the-plant-and-environs",
+      "end_line": 3957,
+      "heading": "Characteristics of the plant and environs",
+      "level": 1,
+      "start_line": 3944
+    },
+    {
+      "anchor": "energy-requirements",
+      "end_line": 3981,
+      "heading": "Energy requirements",
+      "level": 1,
+      "start_line": 3958
+    },
+    {
+      "anchor": "energy-alternatives",
+      "end_line": 3985,
+      "heading": "Energy alternatives",
+      "level": 1,
+      "start_line": 3982
+    },
+    {
+      "anchor": "1-coal-based-systems",
+      "end_line": 3991,
+      "heading": "1. Coal-based systems",
+      "level": 1,
+      "start_line": 3986
+    },
+    {
+      "anchor": "2-nuclear-systems-commercial-plants",
+      "end_line": 4008,
+      "heading": "2. Nuclear systems (commercial plants)",
+      "level": 1,
+      "start_line": 3992
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 4012,
+      "heading": "Appendices",
+      "level": 1,
+      "start_line": 4009
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 4014,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 4013
+    },
+    {
+      "anchor": "nuclear-fuel-cycle-analysis",
+      "end_line": 4018,
+      "heading": "Nuclear Fuel Cycle Analysis",
+      "level": 1,
+      "start_line": 4015
+    },
+    {
+      "anchor": "ornl-dwg-74-6167",
+      "end_line": 4027,
+      "heading": "Ornl-Dwg 74-6167",
+      "level": 2,
+      "start_line": 4019
+    },
+    {
+      "anchor": "system-mass-balances",
+      "end_line": 4039,
+      "heading": "SYSTEM MASS BALANCES",
+      "level": 1,
+      "start_line": 4028
+    },
+    {
+      "anchor": "unit-costs",
+      "end_line": 4043,
+      "heading": "UNIT COSTS",
+      "level": 1,
+      "start_line": 4040
+    },
+    {
+      "anchor": "raw-material-price",
+      "end_line": 4056,
+      "heading": "Raw Material Price",
+      "level": 1,
+      "start_line": 4044
+    },
+    {
+      "anchor": "separative-work",
+      "end_line": 4063,
+      "heading": "Separative Work",
+      "level": 1,
+      "start_line": 4057
+    },
+    {
+      "anchor": "fabrication",
+      "end_line": 4089,
+      "heading": "Fabrication",
+      "level": 1,
+      "start_line": 4064
+    },
+    {
+      "anchor": "fuel-recovery",
+      "end_line": 4105,
+      "heading": "Fuel Recovery",
+      "level": 1,
+      "start_line": 4090
+    },
+    {
+      "anchor": "bred-material-worth",
+      "end_line": 4113,
+      "heading": "Bred Material Worth",
+      "level": 1,
+      "start_line": 4106
+    },
+    {
+      "anchor": "cost-evaluation-methods",
+      "end_line": 4170,
+      "heading": "COST EVALUATION METHODS",
+      "level": 1,
+      "start_line": 4114
+    },
+    {
+      "anchor": "fuel-cycle-costs",
+      "end_line": 4211,
+      "heading": "FUEL CYCLE COSTS",
+      "level": 1,
+      "start_line": 4171
+    },
+    {
+      "anchor": "fuel-cycle-cost-sensitivities",
+      "end_line": 4229,
+      "heading": "FUEL CYCLE COST SENSITIVITIES",
+      "level": 1,
+      "start_line": 4212
+    },
+    {
+      "anchor": "alternate-size-reactors",
+      "end_line": 4246,
+      "heading": "ALTERNATE SIZE REACTORS",
+      "level": 1,
+      "start_line": 4230
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 4248,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 4247
+    },
+    {
+      "anchor": "steam-line-cost-study-basis-of-cost-estimate",
+      "end_line": 4267,
+      "heading": "Steam Line Cost Study-Basis of Cost Estimate",
+      "level": 1,
+      "start_line": 4249
+    },
+    {
+      "anchor": "ornl-dwg-75-8145",
+      "end_line": 4286,
+      "heading": "Ornl-Dwg 75-8145",
+      "level": 2,
+      "start_line": 4268
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 4288,
+      "heading": "Appendix C",
+      "level": 1,
+      "start_line": 4287
+    },
+    {
+      "anchor": "step-by-step-procedure-in-aec-licensing-of-nuclear-power-reactors",
+      "end_line": 4290,
+      "heading": "Step-by-Step Procedure in AEC Licensing of Nuclear Power Reactors*",
+      "level": 1,
+      "start_line": 4289
+    },
+    {
+      "anchor": "radiological-safety-and-environmental-impact-review",
+      "end_line": 4338,
+      "heading": "RADIOLOGICAL SAFETY AND ENVIRONMENTAL IMPACT REVIEW",
+      "level": 1,
+      "start_line": 4291
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 4340,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 4339
+    },
+    {
+      "anchor": "standard-format-and-content-of-safety-analysis-reports-for-nuclear-power-plants",
+      "end_line": 4342,
+      "heading": "Standard Format and Content of Safety Analysis Reports for Nuclear Power Plants",
+      "level": 1,
+      "start_line": 4341
+    },
+    {
+      "anchor": "chapter-1-0-introduction-and-general-description-of-plant",
+      "end_line": 4355,
+      "heading": "CHAPTER 1.0 - INTRODUCTION AND GENERAL DESCRIPTION OF PLANT",
+      "level": 1,
+      "start_line": 4343
+    },
+    {
+      "anchor": "chapter-2-0-site-characteristics",
+      "end_line": 4404,
+      "heading": "CHAPTER 2.0 - SITE CHARACTERISTICS",
+      "level": 1,
+      "start_line": 4356
+    },
+    {
+      "anchor": "chapter-3-0-design-of-structures-components-equipment-and-systems",
+      "end_line": 4474,
+      "heading": "Chapter 3.0 - Design Of Structures, Components, Equipment, And Systems",
+      "level": 2,
+      "start_line": 4405
+    },
+    {
+      "anchor": "chapter-4-0-reactor",
+      "end_line": 4498,
+      "heading": "CHAPTER 4.0 - REACTOR",
+      "level": 1,
+      "start_line": 4475
+    },
+    {
+      "anchor": "chapter-5-0-reactor-coolant-system-and-connected-systems",
+      "end_line": 4558,
+      "heading": "CHAPTER 5.0 - REACTOR COOLANT SYSTEM AND CONNECTED SYSTEMS",
+      "level": 1,
+      "start_line": 4499
+    },
+    {
+      "anchor": "chapter-6-0-engineered-safety-features",
+      "end_line": 4589,
+      "heading": "CHAPTER 6.0 - ENGINEERED SAFETY FEATURES",
+      "level": 1,
+      "start_line": 4559
+    },
+    {
+      "anchor": "chapter-7-0-instrumentation-and-controls",
+      "end_line": 4626,
+      "heading": "CHAPTER 7.0 - INSTRUMENTATION AND CONTROLS",
+      "level": 1,
+      "start_line": 4590
+    },
+    {
+      "anchor": "chapter-8-0-electric-power",
+      "end_line": 4639,
+      "heading": "CHAPTER 8.0 - ELECTRIC POWER",
+      "level": 1,
+      "start_line": 4627
+    },
+    {
+      "anchor": "chapter-9-0-auxiliary-systems",
+      "end_line": 4682,
+      "heading": "CHAPTER 9.0 - AUXILIARY SYSTEMS",
+      "level": 1,
+      "start_line": 4640
+    },
+    {
+      "anchor": "chapter-10-0-steam-and-power-conversion-system",
+      "end_line": 4711,
+      "heading": "CHAPTER 10.0 - STEAM AND POWER CONVERSION SYSTEM",
+      "level": 1,
+      "start_line": 4683
+    },
+    {
+      "anchor": "chapter-11-0-radioactive-waste-management",
+      "end_line": 4767,
+      "heading": "CHAPTER 11.0 - RADIOACTIVE WASTE MANAGEMENT",
+      "level": 1,
+      "start_line": 4712
+    },
+    {
+      "anchor": "chapter-12-0-radiation-protection",
+      "end_line": 4793,
+      "heading": "CHAPTER 12.0 - RADIATION PROTECTION",
+      "level": 1,
+      "start_line": 4768
+    },
+    {
+      "anchor": "chapter-13-0-conduct-of-operations",
+      "end_line": 4826,
+      "heading": "CHAPTER 13.0 - CONDUCT OF OPERATIONS",
+      "level": 1,
+      "start_line": 4794
+    },
+    {
+      "anchor": "chapter-14-0-initial-tests-and-operation",
+      "end_line": 4843,
+      "heading": "CHAPTER 14.0 - INITIAL TESTS AND OPERATION",
+      "level": 1,
+      "start_line": 4827
+    },
+    {
+      "anchor": "chapter-15-0-accident-analyses",
+      "end_line": 4849,
+      "heading": "CHAPTER 15.0 - ACCIDENT ANALYSES",
+      "level": 1,
+      "start_line": 4844
+    },
+    {
+      "anchor": "chapter-16-0-technical-specifications",
+      "end_line": 4851,
+      "heading": "CHAPTER 16.0 - TECHNICAL SPECIFICATIONS",
+      "level": 1,
+      "start_line": 4850
+    },
+    {
+      "anchor": "chapter-17-0-quality-assurance",
+      "end_line": 4876,
+      "heading": "CHAPTER 17.0 - QUALITY ASSURANCE",
+      "level": 1,
+      "start_line": 4852
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 4878,
+      "heading": "Appendix E",
+      "level": 1,
+      "start_line": 4877
+    },
+    {
+      "anchor": "standard-format-and-content-of-environmental-reports-for-nuclear-power-plants",
+      "end_line": 4880,
+      "heading": "Standard Format and Content of Environmental Reports for Nuclear Power Plants",
+      "level": 1,
+      "start_line": 4879
+    },
+    {
+      "anchor": "1-purpose-of-the-proposed-facility",
+      "end_line": 4892,
+      "heading": "1. PURPOSE OF THE PROPOSED FACILITY",
+      "level": 1,
+      "start_line": 4881
+    },
+    {
+      "anchor": "2-the-site",
+      "end_line": 4904,
+      "heading": "2. THE SITE",
+      "level": 1,
+      "start_line": 4893
+    },
+    {
+      "anchor": "3-the-plant",
+      "end_line": 4916,
+      "heading": "3. THE PLANT",
+      "level": 1,
+      "start_line": 4905
+    },
+    {
+      "anchor": "4-environmental-effects-of-site-preparation-plant-and-transmission-facilities-construction",
+      "end_line": 4922,
+      "heading": "4. ENVIRONMENTAL EFFECTS OF SITE PREPARATION, PLANT AND TRANSMISSION FACILITIES CONSTRUCTION",
+      "level": 1,
+      "start_line": 4917
+    },
+    {
+      "anchor": "5-environmental-effects-of-plant-operation",
+      "end_line": 4950,
+      "heading": "5. ENVIRONMENTAL EFFECTS OF PLANT OPERATION",
+      "level": 1,
+      "start_line": 4923
+    },
+    {
+      "anchor": "6-effluent-and-environmental-measurements-and-monitoring-programs",
+      "end_line": 4970,
+      "heading": "6. EFFLUENT AND ENVIRONMENTAL MEASUREMENTS AND MONITORING PROGRAMS",
+      "level": 1,
+      "start_line": 4951
+    },
+    {
+      "anchor": "7-environmental-effects-of-accidents",
+      "end_line": 4975,
+      "heading": "7. ENVIRONMENTAL EFFECTS OF ACCIDENTS",
+      "level": 1,
+      "start_line": 4971
+    },
+    {
+      "anchor": "8-economic-and-social-effects-of-plant-construction-and-operation",
+      "end_line": 4980,
+      "heading": "8. ECONOMIC AND SOCIAL EFFECTS OF PLANT CONSTRUCTION AND OPERATION",
+      "level": 1,
+      "start_line": 4976
+    },
+    {
+      "anchor": "9-alternative-energy-sources-and-sites",
+      "end_line": 4990,
+      "heading": "9. ALTERNATIVE ENERGY SOURCES AND SITES",
+      "level": 1,
+      "start_line": 4981
+    },
+    {
+      "anchor": "10-plant-design-alternatives",
+      "end_line": 5003,
+      "heading": "10. PLANT DESIGN ALTERNATIVES",
+      "level": 1,
+      "start_line": 4991
+    },
+    {
+      "anchor": "11-summary-benefit-cost-analysis",
+      "end_line": 5005,
+      "heading": "11. SUMMARY BENEFIT-COST ANALYSIS",
+      "level": 1,
+      "start_line": 5004
+    },
+    {
+      "anchor": "12-environmental-approvals-and-consultations",
+      "end_line": 5007,
+      "heading": "12. ENVIRONMENTAL APPROVALS AND CONSULTATIONS",
+      "level": 1,
+      "start_line": 5006
+    },
+    {
+      "anchor": "13-references",
+      "end_line": 5009,
+      "heading": "13. REFERENCES",
+      "level": 1,
+      "start_line": 5008
+    },
+    {
+      "anchor": "tables",
+      "end_line": 5018,
+      "heading": "TABLES",
+      "level": 1,
+      "start_line": 5010
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 5023,
+      "heading": "APPENDICES",
+      "level": 1,
+      "start_line": 5019
+    },
+    {
+      "anchor": "appendix-f",
+      "end_line": 5025,
+      "heading": "Appendix F",
+      "level": 1,
+      "start_line": 5024
+    },
+    {
+      "anchor": "population-risk-profiles-for-texas-and-louisiana-industrialized-areas",
+      "end_line": 5197,
+      "heading": "Population Risk Profiles for Texas and Louisiana Industrialized Areas",
+      "level": 1,
+      "start_line": 5026
+    },
+    {
+      "anchor": "ornl-4995",
+      "end_line": 5199,
+      "heading": "ORNL-4995",
+      "level": 1,
+      "start_line": 5198
+    },
+    {
+      "anchor": "uc-2-general-miscellaneous-and-progress-reports",
+      "end_line": 5201,
+      "heading": "UC-2 - General, Miscellaneous, and Progress Reports",
+      "level": 1,
+      "start_line": 5200
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 5256,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 5202
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 5336,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 5257
+    }
+  ],
+  "source_dir": "pdf/ORNL-4995",
+  "tables": [],
+  "title": "![](images/a0572ccd70b274bcc5d02b451d7771bd945023e67f3685acf557e224b9ff80d3.jpg)",
+  "topics": [
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,534 @@
+{
+  "document_count": 28,
+  "dynamics_claim_count": 5,
+  "family_counts": {
+    "anp-and-precursor-fluid-fuel": 71
+  },
+  "guide": "are-benchmark-pack.md",
+  "id": "are",
+  "physics_claim_count": 66,
+  "reactor": "ARE",
+  "relation_counts": {
+    "dynamics": {
+      "control-system": 1,
+      "mixing-recirculation": 1,
+      "transient-response": 3
+    },
+    "physics": {
+      "criticality": 36,
+      "delayed-neutron-fraction": 2,
+      "flux": 3,
+      "fuel-reactivity-coefficient": 3,
+      "neutron-lifetime": 1,
+      "power-density": 3,
+      "temperature-coefficient": 7,
+      "xenon-poisoning-effect": 11
+    }
+  },
+  "sample_dynamics_claims": [
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:are:mixing-recirculation:ornl-1556:2608",
+      "conditions": [
+        "1500^{\\circ}\\mathrm{F"
+      ],
+      "evidence": {
+        "claim_text": "Specimens from both the high- and low-density regions of ARE moderator blocks were sealed in capsules containing about 2\\mathrm{cm}^3 of sodium to give a surface-to-volume ratio Beryllium oxide in contact with sodium at 1500^{\\circ}\\mathrm{F} was exposed in the LITR to determine the effect of radiation on its stability.",
+        "date_text": "June 10, 1953",
+        "display_title": "ORNL-1556 — AIRCRAFT NUCLEAR PROPULSION PROJECT",
+        "doc_id": "ornl-1556",
+        "line_end": 2608,
+        "line_start": 2608,
+        "page_hint": null,
+        "section": "INPILE CIRCULATING LOOPS",
+        "title": "![](images/c369b356e067aec6a42047b4dd870b23726bf44bc6d9ad4322706be0e93e00d1.jpg)"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "mixing-recirculation",
+      "source_claim_types": [
+        "measurement",
+        "technical-statement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "Specimens from both the high- and low-density regions of ARE moderator blocks were sealed in capsules containing about 2\\mathrm{cm}^3 of sodium to give a surface-to-volume ratio B…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:are:transient-response:ornl-1407:256",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "B5 Response of Servo-Controlled ARE to Helium (Load) Perturbation from 0.3P_{0} to 1.0P_{\\mathrm{c}} at t = 0 72",
+        "date_text": "1952",
+        "display_title": "ORNL-1407 — Aircraft Nuclear Propulsion Project",
+        "doc_id": "ornl-1407",
+        "line_end": 256,
+        "line_start": 256,
+        "page_hint": null,
+        "section": "Appendix Figure No.",
+        "title": "SECRET SECURTIY INFORMATION"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "transient-response",
+      "source_claim_types": [
+        "measurement"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "B5 Response of Servo-Controlled ARE to Helium (Load) Perturbation from 0.3P_{0} to 1.0P_{\\mathrm{c}} at t = 0 72"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:are:transient-response:ornl-2095:1655",
+      "conditions": [
+        "1.2 Mw"
+      ],
+      "evidence": {
+        "claim_text": "For the ARE the load was about 200 kw. For the ART, comparable stability should exist at about 1.2 Mw. At 1.2 Mw the reactor power should level out promptly without excessive \"ringing\" on small perturbations in load or rod position.",
+        "date_text": "December 10, 1954",
+        "display_title": "ORNL-2095",
+        "doc_id": "ornl-2095",
+        "line_end": 1655,
+        "line_start": 1655,
+        "page_hint": null,
+        "section": "Operation at Power",
+        "title": "ORNL-2095"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "transient-response",
+      "source_claim_types": [
+        "measurement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "For the ARE the load was about 200 kw. For the ART, comparable stability should exist at about 1.2 Mw. At 1.2 Mw the reactor power should level out promptly without excessive \"rin…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:are:transient-response:ornl-919:3280",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "Smith 9-13-50 Y-F10-20 Results of a Test of the Linear Approximating Multigroup Calculations D. Macauley 12-1-50 Y-F10-30 Perturbation Equations for the Kinetic Response of a Liquid-fuel Reactor N. Parker 12-6-50 12-15-50 ANP-53* Report of the ANP Shielding Board NEPA, CHNL, and C&amp;CCD 10-16-50 OHNL-710 Theoretical and Practical Aspects of Shielding A. Mitchell 11-20-50 Y-F20-1 Unmanned Nuclear Powered Aircraft and RW W. Ergen 10-10-50 Y-F20-3 Measurements of Fission Fragment Decay Gammas in the Swimming Pool W. Ergen 11-28-50 Liquid-metal and Heat-transfer Research CF 50-9-24 A Survey Concerning the Use of a Liquid Sodium-Austenitic Stainless Steel Heat Transfer Unit Under Conditions Anticipated in Nuclear Aircraft Operations R. Schulze 11-28-50 Y-F10-22 Results of Some Bare Calculations of Critical Mass and Reactivity Effects J. Edlund 9-27-50 CF 50-10-115 CF 50-11-120 Critical Experiments Fabrication of Fuel Discs for ANP Critical Experiments Storage and Handling of SF Material for ANP Critical Experiments Nuclear Measurements Estimate of the Effects of Higher Levels on the Resonance Integral of Xe135 High Level Sources of 92-hr Xenon Shielding Research A. REPORT NO. TITLE OF REPORT AUTHOR(s) DATE ISSUED Design of the ARE Y-F8-3 Reactor Maintenance and Disassembly F. Radebaugh 9-7-50 Schroeder 10-24-50 Y-F8-4 Evaluation of Coaxial Cylinder Insulation System S. Manson 10-30-50 Y-F8-5 Lecture Notes of Heat Exchanger System of GE Project SIR S. Manson 10-13-50 Reactor Physics ANP-5201 Calculational Procedure for Control Data N. Holmes 11-6-50 Y-F10-21 IBM Multigroup Numerical Procedures D. Coveyou to be issued Y-F10-17 Xe Effect in an Epi-thermal Reactor J. Webster 10-10-50 Y-F10-15 Calculation of Average Lifetimes of Neutrons Using the Results of Multigroup Calculations D. Holmes 10-2-50 Y-F10-18 Bare Pile Adjoint Solution M. Nielsen 10-27-50 Y-F10-19 Self-shielding in Uranium J. Webster 11-8-50 Y-F5-22 Numerical Integration of the Multigroup Reactor Equations in Cylindrical Geometry M. Callihan 10-23-50 11-30-50 CF 50-12-25 CF 50-12-45 G. Kitzes 9-29-50 Y-F15-4 Divided Shields for More Conservative Ground Specifications T.",
+        "date_text": "December 10, 1950",
+        "display_title": "ORNL-0919 — REACTORS",
+        "doc_id": "ornl-919",
+        "line_end": 3280,
+        "line_start": 3280,
+        "page_hint": null,
+        "section": "LIST OF REPORTS ISSUED",
+        "title": "![](images/d56634a82ca37bdef522a781b40ef7fdd1ffb9df4521294bc9d2f7c338e38c9c.jpg)"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "transient-response",
+      "source_claim_types": [
+        "measurement",
+        "reactor-physics",
+        "table-reference",
+        "technical-statement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "Smith 9-13-50 Y-F10-20 Results of a Test of the Linear Approximating Multigroup Calculations D. Macauley 12-1-50 Y-F10-30 Perturbation Equations for the Kinetic Response of a Liqu…"
+    },
+    {
+      "category": "msr-system-dynamics",
+      "claim_id": "msr-system-dynamics:fluid-fuel-reactor:control-system:molten-salt-reactors:1249",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "16-6 was a result of a demonstration which showed that the reactor could be brought to criticality, without use of the rods, by the power demand alone.",
+        "date_text": "June 1958",
+        "display_title": "MOLTEN-SALT REACTORS",
+        "doc_id": "molten-salt-reactors",
+        "line_end": 1249,
+        "line_start": 1249,
+        "page_hint": null,
+        "section": "AIRCRAFT REACTOR EXPERIMENT*",
+        "title": "MOLTEN-SALT REACTORS"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "control-system",
+      "source_claim_types": [
+        "reactor-physics"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "fluid-fuel reactor",
+        "type": "reactor-concept"
+      },
+      "value_text": "16-6 was a result of a demonstration which showed that the reactor could be brought to criticality, without use of the rods, by the power demand alone."
+    }
+  ],
+  "sample_physics_claims": [
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:anl-7092:228",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "A concept that originated before the operation of the ARE and was scheduled for use in later developments was a circulating-fuel, reflectormoderated reactor, known originally as the Fireball. ^{17,18} In this reactor there are no fuel tubes. In the earliest design the central island was spherical, but later development resulted in a vase-shaped island. ^{18} This shape, according to Fraas, reduces the critical mass, improves power distribution, and hydrodynamically gives the best passage for fuel. ^{18} Cooling is by circulating the fluid salt to a circumferential wraparound heat exchanger between the moderator shell and the pressure shell.",
+        "date_text": "July 25, 1960",
+        "display_title": "ANL-7092 — TAEGEXO NUCLEARREACTOR CONCEPIS",
+        "doc_id": "anl-7092",
+        "line_end": 228,
+        "line_start": 228,
+        "page_hint": null,
+        "section": "The Fireball and Related Concepts",
+        "title": "MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "measurement",
+        "reactor-physics"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "A concept that originated before the operation of the ARE and was scheduled for use in later developments was a circulating-fuel, reflectormoderated reactor, known originally as t…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:anp-60:1434",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "If in order to simulate the control kinetics of the ANP design (1) the number of fuel tubes in the ANP reactor is scaled down by a factor equal to the ratio of the design power of the ANP (200 megawatts) to that of the ARE (3 megawatts), (2) the fuel tube diameter is kept the same, (3) coolant volume in the core is reduced accordingly, and (4) the moderator volume is increased accordingly, then the resultant design contains insufficient fuel volume for criticality even though the moderator volume is over 90\\% of the core volume.",
+        "date_text": "March 10, 1951",
+        "display_title": "ANP-60(Dol.)",
+        "doc_id": "anp-60",
+        "line_end": 1434,
+        "line_start": 1434,
+        "page_hint": null,
+        "section": "G. STATICS OF ARE BARE REACTOR",
+        "title": "ANP-60(Dol.)"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "reactor-physics"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "If in order to simulate the control kinetics of the ANP design (1) the number of fuel tubes in the ANP reactor is scaled down by a factor equal to the ratio of the design power of…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:anp-65:1338",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "In addition, the \\mathbf{U}^{237} activity as a function of cooling time was calculated from build-up formulas modified for special application in terms of ARE characteristics of power, critical mass, and operating times (Fig.",
+        "date_text": "June 10, 1951",
+        "display_title": "ANP-65 — AIRCRAFT NUCLEAR PROPULSION PROJECT",
+        "doc_id": "anp-65",
+        "line_end": 1338,
+        "line_start": 1338,
+        "page_hint": null,
+        "section": "F. ENGINEERING CALCULATIONS FOR THE ARE",
+        "title": "LEGAL NOTICE"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "reactor-physics"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "In addition, the \\mathbf{U}^{237} activity as a function of cooling time was calculated from build-up formulas modified for special application in terms of ARE characteristics of…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:ornl-1154:1478",
+      "conditions": [
+        "4C"
+      ],
+      "evidence": {
+        "claim_text": "CORE REFLECTOR POSITION RELATIVE VALUE keff WEIGHTED keff URANIUM MASS (1b) 93 None Top 1/6 0.8045 0.1341 93 520 Bottom 1/6 1.0730 0.1788 93 519 Side 2/3 1.1585 0.7722 Weighted value of keff for clean homogeneous reactor 1.085 Seven control rod thimbles at 0.014, each less 14% for mutual shading -0.078 Net ARE, clean, with control-rod thimble 1.007 Total keff in clean reactor desired for fission poison override, experiment, and control instrumentation 1.041 Additional keff needed for above 1.034 Additional uranium needed for above, using Δk/k/Δm/m = 0.300 2.8 Uranium in Core 93 25.0 Total uranium in reacting volume (critical mass) 27.8 5% allowance above and inside B4C curtain 1.4 Total uranium inventory required 29.2 Estimated probable error +10%, -20%",
+        "date_text": "September 10, 1951",
+        "display_title": "ORNL-1154 — AIRCRAFT NUCLEAR PROPULSION PROJECT",
+        "doc_id": "ornl-1154",
+        "line_end": 1478,
+        "line_start": 1478,
+        "page_hint": null,
+        "section": "Table 3.4",
+        "title": "![](images/569ae7f7c4c2e5fcc4c9c5621eb57a821febcbce214d7ad5885ee1e58160dbb2.jpg)"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "table-reference"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "CORE REFLECTOR POSITION RELATIVE VALUE keff WEIGHTED keff URANIUM MASS (1b) 93 None Top 1/6 0.8045 0.1341 93 520 Bottom 1/6 1.0730 0.1788 93 519 Side 2/3 1.1585 0.7722 Weighted va…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:ornl-1170:3200",
+      "conditions": [
+        "4C",
+        "51 C"
+      ],
+      "evidence": {
+        "claim_text": "Carter 9-12-51 Y-F10-64 Heating in the B4C Curtain Due to Neutron Absorption and the B10(n,a)Li7 Reaction C. Ritchie 10-31-51 CF 51-10-212 Application of a Scintillation Counter to Gamma Ray Dosimeter F. McGowan 10-16-51 C. Clifford CF 51-11-95 Experiment V-A at Bulk Shielding Facility; Shadow Shield Measurements with a Na24 Source H. Mills 8-16-51 Y-F10-67 Effect on Reactivity of ARE of Flooding Coolant Channels with Borated Water J. Coveyou 11-26-51 Y-F10-66 Some Results of Criticality Calculations on BeO and Be Moderated Reactors J. REPORT NO. TITLE OF REPORT AUTHOR(S) DATE ISSUED Reactor Physics CF 51-10-83 Enlargement of Cross-section Program C. Larson 10-12-51 CF 51-11-92 Pile Simulator Study of Flux, etc. S. Hanauer 11-12-51 Y-F10-73 Suggested Correction to Age-Diffusion Equation as Used by the ANP Physics Group R. Coveyou 11-6-51 B. Macauley Y-F10-69 Numerical Integration of Differential Equations; Multi-Point Boundary Problems R. Coveyou 8-20-51 Y-F10-71 Physics Calculations on the ARE Control Rods R. Beeley 8-29-51 ORNL-1099 The Elements of Nuclear Reactor Theory, Part I S. Edlund Y-B4-39 Nuclear Properties of U234. Webster 8-14-51 ANP-68 Solution of Kinetic Equations of Cylindrical Reactor M. Nielsen 9-18-51 J. Webster Y-F10-74 Note on the Doppler Effect R. Webster 10-15-51 O. Schulze Shielding Research ORNL-1130 Analysis of Bulk Shielding Facility Neutron Dosimeter Data S. Podgor 11-26-51 CF 51-9-112 Power Calculations of the Unit Shield Reactor E. Johnson 9-18-51 CF 51-10-70 Introduction to Shield Design E. Blizzard 10-12-51 CF 51-10-94 Calculations of Leakage from the Bulk Shielding Facility Reactor J. Meem 10-5-51 CF 51-10-203 Tentative Comparison of Ionization Chambers R. Hungerford 11-15-51 CF 51-11-96 Fast Neutron Measurements at Bulk Shielding Facility R.",
+        "date_text": "December 10, 1951",
+        "display_title": "ORNL-1170 — AIRCRAFT NUCLEAR PROPULSION PROJECT",
+        "doc_id": "ornl-1170",
+        "line_end": 3200,
+        "line_start": 3200,
+        "page_hint": null,
+        "section": "17. LIST OF REPORTS ISSUED",
+        "title": "![](images/f7c51f0951cbaa1d13d9fb543e5c1d64022557f5091b29f778b0b868cfa49741.jpg)"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "measurement",
+        "reactor-physics",
+        "table-reference",
+        "technical-statement"
+      ],
+      "source_kind": "progress-report",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "Carter 9-12-51 Y-F10-64 Heating in the B4C Curtain Due to Neutron Absorption and the B10(n,a)Li7 Reaction C. Ritchie 10-31-51 CF 51-10-212 Application of a Scintillation Counter t…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:ornl-1227:1151",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "The current ARE design has a critical mass of 22.3 lb, a total uranium investment of 74 lb, 71\\% thermal fissions, and a leakage-to-absorption ratio of about 1 to 3.",
+        "date_text": "November 30, 1949",
+        "display_title": "ORNL-1227 — AIRCRAFT NUCLEAR PROPULSION PROJECT",
+        "doc_id": "ornl-1227",
+        "line_end": 1151,
+        "line_start": 1151,
+        "page_hint": null,
+        "section": "ANP PROJECT QUARTERLY PROGRESS REPORT",
+        "title": "DECLASSIFIED"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "reactor-physics"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "The current ARE design has a critical mass of 22.3 lb, a total uranium investment of 74 lb, 71\\% thermal fissions, and a leakage-to-absorption ratio of about 1 to 3."
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:ornl-1234:1178",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "The \\mathbf{k}_{\\mathrm{eff}} required by the ARE is 1.0415 as computed in Table 9. Table 10 summarizes the computation of the \"best guess\" for the total uranium requirement, the result being 120 lbs. The calculations described above then show that 27.6 lbs of \\mathbf{U}^{235} are required in the reacting volume.",
+        "date_text": "June 2, 1952",
+        "display_title": "ORNL-1234 — REACTOR PROGRAM",
+        "doc_id": "ornl-1234",
+        "line_end": 1178,
+        "line_start": 1178,
+        "page_hint": null,
+        "section": "Critical Mass Total Uranium Investment",
+        "title": "![](images/b3ecd7f476e9459b128de5e6d74121df5dc5fd4e39228b814db47431e850b02f.jpg)"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "table-reference",
+        "technical-statement"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "The \\mathbf{k}_{\\mathrm{eff}} required by the ARE is 1.0415 as computed in Table 9. Table 10 summarizes the computation of the \"best guess\" for the total uranium requirement, the…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:ornl-1294:1301",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "In order to simplify the survey of variations of the ARE and similar reactors, the results of the two-group equations for the critical mass have been presented, (10) with parameters of the equations given numerically for a beryllium oxide moderator.",
+        "date_text": "June 10, 1952",
+        "display_title": "ORNL-1294 — AIRCRAFT NUCLEAR PROPULSTON PROJECT",
+        "doc_id": "ornl-1294",
+        "line_end": 1301,
+        "line_start": 1301,
+        "page_hint": null,
+        "section": "B. T. Macanley C. B. Mills ANP Division",
+        "title": "ASSIFIED"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "reactor-physics"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "In order to simplify the survey of variations of the ARE and similar reactors, the results of the two-group equations for the critical mass have been presented, (10) with paramete…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:ornl-1556:1166",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "An error was found in the basic data which increased the values of the thermal macroscopic absorption cross section from 0.310 \\, \\text{cm}^{-1} to 0.356 \\, \\text{cm}^{-1} . Previously,[1] a value of 28 lb was predicted as the uranium required in the ARE core. The reactivity coefficient for Inconel thus changed from 0.170 to 0.231, and the predicted critical mass of the ARE was increased by about 4 lb.",
+        "date_text": "June 10, 1953",
+        "display_title": "ORNL-1556 — AIRCRAFT NUCLEAR PROPULSION PROJECT",
+        "doc_id": "ornl-1556",
+        "line_end": 1166,
+        "line_start": 1166,
+        "page_hint": null,
+        "section": "STATICS OF THE CIRCULATING-FUEL ARE CRITICAL EXPERIMENT",
+        "title": "![](images/c369b356e067aec6a42047b4dd870b23726bf44bc6d9ad4322706be0e93e00d1.jpg)"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "measurement",
+        "reactor-physics"
+      ],
+      "source_kind": "memo",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "An error was found in the basic data which increased the values of the thermal macroscopic absorption cross section from 0.310 \\, \\text{cm}^{-1} to 0.356 \\, \\text{cm}^{-1} . Previ…"
+    },
+    {
+      "category": "msr-reactor-physics",
+      "claim_id": "msr-reactor-physics:are:criticality:ornl-1609:741",
+      "conditions": [],
+      "evidence": {
+        "claim_text": "At the time the previous quarterly report(2) was written, doubt had arisen concerning the stated value of the critical mass of the ARE. Since then, substantial effort has been made to reduce this uncertainty, and it appears now that the critical mass of the ARE will be about 30\\% higher than the previously(3) quoted value.",
+        "date_text": "September 10, 1953",
+        "display_title": "ORNL-1609 — AIRCRAFT NUCLEAR PROPULSION PROJECT",
+        "doc_id": "ornl-1609",
+        "line_end": 741,
+        "line_start": 741,
+        "page_hint": null,
+        "section": "THE EXPERIMENTAL REACTOR",
+        "title": "DECLASSIFIED"
+      },
+      "object": null,
+      "program_family": "anp-and-precursor-fluid-fuel",
+      "relation": "criticality",
+      "source_claim_types": [
+        "reactor-physics"
+      ],
+      "source_kind": "report",
+      "subject": {
+        "name": "ARE",
+        "type": "reactor"
+      },
+      "value_text": "At the time the previous quarterly report(2) was written, doubt had arisen concerning the stated value of the critical mass of the ARE. Since then, substantial effort has been mad…"
+    }
+  ],
+  "title": "Aircraft Reactor Experiment (ARE)",
+  "top_documents": [
+    {
+      "claim_count": 9,
+      "doc_id": "ornl-1227",
+      "title": "ORNL-1227 — AIRCRAFT NUCLEAR PROPULSION PROJECT"
+    },
+    {
+      "claim_count": 8,
+      "doc_id": "ornl-1721",
+      "title": "AEG RESEARCH AND DEVELOPMENT REPORT FORM-1721"
+    },
+    {
+      "claim_count": 5,
+      "doc_id": "anp-65",
+      "title": "ANP-65 — AIRCRAFT NUCLEAR PROPULSION PROJECT"
+    },
+    {
+      "claim_count": 5,
+      "doc_id": "ornl-1845",
+      "title": "OPERATION OF THE AIRCRAFT REACTOR EXPERIMENT"
+    },
+    {
+      "claim_count": 4,
+      "doc_id": "anp-60",
+      "title": "ANP-60(Dol.)"
+    },
+    {
+      "claim_count": 4,
+      "doc_id": "ornl-1649",
+      "title": "ORNL-1649 — AIRCRAFT NUCLEAR PROPULSION PROJECT"
+    },
+    {
+      "claim_count": 4,
+      "doc_id": "ornl-919",
+      "title": "ORNL-0919 — REACTORS"
+    },
+    {
+      "claim_count": 4,
+      "doc_id": "molten-salt-reactors",
+      "title": "MOLTEN-SALT REACTORS"
+    },
+    {
+      "claim_count": 3,
+      "doc_id": "ornl-1556",
+      "title": "ORNL-1556 — AIRCRAFT NUCLEAR PROPULSION PROJECT"
+    },
+    {
+      "claim_count": 3,
+      "doc_id": "the-aircraft-reactor-experiment-physics-sup-1-sup",
+      "title": "The Aircraft Reactor Experiment-Physics 1"
+    },
+    {
+      "claim_count": 2,
+      "doc_id": "ornl-1154",
+      "title": "ORNL-1154 — AIRCRAFT NUCLEAR PROPULSION PROJECT"
+    },
+    {
+      "claim_count": 2,
+      "doc_id": "ornl-1634",
+      "title": "ORNL-1634 — Reactors-Research"
+    }
+  ]
+}

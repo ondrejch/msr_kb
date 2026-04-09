@@ -1,0 +1,501 @@
+{
+  "authors": [
+    "J. C. Mailen",
+    "G. I. Cathers",
+    "OAK RIDGE NATIONAL",
+    "CENTRAL RESEARCH",
+    "DOCUMENT COLL",
+    "LIBRARY LO",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2170.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2170",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          114,
+          132,
+          134,
+          162,
+          306
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          90,
+          193,
+          240
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          318
+        ],
+        "name": "niobium"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          138,
+          176
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 34,
+        "line_hits": [
+          58,
+          555,
+          567,
+          568,
+          573,
+          574,
+          575,
+          582,
+          586,
+          593,
+          595,
+          601,
+          606,
+          612,
+          614,
+          617,
+          619,
+          625,
+          629,
+          632,
+          634,
+          635,
+          636,
+          638,
+          639,
+          642,
+          650,
+          651,
+          661,
+          669,
+          672,
+          674,
+          676,
+          679
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          1,
+          48,
+          98,
+          125,
+          145,
+          170,
+          183,
+          197,
+          202,
+          242,
+          265,
+          315,
+          316,
+          318,
+          319,
+          531,
+          537,
+          571,
+          622,
+          629
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          314,
+          552,
+          562,
+          566,
+          583,
+          609,
+          657,
+          668,
+          671
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          554,
+          631
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          54,
+          660
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 10,
+        "line_hits": [
+          106,
+          193,
+          224,
+          230,
+          232,
+          240,
+          242,
+          274,
+          284,
+          294
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 20,
+        "line_hits": [
+          79,
+          88,
+          90,
+          92,
+          100,
+          102,
+          114,
+          118,
+          134,
+          168,
+          224,
+          240,
+          272,
+          274,
+          282,
+          294,
+          296,
+          304,
+          306,
+          318
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7367016b2b7ee641d10d3c535aafa76c007c217bd3730a472b189d57c2cca5ac",
+  "markdown_path": "pdf/ORNL-TM-2170/ORNL-TM-2170/hybrid_ocr/ORNL-TM-2170.md",
+  "report_number": "ORNL-TM-2170",
+  "report_numbers": [
+    "ORNL-TM-2170"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 39,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2170",
+      "end_line": 6,
+      "heading": "Ornl-Tm-2170",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national",
+      "end_line": 8,
+      "heading": "Oak Ridge National",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "central-research",
+      "end_line": 10,
+      "heading": "Central Research",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "document-coll",
+      "end_line": 12,
+      "heading": "Document Coll",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "library-lo",
+      "end_line": 14,
+      "heading": "Library Lo",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "do-not-transfer-to-a",
+      "end_line": 22,
+      "heading": "Do Not Transfer To A",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ucn-7969",
+      "end_line": 26,
+      "heading": "Ucn-7969",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 37,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 45,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "april-1969",
+      "end_line": 47,
+      "heading": "April 1969",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 53,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 57,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 59,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "contents",
+      "end_line": 83,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "j-c-mailen-and-g-i-cathers",
+      "end_line": 85,
+      "heading": "J. C. Mailen and G. I. Cathers",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 95,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 109,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "2-experimental",
+      "end_line": 111,
+      "heading": "2. EXPERIMENTAL",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "2-1-equipment-used",
+      "end_line": 124,
+      "heading": "2.1 Equipment Used",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "ornl-dwg-69-88",
+      "end_line": 144,
+      "heading": "Ornl Dwg 69-88",
+      "level": 2,
+      "start_line": 125
+    },
+    {
+      "anchor": "ornl-dwg-69-86",
+      "end_line": 151,
+      "heading": "Ornl Dwg 69-86",
+      "level": 2,
+      "start_line": 145
+    },
+    {
+      "anchor": "2-2-sampling-procedure",
+      "end_line": 159,
+      "heading": "2.2 Sampling Procedure",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "2-3-experimental-materials",
+      "end_line": 171,
+      "heading": "2.3 Experimental Materials",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "3-results-and-discussion",
+      "end_line": 173,
+      "heading": "3. RESULTS AND DISCUSSION",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "3-1-oxidation-of-fuel",
+      "end_line": 190,
+      "heading": "3.1 Oxidation of Fuel",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "3-2-volatilization-of-uranium-with-brf-5",
+      "end_line": 196,
+      "heading": "3.2 Volatilization of Uranium with BrF 5",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "ornl-dwg-69-92",
+      "end_line": 201,
+      "heading": "Ornl Dwg. 69-92",
+      "level": 2,
+      "start_line": 197
+    },
+    {
+      "anchor": "ornl-dwg-69-1268",
+      "end_line": 237,
+      "heading": "Ornl Dwg 69-1268",
+      "level": 2,
+      "start_line": 202
+    },
+    {
+      "anchor": "3-3-desorption-of-uranium",
+      "end_line": 245,
+      "heading": "3.3 Desorption of Uranium",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "3-4-volatilization-of-mathsf-puf-6-with-fluorine",
+      "end_line": 264,
+      "heading": "3.4 Volatilization of $\\mathsf{PuF}_6$ with Fluorine",
+      "level": 1,
+      "start_line": 246
+    },
+    {
+      "anchor": "ornl-dwg-69-1267",
+      "end_line": 291,
+      "heading": "Ornl Dwg 69-1267",
+      "level": 2,
+      "start_line": 265
+    },
+    {
+      "anchor": "all-fluorine-flowsheet",
+      "end_line": 303,
+      "heading": "All-Fluorine Flowsheet",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "3-5-recovery-of-plutonium-from-naf-trap",
+      "end_line": 307,
+      "heading": "3.5 Recovery of Plutonium from NaF Trap",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "4-conclusions",
+      "end_line": 311,
+      "heading": "4. CONCLUSIONS",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "5-references",
+      "end_line": 320,
+      "heading": "5. REFERENCES",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 322,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "internal",
+      "end_line": 540,
+      "heading": "Internal",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "122-136-dtie",
+      "end_line": 542,
+      "heading": "122-136. Dtie",
+      "level": 2,
+      "start_line": 541
+    },
+    {
+      "anchor": "external",
+      "end_line": 683,
+      "heading": "External",
+      "level": 1,
+      "start_line": 543
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2170",
+  "tables": [],
+  "title": "ORNL-TM-2170",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "irradiation-and-damage"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

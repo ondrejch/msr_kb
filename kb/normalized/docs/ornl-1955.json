@@ -1,0 +1,911 @@
+{
+  "authors": [
+    "RADIATORS FOR HIGH TEMPERATURE",
+    "REACTOR APPLICATIONS",
+    "P. Patriarca",
+    "G. M. Slaughter",
+    "W. D. Manly",
+    "R. L. Heestand"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-1955.jsonl",
+  "date_text": "1955",
+  "doc_id": "ornl-1955",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          434,
+          478,
+          488,
+          635,
+          657
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 59,
+        "line_hits": [
+          7,
+          62,
+          264,
+          280,
+          296,
+          300,
+          302,
+          306,
+          308,
+          310,
+          314,
+          316,
+          318,
+          323,
+          331,
+          336,
+          358,
+          364,
+          372,
+          386,
+          398,
+          405,
+          412,
+          418,
+          426,
+          432,
+          547,
+          551,
+          557,
+          560,
+          562,
+          587,
+          598,
+          599,
+          603,
+          605,
+          613,
+          614,
+          620,
+          625,
+          628,
+          641,
+          642,
+          643,
+          644,
+          1023,
+          1029,
+          1031,
+          1059,
+          1079
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          323,
+          432,
+          613,
+          1023,
+          1029,
+          1031,
+          1079,
+          1099,
+          1117,
+          1123,
+          1129,
+          1134,
+          1138
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          306,
+          308,
+          314,
+          316,
+          323,
+          432,
+          560,
+          591,
+          613,
+          642
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          316
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 27,
+        "line_hits": [
+          3,
+          33,
+          35,
+          72,
+          134,
+          190,
+          304,
+          306,
+          308,
+          374,
+          648,
+          649,
+          650,
+          651,
+          654,
+          656,
+          924,
+          934,
+          1005,
+          1007,
+          1011,
+          1039,
+          1119,
+          1125,
+          1130,
+          1134,
+          1138
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          226,
+          256
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          78,
+          247
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          210,
+          233
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          39,
+          41
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          208
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          231
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          253
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 23,
+        "line_hits": [
+          302,
+          325,
+          358,
+          366,
+          454,
+          482,
+          605,
+          606,
+          608,
+          609,
+          734,
+          796,
+          800,
+          924,
+          928,
+          934,
+          944,
+          968,
+          982,
+          986,
+          996,
+          1031,
+          1081
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          302,
+          306,
+          308,
+          314
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          316
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "7f298380502d40a04a123d9fd87acc620ee10dbc2d8c15ce9f6f9d485e10714d",
+  "markdown_path": "pdf/ORNL-1955/ORNL-1955/hybrid_ocr/ORNL-1955.md",
+  "report_number": "ORNL-1955",
+  "report_numbers": [
+    "ORNL-1955"
+  ],
+  "report_series": null,
+  "section_count": 88,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-1955",
+      "end_line": 6,
+      "heading": "Ornl-1955",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "fabrication-of-heat-exchangers-and",
+      "end_line": 8,
+      "heading": "Fabrication Of Heat Exchangers And",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "radiators-for-high-temperature",
+      "end_line": 10,
+      "heading": "Radiators For High Temperature",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "reactor-applications",
+      "end_line": 20,
+      "heading": "Reactor Applications",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "declassified",
+      "end_line": 22,
+      "heading": "Declassified",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "ae-7-16-59",
+      "end_line": 34,
+      "heading": "${Ae} : 7 - {16} = {59}$",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 36,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 38,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 44,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "post-office-box-p-oak-ridge-tennessee",
+      "end_line": 48,
+      "heading": "Post Office Box P · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 61,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "fabrication-of-heat-exchangers-and-radiators",
+      "end_line": 63,
+      "heading": "FABRICATION OF HEAT EXCHANGERS AND RADIATORS",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "for-high-temperature-reactor-applications",
+      "end_line": 81,
+      "heading": "FOR HIGH TEMPERATURE REACTOR APPLICATIONS",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "work-performed-by",
+      "end_line": 121,
+      "heading": "Work Performed By",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "jun-14-1956",
+      "end_line": 123,
+      "heading": "Jun 14 1956",
+      "level": 2,
+      "start_line": 122
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 191,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 257,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 259,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 261,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 260
+    },
+    {
+      "anchor": "introduction-2",
+      "end_line": 263,
+      "heading": "Introduction 2",
+      "level": 2,
+      "start_line": 262
+    },
+    {
+      "anchor": "fabrication-of-500-kw-heat-exchangers-4",
+      "end_line": 279,
+      "heading": "Fabrication Of 500-Kw Heat Exchangers 4",
+      "level": 2,
+      "start_line": 264
+    },
+    {
+      "anchor": "fabrication-of-20-tube-high-velocity-heat-exchanger-37",
+      "end_line": 287,
+      "heading": "Fabrication Of 20-Tube High-Velocity Heat Exchanger 37",
+      "level": 2,
+      "start_line": 280
+    },
+    {
+      "anchor": "conclusions-42",
+      "end_line": 289,
+      "heading": "Conclusions 42",
+      "level": 2,
+      "start_line": 288
+    },
+    {
+      "anchor": "list-of-figures-43",
+      "end_line": 291,
+      "heading": "List Of Figures 43",
+      "level": 2,
+      "start_line": 290
+    },
+    {
+      "anchor": "bibliography-45",
+      "end_line": 293,
+      "heading": "Bibliography 45",
+      "level": 2,
+      "start_line": 292
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 297,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 311,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 328,
+      "heading": "1. Introduction.",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "2-fabrication-procedure",
+      "end_line": 415,
+      "heading": "2. Fabrication Procedure.",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "3-summary",
+      "end_line": 429,
+      "heading": "3. Summary.",
+      "level": 1,
+      "start_line": 416
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 455,
+      "heading": "1. Introduction.",
+      "level": 1,
+      "start_line": 430
+    },
+    {
+      "anchor": "2-fabrication-procedure",
+      "end_line": 529,
+      "heading": "2. Fabrication Procedure.",
+      "level": 1,
+      "start_line": 456
+    },
+    {
+      "anchor": "y-15072",
+      "end_line": 542,
+      "heading": "Y-15072",
+      "level": 2,
+      "start_line": 530
+    },
+    {
+      "anchor": "3-summary",
+      "end_line": 548,
+      "heading": "3. Summary.",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 588,
+      "heading": "1. Introduction.",
+      "level": 1,
+      "start_line": 549
+    },
+    {
+      "anchor": "3-summary",
+      "end_line": 592,
+      "heading": "3. Summary.",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "y-14799",
+      "end_line": 600,
+      "heading": "Y-14799",
+      "level": 2,
+      "start_line": 593
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 610,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 601
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 645,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 611
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 660,
+      "heading": "BIBLIOGRAPHY",
+      "level": 1,
+      "start_line": 646
+    },
+    {
+      "anchor": "appendix-1",
+      "end_line": 666,
+      "heading": "APPENDIX 1",
+      "level": 1,
+      "start_line": 661
+    },
+    {
+      "anchor": "scope",
+      "end_line": 671,
+      "heading": "SCOPE:",
+      "level": 1,
+      "start_line": 667
+    },
+    {
+      "anchor": "references",
+      "end_line": 675,
+      "heading": "REFERENCES:",
+      "level": 1,
+      "start_line": 672
+    },
+    {
+      "anchor": "process",
+      "end_line": 679,
+      "heading": "PROCESS:",
+      "level": 1,
+      "start_line": 676
+    },
+    {
+      "anchor": "base-metal",
+      "end_line": 683,
+      "heading": "BASE METAL:",
+      "level": 1,
+      "start_line": 680
+    },
+    {
+      "anchor": "filler-metal",
+      "end_line": 687,
+      "heading": "FILLER METAL:",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "positions",
+      "end_line": 691,
+      "heading": "POSITIONS:",
+      "level": 1,
+      "start_line": 688
+    },
+    {
+      "anchor": "preparation-of-base-metal",
+      "end_line": 699,
+      "heading": "PREPARATION OF BASE METAL:",
+      "level": 1,
+      "start_line": 692
+    },
+    {
+      "anchor": "cleaning",
+      "end_line": 703,
+      "heading": "CLEANING:",
+      "level": 1,
+      "start_line": 700
+    },
+    {
+      "anchor": "caution",
+      "end_line": 707,
+      "heading": "Caution:",
+      "level": 1,
+      "start_line": 704
+    },
+    {
+      "anchor": "nature-of-welding-current",
+      "end_line": 711,
+      "heading": "NATURE OF WELDING CURRENT:",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "inert-gas-monatomic",
+      "end_line": 716,
+      "heading": "INERT GAS (MONATOMIC):",
+      "level": 1,
+      "start_line": 712
+    },
+    {
+      "anchor": "welding-technique",
+      "end_line": 739,
+      "heading": "WELDING TECHNIQUE:",
+      "level": 1,
+      "start_line": 717
+    },
+    {
+      "anchor": "defects",
+      "end_line": 745,
+      "heading": "DEFECTS:",
+      "level": 1,
+      "start_line": 740
+    },
+    {
+      "anchor": "preheating",
+      "end_line": 749,
+      "heading": "PREHEATING:",
+      "level": 1,
+      "start_line": 746
+    },
+    {
+      "anchor": "identification-of-welds",
+      "end_line": 753,
+      "heading": "IDENTIFICATION OF WELDS:",
+      "level": 1,
+      "start_line": 750
+    },
+    {
+      "anchor": "general",
+      "end_line": 770,
+      "heading": "GENERAL:",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "appendix-2",
+      "end_line": 776,
+      "heading": "APPENDIX 2",
+      "level": 1,
+      "start_line": 771
+    },
+    {
+      "anchor": "scope",
+      "end_line": 780,
+      "heading": "SCOPE:",
+      "level": 1,
+      "start_line": 777
+    },
+    {
+      "anchor": "references",
+      "end_line": 785,
+      "heading": "REFERENCES:",
+      "level": 1,
+      "start_line": 781
+    },
+    {
+      "anchor": "astm-b-167-49f",
+      "end_line": 789,
+      "heading": "Astm B 167-49F.",
+      "level": 2,
+      "start_line": 786
+    },
+    {
+      "anchor": "material-required",
+      "end_line": 805,
+      "heading": "MATERIAL REQUIRED:",
+      "level": 1,
+      "start_line": 790
+    },
+    {
+      "anchor": "test-positions",
+      "end_line": 821,
+      "heading": "TEST POSITIONS:",
+      "level": 1,
+      "start_line": 806
+    },
+    {
+      "anchor": "welding-requirements",
+      "end_line": 826,
+      "heading": "WELDING REQUIREMENTS:",
+      "level": 1,
+      "start_line": 822
+    },
+    {
+      "anchor": "non-destructive-inspection-of-weldments",
+      "end_line": 863,
+      "heading": "NON-DESTRUCTIVE INSPECTION OF WELDMENTS:",
+      "level": 1,
+      "start_line": 827
+    },
+    {
+      "anchor": "test-results-required",
+      "end_line": 876,
+      "heading": "TEST RESULTS REQUIRED:",
+      "level": 1,
+      "start_line": 864
+    },
+    {
+      "anchor": "retests",
+      "end_line": 883,
+      "heading": "RETESTS:",
+      "level": 1,
+      "start_line": 877
+    },
+    {
+      "anchor": "assignment-of-code-upon-passing-qualification-test",
+      "end_line": 887,
+      "heading": "ASSIGNMENT OF CODE UPON PASSING QUALIFICATION TEST:",
+      "level": 1,
+      "start_line": 884
+    },
+    {
+      "anchor": "record-of-test",
+      "end_line": 903,
+      "heading": "RECORD OF TEST:",
+      "level": 1,
+      "start_line": 888
+    },
+    {
+      "anchor": "position-2g",
+      "end_line": 905,
+      "heading": "Position 2G",
+      "level": 2,
+      "start_line": 904
+    },
+    {
+      "anchor": "test-no-1",
+      "end_line": 908,
+      "heading": "Test No.1",
+      "level": 2,
+      "start_line": 906
+    },
+    {
+      "anchor": "position-5g",
+      "end_line": 910,
+      "heading": "Position 5G",
+      "level": 2,
+      "start_line": 909
+    },
+    {
+      "anchor": "test-no-2",
+      "end_line": 913,
+      "heading": "Test No. 2",
+      "level": 2,
+      "start_line": 911
+    },
+    {
+      "anchor": "joint-fit-up-and-pass-sequence-for-test-no-3",
+      "end_line": 921,
+      "heading": "Joint Fit-Up And Pass Sequence For Test No. 3",
+      "level": 2,
+      "start_line": 914
+    },
+    {
+      "anchor": "joint-design-for-inert-arc-welded-vessels",
+      "end_line": 937,
+      "heading": "JOINT DESIGN FOR INERT ARC WELDED VESSELS",
+      "level": 1,
+      "start_line": 922
+    },
+    {
+      "anchor": "i-butt-welds",
+      "end_line": 983,
+      "heading": "I. Butt Welds.",
+      "level": 1,
+      "start_line": 938
+    },
+    {
+      "anchor": "iii-attaching-heads",
+      "end_line": 993,
+      "heading": "III. Attaching Heads.",
+      "level": 1,
+      "start_line": 984
+    },
+    {
+      "anchor": "iv-flanges",
+      "end_line": 1008,
+      "heading": "IV. Flanges.",
+      "level": 1,
+      "start_line": 994
+    },
+    {
+      "anchor": "inter-company-correspondence",
+      "end_line": 1010,
+      "heading": "INTER-COMPANY CORRESPONDENCE",
+      "level": 1,
+      "start_line": 1009
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 1024,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 1,
+      "start_line": 1011
+    },
+    {
+      "anchor": "confidential",
+      "end_line": 1026,
+      "heading": "CONFIDENTIAL",
+      "level": 1,
+      "start_line": 1025
+    },
+    {
+      "anchor": "undocumented",
+      "end_line": 1034,
+      "heading": "UNDOCUMENTED",
+      "level": 1,
+      "start_line": 1027
+    },
+    {
+      "anchor": "estimated-cost-of-materials",
+      "end_line": 1036,
+      "heading": "Estimated Cost of Materials",
+      "level": 1,
+      "start_line": 1035
+    },
+    {
+      "anchor": "radiators",
+      "end_line": 1058,
+      "heading": "Radiators",
+      "level": 1,
+      "start_line": 1037
+    },
+    {
+      "anchor": "heat-exchangers",
+      "end_line": 1116,
+      "heading": "Heat Exchangers",
+      "level": 1,
+      "start_line": 1059
+    },
+    {
+      "anchor": "time-expended-in-the-fabrication-of-two-one-hundred-tube-heat-exchangers-for-intermediate-heat-exchanger-test",
+      "end_line": 1118,
+      "heading": "TIME EXPENDED IN THE FABRICATION OF TWO-ONE HUNDRED TUBE HEAT EXCHANGERS FOR INTERMEDIATE HEAT EXCHANGER TEST",
+      "level": 1,
+      "start_line": 1117
+    },
+    {
+      "anchor": "metallurgy-division-oak-ridge-national-laboratory",
+      "end_line": 1140,
+      "heading": "Metallurgy Division, Oak Ridge National Laboratory",
+      "level": 1,
+      "start_line": 1119
+    }
+  ],
+  "source_dir": "pdf/ORNL-1955",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox",
+    "instrumentation-and-controls",
+    "program-history",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

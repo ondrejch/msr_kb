@@ -1,0 +1,516 @@
+{
+  "authors": [
+    "COUNTERDIFFUSION EXPERIMENTS",
+    "A. P. Malinauskas",
+    "J. L. Rutherford",
+    "R. B. Evans III",
+    "UNION CARBIDE CORPORATION",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4148.jsonl",
+  "date_text": "1967",
+  "doc_id": "ornl-4148",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 30,
+        "line_hits": [
+          5,
+          46,
+          97,
+          105,
+          117,
+          131,
+          997,
+          1001,
+          1003,
+          1005,
+          1007,
+          1018,
+          1020,
+          1022,
+          1024,
+          1055,
+          1091,
+          1101,
+          1105,
+          1110,
+          1138,
+          1142,
+          1148,
+          1151,
+          1159,
+          1231,
+          1245,
+          1253,
+          1255,
+          1257
+        ],
+        "name": "graphite"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          1,
+          17,
+          56,
+          649,
+          1026,
+          1255,
+          1271,
+          1279,
+          1282
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          21,
+          62,
+          1362
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          25,
+          66
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 58,
+        "line_hits": [
+          70,
+          76,
+          117,
+          119,
+          125,
+          127,
+          131,
+          353,
+          371,
+          401,
+          435,
+          453,
+          469,
+          493,
+          503,
+          559,
+          575,
+          613,
+          647,
+          670,
+          756,
+          762,
+          832,
+          878,
+          890,
+          900,
+          902,
+          908,
+          920,
+          922,
+          926,
+          928,
+          936,
+          982,
+          988,
+          993,
+          995,
+          1003,
+          1020,
+          1022,
+          1028,
+          1051,
+          1055,
+          1089,
+          1091,
+          1099,
+          1130,
+          1132,
+          1134,
+          1138
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          5,
+          46,
+          97,
+          105,
+          117,
+          119,
+          131,
+          997,
+          1001,
+          1003,
+          1020,
+          1022,
+          1024,
+          1138,
+          1140,
+          1148,
+          1169,
+          1237,
+          1245,
+          1253,
+          1255,
+          1257
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9cd0432e01671c3dce5c5373d7c49e9dfa1fec77a21b5ec135e36335c21c98e4",
+  "markdown_path": "pdf/ORNL-4148/ORNL-4148/hybrid_ocr/ORNL-4148.md",
+  "report_number": "ORNL-4148",
+  "report_numbers": [
+    "ORNL-4148"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 45,
+  "sections": [
+    {
+      "anchor": "ornl-4148",
+      "end_line": 4,
+      "heading": "Ornl-4148",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "gas-transport-in-msre-moderator-graphite",
+      "end_line": 6,
+      "heading": "Gas Transport In Msre Moderator Graphite.",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "i-review-of-theory-and",
+      "end_line": 8,
+      "heading": "I. REVIEW OF THEORY AND",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "counterdiffusion-experiments",
+      "end_line": 16,
+      "heading": "Counterdiffusion Experiments",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 24,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "costi-prices",
+      "end_line": 43,
+      "heading": "Costi Prices",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 45,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "gas-transport-in-msre-moderator-graphite",
+      "end_line": 47,
+      "heading": "Gas Transport In Msre Moderator Graphite.",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "i-review-of-theory-and-counterdiffusion-experiments",
+      "end_line": 53,
+      "heading": "I. REVIEW OF THEORY AND COUNTERDIFFUSION EXPERIMENTS",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "september-1967",
+      "end_line": 55,
+      "heading": "September 1967",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 61,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 65,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 67,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 81,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "contents",
+      "end_line": 104,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "gas-transport-in-msre-moderator-graphite",
+      "end_line": 106,
+      "heading": "GAS TRANSPORT IN MSRE MODERATOR GRAPHITE.",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "i-review-of-theory-and-counterdiffusion-experiments",
+      "end_line": 114,
+      "heading": "I. REVIEW OF THEORY AND COUNTERDIFFUSION EXPERIMENTS",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 120,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "i-introduction",
+      "end_line": 132,
+      "heading": "I. INTRODUCTION",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "ii-nomenclature",
+      "end_line": 314,
+      "heading": "II. NOMENCLATURE",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "iii-theory-of-gas-flow-in-porous-media",
+      "end_line": 316,
+      "heading": "III. THEORY OF GAS FLOW IN POROUS MEDIA",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "velocity-and-flux-definitions",
+      "end_line": 476,
+      "heading": "Velocity and Flux Definitions",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "permeability-concepts",
+      "end_line": 638,
+      "heading": "Permeability Concepts",
+      "level": 1,
+      "start_line": 477
+    },
+    {
+      "anchor": "binary-gas-mixture-transport",
+      "end_line": 648,
+      "heading": "Binary Gas Mixture Transport",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "ornl-lr-dwg-57904r",
+      "end_line": 714,
+      "heading": "Ornl-Lr-Dwg 57904R",
+      "level": 2,
+      "start_line": 649
+    },
+    {
+      "anchor": "j-j-1-j-2",
+      "end_line": 990,
+      "heading": "J = J _ {1} + J _ {2}",
+      "level": 2,
+      "start_line": 715
+    },
+    {
+      "anchor": "summary",
+      "end_line": 998,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 991
+    },
+    {
+      "anchor": "iv-experimental",
+      "end_line": 1000,
+      "heading": "IV. EXPERIMENTAL",
+      "level": 1,
+      "start_line": 999
+    },
+    {
+      "anchor": "description-of-msre-graphite-and-the-experimental-specimen",
+      "end_line": 1009,
+      "heading": "Description of MSRE Graphite and the Experimental Specimen",
+      "level": 1,
+      "start_line": 1001
+    },
+    {
+      "anchor": "base-stock-nc-cgb-bs",
+      "end_line": 1012,
+      "heading": "Base Stock (Nc-Cgb-Bs)",
+      "level": 2,
+      "start_line": 1010
+    },
+    {
+      "anchor": "after-treatment-nc-cgb",
+      "end_line": 1025,
+      "heading": "After Treatment (Nc-Cgb)",
+      "level": 2,
+      "start_line": 1013
+    },
+    {
+      "anchor": "ornl-dwg-66-12740",
+      "end_line": 1027,
+      "heading": "Ornl-Dwg 66-12740",
+      "level": 2,
+      "start_line": 1026
+    },
+    {
+      "anchor": "dimensions-are-in-inches",
+      "end_line": 1029,
+      "heading": "Dimensions Are In Inches",
+      "level": 2,
+      "start_line": 1028
+    },
+    {
+      "anchor": "permeability-diffusion",
+      "end_line": 1048,
+      "heading": "Permeability-Diffusion",
+      "level": 2,
+      "start_line": 1030
+    },
+    {
+      "anchor": "gas-transport-characterization-of-the-diffusion-septum",
+      "end_line": 1058,
+      "heading": "Gas Transport Characterization of the Diffusion Septum",
+      "level": 1,
+      "start_line": 1049
+    },
+    {
+      "anchor": "photo-36002",
+      "end_line": 1246,
+      "heading": "Photo 36002",
+      "level": 2,
+      "start_line": 1059
+    },
+    {
+      "anchor": "summary",
+      "end_line": 1258,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 1247
+    },
+    {
+      "anchor": "v-appendix",
+      "end_line": 1270,
+      "heading": "V. APPENDIX",
+      "level": 1,
+      "start_line": 1259
+    },
+    {
+      "anchor": "ornl-4148",
+      "end_line": 1272,
+      "heading": "ORNL-4148",
+      "level": 1,
+      "start_line": 1271
+    },
+    {
+      "anchor": "uc-80-reactor-technology",
+      "end_line": 1274,
+      "heading": "UC-80 - Reactor Technology",
+      "level": 1,
+      "start_line": 1273
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1359,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1275
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1364,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1360
+    }
+  ],
+  "source_dir": "pdf/ORNL-4148",
+  "tables": [],
+  "title": "ORNL-4148",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "off-gas-fission-products-and-tritium",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

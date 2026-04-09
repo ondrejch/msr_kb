@@ -1,0 +1,2103 @@
+{
+  "authors": [
+    "MARTIN MARIETTA",
+    "CO NOT MICROFILM COVER",
+    "Volume III",
+    "Nuclear Discipline Topics",
+    "D. B. Trauger",
+    "J. D. White",
+    "H. I. Bowers"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-9780-v3.jsonl",
+  "date_text": "September 1986",
+  "doc_id": "ornl-tm-9780-v3",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          570,
+          609,
+          1424,
+          1426
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 11,
+        "line_hits": [
+          396,
+          489,
+          491,
+          495,
+          531,
+          548,
+          550,
+          566,
+          570,
+          578,
+          625
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          451,
+          541,
+          576,
+          578,
+          605,
+          775
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          449,
+          472,
+          495,
+          574,
+          576
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          449,
+          463,
+          472,
+          574,
+          576
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          544,
+          1299
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1424
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 18,
+        "line_hits": [
+          1,
+          3,
+          78,
+          275,
+          406,
+          407,
+          408,
+          635,
+          823,
+          1093,
+          1094,
+          1109,
+          1271,
+          1399,
+          1819,
+          1899,
+          1901,
+          1969
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          386,
+          801,
+          1322,
+          1839
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1083,
+          1879
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          5,
+          84
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1400
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 248,
+        "line_hits": [
+          263,
+          277,
+          286,
+          292,
+          294,
+          296,
+          300,
+          307,
+          309,
+          353,
+          371,
+          375,
+          381,
+          398,
+          420,
+          424,
+          426,
+          428,
+          430,
+          431,
+          439,
+          443,
+          445,
+          465,
+          483,
+          485,
+          489,
+          499,
+          505,
+          511,
+          515,
+          521,
+          535,
+          537,
+          542,
+          544,
+          548,
+          550,
+          554,
+          560,
+          562,
+          568,
+          572,
+          578,
+          580,
+          582,
+          590,
+          598,
+          600,
+          602
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6517e91332a1cab8f9217b81c6ab899d94ffed0c5d855197960a7d41f8777c1f",
+  "markdown_path": "pdf/ORNL-TM-9780-V3/ORNL-TM-9780-V3/hybrid_ocr/ORNL-TM-9780-V3.md",
+  "report_number": "ORNL/TM-9780/1",
+  "report_numbers": [
+    "ORNL/TM-9780/1",
+    "ORNL/TM-9780/2",
+    "ORNL/TM-9780/4"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 266,
+  "sections": [
+    {
+      "anchor": "ornl",
+      "end_line": 2,
+      "heading": "ornl",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "martin-marietta",
+      "end_line": 6,
+      "heading": "Martin Marietta",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "co-not-microfilm-cover",
+      "end_line": 8,
+      "heading": "Co Not Microfilm Cover",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-power-options-viability-study",
+      "end_line": 10,
+      "heading": "Nuclear Power Options Viability Study",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "volume-iii-nuclear-discipline-topics",
+      "end_line": 38,
+      "heading": "Volume III, Nuclear Discipline Topics",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "nuclear-power-options-viability-study",
+      "end_line": 40,
+      "heading": "NUCLEAR POWER OPTIONS VIABILITY STUDY",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "volume-iii-nuclear-discipline-topics",
+      "end_line": 77,
+      "heading": "VOLUME III, NUCLEAR DISCIPLINE TOPICS",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 83,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-inc",
+      "end_line": 87,
+      "heading": "Martin Marietta Energy Systems, Inc.",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "u-s-department-of-energy",
+      "end_line": 91,
+      "heading": "U.S. Department Of Energy",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "preface",
+      "end_line": 95,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "contents",
+      "end_line": 99,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "abstract-ix",
+      "end_line": 101,
+      "heading": "ABSTRACT. ix",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "1-introduction-1-1",
+      "end_line": 103,
+      "heading": "1. INTRODUCTION. 1-1",
+      "level": 1,
+      "start_line": 102
+    },
+    {
+      "anchor": "1-1-background-1-1",
+      "end_line": 104,
+      "heading": "1.1 Background. 1-1",
+      "level": 2,
+      "start_line": 104
+    },
+    {
+      "anchor": "1-2-report-organization-1-2",
+      "end_line": 105,
+      "heading": "1.2 Report Organization. 1-2",
+      "level": 2,
+      "start_line": 105
+    },
+    {
+      "anchor": "1-3-criteria-and-characteristics-1-2",
+      "end_line": 106,
+      "heading": "1.3 Criteria And Characteristics. 1-2",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "1-4-concept-selection-and-classification-1-5",
+      "end_line": 107,
+      "heading": "1.4 CONCEPT SELECTION AND CLASSIFICATION 1-5",
+      "level": 2,
+      "start_line": 107
+    },
+    {
+      "anchor": "1-5-references-for-chapter-1-1-6",
+      "end_line": 109,
+      "heading": "1.5 References For Chapter 1. 1-6",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "2-construction-2-1",
+      "end_line": 111,
+      "heading": "2. CONSTRUCTION 2-1",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "2-1-introduction-2-1",
+      "end_line": 112,
+      "heading": "2.1 Introduction. 2-1",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "2-2-claims-of-constructibility-2-2",
+      "end_line": 113,
+      "heading": "2.2 CLAIMS OF CONSTRUCTIBILITY 2-2",
+      "level": 2,
+      "start_line": 113
+    },
+    {
+      "anchor": "2-3-information-supporting-constructibility-claims-2-6",
+      "end_line": 114,
+      "heading": "2.3 INFORMATION SUPPORTING CONSTRUCTIBILITY CLAIMS 2-6",
+      "level": 2,
+      "start_line": 114
+    },
+    {
+      "anchor": "2-4-standardization-modularization-and-shop-fabrication-2-7",
+      "end_line": 116,
+      "heading": "2.4 STANDARDIZATION, MODULARIZATION, AND SHOP FABRICATION 2-7",
+      "level": 2,
+      "start_line": 115
+    },
+    {
+      "anchor": "2-6-construction-schedule-2-12",
+      "end_line": 117,
+      "heading": "2.6 CONSTRUCTION SCHEDULE 2-12",
+      "level": 2,
+      "start_line": 117
+    },
+    {
+      "anchor": "2-7-construction-management-2-13",
+      "end_line": 118,
+      "heading": "2.7 CONSTRUCTION MANAGEMENT 2-13",
+      "level": 2,
+      "start_line": 118
+    },
+    {
+      "anchor": "2-8-constructibility-considerations-for-piping-and-electrical-and-instrumentation-systems-2-16",
+      "end_line": 119,
+      "heading": "2.8 CONSTRUCTIBILITY CONSIDERATIONS FOR PIPING AND ELECTRICAL AND INSTRUMENTATION SYSTEMS 2-16",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "2-9-new-management-techniques-and-construction-tools-2-16",
+      "end_line": 120,
+      "heading": "2.9 NEW MANAGEMENT TECHNIQUES AND CONSTRUCTION TOOLS 2-16",
+      "level": 2,
+      "start_line": 120
+    },
+    {
+      "anchor": "2-10-evaluating-the-constructibility-of-the-concepts-with-respect-to-npovs-criteria-2-18",
+      "end_line": 121,
+      "heading": "2.10 EVALUATING THE CONSTRUCTIBILITY OF THE CONCEPTS WITH RESPECT TO NPOVS CRITERIA 2-18",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "2-11-research-and-development-needs-in-support-of-construction-2-19",
+      "end_line": 122,
+      "heading": "2.11 RESEARCH AND DEVELOPMENT NEEDS IN SUPPORT OF CONSTRUCTION 2-19",
+      "level": 2,
+      "start_line": 122
+    },
+    {
+      "anchor": "2-12-summary-2-21",
+      "end_line": 123,
+      "heading": "2.12 SUMMARY 2-21",
+      "level": 2,
+      "start_line": 123
+    },
+    {
+      "anchor": "2-13-references-for-chapter-2-2-22",
+      "end_line": 125,
+      "heading": "2.13 References For Chapter 2. 2-22",
+      "level": 2,
+      "start_line": 124
+    },
+    {
+      "anchor": "3-economics-3-1",
+      "end_line": 127,
+      "heading": "3. ECONOMICS 3-1",
+      "level": 1,
+      "start_line": 126
+    },
+    {
+      "anchor": "3-1-introduction-3-1",
+      "end_line": 128,
+      "heading": "3.1 Introduction. 3-1",
+      "level": 2,
+      "start_line": 128
+    },
+    {
+      "anchor": "3-2-economic-evaluation-3-2",
+      "end_line": 129,
+      "heading": "3.2 ECONOMIC EVALUATION 3-2",
+      "level": 2,
+      "start_line": 129
+    },
+    {
+      "anchor": "3-3-availability-and-reliability-3-6",
+      "end_line": 130,
+      "heading": "3.3 AVAILABILITY AND RELIABILITY 3-6",
+      "level": 2,
+      "start_line": 130
+    },
+    {
+      "anchor": "3-4-shop-fabrication-3-12",
+      "end_line": 131,
+      "heading": "3.4 SHOP FABRICATION 3-12",
+      "level": 2,
+      "start_line": 131
+    },
+    {
+      "anchor": "3-5-safety-separation-of-nuclear-island-and-bop-3-13",
+      "end_line": 132,
+      "heading": "3.5 Safety Separation Of Nuclear Island And Bop. 3-13",
+      "level": 2,
+      "start_line": 132
+    },
+    {
+      "anchor": "3-6-modular-construction-and-cost-size-scaling-3-14",
+      "end_line": 133,
+      "heading": "3.6 Modular Construction And Cost-Size Scaling.... 3-14",
+      "level": 2,
+      "start_line": 133
+    },
+    {
+      "anchor": "3-7-plant-standardization-3-15",
+      "end_line": 134,
+      "heading": "3.7 Plant Standardization.. 3-15",
+      "level": 2,
+      "start_line": 134
+    },
+    {
+      "anchor": "3-8-fuel-cycle-3-19",
+      "end_line": 135,
+      "heading": "3.8 FUEL CYCLE 3-19",
+      "level": 2,
+      "start_line": 135
+    },
+    {
+      "anchor": "3-9-information-data-and-r-d-needs-3-19",
+      "end_line": 136,
+      "heading": "3.9 Information, Data, And R&D Needs.. 3-19",
+      "level": 2,
+      "start_line": 136
+    },
+    {
+      "anchor": "3-10-references-for-chapter-3-3-22",
+      "end_line": 138,
+      "heading": "3.10 References For Chapter 3. 3-22",
+      "level": 2,
+      "start_line": 137
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 142,
+      "heading": "CONTENTS (CONTINUED)",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "4-regulation-4-1",
+      "end_line": 144,
+      "heading": "4. REGULATION 4-1",
+      "level": 2,
+      "start_line": 143
+    },
+    {
+      "anchor": "4-1-significance-of-licensing-and-regulation-to-viability-4-1",
+      "end_line": 145,
+      "heading": "4.1 SIGNIFICANCE OF LICENSING AND REGULATION TO VIABILITY 4-1",
+      "level": 2,
+      "start_line": 145
+    },
+    {
+      "anchor": "4-2-licensing-issues-what-really-counts-4-2",
+      "end_line": 146,
+      "heading": "4.2 Licensing Issues: What Really Counts.... 4-2",
+      "level": 2,
+      "start_line": 146
+    },
+    {
+      "anchor": "4-2-1-impact-of-evolving-regulations-and-backfitting-the-need-for-stability-4-2",
+      "end_line": 147,
+      "heading": "4.2.1 Impact Of Evolving Regulations And Backfitting: The Need For Stability 4-2",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "4-2-2-standardization-4-2",
+      "end_line": 148,
+      "heading": "4.2.2 Standardization. 4-2",
+      "level": 2,
+      "start_line": 148
+    },
+    {
+      "anchor": "4-2-3-preapproved-siting-policy-for-nuclear-plants-4-3",
+      "end_line": 149,
+      "heading": "4.2.3 Preapproved Siting Policy For Nuclear Plants. 4-3",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "4-2-4-prescriptive-vs-performance-based-regulation-4-3",
+      "end_line": 150,
+      "heading": "4.2.4 Prescriptive Vs Performance-Based Regulation. 4-3",
+      "level": 2,
+      "start_line": 150
+    },
+    {
+      "anchor": "4-2-5-severe-accident-policy-the-source-term-4-4",
+      "end_line": 151,
+      "heading": "4.2.5 Severe Accident Policy: The Source Term 4-4",
+      "level": 2,
+      "start_line": 151
+    },
+    {
+      "anchor": "4-2-6-the-alternative-regulatory-philosophies-4-4",
+      "end_line": 152,
+      "heading": "4.2.6 The Alternative Regulatory Philosophies. 4-4",
+      "level": 2,
+      "start_line": 152
+    },
+    {
+      "anchor": "4-2-7-public-participation-in-the-licensing-process-4-6",
+      "end_line": 153,
+      "heading": "4.2.7 PUBLIC PARTICIPATION IN THE LICENSING PROCESS 4-6",
+      "level": 2,
+      "start_line": 153
+    },
+    {
+      "anchor": "4-3-licensing-innovative-plants-4-7",
+      "end_line": 154,
+      "heading": "4.3 LICENSING INNOVATIVE PLANTS 4-7",
+      "level": 2,
+      "start_line": 154
+    },
+    {
+      "anchor": "4-3-1-nrc-s-proposed-criteria-for-advanced-nuclear-plants-4-7",
+      "end_line": 155,
+      "heading": "4.3.1 Nrc'S Proposed Criteria For Advanced Nuclear Plants. 4-7",
+      "level": 2,
+      "start_line": 155
+    },
+    {
+      "anchor": "4-3-2-definition-of-safety-envelope-and-its-significance-4-7",
+      "end_line": 156,
+      "heading": "4.3.2 Definition Of Safety Envelope And Its Significance. 4-7",
+      "level": 2,
+      "start_line": 156
+    },
+    {
+      "anchor": "4-3-3-the-need-for-containment-4-8",
+      "end_line": 157,
+      "heading": "4.3.3 THE NEED FOR CONTAINMENT 4-8",
+      "level": 2,
+      "start_line": 157
+    },
+    {
+      "anchor": "4-3-4-licensing-by-demonstration-4-8",
+      "end_line": 158,
+      "heading": "4.3.4 Licensing By Demonstration. 4-8",
+      "level": 2,
+      "start_line": 158
+    },
+    {
+      "anchor": "4-3-5-licensing-modular-plants-and-shop-fabricated-systems-and-components-4-8",
+      "end_line": 160,
+      "heading": "4.3.5 LICENSING MODULAR PLANTS AND SHOP-FABRICATED SYSTEMS AND COMPONENTS 4-8",
+      "level": 2,
+      "start_line": 159
+    },
+    {
+      "anchor": "4-3-7-licensing-fuel-cycle-facilities-4-9",
+      "end_line": 161,
+      "heading": "4.3.7 Licensing Fuel Cycle Facilities. 4-9",
+      "level": 2,
+      "start_line": 161
+    },
+    {
+      "anchor": "4-4-licensing-summary-and-conclusions-4-10",
+      "end_line": 162,
+      "heading": "4.4 Licensing: Summary And Conclusions 4-10",
+      "level": 2,
+      "start_line": 162
+    },
+    {
+      "anchor": "4-5-references-for-chapter-4-4-10",
+      "end_line": 164,
+      "heading": "4.5 REFERENCES FOR CHAPTER 4 4-10",
+      "level": 2,
+      "start_line": 163
+    },
+    {
+      "anchor": "5-safety-and-economic-risk-5-1",
+      "end_line": 166,
+      "heading": "5. SAFETY AND ECONOMIC RISK 5-1",
+      "level": 2,
+      "start_line": 165
+    },
+    {
+      "anchor": "5-1-approach-to-safety-and-economic-risk-assessment-5-1",
+      "end_line": 167,
+      "heading": "5.1 Approach To Safety And Economic Risk Assessment. 5-1",
+      "level": 2,
+      "start_line": 167
+    },
+    {
+      "anchor": "5-2-passive-safety-5-2",
+      "end_line": 168,
+      "heading": "5.2 PASSIVE SAFETY 5-2",
+      "level": 2,
+      "start_line": 168
+    },
+    {
+      "anchor": "5-3-probabilistic-risk-assessment-5-2",
+      "end_line": 169,
+      "heading": "5.3 PROBABILISTIC RISK ASSESSMENT 5-2",
+      "level": 2,
+      "start_line": 169
+    },
+    {
+      "anchor": "5-4-generic-safety-and-risk-issues-5-3",
+      "end_line": 171,
+      "heading": "5.4 Generic Safety And Risk Issues.. 5-3",
+      "level": 2,
+      "start_line": 170
+    },
+    {
+      "anchor": "5-4-1-capital-investment-risk-5-3",
+      "end_line": 172,
+      "heading": "5.4.1 Capital Investment Risk. 5-3",
+      "level": 2,
+      "start_line": 172
+    },
+    {
+      "anchor": "5-4-2-operation-risk-5-4",
+      "end_line": 173,
+      "heading": "5.4.2 Operation Risk. 5-4",
+      "level": 2,
+      "start_line": 173
+    },
+    {
+      "anchor": "5-4-3-source-term-and-containment-5-4",
+      "end_line": 174,
+      "heading": "5.4.3 Source Term And Containment.. 5-4",
+      "level": 2,
+      "start_line": 174
+    },
+    {
+      "anchor": "5-4-4-impact-of-standardization-on-safety-5-5",
+      "end_line": 176,
+      "heading": "5.4.4 Impact Of Standardization On Safety... .5-5",
+      "level": 2,
+      "start_line": 175
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 180,
+      "heading": "CONTENTS (CONTINUED)",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "5-5-issues-related-to-safety-and-economic-risk",
+      "end_line": 182,
+      "heading": "5.5 ISSUES RELATED TO SAFETY AND ECONOMIC RISK",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "requiring-further-investigation-and-research-5-5",
+      "end_line": 184,
+      "heading": "Requiring Further Investigation And Research 5-5",
+      "level": 2,
+      "start_line": 183
+    },
+    {
+      "anchor": "5-5-1-risk-criteria-5-5",
+      "end_line": 185,
+      "heading": "5.5.1 Risk Criteria. 5-5",
+      "level": 2,
+      "start_line": 185
+    },
+    {
+      "anchor": "5-5-2-passive-safety-is-it-different-5-6",
+      "end_line": 186,
+      "heading": "5.5.2 Passive Safety: Is It Different? 5-6",
+      "level": 2,
+      "start_line": 186
+    },
+    {
+      "anchor": "5-5-3-rare-events-5-6",
+      "end_line": 187,
+      "heading": "5.5.3 Rare Events. 5-6",
+      "level": 2,
+      "start_line": 187
+    },
+    {
+      "anchor": "5-5-4-containment-confinement-5-6",
+      "end_line": 188,
+      "heading": "5.5.4 CONTAINMENT-CONFINEMENT 5-6",
+      "level": 2,
+      "start_line": 188
+    },
+    {
+      "anchor": "5-5-5-operational-risk-5-6",
+      "end_line": 189,
+      "heading": "5.5.5 Operational Risk.. 5-6",
+      "level": 2,
+      "start_line": 189
+    },
+    {
+      "anchor": "5-5-6-standardization-5-6",
+      "end_line": 191,
+      "heading": "5.5.6 Standardization. 5-6",
+      "level": 2,
+      "start_line": 190
+    },
+    {
+      "anchor": "5-6-references-for-chapter-5-5-7",
+      "end_line": 193,
+      "heading": "5.6 References For Chapter 5. 5-7",
+      "level": 2,
+      "start_line": 192
+    },
+    {
+      "anchor": "6-nuclear-waste-transportation-and-disposal",
+      "end_line": 195,
+      "heading": "6. NUCLEAR WASTE TRANSPORTATION AND DISPOSAL",
+      "level": 1,
+      "start_line": 194
+    },
+    {
+      "anchor": "6-1-the-anticipated-status-of-waste-by-the",
+      "end_line": 196,
+      "heading": "6.1 THE ANTICIPATED STATUS OF WASTE BY THE",
+      "level": 2,
+      "start_line": 196
+    },
+    {
+      "anchor": "year-2000-6-1",
+      "end_line": 197,
+      "heading": "Year 2000. 6-1",
+      "level": 2,
+      "start_line": 197
+    },
+    {
+      "anchor": "6-2-special-waste-considerations-of-the",
+      "end_line": 198,
+      "heading": "6.2 SPECIAL WASTE CONSIDERATIONS OF THE",
+      "level": 2,
+      "start_line": 198
+    },
+    {
+      "anchor": "concepts-studied-by-npovs-6-1",
+      "end_line": 199,
+      "heading": "Concepts Studied By Npovs. 6-1",
+      "level": 2,
+      "start_line": 199
+    },
+    {
+      "anchor": "6-3-risks-of-waste-transportation-and-disposal-6-2",
+      "end_line": 200,
+      "heading": "6.3 Risks Of Waste Transportation And Disposal... 6-2",
+      "level": 2,
+      "start_line": 200
+    },
+    {
+      "anchor": "6-4-discussion-of-waste-disposal-issues-6-3",
+      "end_line": 201,
+      "heading": "6.4 DISCUSSION OF WASTE DISPOSAL ISSUES 6-3",
+      "level": 2,
+      "start_line": 201
+    },
+    {
+      "anchor": "6-5-waste-disposal-summary-and-conclusions-6-3",
+      "end_line": 202,
+      "heading": "6.5 Waste Disposal: Summary And Conclusions.... 6-3",
+      "level": 2,
+      "start_line": 202
+    },
+    {
+      "anchor": "6-6-references-for-chapter-6-6-4",
+      "end_line": 204,
+      "heading": "6.6 References For Chapter 6. 6-4",
+      "level": 2,
+      "start_line": 203
+    },
+    {
+      "anchor": "7-market-acceptance",
+      "end_line": 206,
+      "heading": "7. MARKET ACCEPTANCE",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "7-1-introduction-7-1",
+      "end_line": 208,
+      "heading": "7.1 Introduction. 7-1",
+      "level": 2,
+      "start_line": 207
+    },
+    {
+      "anchor": "7-1-1-issue-definition-7-2",
+      "end_line": 209,
+      "heading": "7.1.1 Issue Definition. 7-2",
+      "level": 2,
+      "start_line": 209
+    },
+    {
+      "anchor": "7-1-2-structure-of-the-market-7-2",
+      "end_line": 211,
+      "heading": "7.1.2 Structure Of The Market. 7-2",
+      "level": 2,
+      "start_line": 210
+    },
+    {
+      "anchor": "7-2-summary-of-results",
+      "end_line": 213,
+      "heading": "7.2 SUMMARY OF RESULTS.",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "7-2-1-general-conditions-for-a-future",
+      "end_line": 214,
+      "heading": "7.2.1 GENERAL CONDITIONS FOR A FUTURE",
+      "level": 2,
+      "start_line": 214
+    },
+    {
+      "anchor": "nuclear-market-7-3",
+      "end_line": 215,
+      "heading": "Nuclear Market. 7-3",
+      "level": 2,
+      "start_line": 215
+    },
+    {
+      "anchor": "7-2-2-public-acceptance-criteria-7-4",
+      "end_line": 217,
+      "heading": "7.2.2 Public Acceptance Criteria. 7-4",
+      "level": 2,
+      "start_line": 216
+    },
+    {
+      "anchor": "7-3-defining-issues-as-technical-or",
+      "end_line": 219,
+      "heading": "7.3 DEFINING ISSUES AS TECHNICAL OR",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "institutional-7-4",
+      "end_line": 221,
+      "heading": "Institutional. 7-4",
+      "level": 2,
+      "start_line": 220
+    },
+    {
+      "anchor": "7-3-1-technical-and-institutional",
+      "end_line": 222,
+      "heading": "7.3.1 TECHNICAL AND INSTITUTIONAL",
+      "level": 2,
+      "start_line": 222
+    },
+    {
+      "anchor": "definitions-of-nuclear-issues-7-5",
+      "end_line": 223,
+      "heading": "Definitions Of Nuclear Issues. 7-5",
+      "level": 2,
+      "start_line": 223
+    },
+    {
+      "anchor": "7-3-2-issues-facing-the-development-of",
+      "end_line": 224,
+      "heading": "7.3.2 ISSUES FACING THE DEVELOPMENT OF",
+      "level": 2,
+      "start_line": 224
+    },
+    {
+      "anchor": "lwr-technology-7-6",
+      "end_line": 225,
+      "heading": "Lwr Technology. 7-6",
+      "level": 2,
+      "start_line": 225
+    },
+    {
+      "anchor": "7-3-3-identifying-the-issues-7-6",
+      "end_line": 226,
+      "heading": "7.3.3 Identifying The Issues. 7-6",
+      "level": 2,
+      "start_line": 226
+    },
+    {
+      "anchor": "7-3-4-solutions-given-for-the-issues-7-7",
+      "end_line": 227,
+      "heading": "7.3.4 Solutions Given For The Issues.... 7-7",
+      "level": 2,
+      "start_line": 227
+    },
+    {
+      "anchor": "7-3-5-defining-the-issues-7-7",
+      "end_line": 228,
+      "heading": "7.3.5 DEFINING THE ISSUES 7-7",
+      "level": 2,
+      "start_line": 228
+    },
+    {
+      "anchor": "7-3-6-reasons-given-for-definitions-7-10",
+      "end_line": 229,
+      "heading": "7.3.6 Reasons Given For Definitions. 7-10",
+      "level": 2,
+      "start_line": 229
+    },
+    {
+      "anchor": "7-3-7-implications-for-the-new-nuclear",
+      "end_line": 230,
+      "heading": "7.3.7 IMPLICATIONS FOR THE NEW NUCLEAR",
+      "level": 2,
+      "start_line": 230
+    },
+    {
+      "anchor": "reactor-technologies-7-11",
+      "end_line": 232,
+      "heading": "Reactor Technologies. 7-11",
+      "level": 2,
+      "start_line": 231
+    },
+    {
+      "anchor": "7-4-industry-decision-making-and-future-nuclear",
+      "end_line": 234,
+      "heading": "7.4 INDUSTRY DECISION MAKING AND FUTURE NUCLEAR",
+      "level": 1,
+      "start_line": 233
+    },
+    {
+      "anchor": "markets-7-12",
+      "end_line": 236,
+      "heading": "Markets. 7-12",
+      "level": 2,
+      "start_line": 235
+    },
+    {
+      "anchor": "7-4-1-reasons-for-looking-at-decision",
+      "end_line": 237,
+      "heading": "7.4.1 REASONS FOR LOOKING AT DECISION",
+      "level": 2,
+      "start_line": 237
+    },
+    {
+      "anchor": "making-process-7-12",
+      "end_line": 238,
+      "heading": "Making Process. 7-12",
+      "level": 2,
+      "start_line": 238
+    },
+    {
+      "anchor": "7-4-2-a-decision-theoretic-model-of",
+      "end_line": 239,
+      "heading": "7.4.2 A DECISION THEORETIC MODEL OF",
+      "level": 2,
+      "start_line": 239
+    },
+    {
+      "anchor": "electric-utilities-7-13",
+      "end_line": 240,
+      "heading": "Electric Utilities. 7-13",
+      "level": 2,
+      "start_line": 240
+    },
+    {
+      "anchor": "7-4-3-generalizations-about-the-primary",
+      "end_line": 241,
+      "heading": "7.4.3 GENERALIZATIONS ABOUT THE PRIMARY",
+      "level": 2,
+      "start_line": 241
+    },
+    {
+      "anchor": "market-7-16",
+      "end_line": 243,
+      "heading": "Market. 7-16",
+      "level": 2,
+      "start_line": 242
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 247,
+      "heading": "CONTENTS (CONTINUED)",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "7-4-4-market-preferences-suggested-by-the-model-7-16",
+      "end_line": 248,
+      "heading": "7.4.4 Market Preferences Suggested By The Model. 7-16",
+      "level": 2,
+      "start_line": 248
+    },
+    {
+      "anchor": "7-4-5-application-of-the-model-to-three-key-issues-7-18",
+      "end_line": 249,
+      "heading": "7.4.5 Application Of The Model To Three Key Issues. 7-18",
+      "level": 2,
+      "start_line": 249
+    },
+    {
+      "anchor": "7-4-6-constraining-preferences-of-secondary-markets-7-19",
+      "end_line": 250,
+      "heading": "7.4.6 Constraining Preferences Of Secondary Markets. 7-19",
+      "level": 2,
+      "start_line": 250
+    },
+    {
+      "anchor": "7-4-7-key-issues-shaping-criteria-from-puc-and-interest-group-perspectives-7-20",
+      "end_line": 251,
+      "heading": "7.4.7 KEY ISSUES SHAPING CRITERIA FROM PUC AND INTEREST GROUP PERSPECTIVES 7-20",
+      "level": 2,
+      "start_line": 251
+    },
+    {
+      "anchor": "7-4-8-summary-7-22",
+      "end_line": 252,
+      "heading": "7.4.8 SUMMARY 7-22",
+      "level": 2,
+      "start_line": 252
+    },
+    {
+      "anchor": "references-for-chapter-7-7-23",
+      "end_line": 254,
+      "heading": "References For Chapter 7 7-23",
+      "level": 2,
+      "start_line": 253
+    },
+    {
+      "anchor": "8-acknowledgments-8-1",
+      "end_line": 260,
+      "heading": "8. ACKNOWLEDGMENTS 8-1",
+      "level": 2,
+      "start_line": 255
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 270,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 261
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 272,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "1-1-background",
+      "end_line": 280,
+      "heading": "1.1 BACKGROUND",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "1-2-report-organization",
+      "end_line": 289,
+      "heading": "1.2 REPORT ORGANIZATION",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "1-3-criteria-and-characteristics",
+      "end_line": 372,
+      "heading": "1.3 CRITERIA AND CHARACTERISTICS",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "1-4-concept-selection-and-classification",
+      "end_line": 382,
+      "heading": "1.4 CONCEPT SELECTION AND CLASSIFICATION",
+      "level": 1,
+      "start_line": 373
+    },
+    {
+      "anchor": "1-light-water-reactors-lwrs",
+      "end_line": 387,
+      "heading": "1. Light-Water Reactors (LWRs)",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "2-liquid-metal-reactors-lmrs",
+      "end_line": 393,
+      "heading": "2. Liquid Metal Reactors (LMRs)",
+      "level": 1,
+      "start_line": 388
+    },
+    {
+      "anchor": "3-high-temperature-reactor-htr",
+      "end_line": 403,
+      "heading": "3. High-Temperature Reactor (HTR)",
+      "level": 1,
+      "start_line": 394
+    },
+    {
+      "anchor": "1-5-references-for-chapter-1",
+      "end_line": 409,
+      "heading": "1.5 REFERENCES FOR CHAPTER 1",
+      "level": 2,
+      "start_line": 404
+    },
+    {
+      "anchor": "2-construction",
+      "end_line": 417,
+      "heading": "2. CONSTRUCTION",
+      "level": 1,
+      "start_line": 410
+    },
+    {
+      "anchor": "2-1-introduction",
+      "end_line": 432,
+      "heading": "2.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 418
+    },
+    {
+      "anchor": "2-2-claims-of-constructibility",
+      "end_line": 476,
+      "heading": "2.2 CLAIMS OF CONSTRUCTIBILITY",
+      "level": 1,
+      "start_line": 433
+    },
+    {
+      "anchor": "3-low-commodity-quantities",
+      "end_line": 486,
+      "heading": "3. Low commodity quantities",
+      "level": 1,
+      "start_line": 477
+    },
+    {
+      "anchor": "4-small-design-low-power-density",
+      "end_line": 492,
+      "heading": "4. Small design, low power density",
+      "level": 1,
+      "start_line": 487
+    },
+    {
+      "anchor": "5-modular-design",
+      "end_line": 496,
+      "heading": "5. Modular design",
+      "level": 1,
+      "start_line": 493
+    },
+    {
+      "anchor": "6-shop-fabrication",
+      "end_line": 500,
+      "heading": "6. Shop fabrication",
+      "level": 1,
+      "start_line": 497
+    },
+    {
+      "anchor": "7-ease-of-shipping-and-transport",
+      "end_line": 508,
+      "heading": "7. Ease of shipping and transport",
+      "level": 1,
+      "start_line": 501
+    },
+    {
+      "anchor": "8-non-safety-grade-balance-of-plant-bop",
+      "end_line": 512,
+      "heading": "8. Non-safety grade balance of plant (BOP)",
+      "level": 1,
+      "start_line": 509
+    },
+    {
+      "anchor": "9-parallel-construction",
+      "end_line": 518,
+      "heading": "9. Parallel construction",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "10-ease-of-licensing",
+      "end_line": 522,
+      "heading": "10. Ease of licensing",
+      "level": 1,
+      "start_line": 519
+    },
+    {
+      "anchor": "11-dedicated-crews",
+      "end_line": 526,
+      "heading": "11. Dedicated crews",
+      "level": 1,
+      "start_line": 523
+    },
+    {
+      "anchor": "12-short-lead-time-construction-time",
+      "end_line": 532,
+      "heading": "12. Short lead time/construction time",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "2-3-information-supporting-constructibility-claims",
+      "end_line": 551,
+      "heading": "2.3 INFORMATION SUPPORTING CONSTRUCTIBILITY CLAIMS",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "2-4-standardization-modularization-and-shop-fabrication",
+      "end_line": 593,
+      "heading": "2.4 STANDARDIZATION, MODULARIZATION, AND SHOP FABRICATION",
+      "level": 1,
+      "start_line": 552
+    },
+    {
+      "anchor": "2-5-design-complexity-impact-on-licensing-modification-retrofitting-and-operation",
+      "end_line": 620,
+      "heading": "2.5 DESIGN COMPLEXITY: IMPACT ON LICENSING, MODIFICATION, RETROFITTING, AND OPERATION",
+      "level": 1,
+      "start_line": 594
+    },
+    {
+      "anchor": "2-6-construction-schedule",
+      "end_line": 632,
+      "heading": "2.6 CONSTRUCTION SCHEDULE",
+      "level": 1,
+      "start_line": 621
+    },
+    {
+      "anchor": "2-7-construction-management",
+      "end_line": 684,
+      "heading": "2.7 CONSTRUCTION MANAGEMENT",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "2-8-constructibility-considerations-for-piling-and-electrical-and-instrumentation-systems",
+      "end_line": 698,
+      "heading": "2.8 CONSTRUCTIBILITY CONSIDERATIONS FOR PILING AND ELECTRICAL AND INSTRUMENTATION SYSTEMS",
+      "level": 1,
+      "start_line": 685
+    },
+    {
+      "anchor": "2-9-new-management-techniques-and-construction-tools",
+      "end_line": 718,
+      "heading": "2.9 NEW MANAGEMENT TECHNIQUES AND CONSTRUCTION TOOLS",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "2-10-evaluating-the-constructibility-of-the-concepts-with-respect-to-npovs-criteria",
+      "end_line": 746,
+      "heading": "2.10 EVALUATING THE CONSTRUCTIBILITY OF THE CONCEPTS WITH RESPECT TO NPOVS CRITERIA",
+      "level": 1,
+      "start_line": 719
+    },
+    {
+      "anchor": "2-11-research-and-development-needs-in-support-of-construction",
+      "end_line": 776,
+      "heading": "2.11 RESEARCH AND DEVELOPMENT NEEDS IN SUPPORT OF CONSTRUCTION",
+      "level": 1,
+      "start_line": 747
+    },
+    {
+      "anchor": "2-12-summary",
+      "end_line": 790,
+      "heading": "2.12 SUMMARY",
+      "level": 1,
+      "start_line": 777
+    },
+    {
+      "anchor": "2-13-references-for-chapter-2",
+      "end_line": 833,
+      "heading": "2.13 REFERENCES FOR CHAPTER 2",
+      "level": 1,
+      "start_line": 791
+    },
+    {
+      "anchor": "3-economics",
+      "end_line": 837,
+      "heading": "3. ECONOMICS",
+      "level": 1,
+      "start_line": 834
+    },
+    {
+      "anchor": "3-1-introduction",
+      "end_line": 855,
+      "heading": "3.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 838
+    },
+    {
+      "anchor": "3-2-economic-evaluation",
+      "end_line": 885,
+      "heading": "3.2 ECONOMIC EVALUATION",
+      "level": 1,
+      "start_line": 856
+    },
+    {
+      "anchor": "3-3-availability-and-reliability",
+      "end_line": 943,
+      "heading": "3.3 AVAILABILITY AND RELIABILITY",
+      "level": 1,
+      "start_line": 886
+    },
+    {
+      "anchor": "3-4-shop-fabrication",
+      "end_line": 961,
+      "heading": "3.4 SHOP FABRICATION",
+      "level": 1,
+      "start_line": 944
+    },
+    {
+      "anchor": "3-5-safety-separation-of-nuclear-island-and-bop",
+      "end_line": 987,
+      "heading": "3.5 SAFETY SEPARATION OF NUCLEAR ISLAND AND BOP",
+      "level": 1,
+      "start_line": 962
+    },
+    {
+      "anchor": "3-6-modular-construction-and-cost-size-scaling",
+      "end_line": 1011,
+      "heading": "3.6 MODULAR CONSTRUCTION AND COST-SIZE SCALING",
+      "level": 1,
+      "start_line": 988
+    },
+    {
+      "anchor": "3-7-plant-standardization",
+      "end_line": 1046,
+      "heading": "3.7 PLANT STANDARDIZATION",
+      "level": 1,
+      "start_line": 1012
+    },
+    {
+      "anchor": "3-8-fuel-cycle",
+      "end_line": 1058,
+      "heading": "3.8 FUEL CYCLE",
+      "level": 1,
+      "start_line": 1047
+    },
+    {
+      "anchor": "3-9-information-data-and-r-d-needs",
+      "end_line": 1088,
+      "heading": "3.9 INFORMATION, DATA AND R&D NEEDS",
+      "level": 1,
+      "start_line": 1059
+    },
+    {
+      "anchor": "3-10-references-for-chapter-3",
+      "end_line": 1111,
+      "heading": "3.10 REFERENCES FOR CHAPTER 3",
+      "level": 1,
+      "start_line": 1089
+    },
+    {
+      "anchor": "4-regulation",
+      "end_line": 1115,
+      "heading": "4. REGULATION",
+      "level": 1,
+      "start_line": 1112
+    },
+    {
+      "anchor": "4-1-significance-of-licensing-and-regulation-to-viability",
+      "end_line": 1127,
+      "heading": "4.1 SIGNIFICANCE OF LICENSING AND REGULATION TO VIABILITY",
+      "level": 1,
+      "start_line": 1116
+    },
+    {
+      "anchor": "4-2-licensing-issues-what-really-counts",
+      "end_line": 1129,
+      "heading": "4.2 LICENSING ISSUES - WHAT REALLY COUNTS",
+      "level": 1,
+      "start_line": 1128
+    },
+    {
+      "anchor": "4-2-1-impact-of-evolving-regulations-and-backfitting-the-need-for-stability",
+      "end_line": 1133,
+      "heading": "4.2.1 Impact of Evolving Regulations and Backfitting: The Need for Stability",
+      "level": 1,
+      "start_line": 1130
+    },
+    {
+      "anchor": "4-2-2-standardization",
+      "end_line": 1143,
+      "heading": "4.2.2 Standardization",
+      "level": 1,
+      "start_line": 1134
+    },
+    {
+      "anchor": "4-2-3-preapproved-siting-policy-for-nuclear-plants",
+      "end_line": 1147,
+      "heading": "4.2.3 Preapproved Siting Policy for Nuclear Plants",
+      "level": 1,
+      "start_line": 1144
+    },
+    {
+      "anchor": "4-2-4-prescriptive-vs-performance-based-regulation",
+      "end_line": 1158,
+      "heading": "4.2.4 Prescriptive vs Performance-Based Regulation",
+      "level": 1,
+      "start_line": 1148
+    },
+    {
+      "anchor": "4-2-5-severe-accident-policy-the-source-term",
+      "end_line": 1168,
+      "heading": "4.2.5 Severe Accident Policy: The Source Term",
+      "level": 1,
+      "start_line": 1159
+    },
+    {
+      "anchor": "4-2-6-the-alternative-regulatory-philosophies",
+      "end_line": 1194,
+      "heading": "4.2.6 The Alternative Regulatory Philosophies",
+      "level": 1,
+      "start_line": 1169
+    },
+    {
+      "anchor": "4-2-7-public-participation-in-the-licensing-process",
+      "end_line": 1204,
+      "heading": "4.2.7 Public Participation in the Licensing Process",
+      "level": 1,
+      "start_line": 1195
+    },
+    {
+      "anchor": "4-3-licensing-innovative-plants",
+      "end_line": 1206,
+      "heading": "4.3 LICENSING INNOVATIVE PLANTS",
+      "level": 1,
+      "start_line": 1205
+    },
+    {
+      "anchor": "4-3-1-nrc-s-proposed-criteria-for-advanced-nuclear-plants",
+      "end_line": 1220,
+      "heading": "4.3.1 NRC's Proposed Criteria for Advanced Nuclear Plants",
+      "level": 1,
+      "start_line": 1207
+    },
+    {
+      "anchor": "4-3-2-definition-of-safety-envelope-and-its-significance",
+      "end_line": 1226,
+      "heading": "4.3.2 Definition of Safety Envelope and its Significance",
+      "level": 1,
+      "start_line": 1221
+    },
+    {
+      "anchor": "4-3-3-the-need-for-containment",
+      "end_line": 1230,
+      "heading": "4.3.3 The Need for Containment",
+      "level": 1,
+      "start_line": 1227
+    },
+    {
+      "anchor": "4-3-4-licensing-by-demonstration",
+      "end_line": 1236,
+      "heading": "4.3.4 Licensing by Demonstration",
+      "level": 1,
+      "start_line": 1231
+    },
+    {
+      "anchor": "4-3-5-licensing-modular-plants-and-shop-fabricated-systems-and-components",
+      "end_line": 1244,
+      "heading": "4.3.5 Licensing Modular Plants and Shop-Fabricated Systems and Components",
+      "level": 1,
+      "start_line": 1237
+    },
+    {
+      "anchor": "4-3-6-r-d-needs-and-clarification-of-nrc-positions-for-licensing-advanced-concepts",
+      "end_line": 1252,
+      "heading": "4.3.6 R&D Needs and Clarification of NRC Positions for Licensing Advanced Concepts",
+      "level": 1,
+      "start_line": 1245
+    },
+    {
+      "anchor": "4-3-7-licensing-fuel-cycle-facilities",
+      "end_line": 1260,
+      "heading": "4.3.7 Licensing Fuel Cycle Facilities",
+      "level": 1,
+      "start_line": 1253
+    },
+    {
+      "anchor": "4-4-licensing-summary-and-conclusions",
+      "end_line": 1266,
+      "heading": "4.4 LICENSING - SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 1261
+    },
+    {
+      "anchor": "4-5-references-for-chapter-4",
+      "end_line": 1274,
+      "heading": "4.5 REFERENCES FOR CHAPTER 4",
+      "level": 1,
+      "start_line": 1267
+    },
+    {
+      "anchor": "5-safety-and-economic-risk",
+      "end_line": 1282,
+      "heading": "5. SAFETY AND ECONOMIC RISK",
+      "level": 1,
+      "start_line": 1275
+    },
+    {
+      "anchor": "5-1-approach-to-safety-and-economic-risk-assessment",
+      "end_line": 1296,
+      "heading": "5.1 APPROACH TO SAFETY AND ECONOMIC RISK ASSESSMENT",
+      "level": 1,
+      "start_line": 1283
+    },
+    {
+      "anchor": "5-2-passive-safety",
+      "end_line": 1313,
+      "heading": "5.2 PASSIVE SAFETY",
+      "level": 1,
+      "start_line": 1297
+    },
+    {
+      "anchor": "5-3-probabilistic-risk-assessment",
+      "end_line": 1327,
+      "heading": "5.3 PROBABILISTIC RISK ASSESSMENT",
+      "level": 1,
+      "start_line": 1314
+    },
+    {
+      "anchor": "5-4-generic-safety-and-risk-issues",
+      "end_line": 1329,
+      "heading": "5.4 GENERIC SAFETY AND RISK ISSUES",
+      "level": 1,
+      "start_line": 1328
+    },
+    {
+      "anchor": "5-4-1-capital-investment-risk",
+      "end_line": 1335,
+      "heading": "5.4.1 Capital Investment Risk",
+      "level": 1,
+      "start_line": 1330
+    },
+    {
+      "anchor": "5-4-2-operation-risk",
+      "end_line": 1343,
+      "heading": "5.4.2 Operation Risk",
+      "level": 1,
+      "start_line": 1336
+    },
+    {
+      "anchor": "5-4-3-source-term-and-containment",
+      "end_line": 1353,
+      "heading": "5.4.3 Source Term and Containment",
+      "level": 1,
+      "start_line": 1344
+    },
+    {
+      "anchor": "5-4-4-impact-of-standardization-on-safety",
+      "end_line": 1359,
+      "heading": "5.4.4 Impact of Standardization on Safety",
+      "level": 1,
+      "start_line": 1354
+    },
+    {
+      "anchor": "5-5-issues-related-to-safety-and-economic-risk-requiring-further-investigation-and-research",
+      "end_line": 1363,
+      "heading": "5.5 ISSUES RELATED TO SAFETY AND ECONOMIC RISK REQUIRING FURTHER INVESTIGATION AND RESEARCH",
+      "level": 1,
+      "start_line": 1360
+    },
+    {
+      "anchor": "4-5-1-risk-criteria",
+      "end_line": 1371,
+      "heading": "4.5.1 Risk Criteria",
+      "level": 1,
+      "start_line": 1364
+    },
+    {
+      "anchor": "5-5-2-passive-safety-is-it-different",
+      "end_line": 1375,
+      "heading": "5.5.2 Passive Safety: Is It Different?",
+      "level": 1,
+      "start_line": 1372
+    },
+    {
+      "anchor": "5-5-3-rare-events",
+      "end_line": 1379,
+      "heading": "5.5.3 Rare Events",
+      "level": 1,
+      "start_line": 1376
+    },
+    {
+      "anchor": "5-5-4-containment-confinement",
+      "end_line": 1383,
+      "heading": "5.5.4 Containment-Confinement",
+      "level": 1,
+      "start_line": 1380
+    },
+    {
+      "anchor": "5-5-5-operational-risk",
+      "end_line": 1387,
+      "heading": "5.5.5 Operational Risk",
+      "level": 1,
+      "start_line": 1384
+    },
+    {
+      "anchor": "5-5-6-standardization",
+      "end_line": 1391,
+      "heading": "5.5.6 Standardization",
+      "level": 1,
+      "start_line": 1388
+    },
+    {
+      "anchor": "5-6-references-for-chapter-5",
+      "end_line": 1401,
+      "heading": "5.6 REFERENCES FOR CHAPTER 5",
+      "level": 2,
+      "start_line": 1392
+    },
+    {
+      "anchor": "6-nuclear-waste-transportation-and-disposal",
+      "end_line": 1405,
+      "heading": "6. NUCLEAR WASTE TRANSPORTATION AND DISPOSAL",
+      "level": 1,
+      "start_line": 1402
+    },
+    {
+      "anchor": "6-1-the-anticipated-status-of-waste-by-the-year-2000",
+      "end_line": 1415,
+      "heading": "6.1 THE ANTICIPATED STATUS OF WASTE BY THE YEAR 2000",
+      "level": 1,
+      "start_line": 1406
+    },
+    {
+      "anchor": "6-2-special-waste-considerations-of-the-concepts-studied-by-npovs",
+      "end_line": 1431,
+      "heading": "6.2 SPECIAL WASTE CONSIDERATIONS OF THE CONCEPTS STUDIED BY NPOVS",
+      "level": 1,
+      "start_line": 1416
+    },
+    {
+      "anchor": "6-3-risks-of-waste-transportation-and-disposal",
+      "end_line": 1451,
+      "heading": "6.3 RISKS OF WASTE TRANSPORTATION AND DISPOSAL",
+      "level": 1,
+      "start_line": 1432
+    },
+    {
+      "anchor": "6-4-discussion-of-waste-disposal-issues",
+      "end_line": 1462,
+      "heading": "6.4 DISCUSSION OF WASTE DISPOSAL ISSUES",
+      "level": 1,
+      "start_line": 1452
+    },
+    {
+      "anchor": "6-5-waste-disposal-summary-and-conclusion",
+      "end_line": 1468,
+      "heading": "6.5 WASTE DISPOSAL: SUMMARY AND CONCLUSION",
+      "level": 1,
+      "start_line": 1463
+    },
+    {
+      "anchor": "6-6-references-for-chapter-6",
+      "end_line": 1478,
+      "heading": "6.6 REFERENCES FOR CHAPTER 6",
+      "level": 2,
+      "start_line": 1469
+    },
+    {
+      "anchor": "7-market-acceptance-of-new-reactor-technologies",
+      "end_line": 1492,
+      "heading": "7. MARKET ACCEPTANCE OF NEW REACTOR TECHNOLOGIES",
+      "level": 1,
+      "start_line": 1479
+    },
+    {
+      "anchor": "7-1-introduction",
+      "end_line": 1508,
+      "heading": "7.1 INTRODUCTION",
+      "level": 1,
+      "start_line": 1493
+    },
+    {
+      "anchor": "7-1-1-issue-definition",
+      "end_line": 1512,
+      "heading": "7.1.1 Issue Definition",
+      "level": 1,
+      "start_line": 1509
+    },
+    {
+      "anchor": "7-1-2-structure-of-the-market",
+      "end_line": 1522,
+      "heading": "7.1.2 Structure of the Market",
+      "level": 1,
+      "start_line": 1513
+    },
+    {
+      "anchor": "7-2-summary-of-results",
+      "end_line": 1524,
+      "heading": "7.2 SUMMARY OF RESULTS",
+      "level": 1,
+      "start_line": 1523
+    },
+    {
+      "anchor": "7-2-1-general-conditions-for-a-future-nuclear-market",
+      "end_line": 1548,
+      "heading": "7.2.1 General Conditions for a Future Nuclear Market",
+      "level": 1,
+      "start_line": 1525
+    },
+    {
+      "anchor": "7-2-2-public-acceptance-criteria",
+      "end_line": 1559,
+      "heading": "7.2.2 Public Acceptance Criteria",
+      "level": 1,
+      "start_line": 1549
+    },
+    {
+      "anchor": "7-3-defining-issues-as-technical-or-institutional",
+      "end_line": 1569,
+      "heading": "7.3 DEFINING ISSUES AS TECHNICAL OR INSTITUTIONAL",
+      "level": 1,
+      "start_line": 1560
+    },
+    {
+      "anchor": "7-3-1-technical-and-institutional-definitions-of-nuclear-issues",
+      "end_line": 1581,
+      "heading": "7.3.1 Technical and Institutional Definitions of Nuclear Issues",
+      "level": 1,
+      "start_line": 1570
+    },
+    {
+      "anchor": "7-3-2-issues-facing-the-development-of-lwr-technology",
+      "end_line": 1592,
+      "heading": "7.3.2 Issues Facing the Development of LWR Technology",
+      "level": 1,
+      "start_line": 1582
+    },
+    {
+      "anchor": "7-3-3-identifying-the-issues",
+      "end_line": 1598,
+      "heading": "7.3.3 Identifying the Issues",
+      "level": 1,
+      "start_line": 1593
+    },
+    {
+      "anchor": "7-3-4-solutions-given-for-the-issues",
+      "end_line": 1608,
+      "heading": "7.3.4 Solutions Given for the Issues",
+      "level": 1,
+      "start_line": 1599
+    },
+    {
+      "anchor": "7-3-5-defining-the-issues",
+      "end_line": 1636,
+      "heading": "7.3.5 Defining the Issues",
+      "level": 1,
+      "start_line": 1609
+    },
+    {
+      "anchor": "7-3-6-reasons-given-for-definitions",
+      "end_line": 1658,
+      "heading": "7.3.6 Reasons Given for Definitions",
+      "level": 1,
+      "start_line": 1637
+    },
+    {
+      "anchor": "7-3-7-implications-for-the-new-nuclear-reactor-technologies",
+      "end_line": 1670,
+      "heading": "7.3.7 Implications for the new nuclear reactor technologies",
+      "level": 1,
+      "start_line": 1659
+    },
+    {
+      "anchor": "7-4-industry-decision-making-and-future-nuclear-markets",
+      "end_line": 1674,
+      "heading": "7.4 INDUSTRY DECISION MAKING AND FUTURE NUCLEAR MARKETS",
+      "level": 1,
+      "start_line": 1671
+    },
+    {
+      "anchor": "7-4-1-reasons-for-looking-at-the-decision-making-process",
+      "end_line": 1688,
+      "heading": "7.4.1 Reasons for Looking at the Decision Making Process",
+      "level": 1,
+      "start_line": 1675
+    },
+    {
+      "anchor": "7-4-2-a-decision-theoretic-model-of-electric-utilities",
+      "end_line": 1715,
+      "heading": "7.4.2 A Decision Theoretic Model of Electric Utilities.",
+      "level": 1,
+      "start_line": 1689
+    },
+    {
+      "anchor": "7-4-3-generalizations-about-the-primary-market",
+      "end_line": 1723,
+      "heading": "7.4.3 Generalizations About the Primary Market",
+      "level": 1,
+      "start_line": 1716
+    },
+    {
+      "anchor": "7-4-4-market-preferences-suggested-by-the-model",
+      "end_line": 1739,
+      "heading": "7.4.4 Market Preferences Suggested by the Model",
+      "level": 1,
+      "start_line": 1724
+    },
+    {
+      "anchor": "7-4-5-application-of-the-model-to-three-key-issues",
+      "end_line": 1765,
+      "heading": "7.4.5 Application of the Model to Three Key Issues",
+      "level": 1,
+      "start_line": 1740
+    },
+    {
+      "anchor": "7-4-6-constraining-preferences-of-secondary-markets",
+      "end_line": 1777,
+      "heading": "7.4.6 Constraining Preferences of Secondary Markets",
+      "level": 1,
+      "start_line": 1766
+    },
+    {
+      "anchor": "7-4-7-key-issues-shaping-criteria-from-puc-and-interest-group-perspectives",
+      "end_line": 1809,
+      "heading": "7.4.7 Key Issues Shaping Criteria from PUC and Interest Group Perspectives",
+      "level": 1,
+      "start_line": 1778
+    },
+    {
+      "anchor": "7-4-8-summary",
+      "end_line": 1815,
+      "heading": "7.4.8 Summary",
+      "level": 1,
+      "start_line": 1810
+    },
+    {
+      "anchor": "7-5-references-for-chapter-7",
+      "end_line": 1824,
+      "heading": "7.5 REFERENCES FOR CHAPTER 7",
+      "level": 1,
+      "start_line": 1816
+    },
+    {
+      "anchor": "8-acknowledgments",
+      "end_line": 1830,
+      "heading": "8. ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 1825
+    },
+    {
+      "anchor": "asea-atom",
+      "end_line": 1900,
+      "heading": "Asea-Atom",
+      "level": 2,
+      "start_line": 1831
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 1930,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 1,
+      "start_line": 1901
+    },
+    {
+      "anchor": "tennessee-valley-authority",
+      "end_line": 1944,
+      "heading": "Tennessee Valley Authority",
+      "level": 1,
+      "start_line": 1931
+    },
+    {
+      "anchor": "the-university-of-tennessee",
+      "end_line": 1960,
+      "heading": "The University of Tennessee",
+      "level": 1,
+      "start_line": 1945
+    },
+    {
+      "anchor": "npovs-advisory-committee-members",
+      "end_line": 1980,
+      "heading": "NPOVS Advisory Committee Members",
+      "level": 1,
+      "start_line": 1961
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1982,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 1981
+    },
+    {
+      "anchor": "interview-format-for-the-issue-definition-research-and-outline-of-issues-used-for-the-case-study-interviews",
+      "end_line": 1986,
+      "heading": "INTERVIEW FORMAT FOR THE ISSUE DEFINITION RESEARCH AND OUTLINE OF ISSUES USED FOR THE CASE STUDY INTERVIEWS",
+      "level": 1,
+      "start_line": 1983
+    },
+    {
+      "anchor": "a-1-interview-format-for-the-issue-definition-research",
+      "end_line": 2014,
+      "heading": "A.1 INTERVIEW FORMAT FOR THE ISSUE DEFINITION RESEARCH",
+      "level": 1,
+      "start_line": 1987
+    },
+    {
+      "anchor": "issue-1",
+      "end_line": 2020,
+      "heading": "Issue 1",
+      "level": 2,
+      "start_line": 2015
+    },
+    {
+      "anchor": "issue-2",
+      "end_line": 2029,
+      "heading": "Issue 2",
+      "level": 2,
+      "start_line": 2021
+    },
+    {
+      "anchor": "issue-3",
+      "end_line": 2039,
+      "heading": "Issue 3",
+      "level": 2,
+      "start_line": 2030
+    },
+    {
+      "anchor": "issue-4",
+      "end_line": 2049,
+      "heading": "Issue 4",
+      "level": 2,
+      "start_line": 2040
+    },
+    {
+      "anchor": "issue-5",
+      "end_line": 2059,
+      "heading": "Issue 5",
+      "level": 2,
+      "start_line": 2050
+    },
+    {
+      "anchor": "iii",
+      "end_line": 2063,
+      "heading": "Iii.",
+      "level": 2,
+      "start_line": 2060
+    },
+    {
+      "anchor": "1-nuclear-power-plant-decommissioning",
+      "end_line": 2071,
+      "heading": "1. NUCLEAR POWER PLANT DECOMMISSIONING",
+      "level": 2,
+      "start_line": 2064
+    },
+    {
+      "anchor": "2-adequacy-of-engineered-safety-features",
+      "end_line": 2079,
+      "heading": "2. ADEQUACY OF ENGINEERED SAFETY FEATURES",
+      "level": 2,
+      "start_line": 2072
+    },
+    {
+      "anchor": "3-adequacy-of-materials-used-in-the-manufacture-of-containment-building-for-the-life-of-the-plant",
+      "end_line": 2087,
+      "heading": "3. ADEQUACY OF MATERIALS USED IN THE MANUFACTURE OF CONTAINMENT BUILDING FOR THE LIFE OF THE PLANT",
+      "level": 2,
+      "start_line": 2080
+    },
+    {
+      "anchor": "4-allocation-of-financial-liability-for-an-accident",
+      "end_line": 2127,
+      "heading": "4. ALLOCATION OF FINANCIAL LIABILITY FOR AN ACCIDENT",
+      "level": 2,
+      "start_line": 2088
+    },
+    {
+      "anchor": "a-2-issues-for-interview-with-utilities-and-public-utility-commission",
+      "end_line": 2152,
+      "heading": "A.2 ISSUES FOR INTERVIEW WITH UTILITIES AND PUBLIC UTILITY COMMISSION",
+      "level": 1,
+      "start_line": 2128
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 2154,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 2153
+    },
+    {
+      "anchor": "tables-on-the-sample-used-for-the-issue-identification-research",
+      "end_line": 2178,
+      "heading": "TABLES ON THE SAMPLE USED FOR THE ISSUE IDENTIFICATION RESEARCH",
+      "level": 1,
+      "start_line": 2155
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2236,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2179
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2241,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2237
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-9780-V3",
+  "tables": [],
+  "title": "OAK RIDGE NATIONAL LABORATORY",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "fuel-processing-and-reprocessing",
+    "instrumentation-and-controls",
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

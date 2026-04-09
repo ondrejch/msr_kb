@@ -1,0 +1,355 @@
+{
+  "authors": [
+    "COPY NO. -",
+    "J. O. Blomeke",
+    "J. J. Perona",
+    "PROOFING COULTLECTION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2677.jsonl",
+  "date_text": "November 21, 1969",
+  "doc_id": "ornl-tm-2677",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          91,
+          97,
+          103,
+          239
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          241,
+          256
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          3,
+          15,
+          58,
+          71,
+          248,
+          286,
+          293,
+          297,
+          301,
+          302,
+          311,
+          312,
+          358
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          7,
+          81,
+          224,
+          295,
+          353,
+          367,
+          369,
+          371
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          5,
+          77
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          364
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 21,
+        "line_hits": [
+          101,
+          103,
+          105,
+          109,
+          117,
+          129,
+          131,
+          212,
+          218,
+          220,
+          224,
+          231,
+          233,
+          241,
+          243,
+          245,
+          264,
+          266,
+          279,
+          280,
+          282
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c94ca89d3927ee6984b3b8db85530778ff586dd427aa39e1b5c73db7dc8dc7c6",
+  "markdown_path": "pdf/ORNL-TM-2677/ORNL-TM-2677/hybrid_ocr/ORNL-TM-2677.md",
+  "report_number": "ORNL-TM-2677",
+  "report_numbers": [
+    "ORNL-TM-2677"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 31,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the",
+      "end_line": 6,
+      "heading": "operated by UNION CARBIDE CORPORATION for the",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 14,
+      "heading": "U.S. ATOMIC ENERGY COMMISSION",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "ornl-tm-2677",
+      "end_line": 18,
+      "heading": "Ornl-Tm-2677",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 22,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "management-of-noble-gas-fibration-product-wastes-from-reprocessing-spent-fuels",
+      "end_line": 28,
+      "heading": "MANAGEMENT OF NOBLE-GAS FIBRATION-PRODUCT WASTES FROM REPROCESSING SPENT FUELS",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "cak-nidge-national-laboratory",
+      "end_line": 32,
+      "heading": "Cak Nidge National Laboratory",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "proofing-coultlection",
+      "end_line": 36,
+      "heading": "Proofing Coultlection",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "no-not-transfer-to-another-person",
+      "end_line": 48,
+      "heading": "No Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 57,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "ornl-tm-2677",
+      "end_line": 61,
+      "heading": "Ornl-Tm-2677",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 63,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "management-of-noble-gas-fission-product-wastes-from-reprocessing-spent-fuels",
+      "end_line": 70,
+      "heading": "Management Of Noble-Gas Fission-Product Wastes From Reprocessing Spent Fuels",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 76,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 80,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 82,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "management-of-noble-gas-fission-product-wastes-from-reprocessing-spent-fuels",
+      "end_line": 88,
+      "heading": "MANAGEMENT OF NOBLE-GAS FISSION-PRODUCT WASTES FROM REPROCESSING SPENT FUELS",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 98,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 114,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "2-handling-of-compressed-gases-in-cylinders",
+      "end_line": 132,
+      "heading": "2. HANDLING OF COMPRESSED GASES IN CYLINDERS",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "3-accidental-release",
+      "end_line": 213,
+      "heading": "3. ACCIDENTAL RELEASE",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "4-on-site-interim-storage",
+      "end_line": 221,
+      "heading": "4. ON-SITE INTERIM STORAGE",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "5-shipping",
+      "end_line": 228,
+      "heading": "5. SHIPPING",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "6-permanent-storage",
+      "end_line": 234,
+      "heading": "6. PERMANENT STORAGE",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "7-preliminary-cost-estimate",
+      "end_line": 247,
+      "heading": "7. PRELIMINARY COST ESTIMATE",
+      "level": 1,
+      "start_line": 235
+    },
+    {
+      "anchor": "ornl-dwg-69-1254",
+      "end_line": 250,
+      "heading": "Ornl Dwg 69-1254",
+      "level": 2,
+      "start_line": 248
+    },
+    {
+      "anchor": "scale-in-feet",
+      "end_line": 269,
+      "heading": "Scale In Feet",
+      "level": 2,
+      "start_line": 251
+    },
+    {
+      "anchor": "8-projected-scale-of-operations-for-the-civilian-nuclear-power-program",
+      "end_line": 283,
+      "heading": "8. PROJECTED SCALE OF OPERATIONS FOR THE CIVILIAN NUCLEAR POWER PROGRAM",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "9-references",
+      "end_line": 303,
+      "heading": "9. REFERENCES",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 350,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 374,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 351
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2677",
+  "tables": [],
+  "title": "![](images/2ef298d76b99eea89a9c27d5ccade49b1ee36b6cb07f5704c0da6849247af3c6.jpg)",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,478 @@
+{
+  "authors": [
+    "C. F. Weaver",
+    "H. A. Friedman",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1976.jsonl",
+  "date_text": "1976",
+  "doc_id": "ornl-tm-1976",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 35,
+        "line_hits": [
+          1,
+          22,
+          54,
+          60,
+          119,
+          162,
+          210,
+          211,
+          212,
+          213,
+          241,
+          242,
+          252,
+          291,
+          304,
+          305,
+          314,
+          321,
+          332,
+          333,
+          340,
+          342,
+          343,
+          345,
+          346,
+          347,
+          348,
+          350,
+          355,
+          359,
+          360,
+          363,
+          374,
+          378,
+          380
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          241,
+          291,
+          305,
+          360,
+          366,
+          378
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          180
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          60
+        ],
+        "name": "graphite"
+      }
+    ],
+    "organization": [
+      {
+        "count": 9,
+        "line_hits": [
+          50,
+          642,
+          643,
+          644,
+          645,
+          646,
+          647,
+          648,
+          649
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          16,
+          40,
+          337,
+          338,
+          339,
+          383,
+          628,
+          630
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          242,
+          252,
+          380
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          46
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 15,
+        "line_hits": [
+          60,
+          64,
+          71,
+          73,
+          75,
+          79,
+          94,
+          111,
+          128,
+          130,
+          132,
+          154,
+          162,
+          204,
+          311
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          337
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          126,
+          204
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "628081a9410a2a50aea709f592645729faed5e1d0ffe4dc5df7b10a7ca8b83f2",
+  "markdown_path": "pdf/ORNL-TM-1976/ORNL-TM-1976/hybrid_ocr/ORNL-TM-1976.md",
+  "report_number": "ORNL-TM-1976",
+  "report_numbers": [
+    "ORNL-TM-1976",
+    "ANL-7240",
+    "ORNL-TM-1853",
+    "ORNL-4076",
+    "ORNL-4119"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 40,
+  "sections": [
+    {
+      "anchor": "a-literature-survey-of-the-fluorides-and-oxyfluorides-of-molybdenum",
+      "end_line": 6,
+      "heading": "A Literature Survey Of The Fluorides And Oxyfluorides Of Molybdenum",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 15,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "ornl-tm-1976",
+      "end_line": 19,
+      "heading": "Ornl-Tm-1976",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "reactor-chemistry-division",
+      "end_line": 21,
+      "heading": "Reactor Chemistry Division",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "a-literature-survey-of-the-fluorides-and-oxyfluorides-of-molybdenum",
+      "end_line": 25,
+      "heading": "A Literature Survey Of The Fluorides And Oxyfluorides Of Molybdenum",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 37,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 26
+    },
+    {
+      "anchor": "october-1967",
+      "end_line": 39,
+      "heading": "October 1967",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 45,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 49,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 51,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "a-literature-survey-of-the-fluorides",
+      "end_line": 53,
+      "heading": "A LITERATURE SURVEY OF THE FLUORIDES",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "and-oxyfluorides-of-molybdenum",
+      "end_line": 57,
+      "heading": "AND OXYFLUORIDES OF MOLYBDENUM",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 61,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "mof3",
+      "end_line": 76,
+      "heading": "MoF3",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "mof-4",
+      "end_line": 87,
+      "heading": "MOF 4",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "mo2f9",
+      "end_line": 91,
+      "heading": "Mo2F9",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "mof5",
+      "end_line": 108,
+      "heading": "MoF5",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "mmof6",
+      "end_line": 112,
+      "heading": "MMoF6",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "k2moof5",
+      "end_line": 116,
+      "heading": "K2MoOF5",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "mof6",
+      "end_line": 133,
+      "heading": "MoF6",
+      "level": 1,
+      "start_line": 117
+    },
+    {
+      "anchor": "the-system-mathsf-mof-6-text-mathsf-uf-6",
+      "end_line": 137,
+      "heading": "The System $\\mathsf{MoF}_6\\text{-}\\mathsf{UF}_6$",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "m2mof8",
+      "end_line": 141,
+      "heading": "M2MoF8",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "moof",
+      "end_line": 155,
+      "heading": "MoOF",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "moo2f2",
+      "end_line": 159,
+      "heading": "MoO2F2",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "container-materials",
+      "end_line": 163,
+      "heading": "Container Materials",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "material",
+      "end_line": 165,
+      "heading": "Material",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "reference",
+      "end_line": 214,
+      "heading": "Reference",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 246,
+      "heading": "TABLE II",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 256,
+      "heading": "Table Iii",
+      "level": 2,
+      "start_line": 247
+    },
+    {
+      "anchor": "table-iv",
+      "end_line": 282,
+      "heading": "TABLE IV",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "table-v",
+      "end_line": 293,
+      "heading": "Table V",
+      "level": 2,
+      "start_line": 283
+    },
+    {
+      "anchor": "table-vi",
+      "end_line": 295,
+      "heading": "TABLE VI",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "thermodynamic-properties-of-mathbf-mof-6",
+      "end_line": 297,
+      "heading": "Thermodynamic Properties of $\\mathbf{MoF}_6$ .",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "formation-values",
+      "end_line": 307,
+      "heading": "Formation Values.",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "table-vii",
+      "end_line": 323,
+      "heading": "Table Vii",
+      "level": 2,
+      "start_line": 308
+    },
+    {
+      "anchor": "table-viii",
+      "end_line": 334,
+      "heading": "TABLE VIII",
+      "level": 1,
+      "start_line": 324
+    },
+    {
+      "anchor": "references",
+      "end_line": 382,
+      "heading": "References",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "ornl-tm-1976",
+      "end_line": 384,
+      "heading": "ORNL-TM-1976",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 639,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 649,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 640
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1976",
+  "tables": [],
+  "title": "A LITERATURE SURVEY OF THE FLUORIDES AND OXYFLUORIDES OF MOLYBDENUM",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "fuel-processing-and-reprocessing",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": []
+}

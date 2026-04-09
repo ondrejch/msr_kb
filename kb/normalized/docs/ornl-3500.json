@@ -1,0 +1,460 @@
+{
+  "authors": [
+    "REACTOR EXPERIMENT",
+    "R. G. Donnelly",
+    "G. M. Slaughter",
+    "UNION CARBIDE CORPORATION",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-3500.jsonl",
+  "date_text": "1963",
+  "doc_id": "ornl-3500",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 8,
+        "line_hits": [
+          108,
+          120,
+          124,
+          135,
+          182,
+          203,
+          213,
+          241
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          203
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 26,
+        "line_hits": [
+          11,
+          46,
+          94,
+          108,
+          118,
+          122,
+          124,
+          128,
+          131,
+          133,
+          137,
+          172,
+          227,
+          241,
+          244,
+          250,
+          254,
+          259,
+          293,
+          295,
+          298,
+          301,
+          307,
+          311,
+          315,
+          319
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          118
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          5,
+          23,
+          54,
+          147,
+          323,
+          335,
+          339
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          31,
+          64,
+          402,
+          404,
+          405
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          27,
+          60,
+          256
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 8,
+        "line_hits": [
+          124,
+          137,
+          172,
+          184,
+          207,
+          248,
+          311,
+          319
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          46,
+          94,
+          108,
+          118,
+          131,
+          172,
+          174,
+          250
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          118
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          182
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "fa20dfe46899001cb1ee99033324f9bac206cad49eaa62186d1b968b056b26db",
+  "markdown_path": "pdf/ORNL-3500/ORNL-3500/hybrid_ocr/ORNL-3500.md",
+  "report_number": "ORNL-3500",
+  "report_numbers": [
+    "ORNL-3500"
+  ],
+  "report_series": null,
+  "section_count": 39,
+  "sections": [
+    {
+      "anchor": "ornl-3500",
+      "end_line": 10,
+      "heading": "Ornl-3500",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "fabrication-of-the-heat-exchanger",
+      "end_line": 12,
+      "heading": "Fabrication Of The Heat Exchanger",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "tube-bundle-for-the-molten-salt",
+      "end_line": 14,
+      "heading": "Tube Bundle For The Molten-Salt",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "reactor-experiment",
+      "end_line": 22,
+      "heading": "Reactor Experiment",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 30,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 32,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 43,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 53,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 59,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 63,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 69,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 71,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "abstract-v",
+      "end_line": 73,
+      "heading": "Abstract V",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 75,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "joint-design-1",
+      "end_line": 77,
+      "heading": "Joint Design 1",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "preliminary-investigations-6",
+      "end_line": 93,
+      "heading": "Preliminary Investigations 6",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "fabrication-of-msre-heat-exchanger-tube-bundle-17",
+      "end_line": 99,
+      "heading": "Fabrication Of Msre Heat Exchanger Tube Bundle 17",
+      "level": 2,
+      "start_line": 94
+    },
+    {
+      "anchor": "summary-31",
+      "end_line": 101,
+      "heading": "Summary 31",
+      "level": 2,
+      "start_line": 100
+    },
+    {
+      "anchor": "acknowledgment-31",
+      "end_line": 105,
+      "heading": "Acknowledgment 31",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 115,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 106
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 125,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "joint-design",
+      "end_line": 144,
+      "heading": "JOINT DESIGN",
+      "level": 1,
+      "start_line": 126
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 146,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 145
+    },
+    {
+      "anchor": "ornl-lr-dwg65682r3",
+      "end_line": 161,
+      "heading": "Ornl-Lr-Dwg65682R3",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "preliminary-investigations",
+      "end_line": 163,
+      "heading": "PRELIMINARY INVESTIGATIONS",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "welding",
+      "end_line": 177,
+      "heading": "Welding",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "brazing",
+      "end_line": 179,
+      "heading": "Brazing",
+      "level": 1,
+      "start_line": 178
+    },
+    {
+      "anchor": "alloy-selection",
+      "end_line": 204,
+      "heading": "Alloy Selection",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "technique-development",
+      "end_line": 222,
+      "heading": "Technique Development",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "fabrication-of-mockup-samples",
+      "end_line": 238,
+      "heading": "FABRICATION OF MockUP SAMPLES",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "large-sample",
+      "end_line": 249,
+      "heading": "Large Sample",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "fabrication-of-msre-heat-exchanger-tube-bundle",
+      "end_line": 286,
+      "heading": "FABRICATION OF MSRE HEAT EXCHANGER TUBE BUNDLE",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "inspection",
+      "end_line": 308,
+      "heading": "Inspection",
+      "level": 1,
+      "start_line": 287
+    },
+    {
+      "anchor": "summary",
+      "end_line": 316,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 309
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 322,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 317
+    },
+    {
+      "anchor": "ornl-3500",
+      "end_line": 328,
+      "heading": "Ornl-3500",
+      "level": 2,
+      "start_line": 323
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 394,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 406,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 395
+    }
+  ],
+  "source_dir": "pdf/ORNL-3500",
+  "tables": [],
+  "title": "![](images/d9aebf34a13c7f22f748ff84e05a0ab0fcf5c8743051b3f9bc96ebe0b68e7f31.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

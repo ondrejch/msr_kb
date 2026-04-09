@@ -1,0 +1,626 @@
+{
+  "authors": [
+    "P. A. Haas",
+    "D. D. Lee",
+    "J. C. Mailen",
+    "MARTIN MARIETTA ENERGY SYSTEMS",
+    "INC.",
+    "U.S. DEPARTMENT OF ENERGY",
+    "MAster"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-11792.jsonl",
+  "date_text": "November 1991",
+  "doc_id": "ornl-tm-11792",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 7,
+        "line_hits": [
+          101,
+          109,
+          176,
+          208,
+          227,
+          233,
+          318
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          133,
+          227,
+          237
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          654
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 10,
+        "line_hits": [
+          135,
+          195,
+          227,
+          233,
+          237,
+          395,
+          554,
+          558,
+          624,
+          636
+        ],
+        "name": "sparger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          255,
+          265,
+          346
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          15,
+          133,
+          146,
+          279,
+          377,
+          449,
+          452,
+          666,
+          710,
+          714,
+          715
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          21,
+          445
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 52,
+        "line_hits": [
+          39,
+          105,
+          107,
+          111,
+          113,
+          114,
+          115,
+          119,
+          167,
+          204,
+          215,
+          217,
+          219,
+          223,
+          227,
+          255,
+          279,
+          281,
+          291,
+          308,
+          310,
+          318,
+          322,
+          324,
+          330,
+          344,
+          346,
+          348,
+          352,
+          358,
+          367,
+          373,
+          383,
+          407,
+          415,
+          417,
+          419,
+          430,
+          432,
+          438,
+          469,
+          473,
+          475,
+          510,
+          522,
+          524,
+          532,
+          545,
+          547,
+          556
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 6,
+        "line_hits": [
+          99,
+          101,
+          183,
+          233,
+          438,
+          447
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          440
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "8d341a013c89131a68339db8e8b562970d2f70bd8edd34d76b5c58670c5c93f0",
+  "markdown_path": "pdf/ORNL-TM-11792/ORNL-TM-11792/hybrid_ocr/ORNL-TM-11792.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 60,
+  "sections": [
+    {
+      "anchor": "reaction-of-uranium-oxides-with-chlorine-and-carbon-or-carbon-monoxide-to-prepare-uranium-chlorides",
+      "end_line": 14,
+      "heading": "REACTION OF URANIUM OXIDES WITH CHLORINE AND CARBON OR CARBON MONOXIDE TO PREPARE URANIUM CHLORIDES",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-inc",
+      "end_line": 24,
+      "heading": "Martin Marietta Energy Systems, Inc.",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "u-s-department-of-energy",
+      "end_line": 32,
+      "heading": "U.S. Department Of Energy",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 36,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 40,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "contents",
+      "end_line": 42,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 44,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 45,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "2-experimental-apparatus-and-procedures-6",
+      "end_line": 46,
+      "heading": "2. EXPERIMENTAL APPARATUS AND PROCEDURES 6",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "3-results-10",
+      "end_line": 48,
+      "heading": "3. RESULTS 10",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "3-1-reactions-of-chlorine-13",
+      "end_line": 49,
+      "heading": "3.1 REACTIONS OF CHLORINE 13",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "3-2-utilization-of-chlorine-22",
+      "end_line": 50,
+      "heading": "3.2 UTILIZATION OF CHLORINE 22",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "3-3-effects-of-uranium-oxide-properties-23",
+      "end_line": 51,
+      "heading": "3.3 EFFECTS OF URANIUM OXIDE PROPERTIES 23",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "3-4-reductions-by-carbon-26",
+      "end_line": 52,
+      "heading": "3.4 REDUCTIONS BY CARBON 26",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "3-5-reductions-by-carbon-monoxide-27",
+      "end_line": 53,
+      "heading": "3.5 REDUCTIONS BY CARBON MONOXIDE 27",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "3-6-volatilization-and-condensation-of-uranium-chlorides-28",
+      "end_line": 56,
+      "heading": "3.6 VOLATILIZATION AND CONDENSATION OF URANIUM CHLORIDES 28",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "4-conclusions-37",
+      "end_line": 57,
+      "heading": "4. CONCLUSIONS 37",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "5-references-39",
+      "end_line": 59,
+      "heading": "5. REFERENCES 39",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "appendix-41",
+      "end_line": 61,
+      "heading": "Appendix 41",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "a-thermochemistry-43",
+      "end_line": 62,
+      "heading": "A. Thermochemistry 43",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "b-individual-test-results-49",
+      "end_line": 63,
+      "heading": "B. Individual Test Results 49",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "c-equipment-details-and-calibrations-55",
+      "end_line": 67,
+      "heading": "C. EQUIPMENT DETAILS AND CALIBRATIONS 55",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "tables",
+      "end_line": 86,
+      "heading": "TABLES",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "figures",
+      "end_line": 96,
+      "heading": "FIGURES",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 102,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 130,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "2-experimental-apparatus-and-procedures",
+      "end_line": 145,
+      "heading": "2. EXPERIMENTAL APPARATUS AND PROCEDURES",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "ornl-dwg-90a-1406",
+      "end_line": 148,
+      "heading": "Ornl Dwg 90A-1406",
+      "level": 2,
+      "start_line": 146
+    },
+    {
+      "anchor": "r1-to-r6-rotameters",
+      "end_line": 149,
+      "heading": "R1 To R6 Rotameters",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "f1-to-f6-mass-flowmeters",
+      "end_line": 150,
+      "heading": "F1 To F6 Mass Flowmeters",
+      "level": 2,
+      "start_line": 150
+    },
+    {
+      "anchor": "manometer",
+      "end_line": 201,
+      "heading": "Manometer",
+      "level": 2,
+      "start_line": 151
+    },
+    {
+      "anchor": "3-results",
+      "end_line": 220,
+      "heading": "3. RESULTS",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "3-1-reactions-of-chlorine",
+      "end_line": 256,
+      "heading": "3.1 REACTIONS OF CHLORINE",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "3-2-utilization-of-chlorine",
+      "end_line": 276,
+      "heading": "3.2 UTILIZATION OF CHLORINE",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "3-3-effects-of-uranium-oxide-properties",
+      "end_line": 305,
+      "heading": "3.3 EFFECTS OF URANIUM OXIDE PROPERTIES",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "3-4-reductions-by-carbon",
+      "end_line": 319,
+      "heading": "3.4 REDUCTIONS BY CARBON",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "3-5-reductions-by-carbon-monoxide",
+      "end_line": 327,
+      "heading": "3.5 REDUCTIONS BY CARBON MONOXIDE",
+      "level": 1,
+      "start_line": 320
+    },
+    {
+      "anchor": "3-6-volatilization-and-condensation-of-uranium-chlorides",
+      "end_line": 370,
+      "heading": "3.6 VOLATILIZATION AND CONDENSATION OF URANIUM CHLORIDES",
+      "level": 1,
+      "start_line": 328
+    },
+    {
+      "anchor": "3-7-preliminary-results-with-a-larger-reactor-and-bottom-condenser",
+      "end_line": 376,
+      "heading": "3.7 PRELIMINARY RESULTS WITH A LARGER REACTOR AND BOTTOM CONDenser",
+      "level": 1,
+      "start_line": 371
+    },
+    {
+      "anchor": "ornl-dwg-90a-1407",
+      "end_line": 423,
+      "heading": "Ornl Dwg 90A-1407",
+      "level": 2,
+      "start_line": 377
+    },
+    {
+      "anchor": "4-conclusions",
+      "end_line": 441,
+      "heading": "4. CONCLUSIONS",
+      "level": 1,
+      "start_line": 424
+    },
+    {
+      "anchor": "5-references",
+      "end_line": 460,
+      "heading": "5. REFERENCES",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 462,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "a-thermochemistry",
+      "end_line": 466,
+      "heading": "A. Thermochemistry",
+      "level": 2,
+      "start_line": 463
+    },
+    {
+      "anchor": "a-thermochemistry",
+      "end_line": 542,
+      "heading": "A. THERMOCHEMISTRY",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "b-individual-test-results",
+      "end_line": 551,
+      "heading": "B. INDIVIDUAL TEST RESULTS",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "b-1-ms-8",
+      "end_line": 561,
+      "heading": "B.1 MS-8",
+      "level": 1,
+      "start_line": 552
+    },
+    {
+      "anchor": "weight-measurements-show",
+      "end_line": 579,
+      "heading": "Weight measurements show:",
+      "level": 1,
+      "start_line": 562
+    },
+    {
+      "anchor": "gas-flow-rates-times-concentrations-show",
+      "end_line": 589,
+      "heading": "Gas flow rates times concentrations show:",
+      "level": 1,
+      "start_line": 580
+    },
+    {
+      "anchor": "differences-in-flow-rates-show",
+      "end_line": 599,
+      "heading": "Differences in flow rates show:",
+      "level": 1,
+      "start_line": 590
+    },
+    {
+      "anchor": "chemical-analyses-of-product-samples-show",
+      "end_line": 607,
+      "heading": "Chemical analyses of product samples show:",
+      "level": 1,
+      "start_line": 600
+    },
+    {
+      "anchor": "calculated-compositions-of",
+      "end_line": 613,
+      "heading": "Calculated compositions of:",
+      "level": 1,
+      "start_line": 608
+    },
+    {
+      "anchor": "b-2-ms-22",
+      "end_line": 647,
+      "heading": "B.2 MS-22",
+      "level": 1,
+      "start_line": 614
+    },
+    {
+      "anchor": "b-3-ms-28",
+      "end_line": 657,
+      "heading": "B.3 MS-28",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "c-equipment-details-and-calibrations",
+      "end_line": 661,
+      "heading": "C. EQUIPMENT DETAILS AND CALIBRATIONS",
+      "level": 1,
+      "start_line": 658
+    },
+    {
+      "anchor": "c-1-flow-control-and-measurement",
+      "end_line": 673,
+      "heading": "C.1 Flow Control and Measurement",
+      "level": 1,
+      "start_line": 662
+    },
+    {
+      "anchor": "c-2-product-gas-reactors-and-traps",
+      "end_line": 683,
+      "heading": "C.2 Product Gas Reactors and Traps",
+      "level": 1,
+      "start_line": 674
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 716,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 727,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 717
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-11792",
+  "tables": [],
+  "title": "Chemical Technology Division",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "graphite-and-moderator-behavior",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

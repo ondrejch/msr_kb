@@ -1,0 +1,89 @@
+{
+  "authors": [],
+  "claims_path": "kb/normalized/claims/alvin-m-weinberg-oak-ridge-national-laboratory.jsonl",
+  "date_text": "August 30, 1969",
+  "doc_id": "alvin-m-weinberg-oak-ridge-national-laboratory",
+  "document_type": "report",
+  "entities": {
+    "organization": [
+      {
+        "count": 2,
+        "line_hits": [
+          3,
+          10
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          18
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 3,
+        "line_hits": [
+          14,
+          16,
+          18
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          16
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          14
+        ],
+        "name": "aircraft propulsion reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          14
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "024a16e1ed9fbd86b71bf54fd84675ea5f96e1537c4ceae60fa2fccba5b6fb1d",
+  "markdown_path": "pdf/NAT_preface/NAT_preface/hybrid_ocr/NAT_preface.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "natural-language-summaries",
+  "section_count": 1,
+  "sections": [
+    {
+      "anchor": "preface-molten-salt-reactors",
+      "end_line": 18,
+      "heading": "PREFACE: MOLTEN-SALT REACTORS",
+      "level": 1,
+      "start_line": 1
+    }
+  ],
+  "source_dir": "pdf/NAT_preface",
+  "tables": [],
+  "title": "ALVIN M. WEINBERG Oak Ridge National Laboratory",
+  "topics": [
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "authors_not_detected",
+    "report_number_not_detected"
+  ]
+}

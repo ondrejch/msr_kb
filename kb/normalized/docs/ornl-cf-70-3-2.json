@@ -1,0 +1,655 @@
+{
+  "authors": [
+    "FROM: J. L. Spoormaker*",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-70-3-2.jsonl",
+  "date_text": "March 2, 1970",
+  "doc_id": "ornl-cf-70-3-2",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          60,
+          446,
+          447
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "organization": [
+      {
+        "count": 26,
+        "line_hits": [
+          394,
+          406,
+          411,
+          416,
+          440,
+          458,
+          469,
+          495,
+          500,
+          505,
+          512,
+          518,
+          524,
+          532,
+          540,
+          590,
+          601,
+          612,
+          620,
+          625,
+          631,
+          634,
+          639,
+          653,
+          664,
+          675
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          394,
+          395,
+          396
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 22,
+        "line_hits": [
+          135,
+          163,
+          165,
+          173,
+          177,
+          185,
+          187,
+          193,
+          199,
+          211,
+          213,
+          217,
+          221,
+          245,
+          251,
+          253,
+          257,
+          283,
+          309,
+          323,
+          335,
+          361
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          3,
+          11,
+          51,
+          52,
+          53,
+          133,
+          137,
+          402,
+          409,
+          414,
+          419,
+          422,
+          426
+        ],
+        "name": "MSBR"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "73339372e1457f014d952a618f97076fd6a6728d9b5e82b0732ff142db2b3a2e",
+  "markdown_path": "pdf/ORNL-CF-70-3-2/ORNL-CF-70-3-2/hybrid_ocr/ORNL-CF-70-3-2.md",
+  "report_number": "ORNL-TM-2894",
+  "report_numbers": [
+    "ORNL-TM-2894"
+  ],
+  "report_series": "ornl-central-files",
+  "section_count": 74,
+  "sections": [
+    {
+      "anchor": "abstract",
+      "end_line": 12,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "contents",
+      "end_line": 16,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 18,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "list-of-figures-5",
+      "end_line": 20,
+      "heading": "List Of Figures 5",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "nomenclature-9",
+      "end_line": 22,
+      "heading": "Nomenclature 9",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "1-introduction-11",
+      "end_line": 23,
+      "heading": "1. INTRODUCTION 11",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "2-description-of-configuration-and-finite-element-idealization-12",
+      "end_line": 28,
+      "heading": "2.Description Of Configuration And Finite Element Idealization 12",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "3-temperature-distribution-calculations-13",
+      "end_line": 29,
+      "heading": "3．Temperature Distribution Calculations 13",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "4-stress-analysis-14",
+      "end_line": 34,
+      "heading": "4. STRESS ANALYSIS 14",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "5-results-of-stress-computations-17",
+      "end_line": 43,
+      "heading": "5. RESULTS OF STRESS COMPUTATIONS 17",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "6-conclusions-20",
+      "end_line": 44,
+      "heading": "6. CONCLUSIONS 20",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "7-references-21",
+      "end_line": 45,
+      "heading": "7. REFERENCES 21",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "8-acknowledgements-22",
+      "end_line": 46,
+      "heading": "8. ACKNOWLEDGEMENTS 22",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "9-figures-23",
+      "end_line": 48,
+      "heading": "9. FIGURES 23",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 125,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 130,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 126
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 138,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "downward",
+      "end_line": 140,
+      "heading": "Downward",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "upward",
+      "end_line": 142,
+      "heading": "Upward",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "1300-1200-f",
+      "end_line": 144,
+      "heading": "1300-1200°F",
+      "level": 2,
+      "start_line": 143
+    },
+    {
+      "anchor": "1300-1400-f",
+      "end_line": 146,
+      "heading": "1300-1400°F",
+      "level": 2,
+      "start_line": 145
+    },
+    {
+      "anchor": "1300-1100-f",
+      "end_line": 148,
+      "heading": "1300 - 1100°F",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "1300-1600-f",
+      "end_line": 150,
+      "heading": "1300 - 1600°F",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "1300-1800-f",
+      "end_line": 158,
+      "heading": "1300 - 1800°F",
+      "level": 2,
+      "start_line": 151
+    },
+    {
+      "anchor": "2-description-of-configuration-and-finite-element-idealization",
+      "end_line": 160,
+      "heading": "2. DESCRIPTION OF CONFIGURATION AND FINITE ELEMENT IDEALIZATION",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "2-1-configuration",
+      "end_line": 168,
+      "heading": "2.1. Configuration",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "2-2-finite-element-mesh",
+      "end_line": 174,
+      "heading": "2.2. Finite Element Mesh",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "3-temperature-distribution-calculations",
+      "end_line": 208,
+      "heading": "3. TEMPERATURE DISTRIBUTION CALCULATIONS",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "4-1-general-remarks",
+      "end_line": 218,
+      "heading": "4.1. General Remarks",
+      "level": 1,
+      "start_line": 209
+    },
+    {
+      "anchor": "4-2-evaluation-of-stresses",
+      "end_line": 242,
+      "heading": "4.2. Evaluation of Stresses",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "5-results-of-stress-computations",
+      "end_line": 248,
+      "heading": "5. RESULTS OF STRESS COMPUTATIONS",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "5-1-steady-state-condition",
+      "end_line": 254,
+      "heading": "5.1. Steady-State Condition",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "5-2-step-change-1300-1400-f",
+      "end_line": 280,
+      "heading": "5.2. Step Change 1300 - 1400°F",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "5-3-step-change-1300-1600-f",
+      "end_line": 306,
+      "heading": "5.3. Step Change 1300 - 1600°F",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "5-4-step-change-1300-1800-f",
+      "end_line": 332,
+      "heading": "5.4. Step Change 1300 - 1800°F",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "5-5-step-change-1300-1200-f",
+      "end_line": 358,
+      "heading": "5.5. Step Change 1300 - 1200°F",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "5-6-step-change-1300-1100-f",
+      "end_line": 382,
+      "heading": "5.6. Step Change 1300 - 1100°F",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "6-conclusions",
+      "end_line": 391,
+      "heading": "6. CONCLUSIONS",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "7-references",
+      "end_line": 399,
+      "heading": "7. REFERENCES",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "8-acknowledgements",
+      "end_line": 403,
+      "heading": "8. ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 400
+    },
+    {
+      "anchor": "9-figures",
+      "end_line": 405,
+      "heading": "9. FIGURES",
+      "level": 1,
+      "start_line": 404
+    },
+    {
+      "anchor": "ornl-dwg-70-2354",
+      "end_line": 410,
+      "heading": "Ornl-Dwg 70-2354",
+      "level": 2,
+      "start_line": 406
+    },
+    {
+      "anchor": "ornl-dwg-70-2355",
+      "end_line": 415,
+      "heading": "Ornl-Dwg 70-2355",
+      "level": 2,
+      "start_line": 411
+    },
+    {
+      "anchor": "ornl-dwg-70-2356",
+      "end_line": 421,
+      "heading": "Ornl-Dwg 70-2356",
+      "level": 2,
+      "start_line": 416
+    },
+    {
+      "anchor": "msbr-outlet-nozzle-simplified-version",
+      "end_line": 425,
+      "heading": "Msbr Outlet Nozzle (Simplified Version",
+      "level": 2,
+      "start_line": 422
+    },
+    {
+      "anchor": "msbr-outlet-nozzle-simplified-version",
+      "end_line": 429,
+      "heading": "Msbr Outlet Nozzle (Simplified Version)",
+      "level": 2,
+      "start_line": 426
+    },
+    {
+      "anchor": "mser-outlet-nozzle-simplified-version",
+      "end_line": 433,
+      "heading": "Mser Outlet Nozzle (Simplified Version)",
+      "level": 2,
+      "start_line": 430
+    },
+    {
+      "anchor": "mser-outlet-nozzle-simplified-version",
+      "end_line": 439,
+      "heading": "Mser Outlet Nozzle (Simplified Version)",
+      "level": 2,
+      "start_line": 434
+    },
+    {
+      "anchor": "ornl-dwg-70-3301",
+      "end_line": 457,
+      "heading": "Ornl-Dwg 70-3301",
+      "level": 2,
+      "start_line": 440
+    },
+    {
+      "anchor": "ornl-dwg-70-2366",
+      "end_line": 468,
+      "heading": "Ornl-Dwg 70-2366",
+      "level": 2,
+      "start_line": 458
+    },
+    {
+      "anchor": "ornl-dwg-70-2369",
+      "end_line": 494,
+      "heading": "Ornl-Dwg 70-2369",
+      "level": 2,
+      "start_line": 469
+    },
+    {
+      "anchor": "ornl-dwg-70-2377",
+      "end_line": 499,
+      "heading": "Ornl-Dwg 70-2377",
+      "level": 2,
+      "start_line": 495
+    },
+    {
+      "anchor": "ornl-dwg-70-2378",
+      "end_line": 504,
+      "heading": "Ornl-Dwg 70-2378",
+      "level": 2,
+      "start_line": 500
+    },
+    {
+      "anchor": "ornl-dwg-70-2379",
+      "end_line": 506,
+      "heading": "Ornl-Dwg 70-2379",
+      "level": 2,
+      "start_line": 505
+    },
+    {
+      "anchor": "circumferential-stress-distribution-through-the-wall-in-section-a-a",
+      "end_line": 511,
+      "heading": "Circumferential Stress Distribution Through The Wall In Section A-A",
+      "level": 2,
+      "start_line": 507
+    },
+    {
+      "anchor": "ornl-dwg-70-2380",
+      "end_line": 517,
+      "heading": "Ornl-Dwg 70-2380",
+      "level": 2,
+      "start_line": 512
+    },
+    {
+      "anchor": "ornl-dwg-70-2381",
+      "end_line": 523,
+      "heading": "Ornl-Dwg 70-2381",
+      "level": 2,
+      "start_line": 518
+    },
+    {
+      "anchor": "ornl-dwg-70-2383",
+      "end_line": 531,
+      "heading": "Ornl-Dwg 70-2383",
+      "level": 2,
+      "start_line": 524
+    },
+    {
+      "anchor": "ornl-dwg-70-2385",
+      "end_line": 539,
+      "heading": "Ornl-Dwg 70-2385",
+      "level": 2,
+      "start_line": 532
+    },
+    {
+      "anchor": "ornl-dwg-70-2387",
+      "end_line": 556,
+      "heading": "Ornl-Dwg 70-2387",
+      "level": 2,
+      "start_line": 540
+    },
+    {
+      "anchor": "circumferential-stress-distribution",
+      "end_line": 558,
+      "heading": "Circumferential Stress Distribution",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "through-the-wall-in-section-d-d",
+      "end_line": 581,
+      "heading": "Through the Wall in Section D-D",
+      "level": 1,
+      "start_line": 559
+    },
+    {
+      "anchor": "circumferential-stress-distribution-through-the-wall-in-section-a-a",
+      "end_line": 589,
+      "heading": "Circumferential Stress Distribution Through The Wall In Section A-A",
+      "level": 2,
+      "start_line": 582
+    },
+    {
+      "anchor": "ornl-dwg-70-2401",
+      "end_line": 600,
+      "heading": "Ornl-Dwg 70-2401",
+      "level": 2,
+      "start_line": 590
+    },
+    {
+      "anchor": "ornl-dwg-70-2404",
+      "end_line": 611,
+      "heading": "Ornl-Dwg 70-2404",
+      "level": 2,
+      "start_line": 601
+    },
+    {
+      "anchor": "ornl-dwg-70-2407",
+      "end_line": 619,
+      "heading": "Ornl-Dwg 70-2407",
+      "level": 2,
+      "start_line": 612
+    },
+    {
+      "anchor": "ornl-dwg-70-2409",
+      "end_line": 624,
+      "heading": "Ornl-Dwg 70-2409",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "ornl-dwg-70-2410",
+      "end_line": 630,
+      "heading": "Ornl-Dwg 70-2410",
+      "level": 2,
+      "start_line": 625
+    },
+    {
+      "anchor": "ornl-dwg-70-2411",
+      "end_line": 633,
+      "heading": "Ornl-Dwg 70-2411",
+      "level": 2,
+      "start_line": 631
+    },
+    {
+      "anchor": "ornl-dwg-70-2412",
+      "end_line": 638,
+      "heading": "Ornl-Dwg 70-2412",
+      "level": 2,
+      "start_line": 634
+    },
+    {
+      "anchor": "ornl-dwg-70-2413",
+      "end_line": 652,
+      "heading": "Ornl-Dwg 70-2413",
+      "level": 2,
+      "start_line": 639
+    },
+    {
+      "anchor": "ornl-dwg-70-2417",
+      "end_line": 663,
+      "heading": "Ornl-Dwg 70-2417",
+      "level": 2,
+      "start_line": 653
+    },
+    {
+      "anchor": "ornl-dwg-70-2420",
+      "end_line": 674,
+      "heading": "Ornl-Dwg 70-2420",
+      "level": 2,
+      "start_line": 664
+    },
+    {
+      "anchor": "ornl-dwg-70-2423",
+      "end_line": 678,
+      "heading": "Ornl-Dwg 70-2423",
+      "level": 2,
+      "start_line": 675
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-70-3-2",
+  "tables": [],
+  "title": "DATE: March 2, 1970",
+  "topics": [
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": []
+}

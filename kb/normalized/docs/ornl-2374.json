@@ -1,0 +1,498 @@
+{
+  "authors": [
+    "FISSIONPRODUCTSIN MOLTEN",
+    "FLUORIDE REACTOR FUELS",
+    "M. T. Robinson",
+    "W. A. Brooksbank",
+    "Jr.",
+    "H. W. Wright",
+    "T. H. Handley"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2374.jsonl",
+  "date_text": "1957",
+  "doc_id": "ornl-2374",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          344,
+          420,
+          428
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          330,
+          385,
+          414
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          416,
+          428
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          414
+        ],
+        "name": "molybdenum"
+      }
+    ],
+    "component": [
+      {
+        "count": 9,
+        "line_hits": [
+          330,
+          335,
+          387,
+          393,
+          394,
+          400,
+          402,
+          404,
+          412
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          344,
+          364,
+          410,
+          426
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          362
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          3,
+          57,
+          82,
+          104,
+          234,
+          344,
+          420,
+          428,
+          442,
+          449,
+          452,
+          455
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          261,
+          357,
+          428,
+          452
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          61,
+          63,
+          108,
+          110
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          266,
+          326
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          264,
+          291
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          283
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          11
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          311
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          321
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 14,
+        "line_hits": [
+          86,
+          330,
+          332,
+          334,
+          335,
+          336,
+          340,
+          342,
+          360,
+          381,
+          387,
+          412,
+          420,
+          438
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 7,
+        "line_hits": [
+          330,
+          332,
+          340,
+          344,
+          395,
+          420,
+          428
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          86,
+          92,
+          330,
+          332,
+          402,
+          426,
+          438
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          344
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          395
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          395
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d672a32e3d25dcda1544772ef3d15a970538eda49cd23e0b997b63ad8e7b2571",
+  "markdown_path": "pdf/ORNL-2374/ORNL-2374/hybrid_ocr/ORNL-2374.md",
+  "report_number": "ORNL-2374",
+  "report_numbers": [
+    "ORNL-2374",
+    "ORNL-2373",
+    "ORNL-1965",
+    "ORNL-1547",
+    "ANL-4922",
+    "ORNL-1783"
+  ],
+  "report_series": null,
+  "section_count": 32,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-2374",
+      "end_line": 10,
+      "heading": "Ornl-2374",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-libraries",
+      "end_line": 16,
+      "heading": "Martin Marietta Energy Systems Libraries",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "some-aspects-of-the-behavior-of",
+      "end_line": 18,
+      "heading": "Some Aspects Of The Behavior Of",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "fissionproductsin-molten",
+      "end_line": 20,
+      "heading": "Fissionproductsin Molten",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "fluoride-reactor-fuels",
+      "end_line": 30,
+      "heading": "Fluoride Reactor Fuels",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 32,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 34,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 36,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 56,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 58,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 60,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 66,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "post-office-box-x-oak-ridge-tennessee",
+      "end_line": 72,
+      "heading": "Post Office Box X · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 83,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 73
+    },
+    {
+      "anchor": "notice",
+      "end_line": 89,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "solid-state-and-analytical-chemistry-divisions",
+      "end_line": 99,
+      "heading": "Solid State And Analytical Chemistry Divisions",
+      "level": 2,
+      "start_line": 90
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 101,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 100
+    },
+    {
+      "anchor": "aug-28-1957",
+      "end_line": 103,
+      "heading": "Aug 28 1957",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 107,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 104
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 113,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 108
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 236,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "eternal-distribution",
+      "end_line": 327,
+      "heading": "ETERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 337,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 328
+    },
+    {
+      "anchor": "behavior-of-the-rare-cases",
+      "end_line": 345,
+      "heading": "Behavior of the Rare Cases",
+      "level": 1,
+      "start_line": 338
+    },
+    {
+      "anchor": "table-i",
+      "end_line": 365,
+      "heading": "Table I",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 384,
+      "heading": "Table II",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "behavior-of-ruthenium-and-niobium",
+      "end_line": 429,
+      "heading": "Behavior of Ruthenium and Niobium",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "table-iv",
+      "end_line": 435,
+      "heading": "Table IV",
+      "level": 1,
+      "start_line": 430
+    },
+    {
+      "anchor": "conclusion",
+      "end_line": 439,
+      "heading": "Conclusion",
+      "level": 1,
+      "start_line": 436
+    },
+    {
+      "anchor": "acknowledgements",
+      "end_line": 443,
+      "heading": "Acknowledgements",
+      "level": 1,
+      "start_line": 440
+    },
+    {
+      "anchor": "references",
+      "end_line": 458,
+      "heading": "References",
+      "level": 1,
+      "start_line": 444
+    }
+  ],
+  "source_dir": "pdf/ORNL-2374",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "irradiation-and-damage",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

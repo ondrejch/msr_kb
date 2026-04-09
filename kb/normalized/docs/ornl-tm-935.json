@@ -1,0 +1,488 @@
+{
+  "authors": [
+    "MASTER .",
+    "MSRE NEUTRON SOURCE REQUIREMENTS",
+    "J. R. Engel",
+    "P. N. Haubenreich",
+    "B. E. Prince",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-935.jsonl",
+  "date_text": "September 11, 1964",
+  "doc_id": "ornl-tm-935",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 6,
+        "line_hits": [
+          80,
+          98,
+          100,
+          118,
+          296,
+          298
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          322,
+          337
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          130
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 9,
+        "line_hits": [
+          223,
+          225,
+          232,
+          241,
+          245,
+          272,
+          274,
+          278,
+          322
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          272,
+          282,
+          284
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          337
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          1,
+          17,
+          187,
+          330,
+          360
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          362
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 31,
+        "line_hits": [
+          80,
+          94,
+          112,
+          118,
+          134,
+          136,
+          138,
+          140,
+          156,
+          158,
+          164,
+          171,
+          205,
+          207,
+          221,
+          225,
+          249,
+          251,
+          261,
+          265,
+          272,
+          274,
+          282,
+          288,
+          296,
+          298,
+          306,
+          328,
+          339,
+          347,
+          353
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 24,
+        "line_hits": [
+          9,
+          72,
+          78,
+          86,
+          94,
+          102,
+          106,
+          116,
+          118,
+          121,
+          124,
+          167,
+          190,
+          193,
+          217,
+          221,
+          223,
+          272,
+          294,
+          296,
+          300,
+          306,
+          312,
+          353
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          104
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          104
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          104
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          104
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d3a15503cdbe0724a19bc3677b3bb7f369aadc5e748c72501c92d710b11f9dc2",
+  "markdown_path": "pdf/ORNL-TM-0935/ORNL-TM-0935/hybrid_ocr/ORNL-TM-0935.md",
+  "report_number": "ORNL-TM-935",
+  "report_numbers": [
+    "ORNL-TM-935"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 38,
+  "sections": [
+    {
+      "anchor": "ornl-tm-935",
+      "end_line": 2,
+      "heading": "Ornl-Tm-935",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-86",
+      "end_line": 6,
+      "heading": "Copy No. - 86",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "master",
+      "end_line": 8,
+      "heading": "Master .",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "msre-neutron-source-requirements",
+      "end_line": 14,
+      "heading": "Msre Neutron Source Requirements",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "notice",
+      "end_line": 18,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 27,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "contents",
+      "end_line": 71,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 28
+    },
+    {
+      "anchor": "msre-neutron-source-requirements",
+      "end_line": 75,
+      "heading": "MSRE NEUTRON SOURCE REQUIREMENTS",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 83,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 95,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 84
+    },
+    {
+      "anchor": "internal-source",
+      "end_line": 127,
+      "heading": "INTERNAL SOURCE",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "provision-for-external-source",
+      "end_line": 131,
+      "heading": "PROVISION FOR EXTERNAL SOURCE",
+      "level": 1,
+      "start_line": 128
+    },
+    {
+      "anchor": "neutron-detectors",
+      "end_line": 141,
+      "heading": "NEUTRON DETECTORS",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "flux-in-subcritical-reactor",
+      "end_line": 147,
+      "heading": "FLUX IN SUBCRITICAL REACTOR",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "flux-due-to-internal-source",
+      "end_line": 159,
+      "heading": "Flux Due to Internal Source",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "flux-due-to-external-source",
+      "end_line": 176,
+      "heading": "Flux Due to External Source",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "effect-of-k-eff-on-flux",
+      "end_line": 186,
+      "heading": "Effect of k eff on Flux",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "unclassified-ornl-dwg-64-8218",
+      "end_line": 214,
+      "heading": "Unclassified Ornl Dwg,64-8218",
+      "level": 2,
+      "start_line": 187
+    },
+    {
+      "anchor": "safety-requirements",
+      "end_line": 235,
+      "heading": "SAFETY REQUIREMENTS",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "initial-startup-experiments",
+      "end_line": 262,
+      "heading": "INITIAL STARTUP EXPERIMENTS",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "normal-operational-requirements",
+      "end_line": 269,
+      "heading": "NORMAL OPERATIONAL REQUIREMENTS",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "partial-and-complete-shutdown-and-startup",
+      "end_line": 275,
+      "heading": "Partial and Complete Shutdown and Startup",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "second-stage-startup-requirement",
+      "end_line": 279,
+      "heading": "Second Stage Startup Requirement",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "first-stage-startup-requirements",
+      "end_line": 285,
+      "heading": "First Stage Startup Requirements",
+      "level": 1,
+      "start_line": 280
+    },
+    {
+      "anchor": "limiting-requirement-on-source-strength",
+      "end_line": 291,
+      "heading": "Limiting Requirement on Source Strength",
+      "level": 1,
+      "start_line": 286
+    },
+    {
+      "anchor": "other-considerations",
+      "end_line": 301,
+      "heading": "Other Considerations",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "recommendations",
+      "end_line": 307,
+      "heading": "RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 309,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "calculation-of-flux-from-an-external-source",
+      "end_line": 313,
+      "heading": "CALCULATION OF FLUX FROM AN EXTERNAL SOURCE",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "geometric-approximations",
+      "end_line": 323,
+      "heading": "Geometric Approximations",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "nuclear-approximations",
+      "end_line": 325,
+      "heading": "Nuclear Approximations",
+      "level": 1,
+      "start_line": 324
+    },
+    {
+      "anchor": "two-group-constants",
+      "end_line": 329,
+      "heading": "Two-Group Constants",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "unclassified-ornl-dwg-64-8223",
+      "end_line": 340,
+      "heading": "Unclassified Ornl Dwg,64-8223",
+      "level": 2,
+      "start_line": 330
+    },
+    {
+      "anchor": "source-configuration",
+      "end_line": 344,
+      "heading": "Source Configuration",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "composition-of-thermal-shield",
+      "end_line": 348,
+      "heading": "Composition of Thermal Shield",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "use-of-diffusion-theory",
+      "end_line": 356,
+      "heading": "Use of Diffusion Theory",
+      "level": 1,
+      "start_line": 349
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 357,
+      "heading": "Internal Distribution",
+      "level": 2,
+      "start_line": 357
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 362,
+      "heading": "External Distribution",
+      "level": 2,
+      "start_line": 358
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0935",
+  "tables": [],
+  "title": "ORNL-TM-935",
+  "topics": [
+    "reactor-physics-neutronics",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

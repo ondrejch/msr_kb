@@ -1,0 +1,1368 @@
+{
+  "authors": [
+    "COPY NO. -",
+    "R.J.Kedl",
+    "C. K. McGlothlan",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2098.jsonl",
+  "date_text": "January 3, 1968",
+  "doc_id": "ornl-tm-2098",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 10,
+        "line_hits": [
+          46,
+          91,
+          120,
+          159,
+          161,
+          180,
+          182,
+          210,
+          225,
+          258
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          130
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 76,
+        "line_hits": [
+          7,
+          15,
+          32,
+          33,
+          38,
+          44,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          62,
+          64,
+          66,
+          68,
+          70,
+          76,
+          82,
+          84,
+          89,
+          118,
+          120,
+          128,
+          132,
+          136,
+          150,
+          154,
+          156,
+          158,
+          159,
+          160,
+          161,
+          163,
+          165,
+          167,
+          172,
+          178,
+          187,
+          190,
+          192,
+          194,
+          197,
+          198,
+          210,
+          212,
+          214,
+          216,
+          223,
+          225
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          64,
+          248
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          70,
+          248
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 29,
+        "line_hits": [
+          1,
+          78,
+          120,
+          122,
+          124,
+          128,
+          143,
+          169,
+          184,
+          205,
+          207,
+          209,
+          210,
+          211,
+          236,
+          276,
+          277,
+          278,
+          289,
+          290,
+          291,
+          292,
+          365,
+          410,
+          560,
+          621,
+          668,
+          833,
+          941
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          120,
+          367,
+          368,
+          412,
+          413,
+          470,
+          562,
+          563,
+          623,
+          670,
+          671,
+          837
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          62,
+          291,
+          292
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 33,
+        "line_hits": [
+          7,
+          15,
+          51,
+          52,
+          53,
+          54,
+          56,
+          58,
+          62,
+          64,
+          68,
+          73,
+          76,
+          84,
+          136,
+          150,
+          154,
+          172,
+          190,
+          243,
+          252,
+          254,
+          260,
+          264,
+          270,
+          276,
+          277,
+          278,
+          289,
+          290,
+          291,
+          357,
+          434
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          82,
+          102,
+          124,
+          128,
+          152,
+          165,
+          194,
+          199,
+          209,
+          216,
+          229,
+          231,
+          254,
+          256,
+          260,
+          345
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          100
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          100
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          100
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          100
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          100
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "84d6e102faaddd0e56db347a36797abd003b095662d46ae74d45a59ec304d04f",
+  "markdown_path": "pdf/ORNL-TM-2098/ORNL-TM-2098/hybrid_ocr/ORNL-TM-2098.md",
+  "report_number": "ORNL-TM-2098",
+  "report_numbers": [
+    "ORNL-TM-2098"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 152,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2098",
+      "end_line": 2,
+      "heading": "Ornl-Tm-2098",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 6,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "tube-vibration-in-msre-primary-heat-exchanger",
+      "end_line": 12,
+      "heading": "TUBE VIBRATION IN MSRE PRIMARY HEAT EXCHANGER",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 16,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 25,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "contents",
+      "end_line": 39,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 26
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 41,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "page",
+      "end_line": 48,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 42
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 59,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 65,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "design-considerations-of-primary-heat-exchanger",
+      "end_line": 77,
+      "heading": "DESIGN CONSIDERATIONS OF PRIMARY HEAT EXCHANGER",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "ornl-lr-dwg-52036",
+      "end_line": 117,
+      "heading": "Ornl-Lr-Dwg 52036",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "description-of-heat-exchanger",
+      "end_line": 133,
+      "heading": "DESCRIPTION OF HEAT EXCHANGER",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "pre-operational-testing-and-modifications",
+      "end_line": 142,
+      "heading": "PRE-OPERATIONAL TESTING AND MODIFICATIONS",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "ornl-lr-dwg65682r3",
+      "end_line": 162,
+      "heading": "Ornl-Lr-Dwg65682R3",
+      "level": 2,
+      "start_line": 143
+    },
+    {
+      "anchor": "initial-test-of-heat-exchanger-as-built",
+      "end_line": 168,
+      "heading": "Initial Test of Heat Exchanger, As-Built",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "ornl-dwg-68-667",
+      "end_line": 183,
+      "heading": "Ornl Dwg 68-667",
+      "level": 2,
+      "start_line": 169
+    },
+    {
+      "anchor": "ornl-dwg-68-668",
+      "end_line": 222,
+      "heading": "Ornl Dwg 68-668",
+      "level": 2,
+      "start_line": 184
+    },
+    {
+      "anchor": "final-test-of-modified-heat-exchanger",
+      "end_line": 226,
+      "heading": "Final Test of Modified Heat Exchanger",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "operational-history",
+      "end_line": 235,
+      "heading": "OPERATIONAL HISTORY",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "ornl-dwg-68-669",
+      "end_line": 261,
+      "heading": "Ornl Dwg 68-669",
+      "level": 2,
+      "start_line": 236
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 271,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 262
+    },
+    {
+      "anchor": "references",
+      "end_line": 293,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 295,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "fabrication-drawings-primary-heat-exchanger",
+      "end_line": 297,
+      "heading": "Fabrication Drawings - Primary Heat Exchanger",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "d-ee-a-40864",
+      "end_line": 301,
+      "heading": "D-Ee-A-40864",
+      "level": 2,
+      "start_line": 298
+    },
+    {
+      "anchor": "d-ee-a-40865",
+      "end_line": 305,
+      "heading": "D-Ee-A-40865",
+      "level": 2,
+      "start_line": 302
+    },
+    {
+      "anchor": "d-ee-a-40866",
+      "end_line": 309,
+      "heading": "D-Ee-A-40866",
+      "level": 2,
+      "start_line": 306
+    },
+    {
+      "anchor": "d-ee-a-40867",
+      "end_line": 313,
+      "heading": "D-Ee-A-40867",
+      "level": 2,
+      "start_line": 310
+    },
+    {
+      "anchor": "d-ee-a-40869",
+      "end_line": 317,
+      "heading": "D-Ee-A-40869",
+      "level": 2,
+      "start_line": 314
+    },
+    {
+      "anchor": "d-ee-a-40872",
+      "end_line": 321,
+      "heading": "D-Ee-A-40872",
+      "level": 2,
+      "start_line": 318
+    },
+    {
+      "anchor": "d-ee-a-40873",
+      "end_line": 325,
+      "heading": "D-Ee-A-40873",
+      "level": 2,
+      "start_line": 322
+    },
+    {
+      "anchor": "d-ee-a-40874",
+      "end_line": 329,
+      "heading": "D-Ee-A-40874",
+      "level": 2,
+      "start_line": 326
+    },
+    {
+      "anchor": "m-10329-re-003e2",
+      "end_line": 333,
+      "heading": "M-10329-Re-003E2",
+      "level": 2,
+      "start_line": 330
+    },
+    {
+      "anchor": "m-10329-re-002e1",
+      "end_line": 337,
+      "heading": "M-10329-Re-002E1",
+      "level": 2,
+      "start_line": 334
+    },
+    {
+      "anchor": "m-20794-re-o30e1",
+      "end_line": 342,
+      "heading": "M-20794-Re-O30E1",
+      "level": 2,
+      "start_line": 338
+    },
+    {
+      "anchor": "notes",
+      "end_line": 345,
+      "heading": "Notes :",
+      "level": 2,
+      "start_line": 343
+    },
+    {
+      "anchor": "3-completely-abmove-all-burs-after-dilling",
+      "end_line": 348,
+      "heading": "3, Completely Abmove All Burs After Dilling.",
+      "level": 2,
+      "start_line": 346
+    },
+    {
+      "anchor": "6-material-spec-conl",
+      "end_line": 349,
+      "heading": "6. Material Spec. (Conl)",
+      "level": 2,
+      "start_line": 349
+    },
+    {
+      "anchor": "met-rm-834-inor-plate",
+      "end_line": 359,
+      "heading": "Met - Rm = 834 Inor - #Plate.",
+      "level": 2,
+      "start_line": 350
+    },
+    {
+      "anchor": "not-classified",
+      "end_line": 361,
+      "heading": "Not Classified",
+      "level": 2,
+      "start_line": 360
+    },
+    {
+      "anchor": "baffle-plates",
+      "end_line": 366,
+      "heading": "Baffle Plates",
+      "level": 2,
+      "start_line": 362
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 367,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 367
+    },
+    {
+      "anchor": "before-of-union-carbide-couperton",
+      "end_line": 371,
+      "heading": "Before Of Union Carbide Couperton",
+      "level": 2,
+      "start_line": 368
+    },
+    {
+      "anchor": "m20794re-005d-2",
+      "end_line": 378,
+      "heading": "M20794Re 005D 2",
+      "level": 2,
+      "start_line": 372
+    },
+    {
+      "anchor": "morional-centre-line-location-of-bapble-odws",
+      "end_line": 379,
+      "heading": "Morional Centre Line, Location Of Bapble Odws",
+      "level": 2,
+      "start_line": 379
+    },
+    {
+      "anchor": "schematic-front-elevation-no-scale",
+      "end_line": 382,
+      "heading": "Schematic Front Elevation No Scale",
+      "level": 2,
+      "start_line": 380
+    },
+    {
+      "anchor": "weld-setup-for-baffle-guide",
+      "end_line": 386,
+      "heading": "Weld Setup For Baffle Guide",
+      "level": 2,
+      "start_line": 383
+    },
+    {
+      "anchor": "macining-of-baffle-guide",
+      "end_line": 393,
+      "heading": "Macining Of Baffle Guide",
+      "level": 2,
+      "start_line": 387
+    },
+    {
+      "anchor": "2-parts-to-be-fabricated-as-per-use-general-fabrication-specification-m32-g2-28m",
+      "end_line": 397,
+      "heading": "2. PARTS TO BE FABRICATED AS PER USE GENERAL FABRICATION SPECIFICATION M32 G2-28M",
+      "level": 2,
+      "start_line": 394
+    },
+    {
+      "anchor": "6-around-all-sharp-covers-to-a-aduos-unless-otherwise-specified",
+      "end_line": 398,
+      "heading": "6. Around All Sharp Covers To \"A\"Aduos Unless Otherwise Specified.",
+      "level": 2,
+      "start_line": 398
+    },
+    {
+      "anchor": "7-finish-surface-125-nickenched-average-newinghong-neight-unless-otherwise-offpied",
+      "end_line": 399,
+      "heading": "7 FINISH SURFACE 125 NICKENCHED AVERAGE NEWINGHONG NEIGHT UNLESS OTHERWISE OFFPIED",
+      "level": 2,
+      "start_line": 399
+    },
+    {
+      "anchor": "b-before-assembly-of-sapple-players-thread-tuges-code-1-8-cood-1-8-through",
+      "end_line": 405,
+      "heading": "B Before Assembly Of Sapple Players Thread Tuges Code 1-8-Cood 1-8 Through.",
+      "level": 2,
+      "start_line": 400
+    },
+    {
+      "anchor": "1-1-ed",
+      "end_line": 410,
+      "heading": "1/1/Ed",
+      "level": 2,
+      "start_line": 406
+    },
+    {
+      "anchor": "observed-by",
+      "end_line": 411,
+      "heading": "Observed By",
+      "level": 2,
+      "start_line": 411
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 412,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 412
+    },
+    {
+      "anchor": "denision-of-union-carbide-coupontation",
+      "end_line": 428,
+      "heading": "Denision Of Union Carbide Coupontation",
+      "level": 2,
+      "start_line": 413
+    },
+    {
+      "anchor": "detail",
+      "end_line": 429,
+      "heading": "Detail",
+      "level": 2,
+      "start_line": 429
+    },
+    {
+      "anchor": "detail",
+      "end_line": 431,
+      "heading": "Detail",
+      "level": 2,
+      "start_line": 430
+    },
+    {
+      "anchor": "notes",
+      "end_line": 436,
+      "heading": "Notes:",
+      "level": 2,
+      "start_line": 432
+    },
+    {
+      "anchor": "4-for-details-and-parts-list-of-rons-no-1-2-3-see-dng-no-d-ee-a-40875",
+      "end_line": 448,
+      "heading": "4. FOR DETAILS AND PARTS LIST OF RONS NO 1,2,3 SEE DNG NO D-EE-A-40875",
+      "level": 2,
+      "start_line": 437
+    },
+    {
+      "anchor": "detail-x",
+      "end_line": 450,
+      "heading": "Detail X",
+      "level": 2,
+      "start_line": 449
+    },
+    {
+      "anchor": "typical-tube-to-tube-sheet-joint",
+      "end_line": 463,
+      "heading": "Typical Tube-To-Tube-Sheet Joint.",
+      "level": 2,
+      "start_line": 451
+    },
+    {
+      "anchor": "a8-built",
+      "end_line": 464,
+      "heading": "A8 Built",
+      "level": 2,
+      "start_line": 464
+    },
+    {
+      "anchor": "changes",
+      "end_line": 469,
+      "heading": "Changes",
+      "level": 2,
+      "start_line": 465
+    },
+    {
+      "anchor": "branch-of-union-carbide-laboratory",
+      "end_line": 470,
+      "heading": "Branch Of Union Carbide Laboratory",
+      "level": 2,
+      "start_line": 470
+    },
+    {
+      "anchor": "information-of-interior-carbide-corporation",
+      "end_line": 474,
+      "heading": "Information Of Interior Carbide Corporation",
+      "level": 2,
+      "start_line": 471
+    },
+    {
+      "anchor": "m20794re-00bd-4",
+      "end_line": 479,
+      "heading": "M20794Re 00Bd.4",
+      "level": 2,
+      "start_line": 475
+    },
+    {
+      "anchor": "detail-a",
+      "end_line": 480,
+      "heading": "Detail \"A\"",
+      "level": 2,
+      "start_line": 480
+    },
+    {
+      "anchor": "snell-cover-machining",
+      "end_line": 481,
+      "heading": "Snell Cover Machining",
+      "level": 2,
+      "start_line": 481
+    },
+    {
+      "anchor": "scale-non",
+      "end_line": 484,
+      "heading": "Scale: Non",
+      "level": 2,
+      "start_line": 482
+    },
+    {
+      "anchor": "detail",
+      "end_line": 485,
+      "heading": "Detail",
+      "level": 2,
+      "start_line": 485
+    },
+    {
+      "anchor": "channel-cover-macining",
+      "end_line": 486,
+      "heading": "Channel Cover Macining",
+      "level": 2,
+      "start_line": 486
+    },
+    {
+      "anchor": "scale-nong",
+      "end_line": 489,
+      "heading": "Scale : Nong",
+      "level": 2,
+      "start_line": 487
+    },
+    {
+      "anchor": "detail-d",
+      "end_line": 517,
+      "heading": "Detail \"D\"",
+      "level": 2,
+      "start_line": 490
+    },
+    {
+      "anchor": "heat-exchanger-shell",
+      "end_line": 521,
+      "heading": "Heat Exchanger Shell.",
+      "level": 2,
+      "start_line": 518
+    },
+    {
+      "anchor": "detail-c",
+      "end_line": 522,
+      "heading": "Detail C",
+      "level": 2,
+      "start_line": 522
+    },
+    {
+      "anchor": "scale-12-1",
+      "end_line": 524,
+      "heading": "(Scale 12=1)",
+      "level": 2,
+      "start_line": 523
+    },
+    {
+      "anchor": "detail",
+      "end_line": 525,
+      "heading": "Detail",
+      "level": 2,
+      "start_line": 525
+    },
+    {
+      "anchor": "shell-seam-joint-preparation",
+      "end_line": 526,
+      "heading": "Shell Seam Joint Preparation.",
+      "level": 2,
+      "start_line": 526
+    },
+    {
+      "anchor": "sclb",
+      "end_line": 528,
+      "heading": "（Sclb！/²=）",
+      "level": 2,
+      "start_line": 527
+    },
+    {
+      "anchor": "note6",
+      "end_line": 529,
+      "heading": "Note6:",
+      "level": 2,
+      "start_line": 529
+    },
+    {
+      "anchor": "parto-to-be-fabricated-as-for-ms-r-e-general",
+      "end_line": 530,
+      "heading": "Parto To Be Fabricated As For Ms.R.E.General",
+      "level": 2,
+      "start_line": 530
+    },
+    {
+      "anchor": "2-uchc-pabricatg-welloaer-p8-88-p6-88-p8-86-a4-applicable-inapicf-p88-w-80",
+      "end_line": 531,
+      "heading": "2,Uchc Pabricatg Welloaer P8-88,P6-88, P8-86 A4 Applicable Inapicf P88 W=80",
+      "level": 2,
+      "start_line": 531
+    },
+    {
+      "anchor": "3-material-specifications",
+      "end_line": 532,
+      "heading": "3. Material Specifications:",
+      "level": 2,
+      "start_line": 532
+    },
+    {
+      "anchor": "net-am-b34-mob-b-plate",
+      "end_line": 533,
+      "heading": "Net - Am - B34 (Mob - B Plate)",
+      "level": 2,
+      "start_line": 533
+    },
+    {
+      "anchor": "net-am-g-mob-g-foamed-nead",
+      "end_line": 534,
+      "heading": "Net - Am - G (Mob - G Foamed Nead)",
+      "level": 2,
+      "start_line": 534
+    },
+    {
+      "anchor": "net-am-b34-mob-b-welding-filler-metal",
+      "end_line": 536,
+      "heading": "Net - Am - B34 (Mob - B Welding Filler Metal)",
+      "level": 2,
+      "start_line": 535
+    },
+    {
+      "anchor": "5-finan-all-suraces-to-iib-inchoinches-average-anganngnnei-unless-other-ward-spineid",
+      "end_line": 537,
+      "heading": "5 FINAN ALL SURACES TO IIB INCHOINCHES AVERAGE ANGANNGNNEI UNLESS OTHER WARD SPINEID",
+      "level": 2,
+      "start_line": 537
+    },
+    {
+      "anchor": "g-weld-numerab-assigned-w-e-weld-numbers-cao-w-e",
+      "end_line": 542,
+      "heading": "G Weld Numerab Assigned: W#E Weld Numbers Cao W#E",
+      "level": 2,
+      "start_line": 538
+    },
+    {
+      "anchor": "this-drawing-reflects",
+      "end_line": 547,
+      "heading": "This Drawing Reflects",
+      "level": 2,
+      "start_line": 543
+    },
+    {
+      "anchor": "m20794re-010d1",
+      "end_line": 551,
+      "heading": "M20794Re 010D1",
+      "level": 2,
+      "start_line": 548
+    },
+    {
+      "anchor": "chankes",
+      "end_line": 556,
+      "heading": "Chankes",
+      "level": 2,
+      "start_line": 552
+    },
+    {
+      "anchor": "not-classified",
+      "end_line": 560,
+      "heading": "Not Classified",
+      "level": 2,
+      "start_line": 557
+    },
+    {
+      "anchor": "innovated-of",
+      "end_line": 561,
+      "heading": "Innovated Of",
+      "level": 2,
+      "start_line": 561
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 562,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 562
+    },
+    {
+      "anchor": "disease-of-union-carbide-comporator",
+      "end_line": 566,
+      "heading": "Disease Of Union Carbide Comporator",
+      "level": 2,
+      "start_line": 563
+    },
+    {
+      "anchor": "note",
+      "end_line": 567,
+      "heading": "Note:",
+      "level": 2,
+      "start_line": 567
+    },
+    {
+      "anchor": "macining-dimension-and-groove",
+      "end_line": 570,
+      "heading": "Macining Dimension And Groove",
+      "level": 2,
+      "start_line": 568
+    },
+    {
+      "anchor": "shown-on-section-c-c-dws-no",
+      "end_line": 571,
+      "heading": "Shown On Section \"C-C\", Dws, No",
+      "level": 2,
+      "start_line": 571
+    },
+    {
+      "anchor": "d-ee-a-f0b68-after-welding-a-3y",
+      "end_line": 583,
+      "heading": "D-Ee-A-F0B68 After Welding A\\$3Y.",
+      "level": 2,
+      "start_line": 572
+    },
+    {
+      "anchor": "detail",
+      "end_line": 590,
+      "heading": "Detail",
+      "level": 2,
+      "start_line": 584
+    },
+    {
+      "anchor": "notes",
+      "end_line": 591,
+      "heading": "Notes:",
+      "level": 2,
+      "start_line": 591
+    },
+    {
+      "anchor": "3-1-fabricate-assy-as-pm-msrs-general-fabrication-spec-msr-g2-b-zev-a",
+      "end_line": 593,
+      "heading": "3.1. Fabricate Assy As Pm Msrs General Fabrication Spec.Msr.G2-B.Zev A",
+      "level": 2,
+      "start_line": 592
+    },
+    {
+      "anchor": "3-1-abdnad-all-sharp-connes-to-4-radius-unless-ofgrrwse-specified",
+      "end_line": 595,
+      "heading": "3.1 Abdnad All Sharp Connes To 4 Radius Unless Ofgrrwse Specified.",
+      "level": 2,
+      "start_line": 594
+    },
+    {
+      "anchor": "5ucncfabacicotors-wild-per-f3-23-fa-8e-fa-8g-as-applicable-insect-per-w4-w60",
+      "end_line": 596,
+      "heading": "5Ucncfabacicotors Wild Per F3-23,Fa-8E,Fa-8G As Applicable. Insect Per W4-W60",
+      "level": 2,
+      "start_line": 596
+    },
+    {
+      "anchor": "g3-weld-numbers-assigned-w-03-w-08",
+      "end_line": 597,
+      "heading": "G3 Weld Numbers Assigned: W/03 - W/08",
+      "level": 2,
+      "start_line": 597
+    },
+    {
+      "anchor": "weld-numbers-used-w-03-w-06",
+      "end_line": 601,
+      "heading": "Weld Numbers Used: W/03 - W/06",
+      "level": 2,
+      "start_line": 598
+    },
+    {
+      "anchor": "a-built",
+      "end_line": 602,
+      "heading": "A$ Built",
+      "level": 2,
+      "start_line": 602
+    },
+    {
+      "anchor": "changes",
+      "end_line": 612,
+      "heading": "Changes",
+      "level": 2,
+      "start_line": 603
+    },
+    {
+      "anchor": "not-classified",
+      "end_line": 614,
+      "heading": "Not Classified",
+      "level": 2,
+      "start_line": 613
+    },
+    {
+      "anchor": "other-specified",
+      "end_line": 617,
+      "heading": "Other Specified",
+      "level": 2,
+      "start_line": 615
+    },
+    {
+      "anchor": "m20794re-013d-2",
+      "end_line": 621,
+      "heading": "M20794Re 013D 2",
+      "level": 2,
+      "start_line": 618
+    },
+    {
+      "anchor": "offices-of",
+      "end_line": 622,
+      "heading": "Offices Of",
+      "level": 2,
+      "start_line": 622
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 623,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 623
+    },
+    {
+      "anchor": "director-of-unitor-cremede-corporation",
+      "end_line": 628,
+      "heading": "Director Of Unitor Cremede Corporation",
+      "level": 2,
+      "start_line": 624
+    },
+    {
+      "anchor": "section-a-a-of-owg-no-0-ee-a-40874",
+      "end_line": 633,
+      "heading": "Section 'A'-'A' Of Owg No 0-Ee-A-40874",
+      "level": 2,
+      "start_line": 629
+    },
+    {
+      "anchor": "section-b-b-of-dwg-no-d-ee-a-40874",
+      "end_line": 638,
+      "heading": "Section 'B'-B' Of Dwg No D-Ee-A 40874",
+      "level": 2,
+      "start_line": 634
+    },
+    {
+      "anchor": "a-built",
+      "end_line": 639,
+      "heading": "A$ Built",
+      "level": 2,
+      "start_line": 639
+    },
+    {
+      "anchor": "changes",
+      "end_line": 644,
+      "heading": "Changes",
+      "level": 2,
+      "start_line": 640
+    },
+    {
+      "anchor": "notes",
+      "end_line": 646,
+      "heading": "Notes",
+      "level": 2,
+      "start_line": 645
+    },
+    {
+      "anchor": "1-fabricate-meat-exch-46-per-usre-general",
+      "end_line": 647,
+      "heading": "1. Fabricate Meat Exch. 46 Per Usre General",
+      "level": 2,
+      "start_line": 647
+    },
+    {
+      "anchor": "fabrication-spec-m32-gz-2-rev-a",
+      "end_line": 648,
+      "heading": "Fabrication Spec. M32. Gz-2 Rev. A",
+      "level": 2,
+      "start_line": 648
+    },
+    {
+      "anchor": "2-naturel-specification",
+      "end_line": 656,
+      "heading": "2. Naturel Specification:",
+      "level": 2,
+      "start_line": 649
+    },
+    {
+      "anchor": "3-for-anout-see-ongan-d-28-a-10074",
+      "end_line": 661,
+      "heading": "3. FOR ANOUT SEE ONGAN, D-28-A-10074",
+      "level": 2,
+      "start_line": 657
+    },
+    {
+      "anchor": "m20194re-q14d-2",
+      "end_line": 664,
+      "heading": "M20194Re Q14D 2",
+      "level": 2,
+      "start_line": 662
+    },
+    {
+      "anchor": "not-classified",
+      "end_line": 668,
+      "heading": "Not Classified",
+      "level": 2,
+      "start_line": 665
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 669,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 669
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 670,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 670
+    },
+    {
+      "anchor": "branding-of-union-carbide-corporation",
+      "end_line": 675,
+      "heading": "Branding Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 671
+    },
+    {
+      "anchor": "m20794re-015d-5",
+      "end_line": 699,
+      "heading": "M20794Re 015D 5",
+      "level": 2,
+      "start_line": 676
+    },
+    {
+      "anchor": "section-a-a",
+      "end_line": 702,
+      "heading": "Section A·A",
+      "level": 2,
+      "start_line": 700
+    },
+    {
+      "anchor": "detail-item-2-inner-band",
+      "end_line": 703,
+      "heading": "Detail Item 2 Inner Band",
+      "level": 2,
+      "start_line": 703
+    },
+    {
+      "anchor": "full-size",
+      "end_line": 709,
+      "heading": "Full Size",
+      "level": 2,
+      "start_line": 704
+    },
+    {
+      "anchor": "note-1-items-3-inav-2-14",
+      "end_line": 713,
+      "heading": "Note 1:Items 3 Inav 2-14",
+      "level": 2,
+      "start_line": 710
+    },
+    {
+      "anchor": "assemi-80054185",
+      "end_line": 715,
+      "heading": "Assemi× 80054185",
+      "level": 2,
+      "start_line": 714
+    },
+    {
+      "anchor": "ab-ac",
+      "end_line": 717,
+      "heading": "${Ab} = {Ac}$",
+      "level": 2,
+      "start_line": 716
+    },
+    {
+      "anchor": "noie-einsey-iv-2-innne-proper-location",
+      "end_line": 719,
+      "heading": "Noie Einsey Iv.2 Innne Proper Location.",
+      "level": 2,
+      "start_line": 718
+    },
+    {
+      "anchor": "4-1-15-10-and-mark-location-of-e-or-fubes",
+      "end_line": 723,
+      "heading": "4.1.15.10 AND MARK LOCATION OF E OR FUBES",
+      "level": 2,
+      "start_line": 720
+    },
+    {
+      "anchor": "4-wed-1173-inpea-e-rechn-fdr-2026-dods-45",
+      "end_line": 735,
+      "heading": "4. WED 1173 INPEA E RECHN FDR 2026, DODS-45",
+      "level": 2,
+      "start_line": 724
+    },
+    {
+      "anchor": "mil-bn-104-inoro-plaki",
+      "end_line": 737,
+      "heading": "Mil:Bn-104 (Inoro-Plaki)",
+      "level": 2,
+      "start_line": 736
+    },
+    {
+      "anchor": "met-rm-b36g-moa-200",
+      "end_line": 743,
+      "heading": "Met·Rm·B36G（Moa·200）",
+      "level": 2,
+      "start_line": 738
+    },
+    {
+      "anchor": "developved-view-item-14-ccip",
+      "end_line": 744,
+      "heading": "Developved View Item 14 Ccip",
+      "level": 2,
+      "start_line": 744
+    },
+    {
+      "anchor": "see-note-2",
+      "end_line": 750,
+      "heading": "See Note 2",
+      "level": 2,
+      "start_line": 745
+    },
+    {
+      "anchor": "cannex-nucler-company-10000",
+      "end_line": 760,
+      "heading": "Cannex Nucler Company 10000",
+      "level": 2,
+      "start_line": 751
+    },
+    {
+      "anchor": "ag-reflects",
+      "end_line": 806,
+      "heading": "Ag Reflects",
+      "level": 2,
+      "start_line": 761
+    },
+    {
+      "anchor": "nalp",
+      "end_line": 832,
+      "heading": "Nalp",
+      "level": 2,
+      "start_line": 807
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 836,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 833
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 838,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 837
+    },
+    {
+      "anchor": "ok-ok-ok",
+      "end_line": 858,
+      "heading": "Ok Ok, Ok",
+      "level": 2,
+      "start_line": 839
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 950,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 859
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 954,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 951
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2098",
+  "tables": [],
+  "title": "ORNL-TM-2098",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "program-history",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

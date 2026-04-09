@@ -1,0 +1,286 @@
+{
+  "authors": [
+    "LEGAL NOTICE",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1623.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-tm-1623",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          52,
+          72,
+          78,
+          90,
+          91
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          40,
+          52,
+          215
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          42,
+          50
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 3,
+        "line_hits": [
+          181,
+          255,
+          256
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 11,
+        "line_hits": [
+          31,
+          40,
+          52,
+          166,
+          168,
+          174,
+          179,
+          187,
+          197,
+          213,
+          215
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          102,
+          139
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "63c2733fd8ef9cc59bb0dd1ac492ac906c69921e5971ca27345169a5b7c19a6d",
+  "markdown_path": "pdf/ORNL-TM-1623/ORNL-TM-1623/hybrid_ocr/ORNL-TM-1623.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 26,
+  "sections": [
+    {
+      "anchor": "legal-notice",
+      "end_line": 11,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "contents",
+      "end_line": 15,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 12
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 17,
+      "heading": "Abstract. 1",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "1-introduction-4",
+      "end_line": 18,
+      "heading": "1. Introduction. 4",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "2-procedure-4",
+      "end_line": 19,
+      "heading": "2. PROCEDURE 4",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "3-oil-mist-filters-7",
+      "end_line": 25,
+      "heading": "3. Oil Mist Filters. 7",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "4-charcoal-trap-efficiency-12",
+      "end_line": 30,
+      "heading": "4. Charcoal Trap Efficiency. 12",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "5-testing-of-msre-particle-filter-19",
+      "end_line": 35,
+      "heading": "5. TESTING OF MSRE PARTICLE FILTER 19",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "6-acknowledgements-25",
+      "end_line": 37,
+      "heading": "6. Acknowledgements. 25",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 45,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "2-procedure",
+      "end_line": 67,
+      "heading": "2. PROCEDURE",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "3-oil-mist-filters",
+      "end_line": 69,
+      "heading": "3. OIL MIST FILTERS",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "3-1-general-description",
+      "end_line": 75,
+      "heading": "3.1. General Description",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "3-2-experimental-data",
+      "end_line": 95,
+      "heading": "3.2. Experimental Data",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "3-3-experimental-data-after-altering-oil-injection",
+      "end_line": 122,
+      "heading": "3.3. Experimental Data After Altering Oil Injection",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "4-charcoal-trap-efficiency",
+      "end_line": 134,
+      "heading": "4. CHARCOAL TRAP EFFICIENCY",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "4-1-charcoal-saturation-with-hydrocarbons",
+      "end_line": 140,
+      "heading": "4.1. Charcoal Saturation with Hydrocarbons",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "4-2-temperature-dependence-of-hydrocarbon-adsorption-on-charcoal",
+      "end_line": 165,
+      "heading": "4.2. Temperature Dependence of Hydrocarbon Adsorption on Charcoal",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "5-testing-of-msre-particle-filter",
+      "end_line": 171,
+      "heading": "5. TESTING OF MSRE PARTICLE FILTER",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "5-1-pressure-drop-data",
+      "end_line": 180,
+      "heading": "5.1. Pressure Drop Data",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "ornl-dwg-66-9451",
+      "end_line": 190,
+      "heading": "Ornl Dwg.66-9451",
+      "level": 2,
+      "start_line": 181
+    },
+    {
+      "anchor": "5-2-pressure-drop-data-of-felt-metal-at-elevated-temperatures",
+      "end_line": 209,
+      "heading": "5.2. Pressure Drop Data of Felt Metal at Elevated Temperatures",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "6-acknowledgements",
+      "end_line": 216,
+      "heading": "6. ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 257,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 261,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "43-57-dtie-or",
+      "end_line": 262,
+      "heading": "43-57. Dtie, Or",
+      "level": 2,
+      "start_line": 262
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1623",
+  "tables": [],
+  "title": "![](images/48170c48fa48eb5814997ba3205004d4751492acdb7ce0e8bc3b74ef7985684d.jpg)",
+  "topics": [
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,239 @@
+# Hastelloy N
+
+## Overview
+
+- Type: alloy-material
+- Documents: 179
+- First seen: 1906
+- Last seen: unknown
+
+## Topic Profile
+
+- materials-and-corrosion (175)
+- reactor-operations (164)
+- pumps-loops-and-heat-exchangers (142)
+- off-gas-fission-products-and-tritium (111)
+- salt-chemistry-and-redox (110)
+- graphite-and-moderator-behavior (100)
+- salt-systems-and-thermophysics (90)
+- reactor-physics-neutronics (89)
+
+## Related Entities
+
+- ORNL [organization] (179)
+- ARE [reactor] (179)
+- AEC [organization] (167)
+- nickel [alloy-material] (152)
+- Union Carbide [organization] (152)
+- MSRE [reactor] (146)
+- fluoride salt [salt-system] (137)
+- LiF [salt-system] (136)
+- graphite [alloy-material] (133)
+- loop [component] (131)
+- pump [component] (124)
+- MSBR [reactor] (122)
+
+## Representative Claims
+
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - A Comparison of the Creep-Rupture Properties of Hastelloy N Tube and Rods at $760^{\circ}\mathrm{C}$ .
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - At $760^{\circ}\mathrm{C}$ Hastelloy N exhibits little, if any, primary creep.
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - B and $\beta =$ material constants that were obtained from the uniaxial stress-rupture curve (B = 37,500 psi and $\beta = 5$ for Hastelloy N),
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - Comparison of the Creep Rates of Hastelloy N Tubes and Rods at $760^{\circ}\mathrm{C}$ .
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - Comparison of the Fracture Strains for Irradiated Hastelloy N Tubes and Rods at $760^{\circ}\mathrm{C}$ .
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - For Hastelloy N at $760^{\circ}C$ the values of $\alpha$ and $A$ were 5 and 30,000 psi, respectively.
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - In this study we compared the in- and ex-reactor properties of two vacuum-melted heats of Hastelloy N tubing at $760^{\circ}\mathrm{C}$ .
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - Stress-Rupture Properties of Hastelloy N Tubes at $760^{\circ}\mathrm{C}$ .
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - Tangential Strains for Hastelloy N Tubes Tested at $760^{\circ}\mathrm{C}$ .
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906
+  - The stress-rupture properties of two heats of Hastelloy N tubing have been determined at $760^{\circ}\mathrm{C}$ in-and ex-reactor.
+
+## Chronology
+
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906 - ORNL-TM-1906 - mentions: 21
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951 - ORNL-2833 - mentions: 1
+- [[../documents/ornl-tm-3866.md|![](images/21d47926519d1679e8984c4291d925f12b0fad58a3797a05df44e831a5cd03ca.jpg)]] - April 20, 1953 - ORNL-4254 - mentions: 75
+- [[../documents/ornl-4865.md|![](images/721f0108e98d763d8cd0e48fd43ed482bb883f99405b5a08e694334c66f2d9dd.jpg)]] - January 31, 1958 - ORNL-2474 - mentions: 38
+- [[../documents/ornl-tm-4272.md|![](images/39a504e821f9634b797d93754f178abf89a6fbddacb1fa0530dd4a8f4342ce4f.jpg)]] - June 30, 1958 - ORNL-4254 - mentions: 40
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959 - ORNL-TM-1993 - mentions: 2
+- [[../documents/tid-8507.md|CENTRAL RESEARCH LIBRAR]] - January 2, 1959 - mentions: 1
+- [[../documents/ornl-cf-60-6-97.md|OAK RIDGE NATIONAL LABORATORY]] - July 25, 1960 - mentions: 1
+- [[../documents/ornl-tm-2999.md|ORNL-TM-2999]] - May 1961 - ORNL-TM-2999 - mentions: 6
+- [[../documents/ornl-tm-4189.md|![](images/314617cd8f787d0bfb2a34d439e9c59054606333df12eabbc7f74316fe3a44f3.jpg)]] - April 11, 1962 - Y-8460 - mentions: 80
+- [[../documents/ornl-3661.md|ORNL-3661]] - 1964 - ORNL-3661 - mentions: 64
+- [[../documents/ornl-3626.md|ORNL-3626 UCA-80- Reactor Technology TID-4500 (31st ed.)]] - January 31, 1964 - ORNL-3626 - mentions: 2
+- [[../documents/ornl-tm-2111.md|![](images/14fa924941b3e01aa158371a5df27ce53f445b01fd03f2d7a44726594d383ba4.jpg)]] - July 1964 - ORNL-TM-728 - mentions: 25
+- [[../documents/ornl-3708.md|![](images/50503ced8a785d6711476b9d883192f94a77603d1c0894f00fd35b69e5171bf6.jpg)]] - July 31, 1964 - ORNL-3708 - mentions: 7
+- [[../documents/ornl-tm-4286.md|![](images/efcbf614eaf10c25932c7194f018f827dd8994802174e2a19b1489f8dd55aeaf.jpg)]] - July 31, 1964 - ORNL-TM-4286 - mentions: 45
+- [[../documents/ornl-tm-2987.md|ORNL-TM-2987]] - August 1964 - ORNL-TM-2987 - mentions: 3
+- [[../documents/ornl-tm-3832.md|![](images/1300c978e545fa137f7c638f011312135b3d51a64be678af13c0b08dfc7b58c9.jpg)]] - December 1964 - ORNL-TM-3832 - mentions: 5
+- [[../documents/ornl-tm-1005.md|OAK RIDGE NATIONAL LABORATORY]] - 1965 - ORNL-TM-1005 - mentions: 14
+- [[../documents/ornl-tm-728.md|ORNL-TM-728]] - 1965 - ORNL-TM-728 - mentions: 1
+- [[../documents/ornl-3812.md|ORNL-3812]] - February 28, 1965 - ORNL-3812 - mentions: 1
+- [[../documents/ornl-tm-2304.md|![](images/106416b84268cc6c3bab4033ada383acd176b038621001418dde7f3133a7b800.jpg)]] - June 1, 1965 - ORNL-TM-2304 - mentions: 3
+- [[../documents/ornl-tm-2647.md|![](images/9282d10dfdf506fc13701eff09603129e80c18b6a64ed15a7d55343b0daa94cd.jpg)]] - June 1, 1965 - ORNL-TM-2647 - mentions: 76
+- [[../documents/ornl-tm-1997.md|![](images/db5ba9a3d24996b08ffe668497ad3d85b264e7e81222ae96d4fe6118ec282798.jpg)]] - June 1, 1965 - ORNL-TM-1997 - mentions: 37
+- [[../documents/ornl-tm-2578.md|CRNL-TM-2578]] - June 1, 1965 - mentions: 6
+- [[../documents/ornl-tm-1341.md|ELEVATED-TEMPERATURE MECHANICAL PROPERTIES OF WELDS]] - June 1, 1965 - mentions: 1
+- [[../documents/ornl-4616.md|ORNL-4616]] - June 1, 1965 - ORNL-4616 - mentions: 2
+- [[../documents/ornl-tm-2359.md|ORNL-TM-2359]] - June 1, 1965 - ORNL-TM-2359 - mentions: 68
+- [[../documents/ornl-tm-2483.md|ORNL-TM-2483]] - June 1, 1965 - ORNL-TM-2483 - mentions: 25
+- [[../documents/ornl-tm-3063.md|ORNL-TM-3063]] - June 1, 1965 - ORNL-TM-3063 - mentions: 84
+- [[../documents/ornl-tm-1146.md|![](images/f79da9fcb796cf2f680b2fd84871398fa62f642b6fa7aca4f569eb7794013328.jpg)]] - June 11, 1965 - ORNL-TM-1146 - mentions: 6
+- [[../documents/ornl-3872.md|ORNL-3872]] - August 31, 1965 - ORNL-3872 - mentions: 6
+- [[../documents/ornl-3913.md|ORNL.3913]] - December 31, 1965 - mentions: 3
+- [[../documents/ornl-3791.md|![](images/6a88b7b49bad0c5a62a41f205f0b4223628c001b68e171f028a1a0e51b8981ff.jpg)]] - 1966 - mentions: 1
+- [[../documents/ornl-3996.md|ORNL-3996]] - 1966 - ORNL-3996 - mentions: 37
+- [[../documents/ornl-tm-1353.md|STUDIES OF THE CARBON DISTRIBUTION IN HASTELLOY N]] - 1966 - mentions: 23
+- [[../documents/ornl-3936.md|ORNL-3936]] - February 28, 1966 - ORNL-3936 - mentions: 52
+- [[../documents/ornl-tm-1467.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - April 7, 1966 - ORNL-TM-1467 - mentions: 2
+- [[../documents/anl-7228.md|Argonne National Laboratory]] - June 1966 - ANL-6892 - mentions: 3
+- [[../documents/ornl-4371.md|ORNL-4371]] - July 1966 - ORNL-4371 - mentions: 1
+- [[../documents/ornl-tm-1544.md|ORNL-TM-1544]] - July 1, 1966 - ORNL-TM-1544 - mentions: 1
+- [[../documents/ornl-tm-1960.md|OPERATION OF MOLTEN-SALT CONVECTION LOOPS IN THE ORR]] - August 8, 1966 - mentions: 15
+- [[../documents/ornl-4037.md|ORNL-4037]] - August 31, 1966 - ORNL-4037 - mentions: 91
+- [[../documents/fuel-properties-and-nuclear-performance-of-fast-reactors-fueled-with-molten-chlorides.md|FUEL PROPERTIES AND NUCLEAR PERFORMANCE OF FAST REACTORS FUELED WITH MOLTEN CHLORIDES]] - December 9, 1966 - mentions: 1
+- [[../documents/ornl-4076.md|HeoHcTo 95hE]] - December 31, 1966 - ORNL-4076 - mentions: 17
+- [[../documents/ornl-tm-1545.md|CFSTI PRICS]] - 1967 - ORNL-TM-1545 - mentions: 25
+- [[../documents/ornl-tm-1854.md|ORNL-TM-1854]] - 1967 - ORNL-TM-1854 - mentions: 114
+- [[../documents/ornl-4119.md|ORNL-4119]] - February 28, 1967 - ORNL-4119 - mentions: 66
+- [[../documents/ornl-tm-1852.md|ORNL-TM-1852]] - June 1967 - ORNL-TM-1852 - mentions: 2
+- [[../documents/ornl-tm-3344.md|ORNL-TM-3344]] - June 1967 - ORNL-TM-3344 - mentions: 6
+- [[../documents/ornl-tm-3595.md|ORNL-TM-3595]] - June 1967 - ORNL-TM-3595 - mentions: 161
+- [[../documents/ornl-tm-1858.md|ORNL-TM-1858]] - June 9, 1967 - ORNL-TM-1858 - mentions: 1
+- [[../documents/ornl-tm-1851.md|ORNL-TM-1851]] - June 12, 1967 - ORNL-TM-1851 - mentions: 12
+- [[../documents/ornl-4528.md|![](images/efa4c365b6bf3e13da5500ec9fed0e63178b1fa0c3de881bcc6d38a1bdf4d24f.jpg)]] - August 1967 - ORNL-4528 - mentions: 44
+- [[../documents/ornl-4191.md|ORNL-4191]] - August 31, 1967 - ORNL-4191 - mentions: 172
+- [[../documents/ornl-tm-3145.md|ORNL-TM-3145]] - September 1967 - ORNL-TM-3145 - mentions: 11
+- [[../documents/ornl-tm-3488.md|ORNL-TM-3488]] - October 1967 - ORNL-TM-3488 - mentions: 46
+- [[../documents/ornl-tm-1855.md|![](images/1b350d6b5cc04bc7d7604b9dd9cc29d2a51787f05b2cf8392565028b4005a7ea.jpg)]] - October 3, 1967 - ORNL-TM-1855 - mentions: 7
+- [[../documents/ornl-tm-3561.md|ORNL-TM-3561]] - November 1, 1967 - ORNL-TM-3561 - mentions: 3
+- [[../documents/ornl-tm-2305.md|![](images/db6785ee9eb6ca62c9623a7b9062899cbbe388e95f136cbcc441191fe9416eae.jpg)]] - December 1967 - ORNL-TM-2305 - mentions: 3
+- [[../documents/ornl-tm-2043.md|![](images/e8541db140ff3c4588ee4e519e7edadb1f84c9951b972eb1c2c247b5c72de0b0.jpg)]] - 1968 - ORNL-TM-2043 - mentions: 17
+- [[../documents/ornl-tm-910.md|MSRE DESIGN AND OPERATIONS REPORT]] - 1968 - ORNL-TM-728 - mentions: 4
+- [[../documents/ornl-tm-2213.md|ORNL TM-2213]] - 1968 - mentions: 29
+- [[../documents/ornl-tm-729a.md|ORNL-TM-729, Part II A]] - 1968 - ORNL-TM-729 - mentions: 4
+- [[../documents/ornl-tm-2098.md|ORNL-TM-2098]] - January 3, 1968 - ORNL-TM-2098 - mentions: 10
+- [[../documents/ornl-4254.md|ORNL-4254]] - February 29, 1968 - ORNL-4254 - mentions: 167
+- [[../documents/ornl-tm-3002.md|ORNL-TM- 3002]] - March 1968 - ORNL-TM-3002 - mentions: 1
+- [[../documents/ornl-tm-2256.md|ORNL-TM-2256]] - June 20, 1968 - ORNL-TM-2256 - mentions: 2
+- [[../documents/ornl-tm-2741.md|ORNL-TM-2741]] - June 20, 1968 - ORNL-TM-2741 - mentions: 7
+- [[../documents/ornl-tm-2953.md|![](images/046cf1b425f1e69411b3ea1754bda49148c10254a65e54afc873e28d3e018364.jpg)]] - July 15, 1968 - ORNL-TM-2953 - mentions: 2
+- [[../documents/ornl-4344.md|ORNL-4344]] - August 31, 1968 - ORNL-4344 - mentions: 177
+- [[../documents/ornl-tm-3963.md|![](images/ff0e65e7dd047d18114272dda07530c7f669d12e85f65ece0fadefdbf55227c2.jpg)]] - November 1968 - mentions: 1
+- [[../documents/ornl-tm-2021.md|![](images/058795c71bc1bc1825b5474e74ba7771e9559f916f28593e94af89becad51159.jpg)]] - 1969 - ORNL-TM-2021 - mentions: 2
+- [[../documents/ornl-tm-2511.md|![](images/4ded454a32824359092924490b98d535486ec9da1c3850aee3e8f4574861e3c9.jpg)]] - 1969 - ORNL-TM-2511 - mentions: 33
+- [[../documents/ornl-tm-202.md|![](images/c3de4ffa99a6c94ffebe8ead14e18ab6e2513de15cc9c270fa507d8c45bca7ff.jpg)]] - 1969 - ORNL-TM-2021 - mentions: 2
+- [[../documents/ornl-tm-2696.md|![](images/c9c56a5050b308189d21a1a66f8e1e25bf85df050eea34e2be76f0b316de50ae.jpg)]] - 1969 - mentions: 8
+- [[../documents/ornl-tm-2643.md|LEGAL NOTICE]] - 1969 - ORNL-TM-2643 - mentions: 2
+- [[../documents/oak-ridge-national-laboratory.md|OAK RIDGE NATIONAL LABORATORY]] - 1969 - mentions: 4
+- [[../documents/ornl-4389.md|ORNL-4389]] - 1969 - ORNL-4389 - mentions: 2
+- [[../documents/ornl-tm-2136.md|ORNL-TM-2136]] - 1969 - ORNL-TM-2136 - mentions: 7
+- [[../documents/ornl-tm-2405.md|ORNL-TM-2405]] - 1969 - ORNL-TM-2405 - mentions: 1
+- [[../documents/ornl-tm-2478.md|ORNL-TM-2478]] - 1969 - ORNL-TM-2478 - mentions: 1
+- [[../documents/ornl-tm-2489.md|ORNL-TM-2489]] - 1969 - ORNL-TM-2489 - mentions: 1
+- [[../documents/ornl-tm-2490.md|ORNL-TM-2490]] - 1969 - ORNL-TM-2490 - mentions: 28
+- [[../documents/ornl-tm-2712.md|ORNL-TM-2712]] - 1969 - ORNL-TM-2712 - mentions: 1
+- [[../documents/ornl-tm-2780.md|ORNL-TM-2780]] - 1969 - ORNL-TM-2780 - mentions: 2
+- [[../documents/ornl-4396.md|ORNL-4396]] - February 28, 1969 - ORNL-4396 - mentions: 98
+- [[../documents/wash-1097.md|CIVILIAN NUCLEAR POWER]] - June 1969 - mentions: 7
+- [[../documents/ornl-tm-3359.md|Contract No. W-7405-eng-26]] - July 1969 - ORNL-TM-3359 - mentions: 1
+- [[../documents/symposium-on.md|Symposium on]] - August 1969 - mentions: 11
+- [[../documents/engineering-development-of-the-msbr-fuel-recycle.md|ENGINEERING DEVELOPMENT OF THE MSBR FUEL RECYCLE]] - August 4, 1969 - mentions: 1
+- [[../documents/experience-with-the-molten-salt-reactor-experiment.md|EXPERIENCE WITH THE MOLTEN-SALT REACTOR EXPERIMENT]] - August 4, 1969 - mentions: 7
+- [[../documents/molten-salt-reactor-chemistry.md|MOLTEN-SALT REACTOR CHEMISTRY]] - August 4, 1969 - mentions: 13
+- [[../documents/molten-salt-reactors-history-status-and-potential.md|MOLTEN-SALT REACTORS-HISTORY, STATUS, AND POTENTIAL]] - August 4, 1969 - mentions: 2
+- [[../documents/new-developments-in-materials-for-molten-salt-reactors.md|NEW DEVELOPMENTS IN MATERIALS FOR MOLTEN-SALT REACTORS]] - August 4, 1969 - mentions: 34
+- [[../documents/the-design-and-performance-features-of-a-single-fluid-molten-salt-breeder-reactor.md|THE DESIGN AND PERFORMANCE FEATURES OF A SINGLE-FLUID MOLTEN-SALT BREEDER REACTOR]] - August 4, 1969 - mentions: 12
+- [[../documents/ornl-4449.md|ORNL-4449]] - August 31, 1969 - ORNL-4449 - mentions: 117
+- [[../documents/ornl-tm-4174.md|![](images/78fa4ec143a56641acc686f2b68602b2eebec316a136556023225ec09544b0e4.jpg)]] - December 1969 - ORNL-TM-1997 - mentions: 9
+- [[../documents/ornl-tm-4271.md|MASS TRANSFER BETWEEN]] - December 1969 - ORNL-TM-4271 - mentions: 22
+- [[../documents/ornl-tm-3039.md|ORNL-TM-3039]] - December 1969 - ORNL-TM-3039 - mentions: 8
+- [[../documents/ornl-tm-2743.md|U.S. ATOMIC ENERGY COMMISSION]] - December 22, 1969 - ORNL-TM-2743 - mentions: 12
+- [[../documents/ornl-tm-2978.md|ORNL-TM-2978]] - 1970 - ORNL-TM-2978 - mentions: 25
+- [[../documents/ornl-tm-3027.md|ORNL-TM-3027]] - 1970 - ORNL-TM-3027 - mentions: 1
+- [[../documents/ornl-tm-3177.md|ORNL-TM-3177]] - 1970 - ORNL-TM-3177 - mentions: 15
+- [[../documents/ornl-tm-2858.md|TENSILE PROPERTIES OF HASTELLOY N WELDED AFTER IRRADIATION]] - 1970 - mentions: 10
+- [[../documents/ornl-tm-2927.md|U.S. ATOMIC ENERGY COMMISSION]] - 1970 - ORNL-TM-2927 - mentions: 3
+- [[../documents/ornl-4548.md|ORNL-4548]] - February 28, 1970 - ORNL-4548 - mentions: 140
+- [[../documents/ornl-tm-2974.md|ORNL-TM-2974]] - April 7, 1970 - ORNL-TM-2974 - mentions: 4
+- [[../documents/ornl-tm-3102.md|W. H. Sides, Jr.]] - May 18, 1970 - ORNL-TM-2927 - mentions: 3
+- [[../documents/ornl-tm-4172.md|![](images/742e6893f80fc2a555972503f63a6ba5571f8277725112fd0706e52a03baf41e.jpg)]] - June 1970 - ORNL-TM-2978 - mentions: 24
+- [[../documents/ornl-tm-4802.md|The Molten-Salt Reactor Information System]] - June 1970 - ORNL-TM-4802 - mentions: 12
+- [[../documents/ornl-4622.md|ORNL-4622]] - August 31, 1970 - ORNL-4622 - mentions: 127
+- [[../documents/ornl-cf-70-9-3.md|COPY NO.]] - September 1, 1970 - mentions: 9
+- [[../documents/ornl-tm-3144.md|![](images/f9a0954256e310f7dbd247b21103a0431600f16dcda05ed28336e412601e963e.jpg)]] - September 30, 1970 - ORNL-TM-3144 - mentions: 1
+- [[../documents/tid-26156.md|1000 MW(e) MOLTEN SALT BREEDER REACTOR]] - September 30, 1970 - mentions: 21
+- [[../documents/ornl-tm-3229.md|ORNL-TM-3229]] - November 19, 1970 - ORNL-TM-3229 - mentions: 3
+- [[../documents/ornl-tm-3064.md|![](images/cc78534ad0c78ee41ed8f6799d218eeb89e015ac987a03d6169e70cd9764946b.jpg)]] - 1971 - ORNL-TM-3064 - mentions: 28
+- [[../documents/ornl-4434.md|ORNL-4434]] - 1971 - ORNL-4434 - mentions: 11
+- [[../documents/ornl-4541.md|ORNL-4541]] - 1971 - ORNL-4541 - mentions: 102
+- [[../documents/ornl-4575.md|ORNL-4575, Volume 2]] - 1971 - ORNL-4575 - mentions: 9
+- [[../documents/ornl-4577.md|ORNL-4577]] - 1971 - ORNL-4577 - mentions: 2
+- [[../documents/ornl-4658.md|ORNL-4658]] - 1971 - ORNL-4658 - mentions: 30
+- [[../documents/ornl-tm-2952.md|ORNL-TM-2952]] - 1971 - ORNL-TM-2952 - mentions: 4
+- [[../documents/ornl-tm-3428.md|ORNL-TM-3428]] - 1971 - ORNL-TM-3428 - mentions: 21
+- [[../documents/ornl-tm-3321.md|THERMAL STABILITY OF TITANIUM-MODIFIED]] - 1971 - ORNL-TM-3321 - mentions: 12
+- [[../documents/ornl-4676.md|![](images/dd79b2ea7a269e4e2bdbdad98b315218b184c677fbd7fe6c21a5f930248bbf2e.jpg)]] - February 28, 1971 - ORNL-4676 - mentions: 127
+- [[../documents/ornl-tm-2815.md|![](images/bb8ca45e0e1b46aaebb681679979113b8c0c3ecd470ce0ca9696c201e289a854.jpg)]] - June 24, 1971 - ORNL-TM-2815 - mentions: 11
+- [[../documents/ornl-cf-71-8-10.md|![](images/d932c9230f16a5826251a6cef8c31b83e258692da125cef43f73926b0c64ce50.jpg)]] - August 6, 1971 - ORNL-TM-2316 - mentions: 19
+- [[../documents/ornl-4728.md|![](images/75792d190f38fb318248f14df749be3ce5abb65eaf2a821ff2d87b4b580840ca.jpg)]] - August 31, 1971 - ORNL-2474 - mentions: 132
+- [[../documents/ornl-tm-3563.md|ORNL-TM-3563]] - November 11, 1971 - ORNL-TM-3563 - mentions: 17
+- [[../documents/ornl-tm-4221.md|![](images/4def40acd6d680198cb3ed2037ba9340a633cde159d492c8236fdab26cd90898.jpg)]] - 1972 - mentions: 17
+- [[../documents/ornl-tm-3777.md|![](images/4e80ebbc34b88b5e66a9fbae9c7feebdc76c592fd4d469e4de02ed435b41e679.jpg)]] - 1972 - mentions: 2
+- [[../documents/ornl-tm-4188.md|![](images/6cca512e21a99d81be0ed3b53372e7f4d1c2ce35b99b0ed1a6b024d7b0958988.jpg)]] - 1972 - ORNL-2378 - mentions: 24
+- [[../documents/ornl-4829.md|![](images/fd86e3ca7a94a108a1d0fd05c8d5edbb95254ede66d82d0fe56d1857fd218305.jpg)]] - 1972 - ORNL-4829 - mentions: 13
+- [[../documents/ornl-tm-3609.md|A STUDY OF THE ADHERENCE OF TUNGSTEN AND MOLYBDENUM COATINGS]] - 1972 - ORNL-TM-3609 - mentions: 1
+- [[../documents/ornl-tm-4047.md|MOLTEN SALTS AS BLANKET FLUIDS IN CONTROLLED FUSION REACTORS]] - 1972 - mentions: 1
+- [[../documents/ornl-tm-3763.md|ORNL-TM- 3763]] - 1972 - ORNL-TM-3763 - mentions: 5
+- [[../documents/ornl-tm-3151.md|ORNL-TM-3151]] - 1972 - ORNL-TM-3151 - mentions: 4
+- [[../documents/ornl-tm-3579.md|ORNL-TM-3579]] - 1972 - ORNL-TM-3579 - mentions: 20
+- [[../documents/ornl-cf-72-1-1.md|![](images/be2ea45bad0f4cfb998629958b80a3dc10cf8c5c30dcfebc257c9b57aa7fbd51.jpg)]] - January 28, 1972 - mentions: 1
+- [[../documents/ornl-4782.md|MOLTEN-SALT REACTOR PROGRAM]] - February 29, 1972 - ORNL-2474 - mentions: 185
+- [[../documents/ornl-4812.md|The Development Status of]] - August 1972 - ORNL-4812 - mentions: 151
+- [[../documents/ornl-4832.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1972 - ORNL-2474 - mentions: 195
+- [[../documents/wash-1222.md|AN EVALUATION]] - September 1972 - ORNL-4541 - mentions: 16
+- [[../documents/ornl-tm-3884.md|![](images/596f563ee8382056c5343c8493723affe279bbc356dbf66843c5395f70661f0c.jpg)]] - December 1972 - ORNL-TM-3884 - mentions: 28
+- [[../documents/ornl-4874.md|![](images/947a51c2e41a84f80ce812f3a8a0cf827a0da386e95f77642cf3e328a40b8908.jpg)]] - December 1972 - mentions: 1
+- [[../documents/ornl-tm-3939.md|MSR COMPONENT REPLACEMENTS USING REMOTE CUTTING AND WELDING TECHNIQUES]] - December 1972 - ORNL-TM-3561 - mentions: 2
+- [[../documents/ornl-tm-4079.md|![](images/855cc2ed184a91567893984f89ebdf95982fc65ad652fa8117011581a93d6c44.jpg)]] - 1973 - mentions: 4
+- [[../documents/ornl-tm-3863.md|![](images/9f7be5e42e01ed4497478ae2964e953874059820a552d1e7d8b0ec118106a838.jpg)]] - 1973 - ORNL-TM-2316 - mentions: 18
+- [[../documents/ornl-tm-4380.md|INFLUENCE OF AGING ON THE]] - 1973 - mentions: 29
+- [[../documents/nd-74-66.md|JAN 10 1975]] - January 31, 1973 - ND/71/66 - mentions: 129
+- [[../documents/ornl-5018.md|![](images/96c48f13787c31854c9814da24c925e11be9013ba9fe9d693aa56a180614d0c1.jpg)]] - 1974 - ORNL-5018 - mentions: 175
+- [[../documents/aeew-r956.md|![](images/5e51d81c4f194b78fb5d32f5628dbd64eb78c532ae5090d45633160fb57f7f11.jpg)]] - August 1974 - mentions: 6
+- [[../documents/ornl-5011.md|Molten-Salt Reactor Program]] - August 31, 1974 - ORNL-5011 - mentions: 96
+- [[../documents/ornl-tm-5325.md|Evaluation of Alternate Secondary (and Tertiary) Coolants for the Molten-Salt Breeder Reactor]] - September 1974 - mentions: 7
+- [[../documents/ornl-5047.md|Molten-Salt]] - February 28, 1975 - ORNL-5047 - mentions: 180
+- [[../documents/eir-276.md|Eidg. Institut für Reaktorforschung Würenlingen Schweiz]] - April 1975 - mentions: 2
+- [[../documents/ornl-5078.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1975 - ORNL-5078 - mentions: 179
+- [[../documents/ornl-5132.md|![](images/d06517328823504576c5fcd7ace4c6cff5e8189745eaac1344265330e4180ef8.jpg)]] - February 29, 1976 - ORNL-2474 - mentions: 174
+- [[../documents/ornl-tm-7207.md|ORNL/TM-7207]] - October 28, 1976 - mentions: 24
+- [[../documents/ornl-tm-5540.md|![](images/99c82f2f990761eaa342910412b48494b8d83b74e267689cd1f04139b26a7d24.jpg)]] - November 1976 - mentions: 29
+- [[../documents/ornl-tm-5503.md|![](images/fa350c33801302759f13b1a6013405f50acb394a4a0e8ebc66a8299da33a2484.jpg)]] - November 1976 - mentions: 1
+- [[../documents/ornl-tm-5335.md|ORNL/TM-5335]] - November 10, 1976 - mentions: 8
+- [[../documents/ornl-tm-5759.md|G. T. Mays]] - April 1977 - mentions: 6
+- [[../documents/ornl-tm-5781.md|![](images/a196266181650abc0bf276526fc9796ac3e6c3ce5b32bd5fc4cb4a12a79ce122.jpg)]] - May 1977 - mentions: 34
+- [[../documents/ornl-tm-5783.md|ORNL/TM-5783]] - May 1977 - mentions: 22
+- [[../documents/ornl-cf-77-391.md|OAK RIDGE NATIONAL LABORATORY]] - August 25, 1977 - mentions: 1
+- [[../documents/ornl-tm-6002.md|Status of Tellurium-Hastelloy N Studies in Mollen Fluoride Salts]] - October 1977 - mentions: 35
+- [[../documents/ornl-tm-5920.md|Status of Materials Development for Molen Salt Reactors]] - January 1978 - ORNL-5132 - mentions: 52
+- [[../documents/ornl-tm-6413.md|![](images/d195caf28f60d426db6434156b0c17a92fc249a53e2824b29bed12e431bb0373.jpg)]] - August 1978 - mentions: 2
+- [[../documents/ornl-tm-6415.md|![](images/6f25af79db8446bcce7c7fe0081ce804cba28cc58dc153e91a50e4f262e223ad.jpg)]] - March 1979 - mentions: 37
+- [[../documents/pnl-3116.md|PNL-3116]] - January 1980 - mentions: 1
+- [[../documents/ornl-tm-9756.md|ORNL/TM-9756]] - September 1985 - mentions: 6
+- [[../documents/cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept.md|Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept]] - April 1992 - mentions: 6
+- [[../documents/ornl-tm-12925.md|OAK RIDGE NATIONAL LABORATORY]] - March 1995 - mentions: 31
+- [[../documents/ornl-tm-3767.md|HYBRID COMPUTER SIMULATION OF THE MSBR]] - mentions: 1
+- [[../documents/ornl-tm-80.md|LABORATORY-SCALE DEMONSTRATION OF THE FUSED SALT VOLATILITY PROCESS]] - ORNL-2548 - mentions: 1
+- [[../documents/ornl-tm-1853.md|OAK RIDGE NATIONAL LABORATORY]] - ORNL-TM-1853 - mentions: 39
+- [[../documents/ornl-tm-1859.md|ORNL-TM-1859]] - ORNL-TM-1859 - mentions: 1
+- [[../documents/university-of-california.md|UNIVERSITY OF CALIFORNIA]] - mentions: 7

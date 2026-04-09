@@ -1,0 +1,462 @@
+{
+  "authors": [
+    "LIQUID-METAL FUEL REACTORS",
+    "CONTRIBUTORS",
+    "R. BOURDEAU",
+    "M. B. BRODSKY",
+    "J. S. BRYNER",
+    "J. CHERNICK"
+  ],
+  "claims_path": "kb/normalized/claims/part-iii.jsonl",
+  "date_text": "June 1958",
+  "doc_id": "part-iii",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          136,
+          143
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          136
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          76,
+          88,
+          103,
+          141
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          121
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          54,
+          78,
+          163,
+          173,
+          179
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          52,
+          162
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          163
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          56
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 32,
+        "line_hits": [
+          3,
+          7,
+          13,
+          52,
+          54,
+          64,
+          68,
+          70,
+          72,
+          78,
+          80,
+          82,
+          84,
+          107,
+          126,
+          130,
+          134,
+          136,
+          139,
+          141,
+          143,
+          145,
+          150,
+          152,
+          154,
+          156,
+          165,
+          170,
+          176,
+          178,
+          179,
+          180
+        ],
+        "name": "LMFR"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          54,
+          76,
+          90,
+          98,
+          110,
+          112,
+          114,
+          121,
+          123,
+          126,
+          132,
+          136,
+          141,
+          143,
+          145,
+          152,
+          156
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2eed525a08d0682bd5a94fe722c93052134583631329a403c2cc445ab28e7aab",
+  "markdown_path": "pdf/FFR_chap18/FFR_chap18/hybrid_ocr/FFR_chap18.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 41,
+  "sections": [
+    {
+      "anchor": "part-iii",
+      "end_line": 2,
+      "heading": "Part III",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "liquid-metal-fuel-reactors",
+      "end_line": 15,
+      "heading": "LIQUID-METAL FUEL REACTORS",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "contributors",
+      "end_line": 17,
+      "heading": "CONTRIBUTORS",
+      "level": 1,
+      "start_line": 16
+    },
+    {
+      "anchor": "r-bourdeau",
+      "end_line": 18,
+      "heading": "R. Bourdeau",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "m-b-brodsky",
+      "end_line": 19,
+      "heading": "M. B. Brodsky",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "j-s-bryner",
+      "end_line": 20,
+      "heading": "J. S. Bryner",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "j-chernick",
+      "end_line": 21,
+      "heading": "J. Chernick",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "j-g-y-chow",
+      "end_line": 22,
+      "heading": "J.G.Y.Chow",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "o-e-dwyer",
+      "end_line": 23,
+      "heading": "O.E.Dwyer",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "w-p-eatherly",
+      "end_line": 24,
+      "heading": "W.P.Eatherly",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "j-j-egan",
+      "end_line": 25,
+      "heading": "J.J.Egan",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "a-m-eshaya",
+      "end_line": 26,
+      "heading": "A.M. Eshaya",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "w-s-ginell",
+      "end_line": 27,
+      "heading": "W.S.Ginell",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "l-green",
+      "end_line": 28,
+      "heading": "L. GREEN",
+      "level": 2,
+      "start_line": 28
+    },
+    {
+      "anchor": "r-j-isler",
+      "end_line": 29,
+      "heading": "R.J.Isler",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "d-h-gurinksy",
+      "end_line": 30,
+      "heading": "D. H. Gurinksy",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "d-hall",
+      "end_line": 31,
+      "heading": "D. Hall",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "f-b-hill",
+      "end_line": 33,
+      "heading": "F. B. Hill",
+      "level": 2,
+      "start_line": 32
+    },
+    {
+      "anchor": "m-janes",
+      "end_line": 34,
+      "heading": "M. Janes",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "o-f-kammerer",
+      "end_line": 35,
+      "heading": "O.F.Kammerer",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "c-j-klamut",
+      "end_line": 36,
+      "heading": "C.J.Klamut",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "r-m-kiehn",
+      "end_line": 37,
+      "heading": "R.M.Kiehn",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "r-l-mansfield",
+      "end_line": 38,
+      "heading": "R. L. Mansfield",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "r-a-meyer",
+      "end_line": 39,
+      "heading": "R.A.Meyer",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "f-t-miles",
+      "end_line": 40,
+      "heading": "F. T. Miles",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "c-raseman",
+      "end_line": 41,
+      "heading": "C. RASEMAN",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "w-robba",
+      "end_line": 42,
+      "heading": "W. Robba",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "d-g-schweitzer",
+      "end_line": 43,
+      "heading": "D.G.Schweitzer",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "t-v-sheehan",
+      "end_line": 44,
+      "heading": "T.V.Sheehan",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "h-susskind",
+      "end_line": 45,
+      "heading": "H. Susskind",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "c-waide",
+      "end_line": 46,
+      "heading": "C. WAIDE",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "j-r-weeks",
+      "end_line": 47,
+      "heading": "J. R. Weeks",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "r-h-wiswall",
+      "end_line": 49,
+      "heading": "R.H.Wiswall",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "preface",
+      "end_line": 61,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "chapter-18",
+      "end_line": 63,
+      "heading": "CHAPTER 18",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "liquid-metal-fuel-reactors",
+      "end_line": 65,
+      "heading": "LIQUID METAL FUEL REACTORS",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "18-1-background",
+      "end_line": 81,
+      "heading": "18-1. BACKGROUND",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "18-2-general-characteristics-of-liquid-metal-fuel-reactors",
+      "end_line": 129,
+      "heading": "18-2. GENERAL CHARACTERISTICS OF LIQUID METAL FUEL REACTORS*",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "18-3-liquid-metal-fuel-reactor-types",
+      "end_line": 153,
+      "heading": "18-3. LIQUID METAL FUEL REACTOR TYPES",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "18-4-lmfr-program",
+      "end_line": 157,
+      "heading": "18-4. LMFR PROGRAM",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "references",
+      "end_line": 181,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 158
+    }
+  ],
+  "source_dir": "pdf/FFR_chap18",
+  "tables": [],
+  "title": "Part III",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

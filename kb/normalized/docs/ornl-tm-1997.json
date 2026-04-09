@@ -1,0 +1,475 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "ASTER",
+    "H. E..McCoy",
+    "Jr.",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1997.jsonl",
+  "date_text": "June 1, 1965",
+  "doc_id": "ornl-tm-1997",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 37,
+        "line_hits": [
+          19,
+          36,
+          81,
+          87,
+          89,
+          93,
+          95,
+          97,
+          103,
+          112,
+          116,
+          154,
+          180,
+          231,
+          235,
+          239,
+          252,
+          255,
+          259,
+          266,
+          269,
+          277,
+          284,
+          287,
+          309,
+          321,
+          345,
+          395,
+          400,
+          404,
+          406,
+          407,
+          409,
+          411,
+          413,
+          419,
+          421
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          87,
+          93,
+          95,
+          103,
+          345,
+          404,
+          411,
+          419
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          156,
+          252
+        ],
+        "name": "nickel"
+      }
+    ],
+    "organization": [
+      {
+        "count": 19,
+        "line_hits": [
+          13,
+          62,
+          668,
+          672,
+          676,
+          678,
+          680,
+          682,
+          684,
+          689,
+          690,
+          692,
+          693,
+          694,
+          695,
+          696,
+          697,
+          698,
+          700
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          3,
+          15,
+          52,
+          454,
+          456,
+          457,
+          668
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          5,
+          58,
+          116
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 48,
+        "line_hits": [
+          19,
+          36,
+          81,
+          87,
+          93,
+          106,
+          110,
+          137,
+          140,
+          154,
+          162,
+          167,
+          170,
+          172,
+          177,
+          180,
+          183,
+          190,
+          200,
+          205,
+          209,
+          214,
+          217,
+          222,
+          225,
+          229,
+          233,
+          237,
+          239,
+          241,
+          250,
+          255,
+          257,
+          261,
+          279,
+          291,
+          303,
+          316,
+          398,
+          399,
+          402,
+          409,
+          411,
+          413,
+          417,
+          419,
+          421,
+          435
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          89,
+          103,
+          110,
+          112,
+          116,
+          126,
+          128,
+          134,
+          154,
+          156,
+          158,
+          160,
+          187,
+          192,
+          194,
+          196,
+          219,
+          227,
+          229,
+          250,
+          257,
+          289,
+          303,
+          305,
+          345,
+          347,
+          386,
+          406,
+          407,
+          409
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          93,
+          95
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          93
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "8a9e5707698655a5a79079097f1fb0f8f3af26e9f7d174d26af51697dab4f9b4",
+  "markdown_path": "pdf/ORNL-TM-1997/ORNL-TM-1997/hybrid_ocr/ORNL-TM-1997.md",
+  "report_number": "ORNL-TM-1997",
+  "report_numbers": [
+    "ORNL-TM-1997"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 30,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory-operated-by",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY operated by",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 6,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 12,
+      "heading": "NUCLEAR DIVISION",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 14,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-tm-1997",
+      "end_line": 16,
+      "heading": "Ornl-Tm-1997",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "aster",
+      "end_line": 22,
+      "heading": "Aster",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 33,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 39,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 34
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 49,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 40
+    },
+    {
+      "anchor": "november-1967",
+      "end_line": 51,
+      "heading": "November 1967",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 57,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 61,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 63,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "contents",
+      "end_line": 80,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "an-evaluation-of-the-molten-salt-reactor-experiment-hastelloy-n-surveillance-specimens-first-group",
+      "end_line": 84,
+      "heading": "AN EVALUATION OF THE MOLTEN SALT REACTOR EXPERIMENT HASTELLOY N SURVEILLANCE SPECIMENS - FIRST GROUP",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 90,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 98,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "experimental-details",
+      "end_line": 100,
+      "heading": "EXPERIMENTAL DETAILS",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "surveillance-assembly",
+      "end_line": 113,
+      "heading": "Surveillance Assembly",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "materials",
+      "end_line": 117,
+      "heading": "Materials",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "test-specimens",
+      "end_line": 131,
+      "heading": "Test Specimens",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "irradiation-conditions",
+      "end_line": 141,
+      "heading": "Irradiation Conditions",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "testing-techniques",
+      "end_line": 151,
+      "heading": "Testing Techniques",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "test-results",
+      "end_line": 375,
+      "heading": "Test Results",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "0-007-inches",
+      "end_line": 390,
+      "heading": "0.007 INCHES",
+      "level": 2,
+      "start_line": 376
+    },
+    {
+      "anchor": "discussion-of-results",
+      "end_line": 414,
+      "heading": "DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "summary-and-conclusions",
+      "end_line": 422,
+      "heading": "SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 450,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 661,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 451
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 701,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 662
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1997",
+  "tables": [],
+  "title": "![](images/db5ba9a3d24996b08ffe668497ad3d85b264e7e81222ae96d4fe6118ec282798.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "irradiation-and-damage",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "graphite-and-moderator-behavior",
+    "reactor-physics-neutronics",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,327 @@
+{
+  "authors": [
+    "P.A. NELSON",
+    "D.K. BUTLER",
+    "M.G. CHASANOV",
+    "D. MENEGHETTI",
+    "INTRODUCTION",
+    "KCl",
+    "MgCl"
+  ],
+  "claims_path": "kb/normalized/claims/fuel-properties-and-nuclear-performance-of-fast-reactors-fueled-with-molten-chlorides.jsonl",
+  "date_text": "December 9, 1966",
+  "doc_id": "fuel-properties-and-nuclear-performance-of-fast-reactors-fueled-with-molten-chlorides",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          51,
+          66
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          51
+        ],
+        "name": "Hastelloy F"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          51
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          51
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "component": [
+      {
+        "count": 7,
+        "line_hits": [
+          17,
+          28,
+          64,
+          66,
+          76,
+          118,
+          130
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          108
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          4,
+          144,
+          151,
+          159,
+          184,
+          185
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          160,
+          164,
+          168,
+          172,
+          181,
+          183
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          17,
+          155
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          51,
+          173
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          144
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          148
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 11,
+        "line_hits": [
+          35,
+          37,
+          70,
+          84,
+          92,
+          96,
+          108,
+          112,
+          126,
+          130,
+          140
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          118,
+          183
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          43,
+          51
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          152,
+          174
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          152,
+          174
+        ],
+        "name": "Fluid Fuel Reactors"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          168
+        ],
+        "name": "MSR Program Quarterly Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          1,
+          53,
+          128,
+          165,
+          175
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          39,
+          43,
+          66
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "363bef44ddf857aae4d974c539b9a2ee1c338317e5a64c074174991b499e0f9d",
+  "markdown_path": "pdf/NA_MCFBR/NA_MCFBR/hybrid_ocr/NA_MCFBR.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 13,
+  "sections": [
+    {
+      "anchor": "fuel-properties-and-nuclear-performance-of-fast-reactors-fueled-with-molten-chlorides",
+      "end_line": 10,
+      "heading": "FUEL PROPERTIES AND NUCLEAR PERFORMANCE OF FAST REACTORS FUELED WITH MOLTEN CHLORIDES",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 30,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "physical-and-chemical-properties-of-chloride-fuels",
+      "end_line": 57,
+      "heading": "PHYSICAL AND CHEMICAL PROPERTIES OF CHLORIDE FUELS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "reactor-characteristics",
+      "end_line": 59,
+      "heading": "REACTOR CHARACTERISTICS",
+      "level": 1,
+      "start_line": 58
+    },
+    {
+      "anchor": "design-parameters",
+      "end_line": 77,
+      "heading": "Design Parameters",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "reactor-physics-calculations",
+      "end_line": 97,
+      "heading": "REACTOR PHYSICS CALCULATIONS",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 99,
+      "heading": "DISCUSSION",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "reactor-performance",
+      "end_line": 109,
+      "heading": "Reactor Performance",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "reactor-design-concepts",
+      "end_line": 121,
+      "heading": "Reactor Design Concepts",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "fuel-cycles",
+      "end_line": 137,
+      "heading": "Fuel Cycles",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 141,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 145,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "references",
+      "end_line": 187,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 146
+    }
+  ],
+  "source_dir": "pdf/NA_MCFBR",
+  "tables": [],
+  "title": "FUEL PROPERTIES AND NUCLEAR PERFORMANCE OF FAST REACTORS FUELED WITH MOLTEN CHLORIDES",
+  "topics": [
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "breeder-and-converter-design",
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,2544 @@
+{
+  "authors": [
+    "LIBRARY LOAN COPY",
+    "UNION CARBIDE CORPORATION",
+    "Scientific",
+    "Technical Information",
+    "National Bureau of Standards",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4345.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-4345",
+  "document_type": "report",
+  "entities": {
+    "organization": [
+      {
+        "count": 20,
+        "line_hits": [
+          23,
+          64,
+          386,
+          1003,
+          1004,
+          1005,
+          1006,
+          1007,
+          1008,
+          1009,
+          1010,
+          1011,
+          1012,
+          1014,
+          1015,
+          1038,
+          1049,
+          1067,
+          1103,
+          1105
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          1,
+          7,
+          15,
+          54,
+          349,
+          385,
+          388,
+          389,
+          925,
+          933,
+          935
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          19,
+          60,
+          1104
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1024,
+          1101
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1020,
+          1054
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1046
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 23,
+        "line_hits": [
+          95,
+          99,
+          117,
+          167,
+          197,
+          199,
+          295,
+          309,
+          311,
+          315,
+          317,
+          319,
+          321,
+          329,
+          337,
+          341,
+          349,
+          351,
+          355,
+          367,
+          412,
+          416,
+          426
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f882955a52d3eb6c485c5ac76019a23ea557875ccf49a3678b52560bc3c63972",
+  "markdown_path": "pdf/ORNL-4345/ORNL-4345/hybrid_ocr/ORNL-4345.md",
+  "report_number": "ORNL-4345",
+  "report_numbers": [
+    "ORNL-4345"
+  ],
+  "report_series": null,
+  "section_count": 342,
+  "sections": [
+    {
+      "anchor": "ornl-4345",
+      "end_line": 6,
+      "heading": "Ornl-4345",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory-central-research-library-document-collection",
+      "end_line": 8,
+      "heading": "Oak Ridge National Laboratory Central Research Library Document Collection",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 14,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 18,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 22,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 32,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 43,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 51,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "january-1969",
+      "end_line": 53,
+      "heading": "January 1969",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 59,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 63,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 67,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 64
+    },
+    {
+      "anchor": "contents",
+      "end_line": 80,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "temperature-profiles-within-cylinders-containing-internal-heat",
+      "end_line": 82,
+      "heading": "TEMPERATURE PROFILES WITHIN CYLINDERS CONTAINING INTERNAL HEAT",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "sources-and-materials-of-temperature-dependent-thermal",
+      "end_line": 84,
+      "heading": "SOURCES AND MATERIALS OF TEMPERATURE-DEPENDENT THERMAL",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "conductivities-description-of-fast-computer-programs",
+      "end_line": 86,
+      "heading": "CONDUCTIVITIES. DESCRIPTION OF FAST COMPUTER PROGRAMS",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "as-applied-to-solidified-radioactive-wastes",
+      "end_line": 90,
+      "heading": "AS APPLIED TO SOLIDIFIED RADIOACTIVE WASTES",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 96,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 118,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "2-methods-of-solution",
+      "end_line": 290,
+      "heading": "2. METHODS OF SOLUTION",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "3-input-statements",
+      "end_line": 296,
+      "heading": "3. INPUT STATEMENTS",
+      "level": 1,
+      "start_line": 291
+    },
+    {
+      "anchor": "read-9001-nr-nz-nom",
+      "end_line": 300,
+      "heading": "Read 9001, Nr, Nz, Nom",
+      "level": 2,
+      "start_line": 297
+    },
+    {
+      "anchor": "read-9011-z-j-j-1-nz",
+      "end_line": 302,
+      "heading": "Read 9011, $(Z(J), J = 1, Nz)$",
+      "level": 2,
+      "start_line": 301
+    },
+    {
+      "anchor": "9001-format-16i5",
+      "end_line": 304,
+      "heading": "9001 FORMAT (16I5)",
+      "level": 2,
+      "start_line": 303
+    },
+    {
+      "anchor": "9011-format-16-f5-3",
+      "end_line": 306,
+      "heading": "9011 Format (16 F5.3)",
+      "level": 2,
+      "start_line": 305
+    },
+    {
+      "anchor": "here",
+      "end_line": 324,
+      "heading": "Here",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "read-9021-tp-nt-tk-nt",
+      "end_line": 326,
+      "heading": "Read 9021, Tp(Nt), Tk(Nt)",
+      "level": 2,
+      "start_line": 325
+    },
+    {
+      "anchor": "9021-format-8e-10-4",
+      "end_line": 332,
+      "heading": "9021 Format (8E 10.4)",
+      "level": 2,
+      "start_line": 327
+    },
+    {
+      "anchor": "read-9021-a-rad-tint-to",
+      "end_line": 334,
+      "heading": "Read 9021, A, Rad, Tint, To",
+      "level": 2,
+      "start_line": 333
+    },
+    {
+      "anchor": "here",
+      "end_line": 346,
+      "heading": "Here",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "4-execution-times-and-output",
+      "end_line": 356,
+      "heading": "4. EXECUTION TIMES AND OUTPUT",
+      "level": 1,
+      "start_line": 347
+    },
+    {
+      "anchor": "table-2-example-of-output-of-temperatures-above-the-surface-temperature-at-grid-points",
+      "end_line": 382,
+      "heading": "Table 2. Example of Output of Temperatures Above the Surface Temperature at Grid Points",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "5-references",
+      "end_line": 394,
+      "heading": "5. REFERENCES",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "6-appendix",
+      "end_line": 416,
+      "heading": "6. APPENDIX",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "9231-format-f7-3-17f7-1",
+      "end_line": 418,
+      "heading": "9231 Format(F7.3,17F7.1)",
+      "level": 2,
+      "start_line": 417
+    },
+    {
+      "anchor": "9251-format-f6-0-3x-17f7-3",
+      "end_line": 420,
+      "heading": "9251 Format(F6.0,3X,17F7.3)",
+      "level": 2,
+      "start_line": 419
+    },
+    {
+      "anchor": "9271-format-1h",
+      "end_line": 421,
+      "heading": "9271 FORMAT(1H)",
+      "level": 2,
+      "start_line": 421
+    },
+    {
+      "anchor": "9281-format-37hothe-execution-time-for-this-case-was-f7-1-8h-seconds",
+      "end_line": 422,
+      "heading": "9281 Format(37Hothe Execution Time For This Case Was,F7.1,8H Seconds)",
+      "level": 2,
+      "start_line": 422
+    },
+    {
+      "anchor": "9291-format-3i5-5e15-5",
+      "end_line": 424,
+      "heading": "9291 Format(3I5,5E15.5)",
+      "level": 2,
+      "start_line": 423
+    },
+    {
+      "anchor": "9311-format-f7-3-2x-17f7-3",
+      "end_line": 426,
+      "heading": "9311 Format(F7.3,2X,17F7.3)",
+      "level": 2,
+      "start_line": 425
+    },
+    {
+      "anchor": "9331-format-8e15-8",
+      "end_line": 427,
+      "heading": "9331 Format(8E15.8)",
+      "level": 2,
+      "start_line": 427
+    },
+    {
+      "anchor": "9341-format-24h1to-has-been-set-too-low",
+      "end_line": 428,
+      "heading": "9341 FORMAT(24H1TO HAS BEEN SET TOO LOW)",
+      "level": 2,
+      "start_line": 428
+    },
+    {
+      "anchor": "9351-format-45h1to-has-not-been-set-to-an-integer-times-50-0",
+      "end_line": 429,
+      "heading": "9351 Format(45H1To Has Not Been Set To An Integer Times 50.0)",
+      "level": 2,
+      "start_line": 429
+    },
+    {
+      "anchor": "9361-format-f10-0-f10-6-f10-5-3e16-8",
+      "end_line": 430,
+      "heading": "9361 Format(F10.0,F10.6,F10.5,3E16.8)",
+      "level": 2,
+      "start_line": 430
+    },
+    {
+      "anchor": "9371-format-7h1theta-i2-1h-i2-2h-f6-3",
+      "end_line": 431,
+      "heading": "9371 Format(7H1Theta(I2,1H,,I2,2H)=,F6.3)",
+      "level": 2,
+      "start_line": 431
+    },
+    {
+      "anchor": "9381-format-1ho",
+      "end_line": 432,
+      "heading": "9381 FORMAT(1HO)",
+      "level": 2,
+      "start_line": 432
+    },
+    {
+      "anchor": "9391-format-15f6-0",
+      "end_line": 433,
+      "heading": "9391 Format(15F6.0)",
+      "level": 2,
+      "start_line": 433
+    },
+    {
+      "anchor": "9401-format-f7-3-17f7-2",
+      "end_line": 434,
+      "heading": "9401 Format(F7.3,17F7.2)",
+      "level": 2,
+      "start_line": 434
+    },
+    {
+      "anchor": "9411-format-f7-3-17f7-3-read-9001-nr-nz-nom",
+      "end_line": 436,
+      "heading": "9411 Format(F7.3,17F7.3) Read 9001,Nr,Nz,Nom",
+      "level": 2,
+      "start_line": 435
+    },
+    {
+      "anchor": "11-print-9101-go-to-4001",
+      "end_line": 437,
+      "heading": "11 PRINT 9101 GO TO 4001",
+      "level": 2,
+      "start_line": 437
+    },
+    {
+      "anchor": "21-if-nz-50-41-41-31",
+      "end_line": 438,
+      "heading": "21 IF(NZ-50)41,41,31",
+      "level": 2,
+      "start_line": 438
+    },
+    {
+      "anchor": "31-print-9111-go-to-4001",
+      "end_line": 439,
+      "heading": "31 PRINT 9111 GO TO 4001",
+      "level": 2,
+      "start_line": 439
+    },
+    {
+      "anchor": "41-if-nom-200-61-61-51",
+      "end_line": 440,
+      "heading": "41 IF(NOM-200)61,61,51",
+      "level": 2,
+      "start_line": 440
+    },
+    {
+      "anchor": "51-print-9121-go-to-4001",
+      "end_line": 442,
+      "heading": "51 PRINT 9121 GO TO 4001",
+      "level": 2,
+      "start_line": 441
+    },
+    {
+      "anchor": "101-continue-do-11-j-1-nz-q8-j-z-j-z-nz-z-j-o-5",
+      "end_line": 446,
+      "heading": "101 Continue Do 11 J=1,Nz Q8(J)=Z(J)*(Z(Nz)-Z(J))*O.5",
+      "level": 2,
+      "start_line": 443
+    },
+    {
+      "anchor": "111-continue",
+      "end_line": 447,
+      "heading": "111 CONTINUE",
+      "level": 2,
+      "start_line": 447
+    },
+    {
+      "anchor": "con1-4-0-z-nz-z-nz-pi3",
+      "end_line": 448,
+      "heading": "Con1=4.0*Z(Nz)*Z(Nz)/Pi3",
+      "level": 2,
+      "start_line": 448
+    },
+    {
+      "anchor": "do-121-i-1-nr",
+      "end_line": 449,
+      "heading": "Do 121 I=1,Nr",
+      "level": 2,
+      "start_line": 449
+    },
+    {
+      "anchor": "u-i-1-0-0",
+      "end_line": 450,
+      "heading": "U(I,1)=0.0",
+      "level": 2,
+      "start_line": 450
+    },
+    {
+      "anchor": "u-i-nz-0-0",
+      "end_line": 454,
+      "heading": "U(I,Nz)=0.0",
+      "level": 2,
+      "start_line": 451
+    },
+    {
+      "anchor": "121-continue-nz1-nz-1-do-131-j-2-nz1-u-nr-j-0-0",
+      "end_line": 458,
+      "heading": "121 Continue Nz1=Nz-1 Do 131 J=2,Nz1 U(Nr,J)=0.0",
+      "level": 2,
+      "start_line": 455
+    },
+    {
+      "anchor": "131-continue",
+      "end_line": 459,
+      "heading": "131 CONTINUE",
+      "level": 2,
+      "start_line": 459
+    },
+    {
+      "anchor": "nr1-nr-1",
+      "end_line": 460,
+      "heading": "Nr1=Nr-1",
+      "level": 2,
+      "start_line": 460
+    },
+    {
+      "anchor": "do-221-j-2-nz1",
+      "end_line": 461,
+      "heading": "Do 221 J=2,Nz1",
+      "level": 2,
+      "start_line": 461
+    },
+    {
+      "anchor": "do-211-i-1-nr1",
+      "end_line": 462,
+      "heading": "Do 211 I=1,Nr1",
+      "level": 2,
+      "start_line": 462
+    },
+    {
+      "anchor": "sum-0-0",
+      "end_line": 463,
+      "heading": "Sum=0.0",
+      "level": 2,
+      "start_line": 463
+    },
+    {
+      "anchor": "do-201-m-1-nom",
+      "end_line": 464,
+      "heading": "Do 201 M=1,Nom",
+      "level": 2,
+      "start_line": 464
+    },
+    {
+      "anchor": "arg1-q4-m-r-i",
+      "end_line": 465,
+      "heading": "Arg1=Q4(M)*R(I)",
+      "level": 2,
+      "start_line": 465
+    },
+    {
+      "anchor": "arg2-q5-m",
+      "end_line": 466,
+      "heading": "Arg2=Q5(M)",
+      "level": 2,
+      "start_line": 466
+    },
+    {
+      "anchor": "vio2-q6-m",
+      "end_line": 467,
+      "heading": "Vio2=Q6(M)",
+      "level": 2,
+      "start_line": 467
+    },
+    {
+      "anchor": "if-arg1-151-141-151",
+      "end_line": 471,
+      "heading": "If(Arg1)151,141,151",
+      "level": 2,
+      "start_line": 468
+    },
+    {
+      "anchor": "141-vio1-1-0-go-to-181",
+      "end_line": 475,
+      "heading": "141 Vio1=1.0 Go To 181",
+      "level": 2,
+      "start_line": 472
+    },
+    {
+      "anchor": "151-if-arg1-arg2-171-161-171",
+      "end_line": 479,
+      "heading": "151 IF(ARG1-ARG2)171,161,171",
+      "level": 2,
+      "start_line": 476
+    },
+    {
+      "anchor": "161-vio1-vio2-go-to-181",
+      "end_line": 483,
+      "heading": "161 Vio1=Vio2 Go To 181",
+      "level": 2,
+      "start_line": 480
+    },
+    {
+      "anchor": "171-q7-m-i-bzero-arg1",
+      "end_line": 484,
+      "heading": "171 Q7(M,I) = Bzero(Arg1)",
+      "level": 2,
+      "start_line": 484
+    },
+    {
+      "anchor": "vi01-q7-m-i",
+      "end_line": 488,
+      "heading": "Vi01 = Q7(M,I)",
+      "level": 2,
+      "start_line": 485
+    },
+    {
+      "anchor": "181-sum-sum-vi01-sin-q4-m-z-j-q3-m-vi02",
+      "end_line": 492,
+      "heading": "181 Sum=Sum+Vi01*Sin(Q4(M)*Z(J))/Q3(M)/Vi02",
+      "level": 2,
+      "start_line": 489
+    },
+    {
+      "anchor": "201-continue-u-i-j-q8-j-con1-sum",
+      "end_line": 496,
+      "heading": "201 Continue U(I,J)=Q8(J)-Con1*Sum",
+      "level": 2,
+      "start_line": 493
+    },
+    {
+      "anchor": "211-continue",
+      "end_line": 502,
+      "heading": "211 CONTINUE",
+      "level": 2,
+      "start_line": 497
+    },
+    {
+      "anchor": "231-continue-nt-0",
+      "end_line": 506,
+      "heading": "231 Continue Nt=0",
+      "level": 2,
+      "start_line": 503
+    },
+    {
+      "anchor": "241-nt-nt-1",
+      "end_line": 507,
+      "heading": "241 Nt=Nt+1",
+      "level": 2,
+      "start_line": 507
+    },
+    {
+      "anchor": "read-9021-tp-nt-tk-nt",
+      "end_line": 508,
+      "heading": "Read 9021, Tp(Nt), Tk(Nt)",
+      "level": 2,
+      "start_line": 508
+    },
+    {
+      "anchor": "if-tp-nt-251-241-241",
+      "end_line": 512,
+      "heading": "If (Tp(Nt)) 251, 241, 241",
+      "level": 2,
+      "start_line": 509
+    },
+    {
+      "anchor": "251-nt-nt-1-ntemp-nt-1",
+      "end_line": 516,
+      "heading": "251 Nt=Nt-1 Ntemp=Nt-1",
+      "level": 2,
+      "start_line": 513
+    },
+    {
+      "anchor": "301-read-9021-a-rad-tint-to",
+      "end_line": 517,
+      "heading": "301 READ 9021, A, RAD, TINT, TO",
+      "level": 2,
+      "start_line": 517
+    },
+    {
+      "anchor": "if-a-4001-4001-311",
+      "end_line": 521,
+      "heading": "If(A)4001, 4001, 311",
+      "level": 2,
+      "start_line": 518
+    },
+    {
+      "anchor": "311-intime-iclockf-dummy",
+      "end_line": 522,
+      "heading": "311 Intime=Iclockf(Dummy)",
+      "level": 2,
+      "start_line": 522
+    },
+    {
+      "anchor": "dia-2-0-rad",
+      "end_line": 523,
+      "heading": "Dia=2.0*Rad",
+      "level": 2,
+      "start_line": 523
+    },
+    {
+      "anchor": "ao-a-to",
+      "end_line": 524,
+      "heading": "Ao=A/To",
+      "level": 2,
+      "start_line": 524
+    },
+    {
+      "anchor": "jn-0",
+      "end_line": 530,
+      "heading": "Jn=0",
+      "level": 2,
+      "start_line": 525
+    },
+    {
+      "anchor": "361-if-jn-1-371-371-381",
+      "end_line": 534,
+      "heading": "361 IF(JN-1)371,371,381",
+      "level": 2,
+      "start_line": 531
+    },
+    {
+      "anchor": "371-print-9341",
+      "end_line": 535,
+      "heading": "371 PRINT 9341",
+      "level": 2,
+      "start_line": 535
+    },
+    {
+      "anchor": "go-to-301",
+      "end_line": 539,
+      "heading": "Go To 301",
+      "level": 2,
+      "start_line": 536
+    },
+    {
+      "anchor": "381if-jn-nt-341-341-391",
+      "end_line": 543,
+      "heading": "381If(Jn-Nt)341,341,391",
+      "level": 2,
+      "start_line": 540
+    },
+    {
+      "anchor": "391-print-9351",
+      "end_line": 544,
+      "heading": "391 PRINT 9351",
+      "level": 2,
+      "start_line": 544
+    },
+    {
+      "anchor": "go-to-301",
+      "end_line": 549,
+      "heading": "Go To 301",
+      "level": 2,
+      "start_line": 545
+    },
+    {
+      "anchor": "jt-nt-jo-1",
+      "end_line": 553,
+      "heading": "Jt=Nt-Jo+1",
+      "level": 2,
+      "start_line": 550
+    },
+    {
+      "anchor": "jr-jt-2",
+      "end_line": 555,
+      "heading": "Jr=Jt-2",
+      "level": 2,
+      "start_line": 554
+    },
+    {
+      "anchor": "tht-1-0-0",
+      "end_line": 557,
+      "heading": "Tht(1)=0.0",
+      "level": 2,
+      "start_line": 556
+    },
+    {
+      "anchor": "iht-2-25-0-tk-j0-tk-j0-1-t0-tk0",
+      "end_line": 559,
+      "heading": "Iht(2)=25.0*(Tk(J0)+Tk(J0+1))/T0/Tk0",
+      "level": 2,
+      "start_line": 558
+    },
+    {
+      "anchor": "y-1-tk-j0",
+      "end_line": 561,
+      "heading": "Y（1）=Tk（J0）",
+      "level": 2,
+      "start_line": 560
+    },
+    {
+      "anchor": "y-2-tk-j0-1",
+      "end_line": 563,
+      "heading": "Y(2) = Tk(J0+1)",
+      "level": 2,
+      "start_line": 562
+    },
+    {
+      "anchor": "do-411-ii-3-jtemp",
+      "end_line": 565,
+      "heading": "Do 411 Ii=3, Jtemp",
+      "level": 2,
+      "start_line": 564
+    },
+    {
+      "anchor": "y-ii-tk-i1-j0-1",
+      "end_line": 569,
+      "heading": "Y（Ii）=Tk（I1+J0-1）",
+      "level": 2,
+      "start_line": 566
+    },
+    {
+      "anchor": "411-continue",
+      "end_line": 571,
+      "heading": "411 CONTINUE",
+      "level": 2,
+      "start_line": 570
+    },
+    {
+      "anchor": "do-421-i-jo-nt",
+      "end_line": 573,
+      "heading": "Do 421 I=Jo,Nt",
+      "level": 2,
+      "start_line": 572
+    },
+    {
+      "anchor": "jk-i-jo-1",
+      "end_line": 575,
+      "heading": "Jk=I-Jo+1",
+      "level": 2,
+      "start_line": 574
+    },
+    {
+      "anchor": "tn-jk-tp-i-to",
+      "end_line": 577,
+      "heading": "Tn(Jk) = Tp(I) - To",
+      "level": 2,
+      "start_line": 576
+    },
+    {
+      "anchor": "tkn-jk-tk-i",
+      "end_line": 579,
+      "heading": "Tkn(Jk) = Tk(I)",
+      "level": 2,
+      "start_line": 578
+    },
+    {
+      "anchor": "421-continue",
+      "end_line": 581,
+      "heading": "421 CONTINUE",
+      "level": 2,
+      "start_line": 580
+    },
+    {
+      "anchor": "call-thermy-tht-tn-xt-xta-xtb-xtc-j1-jtemp-i-o-i-o-i00",
+      "end_line": 583,
+      "heading": "Call Thermy(Tht,Tn,Xt,Xta,Xtb,Xtc,J1,Jtemp,I.O,I.O,I00)",
+      "level": 2,
+      "start_line": 582
+    },
+    {
+      "anchor": "print-9271",
+      "end_line": 585,
+      "heading": "Print 9271",
+      "level": 2,
+      "start_line": 584
+    },
+    {
+      "anchor": "print-9001-jo",
+      "end_line": 587,
+      "heading": "Print 9001,Jo",
+      "level": 2,
+      "start_line": 586
+    },
+    {
+      "anchor": "do-431-jk-1-jtemp",
+      "end_line": 589,
+      "heading": "Do 431 Jk=1,Jtemp",
+      "level": 2,
+      "start_line": 588
+    },
+    {
+      "anchor": "print",
+      "end_line": 591,
+      "heading": "Print",
+      "level": 2,
+      "start_line": 590
+    },
+    {
+      "anchor": "tinue",
+      "end_line": 593,
+      "heading": "Tinue",
+      "level": 2,
+      "start_line": 592
+    },
+    {
+      "anchor": "431-continue",
+      "end_line": 595,
+      "heading": "431 CONTINUE",
+      "level": 2,
+      "start_line": 594
+    },
+    {
+      "anchor": "do-581-j-1-nz",
+      "end_line": 597,
+      "heading": "Do 581 J=1,Nz",
+      "level": 2,
+      "start_line": 596
+    },
+    {
+      "anchor": "do-571-i-1-nr",
+      "end_line": 599,
+      "heading": "Do 571 I=1,Nr",
+      "level": 2,
+      "start_line": 598
+    },
+    {
+      "anchor": "theta-i-j-ao-rad-2-u-i-j-tko",
+      "end_line": 601,
+      "heading": "Theta(I,J) = Ao*Rad**2*U(I,J)/Tko",
+      "level": 2,
+      "start_line": 600
+    },
+    {
+      "anchor": "mt-0",
+      "end_line": 605,
+      "heading": "Mt=0",
+      "level": 2,
+      "start_line": 602
+    },
+    {
+      "anchor": "if-theta-i-j-tht-mt-461-561-451",
+      "end_line": 607,
+      "heading": "If(Theta(I,J)-Tht(Mt))461,561,451",
+      "level": 2,
+      "start_line": 606
+    },
+    {
+      "anchor": "461-if-mt-1-471-471-491",
+      "end_line": 609,
+      "heading": "461 IF(MT-1)471,471,491",
+      "level": 2,
+      "start_line": 608
+    },
+    {
+      "anchor": "471-temp-theta-i-j-tht-mt",
+      "end_line": 611,
+      "heading": "471 Temp=Theta(I,J)-Tht(Mt)",
+      "level": 2,
+      "start_line": 610
+    },
+    {
+      "anchor": "if-temp-0-003-481-561-561",
+      "end_line": 613,
+      "heading": "If(Temp+0.003)481,561,561",
+      "level": 2,
+      "start_line": 612
+    },
+    {
+      "anchor": "481-print-9371-i-j-temp",
+      "end_line": 615,
+      "heading": "481 PRINT 9371,I,J,TEMP",
+      "level": 2,
+      "start_line": 614
+    },
+    {
+      "anchor": "go-to-301",
+      "end_line": 617,
+      "heading": "Go To 301",
+      "level": 2,
+      "start_line": 616
+    },
+    {
+      "anchor": "491-if-mt-jtemp-501-571-571",
+      "end_line": 619,
+      "heading": "491 IF(MT-JTEMP)501,571,571",
+      "level": 2,
+      "start_line": 618
+    },
+    {
+      "anchor": "501-nit-mt-1",
+      "end_line": 621,
+      "heading": "501 Nit=Mt-1",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "t-i-j-xta-nit-iheta-i-j-xib-nit-theta-1-3-xgnt",
+      "end_line": 623,
+      "heading": "T(I,J)=Xta(Nit)+Iheta(I,J)*(Xib(Nit)+Theta(1,3)-Xgnt)",
+      "level": 2,
+      "start_line": 622
+    },
+    {
+      "anchor": "go-to-571",
+      "end_line": 627,
+      "heading": "Go To 571",
+      "level": 2,
+      "start_line": 624
+    },
+    {
+      "anchor": "561-t1",
+      "end_line": 629,
+      "heading": "561 T1,",
+      "level": 2,
+      "start_line": 628
+    },
+    {
+      "anchor": "571-continue",
+      "end_line": 631,
+      "heading": "571 CONTINUE",
+      "level": 2,
+      "start_line": 630
+    },
+    {
+      "anchor": "581-continue",
+      "end_line": 635,
+      "heading": "581 CONTINUE",
+      "level": 2,
+      "start_line": 632
+    },
+    {
+      "anchor": "tmax-0-0",
+      "end_line": 639,
+      "heading": "Tmax=0.0",
+      "level": 2,
+      "start_line": 636
+    },
+    {
+      "anchor": "if-j-nz-611-611-641",
+      "end_line": 641,
+      "heading": "If(J-Nz)611,611,641",
+      "level": 2,
+      "start_line": 640
+    },
+    {
+      "anchor": "611-if-tmax-t-1-j-621-621-601",
+      "end_line": 645,
+      "heading": "611 IF(TMAX-T(1,J))621,621,601",
+      "level": 2,
+      "start_line": 642
+    },
+    {
+      "anchor": "631-go-to-601",
+      "end_line": 647,
+      "heading": "631. GO TO 601",
+      "level": 2,
+      "start_line": 646
+    },
+    {
+      "anchor": "641-if-tmax-10-0-651-661-661",
+      "end_line": 649,
+      "heading": "641 If(Tmax-10.0)651,661,661",
+      "level": 2,
+      "start_line": 648
+    },
+    {
+      "anchor": "651-ifmt-3",
+      "end_line": 651,
+      "heading": "651 Ifmt=3",
+      "level": 2,
+      "start_line": 650
+    },
+    {
+      "anchor": "go-to-691",
+      "end_line": 653,
+      "heading": "Go To 691",
+      "level": 2,
+      "start_line": 652
+    },
+    {
+      "anchor": "661if-tmax-100-0-671-681-681",
+      "end_line": 655,
+      "heading": "661If(Tmax-100.0)671,681,681",
+      "level": 2,
+      "start_line": 654
+    },
+    {
+      "anchor": "671-ifmt-2",
+      "end_line": 657,
+      "heading": "671 Ifmt=2",
+      "level": 2,
+      "start_line": 656
+    },
+    {
+      "anchor": "go-to-691",
+      "end_line": 659,
+      "heading": "Go To 691",
+      "level": 2,
+      "start_line": 658
+    },
+    {
+      "anchor": "681-ifmt-1",
+      "end_line": 661,
+      "heading": "681 Ifmt=1",
+      "level": 2,
+      "start_line": 660
+    },
+    {
+      "anchor": "691-continue",
+      "end_line": 663,
+      "heading": "691 CONTINUE",
+      "level": 2,
+      "start_line": 662
+    },
+    {
+      "anchor": "print-9201-dia-a-hunit1-hunit2-hunit3-to-tru",
+      "end_line": 665,
+      "heading": "Print 9201, Dia, A, Hunit1, Hunit2, Hunit3, To, Tru",
+      "level": 2,
+      "start_line": 664
+    },
+    {
+      "anchor": "print-9211",
+      "end_line": 667,
+      "heading": "Print 9211",
+      "level": 2,
+      "start_line": 666
+    },
+    {
+      "anchor": "go-to-701-721-741-ifmt",
+      "end_line": 669,
+      "heading": "Go To (701,721,741),Ifmt",
+      "level": 2,
+      "start_line": 668
+    },
+    {
+      "anchor": "701-00-711-ll-1-nz",
+      "end_line": 671,
+      "heading": "701 00 711 Ll=1,Nz",
+      "level": 2,
+      "start_line": 670
+    },
+    {
+      "anchor": "print-9231-z-ll-t-j-ll-j-1-nr",
+      "end_line": 673,
+      "heading": "Print 9231,(Z(Ll),(T(J,Ll),J=1,Nr))",
+      "level": 2,
+      "start_line": 672
+    },
+    {
+      "anchor": "711-continue",
+      "end_line": 675,
+      "heading": "711 CONTINUE",
+      "level": 2,
+      "start_line": 674
+    },
+    {
+      "anchor": "go-to-761",
+      "end_line": 678,
+      "heading": "Go To 761",
+      "level": 2,
+      "start_line": 676
+    },
+    {
+      "anchor": "721-do-731-ll-1-nz-print9401-z-ll-t-j-ll-j-1-nr",
+      "end_line": 679,
+      "heading": "721 Do 731 Ll=1,Nz Print9401,(Z(Ll),(T(J,Ll),J=1,Nr))",
+      "level": 2,
+      "start_line": 679
+    },
+    {
+      "anchor": "731-continue-go-to-761",
+      "end_line": 680,
+      "heading": "731 CONTINUE GO TO 761",
+      "level": 2,
+      "start_line": 680
+    },
+    {
+      "anchor": "741-do-751-ll-1-nz-print9411-z-ll-t-j-ll-j-1-nr",
+      "end_line": 681,
+      "heading": "741 Do 751 Ll=1,Nz Print9411,(Z(Ll),(T(J,Ll),J=1,Nr))",
+      "level": 2,
+      "start_line": 681
+    },
+    {
+      "anchor": "751-continue",
+      "end_line": 682,
+      "heading": "751 CONTINUE",
+      "level": 2,
+      "start_line": 682
+    },
+    {
+      "anchor": "761-continue-print9301-to-a-hunit1-hunit2-hunit3-to-tko-print9211",
+      "end_line": 683,
+      "heading": "761 CONTINUE PRINT9301,TO,A,HUNIT1,HUNIT2,HUNIT3,TO,TKO PRINT9211",
+      "level": 2,
+      "start_line": 683
+    },
+    {
+      "anchor": "do811ll-1-nz-print9311-z-ll-theta-j-ll-j-1-nr",
+      "end_line": 684,
+      "heading": "Do811Ll=1,Nz Print9311,(Z(Ll),(Theta(J,Ll),J=1,Nr))",
+      "level": 2,
+      "start_line": 684
+    },
+    {
+      "anchor": "811-continue-if-tint-831-821-831",
+      "end_line": 685,
+      "heading": "811 CONTINUE IF(TINT)831,821,831",
+      "level": 2,
+      "start_line": 685
+    },
+    {
+      "anchor": "821-print9131",
+      "end_line": 686,
+      "heading": "821 PRINT9131",
+      "level": 2,
+      "start_line": 686
+    },
+    {
+      "anchor": "go-to-4001",
+      "end_line": 687,
+      "heading": "Go To 4001",
+      "level": 2,
+      "start_line": 687
+    },
+    {
+      "anchor": "831-do851j-1-nz-if-t-1-j-tint-50-0-851-851-841",
+      "end_line": 688,
+      "heading": "831 Do851J=1,Nz If(T(1,J)/Tint-50.0)851,851,841",
+      "level": 2,
+      "start_line": 688
+    },
+    {
+      "anchor": "841-print9141",
+      "end_line": 689,
+      "heading": "841 PRINT9141",
+      "level": 2,
+      "start_line": 689
+    },
+    {
+      "anchor": "go-to-4001",
+      "end_line": 690,
+      "heading": "Go To 4001",
+      "level": 2,
+      "start_line": 690
+    },
+    {
+      "anchor": "851-continue",
+      "end_line": 691,
+      "heading": "851 CONTINUE",
+      "level": 2,
+      "start_line": 691
+    },
+    {
+      "anchor": "do871l-1-50-iprint-l-0-do861ir-1-20-lcount-ir-l-o",
+      "end_line": 692,
+      "heading": "Do871L=1,50 Iprint(L)=0 Do861Ir=1,20 Lcount(Ir,L)=O",
+      "level": 2,
+      "start_line": 692
+    },
+    {
+      "anchor": "861-continue",
+      "end_line": 693,
+      "heading": "861 CONTINUE",
+      "level": 2,
+      "start_line": 693
+    },
+    {
+      "anchor": "871-continue-nl-0-do2801i-1-nr-l-1-tcheck-tint-j-0",
+      "end_line": 694,
+      "heading": "871 Continue Nl=0 Do2801I=1,Nr L=1 Tcheck=Tint J=0",
+      "level": 2,
+      "start_line": 694
+    },
+    {
+      "anchor": "1001-j-j-1-if-j-nz-2-io11-io11-2801",
+      "end_line": 695,
+      "heading": "1001 J=J+1 If(J-Nz+2)Io11,Io11,2801",
+      "level": 2,
+      "start_line": 695
+    },
+    {
+      "anchor": "1011-temp-t-i-j-tcheck-if-abs-temp-0-05-io21-io21-io31",
+      "end_line": 696,
+      "heading": "1011 Temp=T(I,J)-Tcheck If(Abs(Temp)-0.05)Io21,Io21,Io31",
+      "level": 2,
+      "start_line": 696
+    },
+    {
+      "anchor": "1021-zcalc-i-l-z-j",
+      "end_line": 697,
+      "heading": "1021 Zcalc(I,L)=Z(J)",
+      "level": 2,
+      "start_line": 697
+    },
+    {
+      "anchor": "gu-to-1761",
+      "end_line": 698,
+      "heading": "Gu To 1761",
+      "level": 2,
+      "start_line": 698
+    },
+    {
+      "anchor": "1031-if-temp-ioool-ool-o4i",
+      "end_line": 700,
+      "heading": "1031 IF(TEMP)IOOOL,OOL,O4I",
+      "level": 2,
+      "start_line": 699
+    },
+    {
+      "anchor": "1051-if-t-i-k2-i-t-i-k2-io7i-io7i-io6i",
+      "end_line": 702,
+      "heading": "1051 If(T(I,K2+I)-T(I,K2))-Io7I,Io7I,Io6I",
+      "level": 2,
+      "start_line": 701
+    },
+    {
+      "anchor": "go-to-114i",
+      "end_line": 705,
+      "heading": "Go To 114I",
+      "level": 2,
+      "start_line": 703
+    },
+    {
+      "anchor": "115i-dzdt-i-l-conb-2-o-root-zt-cona-root",
+      "end_line": 706,
+      "heading": "115I Dzdt(I,L)=Conb/2.O/Root Zt=Cona+Root",
+      "level": 2,
+      "start_line": 706
+    },
+    {
+      "anchor": "goto-117i",
+      "end_line": 707,
+      "heading": "Goto 117I",
+      "level": 2,
+      "start_line": 707
+    },
+    {
+      "anchor": "116i-dzdt-i-l-conb-2-o-root-zt-cona-root",
+      "end_line": 711,
+      "heading": "116I Dzdt(I,L)=-Conb/2.O/Root Zt=Cona-Root",
+      "level": 2,
+      "start_line": 708
+    },
+    {
+      "anchor": "1171-savez-1-zt",
+      "end_line": 712,
+      "heading": "1171 Savez(1)=Zt",
+      "level": 2,
+      "start_line": 712
+    },
+    {
+      "anchor": "lcount-i-l-0",
+      "end_line": 713,
+      "heading": "Lcount(I,L)=0",
+      "level": 2,
+      "start_line": 713
+    },
+    {
+      "anchor": "1501-lcount-i-l-lcount-i-l-1",
+      "end_line": 714,
+      "heading": "1501 Lcount(I,L)=Lcount(I,L)+1",
+      "level": 2,
+      "start_line": 714
+    },
+    {
+      "anchor": "if-lcount-i-l-10-1511-1511-2001",
+      "end_line": 715,
+      "heading": "If(Lcount(I,L)-10,1511,1511,2001",
+      "level": 2,
+      "start_line": 715
+    },
+    {
+      "anchor": "1511-sum-0-0",
+      "end_line": 716,
+      "heading": "1511 Sum=0.0",
+      "level": 2,
+      "start_line": 716
+    },
+    {
+      "anchor": "sumd-0-0",
+      "end_line": 717,
+      "heading": "Sumd=0.0",
+      "level": 2,
+      "start_line": 717
+    },
+    {
+      "anchor": "do-1601-m-1-nom",
+      "end_line": 718,
+      "heading": "Do 1601 M=1,Nom",
+      "level": 2,
+      "start_line": 718
+    },
+    {
+      "anchor": "arg1-q4-m-r-i",
+      "end_line": 719,
+      "heading": "Arg1=Q4(M)*R(I)",
+      "level": 2,
+      "start_line": 719
+    },
+    {
+      "anchor": "arg2-q5-m",
+      "end_line": 720,
+      "heading": "Arg2=Q5(M)",
+      "level": 2,
+      "start_line": 720
+    },
+    {
+      "anchor": "vio2-q6-m",
+      "end_line": 721,
+      "heading": "Vio2=Q6(M)",
+      "level": 2,
+      "start_line": 721
+    },
+    {
+      "anchor": "if-arg1-1531-1521-1531",
+      "end_line": 722,
+      "heading": "If(Arg1)1531,1521,1531",
+      "level": 2,
+      "start_line": 722
+    },
+    {
+      "anchor": "viol-1-0",
+      "end_line": 723,
+      "heading": "Viol=1.0",
+      "level": 2,
+      "start_line": 723
+    },
+    {
+      "anchor": "go-to-1561",
+      "end_line": 724,
+      "heading": "Go To 1561",
+      "level": 2,
+      "start_line": 724
+    },
+    {
+      "anchor": "if-arg1-arg2-1551-1541-1551",
+      "end_line": 725,
+      "heading": "If(Arg1-Arg2)1551,1541,1551",
+      "level": 2,
+      "start_line": 725
+    },
+    {
+      "anchor": "viol-vi02",
+      "end_line": 726,
+      "heading": "Viol=Vi02",
+      "level": 2,
+      "start_line": 726
+    },
+    {
+      "anchor": "go-to-1561",
+      "end_line": 727,
+      "heading": "Go To 1561",
+      "level": 2,
+      "start_line": 727
+    },
+    {
+      "anchor": "vioi-q7-m-i",
+      "end_line": 728,
+      "heading": "Vioi=Q7(M,I)",
+      "level": 2,
+      "start_line": 728
+    },
+    {
+      "anchor": "arg3-q4-m-zt",
+      "end_line": 729,
+      "heading": "Arg3=Q4(M)*Zt",
+      "level": 2,
+      "start_line": 729
+    },
+    {
+      "anchor": "if-abs-arg3-1-0e15-1571-301-301",
+      "end_line": 730,
+      "heading": "If(Abs(Arg3)-1.0E15)1571,301,301",
+      "level": 2,
+      "start_line": 730
+    },
+    {
+      "anchor": "sum-sum-viol-sin-arg3-q3-m-vi02",
+      "end_line": 731,
+      "heading": "Sum=Sum+Viol*Sin(Arg3)/Q3(M)/Vi02",
+      "level": 2,
+      "start_line": 731
+    },
+    {
+      "anchor": "sumd-sumd-viol-cos-arg3-q2-m-vi02",
+      "end_line": 732,
+      "heading": "Sumd=Sumd+Viol*Cos(Arg3)/Q2(M)/Vi02",
+      "level": 2,
+      "start_line": 732
+    },
+    {
+      "anchor": "continue",
+      "end_line": 733,
+      "heading": "Continue",
+      "level": 2,
+      "start_line": 733
+    },
+    {
+      "anchor": "thetac-i-l-con2-zt-z-nz-zt-0-5-con1-sum",
+      "end_line": 734,
+      "heading": "Thetac(I,L)=Con2*(Zt*(Z(Nz)-Zt)*0.5-Con1*Sum)",
+      "level": 2,
+      "start_line": 734
+    },
+    {
+      "anchor": "mt-0",
+      "end_line": 735,
+      "heading": "Mt=0",
+      "level": 2,
+      "start_line": 735
+    },
+    {
+      "anchor": "mt-mt-1",
+      "end_line": 736,
+      "heading": "Mt=Mt+1",
+      "level": 2,
+      "start_line": 736
+    },
+    {
+      "anchor": "if-thetac-i-l-tht-m-1661-1701-1651",
+      "end_line": 737,
+      "heading": "If(Thetac(I,L)-Tht(M))1661,1701,1651",
+      "level": 2,
+      "start_line": 737
+    },
+    {
+      "anchor": "if-mt-1-301-301-1681",
+      "end_line": 738,
+      "heading": "If(Mt-1)301,301,1681",
+      "level": 2,
+      "start_line": 738
+    },
+    {
+      "anchor": "if-mt-jtemp-1691-1781-1781",
+      "end_line": 739,
+      "heading": "If(Mt-Jtemp)1691,1781,1781",
+      "level": 2,
+      "start_line": 739
+    },
+    {
+      "anchor": "nit-mt-1",
+      "end_line": 740,
+      "heading": "Nit=Mt-1",
+      "level": 2,
+      "start_line": 740
+    },
+    {
+      "anchor": "tcalc-i-l-xta-nit-thetac-i-l-xtb-nit-thetac-i-l-xtc-nit",
+      "end_line": 741,
+      "heading": "Tcalc(I,L)=Xta(Nit)+Thetac(I,L)*(Xtb(Nit)+Thetac(I,L))*Xtc(Nit))",
+      "level": 2,
+      "start_line": 741
+    },
+    {
+      "anchor": "go-to-1711",
+      "end_line": 742,
+      "heading": "Go To 1711",
+      "level": 2,
+      "start_line": 742
+    },
+    {
+      "anchor": "tcalc-i-l-tn-mt",
+      "end_line": 743,
+      "heading": "Tcalc(I,L)=Tn(Mt)",
+      "level": 2,
+      "start_line": 743
+    },
+    {
+      "anchor": "temp-tcalc-i-l-tcheck",
+      "end_line": 744,
+      "heading": "Temp=Tcalc(I,L)-Tcheck",
+      "level": 2,
+      "start_line": 744
+    },
+    {
+      "anchor": "if-abs-temp-0-05-1751-1751-1721",
+      "end_line": 745,
+      "heading": "If(Abs(Temp)-0.05)1751,1751,1721",
+      "level": 2,
+      "start_line": 745
+    },
+    {
+      "anchor": "zt-zt-temp-dzdt-i-l",
+      "end_line": 746,
+      "heading": "Zt=Zt-Temp*Dzdt(I,L)",
+      "level": 2,
+      "start_line": 746
+    },
+    {
+      "anchor": "kk-lcount-i-l",
+      "end_line": 747,
+      "heading": "Kk=Lcount(I,L)",
+      "level": 2,
+      "start_line": 747
+    },
+    {
+      "anchor": "savez-kk-1-zt",
+      "end_line": 748,
+      "heading": "Savez(Kk+1)=Zt",
+      "level": 2,
+      "start_line": 748
+    },
+    {
+      "anchor": "go-to-1501",
+      "end_line": 749,
+      "heading": "Go To 1501",
+      "level": 2,
+      "start_line": 749
+    },
+    {
+      "anchor": "zcalc-i-l-zt",
+      "end_line": 750,
+      "heading": "Zcalc(I,L)=Zt",
+      "level": 2,
+      "start_line": 750
+    },
+    {
+      "anchor": "tt-l-l-tint",
+      "end_line": 751,
+      "heading": "Tt(L)=L*Tint",
+      "level": 2,
+      "start_line": 751
+    },
+    {
+      "anchor": "iprt-l-iprt-l-1",
+      "end_line": 752,
+      "heading": "Iprt(L)=Iprt(L)+1",
+      "level": 2,
+      "start_line": 752
+    },
+    {
+      "anchor": "if-iprt-l-17-1781-1781-1771",
+      "end_line": 753,
+      "heading": "If(Iprt(L)-17)1781,1781,1771",
+      "level": 2,
+      "start_line": 753
+    },
+    {
+      "anchor": "print-9151-l",
+      "end_line": 754,
+      "heading": "Print 9151,L",
+      "level": 2,
+      "start_line": 754
+    },
+    {
+      "anchor": "go-to-4001",
+      "end_line": 755,
+      "heading": "Go To 4001",
+      "level": 2,
+      "start_line": 755
+    },
+    {
+      "anchor": "tcheck-tcheck-tint",
+      "end_line": 756,
+      "heading": "Tcheck=Tcheck+Tint",
+      "level": 2,
+      "start_line": 756
+    },
+    {
+      "anchor": "if-l-nl-1801-1801-1791",
+      "end_line": 757,
+      "heading": "If(L-Nl)1801,1801,1791",
+      "level": 2,
+      "start_line": 757
+    },
+    {
+      "anchor": "nl-l",
+      "end_line": 758,
+      "heading": "Nl=L",
+      "level": 2,
+      "start_line": 758
+    },
+    {
+      "anchor": "l-l-1",
+      "end_line": 759,
+      "heading": "L=L+1",
+      "level": 2,
+      "start_line": 759
+    },
+    {
+      "anchor": "go-to-1011",
+      "end_line": 761,
+      "heading": "Go To 1011",
+      "level": 2,
+      "start_line": 760
+    },
+    {
+      "anchor": "zmax-z-k2",
+      "end_line": 762,
+      "heading": "Zmax=Z(K2)",
+      "level": 2,
+      "start_line": 762
+    },
+    {
+      "anchor": "zi-0-5-zmin-zmax",
+      "end_line": 763,
+      "heading": "Zi=0.5*(Zmin+Zmax)",
+      "level": 2,
+      "start_line": 763
+    },
+    {
+      "anchor": "sum-0-0",
+      "end_line": 764,
+      "heading": "Sum=0.0",
+      "level": 2,
+      "start_line": 764
+    },
+    {
+      "anchor": "sumd-0-0",
+      "end_line": 765,
+      "heading": "Sumd=0.0",
+      "level": 2,
+      "start_line": 765
+    },
+    {
+      "anchor": "do-2101-m-1-nom",
+      "end_line": 766,
+      "heading": "Do 2101 M=1,Nom",
+      "level": 2,
+      "start_line": 766
+    },
+    {
+      "anchor": "arg1-q4-m-r-i",
+      "end_line": 767,
+      "heading": "Arg1=Q4(M)*R(I)",
+      "level": 2,
+      "start_line": 767
+    },
+    {
+      "anchor": "arg2-q5-m",
+      "end_line": 768,
+      "heading": "Arg2=Q5(M)",
+      "level": 2,
+      "start_line": 768
+    },
+    {
+      "anchor": "vio2-q6-m",
+      "end_line": 769,
+      "heading": "Vio2=Q6(M)",
+      "level": 2,
+      "start_line": 769
+    },
+    {
+      "anchor": "if-arg1-2031-2021-2031",
+      "end_line": 770,
+      "heading": "If(Arg1)2031,2021,2031",
+      "level": 2,
+      "start_line": 770
+    },
+    {
+      "anchor": "vioi-1-0",
+      "end_line": 771,
+      "heading": "Vioi=1.0",
+      "level": 2,
+      "start_line": 771
+    },
+    {
+      "anchor": "go-to-2061",
+      "end_line": 775,
+      "heading": "Go To 2061",
+      "level": 2,
+      "start_line": 772
+    },
+    {
+      "anchor": "2031-if-arg1-arg2-2051-2041-2051",
+      "end_line": 776,
+      "heading": "2031 IF(ARG1-ARG2)2051,2041,2051",
+      "level": 2,
+      "start_line": 776
+    },
+    {
+      "anchor": "2041-viol-vi02",
+      "end_line": 777,
+      "heading": "2041 Viol=Vi02",
+      "level": 2,
+      "start_line": 777
+    },
+    {
+      "anchor": "go-to-2061",
+      "end_line": 778,
+      "heading": "Go To 2061",
+      "level": 2,
+      "start_line": 778
+    },
+    {
+      "anchor": "2051-viol-q7-m-i",
+      "end_line": 779,
+      "heading": "2051 Viol=Q7(M,I)",
+      "level": 2,
+      "start_line": 779
+    },
+    {
+      "anchor": "2061-arg3-q4-m-zt",
+      "end_line": 780,
+      "heading": "2061 Arg3=Q4(M)*Zt",
+      "level": 2,
+      "start_line": 780
+    },
+    {
+      "anchor": "if-abs-arg3-1-0e15-2071-301-301",
+      "end_line": 781,
+      "heading": "If(Abs(Arg3)-1.0E15)2071,301,301",
+      "level": 2,
+      "start_line": 781
+    },
+    {
+      "anchor": "2071-sum-sum-vi01-sin-arg3-q3-m-vi02",
+      "end_line": 782,
+      "heading": "2071 Sum=Sum+Vi01*Sin(Arg3)/Q3(M)/Vi02",
+      "level": 2,
+      "start_line": 782
+    },
+    {
+      "anchor": "2101-continue",
+      "end_line": 783,
+      "heading": "2101 CONTINUE",
+      "level": 2,
+      "start_line": 783
+    },
+    {
+      "anchor": "thetac-i-l-con2-zt-z-nz-zt-0-5-con1-sum",
+      "end_line": 784,
+      "heading": "Thetac(I,L)=Con2*(Zt*(Z(Nz)-Zt)*0.5-Con1*Sum)",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "mt-0",
+      "end_line": 785,
+      "heading": "Mt=0",
+      "level": 2,
+      "start_line": 785
+    },
+    {
+      "anchor": "mt-mt-1",
+      "end_line": 786,
+      "heading": "Mt=Mt+1",
+      "level": 2,
+      "start_line": 786
+    },
+    {
+      "anchor": "if-thetac-i-l-tht-mt-2161-2201-2151",
+      "end_line": 787,
+      "heading": "If(Thetac(I,L)-Tht(Mt))2161,2201,2151",
+      "level": 2,
+      "start_line": 787
+    },
+    {
+      "anchor": "if-mt-1-301-301-2181",
+      "end_line": 788,
+      "heading": "If(Mt-1)301,301,2181",
+      "level": 2,
+      "start_line": 788
+    },
+    {
+      "anchor": "if-mt-jtemp-2191-1781-1781",
+      "end_line": 789,
+      "heading": "If(Mt-Jtemp)2191,1781,1781",
+      "level": 2,
+      "start_line": 789
+    },
+    {
+      "anchor": "nit-mt-1",
+      "end_line": 790,
+      "heading": "Nit=Mt-1",
+      "level": 2,
+      "start_line": 790
+    },
+    {
+      "anchor": "tcalc-i-l-xta-nit-thetac-i-l-xtb-nit-thetac-i-l",
+      "end_line": 791,
+      "heading": "Tcalc(I,L)=Xta(Nit)+Thetac(I,L)*(Xtb(Nit)+Thetac(I,L))*",
+      "level": 2,
+      "start_line": 791
+    },
+    {
+      "anchor": "1-xtc-nit",
+      "end_line": 792,
+      "heading": "1 XTC(NIT))",
+      "level": 2,
+      "start_line": 792
+    },
+    {
+      "anchor": "go-to-2211",
+      "end_line": 793,
+      "heading": "Go To 2211",
+      "level": 2,
+      "start_line": 793
+    },
+    {
+      "anchor": "tcalc-i-l-tn-mt",
+      "end_line": 794,
+      "heading": "Tcalc(I,L)=Tn(Mt)",
+      "level": 2,
+      "start_line": 794
+    },
+    {
+      "anchor": "temp-tcalc-i-l-tcheck",
+      "end_line": 795,
+      "heading": "Temp=Tcalc(I,L)-Tcheck",
+      "level": 2,
+      "start_line": 795
+    },
+    {
+      "anchor": "if-abs-temp-0-05-1751-1751-2221",
+      "end_line": 796,
+      "heading": "If(Abs(Temp)-0.05)1751,1751,2221",
+      "level": 2,
+      "start_line": 796
+    },
+    {
+      "anchor": "if-temp-2241-2231-2231",
+      "end_line": 797,
+      "heading": "If(Temp)2241,2231,2231",
+      "level": 2,
+      "start_line": 797
+    },
+    {
+      "anchor": "zmax-zt",
+      "end_line": 798,
+      "heading": "Zmax=Zt",
+      "level": 2,
+      "start_line": 798
+    },
+    {
+      "anchor": "go-to-2301",
+      "end_line": 799,
+      "heading": "Go To 2301",
+      "level": 2,
+      "start_line": 799
+    },
+    {
+      "anchor": "zmin-zt",
+      "end_line": 800,
+      "heading": "Zmin=Zt",
+      "level": 2,
+      "start_line": 800
+    },
+    {
+      "anchor": "lcount-i-l-lcount-i-l-1",
+      "end_line": 801,
+      "heading": "Lcount(I,L)=Lcount(I,L)+1",
+      "level": 2,
+      "start_line": 801
+    },
+    {
+      "anchor": "if-lcount-i-l-30-2011-2011-2801",
+      "end_line": 802,
+      "heading": "If(Lcount(I,L)-30)2011,2011,2801",
+      "level": 2,
+      "start_line": 802
+    },
+    {
+      "anchor": "2801-continue",
+      "end_line": 803,
+      "heading": "2801 CONTINUE",
+      "level": 2,
+      "start_line": 803
+    },
+    {
+      "anchor": "print-9241",
+      "end_line": 804,
+      "heading": "Print 9241",
+      "level": 2,
+      "start_line": 804
+    },
+    {
+      "anchor": "print-9221",
+      "end_line": 805,
+      "heading": "Print 9221",
+      "level": 2,
+      "start_line": 805
+    },
+    {
+      "anchor": "do-3021-ll-1-nl",
+      "end_line": 806,
+      "heading": "Do 3021 Ll=1,Nl",
+      "level": 2,
+      "start_line": 806
+    },
+    {
+      "anchor": "na-iprnt-ll",
+      "end_line": 807,
+      "heading": "Na=Iprnt(Ll)",
+      "level": 2,
+      "start_line": 807
+    },
+    {
+      "anchor": "print-9251-tt-ll-zcalc-j-ll-j-1-na",
+      "end_line": 808,
+      "heading": "Print 9251,(Tt(Ll),(Zcalc(J,Ll),J=1,Na))",
+      "level": 2,
+      "start_line": 808
+    },
+    {
+      "anchor": "3021-continue",
+      "end_line": 809,
+      "heading": "3021 CONTINUE",
+      "level": 2,
+      "start_line": 809
+    },
+    {
+      "anchor": "print-9271",
+      "end_line": 810,
+      "heading": "Print 9271",
+      "level": 2,
+      "start_line": 810
+    },
+    {
+      "anchor": "do-3031-ll-1-nl",
+      "end_line": 811,
+      "heading": "Do 3031 Ll=1,Nl",
+      "level": 2,
+      "start_line": 811
+    },
+    {
+      "anchor": "na-iprnt-ll",
+      "end_line": 812,
+      "heading": "Na=Iprnt(Ll)",
+      "level": 2,
+      "start_line": 812
+    },
+    {
+      "anchor": "print-9261-lcount-j-ll-j-1-na",
+      "end_line": 813,
+      "heading": "Print 9261,(Lcount(J,Ll),J=1,Na)",
+      "level": 2,
+      "start_line": 813
+    },
+    {
+      "anchor": "3031-continue",
+      "end_line": 814,
+      "heading": "3031 CONTINUE",
+      "level": 2,
+      "start_line": 814
+    },
+    {
+      "anchor": "dtime-iclockf-dummy-intime-1-0-60-0",
+      "end_line": 815,
+      "heading": "Dtime=(Iclockf(Dummy)-Intime)*1.0/60.0",
+      "level": 2,
+      "start_line": 815
+    },
+    {
+      "anchor": "print-9281-dtime",
+      "end_line": 816,
+      "heading": "Print 9281,Dtime",
+      "level": 2,
+      "start_line": 816
+    },
+    {
+      "anchor": "go-to-301",
+      "end_line": 817,
+      "heading": "Go To 301",
+      "level": 2,
+      "start_line": 817
+    },
+    {
+      "anchor": "4001-call-exit",
+      "end_line": 823,
+      "heading": "4001 CALL EXIT",
+      "level": 2,
+      "start_line": 818
+    },
+    {
+      "anchor": "101-if-xo-x-1-121-131-141",
+      "end_line": 824,
+      "heading": "101 IF(XO-X(1))121,131,141",
+      "level": 2,
+      "start_line": 824
+    },
+    {
+      "anchor": "121-print-701",
+      "end_line": 825,
+      "heading": "121 PRINT 701",
+      "level": 2,
+      "start_line": 825
+    },
+    {
+      "anchor": "go-to-901",
+      "end_line": 826,
+      "heading": "Go To 901",
+      "level": 2,
+      "start_line": 826
+    },
+    {
+      "anchor": "131-yo-y-1",
+      "end_line": 827,
+      "heading": "131 Yo=Y(1)",
+      "level": 2,
+      "start_line": 827
+    },
+    {
+      "anchor": "go-to-301",
+      "end_line": 828,
+      "heading": "Go To 301",
+      "level": 2,
+      "start_line": 828
+    },
+    {
+      "anchor": "141-i-1",
+      "end_line": 829,
+      "heading": "141 I=1",
+      "level": 2,
+      "start_line": 829
+    },
+    {
+      "anchor": "151-i-i-1",
+      "end_line": 830,
+      "heading": "151 I=I+1",
+      "level": 2,
+      "start_line": 830
+    },
+    {
+      "anchor": "if-i-nt-171-171-161",
+      "end_line": 831,
+      "heading": "If(I-Nt)171,171,161",
+      "level": 2,
+      "start_line": 831
+    },
+    {
+      "anchor": "161-print-711",
+      "end_line": 832,
+      "heading": "161 PRINT 711",
+      "level": 2,
+      "start_line": 832
+    },
+    {
+      "anchor": "go-to-901",
+      "end_line": 833,
+      "heading": "Go To 901",
+      "level": 2,
+      "start_line": 833
+    },
+    {
+      "anchor": "171-if-xo-x-i-191-181-151",
+      "end_line": 834,
+      "heading": "171 IF(XO-X(I))191,181,151",
+      "level": 2,
+      "start_line": 834
+    },
+    {
+      "anchor": "yo-y-i",
+      "end_line": 835,
+      "heading": "Yo=Y(I)",
+      "level": 2,
+      "start_line": 835
+    },
+    {
+      "anchor": "go-to-301",
+      "end_line": 836,
+      "heading": "Go To 301",
+      "level": 2,
+      "start_line": 836
+    },
+    {
+      "anchor": "191-if-i-nt-201-211-211",
+      "end_line": 837,
+      "heading": "191 IF(I-NT)201,211,211",
+      "level": 2,
+      "start_line": 837
+    },
+    {
+      "anchor": "j1-i-1",
+      "end_line": 838,
+      "heading": "J1=I-1",
+      "level": 2,
+      "start_line": 838
+    },
+    {
+      "anchor": "j2-i",
+      "end_line": 839,
+      "heading": "J2=I",
+      "level": 2,
+      "start_line": 839
+    },
+    {
+      "anchor": "j3-i-1",
+      "end_line": 840,
+      "heading": "J3=I+1",
+      "level": 2,
+      "start_line": 840
+    },
+    {
+      "anchor": "go-to-221",
+      "end_line": 841,
+      "heading": "Go To 221",
+      "level": 2,
+      "start_line": 841
+    },
+    {
+      "anchor": "211-j1-i-2",
+      "end_line": 842,
+      "heading": "211 J1=I-2",
+      "level": 2,
+      "start_line": 842
+    },
+    {
+      "anchor": "j2-i-1",
+      "end_line": 843,
+      "heading": "J2=I-1",
+      "level": 2,
+      "start_line": 843
+    },
+    {
+      "anchor": "j3-i",
+      "end_line": 845,
+      "heading": "J3=I",
+      "level": 2,
+      "start_line": 844
+    },
+    {
+      "anchor": "1-y-j1-x-j3-x-j3-y-j3-x-j1-x-j1",
+      "end_line": 847,
+      "heading": "1 -Y(J1)*X(J3)*X(J3)+Y(J3)*X(J1)*X(J1)",
+      "level": 2,
+      "start_line": 846
+    },
+    {
+      "anchor": "1-y-j2-x-j1-y-j1-x-j2-deltayo-ca-x0-cb-x0-cc",
+      "end_line": 848,
+      "heading": "1 +Y(J2)*X(J1)-Y(J1)*X(J2))/Deltayo=Ca+X0*Cb+X0*Cc)",
+      "level": 2,
+      "start_line": 848
+    },
+    {
+      "anchor": "301-do-311-l-i-ntw-l-y-l-yo",
+      "end_line": 849,
+      "heading": "301 Do 311 L=I,Ntw(L)=Y(L)/Yo",
+      "level": 2,
+      "start_line": 849
+    },
+    {
+      "anchor": "311-continuedo-401-j-i-ntempif-j-ntemp-331-341-341",
+      "end_line": 850,
+      "heading": "311 Continuedo 401 J=I,Ntempif(J-Ntemp)331,341,341",
+      "level": 2,
+      "start_line": 850
+    },
+    {
+      "anchor": "331-i-j",
+      "end_line": 851,
+      "heading": "331 I=J",
+      "level": 2,
+      "start_line": 851
+    },
+    {
+      "anchor": "i2-j-1",
+      "end_line": 852,
+      "heading": "I2=J+1",
+      "level": 2,
+      "start_line": 852
+    },
+    {
+      "anchor": "i3-j-2",
+      "end_line": 853,
+      "heading": "I3=J+2",
+      "level": 2,
+      "start_line": 853
+    },
+    {
+      "anchor": "go-to-351",
+      "end_line": 854,
+      "heading": "Go To 351",
+      "level": 2,
+      "start_line": 854
+    },
+    {
+      "anchor": "341-i-j-1",
+      "end_line": 855,
+      "heading": "341 I=J-1",
+      "level": 2,
+      "start_line": 855
+    },
+    {
+      "anchor": "i2-j",
+      "end_line": 856,
+      "heading": "I2=J",
+      "level": 2,
+      "start_line": 856
+    },
+    {
+      "anchor": "i3-j-1",
+      "end_line": 858,
+      "heading": "I3=J+1",
+      "level": 2,
+      "start_line": 857
+    },
+    {
+      "anchor": "1-w-i1-x-i3-x-i3-w-i3-x-i1-x-i2",
+      "end_line": 863,
+      "heading": "1 -W(I1)*X(I3)*X(I3)+W(I3)*X(I1)**X(I2)",
+      "level": 2,
+      "start_line": 859
+    },
+    {
+      "anchor": "return-901callexit-end",
+      "end_line": 866,
+      "heading": "Return 901Callexit End",
+      "level": 2,
+      "start_line": 864
+    },
+    {
+      "anchor": "function-xint-y-l-h-dimension-y-200-k-lkp-k-2-2ndiff-kp-kif-ndiff-1-2",
+      "end_line": 871,
+      "heading": "Function Xint(Y,L,H)Dimension Y(200)K=Lkp=K/2\\*2Ndiff=Kp-Kif(Ndiff)1,2",
+      "level": 2,
+      "start_line": 867
+    },
+    {
+      "anchor": "1-odd-0-0",
+      "end_line": 873,
+      "heading": "1 Odd=0.0",
+      "level": 2,
+      "start_line": 872
+    },
+    {
+      "anchor": "even-0-0",
+      "end_line": 875,
+      "heading": "Even=0.0",
+      "level": 2,
+      "start_line": 874
+    },
+    {
+      "anchor": "km2-k-2",
+      "end_line": 877,
+      "heading": "Km2=K-2",
+      "level": 2,
+      "start_line": 876
+    },
+    {
+      "anchor": "d060i-3-km2-2",
+      "end_line": 883,
+      "heading": "D060I=3,Km2,2",
+      "level": 2,
+      "start_line": 878
+    },
+    {
+      "anchor": "3-return-end",
+      "end_line": 885,
+      "heading": "3 RETURN END",
+      "level": 2,
+      "start_line": 884
+    },
+    {
+      "anchor": "function-bizero-x",
+      "end_line": 889,
+      "heading": "Function Bizero(X)",
+      "level": 2,
+      "start_line": 886
+    },
+    {
+      "anchor": "type-double-s-t-x-y-bizero",
+      "end_line": 890,
+      "heading": "Type Double S, T, X, Y, Bizero",
+      "level": 2,
+      "start_line": 890
+    },
+    {
+      "anchor": "y-x",
+      "end_line": 891,
+      "heading": "Y = X",
+      "level": 2,
+      "start_line": 891
+    },
+    {
+      "anchor": "if-y-3-75-99-3-3",
+      "end_line": 893,
+      "heading": "If(Y+3.75)99, 3, 3",
+      "level": 2,
+      "start_line": 892
+    },
+    {
+      "anchor": "3if-3-75-y-8-4-4",
+      "end_line": 895,
+      "heading": "3If(3.75-Y)8,4,4",
+      "level": 2,
+      "start_line": 894
+    },
+    {
+      "anchor": "c-4-3-75-le-x-le-3-75",
+      "end_line": 897,
+      "heading": "C\\*\\*\\*4-3.75.Le.X.Le.3.75",
+      "level": 2,
+      "start_line": 896
+    },
+    {
+      "anchor": "4-t-y-3-75",
+      "end_line": 900,
+      "heading": "4 $T = Y / 3.75$",
+      "level": 2,
+      "start_line": 898
+    },
+    {
+      "anchor": "t-t-t",
+      "end_line": 902,
+      "heading": "T=T*T",
+      "level": 2,
+      "start_line": 901
+    },
+    {
+      "anchor": "return",
+      "end_line": 905,
+      "heading": "Return",
+      "level": 2,
+      "start_line": 903
+    },
+    {
+      "anchor": "c-8-3-75-lt-x",
+      "end_line": 910,
+      "heading": "C\\*\\*\\*8 3.75.Lt.X",
+      "level": 2,
+      "start_line": 906
+    },
+    {
+      "anchor": "s-t-00392377-01647633-t-02635537-t-02057706-t",
+      "end_line": 911,
+      "heading": "S=（（（（（T#.00392377-01647633）*T+.02635537）*T-.02057706）*T",
+      "level": 2,
+      "start_line": 911
+    },
+    {
+      "anchor": "1-00916281-t-00157565-t-00225319-t-01328592-t-39894228",
+      "end_line": 912,
+      "heading": "1 +.00916281）*T-00157565）*T+.00225319）*T+.01328592）*T+.39894228",
+      "level": 2,
+      "start_line": 912
+    },
+    {
+      "anchor": "bizero-dexp-y-s-dsqrt-y",
+      "end_line": 913,
+      "heading": "Bizero=Dexp(Y)*S/Dsqrt(Y)",
+      "level": 2,
+      "start_line": 913
+    },
+    {
+      "anchor": "return",
+      "end_line": 916,
+      "heading": "Return",
+      "level": 2,
+      "start_line": 914
+    },
+    {
+      "anchor": "c-99argumentoutofrange-returnzero",
+      "end_line": 918,
+      "heading": "C\\*\\*99Argumentoutofrange. Returnzero.",
+      "level": 2,
+      "start_line": 917
+    },
+    {
+      "anchor": "99-bizero-0",
+      "end_line": 919,
+      "heading": "99 Bizero=0",
+      "level": 2,
+      "start_line": 919
+    },
+    {
+      "anchor": "return",
+      "end_line": 924,
+      "heading": "Return",
+      "level": 2,
+      "start_line": 920
+    },
+    {
+      "anchor": "ornl-4345",
+      "end_line": 928,
+      "heading": "Ornl-4345",
+      "level": 2,
+      "start_line": 925
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1000,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 929
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1106,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1001
+    }
+  ],
+  "source_dir": "pdf/ORNL-4345",
+  "tables": [],
+  "title": "ORNL-4345",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,1439 @@
+{
+  "authors": [
+    "FORCED-CONVECTION",
+    "HEAT-TRANSFER MEASUREMENTS WITH",
+    "J. W. Cooke",
+    "B. Cox"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-4079.jsonl",
+  "date_text": "1973",
+  "doc_id": "ornl-tm-4079",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          120,
+          126,
+          184,
+          252
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          432
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          114
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 20,
+        "line_hits": [
+          22,
+          24,
+          38,
+          52,
+          380,
+          381,
+          383,
+          384,
+          392,
+          393,
+          975,
+          976,
+          977,
+          978,
+          979,
+          980,
+          981,
+          982,
+          984,
+          985
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          20,
+          42,
+          380,
+          381,
+          383,
+          384,
+          392,
+          393,
+          401,
+          777,
+          983,
+          986
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          137,
+          422
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          22,
+          48
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 23,
+        "line_hits": [
+          120,
+          137,
+          139,
+          141,
+          163,
+          167,
+          173,
+          180,
+          186,
+          224,
+          250,
+          252,
+          257,
+          259,
+          261,
+          279,
+          310,
+          318,
+          329,
+          351,
+          370,
+          569,
+          571
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          84,
+          980
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          393
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 7,
+        "line_hits": [
+          84,
+          120,
+          383,
+          430,
+          798,
+          804,
+          808
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          9,
+          30,
+          76,
+          120,
+          370,
+          798
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          798,
+          808
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          798,
+          808
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          798,
+          808
+        ],
+        "name": "LiF-BeF2-ThF4-UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          798,
+          808
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          798,
+          808
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          383
+        ],
+        "name": "KF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "ab17fbdb6ba83d4052a1be6d5372abf01e2ca7b873dcf1f80a5f657c52035ff3",
+  "markdown_path": "pdf/ORNL-TM-4079/ORNL-TM-4079/hybrid_ocr/ORNL-TM-4079.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 170,
+  "sections": [
+    {
+      "anchor": "forced-convection",
+      "end_line": 6,
+      "heading": "FORCED-CONVECTION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "heat-transfer-measurements-with",
+      "end_line": 8,
+      "heading": "HEAT-TRANSFER MEASUREMENTS WITH",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "a-molten-fluoride-salt-mixture",
+      "end_line": 10,
+      "heading": "A MOLTEN FLUORIDE SALT MIXTURE",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "flowing-in-a-smooth-tube",
+      "end_line": 19,
+      "heading": "FLOWING IN A SMOOTH TUBE",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 21,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 20
+    },
+    {
+      "anchor": "operated-by-union-carbide-corporation-for-the-u-s-atomic-energy-commission",
+      "end_line": 35,
+      "heading": "Operated By Union Carbide Corporation • For The U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 22
+    },
+    {
+      "anchor": "notice",
+      "end_line": 39,
+      "heading": "Notice",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "march-1973",
+      "end_line": 41,
+      "heading": "March 1973",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 47,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 51,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 55,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "contents",
+      "end_line": 75,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "forced-convection-heat-transfer-measurements-with-a-molten-fluoride-salt-mixture-flowing-in-a-smooth-tube",
+      "end_line": 81,
+      "heading": "FORCED-CONVECTION HEAT-TRANSFER MEASUREMENTS WITH A MOLTEN FLUORIDE SALT MIXTURE FLOWING IN A SMOOTH TUBE",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 115,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 121,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "description-of-the-apparatus",
+      "end_line": 158,
+      "heading": "DESCRIPTION OF THE APPARATUS",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "operating-procedures",
+      "end_line": 189,
+      "heading": "OPERATING PROCEDURES",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "calculations",
+      "end_line": 247,
+      "heading": "CALCULATIONS",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "results",
+      "end_line": 352,
+      "heading": "RESULTS",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 367,
+      "heading": "DISCUSSION",
+      "level": 1,
+      "start_line": 353
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 373,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 368
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 377,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 374
+    },
+    {
+      "anchor": "references",
+      "end_line": 394,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 396,
+      "heading": "Appendix A",
+      "level": 2,
+      "start_line": 395
+    },
+    {
+      "anchor": "additional-details-of-the-experimental-system",
+      "end_line": 400,
+      "heading": "Additional Details Of The Experimental System",
+      "level": 2,
+      "start_line": 397
+    },
+    {
+      "anchor": "ornl-dwg-72-11522",
+      "end_line": 419,
+      "heading": "Ornl-Dwg 72-11522",
+      "level": 2,
+      "start_line": 401
+    },
+    {
+      "anchor": "pertinent-experimental-equipment",
+      "end_line": 423,
+      "heading": "Pertinent Experimental Equipment",
+      "level": 2,
+      "start_line": 420
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 425,
+      "heading": "Appendix B",
+      "level": 2,
+      "start_line": 424
+    },
+    {
+      "anchor": "experimental-data",
+      "end_line": 444,
+      "heading": "Experimental Data",
+      "level": 2,
+      "start_line": 426
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 446,
+      "heading": "Appendix C",
+      "level": 2,
+      "start_line": 445
+    },
+    {
+      "anchor": "computer-program",
+      "end_line": 452,
+      "heading": "Computer Program",
+      "level": 2,
+      "start_line": 447
+    },
+    {
+      "anchor": "c-i-am-a-woltem-salt-heat-transfer-program-5",
+      "end_line": 454,
+      "heading": "C I AM A WOLTEM SALT HEAT TRANSFER PROGRAM 5",
+      "level": 2,
+      "start_line": 453
+    },
+    {
+      "anchor": "isn-0002-real-l-mdot-k1-k2-k3-k4-nunc-mu-njavg-nnc-kinow-10",
+      "end_line": 456,
+      "heading": "Isn 0002 Real L,Mdot,K1,K2,K3,K4,Nunc,Mu,Njavg,Nnc,Kinow 10",
+      "level": 2,
+      "start_line": 455
+    },
+    {
+      "anchor": "isn-0603-dimension-to-30-xl-30-ti-30-tb-30-h-30-in-200-du-200-d-200-12",
+      "end_line": 458,
+      "heading": "Isn 0603 Dimension To(30),Xl(30),Ti(30),Tb(30),H(30),In(200),Du(200),D(200) 12",
+      "level": 2,
+      "start_line": 457
+    },
+    {
+      "anchor": "isn-0004-dimension-nuno-3g-13",
+      "end_line": 460,
+      "heading": "Isn 0004 Dimension Nuno(3G) 13",
+      "level": 2,
+      "start_line": 459
+    },
+    {
+      "anchor": "isnocos-integer-ftc-ctc-15",
+      "end_line": 462,
+      "heading": "Isnocos Integer Ftc,Ctc 15",
+      "level": 2,
+      "start_line": 461
+    },
+    {
+      "anchor": "isn-006-6010j-1-13-30",
+      "end_line": 464,
+      "heading": "Isn 006 6010J=1,13 30",
+      "level": 2,
+      "start_line": 463
+    },
+    {
+      "anchor": "isnocg7-l-5-j-1-1",
+      "end_line": 468,
+      "heading": "Isnocg7 $[L = 5*(J - 1)] + 1$",
+      "level": 2,
+      "start_line": 465
+    },
+    {
+      "anchor": "isn-0009-read7-in-1-du-1-i-il-iu-60",
+      "end_line": 470,
+      "heading": "Isn 0009 Read7,In(1),Du(1),I=Il,Iu) 60",
+      "level": 2,
+      "start_line": 469
+    },
+    {
+      "anchor": "1sn-co10-7-format-5-3-f5-2-2x-70",
+      "end_line": 472,
+      "heading": "1Sn Co10 7 Format(5([3,F5,2,2X)) 70",
+      "level": 2,
+      "start_line": 471
+    },
+    {
+      "anchor": "isn-0011-10-continue-75",
+      "end_line": 474,
+      "heading": "Isn 0011 10 Continue 75",
+      "level": 2,
+      "start_line": 473
+    },
+    {
+      "anchor": "isn-0012-0-1-20-1-1-10-76",
+      "end_line": 476,
+      "heading": "Isn 0012 0.1 20.1=1,10 76",
+      "level": 2,
+      "start_line": 475
+    },
+    {
+      "anchor": "isn-0013-1-nn-1-1-77",
+      "end_line": 478,
+      "heading": "Isn 0013 [1=Nn(1)+1 77",
+      "level": 2,
+      "start_line": 477
+    },
+    {
+      "anchor": "isn-0c14-f-ou-i-ge-o-2-d-ii-du-ii-77a1",
+      "end_line": 480,
+      "heading": "Isn 0C14 [F(Ou(I).Ge.O.2)] D(Ii)=Du(Ii) 77A1",
+      "level": 2,
+      "start_line": 479
+    },
+    {
+      "anchor": "isn-co16-20-continue-77a2",
+      "end_line": 482,
+      "heading": "Isn Co16 20 Continue 77A2",
+      "level": 2,
+      "start_line": 481
+    },
+    {
+      "anchor": "isn-ocl7-if-d-45-lt-900-gc-to-21-778",
+      "end_line": 486,
+      "heading": "Isn Ocl7 If (D(45).Lt.900.) Gc To 21 778",
+      "level": 2,
+      "start_line": 483
+    },
+    {
+      "anchor": "isn-0c20-210-46-d-46-770",
+      "end_line": 488,
+      "heading": "Isn 0C20 210(46)=-D(46) 770",
+      "level": 2,
+      "start_line": 487
+    },
+    {
+      "anchor": "isn-oc21-22-continue-77e",
+      "end_line": 490,
+      "heading": "Isn Oc21 22 Continue 77E",
+      "level": 2,
+      "start_line": 489
+    },
+    {
+      "anchor": "isn-0022-d301-1-50-78a",
+      "end_line": 492,
+      "heading": "Isn.0022 D301=1,50 78A",
+      "level": 2,
+      "start_line": 491
+    },
+    {
+      "anchor": "isnoc23-0u-1-o-1-768",
+      "end_line": 494,
+      "heading": "Isnoc23 0U(1)=O(1) 768",
+      "level": 2,
+      "start_line": 493
+    },
+    {
+      "anchor": "isn-0024-3u-continue-78c",
+      "end_line": 496,
+      "heading": "Isn 0024 3U Continue 78C",
+      "level": 2,
+      "start_line": 495
+    },
+    {
+      "anchor": "ctemp-fitfollofsfor150frefjunctionufto1900degreesf-79",
+      "end_line": 498,
+      "heading": "Ctemp Fitfollofsfor150Frefjunctionufto1900Degreesf 79",
+      "level": 2,
+      "start_line": 497
+    },
+    {
+      "anchor": "isn-0025-074201-1-46-79a",
+      "end_line": 500,
+      "heading": "Isn.0025 074201=1,46 79A",
+      "level": 2,
+      "start_line": 499
+    },
+    {
+      "anchor": "isn-0026-if-d-1-lt-1-59-gc-to-400-798",
+      "end_line": 502,
+      "heading": "Isn 0026 If (D(1).Lt.1.59) Gc To 400 798",
+      "level": 2,
+      "start_line": 501
+    },
+    {
+      "anchor": "isn-0028-if-d-1-ge-1-99-and-d-1-lt-5-30-go-to-401-79c",
+      "end_line": 504,
+      "heading": "Isn 0028 If $\\{D(1),Ge,1,99,And,D(1),Lt,5,30\\}$ Go To 401 79C",
+      "level": 2,
+      "start_line": 503
+    },
+    {
+      "anchor": "isn-0c30-if-d-i-ge-5-01-and-d-i-lt-10-c1-go-to-402-790",
+      "end_line": 506,
+      "heading": "Isn 0C30 If (D(I).Ge.5.01.And.D(I).Lt.10.C1) Go To 402 790",
+      "level": 2,
+      "start_line": 505
+    },
+    {
+      "anchor": "isn-cc32-if-d-i-ge-10-01-and-d-ii-lt-13-01-go-to-403-79e",
+      "end_line": 508,
+      "heading": "Isn Cc32 If (D(I).Ge.10.01.And.D(Ii).Lt.13.01) Go To 403 79E",
+      "level": 2,
+      "start_line": 507
+    },
+    {
+      "anchor": "isn-g034-if-d-i-ge-13-01-and-c-i-lt-17-01-go-to-404-79f",
+      "end_line": 510,
+      "heading": "Isn G034 If (D(I).Ge.13.01.And.C(I).Lt.17.01) Go To 404 79F",
+      "level": 2,
+      "start_line": 509
+    },
+    {
+      "anchor": "isn-0036-if-d-i-ge-17-01-and-d-i-lt-22-99-go-to-405-79g",
+      "end_line": 514,
+      "heading": "Isn 0036 If (D(I).Ge.17.01.And.D(I).Lt.22.99) Go To 405 79G",
+      "level": 2,
+      "start_line": 511
+    },
+    {
+      "anchor": "isn-0040-if-d-i-ge-29-99-and-o-ii-lt-33-co-go-to-407-791",
+      "end_line": 516,
+      "heading": "Isn 0040 If (D(I).Ge.29.99.And.O(Ii).Lt.33.Co) Go To 407 791",
+      "level": 2,
+      "start_line": 515
+    },
+    {
+      "anchor": "isn-c042-f-d-i-ge-33-0-and-d-i-lt-35-0-go-to-4c8-79j",
+      "end_line": 518,
+      "heading": "Isn C042 [F (D(I).Ge.33.0.And.D(I).Lt.35.0) Go To 4C8 79J",
+      "level": 2,
+      "start_line": 517
+    },
+    {
+      "anchor": "isn-0c44-if-d-i-ge-36-0-and-d-i-lt-39-0-go-to-409-79k",
+      "end_line": 520,
+      "heading": "Isn 0C44 If{D(I).Ge.36.0.And.D(I).Lt.39.0) Go To 409 79K",
+      "level": 2,
+      "start_line": 519
+    },
+    {
+      "anchor": "isn-6046-if-d-i-ge-39-0-gc-to-410-79l",
+      "end_line": 522,
+      "heading": "Isn 6046 If (D(I).Ge.39.0) Gc To 410 79L",
+      "level": 2,
+      "start_line": 521
+    },
+    {
+      "anchor": "isn-0048-40c-d-1-150-236-150-1-99-d-i-0-79l1",
+      "end_line": 524,
+      "heading": "Isn 0048 40C D(1)=150+(236-150)/1.99*(D(I)-0.) 79L1",
+      "level": 2,
+      "start_line": 523
+    },
+    {
+      "anchor": "isn-0649-go-to-420-79m",
+      "end_line": 526,
+      "heading": "Isn 0649 Go To 420 79M",
+      "level": 2,
+      "start_line": 525
+    },
+    {
+      "anchor": "isn-c050-4-1-d-1-236-371-236-5-01-1-99-d-1-1-99-79n",
+      "end_line": 528,
+      "heading": "Isn C050 4(1) D(1)=236.+（371.-236.)/(5.01-1.99)*(D(1)-1.99) 79N",
+      "level": 2,
+      "start_line": 527
+    },
+    {
+      "anchor": "isn-0051-if-d-1-ge-258-and-d-1-le-290-d-1-d-1-0-6-79n1",
+      "end_line": 530,
+      "heading": "Isn 0051 If (D(1).Ge.258..And.D(1).Le.290.) D(1)=D(1)-0.6 79N1",
+      "level": 2,
+      "start_line": 529
+    },
+    {
+      "anchor": "isn-0053-if-d-1-ge-280-and-d-1-le-314-d-1-d-1-0-5-79n2",
+      "end_line": 532,
+      "heading": "Isn 0053 If (D(1).Ge.280..And.D(1).Le.314.) D(1)=D(1)-0.5 79N2",
+      "level": 2,
+      "start_line": 531
+    },
+    {
+      "anchor": "isn-0055-go-to-420-790",
+      "end_line": 534,
+      "heading": "Isn 0055 Go To 420 790",
+      "level": 2,
+      "start_line": 533
+    },
+    {
+      "anchor": "isn-2c56-402-d-1-372-592-371-10-01-5-01-c-1-5-01-79p",
+      "end_line": 536,
+      "heading": "Isn.2C56 402 D(1)=372.+（592.-371./(10.01-5.01)*(C(1)-5.01) 79P",
+      "level": 2,
+      "start_line": 535
+    },
+    {
+      "anchor": "isn-0057-if-d-1-ge-532-00-d-1-d-1-3-80-79p1",
+      "end_line": 540,
+      "heading": "Isn 0057 If (D(1).Ge.532.00) D(1)=D(1)-3.80 79P1",
+      "level": 2,
+      "start_line": 537
+    },
+    {
+      "anchor": "isn-0c60-if-d-i-le-425-c-1-d-1-0-20-79p3",
+      "end_line": 542,
+      "heading": "Isn 0C60 If (D(I).Le.425.) C(1)=D(1)-0.20 79P3",
+      "level": 2,
+      "start_line": 541
+    },
+    {
+      "anchor": "isn-0062-go-to-420-790",
+      "end_line": 544,
+      "heading": "Isn 0062 Go To 420 790",
+      "level": 2,
+      "start_line": 543
+    },
+    {
+      "anchor": "isn-g063-403-d-1-592-721-592-13-01-10-1-c-1-1c-01-79r",
+      "end_line": 546,
+      "heading": "Isn G063 403 D(1)=592.+(721.-592.)/(13.01-10.)1)*(C(1)-1C.01) 79R",
+      "level": 2,
+      "start_line": 545
+    },
+    {
+      "anchor": "isn-0064-go-to-420-795",
+      "end_line": 548,
+      "heading": "Isn 0064 Go To 420 795",
+      "level": 2,
+      "start_line": 547
+    },
+    {
+      "anchor": "isnoc65-404-d-1-72-891-721-17-01-13-01-d-1-13-01-79t",
+      "end_line": 550,
+      "heading": "Isnoc65 404 D(1)=72.+(891-721)/(17.01-13.01)*(D(1)-13.01) 79T",
+      "level": 2,
+      "start_line": 549
+    },
+    {
+      "anchor": "isn-0066-gto420-79u",
+      "end_line": 552,
+      "heading": "Isn 0066 Gto420 79U",
+      "level": 2,
+      "start_line": 551
+    },
+    {
+      "anchor": "isn-0067-4c5-d-1-891-1143-891-22-99-17-01-c-1-17-01-79v",
+      "end_line": 554,
+      "heading": "Isn 0067 4C5 D(1)=891.+(1143.-891.)/(22.99-17.01)*(C(1)-17.01) 79V",
+      "level": 2,
+      "start_line": 553
+    },
+    {
+      "anchor": "isn-0c68-go-to-420-79w",
+      "end_line": 562,
+      "heading": "Isn 0C68 Go To 420 79W",
+      "level": 2,
+      "start_line": 555
+    },
+    {
+      "anchor": "isn-0c74-go-to-42c-79y",
+      "end_line": 564,
+      "heading": "Isn 0C74 Go To 42C 79Y",
+      "level": 2,
+      "start_line": 563
+    },
+    {
+      "anchor": "isn-0075-407-d-1-1444-1576-1444-33-00-29-99-d-1-29-99-792",
+      "end_line": 574,
+      "heading": "Isn 0075 407 D(1)=1444.+(1576.-1444.)/(33.00-29.99)*(D(1)-29.99) 792",
+      "level": 2,
+      "start_line": 565
+    },
+    {
+      "anchor": "adcons-for-external-references",
+      "end_line": 580,
+      "heading": "Adcons For External References",
+      "level": 2,
+      "start_line": 575
+    },
+    {
+      "anchor": "isn-0002-function-avg-y-m-i-x1-x2-a20",
+      "end_line": 582,
+      "heading": "Isn 0002 Function Avg(Y,M,I,X1,X2) A20",
+      "level": 2,
+      "start_line": 581
+    },
+    {
+      "anchor": "isn-0003-dimension-y-50-x-50-a-4-p-50-4-sp2-50-4-a30",
+      "end_line": 584,
+      "heading": "Isn 0003 Dimension Y(50),X(50),A(4),P(50,4),Sp2(50,4) A30",
+      "level": 2,
+      "start_line": 583
+    },
+    {
+      "anchor": "isn-0004-real-np-ls-a35",
+      "end_line": 586,
+      "heading": "Isn 0004 Real Np,Ls A35",
+      "level": 2,
+      "start_line": 585
+    },
+    {
+      "anchor": "isn0005-a-1-0-a40",
+      "end_line": 588,
+      "heading": "Isn0005 A(1)=0 A40",
+      "level": 2,
+      "start_line": 587
+    },
+    {
+      "anchor": "isn-0006-a-2-0-a50",
+      "end_line": 590,
+      "heading": "Isn 0006 A(2) = 0 A50",
+      "level": 2,
+      "start_line": 589
+    },
+    {
+      "anchor": "isnoc07-a-3-0-a60",
+      "end_line": 592,
+      "heading": "Isnoc07 A(3)=0 A60",
+      "level": 2,
+      "start_line": 591
+    },
+    {
+      "anchor": "isn-0008-a-4-0",
+      "end_line": 596,
+      "heading": "Isn 0008 A(4)=0",
+      "level": 2,
+      "start_line": 593
+    },
+    {
+      "anchor": "isn-0010-p-1-2-1-a73",
+      "end_line": 598,
+      "heading": "Isn 0010 P(1,2)=1. A73",
+      "level": 2,
+      "start_line": 597
+    },
+    {
+      "anchor": "isn-0011-p-1-3-1-a74",
+      "end_line": 600,
+      "heading": "Isn 0011 P(1,3)=1. A74",
+      "level": 2,
+      "start_line": 599
+    },
+    {
+      "anchor": "isn-0012-p-1-4-1-a75",
+      "end_line": 602,
+      "heading": "Isn 0012 P(1,4)=1. A75",
+      "level": 2,
+      "start_line": 601
+    },
+    {
+      "anchor": "isn-0013-np-1-1-a90",
+      "end_line": 604,
+      "heading": "Isn 0013 Np=1-1 A90",
+      "level": 2,
+      "start_line": 603
+    },
+    {
+      "anchor": "isn-0014-do-490-l-2-1-a95",
+      "end_line": 606,
+      "heading": "Isn 0014 Do 490 L=2,1 A95",
+      "level": 2,
+      "start_line": 605
+    },
+    {
+      "anchor": "isn-0015-x-l-l-1-a97",
+      "end_line": 608,
+      "heading": "Isn 0015 X(L)=L-1 A97",
+      "level": 2,
+      "start_line": 607
+    },
+    {
+      "anchor": "isnoc16-p-l-1-1-a100",
+      "end_line": 610,
+      "heading": "Isnoc16 P(L,1)=1. A100",
+      "level": 2,
+      "start_line": 609
+    },
+    {
+      "anchor": "isn-c017-p-l-2-1-2-x-l-np-a11c",
+      "end_line": 618,
+      "heading": "Isn C017 P(L,2)=1,-2.*X(L)/Np A11C",
+      "level": 2,
+      "start_line": 611
+    },
+    {
+      "anchor": "isn-0020-490-continue-a135",
+      "end_line": 628,
+      "heading": "Isn 0020 490 Continue A135",
+      "level": 2,
+      "start_line": 619
+    },
+    {
+      "anchor": "150025-07550j-1-4-a200",
+      "end_line": 630,
+      "heading": "150025 07550J=1,4 A200",
+      "level": 2,
+      "start_line": 629
+    },
+    {
+      "anchor": "1sn-0026-00500k-1-1-a210",
+      "end_line": 634,
+      "heading": "1Sn 0026 00500K=1,1 A210",
+      "level": 2,
+      "start_line": 631
+    },
+    {
+      "anchor": "isn-0028-500-continue-a230",
+      "end_line": 636,
+      "heading": "Isn 0028 500 Continue A230",
+      "level": 2,
+      "start_line": 635
+    },
+    {
+      "anchor": "isn0029-a-j-a-j-sp2-i-j-a240",
+      "end_line": 638,
+      "heading": "Isn0029 A(J) $=$ A(J)/Sp2(I,J) A240",
+      "level": 2,
+      "start_line": 637
+    },
+    {
+      "anchor": "isn-0030-550-continue-a250",
+      "end_line": 640,
+      "heading": "Isn 0030 550 Continue A250",
+      "level": 2,
+      "start_line": 639
+    },
+    {
+      "anchor": "isn-0031-print-6c0-a270",
+      "end_line": 642,
+      "heading": "Isn 0031 Print 6C0 A270",
+      "level": 2,
+      "start_line": 641
+    },
+    {
+      "anchor": "isn-0032-600-format-1h1-10horiginal-13hleast-scuares-loh-pdev-a280",
+      "end_line": 644,
+      "heading": "Isn 0032 600 Format (1H1,10Horiginal ,13Hleast Scuares,Loh Pdev) A280",
+      "level": 2,
+      "start_line": 643
+    },
+    {
+      "anchor": "isn-c033-d9700-j-1-i-a290",
+      "end_line": 646,
+      "heading": "Isn C033 D9700 J=1,I A290",
+      "level": 2,
+      "start_line": 645
+    },
+    {
+      "anchor": "1sn-0034-ls-a-1-p-j-2-a-2-p-j-2-a-3-f-j-3-a-4-p-j-4-a3co",
+      "end_line": 648,
+      "heading": "1Sn.0034 Ls=A(1)*P(J,2)+A(2)*P(J,2)+A(3)*F(J,3)+A(4)*P(J,4) A3Co",
+      "level": 2,
+      "start_line": 647
+    },
+    {
+      "anchor": "isn-0035-pdev-ls-y-j-m-1-100-y-j-m-1-a305",
+      "end_line": 650,
+      "heading": "Isn 0035 Pdev=(Ls-Y(J+M-1))*100./Y(J+M-1) A305",
+      "level": 2,
+      "start_line": 649
+    },
+    {
+      "anchor": "isn-0036-print-650-y-j-m-1-ls-pdev-a310",
+      "end_line": 654,
+      "heading": "Isn 0036 Print 650,Y(J+M-1),Ls,Pdev A310",
+      "level": 2,
+      "start_line": 651
+    },
+    {
+      "anchor": "1sn-0038-700-continue-a330",
+      "end_line": 656,
+      "heading": "1Sn 0038 700 Continue A330",
+      "level": 2,
+      "start_line": 655
+    },
+    {
+      "anchor": "isn-0039-x3-x2-x1-a340",
+      "end_line": 662,
+      "heading": "Isn 0039 X3=X2-X1 A340",
+      "level": 2,
+      "start_line": 657
+    },
+    {
+      "anchor": "8-12-11-a352",
+      "end_line": 666,
+      "heading": "8 12.11 + A352",
+      "level": 2,
+      "start_line": 663
+    },
+    {
+      "anchor": "8-2-1-20-np-np-1-0-np-2-0-3-4-4-x-3-x-3-a354",
+      "end_line": 668,
+      "heading": "8 /2.1-20./Np/(Np-1.0)/(Np-2.0)*(3*4/4.-X*3+X*3) A354",
+      "level": 2,
+      "start_line": 667
+    },
+    {
+      "anchor": "isn-0041-avg-aint-x3-a390",
+      "end_line": 670,
+      "heading": "Isn 0041 Avg=Aint/X3 A390",
+      "level": 2,
+      "start_line": 669
+    },
+    {
+      "anchor": "isn-0042-return-a440",
+      "end_line": 672,
+      "heading": "Isn.0042 Return A440",
+      "level": 2,
+      "start_line": 671
+    },
+    {
+      "anchor": "isn-0043-end-a450",
+      "end_line": 680,
+      "heading": "Isn 0043 End A450",
+      "level": 2,
+      "start_line": 673
+    },
+    {
+      "anchor": "c-this-subroutine-takes-an-afray-y-whcse-1st-value-is-at-m-with-i-total-aio",
+      "end_line": 682,
+      "heading": "C THIS SUBROUTINE TAKES AN AFRAY Y WHCSE 1ST VALUE IS AT M WITH I TOTAL AIO",
+      "level": 2,
+      "start_line": 681
+    },
+    {
+      "anchor": "c-consecutive-values-and-replaces-this-array-with-an-nth-orcer-fit-all",
+      "end_line": 684,
+      "heading": "C CONSECUTIVE VALUES AND REPLACES THIS ARRAY WITH AN NTH ORCER FIT ALL",
+      "level": 2,
+      "start_line": 683
+    },
+    {
+      "anchor": "isn-0002-subroutine-yls-y-m-i-n-a20",
+      "end_line": 686,
+      "heading": "Isn 0002 Subroutine Yls(Y,M,I,N) A20",
+      "level": 2,
+      "start_line": 685
+    },
+    {
+      "anchor": "isnoc03-dimensiony-50-x-50-a-4-p-50-4-sp2-50-4-a30",
+      "end_line": 688,
+      "heading": "Isnoc03 Dimensiony(50),X(50),A(4),P(50,4),Sp2(50,4) A30",
+      "level": 2,
+      "start_line": 687
+    },
+    {
+      "anchor": "isn-0004-real-np-ls-a35",
+      "end_line": 690,
+      "heading": "Isn 0004 Real Np,Ls A35",
+      "level": 2,
+      "start_line": 689
+    },
+    {
+      "anchor": "isn-0005-a-1-0-440",
+      "end_line": 692,
+      "heading": "Isn 0005 A(1)=0 440",
+      "level": 2,
+      "start_line": 691
+    },
+    {
+      "anchor": "1sn006-a-2-0-a50",
+      "end_line": 694,
+      "heading": "1Sn006 A(2)=0 A50",
+      "level": 2,
+      "start_line": 693
+    },
+    {
+      "anchor": "isn-0007-a-3-0-a60",
+      "end_line": 696,
+      "heading": "Isn 0007 A(3)=0 A60",
+      "level": 2,
+      "start_line": 695
+    },
+    {
+      "anchor": "isn-0008-a-4-0-a70",
+      "end_line": 698,
+      "heading": "Isn 0008 A(4)=0 A70",
+      "level": 2,
+      "start_line": 697
+    },
+    {
+      "anchor": "isn-009-p-1-1-1-a72",
+      "end_line": 700,
+      "heading": "Isn 009 P(1,1)=1. A72",
+      "level": 2,
+      "start_line": 699
+    },
+    {
+      "anchor": "1sn-0010-p-1-2-1-a73",
+      "end_line": 702,
+      "heading": "1Sn 0010 P(1,2)=1. A73",
+      "level": 2,
+      "start_line": 701
+    },
+    {
+      "anchor": "isn0011-p-1-3-1-a74",
+      "end_line": 704,
+      "heading": "Isn0011 P(1,3)=1. A74",
+      "level": 2,
+      "start_line": 703
+    },
+    {
+      "anchor": "isn-0012-p-1-4-1-a75",
+      "end_line": 708,
+      "heading": "Isn 0012 P(1,4)=1. A75",
+      "level": 2,
+      "start_line": 705
+    },
+    {
+      "anchor": "isn0014-00490l-2-i-a95",
+      "end_line": 710,
+      "heading": "Isn0014 00490L=2,I A95",
+      "level": 2,
+      "start_line": 709
+    },
+    {
+      "anchor": "isn-0015-x-l-l-1-a97",
+      "end_line": 712,
+      "heading": "Isn 0015 X(L)=L-1 A97",
+      "level": 2,
+      "start_line": 711
+    },
+    {
+      "anchor": "isn-0016-p-l-1-1-a100",
+      "end_line": 714,
+      "heading": "Isn 0016 P(L,1) = 1. A100",
+      "level": 2,
+      "start_line": 713
+    },
+    {
+      "anchor": "1sn-0017-p-l-2-1-2-x-l-np-a110",
+      "end_line": 718,
+      "heading": "1Sn 0017 P(L,2)=1,-2. \\*X(L)/Np A110",
+      "level": 2,
+      "start_line": 715
+    },
+    {
+      "anchor": "isn-0019-p-l-4-1-12-x-l-np-30-x-l-x-l-1-np-np-1-a130",
+      "end_line": 722,
+      "heading": "Isn 0019 P(L,4)=1. -12. *X(L)/Np+30. *X(L)*(X(L)-1.)/Np/(Np-1.) A130",
+      "level": 2,
+      "start_line": 719
+    },
+    {
+      "anchor": "isn-0020-490-continue-a135",
+      "end_line": 726,
+      "heading": "Isn 0020 490 Continue A135",
+      "level": 2,
+      "start_line": 723
+    },
+    {
+      "anchor": "isn-0022-sp2-1-2-np-1-np-2-3-np-a150",
+      "end_line": 730,
+      "heading": "Isn 0022 Sp2(1,2) = (Np+1.)*(Np+2.)/(3.)*Np) A150",
+      "level": 2,
+      "start_line": 727
+    },
+    {
+      "anchor": "isn-0024-sp2-1-4-np-1-np-2-np-3-np-4-7-np-np-1-np-2-a170",
+      "end_line": 732,
+      "heading": "Isn 0024 Sp2(1,4)=(Np+1.)*(Np+2.)*(Np+3.)*(Np+4.)/(7. *Np)/(Np-1.)/(Np-2.） A170",
+      "level": 2,
+      "start_line": 731
+    },
+    {
+      "anchor": "isn-0025-d550j-1-4-a200",
+      "end_line": 734,
+      "heading": "Isn 0025 D550J=1,4 A200",
+      "level": 2,
+      "start_line": 733
+    },
+    {
+      "anchor": "isn-0026-do500k-1-1-a210",
+      "end_line": 738,
+      "heading": "Isn 0026 Do500K=1,1 A210",
+      "level": 2,
+      "start_line": 735
+    },
+    {
+      "anchor": "isn-0028-500-continue-a230",
+      "end_line": 740,
+      "heading": "Isn 0028 500 Continue A230",
+      "level": 2,
+      "start_line": 739
+    },
+    {
+      "anchor": "15n-0c29-a-j-a-j-sp2-i-j-a240",
+      "end_line": 742,
+      "heading": "15N 0C29 A(J) = A(J)/Sp2(I,J) A240",
+      "level": 2,
+      "start_line": 741
+    },
+    {
+      "anchor": "isn-0030-550-continue-a250",
+      "end_line": 744,
+      "heading": "Isn 0030 550 Continue A250",
+      "level": 2,
+      "start_line": 743
+    },
+    {
+      "anchor": "isn-0c31-print-600-a270",
+      "end_line": 746,
+      "heading": "Isn 0C31 Print 600 A270",
+      "level": 2,
+      "start_line": 745
+    },
+    {
+      "anchor": "isn-0032-600-f-ormat-1h1-10horiginal-13hleast-scuares-1oh-pdev-a280",
+      "end_line": 748,
+      "heading": "Isn 0032 600 F-Ormat (1H1,10Horiginal ,13Hleast Scuares,1Oh Pdev) A280",
+      "level": 2,
+      "start_line": 747
+    },
+    {
+      "anchor": "isn-0033-00700j-1-i-a290",
+      "end_line": 750,
+      "heading": "Isn 0033 00700J=1,I A290",
+      "level": 2,
+      "start_line": 749
+    },
+    {
+      "anchor": "isnoc34-if-n-lt-3-a-4-0-a294",
+      "end_line": 752,
+      "heading": "Isnoc34 If(N.Lt.3)A(4)=0 A294",
+      "level": 2,
+      "start_line": 751
+    },
+    {
+      "anchor": "isn-0036-if-n-lt-2-a-3-0-a295",
+      "end_line": 756,
+      "heading": "Isn 0036 If(N.Lt.2) A(3)=0 A295",
+      "level": 2,
+      "start_line": 753
+    },
+    {
+      "anchor": "sn-0040-ls-a-1-p-j-1-a-2-p-j-2-a-3-f-j-3-a-p-j-4-a300",
+      "end_line": 760,
+      "heading": "[Sn 0040 Ls=A(1)*P(J,1)+A(2)*P(J,2)+A(3)*F(J,3)+A(+)*P(J,4) A300",
+      "level": 2,
+      "start_line": 757
+    },
+    {
+      "anchor": "isbn-0042-print-650-y-j-p-1-ls-pdev-a310",
+      "end_line": 764,
+      "heading": "Isbn 0042 Print 650,Y(J+P-1),Ls,Pdev A310",
+      "level": 2,
+      "start_line": 761
+    },
+    {
+      "anchor": "15n-0c44-v-j-h-2-ls-a330",
+      "end_line": 766,
+      "heading": "15N 0C44 V（J+H-2）=Ls A330",
+      "level": 2,
+      "start_line": 765
+    },
+    {
+      "anchor": "15noc45-7uc-continue-a350",
+      "end_line": 768,
+      "heading": "15Noc45 7Uc Continue A350",
+      "level": 2,
+      "start_line": 767
+    },
+    {
+      "anchor": "isn-0046-return-a370",
+      "end_line": 770,
+      "heading": "Isn 0046 Return A370",
+      "level": 2,
+      "start_line": 769
+    },
+    {
+      "anchor": "154-0c47-end-a371",
+      "end_line": 772,
+      "heading": "154 0C47 End A371",
+      "level": 2,
+      "start_line": 771
+    },
+    {
+      "anchor": "compiler-options-name-main-dpt-02-linecnt-60-size-0000k",
+      "end_line": 774,
+      "heading": "Compiler Options - Name= Main.Dpt=02 Linecnt=60 Size=0000K.",
+      "level": 2,
+      "start_line": 773
+    },
+    {
+      "anchor": "source-ebcdic-nolist-nodeck-load-map-noedit-noid-noxref",
+      "end_line": 776,
+      "heading": "Source, Ebcdic, Nolist, Nodeck, Load, Map, Noedit, Noid, Noxref",
+      "level": 2,
+      "start_line": 775
+    },
+    {
+      "anchor": "c-this-subroutine-uses-thermophysical-data-from-crnl-th-2316-and-ornl-4449",
+      "end_line": 778,
+      "heading": "C. THIS SUBROUTINE USES THERMOPHYSICAL DATA FROM CRNL-TH-2316 AND ORNL-4449",
+      "level": 2,
+      "start_line": 777
+    },
+    {
+      "anchor": "isn-0002-subroutine-prop-re-pr-v-rho-tempf-r-cond-cp-m-p20",
+      "end_line": 779,
+      "heading": "Isn 0002 Subroutine Prop(Re,Pr,V,Rho,Tempf,R,Cond,Cp,M) P20",
+      "level": 2,
+      "start_line": 779
+    },
+    {
+      "anchor": "isn-0003-t-tempf-32-01-1-8",
+      "end_line": 780,
+      "heading": "Isn 0003 T=Tempf-32.01/1.8",
+      "level": 2,
+      "start_line": 780
+    },
+    {
+      "anchor": "isn-0004-t-t-273-0",
+      "end_line": 781,
+      "heading": "Isn 0004 T=T+273.0",
+      "level": 2,
+      "start_line": 781
+    },
+    {
+      "anchor": "isn-0005-v-0-077-e-x-p-14430-0-i",
+      "end_line": 782,
+      "heading": ": Isn 0005 $V = 0.077^{*}E X P(14430.0 / I)$",
+      "level": 2,
+      "start_line": 782
+    },
+    {
+      "anchor": "isn-0006-v-2-419-v",
+      "end_line": 783,
+      "heading": "Isn 0006 V=2.419*V",
+      "level": 2,
+      "start_line": 783
+    },
+    {
+      "anchor": "isn-0007-rho-3-687-16-5e-04-tj",
+      "end_line": 784,
+      "heading": "Isn.0007 Rho=3.687-16.5E-04#.Tj",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "isn-0008-rho-rho-62-428",
+      "end_line": 785,
+      "heading": "Isn 0008 Rho=Rho*62.428",
+      "level": 2,
+      "start_line": 785
+    },
+    {
+      "anchor": "isn-0009-cond-0-69",
+      "end_line": 786,
+      "heading": "Isn 0009 Cond=0.69",
+      "level": 2,
+      "start_line": 786
+    },
+    {
+      "anchor": "isn-0010-pr-cp-v-cond-p140",
+      "end_line": 788,
+      "heading": "Isn 0010 Pr=Cp\\*V/Cond P140",
+      "level": 2,
+      "start_line": 787
+    },
+    {
+      "anchor": "1sn-0012-return-p100",
+      "end_line": 791,
+      "heading": "1Sn 0012 Return P100",
+      "level": 2,
+      "start_line": 789
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 793,
+      "heading": "APPENDIX D",
+      "level": 1,
+      "start_line": 792
+    },
+    {
+      "anchor": "chemical-analyses-and-physical-properties-of-the-salt",
+      "end_line": 810,
+      "heading": "Chemical Analyses And Physical Properties Of The Salt",
+      "level": 2,
+      "start_line": 794
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 972,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 811
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 986,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 973
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-4079",
+  "tables": [],
+  "title": "![](images/855cc2ed184a91567893984f89ebdf95982fc65ad652fa8117011581a93d6c44.jpg)",
+  "topics": [
+    "salt-systems-and-thermophysics",
+    "instrumentation-and-controls",
+    "reactor-physics-neutronics",
+    "materials-and-corrosion",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

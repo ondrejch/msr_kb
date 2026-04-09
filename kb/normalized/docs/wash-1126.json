@@ -1,0 +1,1403 @@
+{
+  "authors": [
+    "- Commodus",
+    "COST-DEPOSIT ANALYSIS",
+    "OF THE",
+    "U. S. BREEDER REACTOR",
+    "PROGRAM"
+  ],
+  "claims_path": "kb/normalized/claims/wash-1126.jsonl",
+  "date_text": "1969",
+  "doc_id": "wash-1126",
+  "document_type": "report",
+  "entities": {
+    "organization": [
+      {
+        "count": 47,
+        "line_hits": [
+          29,
+          37,
+          87,
+          99,
+          127,
+          143,
+          147,
+          196,
+          788,
+          824,
+          830,
+          838,
+          948,
+          1072,
+          1092,
+          1158,
+          1227,
+          1229,
+          1255,
+          1270,
+          1296,
+          1306,
+          1312,
+          1314,
+          1316,
+          1338,
+          1366,
+          1368,
+          1398,
+          1400,
+          1402,
+          1406,
+          1408,
+          1412,
+          1414,
+          1416,
+          1418,
+          1422,
+          1426,
+          1430,
+          1448,
+          1452,
+          1454,
+          1462,
+          1472,
+          1488,
+          1613
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          1456,
+          1458,
+          1460,
+          1462,
+          1512,
+          1609
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          131,
+          133,
+          159
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          936
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 80,
+        "line_hits": [
+          35,
+          41,
+          47,
+          51,
+          55,
+          57,
+          119,
+          129,
+          151,
+          157,
+          159,
+          165,
+          171,
+          173,
+          182,
+          206,
+          220,
+          275,
+          301,
+          307,
+          324,
+          342,
+          348,
+          412,
+          443,
+          484,
+          496,
+          715,
+          716,
+          720,
+          724,
+          728,
+          734,
+          766,
+          774,
+          784,
+          794,
+          800,
+          824,
+          830,
+          832,
+          850,
+          856,
+          864,
+          866,
+          944,
+          957,
+          961,
+          1068,
+          1072
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          311,
+          1215
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          127
+        ],
+        "name": "converter reactor"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "91c7acbbf923628633fe3fc44ad3ab54311742934deb581b8ba1cadec58370d0",
+  "markdown_path": "pdf/WASH-1126/WASH-1126/hybrid_ocr/WASH-1126.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": null,
+  "section_count": 172,
+  "sections": [
+    {
+      "anchor": "legal-notice",
+      "end_line": 12,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "wasr-1126",
+      "end_line": 14,
+      "heading": "Wasr 1126",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "cost-deposit-analysis",
+      "end_line": 16,
+      "heading": "Cost-Deposit Analysis",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "of-the",
+      "end_line": 18,
+      "heading": "Of The",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "u-s-breeder-reactor",
+      "end_line": 20,
+      "heading": "U. S. Breeder Reactor",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "program",
+      "end_line": 22,
+      "heading": "Program",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "april-1969",
+      "end_line": 28,
+      "heading": "April 1969",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-3-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U. 3. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "prepac",
+      "end_line": 64,
+      "heading": "PREPAC",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 68,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "preface-111",
+      "end_line": 70,
+      "heading": "Preface 111",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "1-0-introduction-1",
+      "end_line": 71,
+      "heading": "1.0 INTRODUCTION 1",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "2-0-summary-of-cost-benefit-analysis-9",
+      "end_line": 72,
+      "heading": "2.0 SUMMARY OF COST-BENEFIT ANALYSIS 9",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "3-0-discussion-of-cost-benefit-analysis-14",
+      "end_line": 73,
+      "heading": "3.0 DISCUSSION OF COST-BENEFIT ANALYSIS 14",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "4-0-other-considerations-53",
+      "end_line": 74,
+      "heading": "4.0 OTHER CONSIDERATIONS 53",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "5-0-major-assumptions-used-in-the-cost-benefit-analysis-63",
+      "end_line": 76,
+      "heading": "5.0 MAJOR ASSUMPTIONS USED IN THE COST-BENEFIT ANALYSIS 63",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 80,
+      "heading": "APPENDICES",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "c-utility-involvement-in-the-lafer-program-november-1968-90",
+      "end_line": 81,
+      "heading": "\"C\" - Utility Involvement In The Lafer Program (November 1968). 90",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "d-international-fast-breeder-programs-and-implications-95",
+      "end_line": 83,
+      "heading": "\"D\" - International Fast Breeder Programs And Implications 95",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "page-no",
+      "end_line": 85,
+      "heading": "Page No.",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "table-1-cost-benefit-analysis-groups-of-cases-considered-15",
+      "end_line": 88,
+      "heading": "Table 1 - Cost-Benefit Analysis - Groups Of Cases Considered. 15",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "table-4-cost-benefit-analysis-summary-of-results-1970-2020-21",
+      "end_line": 99,
+      "heading": "Table 4 - Cost-Benefit Analysis - Summary Of Results (1970-2020).... 21",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "table-15-cost-benefit-analysis-estimates-of-electrical-energy-demand-72",
+      "end_line": 103,
+      "heading": "Table 15- Cost-Benefit Analysis - Estimates Of Electrical Energy Demand. 72",
+      "level": 2,
+      "start_line": 100
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 114,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "1-0-introduction",
+      "end_line": 122,
+      "heading": "1.0 INTRODUCTION",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "blank-page",
+      "end_line": 160,
+      "heading": "BLANK PAGE",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "2-0-summary-of-cost-benefit-analysis",
+      "end_line": 201,
+      "heading": "2.0 SUMMARY OF COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "3-0-discussion-of-cost-benefit-analysis",
+      "end_line": 203,
+      "heading": "3.0 DISCUSSION OF COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "3-1-method-of-coat-benefit-analysis",
+      "end_line": 207,
+      "heading": "3.1 Method of Coat-Benefit Analysis",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "table-1",
+      "end_line": 209,
+      "heading": "TABLE 1",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 211,
+      "heading": "COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "groups-of-cases-considered",
+      "end_line": 221,
+      "heading": "GROUPS OF CASES CONSIDERED",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "3-2-p-d-costs",
+      "end_line": 231,
+      "heading": "3.2 P&D Costs",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "lawn-introduced-in",
+      "end_line": 244,
+      "heading": "Lawn Introduced in",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "table-2",
+      "end_line": 245,
+      "heading": "Table 2",
+      "level": 2,
+      "start_line": 245
+    },
+    {
+      "anchor": "cost-building-analysis",
+      "end_line": 246,
+      "heading": "Cost-Building Analysis",
+      "level": 2,
+      "start_line": 246
+    },
+    {
+      "anchor": "stock-of-ended-assets-and-current-liabilities",
+      "end_line": 270,
+      "heading": "Stock Of Ended Assets And Current Liabilities",
+      "level": 2,
+      "start_line": 247
+    },
+    {
+      "anchor": "1-3-results-of-analysis",
+      "end_line": 272,
+      "heading": "1.3 Results of Analysis",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "3-3-1-benefits-and-benefits-cost-ratios",
+      "end_line": 276,
+      "heading": "3.3.1 Benefits and Benefits/Cost Ratios",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "3-3-2-current-progarn",
+      "end_line": 280,
+      "heading": "3.3.2 Current Progarn",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "table-3",
+      "end_line": 282,
+      "heading": "TABLE 3",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "cot-deletyt-analysis",
+      "end_line": 284,
+      "heading": "COT-DELETYT ANALYSIS",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "cost-debtit-and-debtit-cost-ratio-for-debtit-program",
+      "end_line": 292,
+      "heading": "Cost, Debtit, And Debtit/Cost Ratio For Debtit Program",
+      "level": 2,
+      "start_line": 285
+    },
+    {
+      "anchor": "table-a",
+      "end_line": 293,
+      "heading": "Table A",
+      "level": 2,
+      "start_line": 293
+    },
+    {
+      "anchor": "out-lewitt-analysis",
+      "end_line": 304,
+      "heading": "Out-Lewitt Analysis",
+      "level": 2,
+      "start_line": 294
+    },
+    {
+      "anchor": "3-3-3-early-introduction-of-the-breeder",
+      "end_line": 308,
+      "heading": "3.3.3 Early Introduction of the Breeder",
+      "level": 1,
+      "start_line": 305
+    },
+    {
+      "anchor": "3-3-4-parallel-breeder-program",
+      "end_line": 333,
+      "heading": "3.3.4 Parallel Breeder Program",
+      "level": 1,
+      "start_line": 309
+    },
+    {
+      "anchor": "discussion-of-parallel-breeder-results",
+      "end_line": 339,
+      "heading": "Discussion of Parallel Breeder Results",
+      "level": 1,
+      "start_line": 334
+    },
+    {
+      "anchor": "3-3-5-sensitivity-of-results-to-changes-in-parameters",
+      "end_line": 345,
+      "heading": "3.3.5 Sensitivity of Results to Changes in Parameters",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "1-breeder-introduction-date",
+      "end_line": 363,
+      "heading": "1. Breeder Introduction Date",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 365,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 364
+    },
+    {
+      "anchor": "lmfbr-undiscounted-benefits-1970-2020",
+      "end_line": 367,
+      "heading": "Lmfbr Undiscounted Benefits (1970-2020)",
+      "level": 2,
+      "start_line": 366
+    },
+    {
+      "anchor": "constant-fossil-fuel-costs",
+      "end_line": 369,
+      "heading": "Constant Fossil Fuel Costs",
+      "level": 2,
+      "start_line": 368
+    },
+    {
+      "anchor": "base-energy-demand",
+      "end_line": 373,
+      "heading": "Base Energy, Demand",
+      "level": 2,
+      "start_line": 370
+    },
+    {
+      "anchor": "base-energy-demand",
+      "end_line": 381,
+      "heading": "Base Energy Demand",
+      "level": 2,
+      "start_line": 374
+    },
+    {
+      "anchor": "rising-uranium-costs",
+      "end_line": 385,
+      "heading": "Rising Uranium Costs",
+      "level": 2,
+      "start_line": 382
+    },
+    {
+      "anchor": "constant-uranium-costs",
+      "end_line": 387,
+      "heading": "Constant Uranium Costs",
+      "level": 2,
+      "start_line": 386
+    },
+    {
+      "anchor": "lmfbr-introduction-date",
+      "end_line": 389,
+      "heading": "Lmfbr Introduction Date",
+      "level": 2,
+      "start_line": 388
+    },
+    {
+      "anchor": "figure-2",
+      "end_line": 391,
+      "heading": "Figure 2",
+      "level": 2,
+      "start_line": 390
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 393,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 392
+    },
+    {
+      "anchor": "lmfbr-discounted-benefits-1970-2020-7",
+      "end_line": 395,
+      "heading": "Lmfbr Discounted Benefits (1970-2020 @ 7%)",
+      "level": 2,
+      "start_line": 394
+    },
+    {
+      "anchor": "constant-fossil-fuel-costs",
+      "end_line": 397,
+      "heading": "Constant Fossil Fuel Costs",
+      "level": 2,
+      "start_line": 396
+    },
+    {
+      "anchor": "base-energy-demand",
+      "end_line": 401,
+      "heading": "Base Energy Demand",
+      "level": 2,
+      "start_line": 398
+    },
+    {
+      "anchor": "rising-uranium-costs",
+      "end_line": 405,
+      "heading": "Rising Uranium Costs",
+      "level": 2,
+      "start_line": 402
+    },
+    {
+      "anchor": "constant-uranium",
+      "end_line": 407,
+      "heading": "Constant Uranium",
+      "level": 2,
+      "start_line": 406
+    },
+    {
+      "anchor": "costs",
+      "end_line": 409,
+      "heading": "Costs",
+      "level": 2,
+      "start_line": 408
+    },
+    {
+      "anchor": "lmfbr-introduction-date",
+      "end_line": 413,
+      "heading": "Lmfbr Introduction Date",
+      "level": 2,
+      "start_line": 410
+    },
+    {
+      "anchor": "2-uranium-cost",
+      "end_line": 417,
+      "heading": "2. Uranium Cost",
+      "level": 1,
+      "start_line": 414
+    },
+    {
+      "anchor": "3-fossil-fuel-coats",
+      "end_line": 423,
+      "heading": "3. Fossil Fuel Coats",
+      "level": 1,
+      "start_line": 418
+    },
+    {
+      "anchor": "4-electrical-energy-demand",
+      "end_line": 440,
+      "heading": "4. Electrical Energy Demand",
+      "level": 1,
+      "start_line": 424
+    },
+    {
+      "anchor": "5-energy-cost-capital-and-fuel-cycle",
+      "end_line": 444,
+      "heading": "5. Energy Cost (Capital and Fuel Cycle)",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "mills-kwhr",
+      "end_line": 452,
+      "heading": "Mills/KWhr",
+      "level": 1,
+      "start_line": 445
+    },
+    {
+      "anchor": "total-4-1",
+      "end_line": 460,
+      "heading": "Total 4.1",
+      "level": 2,
+      "start_line": 453
+    },
+    {
+      "anchor": "figure-5",
+      "end_line": 462,
+      "heading": "Figure 5",
+      "level": 2,
+      "start_line": 461
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 464,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 463
+    },
+    {
+      "anchor": "sensitivity-of-discounted-gross-benefits",
+      "end_line": 466,
+      "heading": "Sensitivity Of Discounted Gross Benefits",
+      "level": 2,
+      "start_line": 465
+    },
+    {
+      "anchor": "to-a-change-in-lmfbr-energy-costs",
+      "end_line": 470,
+      "heading": "To A Change In Lmfbr Energy Costs",
+      "level": 2,
+      "start_line": 467
+    },
+    {
+      "anchor": "rising-uranium-cost",
+      "end_line": 477,
+      "heading": "(Rising Uranium Cost)",
+      "level": 2,
+      "start_line": 471
+    },
+    {
+      "anchor": "6-uranium-requirements",
+      "end_line": 481,
+      "heading": "6. Uranium Requirements",
+      "level": 1,
+      "start_line": 478
+    },
+    {
+      "anchor": "7-separative-work-demand",
+      "end_line": 531,
+      "heading": "7. Separative Work Demand",
+      "level": 1,
+      "start_line": 482
+    },
+    {
+      "anchor": "table-5",
+      "end_line": 532,
+      "heading": "Table 5",
+      "level": 2,
+      "start_line": 532
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 533,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 533
+    },
+    {
+      "anchor": "costs-benefits-and-penefit-cost-ratio-for-breeder-program",
+      "end_line": 540,
+      "heading": "Costs, Benefits, And Penefit/Cost Ratio For Breeder Program",
+      "level": 2,
+      "start_line": 534
+    },
+    {
+      "anchor": "table-6",
+      "end_line": 541,
+      "heading": "Table 6",
+      "level": 2,
+      "start_line": 541
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 542,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 542
+    },
+    {
+      "anchor": "costs-benefits-and-benefit-cost-ratio-for-breeder-program",
+      "end_line": 549,
+      "heading": "Costs, Benefits, And Benefit/Cost Ratio For Breeder Program",
+      "level": 2,
+      "start_line": 543
+    },
+    {
+      "anchor": "costs-benefits-and-benefit-cost-ratio-for-breeder-program",
+      "end_line": 551,
+      "heading": "Costs. Benefits. And Benefit/Cost Ratio For Breeder Program",
+      "level": 2,
+      "start_line": 550
+    },
+    {
+      "anchor": "table-7",
+      "end_line": 552,
+      "heading": "Table 7",
+      "level": 2,
+      "start_line": 552
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 700,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 553
+    },
+    {
+      "anchor": "table-8",
+      "end_line": 701,
+      "heading": "Table 8",
+      "level": 2,
+      "start_line": 701
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 702,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 702
+    },
+    {
+      "anchor": "costs-benefits-and-benefit-cost-ratio-plr-brezeder-program",
+      "end_line": 731,
+      "heading": "Costs, Benefits, And Benefit/Cost Ratio Plr Brezeder Program",
+      "level": 2,
+      "start_line": 703
+    },
+    {
+      "anchor": "3-3-6-electrical-generating-capacity",
+      "end_line": 737,
+      "heading": "3.3.6 Electrical Generating Capacity",
+      "level": 1,
+      "start_line": 732
+    },
+    {
+      "anchor": "table-9",
+      "end_line": 739,
+      "heading": "TABLE 9",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 741,
+      "heading": "COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 740
+    },
+    {
+      "anchor": "generating-capacity-built-number-of-1000-mwe-plants",
+      "end_line": 743,
+      "heading": "Generating Capacity Built (Number Of 1000 Mwe Plants)",
+      "level": 2,
+      "start_line": 742
+    },
+    {
+      "anchor": "cases-1-1-and-1-3-htgr-in-1980-rising-uranium-prices",
+      "end_line": 751,
+      "heading": "Cases 1.1 And 1.3 Htgr In 1980, Rising Uranium Prices",
+      "level": 2,
+      "start_line": 744
+    },
+    {
+      "anchor": "table-10",
+      "end_line": 753,
+      "heading": "TABLE 10",
+      "level": 1,
+      "start_line": 752
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 755,
+      "heading": "COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "generating-capacity-built-number-of-1000-mwe-plants-case-1-4",
+      "end_line": 761,
+      "heading": "Generating Capacity Built (Number Of 1000 Mwe Plants) - Case 1.4",
+      "level": 2,
+      "start_line": 756
+    },
+    {
+      "anchor": "3-3-7-discussion-of-assumptions",
+      "end_line": 763,
+      "heading": "3.3.7 Discussion of Assumptions",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "fuel-cycle-costa",
+      "end_line": 767,
+      "heading": "Fuel Cycle Costa",
+      "level": 1,
+      "start_line": 764
+    },
+    {
+      "anchor": "energy-demand",
+      "end_line": 771,
+      "heading": "Energy Demand",
+      "level": 1,
+      "start_line": 768
+    },
+    {
+      "anchor": "termination-of-analysis",
+      "end_line": 775,
+      "heading": "Termination of Analysis",
+      "level": 1,
+      "start_line": 772
+    },
+    {
+      "anchor": "advanced-converter",
+      "end_line": 781,
+      "heading": "Advanced Converter",
+      "level": 1,
+      "start_line": 776
+    },
+    {
+      "anchor": "tax-benefito",
+      "end_line": 785,
+      "heading": "Tax Benefito",
+      "level": 1,
+      "start_line": 782
+    },
+    {
+      "anchor": "uranium-costs",
+      "end_line": 813,
+      "heading": "Uranium Costs",
+      "level": 1,
+      "start_line": 786
+    },
+    {
+      "anchor": "4-1-need-for-electrical-energy",
+      "end_line": 819,
+      "heading": "4.1 Need for Electrical Energy",
+      "level": 1,
+      "start_line": 814
+    },
+    {
+      "anchor": "2-large-scale-commitments-to-r-d-program",
+      "end_line": 827,
+      "heading": ".2 Large-Scale Commitments to R&D Program",
+      "level": 1,
+      "start_line": 820
+    },
+    {
+      "anchor": "4-3-industrial-and-utility-commitments",
+      "end_line": 835,
+      "heading": "4.3 Industrial and Utility Commitments",
+      "level": 1,
+      "start_line": 828
+    },
+    {
+      "anchor": "4-4-coupling-of-breeder-to-lwr-commitments",
+      "end_line": 841,
+      "heading": "4.4 Coupling of Breeder to LWR Commitments",
+      "level": 1,
+      "start_line": 836
+    },
+    {
+      "anchor": "4-5-plutonium-availability-and-demand",
+      "end_line": 845,
+      "heading": "4.5 Plutonium Availability and Demand",
+      "level": 1,
+      "start_line": 842
+    },
+    {
+      "anchor": "4-6-fuel-cycle",
+      "end_line": 853,
+      "heading": "4.6 Fuel Cycle",
+      "level": 1,
+      "start_line": 846
+    },
+    {
+      "anchor": "4-8-world-market",
+      "end_line": 857,
+      "heading": "4.8 World Market",
+      "level": 1,
+      "start_line": 854
+    },
+    {
+      "anchor": "4-9-technological-leadership",
+      "end_line": 861,
+      "heading": "4.9 Technological Leadership",
+      "level": 1,
+      "start_line": 858
+    },
+    {
+      "anchor": "4-10-electricity-and-other-processes",
+      "end_line": 867,
+      "heading": "4.10 Electricity and Other Processes",
+      "level": 1,
+      "start_line": 862
+    },
+    {
+      "anchor": "t39l01",
+      "end_line": 869,
+      "heading": "T39L01",
+      "level": 2,
+      "start_line": 868
+    },
+    {
+      "anchor": "euyjamayf3m38-t200",
+      "end_line": 871,
+      "heading": "Euyjamayf3M38-T200",
+      "level": 2,
+      "start_line": 870
+    },
+    {
+      "anchor": "10139071-ww36h7h",
+      "end_line": 895,
+      "heading": "10139071.Ww36H7H",
+      "level": 2,
+      "start_line": 872
+    },
+    {
+      "anchor": "figure-7",
+      "end_line": 897,
+      "heading": "FIGURE 7",
+      "level": 1,
+      "start_line": 896
+    },
+    {
+      "anchor": "cost-benefit-analysis-elasticity-in-the-demand-for-electricity",
+      "end_line": 939,
+      "heading": "Cost-Benefit Analysis Elasticity In The Demand For Electricity",
+      "level": 2,
+      "start_line": 898
+    },
+    {
+      "anchor": "fig-7",
+      "end_line": 941,
+      "heading": "Fig. 7",
+      "level": 2,
+      "start_line": 940
+    },
+    {
+      "anchor": "5-0-major-assumptions-used-in-the-cost-benefit-analysis",
+      "end_line": 945,
+      "heading": "5.0 MAJOR ASSUMPTIONS USED IN THE COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 942
+    },
+    {
+      "anchor": "5-1-discount-rates",
+      "end_line": 949,
+      "heading": "5.1 Discount Rates",
+      "level": 1,
+      "start_line": 946
+    },
+    {
+      "anchor": "5-2-restraint-on-number-of-reactors-introduced",
+      "end_line": 958,
+      "heading": "5.2 Restraint on Number of Reactors Introduced",
+      "level": 1,
+      "start_line": 950
+    },
+    {
+      "anchor": "5-3-capital-costs-of-plants",
+      "end_line": 971,
+      "heading": "5.3 Capital Costs of Plants",
+      "level": 1,
+      "start_line": 959
+    },
+    {
+      "anchor": "figure-8",
+      "end_line": 973,
+      "heading": "Figure 8",
+      "level": 2,
+      "start_line": 972
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 975,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 974
+    },
+    {
+      "anchor": "assumption-for-capital-costs-of-power-plants",
+      "end_line": 1063,
+      "heading": "Assumption For Capital Costs Of Power Plants",
+      "level": 2,
+      "start_line": 976
+    },
+    {
+      "anchor": "5-4-mass-balance-and-reactor-performance",
+      "end_line": 1069,
+      "heading": "5.4 Mass Balance and Reactor Performance",
+      "level": 1,
+      "start_line": 1064
+    },
+    {
+      "anchor": "5-5-fuel-cycle-coats",
+      "end_line": 1073,
+      "heading": "5.5 Fuel Cycle Coats",
+      "level": 1,
+      "start_line": 1070
+    },
+    {
+      "anchor": "table-11",
+      "end_line": 1074,
+      "heading": "Table 11",
+      "level": 2,
+      "start_line": 1074
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 1075,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 1075
+    },
+    {
+      "anchor": "typical-reactor-characteristics",
+      "end_line": 1085,
+      "heading": "Typical Reactor Characteristics",
+      "level": 2,
+      "start_line": 1076
+    },
+    {
+      "anchor": "5-6-fossil-fuel-costs",
+      "end_line": 1089,
+      "heading": "5.6 Fossil Fuel Costs",
+      "level": 1,
+      "start_line": 1086
+    },
+    {
+      "anchor": "5-7-uranium-costs",
+      "end_line": 1095,
+      "heading": "5.7 Uranium Costs",
+      "level": 1,
+      "start_line": 1090
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 1097,
+      "heading": "Cost-Benefit Analysis",
+      "level": 2,
+      "start_line": 1096
+    },
+    {
+      "anchor": "u3o8-resource-vs-average-u3o8-cost",
+      "end_line": 1099,
+      "heading": "U3O8 Resource Vs. Average U3O8 Cost",
+      "level": 2,
+      "start_line": 1098
+    },
+    {
+      "anchor": "used-as-a-step-function-in-computer-runs",
+      "end_line": 1101,
+      "heading": "Used As A Step Function In Computer Runs",
+      "level": 2,
+      "start_line": 1100
+    },
+    {
+      "anchor": "quantity-available",
+      "end_line": 1153,
+      "heading": "Quantity Available",
+      "level": 1,
+      "start_line": 1102
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 1157,
+      "heading": "COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 1154
+    },
+    {
+      "anchor": "u-s-aec-uranium-resources",
+      "end_line": 1159,
+      "heading": "U. S. Aec Uranium Resources",
+      "level": 2,
+      "start_line": 1158
+    },
+    {
+      "anchor": "basis-for-table-13",
+      "end_line": 1161,
+      "heading": "(Basis For Table 13)",
+      "level": 2,
+      "start_line": 1160
+    },
+    {
+      "anchor": "january-1-1968",
+      "end_line": 1169,
+      "heading": "January,1,1968",
+      "level": 2,
+      "start_line": 1162
+    },
+    {
+      "anchor": "5-8-base-date-for-analysis-and-cut-off-dates",
+      "end_line": 1173,
+      "heading": "5.8 Base Date for Analysis and Cut-off Dates",
+      "level": 1,
+      "start_line": 1170
+    },
+    {
+      "anchor": "5-9-electrical-demand",
+      "end_line": 1177,
+      "heading": "5.9 Electrical Demand",
+      "level": 1,
+      "start_line": 1174
+    },
+    {
+      "anchor": "table-15-in",
+      "end_line": 1181,
+      "heading": "TABLE 15 in",
+      "level": 1,
+      "start_line": 1178
+    },
+    {
+      "anchor": "cost-benefit-analysis",
+      "end_line": 1183,
+      "heading": "COST-BENEFIT ANALYSIS",
+      "level": 1,
+      "start_line": 1182
+    },
+    {
+      "anchor": "6-5-lida-80-ztaeu",
+      "end_line": 1185,
+      "heading": "(6.5 Lida: 80% Ztaeu)",
+      "level": 2,
+      "start_line": 1184
+    },
+    {
+      "anchor": "estimates-of-electrical-energy-demand-1970-2020",
+      "end_line": 1189,
+      "heading": "Estimates Of Electrical Energy: Demand 1970-2020",
+      "level": 2,
+      "start_line": 1186
+    },
+    {
+      "anchor": "used-in-analysis",
+      "end_line": 1195,
+      "heading": "Used In Analysis",
+      "level": 2,
+      "start_line": 1190
+    },
+    {
+      "anchor": "5-10-generating-capacity-load-factor",
+      "end_line": 1248,
+      "heading": "5.10 Generating Capacity Load Factor",
+      "level": 1,
+      "start_line": 1196
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1291,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 1249
+    },
+    {
+      "anchor": "5-speeches",
+      "end_line": 1415,
+      "heading": "5. Speeches",
+      "level": 1,
+      "start_line": 1292
+    },
+    {
+      "anchor": "9-excerpts-from-reports-of-the-jcae-on-aec-authorizing",
+      "end_line": 1433,
+      "heading": "9. Excerpts from Reports of the JCAE on AEC Authorizing",
+      "level": 1,
+      "start_line": 1416
+    },
+    {
+      "anchor": "d-fy-1968-budget",
+      "end_line": 1437,
+      "heading": "d. FY 1968 Budget.",
+      "level": 1,
+      "start_line": 1434
+    },
+    {
+      "anchor": "e-fy-1969-budget",
+      "end_line": 1441,
+      "heading": "e. FY 1969 Budget.",
+      "level": 1,
+      "start_line": 1438
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1443,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 1442
+    },
+    {
+      "anchor": "statements-regarding-corporate-commitments-of-major-reactor-manufacturers-to-lmfbr",
+      "end_line": 1445,
+      "heading": "Statements* Regarding Corporate Commitments of Major Reactor Manufacturers to LMFBR",
+      "level": 1,
+      "start_line": 1444
+    },
+    {
+      "anchor": "north-american-rockwall-corporation",
+      "end_line": 1455,
+      "heading": "North American Rockwall Corporation",
+      "level": 1,
+      "start_line": 1446
+    },
+    {
+      "anchor": "general-electric-company",
+      "end_line": 1463,
+      "heading": "General Electric Company",
+      "level": 1,
+      "start_line": 1456
+    },
+    {
+      "anchor": "westinghouse-electric-corporation",
+      "end_line": 1483,
+      "heading": "Westinghouse Electric Corporation",
+      "level": 1,
+      "start_line": 1464
+    },
+    {
+      "anchor": "combustion-engineering-inc",
+      "end_line": 1493,
+      "heading": "Combustion Engineering, Inc.",
+      "level": 1,
+      "start_line": 1484
+    },
+    {
+      "anchor": "1-directed-toward-prototype",
+      "end_line": 1548,
+      "heading": "1. Directed Toward Prototype",
+      "level": 1,
+      "start_line": 1494
+    },
+    {
+      "anchor": "c-westinghouse",
+      "end_line": 1649,
+      "heading": "c. Westinghouse",
+      "level": 1,
+      "start_line": 1549
+    },
+    {
+      "anchor": "d-atomic-power-development-associates",
+      "end_line": 1676,
+      "heading": "d. Atomic Power Development Associates",
+      "level": 1,
+      "start_line": 1650
+    },
+    {
+      "anchor": "other-activities",
+      "end_line": 1682,
+      "heading": "Other Activities",
+      "level": 1,
+      "start_line": 1677
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 1684,
+      "heading": "APPENDIX D",
+      "level": 1,
+      "start_line": 1683
+    },
+    {
+      "anchor": "international-fast-breeder-programs-and-implications",
+      "end_line": 1704,
+      "heading": "International Fast Breeder Programs and Implications",
+      "level": 1,
+      "start_line": 1685
+    },
+    {
+      "anchor": "table-d-1",
+      "end_line": 1705,
+      "heading": "Table D-1",
+      "level": 2,
+      "start_line": 1705
+    },
+    {
+      "anchor": "fbr-programs-milestone",
+      "end_line": 1711,
+      "heading": "Fbr.Programs--Milestone\\*",
+      "level": 2,
+      "start_line": 1706
+    },
+    {
+      "anchor": "liquid-metal-cooled-fast-reactor-projects",
+      "end_line": 1721,
+      "heading": "Liquid Metal Cooled Fast Reactor Projects",
+      "level": 2,
+      "start_line": 1712
+    }
+  ],
+  "source_dir": "pdf/WASH-1126",
+  "tables": [],
+  "title": "LEGAL NOTICE",
+  "topics": [
+    "breeder-and-converter-design",
+    "reactor-operations",
+    "salt-chemistry-and-redox",
+    "program-history",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance",
+    "fuel-processing-and-reprocessing",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "report_number_not_detected",
+    "report_series_not_detected"
+  ]
+}

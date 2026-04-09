@@ -1,0 +1,585 @@
+{
+  "authors": [
+    "Reactors-Power",
+    "NUCLEAR CHARACTERISTICS OF SPHERICAL",
+    "HOMOGENEOUS",
+    "TWO-REGION",
+    "MOLTEN-FLUORIDE-SALT REACTORS",
+    "L. G. Alexander",
+    "D. A. Carrison"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2751.jsonl",
+  "date_text": "1959",
+  "doc_id": "ornl-2751",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 7,
+        "line_hits": [
+          154,
+          170,
+          172,
+          174,
+          250,
+          347,
+          372
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          132,
+          170,
+          192,
+          204,
+          246
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          146,
+          148,
+          150,
+          190,
+          406
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          154,
+          166,
+          170,
+          174
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          132,
+          168
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          132
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          326
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          174,
+          354,
+          356
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          140
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          150
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          176
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          5,
+          27,
+          82,
+          136,
+          158,
+          166,
+          345,
+          398,
+          405,
+          556,
+          560
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          35,
+          92,
+          566,
+          568
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          31,
+          88
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 30,
+        "line_hits": [
+          132,
+          134,
+          138,
+          140,
+          142,
+          146,
+          148,
+          154,
+          158,
+          160,
+          168,
+          174,
+          178,
+          200,
+          230,
+          246,
+          250,
+          267,
+          271,
+          273,
+          275,
+          277,
+          279,
+          333,
+          354,
+          356,
+          358,
+          365,
+          370,
+          379
+        ],
+        "name": "ARE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 4,
+        "line_hits": [
+          148,
+          389,
+          394,
+          400
+        ],
+        "name": "converter reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          413
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          413
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 13,
+        "line_hits": [
+          172,
+          204,
+          208,
+          210,
+          239,
+          252,
+          254,
+          287,
+          289,
+          309,
+          311,
+          333,
+          352
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          148,
+          174
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          178
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          134
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c44d2e86326939035759bcabf59374da8e62210673ccbe6ef6f8887e4688263e",
+  "markdown_path": "pdf/ORNL-2751/ORNL-2751/hybrid_ocr/ORNL-2751.md",
+  "report_number": "ORNL-2751",
+  "report_numbers": [
+    "ORNL-2751"
+  ],
+  "report_series": null,
+  "section_count": 42,
+  "sections": [
+    {
+      "anchor": "ornl-2751",
+      "end_line": 10,
+      "heading": "Ornl-2751",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "nuclear-characteristics-of-spherical",
+      "end_line": 12,
+      "heading": "Nuclear Characteristics Of Spherical,",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "homogeneous-two-region",
+      "end_line": 14,
+      "heading": "Homogeneous, Two-Region,",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "molten-fluoride-salt-reactors",
+      "end_line": 26,
+      "heading": "Molten-Fluoride-Salt Reactors",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 30,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 34,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 36,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "central-research-lib",
+      "end_line": 38,
+      "heading": "Central Research Lib",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "document-collecti",
+      "end_line": 40,
+      "heading": "Document Collecti",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "library-loan",
+      "end_line": 42,
+      "heading": "Library Loan",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "not-transfer-to-another",
+      "end_line": 46,
+      "heading": "Not Transfer To Another",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "printed-in-usa-price-75-cents-available-from-the",
+      "end_line": 54,
+      "heading": "Printed in USA. Price 75 cents. Available from the",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 65,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "reactor-projects-division",
+      "end_line": 67,
+      "heading": "Reactor Projects Division",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "nuclear-characteristics-of-spherical-homogeneous-two-region-molten-fluoride-salt-reactors",
+      "end_line": 77,
+      "heading": "NUCLEAR CHARACTERISTICS OF SPHERICAL, HOMOGENEOUS, TWO-REGION, MOLTEN-FLUORIDE-SALT REACTORS",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 79,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "sep-16-1959",
+      "end_line": 81,
+      "heading": "Sep 16 1959",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 87,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 91,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 97,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "contents",
+      "end_line": 99,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 101,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 100
+    },
+    {
+      "anchor": "prior-work-2",
+      "end_line": 103,
+      "heading": "Prior Work 2",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "method-of-calculation-4",
+      "end_line": 105,
+      "heading": "Method Of Calculation 4",
+      "level": 2,
+      "start_line": 104
+    },
+    {
+      "anchor": "homogeneous-reactors-fueled-with-u235-4",
+      "end_line": 111,
+      "heading": "Homogeneous Reactors Fueled With U235 4",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "homogeneous-reactors-fueled-with-u233-9",
+      "end_line": 113,
+      "heading": "Homogeneous Reactors Fueled With U233 9",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "nuclear-performance-of-a-reference-design-reactor-14",
+      "end_line": 115,
+      "heading": "Nuclear Performance Of A Reference Design Reactor 14",
+      "level": 2,
+      "start_line": 114
+    },
+    {
+      "anchor": "comparative-performance-18",
+      "end_line": 117,
+      "heading": "Comparative Performance 18",
+      "level": 2,
+      "start_line": 116
+    },
+    {
+      "anchor": "acknowledgments-18",
+      "end_line": 119,
+      "heading": "Acknowledgments 18",
+      "level": 2,
+      "start_line": 118
+    },
+    {
+      "anchor": "nuclear-characteristics-of-spherical-homogeneous-two-region-molten-fluoride-salt-reactors",
+      "end_line": 129,
+      "heading": "NUCLEAR CHARACTERISTICS OF SPHERICAL, HOMOGENEOUS, TWO-REGION, MOLTEN-FLUORIDE-SALT REACTORS",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 151,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "prior-work",
+      "end_line": 185,
+      "heading": "PRIOR WORK",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "method-of-calculation",
+      "end_line": 195,
+      "heading": "METHOD OF CALCULATION",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "homogeneous-reactors-fueled-with-u-sup-235-sup",
+      "end_line": 201,
+      "heading": "HOMOGENEOUS REACTORS FUELED WITH U<sup>235</sup>",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "initial-states",
+      "end_line": 247,
+      "heading": "Initial States",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "neutron-balances-and-other-reactor-variables",
+      "end_line": 268,
+      "heading": "Neutron Balances and Other Reactor Variables",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "homogeneous-reactors-fueled-with-u233",
+      "end_line": 342,
+      "heading": "HOMOGENEOUS REACTORS FUELED WITH U233",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "nuclear-performance-of-a-reference-design-reactor",
+      "end_line": 386,
+      "heading": "NUCLEAR PERFORMANCE OF A REFERENCE DESIGN REACTOR",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "comparative-performance",
+      "end_line": 395,
+      "heading": "COMPARATIVE PERFORMANCE",
+      "level": 1,
+      "start_line": 387
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 417,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 563,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 418
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 570,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 564
+    }
+  ],
+  "source_dir": "pdf/ORNL-2751",
+  "tables": [],
+  "title": "![](images/95066d96705fecd506bbc5cc50e1eb4c9cef1806ce5ba44eba157d4a1ee94121.jpg)",
+  "topics": [
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

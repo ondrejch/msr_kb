@@ -1,0 +1,795 @@
+{
+  "authors": [
+    "R. B. Lindauer",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2578.jsonl",
+  "date_text": "June 1, 1965",
+  "doc_id": "ornl-tm-2578",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 17,
+        "line_hits": [
+          68,
+          128,
+          130,
+          203,
+          320,
+          324,
+          437,
+          441,
+          544,
+          549,
+          551,
+          559,
+          561,
+          563,
+          577,
+          579,
+          652
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          70,
+          116,
+          203,
+          205,
+          210,
+          499,
+          573,
+          588,
+          590,
+          592,
+          597,
+          599,
+          648
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          140,
+          297,
+          463,
+          465,
+          504,
+          506,
+          590,
+          658,
+          676,
+          678,
+          689,
+          691
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          99,
+          140,
+          461,
+          465,
+          504,
+          506,
+          536,
+          662,
+          676,
+          684
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          140,
+          487,
+          534,
+          542,
+          551,
+          652
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          216,
+          410,
+          435
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          701
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          465
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          551
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 13,
+        "line_hits": [
+          49,
+          157,
+          175,
+          198,
+          199,
+          283,
+          285,
+          293,
+          297,
+          299,
+          463,
+          481,
+          506
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          105,
+          148,
+          179,
+          310,
+          350,
+          362,
+          465,
+          481,
+          499,
+          508,
+          571,
+          592
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          46,
+          130,
+          155,
+          197,
+          210,
+          259,
+          461,
+          588,
+          605,
+          703
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          105,
+          112,
+          153,
+          303,
+          445
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          285,
+          481
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 15,
+        "line_hits": [
+          13,
+          107,
+          220,
+          241,
+          370,
+          695,
+          696,
+          697,
+          699,
+          700,
+          702,
+          704,
+          705,
+          706,
+          862
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          23,
+          862,
+          864,
+          866
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          703
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          19
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 28,
+        "line_hits": [
+          83,
+          97,
+          194,
+          203,
+          212,
+          216,
+          229,
+          249,
+          255,
+          261,
+          269,
+          277,
+          279,
+          281,
+          303,
+          316,
+          318,
+          356,
+          376,
+          445,
+          508,
+          516,
+          561,
+          588,
+          627,
+          631,
+          656,
+          670
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          7,
+          83,
+          87,
+          89,
+          91,
+          99,
+          110,
+          187,
+          293,
+          421,
+          435,
+          571,
+          614,
+          682,
+          696
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 37,
+        "line_hits": [
+          41,
+          97,
+          116,
+          120,
+          153,
+          169,
+          201,
+          203,
+          208,
+          269,
+          277,
+          318,
+          441,
+          455,
+          471,
+          483,
+          487,
+          551,
+          555,
+          561,
+          563,
+          565,
+          567,
+          575,
+          582,
+          592,
+          597,
+          603,
+          610,
+          614,
+          616,
+          619,
+          623,
+          633,
+          640,
+          648,
+          650
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          465
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          99
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          465
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "079b3153c00aa78928538fa05db27dc74500afc3e5a3077ae7f9fde1c90eef7d",
+  "markdown_path": "pdf/ORNL-TM-2578/ORNL-TM-2578/hybrid_ocr/ORNL-TM-2578.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 56,
+  "sections": [
+    {
+      "anchor": "crnl-tm-2578",
+      "end_line": 6,
+      "heading": "Crnl-Tm-2578",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "processing-of-the-msre-flush-and-fuel-salts",
+      "end_line": 10,
+      "heading": "Processing Of The Msre Flush And Fuel Salts",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "august-1969",
+      "end_line": 12,
+      "heading": "August 1969",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 18,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 22,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 24,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "contents",
+      "end_line": 26,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 61,
+      "heading": "Abstract 1",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "page",
+      "end_line": 80,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 84,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 94,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "2-summary",
+      "end_line": 100,
+      "heading": "2. SUMMARY",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "3-process-description",
+      "end_line": 102,
+      "heading": "3. PROCESS DESCRIPTION",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "3-1-fluorination",
+      "end_line": 106,
+      "heading": "3.1 Fluorination",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "ornl-dwg-68-8994",
+      "end_line": 137,
+      "heading": "Ornl-Dwg 68-8994",
+      "level": 2,
+      "start_line": 107
+    },
+    {
+      "anchor": "3-2-reduction",
+      "end_line": 141,
+      "heading": "3.2 Reduction",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "4-equipment-description-and-performance",
+      "end_line": 145,
+      "heading": "4. EQUIPMENT DESCRIPTION AND PERFORMANCE",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "4-1-plant-layout",
+      "end_line": 160,
+      "heading": "4.1 Plant Layout",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "4-2-shielding",
+      "end_line": 176,
+      "heading": "4.2 Shielding",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "4-3-fuel-storage-tank",
+      "end_line": 200,
+      "heading": "4.3 Fuel Storage Tank",
+      "level": 1,
+      "start_line": 177
+    },
+    {
+      "anchor": "4-4-naf-trap",
+      "end_line": 213,
+      "heading": "4.4 NaF Trap",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "4-5-caustic-scrubber",
+      "end_line": 219,
+      "heading": "4.5 Caustic Scrubber",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "ornl-dwg65-2513r",
+      "end_line": 226,
+      "heading": "Ornl-Dwg65-2513R",
+      "level": 2,
+      "start_line": 220
+    },
+    {
+      "anchor": "4-6-mist-filter",
+      "end_line": 230,
+      "heading": "4.6 Mist Filter",
+      "level": 1,
+      "start_line": 227
+    },
+    {
+      "anchor": "4-7-soda-lime-trap",
+      "end_line": 236,
+      "heading": "4.7 Soda-Lime Trap",
+      "level": 1,
+      "start_line": 231
+    },
+    {
+      "anchor": "4-8-charcoal-traps",
+      "end_line": 240,
+      "heading": "4.8 Charcoal Traps",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "ornl-dwg-68-2730a",
+      "end_line": 258,
+      "heading": "Ornl-Dwg 68-2730A",
+      "level": 2,
+      "start_line": 241
+    },
+    {
+      "anchor": "4-9-off-gas-filter",
+      "end_line": 266,
+      "heading": "4.9 Off-Gas Filter",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "4-10-gas-supply-system",
+      "end_line": 274,
+      "heading": "4.10 Gas Supply System",
+      "level": 1,
+      "start_line": 267
+    },
+    {
+      "anchor": "4-11-uf-6-absorbers",
+      "end_line": 282,
+      "heading": "4.11 UF 6 Absorbers",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "4-12-salt-sampler",
+      "end_line": 300,
+      "heading": "4.12 Salt Sampler",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "4-13-salt-filter",
+      "end_line": 313,
+      "heading": "4.13 Salt Filter",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "4-14-special-instrumentation",
+      "end_line": 363,
+      "heading": "4.14 Special Instrumentation",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "5-operating-history",
+      "end_line": 365,
+      "heading": "5. OPERATING HISTORY",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "5-1-fluorine-reactor-tests",
+      "end_line": 369,
+      "heading": "5.1 Fluorine Reactor Tests",
+      "level": 1,
+      "start_line": 366
+    },
+    {
+      "anchor": "ornl-dwg-65-2515r",
+      "end_line": 372,
+      "heading": "Ornl-Dwg 65-2515R",
+      "level": 2,
+      "start_line": 370
+    },
+    {
+      "anchor": "f2-reactor",
+      "end_line": 428,
+      "heading": "F2 Reactor",
+      "level": 2,
+      "start_line": 373
+    },
+    {
+      "anchor": "5-2-caustic-scrubber-tests",
+      "end_line": 442,
+      "heading": "5.2 Caustic Scrubber Tests",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "5-3-fluorination-of-the-flush-salt",
+      "end_line": 458,
+      "heading": "5.3 Fluorination of the Flush Salt",
+      "level": 1,
+      "start_line": 443
+    },
+    {
+      "anchor": "5-4-reduction-of-the-flush-salt",
+      "end_line": 466,
+      "heading": "5.4 Reduction of the Flush Salt",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "5-5-fluorination-of-the-fuel-salt",
+      "end_line": 494,
+      "heading": "5.5 Fluorination of the Fuel Salt",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "5-6-reduction-of-the-fuel-salt",
+      "end_line": 509,
+      "heading": "5.6 Reduction of the Fuel Salt",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "6-discussion-of-data",
+      "end_line": 511,
+      "heading": "6. DISCUSSION OF DATA",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "6-1-fluorine-utilization",
+      "end_line": 531,
+      "heading": "6.1 Fluorine Utilization",
+      "level": 1,
+      "start_line": 512
+    },
+    {
+      "anchor": "6-2-corrosion",
+      "end_line": 548,
+      "heading": "6.2 Corrosion",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "6-3-molybdenum",
+      "end_line": 568,
+      "heading": "6.3 Molybdenum",
+      "level": 1,
+      "start_line": 549
+    },
+    {
+      "anchor": "6-4-plutonium",
+      "end_line": 572,
+      "heading": "6.4 Plutonium",
+      "level": 1,
+      "start_line": 569
+    },
+    {
+      "anchor": "6-5-niobium",
+      "end_line": 600,
+      "heading": "6.5 Niobium",
+      "level": 1,
+      "start_line": 573
+    },
+    {
+      "anchor": "6-6-iodine-and-tellurium",
+      "end_line": 611,
+      "heading": "6.6 Iodine and Tellurium",
+      "level": 1,
+      "start_line": 601
+    },
+    {
+      "anchor": "6-7-uranium-absorption",
+      "end_line": 628,
+      "heading": "6.7 Uranium Absorption",
+      "level": 1,
+      "start_line": 612
+    },
+    {
+      "anchor": "6-8-uranium-product-purity",
+      "end_line": 653,
+      "heading": "6.8 Uranium Product Purity",
+      "level": 1,
+      "start_line": 629
+    },
+    {
+      "anchor": "6-9-reduction-of-metal-fluorides",
+      "end_line": 679,
+      "heading": "6.9 Reduction of Metal Fluorides",
+      "level": 1,
+      "start_line": 654
+    },
+    {
+      "anchor": "7-acknowledgments",
+      "end_line": 692,
+      "heading": "7. ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 680
+    },
+    {
+      "anchor": "8-references",
+      "end_line": 707,
+      "heading": "8. REFERENCES",
+      "level": 1,
+      "start_line": 693
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 859,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 870,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 860
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2578",
+  "tables": [],
+  "title": "CRNL-TM-2578",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

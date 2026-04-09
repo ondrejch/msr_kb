@@ -1,0 +1,934 @@
+{
+  "authors": [
+    "G. T. Mays",
+    "A. N. Smith",
+    "J. R. Engel",
+    "MASTER",
+    "National Technical Information Service",
+    "U.S. Department of Commerce"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-5759.jsonl",
+  "date_text": "April 1977",
+  "doc_id": "ornl-tm-5759",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 6,
+        "line_hits": [
+          225,
+          258,
+          271,
+          308,
+          335,
+          761
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          207,
+          696,
+          713
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          187,
+          203
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 88,
+        "line_hits": [
+          72,
+          88,
+          98,
+          140,
+          177,
+          207,
+          227,
+          238,
+          242,
+          244,
+          258,
+          284,
+          286,
+          291,
+          293,
+          320,
+          324,
+          339,
+          341,
+          355,
+          358,
+          359,
+          361,
+          372,
+          374,
+          376,
+          378,
+          387,
+          388,
+          390,
+          402,
+          404,
+          406,
+          410,
+          413,
+          414,
+          427,
+          432,
+          436,
+          448,
+          450,
+          457,
+          460,
+          474,
+          476,
+          493,
+          495,
+          497,
+          501,
+          505
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 46,
+        "line_hits": [
+          225,
+          234,
+          242,
+          246,
+          258,
+          265,
+          267,
+          300,
+          302,
+          304,
+          321,
+          322,
+          328,
+          355,
+          361,
+          406,
+          438,
+          450,
+          493,
+          495,
+          497,
+          499,
+          501,
+          505,
+          511,
+          513,
+          515,
+          527,
+          535,
+          545,
+          549,
+          551,
+          557,
+          561,
+          569,
+          578,
+          580,
+          586,
+          608,
+          618,
+          620,
+          632,
+          640,
+          642,
+          650,
+          660
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          225,
+          227,
+          242,
+          244,
+          266,
+          267,
+          278,
+          282,
+          286,
+          302,
+          308,
+          320,
+          333,
+          374,
+          402,
+          486,
+          527,
+          531,
+          636,
+          640,
+          676,
+          764
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          72,
+          73,
+          140,
+          141,
+          282,
+          284,
+          291,
+          293,
+          296,
+          298,
+          324,
+          349,
+          452,
+          527,
+          545,
+          567,
+          584
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          225,
+          227,
+          282,
+          308
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          195,
+          312,
+          314
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          195,
+          203
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          11,
+          42,
+          784,
+          785,
+          787,
+          788,
+          790,
+          791,
+          792,
+          793,
+          794
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          13,
+          42
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 39,
+        "line_hits": [
+          58,
+          103,
+          116,
+          125,
+          173,
+          175,
+          179,
+          181,
+          185,
+          187,
+          189,
+          195,
+          199,
+          203,
+          209,
+          213,
+          215,
+          221,
+          225,
+          312,
+          314,
+          333,
+          646,
+          682,
+          684,
+          686,
+          688,
+          700,
+          704,
+          709,
+          711,
+          713,
+          716,
+          770,
+          774,
+          776,
+          791,
+          792,
+          794
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          227,
+          229,
+          328,
+          361,
+          363,
+          392,
+          416,
+          421,
+          448,
+          515,
+          586,
+          590,
+          592,
+          642,
+          656,
+          666,
+          670,
+          688,
+          690,
+          706,
+          716,
+          722
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          59,
+          201,
+          203,
+          205,
+          209,
+          225,
+          361
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 4,
+        "line_hits": [
+          785,
+          787,
+          788,
+          793
+        ],
+        "name": "MSR Program Semiannual Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 25,
+        "line_hits": [
+          105,
+          175,
+          177,
+          181,
+          213,
+          215,
+          221,
+          240,
+          333,
+          346,
+          347,
+          448,
+          515,
+          674,
+          678,
+          682,
+          686,
+          718,
+          720,
+          756,
+          760,
+          762,
+          770,
+          772,
+          776
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          187,
+          203
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          187,
+          203
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          213,
+          227
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          187
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "26129b499d90d006a3bea4657b950b19a55dd60a9d15c0b325349fcfa65d621c",
+  "markdown_path": "pdf/ORNL-TM-5759/ORNL-TM-5759/hybrid_ocr/ORNL-TM-5759.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 68,
+  "sections": [
+    {
+      "anchor": "distribution-and-behavior-of-tritium-in-the-coolant-salt-technology-facility",
+      "end_line": 8,
+      "heading": "Distribution and Behavior of Tritium in the Coolant-Salt Technology Facility",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 10,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 30,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "distribution-and-behavior-of-tritium-in-the-coolant-salt-technology-facility",
+      "end_line": 49,
+      "heading": "Distribution And Behavior Of Tritium In The Coolant-Salt Technology Facility",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "contents",
+      "end_line": 53,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 55,
+      "heading": "ABSTRACT 1",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "1-introduction-2",
+      "end_line": 61,
+      "heading": "1. INTRODUCTION 2",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "2-coolant-salt-technology-facility-cstf-4",
+      "end_line": 75,
+      "heading": "2. COOLANT-SALT TECHNOLOGY FACILITY (CSTF) 4",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "3-general-description-of-experiments-15",
+      "end_line": 77,
+      "heading": "3. GENERAL DESCRIPTION OF EXPERIMENTS 15",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "4-results-of-transient-experiments-19",
+      "end_line": 84,
+      "heading": "4. RESULTS OF TRANSIENT EXPERIMENTS 19",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "5-results-of-steady-state-experiment-t4-30",
+      "end_line": 91,
+      "heading": "5. RESULTS OF STEADY-STATE EXPERIMENT T4 30",
+      "level": 1,
+      "start_line": 85
+    },
+    {
+      "anchor": "6-results-of-steady-state-experiment-t5-38",
+      "end_line": 100,
+      "heading": "6. RESULTS OF STEADY-STATE EXPERIMENT T5 38",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "7-intercomparison-and-interpretation-of-experimental-results-51",
+      "end_line": 102,
+      "heading": "7. INTERCOMPARISON AND INTERPRETATION OF EXPERIMENTAL RESULTS 51",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "8-extrapolation-to-msbr-conditions-53",
+      "end_line": 104,
+      "heading": "8. EXTRAPOLATION TO MSBR CONDITIONS 53",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "9-chemistry-of-trapping-process-in-sodium-fluoroborate-55",
+      "end_line": 106,
+      "heading": "9. CHEMISTRY OF TRAPPING PROCESS IN SODIUM FLUOROBORATE 55",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "page",
+      "end_line": 108,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "10-further-experimentation-required-56",
+      "end_line": 109,
+      "heading": "10. FURTHER EXPERIMENTATION REQUIRED 56",
+      "level": 2,
+      "start_line": 109
+    },
+    {
+      "anchor": "11-conclusion-57",
+      "end_line": 110,
+      "heading": "11. CONCLUSION 57",
+      "level": 2,
+      "start_line": 110
+    },
+    {
+      "anchor": "12-acknowledgments-58",
+      "end_line": 111,
+      "heading": "12. ACKNOWLEDGMENTS 58",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "13-references-58",
+      "end_line": 113,
+      "heading": "13. REFERENCES 58",
+      "level": 2,
+      "start_line": 112
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 130,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 114
+    },
+    {
+      "anchor": "vii",
+      "end_line": 132,
+      "heading": "vii",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 134,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "page",
+      "end_line": 165,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "distribution-and-behavior-of-tritium-in-the-coolant-salt-technology-facility",
+      "end_line": 170,
+      "heading": "DISTRIBUTION AND BEHAVIOR OF TRITIUM IN THE COOLANT-SALT TECHNOLOGY FACILITY",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 182,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 184,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "1-1-tritium-in-msbr",
+      "end_line": 200,
+      "heading": "1.1 Tritium in MSBR",
+      "level": 1,
+      "start_line": 185
+    },
+    {
+      "anchor": "1-2-tritium-in-the-msre",
+      "end_line": 210,
+      "heading": "1.2 Tritium in the MSRE",
+      "level": 1,
+      "start_line": 201
+    },
+    {
+      "anchor": "1-3-proposal-for-limitation-of-tritium-transport",
+      "end_line": 216,
+      "heading": "1.3 Proposal for Limitation of Tritium Transport",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "2-coolant-salt-technology-facility-cstf",
+      "end_line": 218,
+      "heading": "2. COOLANT-SALT TECHNOLOGY FACILITY (CSTF)",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "2-1-primary-function-and-capabilities",
+      "end_line": 222,
+      "heading": "2.1 Primary Function and Capabilities",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "2-2-description-of-physical-parameters-of-cstf",
+      "end_line": 235,
+      "heading": "2.2 Description of Physical Parameters of CSTF",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "2-3-operating-history-of-cstf",
+      "end_line": 247,
+      "heading": "2.3 Operating History of CSTF",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "2-4-equipment-for-tritium-tests",
+      "end_line": 251,
+      "heading": "2.4 Equipment for Tritium Tests",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "2-4-1-bstf-physical-parameters-for-tritium-tests",
+      "end_line": 255,
+      "heading": "2.4.1 BSTF physical parameters for tritium tests",
+      "level": 1,
+      "start_line": 252
+    },
+    {
+      "anchor": "2-4-2-addition-of-tritium-to-cstf",
+      "end_line": 279,
+      "heading": "2.4.2 Addition of tritium to CSTF",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "2-4-3-salt-sampling",
+      "end_line": 283,
+      "heading": "2.4.3 Salt sampling",
+      "level": 1,
+      "start_line": 280
+    },
+    {
+      "anchor": "2-4-4-off-gas-sampling-system",
+      "end_line": 297,
+      "heading": "2.4.4 Off-gas sampling system",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "2-4-5-cooling-duct-air-sampling-system",
+      "end_line": 305,
+      "heading": "2.4.5 Cooling duct air sampling system",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "2-4-6-hydrogen-partial-pressure-probe",
+      "end_line": 309,
+      "heading": "2.4.6 Hydrogen partial pressure probe",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "3-general-description-of-the-experiments",
+      "end_line": 350,
+      "heading": "3. GENERAL DESCRIPTION OF THE EXPERIMENTS",
+      "level": 1,
+      "start_line": 310
+    },
+    {
+      "anchor": "4-results-of-transient-experiments",
+      "end_line": 352,
+      "heading": "4. RESULTS OF TRANSIENT EXPERIMENTS",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "4-1-experiment-tl",
+      "end_line": 381,
+      "heading": "4.1 Experiment Tl",
+      "level": 1,
+      "start_line": 353
+    },
+    {
+      "anchor": "4-2-experiment-t2",
+      "end_line": 407,
+      "heading": "4.2 Experiment T2",
+      "level": 1,
+      "start_line": 382
+    },
+    {
+      "anchor": "4-3-experiment-t3",
+      "end_line": 443,
+      "heading": "4.3 Experiment T3",
+      "level": 1,
+      "start_line": 408
+    },
+    {
+      "anchor": "4-4-summary-of-transient-experiments-t1-t2-and-t3",
+      "end_line": 463,
+      "heading": "4.4 Summary of Transient Experiments T1, T2, and T3",
+      "level": 1,
+      "start_line": 444
+    },
+    {
+      "anchor": "5-results-of-steady-state-experiment-t4",
+      "end_line": 481,
+      "heading": "5. RESULTS OF STEADY-STATE EXPERIMENT T4",
+      "level": 1,
+      "start_line": 464
+    },
+    {
+      "anchor": "5-1-buildup-and-attainment-of-steady-state-conditions",
+      "end_line": 524,
+      "heading": "5.1 Buildup and Attainment of Steady-State Conditions",
+      "level": 1,
+      "start_line": 482
+    },
+    {
+      "anchor": "5-2-change-in-off-gas-flow-rate",
+      "end_line": 532,
+      "heading": "5.2 Change in Off-Gas Flow Rate",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "5-3-stripping-period",
+      "end_line": 542,
+      "heading": "5.3 Stripping Period",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "5-4-tests-for-tritium-concentration-in-addition-gas",
+      "end_line": 546,
+      "heading": "5.4 Tests for Tritium Concentration in Addition Gas",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "6-results-of-steady-state-experiment-t5",
+      "end_line": 562,
+      "heading": "6. RESULTS OF STEADY-STATE EXPERIMENT T5",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "6-1-buildup-and-attainment-of-steady-state-conditions",
+      "end_line": 597,
+      "heading": "6.1 Buildup and Attainment of Steady-State Conditions",
+      "level": 1,
+      "start_line": 563
+    },
+    {
+      "anchor": "6-2-mathrm-nabo-2-addition-to-cstf",
+      "end_line": 609,
+      "heading": "6.2 $\\mathrm{NaBO_2}$ Addition to CSTF",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "6-3-mathbf-b-2-mathbf-o-3-addition-to-cstf",
+      "end_line": 623,
+      "heading": "6.3 $\\mathbf{B}_2\\mathbf{O}_3$ Addition to CSTF",
+      "level": 1,
+      "start_line": 610
+    },
+    {
+      "anchor": "6-4-helium-leak-detector-measurements",
+      "end_line": 633,
+      "heading": "6.4 Helium Leak Detector Measurements",
+      "level": 1,
+      "start_line": 624
+    },
+    {
+      "anchor": "6-5-extraneous-source-of-hydrogen-in-off-gas-system",
+      "end_line": 647,
+      "heading": "6.5 Extraneous Source of Hydrogen in Off-Gas System",
+      "level": 1,
+      "start_line": 634
+    },
+    {
+      "anchor": "6-6-stripping-period",
+      "end_line": 667,
+      "heading": "6.6 Stripping Period",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "7-intercomparison-and-interpretation-of-experimental-results",
+      "end_line": 683,
+      "heading": "7. INTERCOMPARISON AND INTERPRETATION OF EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "8-extrapolation-to-msbr-conditions",
+      "end_line": 717,
+      "heading": "8. EXTRAPOLATION TO MSBR CONDITIONS",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "9-chemistry-of-trapping-process-in-sodium-fluoroborate",
+      "end_line": 753,
+      "heading": "9. CHEMISTRY OF TRAPPING PROCESS IN SODIUM FLUOROBORATE",
+      "level": 1,
+      "start_line": 718
+    },
+    {
+      "anchor": "10-further-experimentation-required",
+      "end_line": 767,
+      "heading": "10. FURTHER EXPERIMENTATION REQUIRED",
+      "level": 1,
+      "start_line": 754
+    },
+    {
+      "anchor": "11-conclusion",
+      "end_line": 777,
+      "heading": "11. CONCLUSION",
+      "level": 1,
+      "start_line": 768
+    },
+    {
+      "anchor": "12-acknowledgments",
+      "end_line": 781,
+      "heading": "12. ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 778
+    },
+    {
+      "anchor": "13-references",
+      "end_line": 795,
+      "heading": "13. REFERENCES",
+      "level": 1,
+      "start_line": 782
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 849,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 796
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 855,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 850
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-5759",
+  "tables": [],
+  "title": "G. T. Mays",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

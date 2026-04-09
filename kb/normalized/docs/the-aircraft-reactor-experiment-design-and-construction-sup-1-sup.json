@@ -1,0 +1,241 @@
+{
+  "authors": [
+    "E.S. BETTIS",
+    "R.W. SCHROEDER",
+    "G.A. CRISTY",
+    "H.W. SAVAGE",
+    "R.G. AFFEL",
+    "AND L.F. HEMPHILL"
+  ],
+  "claims_path": "kb/normalized/claims/the-aircraft-reactor-experiment-design-and-construction-sup-1-sup.jsonl",
+  "date_text": "June 18, 1957",
+  "doc_id": "the-aircraft-reactor-experiment-design-and-construction-sup-1-sup",
+  "document_type": "paper",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          22
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 9,
+        "line_hits": [
+          33,
+          35,
+          67,
+          114,
+          116,
+          118,
+          120,
+          122,
+          130
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          41,
+          120,
+          126,
+          130,
+          154,
+          164,
+          170,
+          172
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          47,
+          106,
+          158
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          35,
+          114,
+          130
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          130,
+          180
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 2,
+        "line_hits": [
+          5,
+          11
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 16,
+        "line_hits": [
+          1,
+          7,
+          9,
+          11,
+          35,
+          39,
+          45,
+          61,
+          88,
+          146,
+          152,
+          156,
+          160,
+          174,
+          194,
+          198
+        ],
+        "name": "ARE"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 3,
+        "line_hits": [
+          202,
+          204,
+          205
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 4,
+        "line_hits": [
+          20,
+          31,
+          180,
+          198
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "5740926f9b7031bf51105a78efebe649ac7ec912deecc3b340c8703cfa3f43a6",
+  "markdown_path": "pdf/NSE_ARE_Design/NSE_ARE_Design/hybrid_ocr/NSE_ARE_Design.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "nuclear-science-and-engineering",
+  "section_count": 11,
+  "sections": [
+    {
+      "anchor": "the-aircraft-reactor-experiment-design-and-construction-sup-1-sup",
+      "end_line": 36,
+      "heading": "The Aircraft Reactor Experiment-Design and Construction<sup>1</sup>",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "operating-facility",
+      "end_line": 42,
+      "heading": "OPERATING FACILITY",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "the-reactor",
+      "end_line": 78,
+      "heading": "THE REACTOR",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "design-considerations",
+      "end_line": 96,
+      "heading": "DESIGN CONSIDERATIONS",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "control-system",
+      "end_line": 111,
+      "heading": "CONTROL SYSTEM",
+      "level": 1,
+      "start_line": 97
+    },
+    {
+      "anchor": "heat-exchange-systems",
+      "end_line": 131,
+      "heading": "HEAT EXCHANGE SYSTEMS",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "fill-and-dump-tanks",
+      "end_line": 149,
+      "heading": "FILL AND DUMP TANKS",
+      "level": 1,
+      "start_line": 132
+    },
+    {
+      "anchor": "the-control-room",
+      "end_line": 175,
+      "heading": "THE CONTROL ROOM",
+      "level": 1,
+      "start_line": 150
+    },
+    {
+      "anchor": "auxiliary-equipment",
+      "end_line": 191,
+      "heading": "AUXILIARY EQUIPMENT",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "summary-of-construction-experience",
+      "end_line": 199,
+      "heading": "SUMMARY OF CONSTRUCTION EXPERIENCE",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "references",
+      "end_line": 205,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 200
+    }
+  ],
+  "source_dir": "pdf/NSE_ARE_Design",
+  "tables": [],
+  "title": "The Aircraft Reactor Experiment-Design and Construction<sup>1</sup>",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "graphite-and-moderator-behavior",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance",
+    "salt-systems-and-thermophysics",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

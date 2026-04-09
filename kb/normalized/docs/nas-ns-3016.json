@@ -1,0 +1,955 @@
+{
+  "authors": [
+    "Academy",
+    "Sciences",
+    "National Research Council",
+    "NUCLEAR SCIENCE SERIES",
+    "NAS-NS",
+    "The Radiochemistry of Protactinium"
+  ],
+  "claims_path": "kb/normalized/claims/nas-ns-3016.jsonl",
+  "date_text": "November 1, 1957",
+  "doc_id": "nas-ns-3016",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 17,
+        "line_hits": [
+          305,
+          353,
+          371,
+          373,
+          400,
+          404,
+          408,
+          412,
+          416,
+          420,
+          427,
+          430,
+          453,
+          655,
+          849,
+          1008,
+          1033
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          373,
+          379,
+          412,
+          420,
+          427,
+          430,
+          432,
+          689,
+          815
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          353,
+          373,
+          379,
+          453,
+          815
+        ],
+        "name": "titanium"
+      }
+    ],
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          93,
+          194,
+          269,
+          803,
+          1071,
+          1078,
+          1084,
+          1090,
+          1098,
+          1117,
+          1118,
+          1120,
+          1122
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          43,
+          139,
+          972,
+          1090,
+          1098
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          131,
+          151
+        ],
+        "name": "University of California"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          147
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          101
+        ],
+        "name": "US Air Force"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 29,
+        "line_hits": [
+          204,
+          208,
+          279,
+          281,
+          289,
+          295,
+          327,
+          337,
+          339,
+          343,
+          379,
+          406,
+          412,
+          427,
+          432,
+          449,
+          481,
+          489,
+          516,
+          518,
+          520,
+          536,
+          538,
+          585,
+          761,
+          831,
+          909,
+          958,
+          960
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          349
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          807
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "0119bc266a405730e23625d4c1178bc987e1d67332363112ae94a2632f339344",
+  "markdown_path": "pdf/NAS-NS-3016/NAS-NS-3016/hybrid_ocr/NAS-NS-3016.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "nas-ns-series",
+  "section_count": 108,
+  "sections": [
+    {
+      "anchor": "nuclear-science-series",
+      "end_line": 12,
+      "heading": "Nuclear Science Series",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "nas-ns",
+      "end_line": 16,
+      "heading": "Nas-Ns",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "the-radiochemistry-of-protactinium",
+      "end_line": 18,
+      "heading": "The Radiochemistry of Protactinium",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "u-s",
+      "end_line": 26,
+      "heading": "U.S.",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "committee-on-nuclear-science",
+      "end_line": 40,
+      "heading": "COMMITTEE ON NUCLEAR SCIENCE",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "c-j-borkowski",
+      "end_line": 44,
+      "heading": "C.J.Borkowski",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "robert-g-cochran",
+      "end_line": 50,
+      "heading": "Robert G. Cochran",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "samuel-epstein",
+      "end_line": 54,
+      "heading": "Samuel Epstein",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "u-fano",
+      "end_line": 58,
+      "heading": "U. Fano",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "herbert-goldstein",
+      "end_line": 64,
+      "heading": "Herbert Goldstein",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "j-w-irvine-jr",
+      "end_line": 68,
+      "heading": "J.W.Irvine, Jr.",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "e-d-klema",
+      "end_line": 72,
+      "heading": "E.D.Klema",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "w-wayne-meinke",
+      "end_line": 76,
+      "heading": "W. Wayne Meinke",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "j-j-nickson",
+      "end_line": 80,
+      "heading": "J. J. Nickson",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "robert-l-platzman",
+      "end_line": 84,
+      "heading": "Robert L. Platzman",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "d-m-van-patter",
+      "end_line": 88,
+      "heading": "D. M. Van Patter",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "liaison-members",
+      "end_line": 90,
+      "heading": "LIAISON MEMBERS",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "paul-c-aebersold",
+      "end_line": 98,
+      "heading": "Paul C. Aebersold",
+      "level": 2,
+      "start_line": 91
+    },
+    {
+      "anchor": "charles-k-reed",
+      "end_line": 102,
+      "heading": "Charles K. Reed",
+      "level": 2,
+      "start_line": 99
+    },
+    {
+      "anchor": "william-e-wright",
+      "end_line": 106,
+      "heading": "William E. Wright",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "subcommittee-on-radiochemistry",
+      "end_line": 112,
+      "heading": "SUBCOMMITTEE ON RADIOCHEMISTRY",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "gregory-r-choppin",
+      "end_line": 116,
+      "heading": "Gregory R. Choppin",
+      "level": 2,
+      "start_line": 113
+    },
+    {
+      "anchor": "george-a-cowan",
+      "end_line": 120,
+      "heading": "George A. Cowan",
+      "level": 2,
+      "start_line": 117
+    },
+    {
+      "anchor": "arthur-w-fairhall",
+      "end_line": 124,
+      "heading": "Arthur W. Fairhall",
+      "level": 2,
+      "start_line": 121
+    },
+    {
+      "anchor": "jerome-hudis",
+      "end_line": 128,
+      "heading": "Jerome Hudis",
+      "level": 2,
+      "start_line": 125
+    },
+    {
+      "anchor": "earl-hyde",
+      "end_line": 132,
+      "heading": "Earl Hyde",
+      "level": 2,
+      "start_line": 129
+    },
+    {
+      "anchor": "harold-kirby",
+      "end_line": 136,
+      "heading": "Harold Kirby",
+      "level": 2,
+      "start_line": 133
+    },
+    {
+      "anchor": "georgeleddicotte",
+      "end_line": 140,
+      "heading": "Georgeleddicotte",
+      "level": 2,
+      "start_line": 137
+    },
+    {
+      "anchor": "julian-nielsen",
+      "end_line": 144,
+      "heading": "Julian Nielsen",
+      "level": 2,
+      "start_line": 141
+    },
+    {
+      "anchor": "ellis-p-steinberg",
+      "end_line": 148,
+      "heading": "Ellis P. Steinberg",
+      "level": 2,
+      "start_line": 145
+    },
+    {
+      "anchor": "peter-c-stevenson",
+      "end_line": 152,
+      "heading": "Peter C. Stevenson",
+      "level": 2,
+      "start_line": 149
+    },
+    {
+      "anchor": "leo-yaffe",
+      "end_line": 156,
+      "heading": "Leo Yaffe",
+      "level": 2,
+      "start_line": 153
+    },
+    {
+      "anchor": "consultants",
+      "end_line": 158,
+      "heading": "CONSULTANTS",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "nathan-ballou",
+      "end_line": 168,
+      "heading": "Nathan Ballou",
+      "level": 2,
+      "start_line": 159
+    },
+    {
+      "anchor": "william-marlow",
+      "end_line": 172,
+      "heading": "William Marlow",
+      "level": 2,
+      "start_line": 169
+    },
+    {
+      "anchor": "the-radiochemistry-of-protactinium",
+      "end_line": 185,
+      "heading": "The Radiochemistry of Protactinium",
+      "level": 1,
+      "start_line": 173
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 199,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 209,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "contents",
+      "end_line": 211,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "i-general-reviews-of-the-chemistry-of-protactinium-1",
+      "end_line": 212,
+      "heading": "I. GENERAL REVIEWS OF THE CHEMISTRY OF PROTACTINIUM 1",
+      "level": 2,
+      "start_line": 212
+    },
+    {
+      "anchor": "ii-isotopes-of-protactinium-3",
+      "end_line": 213,
+      "heading": "II. ISOTOPES OF PROTACTINIUM 3",
+      "level": 2,
+      "start_line": 213
+    },
+    {
+      "anchor": "iii-chemistry-of-protactinium-3",
+      "end_line": 229,
+      "heading": "III. CHEMISTRY OF PROTACTINIUM 3",
+      "level": 2,
+      "start_line": 214
+    },
+    {
+      "anchor": "iv-dissolution-of-protactinium-samples-28",
+      "end_line": 230,
+      "heading": "IV. DISSOLUTION OF PROTACTINIUM SAMPLES 28",
+      "level": 2,
+      "start_line": 230
+    },
+    {
+      "anchor": "v-counting-techniques-30",
+      "end_line": 235,
+      "heading": "V. COUNTING TECHNIQUES 30",
+      "level": 2,
+      "start_line": 231
+    },
+    {
+      "anchor": "vi-detailed-radiochemical-procedures-for-protactinium-37",
+      "end_line": 243,
+      "heading": "VI. DETAILED RADIOCHEMICAL PROCEDURES FOR PROTACTINIUM 37",
+      "level": 2,
+      "start_line": 236
+    },
+    {
+      "anchor": "vii-appendix-65",
+      "end_line": 247,
+      "heading": "VII. APPENDIX 65",
+      "level": 2,
+      "start_line": 244
+    },
+    {
+      "anchor": "the-radiochemistry-of-protactinium",
+      "end_line": 259,
+      "heading": "The Radiochemistry of Protactinium*",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "i-general-reviews-of-the-chemistry-of-protactinium",
+      "end_line": 270,
+      "heading": "I. GENERAL REVIEWS OF THE CHEMISTRY OF PROTACTINIUM",
+      "level": 2,
+      "start_line": 260
+    },
+    {
+      "anchor": "ii-table-i-isotopes-of-protactinium",
+      "end_line": 274,
+      "heading": "II. TABLE I ISOTOPES OF PROTACTINIUM",
+      "level": 2,
+      "start_line": 271
+    },
+    {
+      "anchor": "iii-chemistry-of-protactinium",
+      "end_line": 276,
+      "heading": "III. CHEMISTRY OF PROTACTINIUM",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "1-general",
+      "end_line": 308,
+      "heading": "1. General",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "2-metallic-protactinium",
+      "end_line": 314,
+      "heading": "2. Metallic Protactinium",
+      "level": 1,
+      "start_line": 309
+    },
+    {
+      "anchor": "3-soluble-salts-of-protactinium",
+      "end_line": 344,
+      "heading": "3. Soluble Salts of Protactinium",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "4-insoluble-salts-useful-in-separation-and-analysis",
+      "end_line": 380,
+      "heading": "4. Insoluble Salts Useful in Separation and Analysis",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "6-solvent-extraction-of-protactinium",
+      "end_line": 417,
+      "heading": "6. Solvent Extraction of Protactinium",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "7-ion-exchange-behavior-of-protactinium",
+      "end_line": 450,
+      "heading": "7. Ion Exchange Behavior of Protactinium",
+      "level": 1,
+      "start_line": 418
+    },
+    {
+      "anchor": "8-miscellany",
+      "end_line": 476,
+      "heading": "8. Miscellany",
+      "level": 1,
+      "start_line": 451
+    },
+    {
+      "anchor": "iv-dissolution-of-protactinium-samples",
+      "end_line": 503,
+      "heading": "IV. DISSOLUTION OF PROTACTINIUM SAMPLES",
+      "level": 1,
+      "start_line": 477
+    },
+    {
+      "anchor": "v-counting-techniques",
+      "end_line": 505,
+      "heading": "V. COUNTING TECHNIQUES",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "1-protactinium-233",
+      "end_line": 521,
+      "heading": "1. Protactinium-233",
+      "level": 1,
+      "start_line": 506
+    },
+    {
+      "anchor": "2-protactinium-231",
+      "end_line": 558,
+      "heading": "2. Protactinium-231",
+      "level": 1,
+      "start_line": 522
+    },
+    {
+      "anchor": "vi-detailed-radiochemical-procedures-for-protactinium",
+      "end_line": 560,
+      "heading": "VI. DETAILED RADIOCHEMICAL PROCEDURES FOR PROTACTINIUM",
+      "level": 1,
+      "start_line": 559
+    },
+    {
+      "anchor": "procedure-1",
+      "end_line": 564,
+      "heading": "Procedure 1",
+      "level": 1,
+      "start_line": 561
+    },
+    {
+      "anchor": "procedure-1-continued",
+      "end_line": 572,
+      "heading": "Procedure 1 (Continued)",
+      "level": 1,
+      "start_line": 565
+    },
+    {
+      "anchor": "procedure-2",
+      "end_line": 578,
+      "heading": "Procedure 2",
+      "level": 1,
+      "start_line": 573
+    },
+    {
+      "anchor": "procedure-2-continued",
+      "end_line": 582,
+      "heading": "Procedure 2 (Continued)",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "procedure-3",
+      "end_line": 586,
+      "heading": "Procedure 3",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "procedure-4",
+      "end_line": 602,
+      "heading": "Procedure 4",
+      "level": 1,
+      "start_line": 587
+    },
+    {
+      "anchor": "procedure-4-continued",
+      "end_line": 612,
+      "heading": "Procedure 4 (Continued)",
+      "level": 1,
+      "start_line": 603
+    },
+    {
+      "anchor": "procedure-5",
+      "end_line": 622,
+      "heading": "Procedure 5",
+      "level": 1,
+      "start_line": 613
+    },
+    {
+      "anchor": "procedure-5-continued",
+      "end_line": 634,
+      "heading": "Procedure 5 (Continued)",
+      "level": 1,
+      "start_line": 623
+    },
+    {
+      "anchor": "procedure-5-continued",
+      "end_line": 650,
+      "heading": "Procedure 5 (Continued)",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "procedure-5-continued",
+      "end_line": 656,
+      "heading": "Procedure 5 (Continued)",
+      "level": 1,
+      "start_line": 651
+    },
+    {
+      "anchor": "procedure-6",
+      "end_line": 668,
+      "heading": "Procedure 6",
+      "level": 1,
+      "start_line": 657
+    },
+    {
+      "anchor": "procedure-6-continued",
+      "end_line": 678,
+      "heading": "Procedure 6 (Continued)",
+      "level": 1,
+      "start_line": 669
+    },
+    {
+      "anchor": "procedure-7",
+      "end_line": 686,
+      "heading": "Procedure 7",
+      "level": 1,
+      "start_line": 679
+    },
+    {
+      "anchor": "procedure-7-continued",
+      "end_line": 696,
+      "heading": "Procedure 7 (Continued)",
+      "level": 1,
+      "start_line": 687
+    },
+    {
+      "anchor": "procedure-8",
+      "end_line": 704,
+      "heading": "Procedure 8",
+      "level": 1,
+      "start_line": 697
+    },
+    {
+      "anchor": "procedure-8-continued",
+      "end_line": 715,
+      "heading": "Procedure 8 (Continued)",
+      "level": 1,
+      "start_line": 705
+    },
+    {
+      "anchor": "procedure-8-continued",
+      "end_line": 725,
+      "heading": "Procedure 8 (Continued)",
+      "level": 1,
+      "start_line": 716
+    },
+    {
+      "anchor": "procedure-9",
+      "end_line": 729,
+      "heading": "Procedure 9",
+      "level": 1,
+      "start_line": 726
+    },
+    {
+      "anchor": "procedure-9-continued",
+      "end_line": 739,
+      "heading": "Procedure 9 (Continued)",
+      "level": 1,
+      "start_line": 730
+    },
+    {
+      "anchor": "procedure-9-continued",
+      "end_line": 764,
+      "heading": "Procedure 9 (Continued)",
+      "level": 1,
+      "start_line": 740
+    },
+    {
+      "anchor": "procedure-10",
+      "end_line": 772,
+      "heading": "Procedure 10",
+      "level": 1,
+      "start_line": 765
+    },
+    {
+      "anchor": "procedure-10-continued",
+      "end_line": 780,
+      "heading": "Procedure 10 (Continued)",
+      "level": 1,
+      "start_line": 773
+    },
+    {
+      "anchor": "procedure-10-continued",
+      "end_line": 794,
+      "heading": "Procedure 10 (Continued)",
+      "level": 1,
+      "start_line": 781
+    },
+    {
+      "anchor": "procedure-10-continued",
+      "end_line": 800,
+      "heading": "Procedure 10 (Continued)",
+      "level": 1,
+      "start_line": 795
+    },
+    {
+      "anchor": "procedure-11",
+      "end_line": 810,
+      "heading": "Procedure 11",
+      "level": 1,
+      "start_line": 801
+    },
+    {
+      "anchor": "procedure-11-continued",
+      "end_line": 818,
+      "heading": "Procedure 11 (Continued)",
+      "level": 1,
+      "start_line": 811
+    },
+    {
+      "anchor": "procedure-12",
+      "end_line": 826,
+      "heading": "Procedure 12",
+      "level": 1,
+      "start_line": 819
+    },
+    {
+      "anchor": "procedure-12-continued",
+      "end_line": 832,
+      "heading": "Procedure 12 (Continued)",
+      "level": 1,
+      "start_line": 827
+    },
+    {
+      "anchor": "procedure-13",
+      "end_line": 840,
+      "heading": "Procedure 13",
+      "level": 1,
+      "start_line": 833
+    },
+    {
+      "anchor": "procedure-13-continued",
+      "end_line": 846,
+      "heading": "Procedure 13 (Continued)",
+      "level": 1,
+      "start_line": 841
+    },
+    {
+      "anchor": "procedure-14",
+      "end_line": 854,
+      "heading": "Procedure 14",
+      "level": 1,
+      "start_line": 847
+    },
+    {
+      "anchor": "procedure-14-continued",
+      "end_line": 863,
+      "heading": "Procedure 14 (Continued)",
+      "level": 1,
+      "start_line": 855
+    },
+    {
+      "anchor": "procedure-15",
+      "end_line": 869,
+      "heading": "Procedure 15",
+      "level": 1,
+      "start_line": 864
+    },
+    {
+      "anchor": "procedure-15-continued",
+      "end_line": 878,
+      "heading": "Procedure 15 (Continued)",
+      "level": 1,
+      "start_line": 870
+    },
+    {
+      "anchor": "procedure-16",
+      "end_line": 884,
+      "heading": "Procedure 16",
+      "level": 1,
+      "start_line": 879
+    },
+    {
+      "anchor": "procedure-16-continued",
+      "end_line": 898,
+      "heading": "Procedure 16 (Continued)",
+      "level": 1,
+      "start_line": 885
+    },
+    {
+      "anchor": "procedure-16-continued",
+      "end_line": 904,
+      "heading": "Procedure 16 (Continued)",
+      "level": 1,
+      "start_line": 899
+    },
+    {
+      "anchor": "procedure-17",
+      "end_line": 914,
+      "heading": "Procedure 17",
+      "level": 1,
+      "start_line": 905
+    },
+    {
+      "anchor": "procedure-17-continued",
+      "end_line": 927,
+      "heading": "Procedure 17 (Continued)",
+      "level": 1,
+      "start_line": 915
+    },
+    {
+      "anchor": "procedure-17-continued",
+      "end_line": 941,
+      "heading": "Procedure 17 (Continued)",
+      "level": 1,
+      "start_line": 928
+    },
+    {
+      "anchor": "procedure-17-continued",
+      "end_line": 943,
+      "heading": "Procedure 17 (Continued)",
+      "level": 1,
+      "start_line": 942
+    },
+    {
+      "anchor": "footnotes-to-procedure",
+      "end_line": 953,
+      "heading": "Footnotes to Procedure",
+      "level": 1,
+      "start_line": 944
+    },
+    {
+      "anchor": "procedure-17-continued",
+      "end_line": 961,
+      "heading": "Procedure 17 (Continued)",
+      "level": 1,
+      "start_line": 954
+    },
+    {
+      "anchor": "vii-appendix",
+      "end_line": 1060,
+      "heading": "VII. APPENDIX",
+      "level": 1,
+      "start_line": 962
+    },
+    {
+      "anchor": "references",
+      "end_line": 1131,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1061
+    }
+  ],
+  "source_dir": "pdf/NAS-NS-3016",
+  "tables": [],
+  "title": "National",
+  "topics": [
+    "fuel-processing-and-reprocessing",
+    "salt-chemistry-and-redox",
+    "irradiation-and-damage",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

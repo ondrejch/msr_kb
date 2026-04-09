@@ -1,0 +1,476 @@
+{
+  "authors": [
+    "J. C. Robinson*",
+    "D. N. Fry",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2318.jsonl",
+  "date_text": "March 1967",
+  "doc_id": "ornl-tm-2318",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 1,
+        "line_hits": [
+          141
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 14,
+        "line_hits": [
+          13,
+          66,
+          68,
+          95,
+          215,
+          220,
+          222,
+          224,
+          406,
+          423,
+          433,
+          444,
+          557,
+          716
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          224,
+          231,
+          251,
+          389,
+          398,
+          691
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          222,
+          398,
+          400
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          423
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          141
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 13,
+        "line_hits": [
+          70,
+          71,
+          72,
+          73,
+          228,
+          289,
+          391,
+          392,
+          484,
+          503,
+          520,
+          1188,
+          1189
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          392,
+          1196,
+          1198,
+          1201,
+          1202,
+          1205,
+          1208
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 36,
+        "line_hits": [
+          15,
+          66,
+          68,
+          79,
+          81,
+          85,
+          95,
+          175,
+          185,
+          197,
+          222,
+          226,
+          351,
+          381,
+          387,
+          389,
+          396,
+          404,
+          418,
+          425,
+          547,
+          627,
+          641,
+          651,
+          669,
+          689,
+          732,
+          744,
+          756,
+          802,
+          814,
+          838,
+          846,
+          888,
+          962,
+          1006
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          3,
+          13,
+          66,
+          68,
+          70,
+          71,
+          224,
+          231,
+          289,
+          391,
+          411,
+          416,
+          421,
+          438,
+          518,
+          710,
+          722
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "af54b6b5a312602f9e37acc2d2ca6cd3d1372586786966b61e6b953df921d1a7",
+  "markdown_path": "pdf/ORNL-TM-2318/ORNL-TM-2318/hybrid_ocr/ORNL-TM-2318.md",
+  "report_number": "ORNL-TM-2315",
+  "report_numbers": [
+    "ORNL-TM-2315",
+    "ORNL-TM-1796",
+    "ORNL-4037",
+    "ORNL-4254",
+    "ORNL-TM-1626",
+    "ORNL-TM-1647"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 38,
+  "sections": [
+    {
+      "anchor": "determination-of-the-void-fraction-in-the-msre",
+      "end_line": 4,
+      "heading": "Determination Of The Void Fraction In The Msre",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "using-small-induced-pressure-perturbations",
+      "end_line": 10,
+      "heading": "Using Small Induced Pressure Perturbations",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 18,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 27,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "contents",
+      "end_line": 56,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 28
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 63,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 57
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 86,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "2-theoretical-considerations",
+      "end_line": 88,
+      "heading": "2. THEORETICAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "2-1-introduction",
+      "end_line": 92,
+      "heading": "2.1 Introduction",
+      "level": 1,
+      "start_line": 89
+    },
+    {
+      "anchor": "2-2-development-of-the-analytical-model",
+      "end_line": 227,
+      "heading": "2.2 Development of the Analytical Model",
+      "level": 1,
+      "start_line": 93
+    },
+    {
+      "anchor": "ornl-dwg-68-8417",
+      "end_line": 384,
+      "heading": "Ornl-Dwg 68-8417",
+      "level": 2,
+      "start_line": 228
+    },
+    {
+      "anchor": "2-3-verification-of-the-analytical-model",
+      "end_line": 428,
+      "heading": "2.3 Verification of the Analytical Model",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "3-experimental-method",
+      "end_line": 439,
+      "heading": "3. EXPERIMENTAL METHOD",
+      "level": 1,
+      "start_line": 429
+    },
+    {
+      "anchor": "4-data-acquisition-and-reduction",
+      "end_line": 483,
+      "heading": "4. DATA ACQUISITION AND REDUCTION",
+      "level": 1,
+      "start_line": 440
+    },
+    {
+      "anchor": "ornl-dwg-69-3747",
+      "end_line": 502,
+      "heading": "Ornl Dwg. 69-3747",
+      "level": 2,
+      "start_line": 484
+    },
+    {
+      "anchor": "ornl-dwg-69-3748",
+      "end_line": 507,
+      "heading": "Ornl Dwg. 69-3748",
+      "level": 2,
+      "start_line": 503
+    },
+    {
+      "anchor": "4-2-data-reduction",
+      "end_line": 511,
+      "heading": "4.2 Data Reduction",
+      "level": 1,
+      "start_line": 508
+    },
+    {
+      "anchor": "4-2-1-analog-analysis",
+      "end_line": 515,
+      "heading": "4.2.1 Analog Analysis",
+      "level": 1,
+      "start_line": 512
+    },
+    {
+      "anchor": "4-2-2-br-340-fft-analysis",
+      "end_line": 519,
+      "heading": "4.2.2 BR-340 FFT Analysis",
+      "level": 1,
+      "start_line": 516
+    },
+    {
+      "anchor": "ornl-dwg-69-3749",
+      "end_line": 528,
+      "heading": "Ornl Dwg. 69-3749",
+      "level": 2,
+      "start_line": 520
+    },
+    {
+      "anchor": "4-2-3-digital-cpsd-analysis",
+      "end_line": 532,
+      "heading": "4.2.3 Digital CPSD Analysis",
+      "level": 1,
+      "start_line": 529
+    },
+    {
+      "anchor": "4-2-4-fourco-analysis",
+      "end_line": 536,
+      "heading": "4.2.4 FOURCO Analysis",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "4-2-5-cabs-analysis",
+      "end_line": 542,
+      "heading": "4.2.5 CABS Analysis",
+      "level": 1,
+      "start_line": 537
+    },
+    {
+      "anchor": "5-results",
+      "end_line": 544,
+      "heading": "5. RESULTS",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "5-1-introduction",
+      "end_line": 548,
+      "heading": "5.1 Introduction",
+      "level": 1,
+      "start_line": 545
+    },
+    {
+      "anchor": "5-2-results-from-analog-analysis",
+      "end_line": 591,
+      "heading": "5.2 Results From Analog Analysis",
+      "level": 1,
+      "start_line": 549
+    },
+    {
+      "anchor": "5-3-results-from-fft-analysis",
+      "end_line": 606,
+      "heading": "5.3 Results from FFT Analysis",
+      "level": 1,
+      "start_line": 592
+    },
+    {
+      "anchor": "5-4-results-from-digital-cross-correlation-analysis",
+      "end_line": 610,
+      "heading": "5.4 Results from Digital Cross-Correlation Analysis",
+      "level": 1,
+      "start_line": 607
+    },
+    {
+      "anchor": "5-4-1-cpsd-analysis",
+      "end_line": 630,
+      "heading": "5.4.1 CPSD Analysis",
+      "level": 1,
+      "start_line": 611
+    },
+    {
+      "anchor": "5-4-2-fourier-transform-analysis",
+      "end_line": 642,
+      "heading": "5.4.2 Fourier Transform Analysis",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "5-4-3-cross-correlation-techniques",
+      "end_line": 666,
+      "heading": "5.4.3 Cross-Correlation Techniques",
+      "level": 1,
+      "start_line": 643
+    },
+    {
+      "anchor": "5-5-the-void-fraction-from-experimental-and-analytical-results",
+      "end_line": 707,
+      "heading": "5.5 The Void Fraction from Experimental and Analytical Results",
+      "level": 1,
+      "start_line": 667
+    },
+    {
+      "anchor": "6-conclusions",
+      "end_line": 717,
+      "heading": "6. CONCLUSIONS",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "7-recommendations-for-future-investigations",
+      "end_line": 725,
+      "heading": "7. RECOMMENDATIONS FOR FUTURE INVESTIGATIONS",
+      "level": 1,
+      "start_line": 718
+    },
+    {
+      "anchor": "8-appendix",
+      "end_line": 727,
+      "heading": "8. APPENDIX",
+      "level": 1,
+      "start_line": 726
+    },
+    {
+      "anchor": "8-1-interpretation-of-the-apsd-of-deterministic-signals",
+      "end_line": 1067,
+      "heading": "8.1 Interpretation of the APSD of Deterministic Signals",
+      "level": 1,
+      "start_line": 728
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1193,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1068
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1209,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1194
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2318",
+  "tables": [],
+  "title": "Instrumentation and Controls Division",
+  "topics": [
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "graphite-and-moderator-behavior",
+    "instrumentation-and-controls",
+    "materials-and-corrosion"
+  ],
+  "warnings": []
+}

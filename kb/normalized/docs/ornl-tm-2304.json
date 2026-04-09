@@ -1,0 +1,621 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "UNION CARBIDE",
+    "MASTER",
+    "Part XI-A",
+    "J. R. Engel",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2304.jsonl",
+  "date_text": "June 1, 1965",
+  "doc_id": "ornl-tm-2304",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 9,
+        "line_hits": [
+          126,
+          172,
+          240,
+          244,
+          296,
+          314,
+          318,
+          322,
+          324
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          296,
+          300,
+          326
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 10,
+        "line_hits": [
+          118,
+          162,
+          208,
+          216,
+          218,
+          220,
+          236,
+          240,
+          294,
+          300
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          216,
+          220,
+          224,
+          226,
+          228,
+          236,
+          272
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          182,
+          184,
+          195,
+          197,
+          200,
+          214,
+          302
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          184,
+          208,
+          220,
+          318
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          320
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          318
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          5,
+          17,
+          62,
+          134,
+          136,
+          140,
+          144,
+          148,
+          152,
+          264,
+          266
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          15,
+          72,
+          264,
+          266,
+          457,
+          461,
+          463
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          9,
+          19,
+          68
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 30,
+        "line_hits": [
+          23,
+          42,
+          132,
+          134,
+          138,
+          142,
+          146,
+          150,
+          154,
+          158,
+          162,
+          166,
+          168,
+          174,
+          178,
+          224,
+          244,
+          248,
+          262,
+          264,
+          270,
+          280,
+          284,
+          292,
+          296,
+          300,
+          304,
+          314,
+          324,
+          326
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          168,
+          182,
+          188,
+          195,
+          210,
+          218,
+          226,
+          244,
+          258,
+          262,
+          280,
+          284,
+          286,
+          296,
+          310,
+          314,
+          318,
+          324
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          174,
+          184
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          174
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          184
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a7d4836f5c5ecbba51b3c8d22653bb7224d7e4aef6d56a63cad6ab6654c3d1e6",
+  "markdown_path": "pdf/ORNL-TM-2304/ORNL-TM-2304/hybrid_ocr/ORNL-TM-2304.md",
+  "report_number": "ORNL-TM-2304",
+  "report_numbers": [
+    "ORNL-TM-2304",
+    "ORNL-TM-728",
+    "ORNL-TM-729",
+    "ORNL-TM-730",
+    "ORNL-TM-731",
+    "ORNL-TM-732",
+    "ORNL-TM-2111",
+    "ORNL-TM-733",
+    "ORNL-TM-907",
+    "ORNL-TM-908"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 50,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 8,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 10,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 14,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 16,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ornl-tm-2304",
+      "end_line": 18,
+      "heading": "Ornl-Tm-2304",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "union-carbide",
+      "end_line": 20,
+      "heading": "Union Carbide",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "master",
+      "end_line": 22,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 30,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 41,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 49,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "september-1968",
+      "end_line": 51,
+      "heading": "SEPTEMBER 1968",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 61,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 67,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 71,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 75,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "contents",
+      "end_line": 79,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "preface-v",
+      "end_line": 81,
+      "heading": "Preface V",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 83,
+      "heading": "Introduction. 1",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "objectives-1",
+      "end_line": 85,
+      "heading": "Objectives. 1",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "basic-nuclear-tests-2",
+      "end_line": 117,
+      "heading": "Basic Nuclear Tests 2",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "chemical-and-material-studies-in-the-fuel-loop-14",
+      "end_line": 129,
+      "heading": "Chemical And Material Studies In The Fuel Loop. 14",
+      "level": 2,
+      "start_line": 118
+    },
+    {
+      "anchor": "preface",
+      "end_line": 135,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "ornl-tm-908",
+      "end_line": 139,
+      "heading": "Ornl-Tm-908",
+      "level": 2,
+      "start_line": 136
+    },
+    {
+      "anchor": "ornl-tm-909",
+      "end_line": 143,
+      "heading": "Ornl-Tm-909",
+      "level": 2,
+      "start_line": 140
+    },
+    {
+      "anchor": "ornl-tm-910",
+      "end_line": 147,
+      "heading": "Ornl-Tm-910",
+      "level": 2,
+      "start_line": 144
+    },
+    {
+      "anchor": "ornl-tm-911",
+      "end_line": 151,
+      "heading": "Ornl-Tm-911",
+      "level": 2,
+      "start_line": 148
+    },
+    {
+      "anchor": "ornl-tm-2304",
+      "end_line": 159,
+      "heading": "Ornl-Tm-2304",
+      "level": 2,
+      "start_line": 152
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 163,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "objectives",
+      "end_line": 175,
+      "heading": "OBJECTIVES",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "basic-nuclear-tests",
+      "end_line": 179,
+      "heading": "BASIC NUCLEAR TESTS",
+      "level": 1,
+      "start_line": 176
+    },
+    {
+      "anchor": "233u-critical-experiment",
+      "end_line": 185,
+      "heading": "233U Critical Experiment",
+      "level": 1,
+      "start_line": 180
+    },
+    {
+      "anchor": "preparations-for-fuel-loading",
+      "end_line": 205,
+      "heading": "Preparations for Fuel Loading",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "233u-loading-sequence",
+      "end_line": 221,
+      "heading": "233U Loading Sequence",
+      "level": 1,
+      "start_line": 206
+    },
+    {
+      "anchor": "control-rod-calibration",
+      "end_line": 241,
+      "heading": "Control-Rod Calibration",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "power-coefficient-of-reactivity",
+      "end_line": 245,
+      "heading": "Power Coefficient of Reactivity",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "reactor-operation-with-233-mathrm-u-fuel",
+      "end_line": 249,
+      "heading": "REACTOR OPERATION WITH $^{233}\\mathrm{U}$ FUEL",
+      "level": 1,
+      "start_line": 246
+    },
+    {
+      "anchor": "power-calibration",
+      "end_line": 259,
+      "heading": "Power Calibration",
+      "level": 1,
+      "start_line": 250
+    },
+    {
+      "anchor": "control-systems-tests",
+      "end_line": 267,
+      "heading": "Control Systems Tests",
+      "level": 1,
+      "start_line": 260
+    },
+    {
+      "anchor": "reactor-dynamics",
+      "end_line": 273,
+      "heading": "Reactor Dynamics",
+      "level": 1,
+      "start_line": 268
+    },
+    {
+      "anchor": "reactivity-balance",
+      "end_line": 281,
+      "heading": "Reactivity Balance",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "application-of-noise-analysis",
+      "end_line": 287,
+      "heading": "Application of Noise Analysis",
+      "level": 1,
+      "start_line": 282
+    },
+    {
+      "anchor": "measurement-of-233-mathrm-u-capture-to-fission-ratio",
+      "end_line": 293,
+      "heading": "Measurement of $^{233}\\mathrm{U}$ Capture to Fission Ratio",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "chemical-and-material-studies-in-the-fuel-loop",
+      "end_line": 297,
+      "heading": "CHEMICAL AND MATERIAL STUDIES IN THE FUEL LOOP",
+      "level": 1,
+      "start_line": 294
+    },
+    {
+      "anchor": "surveillance-of-corrosion-and-salt-contamination",
+      "end_line": 305,
+      "heading": "Surveillance of Corrosion and Salt Contamination",
+      "level": 1,
+      "start_line": 298
+    },
+    {
+      "anchor": "surveillance-of-uranium-inventory",
+      "end_line": 311,
+      "heading": "Surveillance of Uranium Inventory",
+      "level": 1,
+      "start_line": 306
+    },
+    {
+      "anchor": "fission-product-behavior",
+      "end_line": 321,
+      "heading": "Fission-Product Behavior",
+      "level": 1,
+      "start_line": 312
+    },
+    {
+      "anchor": "graphite-and-hastelloy-surveillance",
+      "end_line": 327,
+      "heading": "Graphite and Hastelloy Surveillance",
+      "level": 1,
+      "start_line": 322
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 411,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 328
+    },
+    {
+      "anchor": "internal-distribution-continued",
+      "end_line": 454,
+      "heading": "Internal Distribution (continued)",
+      "level": 1,
+      "start_line": 412
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 465,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 455
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2304",
+  "tables": [],
+  "title": "![](images/106416b84268cc6c3bab4033ada383acd176b038621001418dde7f3133a7b800.jpg)",
+  "topics": [
+    "reactor-operations",
+    "reactor-physics-neutronics",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

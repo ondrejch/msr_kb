@@ -1,0 +1,299 @@
+{
+  "authors": [
+    "R. E. Thoma",
+    "J. E. Ricci",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2596.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-tm-2596",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "organization": [
+      {
+        "count": 6,
+        "line_hits": [
+          597,
+          599,
+          601,
+          603,
+          605,
+          607
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          58,
+          106,
+          244,
+          246,
+          247,
+          248
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 32,
+        "line_hits": [
+          7,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          60,
+          62,
+          68,
+          73,
+          75,
+          77,
+          111,
+          113,
+          171,
+          240
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          7,
+          58,
+          62,
+          173,
+          244,
+          248
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          58
+        ],
+        "name": "single-fluid breeder"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 32,
+        "line_hits": [
+          1,
+          7,
+          24,
+          58,
+          60,
+          62,
+          64,
+          66,
+          68,
+          71,
+          73,
+          77,
+          80,
+          83,
+          86,
+          89,
+          92,
+          95,
+          98,
+          101,
+          104,
+          109,
+          111,
+          156,
+          159,
+          162,
+          171,
+          173,
+          183,
+          185,
+          240,
+          248
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          24,
+          66,
+          206
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          24,
+          66
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          24,
+          66
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          24,
+          66
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          58,
+          60
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "27df7ceda73f3789945cfec973f48cf2d3af359bfadb665b61deb39c37a8f35d",
+  "markdown_path": "pdf/ORNL-TM-2596/ORNL-TM-2596/hybrid_ocr/ORNL-TM-2596.md",
+  "report_number": "ORNL-4396",
+  "report_numbers": [
+    "ORNL-4396",
+    "ORNL-2396",
+    "ORNL-2896"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 13,
+  "sections": [
+    {
+      "anchor": "abstract",
+      "end_line": 8,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 17,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "contents",
+      "end_line": 29,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 18
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 65,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "liquid-solid-phase-reactions-in-the-system-lif-bef2-thf4",
+      "end_line": 105,
+      "heading": "LIQUID-SOLID PHASE REACTIONS IN THE SYSTEM LiF-BeF2-ThF4",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "ornl-dwg-68-11672",
+      "end_line": 166,
+      "heading": "Ornl-Dwg 68-11672",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "potential-application-of-fractional-crystallization",
+      "end_line": 168,
+      "heading": "POTENTIAL APPLICATION OF FRACTIONAL CRYSTALLIZATION",
+      "level": 1,
+      "start_line": 167
+    },
+    {
+      "anchor": "in-chemical-reprocessing",
+      "end_line": 251,
+      "heading": "IN CHEMICAL REPROCESSING",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 449,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 252
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 552,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 450
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 594,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 553
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 609,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 595
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2596",
+  "tables": [],
+  "title": "FRACTIONAL CRYSTALLIZATION REACTIONS IN THE SYSTEM LiF-BeF $_2$ -ThF $_4$",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing",
+    "breeder-and-converter-design",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "materials-and-corrosion",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

@@ -1,0 +1,1771 @@
+{
+  "authors": [
+    "Molten-Salt Reactor Program",
+    "R. H. Guymon",
+    "NOTICE",
+    "UNION CARBIDE CORPORATION",
+    "Chapter",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3041.jsonl",
+  "date_text": "June 1, 1965",
+  "doc_id": "ornl-tm-3041",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          112,
+          124,
+          126,
+          128,
+          373
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          385,
+          574,
+          864,
+          2115
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          373
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "component": [
+      {
+        "count": 41,
+        "line_hits": [
+          122,
+          124,
+          153,
+          373,
+          574,
+          679,
+          703,
+          708,
+          795,
+          831,
+          940,
+          1057,
+          1105,
+          1143,
+          1282,
+          1297,
+          1328,
+          1696,
+          1700,
+          1704,
+          1708,
+          1712,
+          1713,
+          1715,
+          1716,
+          1717,
+          1718,
+          1719,
+          1720,
+          1738,
+          1740,
+          1741,
+          1743,
+          1744,
+          1747,
+          1749,
+          1750,
+          1939,
+          1946,
+          2072,
+          2115
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 21,
+        "line_hits": [
+          122,
+          144,
+          574,
+          615,
+          634,
+          695,
+          715,
+          734,
+          753,
+          791,
+          799,
+          838,
+          925,
+          941,
+          1032,
+          1038,
+          1042,
+          2076,
+          2078,
+          2080,
+          2084
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          128,
+          240,
+          574,
+          634,
+          848,
+          1106,
+          1283,
+          1284,
+          1296,
+          1359,
+          1479,
+          1485,
+          1556,
+          1597,
+          1881
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          223,
+          274,
+          1238,
+          1254,
+          1704,
+          1708,
+          1712,
+          1741,
+          2055,
+          2057,
+          2062,
+          2072
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          132,
+          146,
+          574,
+          615,
+          708,
+          710,
+          711,
+          894,
+          1038,
+          1040,
+          1120,
+          1326
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          126,
+          574,
+          628,
+          897,
+          2041
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          122,
+          619,
+          634,
+          2111
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          122,
+          811,
+          2047
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          128
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          122
+        ],
+        "name": "salt pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 46,
+        "line_hits": [
+          1,
+          17,
+          94,
+          106,
+          159,
+          199,
+          236,
+          246,
+          309,
+          365,
+          367,
+          368,
+          395,
+          449,
+          493,
+          535,
+          538,
+          539,
+          540,
+          541,
+          542,
+          543,
+          544,
+          545,
+          546,
+          549,
+          550,
+          552,
+          553,
+          554,
+          555,
+          556,
+          557,
+          558,
+          559,
+          560,
+          561,
+          562,
+          563,
+          564,
+          565,
+          566,
+          574,
+          615,
+          951,
+          1216
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          15,
+          27,
+          52,
+          148,
+          307,
+          309,
+          548,
+          2143,
+          2185,
+          2186,
+          2187,
+          2188,
+          2189,
+          2190,
+          2191,
+          2192
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          23,
+          188,
+          190
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 114,
+        "line_hits": [
+          7,
+          40,
+          82,
+          86,
+          88,
+          94,
+          96,
+          100,
+          106,
+          108,
+          110,
+          112,
+          117,
+          120,
+          138,
+          140,
+          155,
+          159,
+          164,
+          178,
+          188,
+          190,
+          193,
+          197,
+          199,
+          215,
+          236,
+          244,
+          246,
+          248,
+          250,
+          298,
+          305,
+          309,
+          313,
+          317,
+          329,
+          335,
+          349,
+          353,
+          361,
+          363,
+          383,
+          395,
+          399,
+          409,
+          410,
+          414,
+          416,
+          420
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 82,
+        "line_hits": [
+          106,
+          108,
+          114,
+          186,
+          209,
+          217,
+          221,
+          225,
+          250,
+          272,
+          276,
+          286,
+          323,
+          325,
+          345,
+          353,
+          414,
+          420,
+          434,
+          460,
+          464,
+          468,
+          476,
+          480,
+          491,
+          585,
+          587,
+          589,
+          595,
+          640,
+          644,
+          646,
+          648,
+          654,
+          677,
+          695,
+          704,
+          717,
+          718,
+          862,
+          959,
+          966,
+          1000,
+          1006,
+          1097,
+          1141,
+          1160,
+          1162,
+          1168,
+          1181
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          529
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          535
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          94
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          112,
+          122,
+          870
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          870
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          870
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          870
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          106
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "948bd8aa524735d66f5ca48bf7b3e7b7dc989673baf5aa7796a20466b1a2c54a",
+  "markdown_path": "pdf/ORNL-TM-3041/ORNL-TM-3041/hybrid_ocr/ORNL-TM-3041.md",
+  "report_number": "ORNL-TM-3041",
+  "report_numbers": [
+    "ORNL-TM-3041"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 180,
+  "sections": [
+    {
+      "anchor": "ornl-tm-3041",
+      "end_line": 6,
+      "heading": "Ornl-Tm-3041",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "msre-operator-training-and-operating-techniques",
+      "end_line": 10,
+      "heading": "Msre Operator Training And Operating Techniques",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "august-1973",
+      "end_line": 12,
+      "heading": "August 1973",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "notice",
+      "end_line": 16,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 22,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 26,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 28,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "contents",
+      "end_line": 30,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "chapter",
+      "end_line": 32,
+      "heading": "Chapter",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "page",
+      "end_line": 34,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "abstract-v",
+      "end_line": 38,
+      "heading": "Abstract V",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 39,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "2-description-of-the-msre-1",
+      "end_line": 40,
+      "heading": "2.Description Of The Msre 1",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "3-chronology-5",
+      "end_line": 41,
+      "heading": "3.Chronology 5",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "4-operating-personnel-8",
+      "end_line": 42,
+      "heading": "4. OPERATING PERSONNEL 8",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "5-training-13",
+      "end_line": 53,
+      "heading": "5. TRAINING 13",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "6-operation-of-the-reactor-31",
+      "end_line": 59,
+      "heading": "6. OPERATION OF THE REACTOR 31",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "7-approval-of-maintenance-and-design-changes-34",
+      "end_line": 60,
+      "heading": "7. APPROVAL OF MAINTENANCE AND DESIGN CHANGES 34",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "8-information-available-to-operators-35",
+      "end_line": 67,
+      "heading": "8. INFORMATION AVAILABLE TO OPERATORS 35",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "9-recommendations-40",
+      "end_line": 69,
+      "heading": "9. Recommendations. 40",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "references-51",
+      "end_line": 71,
+      "heading": "References 51",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 87,
+      "heading": "Appendices",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "msre-operator-training-and-operating-techniques",
+      "end_line": 91,
+      "heading": "MSRE OPERATOR TRAINING AND OPERATING TECHNIQUES",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 97,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "acknowledgements",
+      "end_line": 103,
+      "heading": "ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 109,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "2-description-of-the-msre",
+      "end_line": 135,
+      "heading": "2. DESCRIPTION OF THE MSRE",
+      "level": 1,
+      "start_line": 110
+    },
+    {
+      "anchor": "3-chronology",
+      "end_line": 156,
+      "heading": "3. CHRONOLOGY",
+      "level": 1,
+      "start_line": 136
+    },
+    {
+      "anchor": "4-operating-personnel",
+      "end_line": 194,
+      "heading": "4. OPERATING PERSONNEL",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "5-training",
+      "end_line": 210,
+      "heading": "5. TRAINING",
+      "level": 1,
+      "start_line": 195
+    },
+    {
+      "anchor": "initial-training",
+      "end_line": 241,
+      "heading": "Initial Training",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "precritical-training-and-certification",
+      "end_line": 269,
+      "heading": "Precritical Training and Certification",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "prepower-training",
+      "end_line": 283,
+      "heading": "Prepower Training",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "training-of-chief-operators",
+      "end_line": 289,
+      "heading": "Training of Chief Operators",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "training-before-233-mathrm-u-startup",
+      "end_line": 295,
+      "heading": "Training Before $^{233}\\mathrm{U}$ Startup",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "other-training",
+      "end_line": 302,
+      "heading": "Other Training",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "training-of-replacements",
+      "end_line": 306,
+      "heading": "Training of Replacements",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "equivalence-to-aec-examination",
+      "end_line": 310,
+      "heading": "Equivalence to AEC Examination",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "6-operation-of-the-reactor",
+      "end_line": 314,
+      "heading": "6. OPERATION OF THE REACTOR",
+      "level": 1,
+      "start_line": 311
+    },
+    {
+      "anchor": "planning",
+      "end_line": 320,
+      "heading": "Planning",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "instructions-to-and-communications-with-operators",
+      "end_line": 332,
+      "heading": "Instructions to and Communications with Operators",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "data-taking-and-record-keeping",
+      "end_line": 342,
+      "heading": "Data Taking and Record Keeping",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "7-approval-of-maintenance-and-design-changes",
+      "end_line": 350,
+      "heading": "7. APPROVAL OF MAINTENANCE AND DESIGN CHANGES",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "8-information-available-to-operators",
+      "end_line": 354,
+      "heading": "8. INFORMATION AVAILABLE TO OPERATORS",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "design-and-operations-report",
+      "end_line": 392,
+      "heading": "Design and Operations Report",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "other-reports",
+      "end_line": 396,
+      "heading": "Other Reports",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "drawings",
+      "end_line": 400,
+      "heading": "Drawings",
+      "level": 1,
+      "start_line": 397
+    },
+    {
+      "anchor": "miscellaneous",
+      "end_line": 411,
+      "heading": "Miscellaneous",
+      "level": 1,
+      "start_line": 401
+    },
+    {
+      "anchor": "9-recommendations",
+      "end_line": 444,
+      "heading": "9. RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 412
+    },
+    {
+      "anchor": "jumper-board",
+      "end_line": 445,
+      "heading": "Jumper Board",
+      "level": 2,
+      "start_line": 445
+    },
+    {
+      "anchor": "engineering-elementary",
+      "end_line": 448,
+      "heading": "Engineering Elementary",
+      "level": 2,
+      "start_line": 446
+    },
+    {
+      "anchor": "ornl-dwg-73-3095",
+      "end_line": 494,
+      "heading": "Ornl-Dwg 73-3095",
+      "level": 2,
+      "start_line": 449
+    },
+    {
+      "anchor": "do-not-operate",
+      "end_line": 496,
+      "heading": "DO NOT OPERATE",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "red-cardboard",
+      "end_line": 498,
+      "heading": "Red Cardboard",
+      "level": 2,
+      "start_line": 497
+    },
+    {
+      "anchor": "ucn-5925-3-7-64",
+      "end_line": 514,
+      "heading": "Ucn-5925 3-7-64",
+      "level": 2,
+      "start_line": 499
+    },
+    {
+      "anchor": "white-paper-with",
+      "end_line": 516,
+      "heading": "White Paper With",
+      "level": 2,
+      "start_line": 515
+    },
+    {
+      "anchor": "red-cardboard",
+      "end_line": 518,
+      "heading": "Red Cardboard",
+      "level": 2,
+      "start_line": 517
+    },
+    {
+      "anchor": "behind-and-carbon",
+      "end_line": 520,
+      "heading": "Behind And Carbon",
+      "level": 2,
+      "start_line": 519
+    },
+    {
+      "anchor": "paper-between",
+      "end_line": 532,
+      "heading": "Paper Between",
+      "level": 2,
+      "start_line": 521
+    },
+    {
+      "anchor": "references",
+      "end_line": 567,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 533
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 569,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 568
+    },
+    {
+      "anchor": "schedule-for-initial-training",
+      "end_line": 575,
+      "heading": "SCHEDULE FOR INITIAL TRAINING",
+      "level": 1,
+      "start_line": 570
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 577,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 576
+    },
+    {
+      "anchor": "instructions-for-flowsheets-checkout",
+      "end_line": 579,
+      "heading": "INSTRUCTIONS FOR FLOWSHEETS CHECKOUT",
+      "level": 1,
+      "start_line": 578
+    },
+    {
+      "anchor": "first-phase",
+      "end_line": 597,
+      "heading": "First Phase",
+      "level": 1,
+      "start_line": 580
+    },
+    {
+      "anchor": "second-phase",
+      "end_line": 606,
+      "heading": "Second Phase",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 608,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 607
+    },
+    {
+      "anchor": "schedule-for-precritical-training",
+      "end_line": 635,
+      "heading": "SCHEDULE FOR PRECRITICAL TRAINING",
+      "level": 1,
+      "start_line": 609
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 637,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 636
+    },
+    {
+      "anchor": "precritical-examinations",
+      "end_line": 641,
+      "heading": "PRECRITICAL EXAMINATIONS",
+      "level": 1,
+      "start_line": 638
+    },
+    {
+      "anchor": "instructions",
+      "end_line": 655,
+      "heading": "Instructions",
+      "level": 1,
+      "start_line": 642
+    },
+    {
+      "anchor": "schedule",
+      "end_line": 663,
+      "heading": "Schedule",
+      "level": 1,
+      "start_line": 656
+    },
+    {
+      "anchor": "samples-of-questions",
+      "end_line": 665,
+      "heading": "Samples of Questions",
+      "level": 1,
+      "start_line": 664
+    },
+    {
+      "anchor": "instrumentation",
+      "end_line": 680,
+      "heading": "Instrumentation",
+      "level": 1,
+      "start_line": 666
+    },
+    {
+      "anchor": "flow-sheets-and-operating-parameters",
+      "end_line": 828,
+      "heading": "Flow Sheets and Operating Parameters",
+      "level": 1,
+      "start_line": 681
+    },
+    {
+      "anchor": "design",
+      "end_line": 865,
+      "heading": "Design",
+      "level": 1,
+      "start_line": 829
+    },
+    {
+      "anchor": "chemistry",
+      "end_line": 887,
+      "heading": "Chemistry",
+      "level": 1,
+      "start_line": 866
+    },
+    {
+      "anchor": "layout",
+      "end_line": 930,
+      "heading": "Layout",
+      "level": 1,
+      "start_line": 888
+    },
+    {
+      "anchor": "pcv-528",
+      "end_line": 932,
+      "heading": "Pcv-528",
+      "level": 2,
+      "start_line": 931
+    },
+    {
+      "anchor": "pcv-522",
+      "end_line": 942,
+      "heading": "Pcv-522",
+      "level": 2,
+      "start_line": 933
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 944,
+      "heading": "APPENDIX E",
+      "level": 1,
+      "start_line": 943
+    },
+    {
+      "anchor": "schedule-for-pre-power-training-session",
+      "end_line": 954,
+      "heading": "SCHEDULE FOR PRE-POWER TRAINING SESSION",
+      "level": 1,
+      "start_line": 945
+    },
+    {
+      "anchor": "appendix-f",
+      "end_line": 956,
+      "heading": "APPENDIX F",
+      "level": 1,
+      "start_line": 955
+    },
+    {
+      "anchor": "prepower-examination",
+      "end_line": 960,
+      "heading": "PREPOWER EXAMINATION",
+      "level": 1,
+      "start_line": 957
+    },
+    {
+      "anchor": "all-operators",
+      "end_line": 981,
+      "heading": "All Operators",
+      "level": 1,
+      "start_line": 961
+    },
+    {
+      "anchor": "engineers-only",
+      "end_line": 993,
+      "heading": "Engineers only",
+      "level": 1,
+      "start_line": 982
+    },
+    {
+      "anchor": "appendix-g",
+      "end_line": 995,
+      "heading": "APPENDIX G",
+      "level": 1,
+      "start_line": 994
+    },
+    {
+      "anchor": "chief-operator-training-schedule",
+      "end_line": 997,
+      "heading": "CHIEF OPERATOR TRAINING SCHEDULE",
+      "level": 1,
+      "start_line": 996
+    },
+    {
+      "anchor": "october-and-november-1967",
+      "end_line": 1001,
+      "heading": "(October and November, 1967)",
+      "level": 1,
+      "start_line": 998
+    },
+    {
+      "anchor": "appendix-h",
+      "end_line": 1003,
+      "heading": "APPENDIX H",
+      "level": 1,
+      "start_line": 1002
+    },
+    {
+      "anchor": "chief-operator-review-test",
+      "end_line": 1007,
+      "heading": "CHIEF OPERATOR REVIEW TEST",
+      "level": 1,
+      "start_line": 1004
+    },
+    {
+      "anchor": "closed-book",
+      "end_line": 1047,
+      "heading": "Closed Book",
+      "level": 1,
+      "start_line": 1008
+    },
+    {
+      "anchor": "open-book",
+      "end_line": 1077,
+      "heading": "Open Book",
+      "level": 1,
+      "start_line": 1048
+    },
+    {
+      "anchor": "appendix-i",
+      "end_line": 1079,
+      "heading": "APPENDIX I",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "msre-operator-examination-may-1969",
+      "end_line": 1081,
+      "heading": "MSRE OPERATOR EXAMINATION - May 1969",
+      "level": 1,
+      "start_line": 1080
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1083,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1082
+    },
+    {
+      "anchor": "a-principles-of-reactor-operation",
+      "end_line": 1112,
+      "heading": "A. Principles of Reactor Operation",
+      "level": 1,
+      "start_line": 1084
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1114,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1113
+    },
+    {
+      "anchor": "b-operating-characteristics-and-features-of-design",
+      "end_line": 1124,
+      "heading": "B. Operating Characteristics and Features of Design",
+      "level": 1,
+      "start_line": 1115
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1126,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1125
+    },
+    {
+      "anchor": "c-general-operating-characteristics",
+      "end_line": 1155,
+      "heading": "C. General Operating Characteristics",
+      "level": 1,
+      "start_line": 1127
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1157,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1156
+    },
+    {
+      "anchor": "d-instrumentation-and-control",
+      "end_line": 1174,
+      "heading": "D. Instrumentation and Control",
+      "level": 1,
+      "start_line": 1158
+    },
+    {
+      "anchor": "e-safety-and-emergency-system",
+      "end_line": 1184,
+      "heading": "E. Safety and Emergency System",
+      "level": 1,
+      "start_line": 1175
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1186,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1185
+    },
+    {
+      "anchor": "f-standard-and-emergency-operating-procedures",
+      "end_line": 1201,
+      "heading": "F. Standard and Emergency Operating Procedures",
+      "level": 1,
+      "start_line": 1187
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1203,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1202
+    },
+    {
+      "anchor": "g-radiation-safety-and-control",
+      "end_line": 1219,
+      "heading": "G. Radiation Safety and Control",
+      "level": 1,
+      "start_line": 1204
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1221,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1220
+    },
+    {
+      "anchor": "h-reactor-theory",
+      "end_line": 1275,
+      "heading": "H. Reactor Theory",
+      "level": 1,
+      "start_line": 1222
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1277,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1276
+    },
+    {
+      "anchor": "j-specific-operating-characteristics",
+      "end_line": 1290,
+      "heading": "J. Specific Operating Characteristics",
+      "level": 1,
+      "start_line": 1278
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1292,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1291
+    },
+    {
+      "anchor": "k-fuel-handling-and-core-parameters",
+      "end_line": 1301,
+      "heading": "K. Fuel Handling and Core Parameters",
+      "level": 1,
+      "start_line": 1293
+    },
+    {
+      "anchor": "point-value",
+      "end_line": 1303,
+      "heading": "Point Value",
+      "level": 1,
+      "start_line": 1302
+    },
+    {
+      "anchor": "l-administration-conditions-and-limitations",
+      "end_line": 1315,
+      "heading": "L. Administration, Conditions, and Limitations",
+      "level": 1,
+      "start_line": 1304
+    },
+    {
+      "anchor": "appendix-j",
+      "end_line": 1323,
+      "heading": "APPENDIX J",
+      "level": 1,
+      "start_line": 1316
+    },
+    {
+      "anchor": "general-information",
+      "end_line": 1329,
+      "heading": "GENERAL INFORMATION",
+      "level": 1,
+      "start_line": 1324
+    },
+    {
+      "anchor": "shift-instructions",
+      "end_line": 1347,
+      "heading": "SHIFT INSTRUCTIONS",
+      "level": 1,
+      "start_line": 1330
+    },
+    {
+      "anchor": "permanent-shift-instructions",
+      "end_line": 1373,
+      "heading": "PERMANENT SHIFT INSTRUCTIONS",
+      "level": 1,
+      "start_line": 1348
+    },
+    {
+      "anchor": "1-quick-temperature-recovery-check-list",
+      "end_line": 1386,
+      "heading": "1. QUICK TEMPERATURE RECOVERY CHECK LIST",
+      "level": 2,
+      "start_line": 1374
+    },
+    {
+      "anchor": "5j-2",
+      "end_line": 1414,
+      "heading": "5J-2",
+      "level": 2,
+      "start_line": 1387
+    },
+    {
+      "anchor": "2-preparation-for-power-operation",
+      "end_line": 1523,
+      "heading": "2 PREPARATION FOR POWER OPERATION",
+      "level": 1,
+      "start_line": 1415
+    },
+    {
+      "anchor": "3-starting-power-operation-using-rod-servo",
+      "end_line": 1529,
+      "heading": "3 STARTING POWER OPERATION USING ROD SERVO",
+      "level": 1,
+      "start_line": 1524
+    },
+    {
+      "anchor": "3-continued",
+      "end_line": 1594,
+      "heading": "3 (continued)",
+      "level": 1,
+      "start_line": 1530
+    },
+    {
+      "anchor": "4-starting-power-operation-using-manual-rod-control",
+      "end_line": 1602,
+      "heading": "4 STARTING POWER OPERATION USING MANUAL ROD CONTROL",
+      "level": 2,
+      "start_line": 1595
+    },
+    {
+      "anchor": "5j-12",
+      "end_line": 1653,
+      "heading": "5J-12",
+      "level": 2,
+      "start_line": 1603
+    },
+    {
+      "anchor": "5j-14",
+      "end_line": 1682,
+      "heading": "5J-14",
+      "level": 2,
+      "start_line": 1654
+    },
+    {
+      "anchor": "msre-dynamic-tests",
+      "end_line": 1684,
+      "heading": "MSRE DYNAMIC TESTS",
+      "level": 1,
+      "start_line": 1683
+    },
+    {
+      "anchor": "msre-test-memo-3-2-4-1",
+      "end_line": 1686,
+      "heading": "MSRE Test Memo 3.2.4.1",
+      "level": 1,
+      "start_line": 1685
+    },
+    {
+      "anchor": "transient-flowrate-measurements",
+      "end_line": 1693,
+      "heading": "Transient Flowrate Measurements",
+      "level": 1,
+      "start_line": 1687
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1697,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1694
+    },
+    {
+      "anchor": "purpose",
+      "end_line": 1701,
+      "heading": "Purpose",
+      "level": 1,
+      "start_line": 1698
+    },
+    {
+      "anchor": "description",
+      "end_line": 1705,
+      "heading": "Description",
+      "level": 1,
+      "start_line": 1702
+    },
+    {
+      "anchor": "special-equipment-and-preparations",
+      "end_line": 1709,
+      "heading": "Special Equipment and Preparations",
+      "level": 1,
+      "start_line": 1706
+    },
+    {
+      "anchor": "procedures",
+      "end_line": 1756,
+      "heading": "Procedures",
+      "level": 1,
+      "start_line": 1710
+    },
+    {
+      "anchor": "appendix-k",
+      "end_line": 1764,
+      "heading": "Appendix K",
+      "level": 2,
+      "start_line": 1757
+    },
+    {
+      "anchor": "12a-2a",
+      "end_line": 1780,
+      "heading": "12A-2A",
+      "level": 2,
+      "start_line": 1765
+    },
+    {
+      "anchor": "12-2a",
+      "end_line": 1782,
+      "heading": "12-2A",
+      "level": 2,
+      "start_line": 1781
+    },
+    {
+      "anchor": "control-room-log",
+      "end_line": 1786,
+      "heading": "Control Room Log",
+      "level": 2,
+      "start_line": 1783
+    },
+    {
+      "anchor": "cover-sheet",
+      "end_line": 1794,
+      "heading": "COVER SHEET",
+      "level": 1,
+      "start_line": 1787
+    },
+    {
+      "anchor": "12a-2a",
+      "end_line": 1818,
+      "heading": "${12A} - {2A}$",
+      "level": 2,
+      "start_line": 1795
+    },
+    {
+      "anchor": "12a-2a",
+      "end_line": 1820,
+      "heading": "12A-2A",
+      "level": 2,
+      "start_line": 1819
+    },
+    {
+      "anchor": "control-room-log",
+      "end_line": 1828,
+      "heading": "Control Room Log",
+      "level": 2,
+      "start_line": 1821
+    },
+    {
+      "anchor": "console",
+      "end_line": 1836,
+      "heading": "CONSOLE",
+      "level": 1,
+      "start_line": 1829
+    },
+    {
+      "anchor": "12a-2a",
+      "end_line": 1867,
+      "heading": "${12A} - {2A}$",
+      "level": 2,
+      "start_line": 1837
+    },
+    {
+      "anchor": "12a-2a",
+      "end_line": 1888,
+      "heading": "12A-2A",
+      "level": 2,
+      "start_line": 1868
+    },
+    {
+      "anchor": "12a-3-building-log",
+      "end_line": 1896,
+      "heading": "12A-3 BUILDING LOG",
+      "level": 1,
+      "start_line": 1889
+    },
+    {
+      "anchor": "12a-3-building-log",
+      "end_line": 1898,
+      "heading": "12A-3 Building Log",
+      "level": 2,
+      "start_line": 1897
+    },
+    {
+      "anchor": "12a-3",
+      "end_line": 1916,
+      "heading": "12A-3",
+      "level": 2,
+      "start_line": 1899
+    },
+    {
+      "anchor": "service-tunnel",
+      "end_line": 1950,
+      "heading": "Service Tunnel",
+      "level": 2,
+      "start_line": 1917
+    },
+    {
+      "anchor": "service-area",
+      "end_line": 1958,
+      "heading": "SERVICE AREA",
+      "level": 1,
+      "start_line": 1951
+    },
+    {
+      "anchor": "appendix-l",
+      "end_line": 1962,
+      "heading": "Appendix L",
+      "level": 2,
+      "start_line": 1959
+    },
+    {
+      "anchor": "form-h-1-msre-punch-list",
+      "end_line": 1990,
+      "heading": "Form H-1. MSRE PUNCH LIST",
+      "level": 1,
+      "start_line": 1963
+    },
+    {
+      "anchor": "msre-work-request",
+      "end_line": 1996,
+      "heading": "Msre Work Request",
+      "level": 2,
+      "start_line": 1991
+    },
+    {
+      "anchor": "ucn-3624",
+      "end_line": 1999,
+      "heading": "Ucn-3624",
+      "level": 2,
+      "start_line": 1997
+    },
+    {
+      "anchor": "date-completed",
+      "end_line": 2001,
+      "heading": "Date Completed",
+      "level": 2,
+      "start_line": 2000
+    },
+    {
+      "anchor": "ucn-6820-13-5-68",
+      "end_line": 2003,
+      "heading": "Ucn-6820 13 5-68)",
+      "level": 2,
+      "start_line": 2002
+    },
+    {
+      "anchor": "msre-change-request",
+      "end_line": 2008,
+      "heading": "Msre Change Request",
+      "level": 2,
+      "start_line": 2004
+    },
+    {
+      "anchor": "purpose-and-description",
+      "end_line": 2010,
+      "heading": "Purpose And Description",
+      "level": 2,
+      "start_line": 2009
+    },
+    {
+      "anchor": "approval-to-proceed",
+      "end_line": 2014,
+      "heading": "Approval To Proceed",
+      "level": 2,
+      "start_line": 2011
+    },
+    {
+      "anchor": "comments-of-reviewers",
+      "end_line": 2016,
+      "heading": "Comments Of Reviewers",
+      "level": 2,
+      "start_line": 2015
+    },
+    {
+      "anchor": "status",
+      "end_line": 2020,
+      "heading": "Status",
+      "level": 2,
+      "start_line": 2017
+    },
+    {
+      "anchor": "remarks",
+      "end_line": 2022,
+      "heading": "Remarks:",
+      "level": 2,
+      "start_line": 2021
+    },
+    {
+      "anchor": "appendix-m",
+      "end_line": 2028,
+      "heading": "Appendix M",
+      "level": 2,
+      "start_line": 2023
+    },
+    {
+      "anchor": "msre-daily-report",
+      "end_line": 2054,
+      "heading": "MSRE DAILY REPORT",
+      "level": 1,
+      "start_line": 2029
+    },
+    {
+      "anchor": "loop-conditions",
+      "end_line": 2058,
+      "heading": "LOOP CONDITIONS",
+      "level": 1,
+      "start_line": 2055
+    },
+    {
+      "anchor": "reactivity",
+      "end_line": 2065,
+      "heading": "REACTIVITY",
+      "level": 1,
+      "start_line": 2059
+    },
+    {
+      "anchor": "heat-removal",
+      "end_line": 2069,
+      "heading": "HEAT REMOVAL",
+      "level": 1,
+      "start_line": 2066
+    },
+    {
+      "anchor": "accumulated-operating-data",
+      "end_line": 2073,
+      "heading": "ACCUMULATED OPERATING DATA",
+      "level": 1,
+      "start_line": 2070
+    },
+    {
+      "anchor": "auxiliary-system-status",
+      "end_line": 2075,
+      "heading": "AUXILIARY SYSTEM STATUS",
+      "level": 1,
+      "start_line": 2074
+    },
+    {
+      "anchor": "drain-tanks",
+      "end_line": 2087,
+      "heading": "DRAIN TANKS",
+      "level": 1,
+      "start_line": 2076
+    },
+    {
+      "anchor": "contents",
+      "end_line": 2096,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 2088
+    },
+    {
+      "anchor": "chemical-plant-status",
+      "end_line": 2098,
+      "heading": "CHEMICAL PLANT STATUS:",
+      "level": 1,
+      "start_line": 2097
+    },
+    {
+      "anchor": "helium-supply-system",
+      "end_line": 2104,
+      "heading": "HELIUM SUPPLY SYSTEM",
+      "level": 1,
+      "start_line": 2099
+    },
+    {
+      "anchor": "offcas-system",
+      "end_line": 2108,
+      "heading": "OFFCAS SYSTEM",
+      "level": 1,
+      "start_line": 2105
+    },
+    {
+      "anchor": "continment-conditions",
+      "end_line": 2112,
+      "heading": "CONTINMENT CONDITIONS",
+      "level": 1,
+      "start_line": 2109
+    },
+    {
+      "anchor": "auxiliary-equipment-operating",
+      "end_line": 2116,
+      "heading": "AUXILIARY EQUIPMENT OPERATING",
+      "level": 1,
+      "start_line": 2113
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2182,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 2117
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2192,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 2183
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3041",
+  "tables": [],
+  "title": "ORNL-TM-3041",
+  "topics": [
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

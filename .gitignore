@@ -1,0 +1,29 @@
+# Source PDFs (41GB - excluded from git)
+pdf/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs (if any are created during runtime)
+*.log
+
+# Temporary files
+*.tmp
+*.temp

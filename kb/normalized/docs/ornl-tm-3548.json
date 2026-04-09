@@ -1,0 +1,323 @@
+{
+  "authors": [
+    "M. J. Bell",
+    "R. S. Dillon"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3548.jsonl",
+  "date_text": "1971",
+  "doc_id": "ornl-tm-3548",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "organization": [
+      {
+        "count": 14,
+        "line_hits": [
+          3,
+          13,
+          25,
+          35,
+          59,
+          212,
+          213,
+          214,
+          216,
+          217,
+          221,
+          299,
+          305,
+          306
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          11,
+          21,
+          33,
+          69,
+          305,
+          306,
+          308
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          7,
+          29,
+          65
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 20,
+        "line_hits": [
+          100,
+          102,
+          104,
+          110,
+          122,
+          124,
+          128,
+          132,
+          157,
+          158,
+          163,
+          165,
+          167,
+          169,
+          175,
+          181,
+          183,
+          195,
+          205,
+          208
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          92,
+          104,
+          118,
+          122,
+          124,
+          163,
+          169,
+          217
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          122
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          122
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "bf2427c8782d791c579613010b286f19af7dd6a2faaaa35b9c8724468258ddbd",
+  "markdown_path": "pdf/ORNL-TM-3548/ORNL-TM-3548/hybrid_ocr/ORNL-TM-3548.md",
+  "report_number": "ORNL-TM-3548",
+  "report_numbers": [
+    "ORNL-TM-3548"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 26,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 10,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 12,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "ornl-tm-3548",
+      "end_line": 24,
+      "heading": "Ornl-Tm-3548",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 28,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "union-carbide-corporation-nuclear-division",
+      "end_line": 32,
+      "heading": "Union Carbide Corporation • Nuclear Division",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 34,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "ornl-tm-3548",
+      "end_line": 48,
+      "heading": "Ornl-Tm-3548",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 54,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "november-1971",
+      "end_line": 58,
+      "heading": "November 1971",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 64,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 68,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 70,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "contents",
+      "end_line": 89,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 71
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 97,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 107,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "2-reactor-operating-conditions-and-high-level-waste-radionuclide-inventories",
+      "end_line": 125,
+      "heading": "2. REACTOR OPERATING CONDITIONS AND HIGH-LEVEL-WASTE RADIONUCLIDE INVENTORIES",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "3-hazard-as-a-function-of-age-of-high-level-waste",
+      "end_line": 160,
+      "heading": "3. HAZARD AS A FUNCTION OF AGE OF HIGH-LEVEL WASTE",
+      "level": 1,
+      "start_line": 126
+    },
+    {
+      "anchor": "4-long-term-relative-hazard-of-high-level-waste",
+      "end_line": 178,
+      "heading": "4. LONG-TERM RELATIVE HAZARD OF HIGH-LEVEL WASTE",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "5-isotopic-dilution-of-high-level-wastes",
+      "end_line": 192,
+      "heading": "5. ISOTOPIC DILUTION OF HIGH-LEVEL WASTES",
+      "level": 1,
+      "start_line": 179
+    },
+    {
+      "anchor": "6-relative-hazard-of-transuranium-wastes",
+      "end_line": 209,
+      "heading": "6. RELATIVE HAZARD OF TRANSURANIUM WASTES",
+      "level": 1,
+      "start_line": 193
+    },
+    {
+      "anchor": "7-references",
+      "end_line": 222,
+      "heading": "7. REFERENCES",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 224,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 223
+    },
+    {
+      "anchor": "radioactivity-in-equilibrium-with-naturally-occurring-uranium-and-thorium-and-the-associated-ingestion-and-inhalation-hazard",
+      "end_line": 240,
+      "heading": "RADIOACTIVITY IN EQUILIBRIUM WITH NATURALLY OCCURRING URANIUM AND THORIUM AND THE ASSOCIATED INGESTION AND INHALATION HAZARD",
+      "level": 1,
+      "start_line": 225
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 300,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "87-88-dtie",
+      "end_line": 302,
+      "heading": "87-88. Dtie",
+      "level": 2,
+      "start_line": 301
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 320,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 303
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3548",
+  "tables": [],
+  "title": "![](images/6699d065f914ac2b70f561500d65bf08d373974e2a73b736ddf67d1d5b550cc0.jpg)",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "fuel-processing-and-reprocessing",
+    "aircraft-nuclear-propulsion",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "irradiation-and-damage"
+  ],
+  "warnings": []
+}

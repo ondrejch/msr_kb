@@ -1,0 +1,111 @@
+# irradiation-and-damage
+
+- Documents: 105
+
+## Source Documents
+
+- [[../documents/ornl-2106.md|![](images/7d78504371385c303da41eecaec5b71388fca55a9dfe800a12dc0dee2de169f1.jpg)]] - ORNL-2012
+- [[../documents/chapter-15.md|CHAPTER 15]]
+- [[../documents/chapter-21.md|CHAPTER 21]]
+- [[../documents/chapter-5.md|CHAPTER 5]]
+- [[../documents/chapter-8.md|CHAPTER 8]]
+- [[../documents/ornl-tm-1906.md|![](images/ca8c3357d8d21ea2534f5fe7021a3c838c2f690b76280854f613f27b8c6072d2.jpg)]] - 1906 - ORNL-TM-1906
+- [[../documents/chapter-4.md|CHAPTER 4]] - 1949
+- [[../documents/ornl-1368.md|ORNL 1368]] - 1951 - ORNL-1368
+- [[../documents/ornl-2264.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1954 - ORNL-2264
+- [[../documents/ornl-1808.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1955 - ORNL-1808
+- [[../documents/ornl-2048.md|ORNL-2D46]] - 1956 - ORNL-2048
+- [[../documents/ornl-2374.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - 1957 - ORNL-2374
+- [[../documents/ornl-2373.md|AEC RESEARCH AND DEVELOPMENT REPORT ORNL-2373 C-84 - Reactors]] - 1957 - ORNL-2373
+- [[../documents/ornl-2780.md|MASTER COPY]] - 1961 - ORNL-2780
+- [[../documents/ornl-3124.md|ORNL-3124]] - 1961 - ORNL-3124
+- [[../documents/ornl-tm-500.md|![](images/d4c11810d473f16400364590aec842fa4fb499dea4689b7c884ad706cfb9f770.jpg)]] - 1963 - ORNL-TM-500
+- [[../documents/ornl-3593.md|ORNL-3593]] - 1964 - ORNL-3593
+- [[../documents/ornl-tm-1005.md|OAK RIDGE NATIONAL LABORATORY]] - 1965 - ORNL-TM-1005
+- [[../documents/ornl-tm-1854.md|ORNL-TM-1854]] - 1967 - ORNL-TM-1854
+- [[../documents/ornl-tm-2043.md|![](images/e8541db140ff3c4588ee4e519e7edadb1f84c9951b972eb1c2c247b5c72de0b0.jpg)]] - 1968 - ORNL-TM-2043
+- [[../documents/ornl-tm-2258.md|IRRADIATION BEHAVIOR OF CLADDING AND STRUCTURAL MATERIALS]] - 1968
+- [[../documents/ornl-4327.md|LIBRARY. LOAN COPY]] - 1968 - ORNL-4327
+- [[../documents/ornl-tm-2511.md|![](images/4ded454a32824359092924490b98d535486ec9da1c3850aee3e8f4574861e3c9.jpg)]] - 1969 - ORNL-TM-2511
+- [[../documents/oak-ridge-national-laboratory.md|OAK RIDGE NATIONAL LABORATORY]] - 1969
+- [[../documents/oak-ridge-national-laboratory.md|OAK RIDGE NATIONAL LABORATORY]] - 1969
+- [[../documents/ornl-tm-2136.md|ORNL-TM-2136]] - 1969 - ORNL-TM-2136
+- [[../documents/ornl-tm-2170.md|ORNL-TM-2170]] - 1969 - ORNL-TM-2170
+- [[../documents/ornl-4473.md|CRNL-4473]] - 1970
+- [[../documents/ornl-tm-2858.md|TENSILE PROPERTIES OF HASTELLOY N WELDED AFTER IRRADIATION]] - 1970
+- [[../documents/ornl-tm-3515.md|![](images/46785f719ed322df1d3231efbf1b4aa2ffb583b40ccdad98ccec481faa6f565c.jpg)]] - 1971 - ORNL-TM-3515
+- [[../documents/ornl-tm-3548.md|![](images/6699d065f914ac2b70f561500d65bf08d373974e2a73b736ddf67d1d5b550cc0.jpg)]] - 1971 - ORNL-TM-3548
+- [[../documents/ornl-tm-3064.md|![](images/cc78534ad0c78ee41ed8f6799d218eeb89e015ac987a03d6169e70cd9764946b.jpg)]] - 1971 - ORNL-TM-3064
+- [[../documents/ornl-4574.md|ORNL-4574]] - 1971 - ORNL-4574
+- [[../documents/ornl-tm-3321.md|THERMAL STABILITY OF TITANIUM-MODIFIED]] - 1971 - ORNL-TM-3321
+- [[../documents/ornl-4829.md|![](images/fd86e3ca7a94a108a1d0fd05c8d5edbb95254ede66d82d0fe56d1857fd218305.jpg)]] - 1972 - ORNL-4829
+- [[../documents/eir-332.md|Eidg. Institut für Reaktorforschung Würenlingen Schweiz]] - 1972
+- [[../documents/ornl-4674.md|ORNL-4674]] - 1972 - ORNL-4674
+- [[../documents/ornl-tm-3964.md|ORNL-TM-3954]] - 1972 - ORNL-TM-3954
+- [[../documents/ornl-tm-4380.md|INFLUENCE OF AGING ON THE]] - 1973
+- [[../documents/eir-257.md|Eidg. Institut für Reaktorforschung Würenlingen Schweiz]] - 1974
+- [[../documents/eir-267.md|Eidg. Institut für Reaktorforschung Würenlingen Schweiz]] - 1974
+- [[../documents/in-the-recent-time-the-discussion-about-the-breeding-efficiency-of-fast-breeders-is-dealing-with-the-difficulties-of-obtaining-a-reasonable-doubling-time-for-nuclear-power.md|In the recent time the discussion about the breeding efficiency of fast breeders is dealing with the difficulties of obtaining a reasonable doubling time for nuclear power.]] - 1974
+- [[../documents/ornl-684.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - April 17, 1950
+- [[../documents/ornl-cf-61-4-62.md|![](images/403eb9ff77ae8ffe44b9cf6f1e74d8b95371308490f3724e2fcb86888309ea49.jpg)]] - April 19, 1961 - CF-60-3-35
+- [[../documents/cursory-first-look-at-the-molten-chloride-fast-reactor-as-an-alternative-to-the-conventional-batr-concept.md|Cursory First Look at the Molten Chloride Fast Reactor as an Alternative to the Conventional BATR Concept]] - April 1992
+- [[../documents/ornl-tm-13552.md|OAK RIDGE NATIONAL LABORATORY]] - April 1998
+- [[../documents/ornl-3144.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - April 30, 1961 - ORNL-3144
+- [[../documents/ornl-cf-57-4-92.md|UNCLASSIFIED]] - April 8, 1957
+- [[../documents/ornl-4622.md|ORNL-4622]] - August 31, 1970 - ORNL-4622
+- [[../documents/ornl-4832.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1972 - ORNL-2474
+- [[../documents/ornl-5078.md|MOLTEN-SALT REACTOR PROGRAM]] - August 31, 1975 - ORNL-5078
+- [[../documents/graphite-and-xenon-behavior-and-their-influence-on-molten-salt-reactor-design.md|GRAPHITE AND XENON BEHAVIOR AND THEIR INFLUENCE ON MOLTEN-SALT REACTOR DESIGN]] - August 4, 1969
+- [[../documents/new-developments-in-materials-for-molten-salt-reactors.md|NEW DEVELOPMENTS IN MATERIALS FOR MOLTEN-SALT REACTORS]] - August 4, 1969
+- [[../documents/ornl-tm-1960.md|OPERATION OF MOLTEN-SALT CONVECTION LOOPS IN THE ORR]] - August 8, 1966
+- [[../documents/ornl-tm-13142.md|OAK RIDGE NATIONAL LABORATORY]] - December 12, 1969 - ORNL-4865
+- [[../documents/ornl-tm-2305.md|![](images/db6785ee9eb6ca62c9623a7b9062899cbbe388e95f136cbcc441191fe9416eae.jpg)]] - December 1967 - ORNL-TM-2305
+- [[../documents/ornl-tm-4174.md|![](images/78fa4ec143a56641acc686f2b68602b2eebec316a136556023225ec09544b0e4.jpg)]] - December 1969 - ORNL-TM-1997
+- [[../documents/nas-ns-3060.md|NAS-NS-3060]] - December 1974 - NAS-NS-3060
+- [[../documents/ornl-tm-2743.md|U.S. ATOMIC ENERGY COMMISSION]] - December 22, 1969 - ORNL-TM-2743
+- [[../documents/ornl-2440.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 31, 1957 - ORNL-2440
+- [[../documents/ornl-3913.md|ORNL.3913]] - December 31, 1965
+- [[../documents/ornl-4076.md|HeoHcTo 95hE]] - December 31, 1966 - ORNL-4076
+- [[../documents/cf-56-8-204.md|M. TAUBE, M. MIELCARSKI, S. POTURAJ-GUTNIAK and A. KOWALEW Institute of Nuclear Research, Warsaw, Žerań, Poland]] - February 1967 - CF-56-8-204
+- [[../documents/cf-56-8-204.md|M. TAUBE, M. MIELCARSKI, S. POTURAJ-GUTNIAK and A. KOWALEW Institute of Nuclear Research, Warsaw, Žerań, Poland]] - February 1967 - CF-56-8-204
+- [[../documents/nas-ns-3063.md|Although a small portion of this report is not reproducible, it is being made available to expedite the availability of information on the research discussed herein.]] - February 1986 - NAS-NS-3050
+- [[../documents/ornl-629.md|![](images/b3b93e11955dd1090e2ebdacb92e68e6efb5273cf77250cbd3ded0ba34413eb4.jpg)]] - February 28, 1950 - ORNL-528
+- [[../documents/ornl-5047.md|Molten-Salt]] - February 28, 1975 - ORNL-5047
+- [[../documents/ornl-5132.md|![](images/d06517328823504576c5fcd7ace4c6cff5e8189745eaac1344265330e4180ef8.jpg)]] - February 29, 1976 - ORNL-2474
+- [[../documents/ornl-5132.md|![](images/d06517328823504576c5fcd7ace4c6cff5e8189745eaac1344265330e4180ef8.jpg)]] - February 29, 1976 - ORNL-2474
+- [[../documents/ornl-tm-1993.md|![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)]] - January 1959 - ORNL-TM-1993
+- [[../documents/ornl-tm-5920.md|Status of Materials Development for Molen Salt Reactors]] - January 1978 - ORNL-5132
+- [[../documents/ornl-3419.md|MOLTEN-SALT REACTOR PROGRAM]] - January 31, 1963
+- [[../documents/ornl-3626.md|ORNL-3626 UCA-80- Reactor Technology TID-4500 (31st ed.)]] - January 31, 1964 - ORNL-3626
+- [[../documents/ornl-tm-1544.md|ORNL-TM-1544]] - July 1, 1966 - ORNL-TM-1544
+- [[../documents/ornl-3529.md|ORNL-3529]] - July 31, 1963 - ORNL-3529
+- [[../documents/ornl-tm-2647.md|![](images/9282d10dfdf506fc13701eff09603129e80c18b6a64ed15a7d55343b0daa94cd.jpg)]] - June 1, 1965 - ORNL-TM-2647
+- [[../documents/ornl-tm-1997.md|![](images/db5ba9a3d24996b08ffe668497ad3d85b264e7e81222ae96d4fe6118ec282798.jpg)]] - June 1, 1965 - ORNL-TM-1997
+- [[../documents/ornl-tm-2359.md|ORNL-TM-2359]] - June 1, 1965 - ORNL-TM-2359
+- [[../documents/ornl-tm-2483.md|ORNL-TM-2483]] - June 1, 1965 - ORNL-TM-2483
+- [[../documents/ornl-tm-3063.md|ORNL-TM-3063]] - June 1, 1965 - ORNL-TM-3063
+- [[../documents/ornl-1294.md|ASSIFIED]] - June 10, 1952 - ORNL-1294
+- [[../documents/ornl-tm-1146.md|![](images/f79da9fcb796cf2f680b2fd84871398fa62f642b6fa7aca4f569eb7794013328.jpg)]] - June 11, 1965 - ORNL-TM-1146
+- [[../documents/wash-1097.md|CIVILIAN NUCLEAR POWER]] - June 1969
+- [[../documents/eir-253.md|Eidg. Institut für Reaktorforschung Wurenlingen]] - June 1969
+- [[../documents/ornl-4628.md|ORIGEN - THE ORNL ISOTOPE GENERATION AND DEPLETION CODE]] - June 1969 - ORNL-2958
+- [[../documents/ornl-2061.md|AEC RESEARCH AND DEVELOPMENT REPORT CENTRAL RESEARCH LIBRARY DOCUMENTATION]] - March 10, 1956 - ORNL-528
+- [[../documents/nas-ns-3050.md|National Research Council]] - March 1962
+- [[../documents/ornl-tm-12925.md|OAK RIDGE NATIONAL LABORATORY]] - March 1995
+- [[../documents/ornl-tm-13517.md|Definition of Weapons-Usable Uranium-233]] - March 1998
+- [[../documents/ornl-2274.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - March 31, 1957 - ORNL-528
+- [[../documents/ornl-2517.md|DECLASSIFIED]] - March 31, 1958 - ORNL-2517
+- [[../documents/ornl-2711.md|CENTRAL RESEARCH LIBRARY DOCUMENT COLLECTION]] - March 31, 1959 - ORNL-2711
+- [[../documents/nas-ns-3013.md|National]] - May 1960
+- [[../documents/ornl-tm-5781.md|![](images/a196266181650abc0bf276526fc9796ac3e6c3ce5b32bd5fc4cb4a12a79ce122.jpg)]] - May 1977
+- [[../documents/ornl-768.md|![](images/2320d333e10a25961655804d1d96e2b4430e9026c7e2efa85383bdac53ac4871.jpg)]] - May 31, 1950
+- [[../documents/nas-ns-3016.md|National]] - November 1, 1957
+- [[../documents/ornl-tm-2032.md|![](images/0610c17917e89cb00cccfdae1c8a00466374f960d827f27739f32207152d77ab.jpg)]] - November 1, 1967 - ORNL-TM-2032
+- [[../documents/ornl-1868.md|ORNL-1868]] - November 12, 1954 - ORNL-1868
+- [[../documents/ornl-528.md|Do NOT transfer this document to any other person. If you want others to see it, attach their names, return the document, and the Library will arrange the loan as requested.]] - November 30, 1949
+- [[../documents/nas-ns-3025.md|National]] - October 1980
+- [[../documents/ornl-tm-5565.md|Assessment of the Thorium Fuel Cycle in Power Reactors]] - October 3, 1979 - ORNL-5565
+- [[../documents/ornl-6952.md|Uses For Uranium-233: What Should Be Kept for Future Needs?]] - September 24, 1999
+- [[../documents/ornl-2387.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 30, 1957 - ORNL-2387
+- [[../documents/ornl-2599.md|![](images/5d44b831448e7d54cd570a819efc121753866f220a0f543baad87009e02a8d8f.jpg)]] - September 30, 1958 - ORNL-2599
+- [[../documents/ornl-tm-3144.md|![](images/f9a0954256e310f7dbd247b21103a0431600f16dcda05ed28336e412601e963e.jpg)]] - September 30, 1970 - ORNL-TM-3144

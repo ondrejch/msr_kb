@@ -1,0 +1,447 @@
+{
+  "authors": [
+    "COPY NO. -",
+    "MSBR CONTROL STUDIES",
+    "W. H. Sides",
+    "Jr.",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2489.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2489",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 9,
+        "line_hits": [
+          58,
+          88,
+          102,
+          461,
+          651,
+          684,
+          686,
+          688,
+          689
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          102
+        ],
+        "name": "Hastelloy N"
+      }
+    ],
+    "component": [
+      {
+        "count": 24,
+        "line_hits": [
+          58,
+          60,
+          70,
+          84,
+          90,
+          102,
+          112,
+          198,
+          200,
+          247,
+          281,
+          287,
+          303,
+          308,
+          369,
+          389,
+          401,
+          413,
+          421,
+          435,
+          463,
+          493,
+          699,
+          700
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          58,
+          84,
+          88,
+          90,
+          102,
+          104,
+          125,
+          137,
+          198,
+          247,
+          267,
+          273,
+          303,
+          355,
+          389,
+          413,
+          415,
+          461,
+          471,
+          696,
+          697,
+          717
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          43,
+          58,
+          191,
+          265,
+          267,
+          281,
+          287,
+          295,
+          306,
+          645,
+          693
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          137,
+          198,
+          295,
+          653
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          17,
+          84
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          88
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          17
+        ],
+        "name": "salt pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          60,
+          92,
+          715,
+          716,
+          717,
+          719,
+          720,
+          794,
+          795
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          803,
+          804
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 12,
+        "line_hits": [
+          62,
+          68,
+          79,
+          88,
+          165,
+          200,
+          202,
+          230,
+          281,
+          295,
+          308,
+          427
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          11,
+          17,
+          58,
+          98,
+          299,
+          303,
+          717,
+          720
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          17,
+          171,
+          715
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "ba46fcf5b83e402120d54b4411acb3529fcc4437c0e97ee51dbc79d35676b342",
+  "markdown_path": "pdf/ORNL-TM-2489/ORNL-TM-2489/hybrid_ocr/ORNL-TM-2489.md",
+  "report_number": "ORNL-TM-2489",
+  "report_numbers": [
+    "ORNL-TM-2489"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 29,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2489",
+      "end_line": 4,
+      "heading": "Ornl-Tm-2489",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 10,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "msbr-control-studies",
+      "end_line": 14,
+      "heading": "Msbr Control Studies",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 18,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 27,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "contents",
+      "end_line": 47,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 28
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 63,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "2-formulation-of-the-control-system",
+      "end_line": 65,
+      "heading": "2. FORMULATION OF THE CONTROL SYSTEM",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "2-1-investigation-of-plant-conditions-for-less-than-full-load-operation",
+      "end_line": 85,
+      "heading": "2.1 Investigation of Plant Conditions for Less than Full-Load Operation",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "2-2-transient-behavior-of-control-method-with-constant-secondary-salt-flow-rate",
+      "end_line": 91,
+      "heading": "2.2 Transient Behavior of Control Method with Constant Secondary-Salt Flow Rate",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "ornl-dwg-69-6634",
+      "end_line": 186,
+      "heading": "Ornl Dwg. 69-6634",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "3-results",
+      "end_line": 195,
+      "heading": "3. RESULTS",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "3-1-decrease-in-load-demand",
+      "end_line": 227,
+      "heading": "3.1 Decrease in Load Demand",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "3-2-changes-of-reactivity",
+      "end_line": 244,
+      "heading": "3.2 Changes of Reactivity",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "3-3-step-changes-of-reactivity-with-controller-disconnected",
+      "end_line": 250,
+      "heading": "3.3 Step Changes of Reactivity with Controller Disconnected",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "3-4-ramp-changes-of-reactivity-with-controller-disconnected",
+      "end_line": 264,
+      "heading": "3.4 Ramp Changes of Reactivity with Controller Disconnected",
+      "level": 1,
+      "start_line": 251
+    },
+    {
+      "anchor": "3-5-step-loss-of-one-secondary-salt-coolant-loop",
+      "end_line": 296,
+      "heading": "3.5 Step Loss of One Secondary-Salt Coolant Loop",
+      "level": 1,
+      "start_line": 265
+    },
+    {
+      "anchor": "3-6-measurement-of-system-transfer-function",
+      "end_line": 300,
+      "heading": "3.6 Measurement of System Transfer Function",
+      "level": 1,
+      "start_line": 297
+    },
+    {
+      "anchor": "4-concluding-remarks",
+      "end_line": 312,
+      "heading": "4. CONCLUDING REMARKS",
+      "level": 1,
+      "start_line": 301
+    },
+    {
+      "anchor": "5-appendix",
+      "end_line": 314,
+      "heading": "5. APPENDIX",
+      "level": 1,
+      "start_line": 313
+    },
+    {
+      "anchor": "5-1-calculation-of-steady-state-system-temperature-profiles",
+      "end_line": 443,
+      "heading": "5.1 Calculation of Steady-State System Temperature Profiles",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "f-4-0",
+      "end_line": 449,
+      "heading": "F _ {4} = 0.",
+      "level": 2,
+      "start_line": 444
+    },
+    {
+      "anchor": "f-4-0",
+      "end_line": 458,
+      "heading": "F _ {4} = 0",
+      "level": 2,
+      "start_line": 450
+    },
+    {
+      "anchor": "5-2-description-of-the-analog-simulator-model",
+      "end_line": 712,
+      "heading": "5.2 Description of the Analog Simulator Model",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "references",
+      "end_line": 724,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 713
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 728,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 725
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 800,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 729
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 805,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 801
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2489",
+  "tables": [],
+  "title": "ORNL-TM-2489",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "instrumentation-and-controls",
+    "graphite-and-moderator-behavior",
+    "breeder-and-converter-design",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

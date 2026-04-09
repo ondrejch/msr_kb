@@ -1,0 +1,497 @@
+{
+  "authors": [
+    "M",
+    "P. A. Haas",
+    "COWS PHOES: NATHIDINGAL CADDIAGE",
+    "CENTRAL DES ENVELOPHE (HOMOGENY)",
+    "PROCFT TRANSFER ANONONAL FRETION",
+    "MARTIN MARIETTA ENERGY SYSTEMS",
+    "INC."
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-11955.jsonl",
+  "date_text": "February 1992",
+  "doc_id": "ornl-tm-11955",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          110,
+          368,
+          403,
+          404
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          110,
+          405
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          204
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          395
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "organization": [
+      {
+        "count": 8,
+        "line_hits": [
+          1,
+          49,
+          258,
+          399,
+          401,
+          407,
+          432,
+          433
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          25,
+          55
+        ],
+        "name": "Martin Marietta"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 42,
+        "line_hits": [
+          110,
+          116,
+          118,
+          124,
+          134,
+          138,
+          142,
+          150,
+          152,
+          154,
+          158,
+          165,
+          176,
+          183,
+          187,
+          204,
+          220,
+          224,
+          228,
+          230,
+          232,
+          234,
+          236,
+          248,
+          250,
+          252,
+          253,
+          260,
+          263,
+          281,
+          283,
+          285,
+          287,
+          319,
+          325,
+          327,
+          329,
+          333,
+          352,
+          368,
+          370,
+          378
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          142,
+          348,
+          396
+        ],
+        "name": "chloride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          114
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          329
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f688e3a815018be77a9283db6a709250caf4b0cbd23e8081abacf6a58171fd49",
+  "markdown_path": "pdf/ORNL-TM-11955/ORNL-TM-11955/hybrid_ocr/ORNL-TM-11955.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 46,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 4,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "literature-information-applicable-to-the-reaction-of-uranium-oxides-with-chlorine-to-prepare-uranium-tetrachloride",
+      "end_line": 10,
+      "heading": "LITERATURE INFORMATION APPLICABLE TO THE REACTION OF URANIUM OXIDES WITH CHLORINE TO PREPARE URANIUM Tetrachloride",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "cows-phoes-nathidingal-caddiage",
+      "end_line": 12,
+      "heading": "Cows Phoes: Nathidingal Caddiage",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "central-des-envelophe-homogeny",
+      "end_line": 14,
+      "heading": "Central Des Envelophe (Homogeny)",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "l-i-b-r-a-r-y-l-o-a-n-002",
+      "end_line": 16,
+      "heading": "L I B R A R Y L O A N 002",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "procft-transfer-anononal-fretion",
+      "end_line": 22,
+      "heading": "Procft Transfer Anononal Fretion",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "age83y",
+      "end_line": 24,
+      "heading": "制表员Age83Y",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-inc",
+      "end_line": 26,
+      "heading": "Martin Marietta Energy Systems, Inc.",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "for-the-united-states",
+      "end_line": 28,
+      "heading": "For The United States",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "department-of-energy",
+      "end_line": 40,
+      "heading": "Department Of Energy",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "literature-information-applicable-to-the-reaction-of-uranium-oxides-with-chlorine-to-prepare-uranium-tetrachloride",
+      "end_line": 48,
+      "heading": "LITERATURE INFORMATION APPLICABLE TO THE REACTION OF URANIUM OXIDES WITH CHLORINE TO PREPARE URANIUM TetrachlorIDE",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 54,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "martin-marietta-energy-systems-inc",
+      "end_line": 58,
+      "heading": "Martin Marietta Energy Systems, Inc.",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "u-s-department-of-energy",
+      "end_line": 64,
+      "heading": "U. S. Department Of Energy",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "contents",
+      "end_line": 66,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 68,
+      "heading": "ABSTRACT 1",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 69,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "2-literature-information-3",
+      "end_line": 71,
+      "heading": "2. LITERATURE INFORMATION 3",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "2-1-thermochemical-data-3",
+      "end_line": 72,
+      "heading": "2.1 THERMOCHEMICAL DATA 3",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "2-2-phase-diagrams-5",
+      "end_line": 73,
+      "heading": "2.2 PHASE DIAGRAMS 5",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "2-3-experimental-results-for-chlorination-of-uranium-oxides-14",
+      "end_line": 75,
+      "heading": "2.3 EXPERIMENTAL RESULTS FOR CHLORINATION OF URANIUM OXIDES 14",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "3-discussions-and-conclusions-17",
+      "end_line": 77,
+      "heading": "3.Discussions And Conclusions 17",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "3-1-thermochemical-considerations-17",
+      "end_line": 78,
+      "heading": "3.1 THERMOCHEMICAL CONSIDERATIONS 17",
+      "level": 2,
+      "start_line": 78
+    },
+    {
+      "anchor": "3-2-selection-of-chlorination-conditions-22",
+      "end_line": 79,
+      "heading": "3.2 SELECTION OF CHLORINATION CONDITIONS 22",
+      "level": 2,
+      "start_line": 79
+    },
+    {
+      "anchor": "3-3-salt-properties-and-control-considerations-24",
+      "end_line": 82,
+      "heading": "3.3 SALT PROPERTIES AND CONTROL CONSIDERATIONS 24",
+      "level": 2,
+      "start_line": 80
+    },
+    {
+      "anchor": "4-acknowledgement-28",
+      "end_line": 83,
+      "heading": "4. ACKNOWLEDGEMENT 28",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "5-references-29",
+      "end_line": 85,
+      "heading": "5. REFERENCES 29",
+      "level": 2,
+      "start_line": 84
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 93,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 103,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "literature-information-applicable-to-the-reaction-of-uranium-oxides-with-chlorine-to-prepare-uranium-tetrachloride",
+      "end_line": 107,
+      "heading": "LITERATURE INFORMATION APPLICABLE TO THE REACTION OF URANIUM OXIDES WITH CHLORINE TO PREPARE URANIUM TetrachlorIDE",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 111,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 121,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "2-literature-information",
+      "end_line": 139,
+      "heading": "2. LITERATURE INFORMATION",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "2-1-thermochemical-data",
+      "end_line": 155,
+      "heading": "2.1 THERMOCHEMICAL DATA",
+      "level": 1,
+      "start_line": 140
+    },
+    {
+      "anchor": "2-2-phase-diagrams",
+      "end_line": 199,
+      "heading": "2.2 PHASE DIAGRAMS",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "2-3-experimental-results-for-reactions-of-chlorine-with-uranium-oxides",
+      "end_line": 221,
+      "heading": "2.3 EXPERIMENTAL RESULTS FOR REACTIONS OF CHLORINE WITH URANIUM OXIDES",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "3-discussions-and-conclusions",
+      "end_line": 225,
+      "heading": "3. DISCUSSIONS AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "3-1-thermochemical-considerations",
+      "end_line": 257,
+      "heading": "3.1 THERMOCHEMICAL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "ornl-dwg-91a-632",
+      "end_line": 314,
+      "heading": "Ornl Dwg 91A-632",
+      "level": 2,
+      "start_line": 258
+    },
+    {
+      "anchor": "3-2-selection-of-chlorination-conditions",
+      "end_line": 330,
+      "heading": "3.2 SELECTION OF CHLORINATION CONDITIONS",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "3-3-salt-properties-and-process-control-considerations",
+      "end_line": 357,
+      "heading": "3.3 SALT PROPERTIES AND PROCESS CONTROL CONSIDERATIONS",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "3-4-preparation-of-mathrm-ticl-4-mathrm-zrcl-4-mathrm-sicl-4-and-mathrm-thcl-4-from-oxides",
+      "end_line": 375,
+      "heading": "3.4 PREPARATION OF $\\mathrm{TiCl_4}$ , $\\mathrm{ZrCl_4}$ , $\\mathrm{SiCl_4}$ , AND $\\mathrm{ThCl_4}$ FROM OXIDES",
+      "level": 1,
+      "start_line": 358
+    },
+    {
+      "anchor": "4-acknowledgement",
+      "end_line": 379,
+      "heading": "4. ACKNOWLEDGEMENT",
+      "level": 1,
+      "start_line": 376
+    },
+    {
+      "anchor": "5-references",
+      "end_line": 408,
+      "heading": "5. REFERENCES",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 434,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 409
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 441,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 435
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-11955",
+  "tables": [],
+  "title": "OAK RIDGE NATIONAL LABORATORY",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "graphite-and-moderator-behavior",
+    "program-history"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

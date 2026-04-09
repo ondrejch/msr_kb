@@ -1,0 +1,1803 @@
+{
+  "authors": [
+    "RADIOGENOMICS",
+    "OF NEPTUNIUM",
+    "NUCLEAR SCIENCE SERIES",
+    "Published by",
+    "Technical Information Center",
+    "Office of Information Services",
+    "COMMITTEE ON NUCLEAR SCIENCE"
+  ],
+  "claims_path": "kb/normalized/claims/nas-ns-3060.jsonl",
+  "date_text": "December 1974",
+  "doc_id": "nas-ns-3060",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          713,
+          720,
+          732,
+          734,
+          1083
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1223,
+          2537,
+          2713
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1201,
+          2700
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "organization": [
+      {
+        "count": 48,
+        "line_hits": [
+          17,
+          52,
+          76,
+          102,
+          104,
+          126,
+          322,
+          2127,
+          2129,
+          2381,
+          2389,
+          2391,
+          2415,
+          2417,
+          2472,
+          2503,
+          2532,
+          2534,
+          2536,
+          2537,
+          2541,
+          2543,
+          2562,
+          2578,
+          2584,
+          2587,
+          2602,
+          2605,
+          2606,
+          2607,
+          2610,
+          2629,
+          2655,
+          2656,
+          2665,
+          2672,
+          2677,
+          2688,
+          2690,
+          2692,
+          2698,
+          2704,
+          2710,
+          2711,
+          2712,
+          2713,
+          2733,
+          2747
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          70,
+          2415,
+          2532,
+          2567,
+          2602,
+          2655,
+          2656
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          44,
+          66,
+          2578,
+          2587
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          36
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 138,
+        "line_hits": [
+          316,
+          332,
+          334,
+          369,
+          393,
+          395,
+          416,
+          424,
+          434,
+          441,
+          443,
+          445,
+          493,
+          499,
+          503,
+          549,
+          568,
+          585,
+          607,
+          608,
+          618,
+          619,
+          631,
+          632,
+          639,
+          653,
+          655,
+          685,
+          689,
+          691,
+          695,
+          701,
+          707,
+          718,
+          720,
+          722,
+          724,
+          728,
+          734,
+          738,
+          740,
+          744,
+          746,
+          775,
+          781,
+          785,
+          791,
+          795,
+          797,
+          803
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 2,
+        "line_hits": [
+          429,
+          685
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1119
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          758
+        ],
+        "name": "RbF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "120c50bdf4ceec73d87a98ebd47e9f2a61d2ca0321d9296e2c030159d7d0fa0a",
+  "markdown_path": "pdf/NAS-NS-3060/NAS-NS-3060/hybrid_ocr/NAS-NS-3060.md",
+  "report_number": "NAS-NS-3060",
+  "report_numbers": [
+    "NAS-NS-3060"
+  ],
+  "report_series": "nas-ns-series",
+  "section_count": 223,
+  "sections": [
+    {
+      "anchor": "nas-ns-3060",
+      "end_line": 4,
+      "heading": "Nas-Ns-3060",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "radiogenomics",
+      "end_line": 6,
+      "heading": "RADIOGENOMICS",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "of-neptunium",
+      "end_line": 8,
+      "heading": "OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-science-series",
+      "end_line": 16,
+      "heading": "Nuclear Science Series",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "united-states-atomic-energy-commission",
+      "end_line": 18,
+      "heading": "United States Atomic Energy Commission",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "committee-on-nuclear-science",
+      "end_line": 37,
+      "heading": "COMMITTEE ON NUCLEAR SCIENCE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "members-at-large",
+      "end_line": 45,
+      "heading": "Members-at-Large",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "liaison-members",
+      "end_line": 53,
+      "heading": "Liaison Members",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "subcommittees-on-radiochemistry",
+      "end_line": 73,
+      "heading": "Subcommittees on Radiochemistry",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "notice",
+      "end_line": 77,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "radiochemistry-of-neptunium",
+      "end_line": 93,
+      "heading": "RADIOCHEMISTRY OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 78
+    },
+    {
+      "anchor": "prepared-for-subcommittee-on-radiochemistry-national-academy-of-sciences-national-research-council",
+      "end_line": 101,
+      "heading": "Prepared for Subcommittee on Radiochemistry National Academy of Sciences - National Research Council",
+      "level": 1,
+      "start_line": 94
+    },
+    {
+      "anchor": "united-states-atomic-energy-commission",
+      "end_line": 117,
+      "heading": "United States Atomic Energy Commission",
+      "level": 2,
+      "start_line": 102
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 133,
+      "heading": "Foreword",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "contents",
+      "end_line": 182,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 214,
+      "heading": "CONTENTS (CONTINUED)",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 216,
+      "heading": "CONTENTS (CONTINUED)",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "page",
+      "end_line": 246,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "radiochemistry-of-neptunium",
+      "end_line": 262,
+      "heading": "RADIOCHEMISTRY OF NEPTUNIUM*",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "i-general-review-of-the-inorganic-and-analytical-chemistry-of-neptunium",
+      "end_line": 289,
+      "heading": "I. GENERAL REVIEW OF THE INORGANIC AND ANALYTICAL CHEMISTRY OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 263
+    },
+    {
+      "anchor": "ii-general-review-of-the-radiochemistry-of-neptunium",
+      "end_line": 295,
+      "heading": "II. GENERAL REVIEW OF THE RADIOCHEMISTRY OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 290
+    },
+    {
+      "anchor": "iii-discovery-and-occurrence-of-neptunium",
+      "end_line": 329,
+      "heading": "III. DISCOVERY AND OCCURRENCE OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "iv-isotopes-and-nuclear-properties-of-neptunium",
+      "end_line": 335,
+      "heading": "IV. ISOTOPES AND NUCLEAR PROPERTIES OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 330
+    },
+    {
+      "anchor": "table-1",
+      "end_line": 336,
+      "heading": "Table 1",
+      "level": 2,
+      "start_line": 336
+    },
+    {
+      "anchor": "isotypes-of-neptumtur",
+      "end_line": 358,
+      "heading": "Isotypes Of Neptumtur",
+      "level": 2,
+      "start_line": 337
+    },
+    {
+      "anchor": "v-chemistry-of-neptunium",
+      "end_line": 360,
+      "heading": "V. CHEMISTRY OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "a-metallic-neptunium",
+      "end_line": 362,
+      "heading": "A. METALLIC NEPTUNIUM",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "a-1-preparation",
+      "end_line": 366,
+      "heading": "A.1 Preparation",
+      "level": 1,
+      "start_line": 363
+    },
+    {
+      "anchor": "a-2-physical-properties",
+      "end_line": 370,
+      "heading": "A.2 Physical Properties",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "table-3",
+      "end_line": 372,
+      "heading": "Table 3",
+      "level": 2,
+      "start_line": 371
+    },
+    {
+      "anchor": "physical-properties-of-neptunium-metal-16-17-18",
+      "end_line": 382,
+      "heading": "Physical Properties Of Neptunium Metal 16,17,18",
+      "level": 2,
+      "start_line": 373
+    },
+    {
+      "anchor": "a-3-chemical-properties",
+      "end_line": 390,
+      "heading": "A.3 Chemical Properties",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "8-alloys-and-intermetallic-compounds",
+      "end_line": 411,
+      "heading": "8. ALLOYS AND INTERMETALLIC COMPOUNDS",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "c-compounds-of-neptunium",
+      "end_line": 425,
+      "heading": "C. COMPOUNDS OF NEPTUNIUM",
+      "level": 1,
+      "start_line": 412
+    },
+    {
+      "anchor": "table-5",
+      "end_line": 426,
+      "heading": "Table 5",
+      "level": 2,
+      "start_line": 426
+    },
+    {
+      "anchor": "neptunium-compounds-precipitated-from-aqueous-solution",
+      "end_line": 430,
+      "heading": "Neptunium Compounds Precipitated From Aqueous: Solution",
+      "level": 2,
+      "start_line": 427
+    },
+    {
+      "anchor": "table-6",
+      "end_line": 431,
+      "heading": "Table 6",
+      "level": 2,
+      "start_line": 431
+    },
+    {
+      "anchor": "other-neptunium-compounds",
+      "end_line": 436,
+      "heading": "Other Neptunium Compounds",
+      "level": 2,
+      "start_line": 432
+    },
+    {
+      "anchor": "d-neptunium-ions-in-solution",
+      "end_line": 446,
+      "heading": "D. Neptunium Ions In Solution",
+      "level": 2,
+      "start_line": 437
+    },
+    {
+      "anchor": "table-7",
+      "end_line": 447,
+      "heading": "Table 7",
+      "level": 2,
+      "start_line": 447
+    },
+    {
+      "anchor": "neptunium-ions-in-aqueous-solution",
+      "end_line": 455,
+      "heading": "Neptunium Ions In Aqueous Solution",
+      "level": 2,
+      "start_line": 448
+    },
+    {
+      "anchor": "table-8",
+      "end_line": 460,
+      "heading": "Table 8",
+      "level": 2,
+      "start_line": 456
+    },
+    {
+      "anchor": "table-9",
+      "end_line": 462,
+      "heading": "TABLE 9",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "redox-potentials-of-neptunium-in-volts-at-25-c-8-66-68",
+      "end_line": 464,
+      "heading": "REDOX POTENTIALS OF NEPTUNIUM (IN VOLTS AT 25°C) 8,66-68",
+      "level": 1,
+      "start_line": 463
+    },
+    {
+      "anchor": "1-1-0m-hc1o",
+      "end_line": 468,
+      "heading": "1. 1.0M Hc1O",
+      "level": 2,
+      "start_line": 465
+    },
+    {
+      "anchor": "2-1-om-hc1",
+      "end_line": 472,
+      "heading": "2. 1.Om Hc1",
+      "level": 2,
+      "start_line": 469
+    },
+    {
+      "anchor": "3-1-0mh2so",
+      "end_line": 476,
+      "heading": "3. 1.0Mh2So",
+      "level": 2,
+      "start_line": 473
+    },
+    {
+      "anchor": "4-1-02m-hno3",
+      "end_line": 494,
+      "heading": "4. 1.02M Hno3",
+      "level": 2,
+      "start_line": 477
+    },
+    {
+      "anchor": "d-2-oxidation-reduction-reactions",
+      "end_line": 500,
+      "heading": "D.2. Oxidation-Reduction Reactions",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "d-3-disproportionation-of-neptunium",
+      "end_line": 527,
+      "heading": "D.3. Disproportionation of Neptunium",
+      "level": 1,
+      "start_line": 501
+    },
+    {
+      "anchor": "table-12",
+      "end_line": 544,
+      "heading": "Table 12",
+      "level": 2,
+      "start_line": 528
+    },
+    {
+      "anchor": "d-4-radiolysis-of-neptunium-solutions",
+      "end_line": 552,
+      "heading": "D.4. Radiolysis of Neptunium Solutions",
+      "level": 1,
+      "start_line": 545
+    },
+    {
+      "anchor": "table-13",
+      "end_line": 557,
+      "heading": "Table 13",
+      "level": 2,
+      "start_line": 553
+    },
+    {
+      "anchor": "d-5-hydrolysis-of-neptunium",
+      "end_line": 575,
+      "heading": "D.5. Hydrolysis of Neptunium",
+      "level": 1,
+      "start_line": 558
+    },
+    {
+      "anchor": "table-14",
+      "end_line": 576,
+      "heading": "Table 14",
+      "level": 2,
+      "start_line": 576
+    },
+    {
+      "anchor": "first-hydrolysis-constants-and-solubility-products-for-neptunium-ions",
+      "end_line": 582,
+      "heading": "First Hydrolysis Constants And Solubility Products For Neptunium Ions",
+      "level": 2,
+      "start_line": 577
+    },
+    {
+      "anchor": "d-6-complex-ion-formation",
+      "end_line": 600,
+      "heading": "D.6. Complex Ion Formation",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "table-15",
+      "end_line": 601,
+      "heading": "Table 15",
+      "level": 2,
+      "start_line": 601
+    },
+    {
+      "anchor": "complexs-of-neptunin-in-aqueous-solution",
+      "end_line": 619,
+      "heading": "Complexs Of Neptunin In Aqueous Solution",
+      "level": 2,
+      "start_line": 602
+    },
+    {
+      "anchor": "m-l-10",
+      "end_line": 623,
+      "heading": "M L 10",
+      "level": 2,
+      "start_line": 620
+    },
+    {
+      "anchor": "mp-tta-h",
+      "end_line": 636,
+      "heading": "[Mp(Tta)]H",
+      "level": 2,
+      "start_line": 624
+    },
+    {
+      "anchor": "neptunium-iv",
+      "end_line": 650,
+      "heading": "Neptunium (IV)",
+      "level": 1,
+      "start_line": 637
+    },
+    {
+      "anchor": "neptunian-v",
+      "end_line": 678,
+      "heading": "Neptunian (V)",
+      "level": 1,
+      "start_line": 651
+    },
+    {
+      "anchor": "vi-preparation-of-neptunium-samples-for-analysis",
+      "end_line": 680,
+      "heading": "VI. PREPARATION OF NEPTUNIUM SAMPLES FOR ANALYSIS",
+      "level": 1,
+      "start_line": 679
+    },
+    {
+      "anchor": "a-neptunium-metal-and-alloys",
+      "end_line": 686,
+      "heading": "A. NEPTUNIUM METAL AND ALLOYS",
+      "level": 1,
+      "start_line": 681
+    },
+    {
+      "anchor": "b-neptunium-compounds",
+      "end_line": 692,
+      "heading": "B. NEPTUNIUM COMPOUNDS",
+      "level": 1,
+      "start_line": 687
+    },
+    {
+      "anchor": "c-biological-and-environmental-samples",
+      "end_line": 696,
+      "heading": "C. BIOLOGICAL AND ENVIRONMENTAL SAMPLES",
+      "level": 1,
+      "start_line": 693
+    },
+    {
+      "anchor": "vii-separation-methods",
+      "end_line": 698,
+      "heading": "VII. SEPARATION METHODS",
+      "level": 1,
+      "start_line": 697
+    },
+    {
+      "anchor": "a-coprecipiation-and-precipitation",
+      "end_line": 708,
+      "heading": "A. COPRECIPIATION AND PRECIPITATION",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "table-16",
+      "end_line": 709,
+      "heading": "Table 16",
+      "level": 2,
+      "start_line": 709
+    },
+    {
+      "anchor": "coprecipitation-behavior-of-trace-amounts",
+      "end_line": 710,
+      "heading": "Coprecipitation Behavior Of Trace Amounts",
+      "level": 2,
+      "start_line": 710
+    },
+    {
+      "anchor": "of-neptunium",
+      "end_line": 792,
+      "heading": "Of Neptunium",
+      "level": 2,
+      "start_line": 711
+    },
+    {
+      "anchor": "b-solvent-extraction",
+      "end_line": 804,
+      "heading": "B. SOLVENT EXTRACTION",
+      "level": 1,
+      "start_line": 793
+    },
+    {
+      "anchor": "table-17",
+      "end_line": 805,
+      "heading": "Table 17",
+      "level": 2,
+      "start_line": 805
+    },
+    {
+      "anchor": "variation-of-extraction-coefficients-with-oxilation-state",
+      "end_line": 815,
+      "heading": "Variation Of Extraction Coefficients With Oxilation State",
+      "level": 2,
+      "start_line": 806
+    },
+    {
+      "anchor": "extraction-coefficients-for-various-ions-into-0-5m-tta-xylen",
+      "end_line": 817,
+      "heading": "Extraction Coefficients For Various Ions Into 0.5M Tta-Xylen",
+      "level": 2,
+      "start_line": 816
+    },
+    {
+      "anchor": "table-18",
+      "end_line": 848,
+      "heading": "Table 18",
+      "level": 2,
+      "start_line": 818
+    },
+    {
+      "anchor": "table-19",
+      "end_line": 877,
+      "heading": "Table 19",
+      "level": 2,
+      "start_line": 849
+    },
+    {
+      "anchor": "table-20",
+      "end_line": 926,
+      "heading": "TABLE 20",
+      "level": 1,
+      "start_line": 878
+    },
+    {
+      "anchor": "table-21",
+      "end_line": 934,
+      "heading": "Table 21",
+      "level": 2,
+      "start_line": 927
+    },
+    {
+      "anchor": "table-22",
+      "end_line": 935,
+      "heading": "Table 22",
+      "level": 2,
+      "start_line": 935
+    },
+    {
+      "anchor": "extraction-of-neptunium-plutonium-and-americium-into-various-solvents",
+      "end_line": 1003,
+      "heading": "Extraction Of Neptunium, Plutonium, And Americium Into Various Solvents",
+      "level": 2,
+      "start_line": 936
+    },
+    {
+      "anchor": "c-ion-exchange",
+      "end_line": 1084,
+      "heading": "C. ION EXCHANGE",
+      "level": 1,
+      "start_line": 1004
+    },
+    {
+      "anchor": "d-chromatography",
+      "end_line": 1114,
+      "heading": "D. CHROMATOGRAPHY",
+      "level": 1,
+      "start_line": 1085
+    },
+    {
+      "anchor": "e-other-methods",
+      "end_line": 1128,
+      "heading": "E. OTHER METHODS",
+      "level": 1,
+      "start_line": 1115
+    },
+    {
+      "anchor": "viii-analytical-methods",
+      "end_line": 1130,
+      "heading": "VIII. ANALYTICAL METHODS",
+      "level": 1,
+      "start_line": 1129
+    },
+    {
+      "anchor": "a-source-preparation-and-radiometric-methods",
+      "end_line": 1148,
+      "heading": "A. SOURCE PREPARATION AND RADIOMETRIC METHODS",
+      "level": 1,
+      "start_line": 1131
+    },
+    {
+      "anchor": "table-23",
+      "end_line": 1149,
+      "heading": "Table 23",
+      "level": 2,
+      "start_line": 1149
+    },
+    {
+      "anchor": "sensitivity-and-selectivity-of-projecting-and-projectivation-methods",
+      "end_line": 1177,
+      "heading": "Sensitivity And Selectivity Of Projecting And Projectivation Methods",
+      "level": 2,
+      "start_line": 1150
+    },
+    {
+      "anchor": "b-spectrophotometry",
+      "end_line": 1185,
+      "heading": "B. SPECTROPHOTOMETRY",
+      "level": 1,
+      "start_line": 1178
+    },
+    {
+      "anchor": "table-24",
+      "end_line": 1186,
+      "heading": "Table 24",
+      "level": 2,
+      "start_line": 1186
+    },
+    {
+      "anchor": "important-absorption-peaks-of-neptunium293-297",
+      "end_line": 1214,
+      "heading": "Important Absorption Peaks Of Neptunium293-297",
+      "level": 2,
+      "start_line": 1187
+    },
+    {
+      "anchor": "c-controlled-potential-coulometry",
+      "end_line": 1228,
+      "heading": "C. CONTROLLED POTENTIAL COULOMETRY",
+      "level": 1,
+      "start_line": 1215
+    },
+    {
+      "anchor": "d-polarography",
+      "end_line": 1240,
+      "heading": "D. POLAROGRAPHY",
+      "level": 1,
+      "start_line": 1229
+    },
+    {
+      "anchor": "e-titration",
+      "end_line": 1250,
+      "heading": "E. TITRATION",
+      "level": 1,
+      "start_line": 1241
+    },
+    {
+      "anchor": "f-emission-spectrometry",
+      "end_line": 1256,
+      "heading": "F. EMISSION SPECTROMETRY",
+      "level": 1,
+      "start_line": 1251
+    },
+    {
+      "anchor": "g-gravimetric-methods",
+      "end_line": 1278,
+      "heading": "G. GRAVIMETRIC METHODS",
+      "level": 1,
+      "start_line": 1257
+    },
+    {
+      "anchor": "h-spot-tests",
+      "end_line": 1290,
+      "heading": "H. SPOT TESTS",
+      "level": 1,
+      "start_line": 1279
+    },
+    {
+      "anchor": "i-mass-spectrometry",
+      "end_line": 1296,
+      "heading": "I. MASS SPECTROMETRY",
+      "level": 1,
+      "start_line": 1291
+    },
+    {
+      "anchor": "j-x-ray-fluorescence-spectrometry",
+      "end_line": 1302,
+      "heading": "J. X-RAY FLUORESCENCE SPECTROMETRY",
+      "level": 1,
+      "start_line": 1297
+    },
+    {
+      "anchor": "k-neutron-activation",
+      "end_line": 1308,
+      "heading": "K. NEUTRON ACTIVATION",
+      "level": 1,
+      "start_line": 1303
+    },
+    {
+      "anchor": "l-other-methods",
+      "end_line": 1320,
+      "heading": "L. OTHER METHODS",
+      "level": 1,
+      "start_line": 1309
+    },
+    {
+      "anchor": "ix-radioactive-safety-considerations",
+      "end_line": 1328,
+      "heading": "IX. RADIOACTIVE SAFETY CONSIDERATIONS",
+      "level": 1,
+      "start_line": 1321
+    },
+    {
+      "anchor": "table-25",
+      "end_line": 1329,
+      "heading": "Table 25",
+      "level": 2,
+      "start_line": 1329
+    },
+    {
+      "anchor": "health-hazard-data-for-neptunium-sotopes",
+      "end_line": 1333,
+      "heading": "Health Hazard Data For Neptunium [Sotopes]",
+      "level": 2,
+      "start_line": 1330
+    },
+    {
+      "anchor": "x-collection-of-procedures",
+      "end_line": 1335,
+      "heading": "X. COLLECTION OF PROCEDURES",
+      "level": 1,
+      "start_line": 1334
+    },
+    {
+      "anchor": "a-introduction",
+      "end_line": 1343,
+      "heading": "A. INTRODUCTION",
+      "level": 1,
+      "start_line": 1336
+    },
+    {
+      "anchor": "8-listing-of-contents",
+      "end_line": 1347,
+      "heading": "8. LISTING OF CONTENTS",
+      "level": 1,
+      "start_line": 1344
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1351,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1348
+    },
+    {
+      "anchor": "author",
+      "end_line": 1355,
+      "heading": "Author",
+      "level": 1,
+      "start_line": 1352
+    },
+    {
+      "anchor": "title-or-method",
+      "end_line": 1363,
+      "heading": "Title or Method",
+      "level": 1,
+      "start_line": 1356
+    },
+    {
+      "anchor": "page",
+      "end_line": 1377,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 1364
+    },
+    {
+      "anchor": "hc1-im",
+      "end_line": 1378,
+      "heading": "Hc1,Im",
+      "level": 2,
+      "start_line": 1378
+    },
+    {
+      "anchor": "hno3-10m",
+      "end_line": 1396,
+      "heading": "Hno3,10M",
+      "level": 2,
+      "start_line": 1379
+    },
+    {
+      "anchor": "pretreatment",
+      "end_line": 1402,
+      "heading": "Pretreatment",
+      "level": 1,
+      "start_line": 1397
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1418,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1403
+    },
+    {
+      "anchor": "procedure-2-separation-of-np-by-tta-extraction-r-s-dorsett-sup-15-sup",
+      "end_line": 1424,
+      "heading": "Procedure 2. Separation of Np by TTA Extraction R. S. Dorsett<sup>15</sup>",
+      "level": 1,
+      "start_line": 1419
+    },
+    {
+      "anchor": "reagents",
+      "end_line": 1435,
+      "heading": "Reagents",
+      "level": 1,
+      "start_line": 1425
+    },
+    {
+      "anchor": "equipment",
+      "end_line": 1448,
+      "heading": "Equipment",
+      "level": 1,
+      "start_line": 1436
+    },
+    {
+      "anchor": "pretreatment",
+      "end_line": 1458,
+      "heading": "Pretreatment",
+      "level": 1,
+      "start_line": 1449
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1476,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1459
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1484,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1477
+    },
+    {
+      "anchor": "reagenta",
+      "end_line": 1503,
+      "heading": "Reagenta",
+      "level": 1,
+      "start_line": 1485
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1529,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1504
+    },
+    {
+      "anchor": "procedure-4-determination-of-np",
+      "end_line": 1531,
+      "heading": "Procedure 4. Determination of Np",
+      "level": 1,
+      "start_line": 1530
+    },
+    {
+      "anchor": "j-landrum348",
+      "end_line": 1537,
+      "heading": "J. Landrum348",
+      "level": 1,
+      "start_line": 1532
+    },
+    {
+      "anchor": "reagents",
+      "end_line": 1545,
+      "heading": "Reagents",
+      "level": 1,
+      "start_line": 1538
+    },
+    {
+      "anchor": "10m-hc1-0-5m-hi",
+      "end_line": 1546,
+      "heading": "10M Hc1 - 0.5M Hi",
+      "level": 2,
+      "start_line": 1546
+    },
+    {
+      "anchor": "5m-hc1",
+      "end_line": 1547,
+      "heading": "5M Hc1",
+      "level": 2,
+      "start_line": 1547
+    },
+    {
+      "anchor": "1m-hc1",
+      "end_line": 1550,
+      "heading": "1M Hc1",
+      "level": 2,
+      "start_line": 1548
+    },
+    {
+      "anchor": "chc13",
+      "end_line": 1554,
+      "heading": "Chc13",
+      "level": 2,
+      "start_line": 1551
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1580,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1555
+    },
+    {
+      "anchor": "electroplating",
+      "end_line": 1588,
+      "heading": "Electroplating",
+      "level": 1,
+      "start_line": 1581
+    },
+    {
+      "anchor": "notes",
+      "end_line": 1601,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 1589
+    },
+    {
+      "anchor": "reagente",
+      "end_line": 1610,
+      "heading": "Reagente",
+      "level": 1,
+      "start_line": 1602
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1636,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1611
+    },
+    {
+      "anchor": "procedure-6-determination-of-np-in-sample-containing-fission-products-u-and-other-actinides",
+      "end_line": 1640,
+      "heading": "Procedure 6. Determination of Np in Sample Containing Fission Products, U, and Other Actinides",
+      "level": 1,
+      "start_line": 1637
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1644,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1641
+    },
+    {
+      "anchor": "reagents",
+      "end_line": 1646,
+      "heading": "Reagents",
+      "level": 1,
+      "start_line": 1645
+    },
+    {
+      "anchor": "sm-hno3",
+      "end_line": 1650,
+      "heading": "Sm Hno3",
+      "level": 2,
+      "start_line": 1647
+    },
+    {
+      "anchor": "im-hc1",
+      "end_line": 1654,
+      "heading": "Im Hc1",
+      "level": 2,
+      "start_line": 1651
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1666,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1655
+    },
+    {
+      "anchor": "notes",
+      "end_line": 1678,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 1667
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1682,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1679
+    },
+    {
+      "anchor": "reagents",
+      "end_line": 1691,
+      "heading": "Reagents",
+      "level": 1,
+      "start_line": 1683
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1701,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1692
+    },
+    {
+      "anchor": "notes",
+      "end_line": 1710,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 1702
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1714,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1711
+    },
+    {
+      "anchor": "reagents",
+      "end_line": 1718,
+      "heading": "Reagents",
+      "level": 1,
+      "start_line": 1715
+    },
+    {
+      "anchor": "2m-hc1",
+      "end_line": 1720,
+      "heading": "2M Hc1",
+      "level": 2,
+      "start_line": 1719
+    },
+    {
+      "anchor": "3m-nh2oh-hc1",
+      "end_line": 1721,
+      "heading": "3M Nh2Oh·Hc1",
+      "level": 2,
+      "start_line": 1721
+    },
+    {
+      "anchor": "1om-hno",
+      "end_line": 1723,
+      "heading": "1Om Hno,",
+      "level": 2,
+      "start_line": 1722
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1733,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1724
+    },
+    {
+      "anchor": "notes",
+      "end_line": 1739,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 1734
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1743,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1740
+    },
+    {
+      "anchor": "reagents-and-materials",
+      "end_line": 1747,
+      "heading": "Reagents and Materials",
+      "level": 1,
+      "start_line": 1744
+    },
+    {
+      "anchor": "hno3",
+      "end_line": 1752,
+      "heading": "Hno3",
+      "level": 2,
+      "start_line": 1748
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1761,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1753
+    },
+    {
+      "anchor": "note",
+      "end_line": 1767,
+      "heading": "Note",
+      "level": 1,
+      "start_line": 1762
+    },
+    {
+      "anchor": "outline-of-method",
+      "end_line": 1771,
+      "heading": "Outline of Method",
+      "level": 1,
+      "start_line": 1768
+    },
+    {
+      "anchor": "reagents-c-p-chemicals",
+      "end_line": 1778,
+      "heading": "Reagents (C.P. Chemicals)",
+      "level": 1,
+      "start_line": 1772
+    },
+    {
+      "anchor": "materials",
+      "end_line": 1783,
+      "heading": "Materials",
+      "level": 1,
+      "start_line": 1779
+    },
+    {
+      "anchor": "counting-equipment",
+      "end_line": 1785,
+      "heading": "- Counting equipment",
+      "level": 1,
+      "start_line": 1784
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1807,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1786
+    },
+    {
+      "anchor": "9m-hc1",
+      "end_line": 1808,
+      "heading": "9M Hc1",
+      "level": 2,
+      "start_line": 1808
+    },
+    {
+      "anchor": "9m-hc1-0-05m-nh4i",
+      "end_line": 1809,
+      "heading": "9M Hc1 - 0.05M Nh4I",
+      "level": 2,
+      "start_line": 1809
+    },
+    {
+      "anchor": "4m-hc1-0-1m-hf",
+      "end_line": 1810,
+      "heading": "4M Hc1 - 0.1M Hf",
+      "level": 2,
+      "start_line": 1810
+    },
+    {
+      "anchor": "0-5mhci-1mhf",
+      "end_line": 1812,
+      "heading": "0.5Mhci-1Mhf",
+      "level": 2,
+      "start_line": 1811
+    },
+    {
+      "anchor": "materials",
+      "end_line": 1822,
+      "heading": "Materials",
+      "level": 1,
+      "start_line": 1813
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1844,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1823
+    },
+    {
+      "anchor": "reagents",
+      "end_line": 1851,
+      "heading": "Reagents",
+      "level": 1,
+      "start_line": 1845
+    },
+    {
+      "anchor": "materials",
+      "end_line": 1860,
+      "heading": "Materials",
+      "level": 1,
+      "start_line": 1852
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1880,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1861
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1896,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1881
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1909,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1897
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1913,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1910
+    },
+    {
+      "anchor": "reagents-and-equipment",
+      "end_line": 1916,
+      "heading": "Reagents and Equipment",
+      "level": 1,
+      "start_line": 1914
+    },
+    {
+      "anchor": "c-p-k2so4",
+      "end_line": 1919,
+      "heading": "C.P. K2So4",
+      "level": 2,
+      "start_line": 1917
+    },
+    {
+      "anchor": "c-p-kno",
+      "end_line": 1926,
+      "heading": "C.P. Kno,",
+      "level": 2,
+      "start_line": 1920
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 1941,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1927
+    },
+    {
+      "anchor": "notes",
+      "end_line": 1951,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 1942
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 1963,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 1952
+    },
+    {
+      "anchor": "reagente",
+      "end_line": 1965,
+      "heading": "Reagente",
+      "level": 1,
+      "start_line": 1964
+    },
+    {
+      "anchor": "hno3-16m-im",
+      "end_line": 1966,
+      "heading": "Hno3,16M，Im",
+      "level": 2,
+      "start_line": 1966
+    },
+    {
+      "anchor": "hc1-12m-8m",
+      "end_line": 1968,
+      "heading": "Hc1, 12M, 8M",
+      "level": 2,
+      "start_line": 1967
+    },
+    {
+      "anchor": "nhoh-1-5m",
+      "end_line": 1969,
+      "heading": "Nhoh,1.5M",
+      "level": 2,
+      "start_line": 1969
+    },
+    {
+      "anchor": "koh-12m",
+      "end_line": 1972,
+      "heading": "Koh, 12M",
+      "level": 2,
+      "start_line": 1970
+    },
+    {
+      "anchor": "4mhci-0-05mhf",
+      "end_line": 1976,
+      "heading": "4Mhci-0.05Mhf",
+      "level": 2,
+      "start_line": 1973
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2006,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 1977
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 2010,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 2007
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2042,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 2011
+    },
+    {
+      "anchor": "preparation-of-sample",
+      "end_line": 2054,
+      "heading": "Preparation of Sample",
+      "level": 1,
+      "start_line": 2043
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2108,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 2055
+    },
+    {
+      "anchor": "analysis",
+      "end_line": 2124,
+      "heading": "Analysis",
+      "level": 1,
+      "start_line": 2109
+    },
+    {
+      "anchor": "reference",
+      "end_line": 2136,
+      "heading": "Reference",
+      "level": 1,
+      "start_line": 2125
+    },
+    {
+      "anchor": "reagenta",
+      "end_line": 2151,
+      "heading": "Reagenta",
+      "level": 1,
+      "start_line": 2137
+    },
+    {
+      "anchor": "equipment",
+      "end_line": 2157,
+      "heading": "Equipment",
+      "level": 1,
+      "start_line": 2152
+    },
+    {
+      "anchor": "pretreatment",
+      "end_line": 2161,
+      "heading": "Pretreatment",
+      "level": 1,
+      "start_line": 2158
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2198,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 2162
+    },
+    {
+      "anchor": "30-koh",
+      "end_line": 2204,
+      "heading": "30% Koh",
+      "level": 2,
+      "start_line": 2199
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2215,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 2205
+    },
+    {
+      "anchor": "notes",
+      "end_line": 2221,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 2216
+    },
+    {
+      "anchor": "procedure-22-photometric-determination-of-np-as-the-peroxide-complex",
+      "end_line": 2235,
+      "heading": "Procedure 22. Photometric Determination of Np as the Peroxide Complex",
+      "level": 1,
+      "start_line": 2222
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2245,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 2236
+    },
+    {
+      "anchor": "notes",
+      "end_line": 2257,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 2246
+    },
+    {
+      "anchor": "procedure-23-separation-of-np-for-spectrographic-analysis-of-impurities",
+      "end_line": 2265,
+      "heading": "Procedure 23. Separation of Np for Spectrographic Analysis of Impurities",
+      "level": 1,
+      "start_line": 2258
+    },
+    {
+      "anchor": "reagents-and-equipment",
+      "end_line": 2275,
+      "heading": "Reagents and Equipment",
+      "level": 1,
+      "start_line": 2266
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2297,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 2276
+    },
+    {
+      "anchor": "procedure-24-photometric-determination-of-np-as-the-xylenol-orange-complex",
+      "end_line": 2308,
+      "heading": "Procedure 24. Photometric Determination of Np as the Xylenol Orange Complex",
+      "level": 1,
+      "start_line": 2298
+    },
+    {
+      "anchor": "30-koh",
+      "end_line": 2311,
+      "heading": "30° Koh",
+      "level": 2,
+      "start_line": 2309
+    },
+    {
+      "anchor": "2m-nh4oh",
+      "end_line": 2317,
+      "heading": "2M Nh4Oh",
+      "level": 2,
+      "start_line": 2312
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2328,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 2318
+    },
+    {
+      "anchor": "lotes",
+      "end_line": 2335,
+      "heading": "lotes",
+      "level": 1,
+      "start_line": 2329
+    },
+    {
+      "anchor": "procedure-25-analysis-for-np-by-controlled-potential-coulometry-r-w-stromatt-sup-313-sup",
+      "end_line": 2337,
+      "heading": "Procedure 25. Analysis for Np by Controlled Potential Coulometry R. W. Stromatt<sup>313</sup>",
+      "level": 1,
+      "start_line": 2336
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 2341,
+      "heading": "Introduction",
+      "level": 1,
+      "start_line": 2338
+    },
+    {
+      "anchor": "reagents-and-equipment",
+      "end_line": 2343,
+      "heading": "Reagents and Equipment",
+      "level": 1,
+      "start_line": 2342
+    },
+    {
+      "anchor": "1mhso4",
+      "end_line": 2351,
+      "heading": "1Mhso4",
+      "level": 2,
+      "start_line": 2344
+    },
+    {
+      "anchor": "procedure",
+      "end_line": 2362,
+      "heading": "Procedure",
+      "level": 1,
+      "start_line": 2352
+    },
+    {
+      "anchor": "notes",
+      "end_line": 2374,
+      "heading": "Notes",
+      "level": 1,
+      "start_line": 2363
+    },
+    {
+      "anchor": "references",
+      "end_line": 2754,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 2375
+    },
+    {
+      "anchor": "end",
+      "end_line": 2756,
+      "heading": "END",
+      "level": 1,
+      "start_line": 2755
+    },
+    {
+      "anchor": "date-filmed",
+      "end_line": 2758,
+      "heading": "DATE FILMED",
+      "level": 1,
+      "start_line": 2757
+    },
+    {
+      "anchor": "2-11-75",
+      "end_line": 2759,
+      "heading": "2/11/75",
+      "level": 1,
+      "start_line": 2759
+    }
+  ],
+  "source_dir": "pdf/NAS-NS-3060",
+  "tables": [],
+  "title": "NAS-NS-3060",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "irradiation-and-damage",
+    "aircraft-nuclear-propulsion",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

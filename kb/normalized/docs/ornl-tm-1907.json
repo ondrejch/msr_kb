@@ -1,0 +1,288 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "COPY NO. -",
+    "E.C.Moncrief"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1907.jsonl",
+  "date_text": "July 21, 1967",
+  "doc_id": "ornl-tm-1907",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 7,
+        "line_hits": [
+          31,
+          43,
+          78,
+          96,
+          133,
+          156,
+          179
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "organization": [
+      {
+        "count": 7,
+        "line_hits": [
+          3,
+          23,
+          49,
+          84,
+          116,
+          141,
+          170
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          15
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          17
+        ],
+        "name": "Lockheed Martin"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          7
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          43,
+          78,
+          105
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          43,
+          78,
+          105
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          105
+        ],
+        "name": "LiF-NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          105
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          88
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6a629decb557f70484c434c5f059322b37b8f5ee5b7158f162e1ee8e6bd5dbee",
+  "markdown_path": "pdf/ORNL-TM-1907/ORNL-TM-1907/hybrid_ocr/ORNL-TM-1907.md",
+  "report_number": "ORNL-TM-1907",
+  "report_numbers": [
+    "ORNL-TM-1907",
+    "ORNL-CF-57-4-95",
+    "CF-57-4-95"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 23,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 14,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 16,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "lockheed-martin-energy-research-libraries",
+      "end_line": 22,
+      "heading": "Lockheed Martin Energy Research Libraries",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl-tm-1907",
+      "end_line": 24,
+      "heading": "Ornl-Tm-1907",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 30,
+      "heading": "Copy No. -",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "corrosion-of-the-volatility-pilot-plant-inor-8",
+      "end_line": 32,
+      "heading": "CORROSION OF THE VOLATILITY PILOT PLANT INOR-8",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "dissolver-after-seven-cold-dissolution-runs",
+      "end_line": 38,
+      "heading": "DISSOLVER AFTER SEVEN COLD DISSOLUTION RUNS",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 48,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 50,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 52,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 54,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 56,
+      "heading": "LIBRARY LOAN COPY",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 64,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "lscn-7269",
+      "end_line": 68,
+      "heading": "Lscn-7269",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 115,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "ornl-lr-djg-54469-unclassified",
+      "end_line": 140,
+      "heading": "ORNL-LR-DJG.54469 UNCLASSIFIED",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "ornl-lr-dwg-5-470",
+      "end_line": 142,
+      "heading": "Ornl-Lr-Dwg. 5/470",
+      "level": 2,
+      "start_line": 141
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 169,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 143
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dag-54471",
+      "end_line": 182,
+      "heading": "UNCLASSIFIED ORNL-LR-DAG.54471",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 184,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "1-3-dtie-or",
+      "end_line": 189,
+      "heading": "1-3. Dtie, Or",
+      "level": 2,
+      "start_line": 185
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1907",
+  "tables": [],
+  "title": "![](images/34bb9e56fb2ff2e098370f69d7c7f8a1148530ea5b8bb483cd170f3b1c6c0140.jpg)",
+  "topics": [
+    "materials-and-corrosion",
+    "fuel-processing-and-reprocessing",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

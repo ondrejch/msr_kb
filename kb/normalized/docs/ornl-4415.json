@@ -1,0 +1,454 @@
+{
+  "authors": [
+    "F.J.Smith",
+    "L.M.Ferris",
+    "C. T. Thompson",
+    "UNION CARBIDE CORPORATION",
+    "DISCLAIMER"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-4415.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-4415",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          111,
+          113,
+          115
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          103,
+          223
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          103
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          113
+        ],
+        "name": "graphite"
+      }
+    ],
+    "organization": [
+      {
+        "count": 21,
+        "line_hits": [
+          1,
+          17,
+          61,
+          103,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          239,
+          240,
+          241,
+          242,
+          244,
+          245,
+          247,
+          254,
+          263,
+          266,
+          343
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          25,
+          71,
+          343,
+          344,
+          345,
+          346,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          21,
+          67,
+          355
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 15,
+        "line_hits": [
+          85,
+          86,
+          93,
+          97,
+          99,
+          101,
+          144,
+          200,
+          202,
+          223,
+          225,
+          227,
+          232,
+          234,
+          237
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          33,
+          93,
+          103,
+          107,
+          146,
+          152,
+          160,
+          186,
+          194,
+          196,
+          202,
+          223,
+          227
+        ],
+        "name": "ARE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          231
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          231
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 30,
+        "line_hits": [
+          5,
+          7,
+          41,
+          93,
+          97,
+          99,
+          101,
+          103,
+          146,
+          160,
+          162,
+          164,
+          166,
+          169,
+          172,
+          174,
+          180,
+          186,
+          188,
+          194,
+          198,
+          202,
+          204,
+          206,
+          208,
+          217,
+          219,
+          223,
+          227,
+          242
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          93,
+          160,
+          164,
+          169,
+          196,
+          198,
+          219
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          164,
+          198,
+          208
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          198,
+          208,
+          252
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          164,
+          196,
+          198
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          164,
+          198
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "33e3b132ac546d9af6a8baa53a4d93da2b31d935f1937e2c09ba9c7168f260b0",
+  "markdown_path": "pdf/ORNL-4415/ORNL-4415/hybrid_ocr/ORNL-4415.md",
+  "report_number": "ORNL-4415",
+  "report_numbers": [
+    "ORNL-4415"
+  ],
+  "report_series": null,
+  "section_count": 25,
+  "sections": [
+    {
+      "anchor": "ornl-4415",
+      "end_line": 16,
+      "heading": "Ornl-4415",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 24,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 26,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 30,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 36,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 48,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 58,
+      "heading": "Legal Notice",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "june-1969",
+      "end_line": 60,
+      "heading": "June 1969",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 66,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 70,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 76,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "contents",
+      "end_line": 90,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 94,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 104,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 95
+    },
+    {
+      "anchor": "2-experimental",
+      "end_line": 141,
+      "heading": "2. EXPERIMENTAL",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "3-results",
+      "end_line": 143,
+      "heading": "3. RESULTS",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "3-1-systems-of-interest-in-processing-two-fluid-msbr-fuel",
+      "end_line": 199,
+      "heading": "3.1 Systems of Interest in Processing Two-Fluid MSBR Fuel",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "3-2-systems-of-interest-in-processing-single-fluid-msbr-fuels",
+      "end_line": 215,
+      "heading": "3.2 Systems of Interest in Processing Single-Fluid MSBR Fuels",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "temperature-c",
+      "end_line": 220,
+      "heading": "Temperature (°C)",
+      "level": 2,
+      "start_line": 216
+    },
+    {
+      "anchor": "4-conclusions",
+      "end_line": 228,
+      "heading": "4. CONCLUSIONS",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "5-references",
+      "end_line": 253,
+      "heading": "5. REFERENCES",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "ornl-4415",
+      "end_line": 257,
+      "heading": "Ornl-4415",
+      "level": 2,
+      "start_line": 254
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 340,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 357,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 341
+    }
+  ],
+  "source_dir": "pdf/ORNL-4415",
+  "tables": [],
+  "title": "ORNL-4415",
+  "topics": [
+    "breeder-and-converter-design",
+    "salt-chemistry-and-redox",
+    "fuel-processing-and-reprocessing",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "instrumentation-and-controls",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": [
+    "title_fallback_used",
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "authors": [
+    "M. Taube",
+    "E.H. Ottewitte",
+    "J. Ligou"
+  ],
+  "claims_path": "kb/normalized/claims/eir-259.jsonl",
+  "date_text": "September 1975",
+  "doc_id": "eir-259",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          220,
+          228,
+          442,
+          468
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          246,
+          416,
+          442
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 7,
+        "line_hits": [
+          305,
+          319,
+          321,
+          325,
+          335,
+          339,
+          369
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          369
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 1,
+        "line_hits": [
+          550
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          554
+        ],
+        "name": "EIR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          442
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 4,
+        "line_hits": [
+          53,
+          224,
+          226,
+          228
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          298
+        ],
+        "name": "ART"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          442,
+          491,
+          505
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          428,
+          493
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          442
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "bc9ad22672b12765c77adbd50c91e8c23b6720d879ba86daca60ab43061ac52c",
+  "markdown_path": "pdf/EIR-259/EIR-259/hybrid_ocr/EIR-259.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "eir-series",
+  "section_count": 19,
+  "sections": [
+    {
+      "anchor": "a-high-flux-fast-molten-salt-reactor-for-the-transmutation-of-caesium-137-and-strontium-90",
+      "end_line": 16,
+      "heading": "A High-Flux Fast Molten Salt Reactor for the Transmutation of Caesium-137 and Strontium-90",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "summary-1",
+      "end_line": 40,
+      "heading": "Summary 1",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "summary",
+      "end_line": 50,
+      "heading": "Summary",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 145,
+      "heading": "1. Introduction",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "2-2-need-for-central-flux-trap",
+      "end_line": 165,
+      "heading": "2.2 Need for Central Flux Trap",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "2-3-determination-of-flux-trap-size-from-destruction-production-balance-requirement",
+      "end_line": 197,
+      "heading": "2.3 Determination of Flux-Trap Size from Destruction-Production Balance Requirement",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "3-neutronic-consideration",
+      "end_line": 199,
+      "heading": "3. Neutronic Consideration",
+      "level": 1,
+      "start_line": 198
+    },
+    {
+      "anchor": "3-1-burner-reactor-calculations",
+      "end_line": 221,
+      "heading": "3.1 Burner Reactor Calculations",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "3-2-moderator-requirements",
+      "end_line": 247,
+      "heading": "3.2 Moderator Requirements",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "3-3-motivations-for-molten-salt-fuel",
+      "end_line": 272,
+      "heading": "3.3 Motivations for Molten Salt Fuel",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "5-4-outer-reflector-zone-consideration",
+      "end_line": 288,
+      "heading": "5.4 Outer-Reflector Zone Consideration",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "4-thermohydraulic-considerations",
+      "end_line": 364,
+      "heading": "4. Thermohydraulic Considerations",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "5-further-parameters-of-the-burner-reactors",
+      "end_line": 423,
+      "heading": "5. Further Parameters of the Burner Reactors",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "6-effect-of-replacing-chlorine-with-fluorine",
+      "end_line": 459,
+      "heading": "6. Effect of Replacing Chlorine with Fluorine",
+      "level": 1,
+      "start_line": 424
+    },
+    {
+      "anchor": "o-0-0145",
+      "end_line": 465,
+      "heading": "O 0.0145",
+      "level": 2,
+      "start_line": 460
+    },
+    {
+      "anchor": "o-0-060",
+      "end_line": 506,
+      "heading": "O 0.060",
+      "level": 2,
+      "start_line": 466
+    },
+    {
+      "anchor": "7-remarks-about-transmutation-and-hazard-coefficients",
+      "end_line": 529,
+      "heading": "7. Remarks about transmutation and hazard coefficients",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "8-conclusions",
+      "end_line": 538,
+      "heading": "8. Conclusions",
+      "level": 1,
+      "start_line": 530
+    },
+    {
+      "anchor": "9-acknowledgement",
+      "end_line": 556,
+      "heading": "9. Acknowledgement",
+      "level": 1,
+      "start_line": 539
+    }
+  ],
+  "source_dir": "pdf/EIR-259",
+  "tables": [],
+  "title": "Eidg. Institut für Reaktorforschung Würenlingen Schweiz",
+  "topics": [
+    "reactor-physics-neutronics",
+    "breeder-and-converter-design",
+    "safety-shielding-and-remote-maintenance",
+    "graphite-and-moderator-behavior",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "pumps-loops-and-heat-exchangers",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

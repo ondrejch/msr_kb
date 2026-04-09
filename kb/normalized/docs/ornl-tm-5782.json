@@ -1,0 +1,395 @@
+{
+  "authors": [
+    "J. R. Keiser",
+    "J. H. Devan",
+    "D. L. Manning",
+    "CENTRAL RESEARCH LIBRARY",
+    "DOCUMENT COLLECTION",
+    "LIBRARY LOAN COPY"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-5782.jsonl",
+  "date_text": "April 1977",
+  "doc_id": "ornl-tm-5782",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          85,
+          93,
+          113,
+          129,
+          147,
+          165,
+          179,
+          190,
+          205,
+          210,
+          222,
+          224,
+          236
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          1,
+          43,
+          83,
+          89,
+          91,
+          183,
+          205,
+          210,
+          220,
+          224,
+          236
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          89
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          190
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          89
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          217
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 10,
+        "line_hits": [
+          83,
+          183,
+          186,
+          190,
+          193,
+          198,
+          201,
+          205,
+          217,
+          240
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 5,
+        "line_hits": [
+          7,
+          51,
+          161,
+          248,
+          249
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          300
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          57
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 9,
+        "line_hits": [
+          89,
+          93,
+          97,
+          113,
+          127,
+          183,
+          190,
+          231,
+          235
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          161
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 8,
+        "line_hits": [
+          83,
+          91,
+          93,
+          97,
+          101,
+          161,
+          210,
+          217
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          101
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          101
+        ],
+        "name": "UF3"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          212
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "c9dca9f9b1028084aad86ebfd72d58c1b2df8177493f4ea003d8e279a2d4d7f6",
+  "markdown_path": "pdf/ORNL-TM-5782/ORNL-TM-5782/hybrid_ocr/ORNL-TM-5782.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 26,
+  "sections": [
+    {
+      "anchor": "the-corrosion-resistance-of-type-316-stainless-steel-to-mathsf-li-2-mathsf-bef-4",
+      "end_line": 6,
+      "heading": "The Corrosion Resistance of Type 316 Stainless Steel to $\\mathsf{Li}_2\\mathsf{BeF}_4$",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 8,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "central-research-library",
+      "end_line": 10,
+      "heading": "Central Research Library",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "document-collection",
+      "end_line": 12,
+      "heading": "Document Collection",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 14,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 40,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 50,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 56,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 60,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 64,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 66,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 68,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 70,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "experimental-methods-6",
+      "end_line": 72,
+      "heading": "Experimental Methods 6",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "experimental-results-11",
+      "end_line": 74,
+      "heading": "Experimental Results 11",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "conclusions-14",
+      "end_line": 76,
+      "heading": "Conclusions 14",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "acknowledgments-15",
+      "end_line": 80,
+      "heading": "Acknowledgments 15",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 86,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 180,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 87
+    },
+    {
+      "anchor": "experimental-methods",
+      "end_line": 202,
+      "heading": "EXPERIMENTAL METHODS",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "experimental-results",
+      "end_line": 213,
+      "heading": "EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "y-127785",
+      "end_line": 228,
+      "heading": "Y-127785",
+      "level": 2,
+      "start_line": 214
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 237,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 241,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 297,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 342,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 298
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-5782",
+  "tables": [],
+  "title": "The Corrosion Resistance of Type 316 Stainless Steel to $\\mathsf{Li}_2\\mathsf{BeF}_4$",
+  "topics": [
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "pumps-loops-and-heat-exchangers",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "breeder-and-converter-design",
+    "instrumentation-and-controls"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

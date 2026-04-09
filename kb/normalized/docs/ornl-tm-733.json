@@ -1,0 +1,269 @@
+{
+  "authors": [
+    "S.E. Beall",
+    "R.H. Guymon",
+    "LEGAL NOTICE",
+    "Part VI",
+    "S. E. Beall",
+    "R. H. Guymon"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-733.jsonl",
+  "date_text": null,
+  "doc_id": "ornl-tm-733",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "component": [
+      {
+        "count": 3,
+        "line_hits": [
+          86,
+          92,
+          94
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          67
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          61
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          85
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          46,
+          57,
+          62,
+          66,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          36,
+          121
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          42
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 6,
+        "line_hits": [
+          1,
+          26,
+          30,
+          48,
+          52,
+          57
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          11,
+          57,
+          94
+        ],
+        "name": "ARE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "ecf840f722d7c2249d08e9ef47f99b6c1d15c4bc25c5fbc52c1b3d084ab06dd8",
+  "markdown_path": "pdf/ORNL-TM-0733/ORNL-TM-0733/hybrid_ocr/ORNL-TM-0733.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 20,
+  "sections": [
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 4,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "operating-safety-limits-for-the-molten-salt-experiment",
+      "end_line": 12,
+      "heading": "Operating Safety Limits For The Molten-Salt Experiment",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 25,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 29,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "operating-safety-limits-for-the-molten-salt-reactor-experiment",
+      "end_line": 35,
+      "heading": "Operating Safety Limits For The Molten-Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 41,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 45,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 47,
+      "heading": "U. S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 46
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 49,
+      "heading": "MSRE DESIGN AND OPERATIONS REPORT",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "part-vi",
+      "end_line": 51,
+      "heading": "Part VI",
+      "level": 1,
+      "start_line": 50
+    },
+    {
+      "anchor": "operating-safety-limits-for-the-molten-salt-reactor-experiment",
+      "end_line": 58,
+      "heading": "OPERATING SAFETY LIMITS FOR THE MOLTEN-SALT REACTOR EXPERIMENT",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "1-0-containment",
+      "end_line": 63,
+      "heading": "1.0 Containment",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "1-0-containment-continued",
+      "end_line": 74,
+      "heading": "1.0 Containment (continued)",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "2-0-fuel-system",
+      "end_line": 81,
+      "heading": "2.0 Fuel System",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "2-0-fuel-system-continued",
+      "end_line": 87,
+      "heading": "2.0 Fuel System (continued)",
+      "level": 1,
+      "start_line": 82
+    },
+    {
+      "anchor": "3-0-coolant-system",
+      "end_line": 91,
+      "heading": "3.0 Coolant System",
+      "level": 1,
+      "start_line": 88
+    },
+    {
+      "anchor": "4-0-control-rods",
+      "end_line": 98,
+      "heading": "4.0 Control Rods",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "5-0-nuclear-control-and-safety-instrumentation",
+      "end_line": 122,
+      "heading": "5.0 Nuclear Control and Safety Instrumentation",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 175,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 184,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 176
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0733",
+  "tables": [],
+  "title": "MSRE DESIGN AND OPERATIONS REPORT",
+  "topics": [
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls",
+    "off-gas-fission-products-and-tritium",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

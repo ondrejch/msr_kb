@@ -1,0 +1,583 @@
+{
+  "authors": [
+    "Roy C. Robertson",
+    "Oak Ridge",
+    "Tennessee",
+    "Operated by",
+    "UNION CARBIDE CORPORATION",
+    "A",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-3428.jsonl",
+  "date_text": "1971",
+  "doc_id": "ornl-tm-3428",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 21,
+        "line_hits": [
+          76,
+          82,
+          90,
+          100,
+          102,
+          127,
+          146,
+          154,
+          160,
+          168,
+          170,
+          180,
+          190,
+          196,
+          200,
+          204,
+          206,
+          222,
+          233,
+          237,
+          247
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          100,
+          127,
+          200,
+          222
+        ],
+        "name": "Incoloy 800"
+      }
+    ],
+    "component": [
+      {
+        "count": 30,
+        "line_hits": [
+          50,
+          51,
+          70,
+          76,
+          78,
+          84,
+          86,
+          90,
+          96,
+          102,
+          104,
+          106,
+          110,
+          121,
+          129,
+          131,
+          134,
+          152,
+          154,
+          156,
+          172,
+          174,
+          176,
+          190,
+          230,
+          237,
+          247,
+          266,
+          270,
+          284
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          52,
+          76,
+          84,
+          90,
+          98,
+          104,
+          106,
+          121,
+          192,
+          194,
+          196,
+          198,
+          230,
+          247
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          42,
+          57,
+          70,
+          104,
+          106,
+          134,
+          241,
+          243,
+          249,
+          251,
+          253,
+          255,
+          262
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          78,
+          90,
+          158,
+          168,
+          178,
+          200,
+          222,
+          247
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          90,
+          255,
+          262
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          90,
+          284
+        ],
+        "name": "drain tank"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          13,
+          25,
+          302,
+          320,
+          382,
+          383,
+          384,
+          388,
+          390,
+          391,
+          392,
+          393
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          15,
+          94,
+          96,
+          110,
+          131,
+          150,
+          232,
+          266,
+          270
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          21
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 46,
+        "line_hits": [
+          7,
+          40,
+          47,
+          48,
+          58,
+          60,
+          64,
+          70,
+          76,
+          78,
+          82,
+          86,
+          88,
+          90,
+          94,
+          96,
+          98,
+          104,
+          110,
+          112,
+          114,
+          117,
+          125,
+          136,
+          141,
+          142,
+          158,
+          168,
+          174,
+          178,
+          196,
+          200,
+          214,
+          222,
+          226,
+          230,
+          235,
+          247,
+          249,
+          255,
+          260,
+          262,
+          266,
+          270,
+          274,
+          282
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          76,
+          86,
+          94,
+          110,
+          119,
+          125,
+          127,
+          152,
+          170,
+          174,
+          188,
+          194,
+          196,
+          206,
+          218,
+          239,
+          268
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          249
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 17,
+        "line_hits": [
+          60,
+          76,
+          82,
+          90,
+          102,
+          106,
+          121,
+          138,
+          152,
+          158,
+          178,
+          188,
+          190,
+          237,
+          270,
+          279,
+          282
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          98,
+          138,
+          158,
+          200,
+          222,
+          274
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          90,
+          158,
+          178,
+          237
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          90,
+          158,
+          178,
+          237
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          98,
+          125,
+          154,
+          268
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          138
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          138
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "9836c7e4d916dcdb21acb5be9ded27d6632e5c1b2019f50179f27198571c6064",
+  "markdown_path": "pdf/ORNL-TM-3428/ORNL-TM-3428/hybrid_ocr/ORNL-TM-3428.md",
+  "report_number": "ORNL-TM-3428",
+  "report_numbers": [
+    "ORNL-TM-3428",
+    "ORNL-4541",
+    "ORNL-454L"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 26,
+  "sections": [
+    {
+      "anchor": "ornl-tm-3428",
+      "end_line": 4,
+      "heading": "Ornl-Tm-3428",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "reactor-division",
+      "end_line": 10,
+      "heading": "Reactor Division",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "july-1971",
+      "end_line": 14,
+      "heading": "July 1971",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 20,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 24,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 30,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "contents",
+      "end_line": 44,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 61,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 65,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "list-of-figures-conta",
+      "end_line": 73,
+      "heading": "LIST OF FIGURES (Conta.)",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 79,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "summary-and-conclusions",
+      "end_line": 91,
+      "heading": "SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 111,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "2-description-of-msbr-modified-with-third-loops",
+      "end_line": 122,
+      "heading": "2. DESCRIPTION OF MSBR MODIFIED WITH THIRD LOOPS",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "3-heat-transfer-equipment",
+      "end_line": 128,
+      "heading": "3. HEAT TRANSFER EQUIPMENT",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "1-primary-heat-exchangers",
+      "end_line": 171,
+      "heading": "1. Primary Heat Exchangers",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "2-secondary-heat-exchangers",
+      "end_line": 191,
+      "heading": "2. Secondary Heat Exchangers",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "3-steam-generators",
+      "end_line": 201,
+      "heading": "3. Steam Generators",
+      "level": 1,
+      "start_line": 192
+    },
+    {
+      "anchor": "4-steam-reheaters",
+      "end_line": 207,
+      "heading": "4. Steam Reheaters",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "5-reheat-steam-preheaters",
+      "end_line": 215,
+      "heading": "5. Reheat Steam Preheaters",
+      "level": 1,
+      "start_line": 208
+    },
+    {
+      "anchor": "6-general-effects-of-revising-and-modifying-the-heat-transfer-equipment",
+      "end_line": 240,
+      "heading": "6. General Effects of Revising and Modifying the Heat Transfer Equipment",
+      "level": 1,
+      "start_line": 216
+    },
+    {
+      "anchor": "4-salt-circulating-pumps",
+      "end_line": 263,
+      "heading": "4. SALT-CIRCULATING PUMPS",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "5-salt-inventory-costs",
+      "end_line": 285,
+      "heading": "5. SALT INVENTORY COSTS",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 371,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 286
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 385,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 372
+    },
+    {
+      "anchor": "external-distribution-contd",
+      "end_line": 393,
+      "heading": "EXTERNAL DISTRIBUTION (contd.)",
+      "level": 1,
+      "start_line": 386
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-3428",
+  "tables": [],
+  "title": "ORNL-TM-3428",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "authors": [
+    "Jan B. Talbot",
+    "MASTER",
+    "National Technical Information Service",
+    "U.S. Department of Commerce"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-5104.jsonl",
+  "date_text": "1976",
+  "doc_id": "ornl-tm-5104",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 3,
+        "line_hits": [
+          125,
+          188,
+          196
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          332,
+          338,
+          377
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          626
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          814
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          427
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          334
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          188,
+          200,
+          542,
+          556
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          352,
+          365,
+          753,
+          755
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          350,
+          379,
+          381,
+          383
+        ],
+        "name": "sampler"
+      }
+    ],
+    "organization": [
+      {
+        "count": 29,
+        "line_hits": [
+          9,
+          39,
+          53,
+          129,
+          173,
+          196,
+          332,
+          334,
+          338,
+          356,
+          358,
+          365,
+          407,
+          409,
+          439,
+          485,
+          515,
+          549,
+          576,
+          684,
+          789,
+          790,
+          794,
+          798,
+          819,
+          828,
+          1672,
+          1675,
+          1680
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          802,
+          1724,
+          1726
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          11,
+          45,
+          53
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          788,
+          826
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 35,
+        "line_hits": [
+          57,
+          123,
+          137,
+          171,
+          188,
+          190,
+          198,
+          200,
+          214,
+          316,
+          462,
+          485,
+          497,
+          509,
+          536,
+          542,
+          556,
+          558,
+          564,
+          624,
+          654,
+          665,
+          670,
+          680,
+          689,
+          691,
+          693,
+          695,
+          768,
+          778,
+          780,
+          898,
+          916,
+          1155,
+          1632
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          131,
+          542,
+          674,
+          676,
+          797
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          125,
+          188
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          556
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          626
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          626
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f9625c50f01b41ad06965639c28fbc597a15527cc7d79330354f46854f483e98",
+  "markdown_path": "pdf/ORNL-TM-5104/ORNL-TM-5104/hybrid_ocr/ORNL-TM-5104.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 95,
+  "sections": [
+    {
+      "anchor": "a-study-of-tritium-removal-from-fusion-reactor-blankets-of-molten-salt-and-lithium-aluminum",
+      "end_line": 4,
+      "heading": "A Study of Tritium Removal from Fusion Reactor Blankets of Molten Salt and Lithium-Aluminum",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 8,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 30,
+      "heading": "Chemical Technology Division",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "jan-b-talbot",
+      "end_line": 36,
+      "heading": "Jan B. Talbot",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "march-1976",
+      "end_line": 38,
+      "heading": "March 1976",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 44,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 48,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 50,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 60,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 70,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 61
+    },
+    {
+      "anchor": "vii",
+      "end_line": 72,
+      "heading": "vii",
+      "level": 1,
+      "start_line": 71
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 76,
+      "heading": "Table Of Contents",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 80,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 77
+    },
+    {
+      "anchor": "i-hydrogen-reactions-with-the-elements-40-13",
+      "end_line": 82,
+      "heading": "I. Hydrogen Reactions With The Elements (40). 13",
+      "level": 2,
+      "start_line": 81
+    },
+    {
+      "anchor": "iii-results-of-gas-phase-analyses-for-tritium-concentration-30",
+      "end_line": 85,
+      "heading": "Iii. Results Of Gas-Phase Analyses For Tritium Concentration. 30",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "vi-flow-rates-and-concentrations-for-the-tritium-recovery",
+      "end_line": 87,
+      "heading": "VI. FLOW RATES AND CONCENTRATIONS FOR THE TRITIUM RECOVERY",
+      "level": 2,
+      "start_line": 86
+    },
+    {
+      "anchor": "system-for-the-princeton-reference-reactor-44",
+      "end_line": 89,
+      "heading": "System For The Princeton Reference Reactor 44",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "vii-characteristics-advantages-and-disadvantages-of-pressure",
+      "end_line": 91,
+      "heading": "VII. CHARACTERISTICS, ADVANTAGES, AND DISADVANTAGES OF PRESSURE",
+      "level": 2,
+      "start_line": 90
+    },
+    {
+      "anchor": "nozzles-and-spinning-disk-atomizers-25-50",
+      "end_line": 93,
+      "heading": "Nozzles And Spinning-Disk Atomizers (25) 50",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "viii-molecular-and-wall-collision-frequencies-and-mean-free",
+      "end_line": 97,
+      "heading": "VIII. MOLECULAR AND WALL COLLISION FREQUENCIES AND MEAN FREE",
+      "level": 2,
+      "start_line": 94
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 99,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 98
+    },
+    {
+      "anchor": "figure",
+      "end_line": 118,
+      "heading": "Figure",
+      "level": 1,
+      "start_line": 100
+    },
+    {
+      "anchor": "chapter-i",
+      "end_line": 120,
+      "heading": "CHAPTER I",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 132,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "chapter-ii",
+      "end_line": 134,
+      "heading": "CHAPTER II",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "review-of-literature",
+      "end_line": 172,
+      "heading": "REVIEW OF LITERATURE",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "ornl-dwg-75-8303",
+      "end_line": 209,
+      "heading": "Ornl Dwg. 75-8303",
+      "level": 2,
+      "start_line": 173
+    },
+    {
+      "anchor": "chapter-iii",
+      "end_line": 211,
+      "heading": "CHAPTER III",
+      "level": 1,
+      "start_line": 210
+    },
+    {
+      "anchor": "theory",
+      "end_line": 317,
+      "heading": "THEORY",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "tablei",
+      "end_line": 318,
+      "heading": "Tablei",
+      "level": 2,
+      "start_line": 318
+    },
+    {
+      "anchor": "hydrogen-reactions-with-the-elements-40",
+      "end_line": 325,
+      "heading": "Hydrogen Reactions With The Elements (40)",
+      "level": 2,
+      "start_line": 319
+    },
+    {
+      "anchor": "chapter-iv",
+      "end_line": 327,
+      "heading": "CHAPTER IV",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "experimental-apparatus-and-procedure",
+      "end_line": 329,
+      "heading": "EXPERIMENTAL APPARATUS AND PROCEDURE",
+      "level": 1,
+      "start_line": 328
+    },
+    {
+      "anchor": "reagents",
+      "end_line": 335,
+      "heading": "Reagents",
+      "level": 1,
+      "start_line": 330
+    },
+    {
+      "anchor": "apparatus",
+      "end_line": 357,
+      "heading": "Apparatus",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "ornl-dwg-75-8300r1",
+      "end_line": 374,
+      "heading": "Ornl Dwg. 75-8300R1",
+      "level": 2,
+      "start_line": 358
+    },
+    {
+      "anchor": "operational-procedures",
+      "end_line": 392,
+      "heading": "Operational Procedures",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "analytical-procedure",
+      "end_line": 408,
+      "heading": "Analytical Procedure",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "ornl-dwg-75-5344",
+      "end_line": 413,
+      "heading": "Ornl Dwg. 75-5344",
+      "level": 2,
+      "start_line": 409
+    },
+    {
+      "anchor": "chapter-v",
+      "end_line": 415,
+      "heading": "CHAPTER V",
+      "level": 1,
+      "start_line": 414
+    },
+    {
+      "anchor": "experimental-data",
+      "end_line": 417,
+      "heading": "EXPERIMENTAL DATA",
+      "level": 1,
+      "start_line": 416
+    },
+    {
+      "anchor": "li-bi-sorption-system",
+      "end_line": 423,
+      "heading": "Li-Bi Sorption System",
+      "level": 1,
+      "start_line": 418
+    },
+    {
+      "anchor": "table-ii",
+      "end_line": 430,
+      "heading": "Table Ii",
+      "level": 2,
+      "start_line": 424
+    },
+    {
+      "anchor": "table-iii",
+      "end_line": 431,
+      "heading": "Table Iii",
+      "level": 2,
+      "start_line": 431
+    },
+    {
+      "anchor": "results-of-gas-phase-analyses-for-tritium-concentration",
+      "end_line": 438,
+      "heading": "Results Of Gas-Phase Analyses For Tritium Concentration",
+      "level": 2,
+      "start_line": 432
+    },
+    {
+      "anchor": "ornl-dwg-75-8301r1",
+      "end_line": 459,
+      "heading": "Ornl Dwg. 75-8301R1",
+      "level": 2,
+      "start_line": 439
+    },
+    {
+      "anchor": "li-al-sorption-system",
+      "end_line": 467,
+      "heading": "Li-Al Sorption System",
+      "level": 1,
+      "start_line": 460
+    },
+    {
+      "anchor": "table-iv",
+      "end_line": 472,
+      "heading": "Table Iv",
+      "level": 2,
+      "start_line": 468
+    },
+    {
+      "anchor": "table-v",
+      "end_line": 486,
+      "heading": "Table V",
+      "level": 2,
+      "start_line": 473
+    },
+    {
+      "anchor": "chapter-vi",
+      "end_line": 488,
+      "heading": "CHAPTER VI",
+      "level": 1,
+      "start_line": 487
+    },
+    {
+      "anchor": "discussion-of-results",
+      "end_line": 490,
+      "heading": "DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 489
+    },
+    {
+      "anchor": "li-bi-sorption-system",
+      "end_line": 500,
+      "heading": "Li-Bi Sorption System",
+      "level": 1,
+      "start_line": 491
+    },
+    {
+      "anchor": "li-al-sorption-system",
+      "end_line": 514,
+      "heading": "Li-Al Sorption System",
+      "level": 1,
+      "start_line": 501
+    },
+    {
+      "anchor": "ornl-dwg-75-8290r1",
+      "end_line": 531,
+      "heading": "Ornl Dwg. 75-8290R1",
+      "level": 2,
+      "start_line": 515
+    },
+    {
+      "anchor": "chapter-vii",
+      "end_line": 533,
+      "heading": "CHAPTER VII",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "analysis-of-the-tritium-recovery-system-for-the-princeton-reference-design",
+      "end_line": 539,
+      "heading": "ANALYSIS OF THE TRITIUM RECOVERY SYSTEM FOR THE PRINCETON REFERENCE DESIGN",
+      "level": 1,
+      "start_line": 534
+    },
+    {
+      "anchor": "description-of-the-process",
+      "end_line": 548,
+      "heading": "Description of the Process",
+      "level": 1,
+      "start_line": 540
+    },
+    {
+      "anchor": "ornl-dwg-75-8288",
+      "end_line": 550,
+      "heading": "Ornl Dwg. 75-8288",
+      "level": 2,
+      "start_line": 549
+    },
+    {
+      "anchor": "table-vi",
+      "end_line": 561,
+      "heading": "Table Vi",
+      "level": 2,
+      "start_line": 551
+    },
+    {
+      "anchor": "disengager-analysis",
+      "end_line": 575,
+      "heading": "Disengager Analysis",
+      "level": 1,
+      "start_line": 562
+    },
+    {
+      "anchor": "ornl-dwg-75-8292",
+      "end_line": 627,
+      "heading": "Ornl Dwg. 75-8292",
+      "level": 2,
+      "start_line": 576
+    },
+    {
+      "anchor": "table-vii",
+      "end_line": 629,
+      "heading": "TABLE VII",
+      "level": 1,
+      "start_line": 628
+    },
+    {
+      "anchor": "characteristics-advantages-and-disadvantages-of-pressure",
+      "end_line": 631,
+      "heading": "CHARACTERISTICS, ADVANTAGES, AND DISADVANTAGES OF PRESSURE",
+      "level": 1,
+      "start_line": 630
+    },
+    {
+      "anchor": "nozzles-and-spinning-disk-atomizers-25",
+      "end_line": 637,
+      "heading": "NOZZLES AND SPINNING-DISK ATOMIZERS (25)",
+      "level": 1,
+      "start_line": 632
+    },
+    {
+      "anchor": "characteristics",
+      "end_line": 647,
+      "heading": "Characteristics",
+      "level": 1,
+      "start_line": 638
+    },
+    {
+      "anchor": "advantages",
+      "end_line": 660,
+      "heading": "Advantages",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "disadvantages",
+      "end_line": 677,
+      "heading": "Disadvantages",
+      "level": 1,
+      "start_line": 661
+    },
+    {
+      "anchor": "cyclic-condenser-analysis",
+      "end_line": 683,
+      "heading": "Cyclic Condenser Analysis",
+      "level": 1,
+      "start_line": 678
+    },
+    {
+      "anchor": "ornl-dwg-75-8295",
+      "end_line": 696,
+      "heading": "Ornl Dwg. 75-8295",
+      "level": 2,
+      "start_line": 684
+    },
+    {
+      "anchor": "table-viii",
+      "end_line": 750,
+      "heading": "Table Viii",
+      "level": 2,
+      "start_line": 697
+    },
+    {
+      "anchor": "other-design-considerations",
+      "end_line": 756,
+      "heading": "Other Design Considerations",
+      "level": 1,
+      "start_line": 751
+    },
+    {
+      "anchor": "chapter-viii",
+      "end_line": 758,
+      "heading": "CHAPTER VIII",
+      "level": 1,
+      "start_line": 757
+    },
+    {
+      "anchor": "conclusions-and-recommendations",
+      "end_line": 760,
+      "heading": "CONCLUSIONS AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 759
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 775,
+      "heading": "Conclusions",
+      "level": 1,
+      "start_line": 761
+    },
+    {
+      "anchor": "recommendations",
+      "end_line": 783,
+      "heading": "Recommendations",
+      "level": 1,
+      "start_line": 776
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 831,
+      "heading": "BIBLIOGRAPHY",
+      "level": 1,
+      "start_line": 784
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1003,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 832
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1119,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 1004
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 1121,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 1120
+    },
+    {
+      "anchor": "calculation-of-residence-time-for-mass-transfer-of",
+      "end_line": 1123,
+      "heading": "CALCULATION OF RESIDENCE TIME FOR MASS TRANSFER OF",
+      "level": 1,
+      "start_line": 1122
+    },
+    {
+      "anchor": "tritium-fluoride-from-a-salt-droplet",
+      "end_line": 1130,
+      "heading": "TRITIUM FLUORIDE FROM A SALT DROPLET",
+      "level": 1,
+      "start_line": 1124
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 1132,
+      "heading": "APPENDIX D",
+      "level": 1,
+      "start_line": 1131
+    },
+    {
+      "anchor": "calculation-of-spray-disengager-height-for-salt-droplets-of-various-sizes-25",
+      "end_line": 1231,
+      "heading": "CALCULATION OF SPRAY DISENGAGER HEIGHT FOR SALT DROPLETS OF VARIOUS SIZES (25)",
+      "level": 1,
+      "start_line": 1133
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 1233,
+      "heading": "APPENDIX E",
+      "level": 1,
+      "start_line": 1232
+    },
+    {
+      "anchor": "calculation-of-the-frequencies-of-molecular-collisions-10",
+      "end_line": 1423,
+      "heading": "Calculation Of The Frequencies Of Molecular Collisions (10)",
+      "level": 2,
+      "start_line": 1234
+    },
+    {
+      "anchor": "appendix-f",
+      "end_line": 1425,
+      "heading": "APPENDIX F",
+      "level": 1,
+      "start_line": 1424
+    },
+    {
+      "anchor": "calculation-of-molecular-collisions-with-condenser-walls",
+      "end_line": 1507,
+      "heading": "CALCULATION OF MOLECULAR COLLISIONS WITH CONDenser WALLS",
+      "level": 1,
+      "start_line": 1426
+    },
+    {
+      "anchor": "appendix-g",
+      "end_line": 1509,
+      "heading": "APPENDIX G",
+      "level": 1,
+      "start_line": 1508
+    },
+    {
+      "anchor": "calculation-of-mean-free-paths-of-tf-and-helium-collisions",
+      "end_line": 1619,
+      "heading": "CALCULATION OF MEAN FREE PATHS OF TF AND HELIUM COLLISIONS",
+      "level": 1,
+      "start_line": 1510
+    },
+    {
+      "anchor": "appendix-h",
+      "end_line": 1621,
+      "heading": "APPENDIX H",
+      "level": 1,
+      "start_line": 1620
+    },
+    {
+      "anchor": "calculation-of-cyclic-condenser-heat-load",
+      "end_line": 1669,
+      "heading": "CALCULATION OF CYCLIC CONDenser HEAT LOAD",
+      "level": 1,
+      "start_line": 1622
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1671,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1670
+    },
+    {
+      "anchor": "ornl-tm-5104",
+      "end_line": 1712,
+      "heading": "Ornl/Tm-5104",
+      "level": 2,
+      "start_line": 1672
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1729,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1713
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-5104",
+  "tables": [],
+  "title": "A Study of Tritium Removal from Fusion Reactor Blankets of Molten Salt and Lithium-Aluminum",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

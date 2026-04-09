@@ -1,0 +1,1519 @@
+{
+  "authors": [
+    "Part I. Homogeneous",
+    "Quasi-homogeneous Reactors",
+    "Charles E. Teeter",
+    "James A. Lecky",
+    "John H. Martens",
+    "P RASED FOR ANNOUNCER",
+    "DISCLAIMER",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/anl-7138.jsonl",
+  "date_text": "January 1966",
+  "doc_id": "anl-7138",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 92,
+        "line_hits": [
+          118,
+          143,
+          212,
+          243,
+          279,
+          285,
+          287,
+          291,
+          309,
+          311,
+          321,
+          323,
+          327,
+          331,
+          333,
+          335,
+          337,
+          339,
+          353,
+          357,
+          565,
+          575,
+          593,
+          597,
+          607,
+          623,
+          653,
+          655,
+          741,
+          763,
+          779,
+          831,
+          833,
+          849,
+          858,
+          868,
+          881,
+          895,
+          909,
+          921,
+          932,
+          945,
+          979,
+          993,
+          997,
+          1011,
+          1088,
+          1100,
+          1102,
+          1104
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          118,
+          137,
+          190,
+          243,
+          251,
+          261,
+          279,
+          301,
+          353,
+          439,
+          1023,
+          1090,
+          1092,
+          1118,
+          1128,
+          1132,
+          1140,
+          1244
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          265,
+          267,
+          273,
+          277,
+          305,
+          307,
+          636
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          122,
+          261,
+          333,
+          343,
+          899
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1675
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 47,
+        "line_hits": [
+          178,
+          180,
+          182,
+          186,
+          243,
+          279,
+          291,
+          331,
+          337,
+          353,
+          465,
+          577,
+          636,
+          655,
+          881,
+          932,
+          1084,
+          1090,
+          1094,
+          1104,
+          1110,
+          1116,
+          1128,
+          1130,
+          1132,
+          1136,
+          1140,
+          1148,
+          1162,
+          1186,
+          1238,
+          1254,
+          1298,
+          1344,
+          1360,
+          1379,
+          1390,
+          1411,
+          1447,
+          1477,
+          1531,
+          1583,
+          1595,
+          1611,
+          1651,
+          1663,
+          1685
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          607,
+          636,
+          655,
+          849,
+          909,
+          921,
+          932,
+          960,
+          1268,
+          1401,
+          1517,
+          1583,
+          1675
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          333,
+          337,
+          763,
+          868,
+          909,
+          1635,
+          1744
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          1094,
+          1298,
+          1360,
+          1379,
+          1477,
+          1583
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          287,
+          345,
+          623,
+          968,
+          1555
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1152,
+          1517,
+          1611,
+          1685
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1477
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 15,
+        "line_hits": [
+          202,
+          206,
+          208,
+          214,
+          237,
+          239,
+          1058,
+          1071,
+          1074,
+          1148,
+          1154,
+          1629,
+          1633,
+          1710,
+          1740
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          1,
+          34,
+          66,
+          68,
+          78,
+          82,
+          84,
+          202,
+          1667
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          226,
+          1026,
+          1148,
+          1587,
+          1737
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          202,
+          1019
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 83,
+        "line_hits": [
+          118,
+          122,
+          144,
+          149,
+          155,
+          157,
+          176,
+          202,
+          206,
+          208,
+          210,
+          212,
+          233,
+          235,
+          236,
+          238,
+          311,
+          315,
+          323,
+          329,
+          333,
+          335,
+          597,
+          783,
+          861,
+          871,
+          885,
+          899,
+          913,
+          1030,
+          1031,
+          1036,
+          1053,
+          1054,
+          1055,
+          1056,
+          1060,
+          1100,
+          1102,
+          1106,
+          1110,
+          1112,
+          1142,
+          1144,
+          1152,
+          1154,
+          1160,
+          1318,
+          1334,
+          1342
+        ],
+        "name": "LMFR"
+      },
+      {
+        "count": 41,
+        "line_hits": [
+          23,
+          176,
+          178,
+          196,
+          200,
+          243,
+          251,
+          253,
+          267,
+          269,
+          277,
+          279,
+          285,
+          295,
+          331,
+          333,
+          339,
+          343,
+          347,
+          351,
+          353,
+          355,
+          357,
+          497,
+          635,
+          683,
+          895,
+          921,
+          968,
+          1080,
+          1094,
+          1110,
+          1112,
+          1116,
+          1130,
+          1140,
+          1142,
+          1154,
+          1162,
+          1583,
+          1675
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          313
+        ],
+        "name": "AHR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 15,
+        "line_hits": [
+          149,
+          154,
+          208,
+          218,
+          230,
+          231,
+          615,
+          1029,
+          1033,
+          1050,
+          1469,
+          1599,
+          1710,
+          1723,
+          1738
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          301,
+          315,
+          341
+        ],
+        "name": "two-fluid breeder"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          210,
+          212
+        ],
+        "name": "one-fluid breeder"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 9,
+        "line_hits": [
+          149,
+          208,
+          218,
+          615,
+          1033,
+          1050,
+          1469,
+          1710,
+          1723
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a7bb345c7f9dbd320dc368474e17c8acc08f98e92c1fc7775d4cae53a8f4c63c",
+  "markdown_path": "pdf/ANL-7138/ANL-7138/hybrid_ocr/ANL-7138.md",
+  "report_number": "ANL-6892",
+  "report_numbers": [
+    "ANL-6892",
+    "ANL-6909",
+    "ANL-7092"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 144,
+  "sections": [
+    {
+      "anchor": "argonne-national-laboratory",
+      "end_line": 2,
+      "heading": "Argonne National Laboratory",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "catalog-of-nuclear-reactor-concepts",
+      "end_line": 4,
+      "heading": "CATALOG OF NUCLEAR REACTOR CONCEPTS",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "part-i-homogeneous-and-quasi-homogeneous-reactors",
+      "end_line": 6,
+      "heading": "Part I. Homogeneous and Quasi-homogeneous Reactors",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "section-iv-reactors-fueled-with-liquid-metals",
+      "end_line": 10,
+      "heading": "Section IV. Reactors Fueled with Liquid Metals",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "charles-e-teeter-james-a-lecky-and-john-h-martens",
+      "end_line": 12,
+      "heading": "Charles E. Teeter, James A. Lecky, and John H. Martens",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "p-rased-for-announcer",
+      "end_line": 14,
+      "heading": "P Rased For Announcer",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "science-abstracts",
+      "end_line": 16,
+      "heading": "Science Abstracts",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 20,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 24,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 35,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 25
+    },
+    {
+      "anchor": "cfsti-prices-h-c-3-00-mn-75",
+      "end_line": 37,
+      "heading": "Cfsti Prices H.C. $3.00; Mn. 75",
+      "level": 2,
+      "start_line": 36
+    },
+    {
+      "anchor": "catalog-of-nuclear-reactor-concepts",
+      "end_line": 49,
+      "heading": "CATALOG OF NUCLEAR REACTOR CONCEPTS",
+      "level": 1,
+      "start_line": 38
+    },
+    {
+      "anchor": "this-page-was-intentionally-left-blank",
+      "end_line": 51,
+      "heading": "This Page Was Intentionally Left Blank",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 55,
+      "heading": "Table Of Contents",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "this-page",
+      "end_line": 57,
+      "heading": "This Page",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "was-this-page-all",
+      "end_line": 59,
+      "heading": "Was This Page All",
+      "level": 2,
+      "start_line": 58
+    },
+    {
+      "anchor": "wasintentionally",
+      "end_line": 61,
+      "heading": "Wasintentionally",
+      "level": 2,
+      "start_line": 60
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 63,
+      "heading": "Left Blank",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "preface",
+      "end_line": 71,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "j-h-m",
+      "end_line": 75,
+      "heading": "J.H.M.",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "plan-of-catalog-of-reactor-concepts",
+      "end_line": 115,
+      "heading": "Plan Of Catalog Of Reactor Concepts",
+      "level": 2,
+      "start_line": 76
+    },
+    {
+      "anchor": "reactor-concepts-described-in-this-report",
+      "end_line": 119,
+      "heading": "Reactor Concepts Described In This Report",
+      "level": 2,
+      "start_line": 116
+    },
+    {
+      "anchor": "reactor-concepts-described-in-this-report",
+      "end_line": 123,
+      "heading": "Reactor Concepts Described In This Report",
+      "level": 2,
+      "start_line": 120
+    },
+    {
+      "anchor": "reactor-concepts-described-in-this-report",
+      "end_line": 146,
+      "heading": "Reactor Concepts Described In This Report",
+      "level": 2,
+      "start_line": 124
+    },
+    {
+      "anchor": "reactor-concepts-described-in-this-report",
+      "end_line": 150,
+      "heading": "Reactor Concepts Described In This Report",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "reactor-concepts-described-in-this-report",
+      "end_line": 163,
+      "heading": "Reactor Concepts Described In This Report",
+      "level": 2,
+      "start_line": 151
+    },
+    {
+      "anchor": "was-this-page-a-i",
+      "end_line": 165,
+      "heading": "Was This Page A.I.",
+      "level": 2,
+      "start_line": 164
+    },
+    {
+      "anchor": "wasintentionally",
+      "end_line": 167,
+      "heading": "Wasintentionally",
+      "level": 2,
+      "start_line": 166
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 169,
+      "heading": "Left Blank",
+      "level": 2,
+      "start_line": 168
+    },
+    {
+      "anchor": "part-i-homogeneous-and-quasi-homogeneous-reactors",
+      "end_line": 171,
+      "heading": "PART I. HOMOGENEOUS AND QUASI-HOMOGENEOUS REACTORS",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "section-iv-reactors-fueled-with-liquid-metals",
+      "end_line": 173,
+      "heading": "SECTION IV. REACTORS FUELED WITH LIQUID METALS",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "chapter-1-introduction",
+      "end_line": 215,
+      "heading": "Chapter 1. Introduction",
+      "level": 1,
+      "start_line": 174
+    },
+    {
+      "anchor": "references",
+      "end_line": 240,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 216
+    },
+    {
+      "anchor": "chapter-2-internally-cooled-reactors",
+      "end_line": 244,
+      "heading": "Chapter 2. Internally-cooled Reactors",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "one-fluid-reactors",
+      "end_line": 296,
+      "heading": "One-fluid Reactors",
+      "level": 1,
+      "start_line": 245
+    },
+    {
+      "anchor": "two-fluid-reactors",
+      "end_line": 358,
+      "heading": "Two-fluid Reactors",
+      "level": 1,
+      "start_line": 297
+    },
+    {
+      "anchor": "this-page-was-intentionally-left-blank",
+      "end_line": 360,
+      "heading": "THIS PAGE WAS INTENTIONALLY LEFT BLANK",
+      "level": 1,
+      "start_line": 359
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 362,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 361
+    },
+    {
+      "anchor": "internally-cooled-reactors",
+      "end_line": 364,
+      "heading": "Internally-Cooled Reactors",
+      "level": 2,
+      "start_line": 363
+    },
+    {
+      "anchor": "this-page-was-this-pagellly-was-intentionally-left-blank",
+      "end_line": 366,
+      "heading": "THIS PAGE WAS THIS PAGELLLY WAS INTENTIONALLY LEFT BLANK",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "no-1-slurry-fueled-fast-brceder",
+      "end_line": 368,
+      "heading": "No.1 Slurry-fueled Fast Brceder",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "kapl",
+      "end_line": 382,
+      "heading": "KAPL",
+      "level": 1,
+      "start_line": 369
+    },
+    {
+      "anchor": "no-2-bismuth-cooled-liquid-metal-fueled-thermal-pile",
+      "end_line": 384,
+      "heading": "No. 2 Bismuth-cooled, Liquid-metal-fueled, Thermal Pile",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 398,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 385
+    },
+    {
+      "anchor": "no-3-thermal-breeder-reactor",
+      "end_line": 410,
+      "heading": "No. 3 Thermal Breeder Reactor",
+      "level": 1,
+      "start_line": 399
+    },
+    {
+      "anchor": "no-4-bubbler-type-reactor",
+      "end_line": 424,
+      "heading": "No. 4 Bubbler-type Reactor",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "no-5-rotating-plate-reactor",
+      "end_line": 438,
+      "heading": "No. 5 Rotating-plate Reactor",
+      "level": 1,
+      "start_line": 425
+    },
+    {
+      "anchor": "no-6-heterogeneous-liquid-fuel-beryllium-moderated-reactor",
+      "end_line": 454,
+      "heading": "No. 6 Heterogeneous Liquid Fuel, Beryllium Moderated Reactor",
+      "level": 1,
+      "start_line": 439
+    },
+    {
+      "anchor": "no-7-fast-mathbf-u-238-converter",
+      "end_line": 456,
+      "heading": "No. 7 Fast $\\mathbf{U}^{238}$ Converter",
+      "level": 1,
+      "start_line": 455
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 504,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 457
+    },
+    {
+      "anchor": "626-7x6",
+      "end_line": 506,
+      "heading": "626 7X6",
+      "level": 2,
+      "start_line": 505
+    },
+    {
+      "anchor": "no-10-radiator-reactor-with-solution-fuel",
+      "end_line": 508,
+      "heading": "No. 10 Radiator Reactor with Solution Fuel",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "dow-chemical-detroit-edison-associates-atomic-power-development-project",
+      "end_line": 524,
+      "heading": "Dow Chemical--Detroit Edison Associates. Atomic Power Development Project",
+      "level": 1,
+      "start_line": 509
+    },
+    {
+      "anchor": "no-11-radiator-reactor-with-slurry-fuel",
+      "end_line": 526,
+      "heading": "No. 11 Radiator Reactor with Slurry Fuel",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "dow-chemical-detroit-edison-associates-atomic-power-development-project",
+      "end_line": 542,
+      "heading": "Dow Chemical--Detroit Edison Associates. Atomic Power Development Project",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "no-12-radiator-reactor-with-solution-fuel-and-solid-fertile-material",
+      "end_line": 582,
+      "heading": "No. 12 Radiator Reactor with Solution Fuel and Solid Fertile Material",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "no-14-reactor-with-stationary-liquid-uranium-bismuth-fuel-cooled-with-sodium-and-water",
+      "end_line": 584,
+      "heading": "No. 14 Reactor with Stationary Liquid Uranium-Bismuth Fuel, Cooled with Sodium and Water",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 596,
+      "heading": "Orsort",
+      "level": 2,
+      "start_line": 585
+    },
+    {
+      "anchor": "no-15-internally-bismuth-cooled-lmfr-with-graphite-element-one-region",
+      "end_line": 628,
+      "heading": "No. 15 Internally-bismuth Cooled LMFR with Graphite Element (One-region)",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 716,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 629
+    },
+    {
+      "anchor": "no-23-fast-molten-metal-fueled-reactor",
+      "end_line": 750,
+      "heading": "No. 23 Fast Molten-metal-fueled Reactor",
+      "level": 1,
+      "start_line": 717
+    },
+    {
+      "anchor": "no-25-fluid-fuel-sgr",
+      "end_line": 782,
+      "heading": "No. 25 Fluid-fuel SGR",
+      "level": 1,
+      "start_line": 751
+    },
+    {
+      "anchor": "no-27-fast-breeder-lmfr-for-power",
+      "end_line": 796,
+      "heading": "No. 27 Fast Breeder LMFR for Power",
+      "level": 1,
+      "start_line": 783
+    },
+    {
+      "anchor": "312xx-626-82128",
+      "end_line": 798,
+      "heading": "312Xx 626 82128",
+      "level": 2,
+      "start_line": 797
+    },
+    {
+      "anchor": "313xx-636-83679",
+      "end_line": 804,
+      "heading": "313Xx 636 83679",
+      "level": 2,
+      "start_line": 799
+    },
+    {
+      "anchor": "no-28-uranium-bismuth-fast-breeder",
+      "end_line": 820,
+      "heading": "No. 28 Uranium-Bismuth Fast Breeder",
+      "level": 1,
+      "start_line": 805
+    },
+    {
+      "anchor": "no-29-teitel-design-breeder-reactor",
+      "end_line": 822,
+      "heading": "No. 29 \"Teitel Design\" Breeder Reactor",
+      "level": 1,
+      "start_line": 821
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 836,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 823
+    },
+    {
+      "anchor": "no-30-gas-cooled-liquid-metal-reactor",
+      "end_line": 838,
+      "heading": "No. 30 Gas-cooled, Liquid-metal Reactor",
+      "level": 1,
+      "start_line": 837
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 852,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 839
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 860,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 853
+    },
+    {
+      "anchor": "no-32-internally-cooled-lmfr-power-breeder",
+      "end_line": 862,
+      "heading": "No. 32 Internally Cooled LMFR (Power Breeder)",
+      "level": 1,
+      "start_line": 861
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 870,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 863
+    },
+    {
+      "anchor": "no-33-internally-cooled-experimental-liquid-metal-fuel-reactor-alternative-design",
+      "end_line": 884,
+      "heading": "No. 33 Internally-cooled Experimental Liquid Metal Fuel Reactor, Alternative Design",
+      "level": 1,
+      "start_line": 871
+    },
+    {
+      "anchor": "no-34-internally-cooled-experimental-liquid-metal-fuel-reactor-alternative-design",
+      "end_line": 898,
+      "heading": "No. 34 Internally-cooled Experimental Liquid Metal Fuel Reactor, Alternative Design",
+      "level": 1,
+      "start_line": 885
+    },
+    {
+      "anchor": "no-35-internally-cooled-lmfr-with-molybdenum-core-container",
+      "end_line": 900,
+      "heading": "No. 35 Internally-cooled LMFR with Molybdenum Core Container",
+      "level": 1,
+      "start_line": 899
+    },
+    {
+      "anchor": "babcock-wilcox-company",
+      "end_line": 912,
+      "heading": "Babcock & Wilcox Company",
+      "level": 1,
+      "start_line": 901
+    },
+    {
+      "anchor": "no-36-internally-gas-cooled-lmfr",
+      "end_line": 914,
+      "heading": "No. 36 Internally Gas Cooled LMFR",
+      "level": 1,
+      "start_line": 913
+    },
+    {
+      "anchor": "babcock-wilcox-company",
+      "end_line": 924,
+      "heading": "Babcock & Wilcox Company",
+      "level": 1,
+      "start_line": 915
+    },
+    {
+      "anchor": "no-37-internally-cooled-lmtbr",
+      "end_line": 926,
+      "heading": "No. 37 Internally Cooled LMTBR",
+      "level": 1,
+      "start_line": 925
+    },
+    {
+      "anchor": "babcock-wilcox-company",
+      "end_line": 934,
+      "heading": "Babcock & Wilcox Company",
+      "level": 1,
+      "start_line": 927
+    },
+    {
+      "anchor": "no-38-liquid-metal-breeder-reactor-limb",
+      "end_line": 952,
+      "heading": "No. 38 Liquid Metal Breeder Reactor (LIMB)",
+      "level": 1,
+      "start_line": 935
+    },
+    {
+      "anchor": "no-39-second-los-alamos-molten-plutonium-reactor-experiment-lampre-ii",
+      "end_line": 954,
+      "heading": "No. 39 Second Los Alamos Molten Plutonium Reactor Experiment (LAMPRE-II)",
+      "level": 1,
+      "start_line": 953
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 962,
+      "heading": "Lasl",
+      "level": 2,
+      "start_line": 955
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 970,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 963
+    },
+    {
+      "anchor": "aeromekano-ab-stockholm-sweden",
+      "end_line": 984,
+      "heading": "AEROMEKANO AB, Stockholm, Sweden",
+      "level": 1,
+      "start_line": 971
+    },
+    {
+      "anchor": "no-42-thermal-reactor-with-spherical-fuel-elements-in-liquid-metal",
+      "end_line": 1000,
+      "heading": "No. 42 Thermal Reactor with Spherical Fuel Elements in Liquid Metal",
+      "level": 1,
+      "start_line": 985
+    },
+    {
+      "anchor": "no-43-fast-reactor-with-spherical-fuel-elements-in-liquid-metal",
+      "end_line": 1016,
+      "heading": "No. 43 Fast Reactor with Spherical Fuel Elements in Liquid Metal",
+      "level": 1,
+      "start_line": 1001
+    },
+    {
+      "anchor": "references",
+      "end_line": 1077,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1017
+    },
+    {
+      "anchor": "chapter-3-externally-cooled-reactors",
+      "end_line": 1081,
+      "heading": "Chapter 3. Externally--cooled Reactors",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "one-fluid-reactors",
+      "end_line": 1119,
+      "heading": "One-fluid Reactors",
+      "level": 1,
+      "start_line": 1082
+    },
+    {
+      "anchor": "two-fluid-reactors",
+      "end_line": 1163,
+      "heading": "Two-fluid Reactors",
+      "level": 1,
+      "start_line": 1120
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 1165,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 1164
+    },
+    {
+      "anchor": "externally-cooled-reactors",
+      "end_line": 1171,
+      "heading": "Externally-Cooled Reactors",
+      "level": 2,
+      "start_line": 1166
+    },
+    {
+      "anchor": "wasintentionally",
+      "end_line": 1173,
+      "heading": "Wasintentionally",
+      "level": 2,
+      "start_line": 1172
+    },
+    {
+      "anchor": "left-blank",
+      "end_line": 1175,
+      "heading": "Left Blank",
+      "level": 2,
+      "start_line": 1174
+    },
+    {
+      "anchor": "no-1-halban-kowarski-molten-metal-pile",
+      "end_line": 1177,
+      "heading": "No. 1 Halban-Kowarski Molten-metal Pile",
+      "level": 1,
+      "start_line": 1176
+    },
+    {
+      "anchor": "cavendish-laboratory-cambridge-university-england",
+      "end_line": 1189,
+      "heading": "Cavendish Laboratory, Cambridge University, England",
+      "level": 1,
+      "start_line": 1178
+    },
+    {
+      "anchor": "31206-81x22",
+      "end_line": 1191,
+      "heading": "31206 81X22",
+      "level": 2,
+      "start_line": 1190
+    },
+    {
+      "anchor": "no-2-liquid-fuel-circulating-reactor-for-aircraft-propulsion",
+      "end_line": 1193,
+      "heading": "No. 2 Liquid Fuel Circulating Reactor for Aircraft Propulsion",
+      "level": 1,
+      "start_line": 1192
+    },
+    {
+      "anchor": "nepa-division-fairchild-engine-and-aviation-corporation",
+      "end_line": 1205,
+      "heading": "NEPA Division, Fairchild Engine and Aviation Corporation",
+      "level": 1,
+      "start_line": 1194
+    },
+    {
+      "anchor": "no-3-circulating-fuel-dispersed-moderator-reactor",
+      "end_line": 1225,
+      "heading": "No. 3 Circulating-fuel Dispersed-moderator Reactor",
+      "level": 1,
+      "start_line": 1206
+    },
+    {
+      "anchor": "no-4-circulating-fuel-reflector-moderator-reactor",
+      "end_line": 1243,
+      "heading": "No. 4. Circulating-fuel, Reflector-Moderator Reactor",
+      "level": 1,
+      "start_line": 1226
+    },
+    {
+      "anchor": "no-5-circulating-uranium-bismuth-fuel-beryllium-inmoderated-reactor",
+      "end_line": 1257,
+      "heading": "No. 5 Circulating Uranium-Bismuth Fuel, Beryllium-inmoderated Reactor",
+      "level": 1,
+      "start_line": 1244
+    },
+    {
+      "anchor": "no-6-circulating-fuel-reactor",
+      "end_line": 1271,
+      "heading": "No. 6 Circulating Fuel Reactor",
+      "level": 1,
+      "start_line": 1258
+    },
+    {
+      "anchor": "no-7-circulating-uranium-bismuth-fuel-reactor-solid-moderator-for-aircraft-propulsion",
+      "end_line": 1285,
+      "heading": "No. 7 Circulating Uranium-Bismuth Fuel Reactor (Solid Moderator) for Aircraft Propulsion",
+      "level": 1,
+      "start_line": 1272
+    },
+    {
+      "anchor": "no-8-circulating-fuel-reactor-fueled-with-uranium-bismuth-and-moderated-with-water",
+      "end_line": 1303,
+      "heading": "No. 8 Circulating-fuel Reactor Fueled with Uranium-Bismuth and Moderated with Water",
+      "level": 1,
+      "start_line": 1286
+    },
+    {
+      "anchor": "no-9-circulating-fuel-reactor-with-slurry-fuel-orsort",
+      "end_line": 1317,
+      "heading": "No. 9 Circulating-fuel Reactor with Slurry Fuel ORSORT",
+      "level": 1,
+      "start_line": 1304
+    },
+    {
+      "anchor": "no-10-spherical-graphite-reflected-lmfr",
+      "end_line": 1319,
+      "heading": "No. 10 Spherical Graphite-reflected LMFR",
+      "level": 1,
+      "start_line": 1318
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1333,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1320
+    },
+    {
+      "anchor": "no-11-lmfr-single-regionburner-bnl",
+      "end_line": 1351,
+      "heading": "No.11 LMFR Single-regionBurner BNL",
+      "level": 1,
+      "start_line": 1334
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1371,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1352
+    },
+    {
+      "anchor": "no-13-liquid-metal-fuel-reactor-experiment-i-lmfre-i-first-reference-design",
+      "end_line": 1382,
+      "heading": "No. 13 Liquid Metal Fuel Reactor Experiment I (LMFRE-I), First Reference Design",
+      "level": 1,
+      "start_line": 1372
+    },
+    {
+      "anchor": "no-14-liquid-metal-fuel-reactor-experiment-i-lmfre-i-final-reference-design",
+      "end_line": 1392,
+      "heading": "No. 14 Liquid Metal Fuel Reactor Experiment I (LMFRE-I), Final Reference Design",
+      "level": 1,
+      "start_line": 1383
+    },
+    {
+      "anchor": "no-15-externally-cooled-single-fluid-lmfr-babcock-wilcox-company",
+      "end_line": 1404,
+      "heading": "No. 15 Externally-cooled, Single-fluid LMFR Babcock & Wilcox Company",
+      "level": 1,
+      "start_line": 1393
+    },
+    {
+      "anchor": "no-16-high-temperature-integral-reactor-htir-babcock-wilcox-company",
+      "end_line": 1414,
+      "heading": "No. 16 High Temperature Integral Reactor (HTIR) Babcock & Wilcox Company",
+      "level": 1,
+      "start_line": 1405
+    },
+    {
+      "anchor": "no-17-mathrm-uo-2-liquid-metal-slurry-reactor-kapl",
+      "end_line": 1424,
+      "heading": "No. 17 $\\mathrm{UO}_2$ -Liquid Metal Slurry Reactor KAPL",
+      "level": 1,
+      "start_line": 1415
+    },
+    {
+      "anchor": "no-18-breeder-with-uranium-bismuth-slurry-metallurgical-laboratory",
+      "end_line": 1436,
+      "heading": "No. 18 Breeder with Uranium-Bismuth Slurry Metallurgical Laboratory",
+      "level": 1,
+      "start_line": 1425
+    },
+    {
+      "anchor": "no-19-mixed-fast-and-thermal-pile",
+      "end_line": 1438,
+      "heading": "No. 19 Mixed Fast and Thermal Pile",
+      "level": 1,
+      "start_line": 1437
+    },
+    {
+      "anchor": "clinton-laboratories",
+      "end_line": 1450,
+      "heading": "Clinton Laboratories",
+      "level": 1,
+      "start_line": 1439
+    },
+    {
+      "anchor": "15-46-611-7x6",
+      "end_line": 1452,
+      "heading": "15 46 611 7X6",
+      "level": 2,
+      "start_line": 1451
+    },
+    {
+      "anchor": "no-20-molten-alloy-epithermal-plutonium-file",
+      "end_line": 1454,
+      "heading": "No. 20 Molten-alloy Epithermal Plutonium File",
+      "level": 1,
+      "start_line": 1453
+    },
+    {
+      "anchor": "metallurgical-laboratory",
+      "end_line": 1468,
+      "heading": "Metallurgical Laboratory",
+      "level": 1,
+      "start_line": 1455
+    },
+    {
+      "anchor": "no-21-uranium-bismuth-fluid-fuel-reactor-lfr-2-bnl",
+      "end_line": 1480,
+      "heading": "No. 21. Uranium-Bismuth Fluid Fuel Reactor (LFR-2) BNL",
+      "level": 1,
+      "start_line": 1469
+    },
+    {
+      "anchor": "no-22-bismuth-cooled-circulating-slurry-reactor-i-bnl",
+      "end_line": 1494,
+      "heading": "No. 22. Bismuth-cooled, Circulating-slurry Reactor I BNL",
+      "level": 1,
+      "start_line": 1481
+    },
+    {
+      "anchor": "no-23-bismuth-cooled-circulating-fuel-reactor-ii-bnl",
+      "end_line": 1506,
+      "heading": "No. 23 Bismuth-cooled, Circulating-fuel Reactor II BNL",
+      "level": 1,
+      "start_line": 1495
+    },
+    {
+      "anchor": "no-24-lmfre-1",
+      "end_line": 1520,
+      "heading": "No..24 LMFRE-1",
+      "level": 1,
+      "start_line": 1507
+    },
+    {
+      "anchor": "no-25-liquid-metal-fuel-reactor-central-station-power-plant",
+      "end_line": 1534,
+      "heading": "No. 25 Liquid Metal Fuel Reactor (Central Station Power Plant)",
+      "level": 1,
+      "start_line": 1521
+    },
+    {
+      "anchor": "no-26-multiregion-liquid-metal-fuel-reactor-bnl",
+      "end_line": 1546,
+      "heading": "No. 26 Multiregion Liquid Metal Fuel Reactor BNL",
+      "level": 1,
+      "start_line": 1535
+    },
+    {
+      "anchor": "no-27-liquid-metal-fuel-reactor-reference-design",
+      "end_line": 1574,
+      "heading": "No. 27 Liquid Metal Fuel Reactor Reference Design",
+      "level": 1,
+      "start_line": 1547
+    },
+    {
+      "anchor": "no-29-liquid-metal-thorium-breeder-reactor-lmtbr-babcock-wilcox-company",
+      "end_line": 1586,
+      "heading": "No. 29 Liquid Metal Thorium Breeder Reactor (LMTBR) Babcock & Wilcox Company",
+      "level": 1,
+      "start_line": 1575
+    },
+    {
+      "anchor": "no-30-liquid-bismuth-breeder-reactor-lbbr-ornl",
+      "end_line": 1598,
+      "heading": "No. 30 Liquid Bismuth Breeder Reactor (LBBR) ORNL",
+      "level": 1,
+      "start_line": 1587
+    },
+    {
+      "anchor": "no-31-immiscible-liquid-cooled-fluid-fuel-reactor",
+      "end_line": 1600,
+      "heading": "No. 31 Immiscible-liquid-cooled, Fluid-fuel Reactor",
+      "level": 1,
+      "start_line": 1599
+    },
+    {
+      "anchor": "central-station-power-reactor",
+      "end_line": 1602,
+      "heading": "(Central Station Power Reactor)",
+      "level": 1,
+      "start_line": 1601
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1614,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1603
+    },
+    {
+      "anchor": "no-32-lmfr-sgr-power-reactor",
+      "end_line": 1616,
+      "heading": "No. 32 LMFR-SGR Power Reactor",
+      "level": 1,
+      "start_line": 1615
+    },
+    {
+      "anchor": "dow-chemical-company",
+      "end_line": 1624,
+      "heading": "Dow Chemical Company",
+      "level": 1,
+      "start_line": 1617
+    },
+    {
+      "anchor": "no-33-city-of-orlando-florida-reactor",
+      "end_line": 1640,
+      "heading": "No. 33 City of Orlando (Florida) Reactor",
+      "level": 1,
+      "start_line": 1625
+    },
+    {
+      "anchor": "aere",
+      "end_line": 1654,
+      "heading": "Aere",
+      "level": 2,
+      "start_line": 1641
+    },
+    {
+      "anchor": "no-35-circulating-fuel-lmfr-aere",
+      "end_line": 1666,
+      "heading": "No.35 Circulating-fuel LMFR AERE",
+      "level": 1,
+      "start_line": 1655
+    },
+    {
+      "anchor": "no-36-reactor-with-circulating-mathrm-uo-2-nak-slurry-fuel-anl",
+      "end_line": 1678,
+      "heading": "No. 36 Reactor with Circulating $\\mathrm{UO_2}$ -NaK Slurry Fuel ANL",
+      "level": 1,
+      "start_line": 1667
+    },
+    {
+      "anchor": "no-37-direct-contact-reactor",
+      "end_line": 1680,
+      "heading": "No. 37 Direct Contact Reactor",
+      "level": 1,
+      "start_line": 1679
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 1687,
+      "heading": "LASL",
+      "level": 1,
+      "start_line": 1681
+    },
+    {
+      "anchor": "references",
+      "end_line": 1748,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1688
+    }
+  ],
+  "source_dir": "pdf/ANL-7138",
+  "tables": [],
+  "title": "Argonne National Laboratory",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "breeder-and-converter-design",
+    "pumps-loops-and-heat-exchangers",
+    "materials-and-corrosion",
+    "reactor-physics-neutronics",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium"
+  ],
+  "warnings": []
+}

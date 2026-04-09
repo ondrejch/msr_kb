@@ -1,0 +1,7222 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "Volume II",
+    "PART VIII",
+    "OPERATING PROCEDURES",
+    "R.H. Guymon",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-908b.jsonl",
+  "date_text": "1966",
+  "doc_id": "ornl-tm-908b",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 17,
+        "line_hits": [
+          820,
+          829,
+          900,
+          1504,
+          1571,
+          1593,
+          1649,
+          3603,
+          4814,
+          7980,
+          9272,
+          10509,
+          10769,
+          10773,
+          10785,
+          10806,
+          11282
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          486,
+          1869,
+          2401,
+          2613,
+          3410,
+          8699,
+          8731,
+          8756,
+          8867,
+          9580,
+          9653,
+          9655
+        ],
+        "name": "graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 245,
+        "line_hits": [
+          248,
+          370,
+          376,
+          400,
+          420,
+          425,
+          530,
+          536,
+          562,
+          656,
+          676,
+          708,
+          829,
+          875,
+          883,
+          895,
+          900,
+          1659,
+          1661,
+          1869,
+          1902,
+          1917,
+          2217,
+          2276,
+          2298,
+          2318,
+          2355,
+          2377,
+          2403,
+          2407,
+          2417,
+          2430,
+          2467,
+          2476,
+          2485,
+          2552,
+          2553,
+          2560,
+          2574,
+          2576,
+          2578,
+          2619,
+          2711,
+          2818,
+          2831,
+          2833,
+          2882,
+          2993,
+          3002,
+          3034
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 109,
+        "line_hits": [
+          178,
+          192,
+          244,
+          245,
+          279,
+          280,
+          283,
+          435,
+          473,
+          476,
+          483,
+          493,
+          530,
+          726,
+          728,
+          747,
+          810,
+          814,
+          818,
+          820,
+          822,
+          825,
+          883,
+          893,
+          990,
+          1271,
+          1273,
+          1400,
+          1463,
+          1471,
+          1473,
+          1518,
+          1541,
+          1579,
+          1677,
+          1889,
+          2013,
+          2097,
+          2099,
+          2161,
+          2304,
+          2336,
+          2418,
+          2613,
+          2711,
+          2841,
+          2850,
+          2962,
+          2993,
+          2997
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 77,
+        "line_hits": [
+          256,
+          304,
+          305,
+          306,
+          312,
+          313,
+          377,
+          541,
+          848,
+          1099,
+          1119,
+          1504,
+          1593,
+          2217,
+          2332,
+          2380,
+          3589,
+          3900,
+          3906,
+          3912,
+          3916,
+          3924,
+          3936,
+          3946,
+          3952,
+          4109,
+          4290,
+          4300,
+          4328,
+          4357,
+          4542,
+          4637,
+          4659,
+          4667,
+          4669,
+          4679,
+          4737,
+          4739,
+          4757,
+          4773,
+          4775,
+          4803,
+          4814,
+          4818,
+          4824,
+          4826,
+          4828,
+          4834,
+          4857,
+          4983
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 70,
+        "line_hits": [
+          236,
+          240,
+          271,
+          471,
+          479,
+          556,
+          747,
+          1273,
+          1277,
+          1279,
+          1308,
+          1344,
+          1372,
+          1384,
+          1399,
+          1402,
+          1471,
+          1479,
+          1576,
+          2009,
+          2013,
+          2099,
+          2161,
+          2194,
+          2197,
+          2219,
+          2280,
+          2401,
+          2536,
+          2775,
+          3022,
+          3355,
+          3569,
+          7392,
+          7704,
+          8226,
+          8273,
+          8620,
+          8699,
+          8703,
+          8796,
+          8831,
+          8847,
+          8853,
+          8969,
+          8996,
+          8999,
+          9004,
+          9022,
+          9028
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 62,
+        "line_hits": [
+          378,
+          1871,
+          1896,
+          1932,
+          1934,
+          2405,
+          2615,
+          2830,
+          2960,
+          2965,
+          3033,
+          3223,
+          3235,
+          3363,
+          3430,
+          3432,
+          3531,
+          3569,
+          5551,
+          6341,
+          7114,
+          7116,
+          7359,
+          7361,
+          7363,
+          7617,
+          7619,
+          7623,
+          7631,
+          7637,
+          8361,
+          8363,
+          8371,
+          8378,
+          8394,
+          8519,
+          8606,
+          8608,
+          8616,
+          8709,
+          8727,
+          8734,
+          8738,
+          8742,
+          8743,
+          8746,
+          8782,
+          8954,
+          8961,
+          8969
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          1869,
+          2217,
+          7720,
+          7730,
+          7758,
+          7761,
+          8074,
+          8230,
+          8239,
+          8299,
+          8803
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          2553,
+          2576,
+          2831,
+          3034,
+          3364,
+          3734,
+          5597,
+          8086,
+          8107,
+          11077,
+          11081
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          4018,
+          4127,
+          4151,
+          4239,
+          7069,
+          7087,
+          7109,
+          8074,
+          8088,
+          8513
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          420,
+          8287,
+          8420,
+          8422,
+          8456,
+          8458
+        ],
+        "name": "salt pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 18,
+        "line_hits": [
+          3,
+          21,
+          44,
+          56,
+          72,
+          82,
+          84,
+          86,
+          88,
+          90,
+          91,
+          92,
+          93,
+          95,
+          96,
+          101,
+          3920,
+          8336
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          17,
+          66,
+          76,
+          11746,
+          11748,
+          11749,
+          11751
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          13,
+          62
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 393,
+        "line_hits": [
+          80,
+          101,
+          516,
+          518,
+          536,
+          538,
+          558,
+          747,
+          787,
+          822,
+          824,
+          906,
+          912,
+          984,
+          988,
+          1015,
+          1051,
+          1153,
+          1203,
+          1247,
+          1249,
+          1264,
+          1275,
+          1287,
+          1295,
+          1298,
+          1300,
+          1304,
+          1311,
+          1320,
+          1330,
+          1340,
+          1346,
+          1352,
+          1359,
+          1364,
+          1368,
+          1375,
+          1384,
+          1385,
+          1402,
+          1404,
+          1483,
+          1487,
+          1500,
+          1501,
+          1504,
+          1579,
+          1580,
+          1590
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 64,
+        "line_hits": [
+          27,
+          48,
+          70,
+          82,
+          84,
+          86,
+          88,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          101,
+          138,
+          3916,
+          3920,
+          3924,
+          4288,
+          4293,
+          4635,
+          4643,
+          4836,
+          5128,
+          5306,
+          6329,
+          6600,
+          7653,
+          8334,
+          8677,
+          8986,
+          9705,
+          9725,
+          9739,
+          9817,
+          11228,
+          11307,
+          11311,
+          11315,
+          11408,
+          11410,
+          11450,
+          11481,
+          11489,
+          11493,
+          11525,
+          11531,
+          11559
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 1,
+        "line_hits": [
+          1467
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "62c19ec11950a517914a37348617c04f619e970f640d4db1834db1be8e4a3139",
+  "markdown_path": "pdf/ORNL-TM-0908B/ORNL-TM-0908B/hybrid_ocr/ORNL-TM-0908B.md",
+  "report_number": "ORNL-TM-908",
+  "report_numbers": [
+    "ORNL-TM-908",
+    "ORNL-TM-728",
+    "ORNL-TM-729",
+    "ORNL-TM-730",
+    "ORNL-TM-731",
+    "ORNL-TM-732",
+    "ORNL-TM-733",
+    "ORNL-TM-907",
+    "ORNL-TM-910",
+    "ORNL-TM-911"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 945,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory-libraries",
+      "end_line": 8,
+      "heading": "Oak Ridge National Laboratory Libraries",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "oai-3445605494514-laboratory",
+      "end_line": 12,
+      "heading": "Oai 3445605494514 , Laboratory",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 16,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 20,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "ornl-tm-908",
+      "end_line": 26,
+      "heading": "Ornl-Tm-908,",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 28,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "part-viii-operating-procedures",
+      "end_line": 34,
+      "heading": "Part Viii, Operating Procedures",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 43,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 35
+    },
+    {
+      "anchor": "ornl-tm-908",
+      "end_line": 47,
+      "heading": "Ornl-Tm-908,",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 49,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "part-viii-operating-procedures",
+      "end_line": 53,
+      "heading": "Part Viii, Operating Procedures",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "january-1966",
+      "end_line": 55,
+      "heading": "January 1966",
+      "level": 2,
+      "start_line": 54
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 61,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 65,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 62
+    },
+    {
+      "anchor": "united-states-atomic-energy-commission",
+      "end_line": 67,
+      "heading": "United States Atomic Energy Commission",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "preface",
+      "end_line": 98,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "acknowledgement",
+      "end_line": 106,
+      "heading": "Acknowledgement",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "contents",
+      "end_line": 108,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "volume-i",
+      "end_line": 110,
+      "heading": "Volume I",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "preface",
+      "end_line": 112,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "acknowledgement",
+      "end_line": 114,
+      "heading": "ACKNOWLEDGEMENT",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 119,
+      "heading": "1 INTRODUCTION",
+      "level": 1,
+      "start_line": 115
+    },
+    {
+      "anchor": "2-nuclear-aspects-of-operation",
+      "end_line": 137,
+      "heading": "2. NUCLEAR ASPECTS OF OPERATION",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "2b-msre-nuclear-characteristics",
+      "end_line": 144,
+      "heading": "2B MSRE Nuclear Characteristics",
+      "level": 1,
+      "start_line": 138
+    },
+    {
+      "anchor": "3-operation-of-auxiliary-systems",
+      "end_line": 146,
+      "heading": "3 OPERATION OF AUXILIARY SYSTEMS",
+      "level": 1,
+      "start_line": 145
+    },
+    {
+      "anchor": "3a-electrical-system",
+      "end_line": 204,
+      "heading": "3A Electrical System",
+      "level": 1,
+      "start_line": 147
+    },
+    {
+      "anchor": "3f-ventilation-system",
+      "end_line": 212,
+      "heading": "3F Ventilation System",
+      "level": 1,
+      "start_line": 205
+    },
+    {
+      "anchor": "3g-leak-detector-system",
+      "end_line": 219,
+      "heading": "3G Leak-detector System",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "3h-instrumentation",
+      "end_line": 229,
+      "heading": "3H Instrumentation",
+      "level": 1,
+      "start_line": 220
+    },
+    {
+      "anchor": "6-2-ao-566-a",
+      "end_line": 232,
+      "heading": "6.2 AO-566-A",
+      "level": 2,
+      "start_line": 230
+    },
+    {
+      "anchor": "6-5-a-o-2-548",
+      "end_line": 233,
+      "heading": "6.5 $A O_{2} = 548$",
+      "level": 2,
+      "start_line": 233
+    },
+    {
+      "anchor": "6-6-ah2o-548",
+      "end_line": 235,
+      "heading": "6.6 AH2O-548",
+      "level": 2,
+      "start_line": 234
+    },
+    {
+      "anchor": "3i-freeze-valves",
+      "end_line": 260,
+      "heading": "3I Freeze Valves",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "4-auxiliary-systems-startup-check-list",
+      "end_line": 272,
+      "heading": "4 AUXILIARY SYSTEMS STARTUP CHECK LIST",
+      "level": 2,
+      "start_line": 261
+    },
+    {
+      "anchor": "volume-ii",
+      "end_line": 274,
+      "heading": "Volume II",
+      "level": 1,
+      "start_line": 273
+    },
+    {
+      "anchor": "5-reactor-startup",
+      "end_line": 294,
+      "heading": "5 REACTOR STARTUP",
+      "level": 2,
+      "start_line": 275
+    },
+    {
+      "anchor": "6-sampling-and-additions",
+      "end_line": 335,
+      "heading": "6 SAMPLING AND ADDITIONS",
+      "level": 1,
+      "start_line": 295
+    },
+    {
+      "anchor": "7-heat-balance",
+      "end_line": 341,
+      "heading": "7 HEAT BALANCE",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "8-periodic-instrument-calibration-and-circuit-checks",
+      "end_line": 343,
+      "heading": "8 PERIODIC INSTRUMENT CALIBRATION AND CIRCUIT CHECKS",
+      "level": 1,
+      "start_line": 342
+    },
+    {
+      "anchor": "8a-neutron-level",
+      "end_line": 349,
+      "heading": "8A Neutron Level",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "8b-calibration-check-of-process-radiation-monitors",
+      "end_line": 360,
+      "heading": "8B Calibration Check of Process Radiation Monitors",
+      "level": 1,
+      "start_line": 350
+    },
+    {
+      "anchor": "8c-calibration-of-personnel-monitors-and-stack-monitors",
+      "end_line": 367,
+      "heading": "8C Calibration of Personnel Monitors and Stack Monitors",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "8d-safety-circuit-checks",
+      "end_line": 379,
+      "heading": "8D Safety Circuit Checks",
+      "level": 1,
+      "start_line": 368
+    },
+    {
+      "anchor": "9-unusual-operating-conditions",
+      "end_line": 437,
+      "heading": "9 UNUSUAL OPERATING CONDITIONS",
+      "level": 1,
+      "start_line": 380
+    },
+    {
+      "anchor": "1-0-reactor-shutdown",
+      "end_line": 453,
+      "heading": "1.0 REACTOR SHUTDOWN",
+      "level": 1,
+      "start_line": 438
+    },
+    {
+      "anchor": "11-shutdown-operations",
+      "end_line": 495,
+      "heading": "11 SHUTDOWN OPERATIONS",
+      "level": 1,
+      "start_line": 454
+    },
+    {
+      "anchor": "12-routine-observations",
+      "end_line": 503,
+      "heading": "12 ROUTINE OBSERVATIONS",
+      "level": 2,
+      "start_line": 496
+    },
+    {
+      "anchor": "13-maintenance-and-changes",
+      "end_line": 511,
+      "heading": "13 MAINTENANCE AND CHANGES",
+      "level": 2,
+      "start_line": 504
+    },
+    {
+      "anchor": "section-5",
+      "end_line": 513,
+      "heading": "SECTION 5",
+      "level": 1,
+      "start_line": 512
+    },
+    {
+      "anchor": "reactor-startup",
+      "end_line": 531,
+      "heading": "REACTOR STARTUP",
+      "level": 1,
+      "start_line": 514
+    },
+    {
+      "anchor": "1-purging-the-fuel-system",
+      "end_line": 544,
+      "heading": "1 PURGING THE FUEL SYSTEM",
+      "level": 1,
+      "start_line": 532
+    },
+    {
+      "anchor": "hcv-545",
+      "end_line": 545,
+      "heading": "Hcv 545 ,",
+      "level": 2,
+      "start_line": 545
+    },
+    {
+      "anchor": "hcv-546",
+      "end_line": 553,
+      "heading": "Hcv 546 ,",
+      "level": 2,
+      "start_line": 546
+    },
+    {
+      "anchor": "v-519a",
+      "end_line": 597,
+      "heading": "V-519A",
+      "level": 2,
+      "start_line": 554
+    },
+    {
+      "anchor": "v-524a",
+      "end_line": 601,
+      "heading": "V-524A",
+      "level": 2,
+      "start_line": 598
+    },
+    {
+      "anchor": "v-592a-v-600a",
+      "end_line": 603,
+      "heading": "V-592A V-600A",
+      "level": 2,
+      "start_line": 602
+    },
+    {
+      "anchor": "v-596a-v-599a",
+      "end_line": 605,
+      "heading": "V-596A V-599A",
+      "level": 2,
+      "start_line": 604
+    },
+    {
+      "anchor": "v-593a-v-589a",
+      "end_line": 725,
+      "heading": "V-593A V-589A",
+      "level": 2,
+      "start_line": 606
+    },
+    {
+      "anchor": "2-purging-the-fuel-drain-tanks",
+      "end_line": 793,
+      "heading": "2 PURGING THE FUEL DRAIN TANKS",
+      "level": 1,
+      "start_line": 726
+    },
+    {
+      "anchor": "hcv-572-hcv-574-hcv-576",
+      "end_line": 809,
+      "heading": "Hcv 572 Hcv 574 Hcv 576",
+      "level": 2,
+      "start_line": 794
+    },
+    {
+      "anchor": "table-5a-1-drain-tank-purge-cycles-before-heatup",
+      "end_line": 813,
+      "heading": "Table 5A-1 Drain Tank Purge Cycles Before Heatup",
+      "level": 2,
+      "start_line": 810
+    },
+    {
+      "anchor": "table-5a-2-drain-tank-purge-cycles-during-heatup",
+      "end_line": 817,
+      "heading": "Table 5A-2 Drain Tank Purge Cycles During Heatup",
+      "level": 2,
+      "start_line": 814
+    },
+    {
+      "anchor": "3-purging-of-the-coolant-piping-and-drain-tank",
+      "end_line": 837,
+      "heading": "3 PURGING OF THE COOLANT PIPING AND DRAIN TANK",
+      "level": 1,
+      "start_line": 818
+    },
+    {
+      "anchor": "v511a-v770",
+      "end_line": 839,
+      "heading": "V511A V770",
+      "level": 2,
+      "start_line": 838
+    },
+    {
+      "anchor": "v512-v529",
+      "end_line": 843,
+      "heading": "V512 V529",
+      "level": 2,
+      "start_line": 840
+    },
+    {
+      "anchor": "v594a-v595a-v598a",
+      "end_line": 858,
+      "heading": "V594A , V595A , V598A ,",
+      "level": 2,
+      "start_line": 844
+    },
+    {
+      "anchor": "v511b-v526",
+      "end_line": 862,
+      "heading": "V511B V526",
+      "level": 2,
+      "start_line": 859
+    },
+    {
+      "anchor": "hcv-511a-fic-512-hcv-527",
+      "end_line": 864,
+      "heading": "Hcv 511A , Fic 512 , Hcv 527",
+      "level": 2,
+      "start_line": 863
+    },
+    {
+      "anchor": "hcv-511b-pcv-528-hcv-536",
+      "end_line": 866,
+      "heading": "Hcv 511B , Pcv 528 , Hcv 536",
+      "level": 2,
+      "start_line": 865
+    },
+    {
+      "anchor": "hcv-547",
+      "end_line": 903,
+      "heading": "Hcv 547",
+      "level": 2,
+      "start_line": 867
+    },
+    {
+      "anchor": "5b-startup-of-cover-gas-and-offgas-systems",
+      "end_line": 991,
+      "heading": "5B STARTUP OF COVER GAS AND OFFGAS SYSTEMS",
+      "level": 1,
+      "start_line": 904
+    },
+    {
+      "anchor": "nesa",
+      "end_line": 1005,
+      "heading": "(Nesa)",
+      "level": 2,
+      "start_line": 992
+    },
+    {
+      "anchor": "5-continued",
+      "end_line": 1048,
+      "heading": "5 (continued)",
+      "level": 1,
+      "start_line": 1006
+    },
+    {
+      "anchor": "note-v-516-v-592c-593c-596c-589c-599c-600c",
+      "end_line": 1270,
+      "heading": "Note: V-516, V-592C, 593C, 596C, 589C, 599C, 600C,",
+      "level": 2,
+      "start_line": 1049
+    },
+    {
+      "anchor": "5c-heatup-of-drain-tank-system",
+      "end_line": 1280,
+      "heading": "5C HEATUP OF DRAIN TANK SYSTEM",
+      "level": 1,
+      "start_line": 1271
+    },
+    {
+      "anchor": "1-heatup-of-fd-1-and-adjacent-lines",
+      "end_line": 1288,
+      "heading": "1 HEATUP OF FD-1 AND ADJACENT LINES",
+      "level": 1,
+      "start_line": 1281
+    },
+    {
+      "anchor": "fv-104-fv-107-fv-110",
+      "end_line": 1290,
+      "heading": "Fv-104 Fv-107 Fv-110",
+      "level": 2,
+      "start_line": 1289
+    },
+    {
+      "anchor": "fv-105-fv-108-fv-111",
+      "end_line": 1292,
+      "heading": "Fv-105 Fv-108 Fv-111",
+      "level": 2,
+      "start_line": 1291
+    },
+    {
+      "anchor": "fv-106-fv-109",
+      "end_line": 1313,
+      "heading": "Fv-106 Fv-109",
+      "level": 2,
+      "start_line": 1293
+    },
+    {
+      "anchor": "2-heatup-of-fd-2-and-adjacent-lines",
+      "end_line": 1321,
+      "heading": "2 HEATUP OF FD-2 AND ADJACENT LINES",
+      "level": 1,
+      "start_line": 1314
+    },
+    {
+      "anchor": "fv-104-fv-108",
+      "end_line": 1323,
+      "heading": "Fv-104 Fv-108",
+      "level": 2,
+      "start_line": 1322
+    },
+    {
+      "anchor": "fv-105-fv-109",
+      "end_line": 1325,
+      "heading": "Fv-105 Fv-109",
+      "level": 2,
+      "start_line": 1324
+    },
+    {
+      "anchor": "fv-106-fv-110",
+      "end_line": 1327,
+      "heading": "Fv-106 Fv-110",
+      "level": 2,
+      "start_line": 1326
+    },
+    {
+      "anchor": "fv-107-fv-111",
+      "end_line": 1332,
+      "heading": "Fv-107 Fv-111",
+      "level": 2,
+      "start_line": 1328
+    },
+    {
+      "anchor": "hcv-545-hcv-574",
+      "end_line": 1348,
+      "heading": "Hcv-545 Hcv-574",
+      "level": 2,
+      "start_line": 1333
+    },
+    {
+      "anchor": "3-heatup-of-fft-and-adjacent-lines",
+      "end_line": 1353,
+      "heading": "3. HEATUP OF FFT AND ADJACENT LINES",
+      "level": 1,
+      "start_line": 1349
+    },
+    {
+      "anchor": "fv-104-fv-108",
+      "end_line": 1354,
+      "heading": "Fv-104 Fv-108",
+      "level": 2,
+      "start_line": 1354
+    },
+    {
+      "anchor": "fv-105-fv-109",
+      "end_line": 1355,
+      "heading": "Fv-105 Fv-109",
+      "level": 2,
+      "start_line": 1355
+    },
+    {
+      "anchor": "fv-106-fv-110",
+      "end_line": 1356,
+      "heading": "Fv-106 Fv-110",
+      "level": 2,
+      "start_line": 1356
+    },
+    {
+      "anchor": "fv-1-07-fv-111",
+      "end_line": 1377,
+      "heading": "Fv-1.07 Fv-111",
+      "level": 2,
+      "start_line": 1357
+    },
+    {
+      "anchor": "4-heatup-of-cdt",
+      "end_line": 1388,
+      "heading": "4 HEATUP OF CDT",
+      "level": 1,
+      "start_line": 1378
+    },
+    {
+      "anchor": "hcv-511-hcv-547",
+      "end_line": 1411,
+      "heading": "Hcv-511 Hcv-547",
+      "level": 2,
+      "start_line": 1389
+    },
+    {
+      "anchor": "table-5c-1",
+      "end_line": 1415,
+      "heading": "Table 5C-1",
+      "level": 2,
+      "start_line": 1412
+    },
+    {
+      "anchor": "heatup-of-fd-2-line-105-to-fv-105",
+      "end_line": 1421,
+      "heading": "Heatup Of Fd-2, Line 105 To Fv-105",
+      "level": 2,
+      "start_line": 1416
+    },
+    {
+      "anchor": "table-5c-2",
+      "end_line": 1425,
+      "heading": "Table 5C-2",
+      "level": 2,
+      "start_line": 1422
+    },
+    {
+      "anchor": "table-5c-3",
+      "end_line": 1435,
+      "heading": "TABLE 5C-3",
+      "level": 1,
+      "start_line": 1426
+    },
+    {
+      "anchor": "table-5c-4",
+      "end_line": 1437,
+      "heading": "Table 5C-4",
+      "level": 2,
+      "start_line": 1436
+    },
+    {
+      "anchor": "record-the-following-thermocouples-temperatures",
+      "end_line": 1439,
+      "heading": "Record The Following Thermocouples Temperatures",
+      "level": 2,
+      "start_line": 1438
+    },
+    {
+      "anchor": "when-te-106-1-is-at-these-temperatures",
+      "end_line": 1441,
+      "heading": "When Te-106-1 Is At These Temperatures",
+      "level": 2,
+      "start_line": 1440
+    },
+    {
+      "anchor": "table-5c-5",
+      "end_line": 1442,
+      "heading": "Table 5C-5",
+      "level": 2,
+      "start_line": 1442
+    },
+    {
+      "anchor": "record-the-following-thermocouple",
+      "end_line": 1446,
+      "heading": "Record The Following Thermocouple",
+      "level": 2,
+      "start_line": 1443
+    },
+    {
+      "anchor": "temperatures-when-te-105-1-is-at-the-indicated-temperatures",
+      "end_line": 1448,
+      "heading": "Temperatures When Te-105-1 Is At The Indicated Temperatures",
+      "level": 2,
+      "start_line": 1447
+    },
+    {
+      "anchor": "table-5c-6",
+      "end_line": 1449,
+      "heading": "Table 5C-6",
+      "level": 2,
+      "start_line": 1449
+    },
+    {
+      "anchor": "record-the-following-thermocouple-temperatures",
+      "end_line": 1453,
+      "heading": "Record The Following Thermocouple Temperatures",
+      "level": 2,
+      "start_line": 1450
+    },
+    {
+      "anchor": "when-te-104-1-is-at-the-indicated-temperatures",
+      "end_line": 1457,
+      "heading": "When Te-104-1 Is At The Indicated Temperatures",
+      "level": 2,
+      "start_line": 1454
+    },
+    {
+      "anchor": "table-5c-7",
+      "end_line": 1462,
+      "heading": "Table 5C-7",
+      "level": 2,
+      "start_line": 1458
+    },
+    {
+      "anchor": "sd-addition-of-fuel-flush-and-coolant-salt-to-the-drain-tanks",
+      "end_line": 1491,
+      "heading": "SD ADDITION OF FUEL, FLUSH AND COOLANT SALT TO THE DRAIN TANKS",
+      "level": 1,
+      "start_line": 1463
+    },
+    {
+      "anchor": "fig-5d-1-salt-addition-station",
+      "end_line": 1654,
+      "heading": "Fig. 5D-1 Salt Addition Station",
+      "level": 2,
+      "start_line": 1492
+    },
+    {
+      "anchor": "5e-startup-of-lube-oil-systems",
+      "end_line": 1656,
+      "heading": "5E STARTUP OF LUBE OIL SYSTEMS",
+      "level": 1,
+      "start_line": 1655
+    },
+    {
+      "anchor": "for-the",
+      "end_line": 1658,
+      "heading": "for the",
+      "level": 1,
+      "start_line": 1657
+    },
+    {
+      "anchor": "fuel-and-coolant-circulating-pumps",
+      "end_line": 1664,
+      "heading": "FUEL AND COOLANT CIRCULATING PUMPS",
+      "level": 1,
+      "start_line": 1659
+    },
+    {
+      "anchor": "1-details-for-startup-of-lube-oil-systems",
+      "end_line": 1672,
+      "heading": "1 DETAILS FOR STARTUP OF LUBE OIL SYSTEMS",
+      "level": 2,
+      "start_line": 1665
+    },
+    {
+      "anchor": "li-524",
+      "end_line": 1674,
+      "heading": "Li-524 %,",
+      "level": 2,
+      "start_line": 1673
+    },
+    {
+      "anchor": "li-526",
+      "end_line": 1684,
+      "heading": "Li-526 %",
+      "level": 2,
+      "start_line": 1675
+    },
+    {
+      "anchor": "li-526",
+      "end_line": 1695,
+      "heading": "Li-526 %",
+      "level": 2,
+      "start_line": 1685
+    },
+    {
+      "anchor": "v-720a-v-525a",
+      "end_line": 1697,
+      "heading": "V-720A V-525A",
+      "level": 2,
+      "start_line": 1696
+    },
+    {
+      "anchor": "v-529-v-720-2a",
+      "end_line": 1699,
+      "heading": "V-529 V-720-2A",
+      "level": 2,
+      "start_line": 1698
+    },
+    {
+      "anchor": "v-720b-v-525b",
+      "end_line": 1701,
+      "heading": "V-720B V-525B",
+      "level": 2,
+      "start_line": 1700
+    },
+    {
+      "anchor": "v-770-v-720-2b",
+      "end_line": 1724,
+      "heading": "V-770 V-720-2B",
+      "level": 2,
+      "start_line": 1702
+    },
+    {
+      "anchor": "of-1",
+      "end_line": 1726,
+      "heading": "Of-1",
+      "level": 2,
+      "start_line": 1725
+    },
+    {
+      "anchor": "of-2",
+      "end_line": 1746,
+      "heading": "Of-2",
+      "level": 2,
+      "start_line": 1727
+    },
+    {
+      "anchor": "fuel-oil-system",
+      "end_line": 1776,
+      "heading": "Fuel Oil System",
+      "level": 1,
+      "start_line": 1747
+    },
+    {
+      "anchor": "coolant-oil-system",
+      "end_line": 1850,
+      "heading": "Coolant Oil System",
+      "level": 1,
+      "start_line": 1777
+    },
+    {
+      "anchor": "li-ot-1-a3",
+      "end_line": 1851,
+      "heading": "Li-Ot-1-A3 _,",
+      "level": 2,
+      "start_line": 1851
+    },
+    {
+      "anchor": "li-ot-2-a3",
+      "end_line": 1860,
+      "heading": "Li-Ot-2-A3 _.",
+      "level": 2,
+      "start_line": 1852
+    },
+    {
+      "anchor": "ria-ot-1",
+      "end_line": 1862,
+      "heading": "Ria-Ot-1",
+      "level": 2,
+      "start_line": 1861
+    },
+    {
+      "anchor": "ria-ot-2",
+      "end_line": 1866,
+      "heading": "Ria-Ot-2",
+      "level": 2,
+      "start_line": 1863
+    },
+    {
+      "anchor": "5f-heatup-of-fuel-and-coolant-systems",
+      "end_line": 1874,
+      "heading": "5F HEATUP OF FUEL AND COOLANT SYSTEMS",
+      "level": 1,
+      "start_line": 1867
+    },
+    {
+      "anchor": "1-preparation-for-heatup",
+      "end_line": 1897,
+      "heading": "1 PREPARATION FOR HEATUP",
+      "level": 1,
+      "start_line": 1875
+    },
+    {
+      "anchor": "cr-1",
+      "end_line": 1898,
+      "heading": "Cr-1",
+      "level": 2,
+      "start_line": 1898
+    },
+    {
+      "anchor": "cr-2",
+      "end_line": 1899,
+      "heading": "Cr-2",
+      "level": 2,
+      "start_line": 1899
+    },
+    {
+      "anchor": "cr-3",
+      "end_line": 1937,
+      "heading": "Cr-3",
+      "level": 2,
+      "start_line": 1900
+    },
+    {
+      "anchor": "hic-962",
+      "end_line": 1939,
+      "heading": "Hic-962",
+      "level": 2,
+      "start_line": 1938
+    },
+    {
+      "anchor": "hic-963",
+      "end_line": 1943,
+      "heading": "Hic-963",
+      "level": 2,
+      "start_line": 1940
+    },
+    {
+      "anchor": "tic-1-tic-2",
+      "end_line": 1945,
+      "heading": "Tic-1 Tic-2",
+      "level": 2,
+      "start_line": 1944
+    },
+    {
+      "anchor": "tia-1-tia-2",
+      "end_line": 1947,
+      "heading": "Tia-1 Tia-2",
+      "level": 2,
+      "start_line": 1946
+    },
+    {
+      "anchor": "tib-1-tib-2",
+      "end_line": 1949,
+      "heading": "Tib-1 Tib-2",
+      "level": 2,
+      "start_line": 1948
+    },
+    {
+      "anchor": "g5-bb-1-g5-bb-2",
+      "end_line": 1951,
+      "heading": "G5-Bb-1 G5-Bb-2",
+      "level": 2,
+      "start_line": 1950
+    },
+    {
+      "anchor": "g5-2y-1-t2-y-1",
+      "end_line": 1953,
+      "heading": "G5-2Y-1 T2-Y-1",
+      "level": 2,
+      "start_line": 1952
+    },
+    {
+      "anchor": "2-heatup",
+      "end_line": 2006,
+      "heading": "2 HEATUP",
+      "level": 2,
+      "start_line": 1954
+    },
+    {
+      "anchor": "2-6-3-continued",
+      "end_line": 2014,
+      "heading": "2.6.3 (continued)",
+      "level": 1,
+      "start_line": 2007
+    },
+    {
+      "anchor": "table-5f-1-thermocouples-and-heathers-for-reactor-cell-components",
+      "end_line": 2060,
+      "heading": "Table 5F-1 Thermocouples And Heathers For Reactor Cell Components",
+      "level": 2,
+      "start_line": 2015
+    },
+    {
+      "anchor": "table-5f-4",
+      "end_line": 2061,
+      "heading": "Table 5F-4",
+      "level": 2,
+      "start_line": 2061
+    },
+    {
+      "anchor": "thermocouples-and-heaters",
+      "end_line": 2063,
+      "heading": "Thermocouples And Heaters",
+      "level": 2,
+      "start_line": 2062
+    },
+    {
+      "anchor": "heatup-of-the-coolant-system-flow-venturi",
+      "end_line": 2076,
+      "heading": "Heatup Of The Coolant System Flow Venturi",
+      "level": 2,
+      "start_line": 2064
+    },
+    {
+      "anchor": "table-5f-5",
+      "end_line": 2077,
+      "heading": "Table 5F-5",
+      "level": 2,
+      "start_line": 2077
+    },
+    {
+      "anchor": "record-the-temperature-of-the-thermocouples-listed-below",
+      "end_line": 2078,
+      "heading": "Record The Temperature Of The Thermocouples Listed Below",
+      "level": 2,
+      "start_line": 2078
+    },
+    {
+      "anchor": "at-the",
+      "end_line": 2079,
+      "heading": "At The",
+      "level": 2,
+      "start_line": 2079
+    },
+    {
+      "anchor": "temperatures-of-the-reactor-vessel-as-indicated",
+      "end_line": 2087,
+      "heading": "Temperatures Of The Reactor Vessel As Indicated.",
+      "level": 2,
+      "start_line": 2080
+    },
+    {
+      "anchor": "table-5f-6-for-heatup-of-short-section-of-line-106",
+      "end_line": 2088,
+      "heading": "Table 5F-6 For Heatup Of Short Section Of Line 106",
+      "level": 2,
+      "start_line": 2088
+    },
+    {
+      "anchor": "table-5f-7-data-on-heatup-of-line-106",
+      "end_line": 2096,
+      "heading": "Table 5F-7 Data On Heatup Of Line 106",
+      "level": 2,
+      "start_line": 2089
+    },
+    {
+      "anchor": "5g-prepare-drain-tank-systems-for-reactor-startup",
+      "end_line": 2116,
+      "heading": "5G PREPARE DRAIN TANK SYSTEMS FOR REACTOR STARTUP",
+      "level": 1,
+      "start_line": 2097
+    },
+    {
+      "anchor": "v-608a",
+      "end_line": 2118,
+      "heading": "V-608A",
+      "level": 2,
+      "start_line": 2117
+    },
+    {
+      "anchor": "v-607a",
+      "end_line": 2120,
+      "heading": "V-607A",
+      "level": 2,
+      "start_line": 2119
+    },
+    {
+      "anchor": "v-609",
+      "end_line": 2122,
+      "heading": "V-609",
+      "level": 2,
+      "start_line": 2121
+    },
+    {
+      "anchor": "v-61ob",
+      "end_line": 2124,
+      "heading": "V-61Ob",
+      "level": 2,
+      "start_line": 2123
+    },
+    {
+      "anchor": "v-690b",
+      "end_line": 2134,
+      "heading": "V-690B",
+      "level": 2,
+      "start_line": 2125
+    },
+    {
+      "anchor": "fv-106-fv-107",
+      "end_line": 2136,
+      "heading": "Fv-106 Fv-107",
+      "level": 2,
+      "start_line": 2135
+    },
+    {
+      "anchor": "fv-108-fv-109-fv-112",
+      "end_line": 2152,
+      "heading": "Fv-108 , Fv-109 , Fv-112",
+      "level": 2,
+      "start_line": 2137
+    },
+    {
+      "anchor": "if-fuel-has-been-transferred-prior-to-startup-proceed-as",
+      "end_line": 2171,
+      "heading": "If Fuel Has Been Transferred Prior To Startup Proceed As",
+      "level": 2,
+      "start_line": 2153
+    },
+    {
+      "anchor": "if-flush-salt-has-been-transferred-prior-to-the-startup",
+      "end_line": 2173,
+      "heading": "If Flush Salt Has Been Transferred Prior To The Startup,",
+      "level": 2,
+      "start_line": 2172
+    },
+    {
+      "anchor": "use-the-alternate-procedure-given-below",
+      "end_line": 2200,
+      "heading": "Use The Alternate Procedure Given Below:",
+      "level": 2,
+      "start_line": 2174
+    },
+    {
+      "anchor": "table-5g-1",
+      "end_line": 2201,
+      "heading": "Table 5G-1",
+      "level": 2,
+      "start_line": 2201
+    },
+    {
+      "anchor": "thermocouple-readout-for-drain-lines",
+      "end_line": 2212,
+      "heading": "Thermocouple Readout For Drain Lines",
+      "level": 2,
+      "start_line": 2202
+    },
+    {
+      "anchor": "5h-routine-pressure-test",
+      "end_line": 2226,
+      "heading": "5H ROUTINE PRESSURE TEST",
+      "level": 1,
+      "start_line": 2213
+    },
+    {
+      "anchor": "main-control-room",
+      "end_line": 2234,
+      "heading": "(Main Control Room)",
+      "level": 1,
+      "start_line": 2227
+    },
+    {
+      "anchor": "water-room",
+      "end_line": 2245,
+      "heading": "(Water Room)",
+      "level": 1,
+      "start_line": 2235
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 2251,
+      "heading": "(Vent House)",
+      "level": 1,
+      "start_line": 2246
+    },
+    {
+      "anchor": "v-561-v-522v",
+      "end_line": 2253,
+      "heading": "V-561 V-522V",
+      "level": 2,
+      "start_line": 2252
+    },
+    {
+      "anchor": "v-534a-v-535a",
+      "end_line": 2255,
+      "heading": "V-534A V-535A",
+      "level": 2,
+      "start_line": 2254
+    },
+    {
+      "anchor": "v-518a",
+      "end_line": 2259,
+      "heading": "V-518A",
+      "level": 2,
+      "start_line": 2256
+    },
+    {
+      "anchor": "v-524a",
+      "end_line": 2281,
+      "heading": "V-524A",
+      "level": 2,
+      "start_line": 2260
+    },
+    {
+      "anchor": "fv-107-fv-109",
+      "end_line": 2283,
+      "heading": "Fv-107 Fv-109",
+      "level": 2,
+      "start_line": 2282
+    },
+    {
+      "anchor": "fv-108-fv-110",
+      "end_line": 2285,
+      "heading": "Fv-108 Fv-110",
+      "level": 2,
+      "start_line": 2284
+    },
+    {
+      "anchor": "fv-1-1-1",
+      "end_line": 2287,
+      "heading": "Fv-1.1.1",
+      "level": 2,
+      "start_line": 2286
+    },
+    {
+      "anchor": "fv-112",
+      "end_line": 2358,
+      "heading": "Fv-112",
+      "level": 2,
+      "start_line": 2288
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 2380,
+      "heading": "(Vent House)",
+      "level": 1,
+      "start_line": 2359
+    },
+    {
+      "anchor": "ps-1c-e",
+      "end_line": 2386,
+      "heading": "Ps-1C-E",
+      "level": 2,
+      "start_line": 2381
+    },
+    {
+      "anchor": "aiarm",
+      "end_line": 2387,
+      "heading": "Aiarm",
+      "level": 2,
+      "start_line": 2387
+    },
+    {
+      "anchor": "alarm",
+      "end_line": 2389,
+      "heading": "Alarm",
+      "level": 2,
+      "start_line": 2388
+    },
+    {
+      "anchor": "clear",
+      "end_line": 2390,
+      "heading": "Clear",
+      "level": 2,
+      "start_line": 2390
+    },
+    {
+      "anchor": "clear",
+      "end_line": 2398,
+      "heading": "Clear",
+      "level": 2,
+      "start_line": 2391
+    },
+    {
+      "anchor": "5i-filling-the-fuel-and-coolant-systems",
+      "end_line": 2410,
+      "heading": "5I FILLING THE FUEL AND COOLANT SYSTEMS",
+      "level": 1,
+      "start_line": 2399
+    },
+    {
+      "anchor": "1-filling-the-coolant-system",
+      "end_line": 2441,
+      "heading": "1 FILLING THE COOLANT SYSTEM",
+      "level": 1,
+      "start_line": 2411
+    },
+    {
+      "anchor": "v-594a",
+      "end_line": 2443,
+      "heading": "V-594A",
+      "level": 2,
+      "start_line": 2442
+    },
+    {
+      "anchor": "v-595a",
+      "end_line": 2445,
+      "heading": "V-595A",
+      "level": 2,
+      "start_line": 2444
+    },
+    {
+      "anchor": "v-598a",
+      "end_line": 2453,
+      "heading": "V-598A",
+      "level": 2,
+      "start_line": 2446
+    },
+    {
+      "anchor": "fi-594",
+      "end_line": 2455,
+      "heading": "Fi-594",
+      "level": 2,
+      "start_line": 2454
+    },
+    {
+      "anchor": "fi-595",
+      "end_line": 2457,
+      "heading": "Fi-595",
+      "level": 2,
+      "start_line": 2456
+    },
+    {
+      "anchor": "fi-598",
+      "end_line": 2493,
+      "heading": "Fi-598",
+      "level": 2,
+      "start_line": 2458
+    },
+    {
+      "anchor": "pr-511",
+      "end_line": 2495,
+      "heading": "Pr-511",
+      "level": 2,
+      "start_line": 2494
+    },
+    {
+      "anchor": "pr-528",
+      "end_line": 2497,
+      "heading": "Pr-528",
+      "level": 2,
+      "start_line": 2496
+    },
+    {
+      "anchor": "lr-595",
+      "end_line": 2499,
+      "heading": "Lr-595",
+      "level": 2,
+      "start_line": 2498
+    },
+    {
+      "anchor": "wr-cdt",
+      "end_line": 2511,
+      "heading": "Wr Cdt",
+      "level": 2,
+      "start_line": 2500
+    },
+    {
+      "anchor": "te-fv-204-1b-te-fv-206-1b",
+      "end_line": 2513,
+      "heading": "Te Fv 204-1B Te Fv 206-1B",
+      "level": 2,
+      "start_line": 2512
+    },
+    {
+      "anchor": "te-fv-204-2b-te-fv-206-2b",
+      "end_line": 2515,
+      "heading": "Te Fv 204-2B Te Fv 206-2B",
+      "level": 2,
+      "start_line": 2514
+    },
+    {
+      "anchor": "te-fv-204-3b-te-fv-206-3b",
+      "end_line": 2517,
+      "heading": "Te Fv 204-3B Te Fv 206-3B",
+      "level": 2,
+      "start_line": 2516
+    },
+    {
+      "anchor": "te-fv-204-a4-te-fv-206-a4",
+      "end_line": 2519,
+      "heading": "Te Fv 204-A4 Te Fv 206-A4",
+      "level": 2,
+      "start_line": 2518
+    },
+    {
+      "anchor": "te-fv-204-b4-te-fv-206-b4",
+      "end_line": 2525,
+      "heading": "Te Fv 204-B4 Te Fv 206-B4",
+      "level": 2,
+      "start_line": 2520
+    },
+    {
+      "anchor": "tic-907-a2",
+      "end_line": 2537,
+      "heading": "(Tic 907-A2)",
+      "level": 2,
+      "start_line": 2526
+    },
+    {
+      "anchor": "fv-204-fv-206",
+      "end_line": 2585,
+      "heading": "Fv-204 Fv-206",
+      "level": 2,
+      "start_line": 2538
+    },
+    {
+      "anchor": "lr-595",
+      "end_line": 2587,
+      "heading": "Lr-595",
+      "level": 2,
+      "start_line": 2586
+    },
+    {
+      "anchor": "wrcdt",
+      "end_line": 2595,
+      "heading": "Wrcdt",
+      "level": 2,
+      "start_line": 2588
+    },
+    {
+      "anchor": "2-fill-fuel-system-with-flush-salt",
+      "end_line": 2632,
+      "heading": "2 FILL FUEL SYSTEM WITH FLUSH SALT",
+      "level": 2,
+      "start_line": 2596
+    },
+    {
+      "anchor": "v-592a",
+      "end_line": 2634,
+      "heading": "V-592A",
+      "level": 2,
+      "start_line": 2633
+    },
+    {
+      "anchor": "v-593a",
+      "end_line": 2636,
+      "heading": "V-593A",
+      "level": 2,
+      "start_line": 2635
+    },
+    {
+      "anchor": "v-596a",
+      "end_line": 2642,
+      "heading": "V-596A",
+      "level": 2,
+      "start_line": 2637
+    },
+    {
+      "anchor": "fi-592",
+      "end_line": 2644,
+      "heading": "Fi-592",
+      "level": 2,
+      "start_line": 2643
+    },
+    {
+      "anchor": "fi-593",
+      "end_line": 2646,
+      "heading": "Fi-593",
+      "level": 2,
+      "start_line": 2645
+    },
+    {
+      "anchor": "fi-596",
+      "end_line": 2658,
+      "heading": "Fi-596",
+      "level": 2,
+      "start_line": 2647
+    },
+    {
+      "anchor": "v-589a",
+      "end_line": 2660,
+      "heading": "V-589A",
+      "level": 2,
+      "start_line": 2659
+    },
+    {
+      "anchor": "v-599a",
+      "end_line": 2662,
+      "heading": "V-599A",
+      "level": 2,
+      "start_line": 2661
+    },
+    {
+      "anchor": "v-600a",
+      "end_line": 2668,
+      "heading": "V-600A",
+      "level": 2,
+      "start_line": 2663
+    },
+    {
+      "anchor": "fi-589a",
+      "end_line": 2670,
+      "heading": "Fi-589A",
+      "level": 2,
+      "start_line": 2669
+    },
+    {
+      "anchor": "fi-599a",
+      "end_line": 2672,
+      "heading": "Fi-599A",
+      "level": 2,
+      "start_line": 2671
+    },
+    {
+      "anchor": "fi-600a",
+      "end_line": 2758,
+      "heading": "Fi-600A",
+      "level": 2,
+      "start_line": 2673
+    },
+    {
+      "anchor": "pr-576a",
+      "end_line": 2760,
+      "heading": "Pr-576A",
+      "level": 2,
+      "start_line": 2759
+    },
+    {
+      "anchor": "prc-522",
+      "end_line": 2762,
+      "heading": "Prc-522",
+      "level": 2,
+      "start_line": 2761
+    },
+    {
+      "anchor": "lr-593",
+      "end_line": 2764,
+      "heading": "Lr-593",
+      "level": 2,
+      "start_line": 2763
+    },
+    {
+      "anchor": "wr-fft",
+      "end_line": 2768,
+      "heading": "Wr-Fft",
+      "level": 2,
+      "start_line": 2765
+    },
+    {
+      "anchor": "li-599",
+      "end_line": 2770,
+      "heading": "Li-599",
+      "level": 2,
+      "start_line": 2769
+    },
+    {
+      "anchor": "li-600",
+      "end_line": 2795,
+      "heading": "Li-600",
+      "level": 2,
+      "start_line": 2771
+    },
+    {
+      "anchor": "hcv-962",
+      "end_line": 2797,
+      "heading": "Hcv-962",
+      "level": 2,
+      "start_line": 2796
+    },
+    {
+      "anchor": "hcv-961-hcv-963",
+      "end_line": 2803,
+      "heading": "Hcv-961 Hcv-963",
+      "level": 2,
+      "start_line": 2798
+    },
+    {
+      "anchor": "te-r-7a-te-r-44b",
+      "end_line": 2805,
+      "heading": "Te R-7A Te R-44B",
+      "level": 2,
+      "start_line": 2804
+    },
+    {
+      "anchor": "te-r-8a-te-r-45a",
+      "end_line": 2807,
+      "heading": "Te R-8A Te R-45A",
+      "level": 2,
+      "start_line": 2806
+    },
+    {
+      "anchor": "te-r-9-te-r-46a",
+      "end_line": 2809,
+      "heading": "Te R-9 Te R-46A",
+      "level": 2,
+      "start_line": 2808
+    },
+    {
+      "anchor": "te-r-10-te-r-47",
+      "end_line": 2811,
+      "heading": "Te R-10 Te R-47",
+      "level": 2,
+      "start_line": 2810
+    },
+    {
+      "anchor": "te-r-33-te-r-42a",
+      "end_line": 2813,
+      "heading": "Te R-33 Te R-42A",
+      "level": 2,
+      "start_line": 2812
+    },
+    {
+      "anchor": "te-r-34-te-r-43a",
+      "end_line": 2847,
+      "heading": "Te R-34 Te R-43A",
+      "level": 2,
+      "start_line": 2814
+    },
+    {
+      "anchor": "3-drain-of-flush-salt",
+      "end_line": 2854,
+      "heading": "3 DRAIN OF FLUSH SALT",
+      "level": 1,
+      "start_line": 2848
+    },
+    {
+      "anchor": "te-fv-103-1b",
+      "end_line": 2855,
+      "heading": "Te Fv 103-1B",
+      "level": 2,
+      "start_line": 2855
+    },
+    {
+      "anchor": "te-fv-103-2b",
+      "end_line": 2856,
+      "heading": "Te Fv 103-2B",
+      "level": 2,
+      "start_line": 2856
+    },
+    {
+      "anchor": "te-fv-103-3b",
+      "end_line": 2857,
+      "heading": "Te Fv 103-3B",
+      "level": 2,
+      "start_line": 2857
+    },
+    {
+      "anchor": "te-102-5c-1170-1180-f",
+      "end_line": 2858,
+      "heading": "Te 102-5C (1170 - 1180°F)",
+      "level": 2,
+      "start_line": 2858
+    },
+    {
+      "anchor": "te-r-32-1170-1180-f",
+      "end_line": 2886,
+      "heading": "Te R-32 (1170 - 1180°F)",
+      "level": 2,
+      "start_line": 2859
+    },
+    {
+      "anchor": "4-1-continued",
+      "end_line": 2913,
+      "heading": "4.1 (continued)",
+      "level": 1,
+      "start_line": 2887
+    },
+    {
+      "anchor": "zss-n-rr1-a2",
+      "end_line": 2915,
+      "heading": "Zss N Rr1-A2",
+      "level": 2,
+      "start_line": 2914
+    },
+    {
+      "anchor": "zss-ncr-2-a2",
+      "end_line": 2917,
+      "heading": "Zss Ncr 2-A2",
+      "level": 2,
+      "start_line": 2916
+    },
+    {
+      "anchor": "zss-ncr-3-a2",
+      "end_line": 2921,
+      "heading": "Zss Ncr 3-A2",
+      "level": 2,
+      "start_line": 2918
+    },
+    {
+      "anchor": "zss-rr1-a1",
+      "end_line": 2923,
+      "heading": "Zss Rr1-A1",
+      "level": 2,
+      "start_line": 2922
+    },
+    {
+      "anchor": "zss-cr2-a1",
+      "end_line": 2925,
+      "heading": "Zss Cr2-A1",
+      "level": 2,
+      "start_line": 2924
+    },
+    {
+      "anchor": "zss-cr3-a1",
+      "end_line": 3126,
+      "heading": "Zss Cr3-A1",
+      "level": 2,
+      "start_line": 2926
+    },
+    {
+      "anchor": "zss-n-rr1-a2",
+      "end_line": 3128,
+      "heading": "Zss N Rr1-A2",
+      "level": 2,
+      "start_line": 3127
+    },
+    {
+      "anchor": "zss-ncr2-a2",
+      "end_line": 3130,
+      "heading": "Zss Ncr2-A2",
+      "level": 2,
+      "start_line": 3129
+    },
+    {
+      "anchor": "zss-ncr3-a2",
+      "end_line": 3134,
+      "heading": "Zss Ncr3-A2",
+      "level": 2,
+      "start_line": 3131
+    },
+    {
+      "anchor": "zss-rr1-a1",
+      "end_line": 3136,
+      "heading": "Zss Rr1-A1",
+      "level": 2,
+      "start_line": 3135
+    },
+    {
+      "anchor": "zss-cr2-a1",
+      "end_line": 3138,
+      "heading": "Zss Cr2-A1",
+      "level": 2,
+      "start_line": 3137
+    },
+    {
+      "anchor": "zss-cr3-a1",
+      "end_line": 3339,
+      "heading": "Zss Cr3-A1",
+      "level": 2,
+      "start_line": 3139
+    },
+    {
+      "anchor": "pr-574",
+      "end_line": 3341,
+      "heading": "Pr-574",
+      "level": 2,
+      "start_line": 3340
+    },
+    {
+      "anchor": "prc-522",
+      "end_line": 3343,
+      "heading": "Prc-522",
+      "level": 2,
+      "start_line": 3342
+    },
+    {
+      "anchor": "lr-593",
+      "end_line": 3345,
+      "heading": "Lr-593",
+      "level": 2,
+      "start_line": 3344
+    },
+    {
+      "anchor": "wr-fd2",
+      "end_line": 3349,
+      "heading": "Wr-Fd2",
+      "level": 2,
+      "start_line": 3346
+    },
+    {
+      "anchor": "li-599",
+      "end_line": 3351,
+      "heading": "Li-599",
+      "level": 2,
+      "start_line": 3350
+    },
+    {
+      "anchor": "li-600",
+      "end_line": 3403,
+      "heading": "Li-600",
+      "level": 2,
+      "start_line": 3352
+    },
+    {
+      "anchor": "5i-1-recommended-stopping-points",
+      "end_line": 3405,
+      "heading": "5I-1 RECOMMENDED STOPPING POINTS",
+      "level": 1,
+      "start_line": 3404
+    },
+    {
+      "anchor": "for",
+      "end_line": 3407,
+      "heading": "FOR",
+      "level": 1,
+      "start_line": 3406
+    },
+    {
+      "anchor": "routine-fill-with-fuel-salt",
+      "end_line": 3413,
+      "heading": "ROUTINE FILL WITH FUEL SALT",
+      "level": 1,
+      "start_line": 3408
+    },
+    {
+      "anchor": "5i-2-fuel-salt-fill-data",
+      "end_line": 3420,
+      "heading": "5I-2 Fuel Salt Fill Data",
+      "level": 2,
+      "start_line": 3414
+    },
+    {
+      "anchor": "5i-3-counting-rate-data",
+      "end_line": 3427,
+      "heading": "5I-3 COUNTING RATE DATA",
+      "level": 1,
+      "start_line": 3421
+    },
+    {
+      "anchor": "5j-criticality-and-power-operation",
+      "end_line": 3433,
+      "heading": "5J CRITICALITY AND POWER OPERATION",
+      "level": 1,
+      "start_line": 3428
+    },
+    {
+      "anchor": "1-preparation-for-power-operation",
+      "end_line": 3452,
+      "heading": "1 PREPARATION FOR POWER OPERATION",
+      "level": 1,
+      "start_line": 3434
+    },
+    {
+      "anchor": "2-starting-power-operation-using-automatic-load-control",
+      "end_line": 3454,
+      "heading": "2 STARTING POWER OPERATION USING AUTOMATIC LOAD CONTROL",
+      "level": 1,
+      "start_line": 3453
+    },
+    {
+      "anchor": "and-rod-servo",
+      "end_line": 3526,
+      "heading": "AND ROD SERVO",
+      "level": 1,
+      "start_line": 3455
+    },
+    {
+      "anchor": "3-manual-and-special-power-operation",
+      "end_line": 3536,
+      "heading": "3 MANUAL AND SPECIAL POWER OPERATION",
+      "level": 1,
+      "start_line": 3527
+    },
+    {
+      "anchor": "5k-normal-operating-conditions",
+      "end_line": 3606,
+      "heading": "5K NORMAL OPERATING CONDITIONS",
+      "level": 1,
+      "start_line": 3537
+    },
+    {
+      "anchor": "6-sampling-and-additions",
+      "end_line": 3614,
+      "heading": "6 SAMPLING AND ADDITIONS",
+      "level": 1,
+      "start_line": 3607
+    },
+    {
+      "anchor": "table-6-1-sampling-schedule",
+      "end_line": 3629,
+      "heading": "Table 6-1 Sampling Schedule",
+      "level": 2,
+      "start_line": 3615
+    },
+    {
+      "anchor": "238u",
+      "end_line": 3630,
+      "heading": "238U",
+      "level": 2,
+      "start_line": 3630
+    },
+    {
+      "anchor": "235u",
+      "end_line": 3649,
+      "heading": "235U",
+      "level": 2,
+      "start_line": 3631
+    },
+    {
+      "anchor": "238u",
+      "end_line": 3650,
+      "heading": "238U",
+      "level": 2,
+      "start_line": 3650
+    },
+    {
+      "anchor": "235u",
+      "end_line": 3680,
+      "heading": "235U",
+      "level": 2,
+      "start_line": 3651
+    },
+    {
+      "anchor": "238u",
+      "end_line": 3681,
+      "heading": "238U",
+      "level": 2,
+      "start_line": 3681
+    },
+    {
+      "anchor": "235u",
+      "end_line": 3706,
+      "heading": "235U",
+      "level": 2,
+      "start_line": 3682
+    },
+    {
+      "anchor": "238u",
+      "end_line": 3707,
+      "heading": "238U",
+      "level": 2,
+      "start_line": 3707
+    },
+    {
+      "anchor": "235u",
+      "end_line": 3801,
+      "heading": "235U",
+      "level": 2,
+      "start_line": 3708
+    },
+    {
+      "anchor": "753d",
+      "end_line": 3883,
+      "heading": "753D",
+      "level": 2,
+      "start_line": 3802
+    },
+    {
+      "anchor": "control-no",
+      "end_line": 3885,
+      "heading": "Control No.",
+      "level": 2,
+      "start_line": 3884
+    },
+    {
+      "anchor": "request-for-control-analysis",
+      "end_line": 3889,
+      "heading": "REQUEST FOR CONTROL ANALYSIS",
+      "level": 1,
+      "start_line": 3886
+    },
+    {
+      "anchor": "date-submitted",
+      "end_line": 3891,
+      "heading": "Date Submitted",
+      "level": 2,
+      "start_line": 3890
+    },
+    {
+      "anchor": "name-series-number",
+      "end_line": 3897,
+      "heading": "Name Series Number",
+      "level": 2,
+      "start_line": 3892
+    },
+    {
+      "anchor": "6a-fuel-system-sampling-and-enriching",
+      "end_line": 3903,
+      "heading": "6A FUEL SYSTEM SAMPLING AND ENRICHING",
+      "level": 1,
+      "start_line": 3898
+    },
+    {
+      "anchor": "general-description-of-sampling-the-fuel-system",
+      "end_line": 3917,
+      "heading": "GENERAL DESCRIPTION OF SAMPLING THE FUEL SYSTEM",
+      "level": 1,
+      "start_line": 3904
+    },
+    {
+      "anchor": "2-general-description-of-adding-enriching-capsules-to-the-fuel-system",
+      "end_line": 3925,
+      "heading": "2 GENERAL DESCRIPTION OF ADDING ENRICHING CAPSULES TO THE FUEL SYSTEM",
+      "level": 1,
+      "start_line": 3918
+    },
+    {
+      "anchor": "6a-fuel-system-sampling-and-enriching",
+      "end_line": 3931,
+      "heading": "6A FUEL SYSTEM SAMPLING AND ENRICHING",
+      "level": 1,
+      "start_line": 3926
+    },
+    {
+      "anchor": "3-fuel-system-sampling-check-list",
+      "end_line": 3933,
+      "heading": "3 FUEL SYSTEM SAMPLING CHECK LIST",
+      "level": 1,
+      "start_line": 3932
+    },
+    {
+      "anchor": "initial",
+      "end_line": 3985,
+      "heading": "Initial",
+      "level": 1,
+      "start_line": 3934
+    },
+    {
+      "anchor": "hsv-677a",
+      "end_line": 3987,
+      "heading": "Hsv-677A",
+      "level": 2,
+      "start_line": 3986
+    },
+    {
+      "anchor": "hsv-667a",
+      "end_line": 3989,
+      "heading": "Hsv-667A",
+      "level": 2,
+      "start_line": 3988
+    },
+    {
+      "anchor": "hsv-678e",
+      "end_line": 3991,
+      "heading": "Hsv-678E",
+      "level": 2,
+      "start_line": 3990
+    },
+    {
+      "anchor": "hsv-659b",
+      "end_line": 4021,
+      "heading": "Hsv-659B",
+      "level": 2,
+      "start_line": 3992
+    },
+    {
+      "anchor": "hcv-678e",
+      "end_line": 4023,
+      "heading": "Hcv-678E",
+      "level": 2,
+      "start_line": 4022
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4025,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4024
+    },
+    {
+      "anchor": "hsv-678a",
+      "end_line": 4033,
+      "heading": "Hsv-678A",
+      "level": 2,
+      "start_line": 4026
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4035,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4034
+    },
+    {
+      "anchor": "hsv-678e",
+      "end_line": 4047,
+      "heading": "Hsv-678E",
+      "level": 2,
+      "start_line": 4036
+    },
+    {
+      "anchor": "time",
+      "end_line": 4049,
+      "heading": "Time",
+      "level": 1,
+      "start_line": 4048
+    },
+    {
+      "anchor": "initial",
+      "end_line": 4116,
+      "heading": "Initial",
+      "level": 1,
+      "start_line": 4050
+    },
+    {
+      "anchor": "time-initial",
+      "end_line": 4138,
+      "heading": "Time Initial",
+      "level": 1,
+      "start_line": 4117
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4139,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4139
+    },
+    {
+      "anchor": "hsv-678a",
+      "end_line": 4171,
+      "heading": "Hsv-678A",
+      "level": 2,
+      "start_line": 4140
+    },
+    {
+      "anchor": "time-initial",
+      "end_line": 4192,
+      "heading": "Time Initial",
+      "level": 1,
+      "start_line": 4172
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4193,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4193
+    },
+    {
+      "anchor": "hsv-678a",
+      "end_line": 4206,
+      "heading": "Hsv-678A",
+      "level": 2,
+      "start_line": 4194
+    },
+    {
+      "anchor": "time",
+      "end_line": 4208,
+      "heading": "Time",
+      "level": 1,
+      "start_line": 4207
+    },
+    {
+      "anchor": "initial",
+      "end_line": 4241,
+      "heading": "Initial",
+      "level": 1,
+      "start_line": 4209
+    },
+    {
+      "anchor": "hcv-678e",
+      "end_line": 4243,
+      "heading": "Hcv-678E",
+      "level": 2,
+      "start_line": 4242
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4245,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4244
+    },
+    {
+      "anchor": "hsv-678a",
+      "end_line": 4251,
+      "heading": "Hsv-678A",
+      "level": 2,
+      "start_line": 4246
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4253,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4252
+    },
+    {
+      "anchor": "hcv-678e",
+      "end_line": 4285,
+      "heading": "Hcv-678E",
+      "level": 2,
+      "start_line": 4254
+    },
+    {
+      "anchor": "time-initial",
+      "end_line": 4301,
+      "heading": "Time Initial",
+      "level": 1,
+      "start_line": 4286
+    },
+    {
+      "anchor": "6a-fuel-system-sampling-and-enriching",
+      "end_line": 4309,
+      "heading": "6A FUEL SYSTEM SAMPLING AND ENRICHING",
+      "level": 1,
+      "start_line": 4302
+    },
+    {
+      "anchor": "4-fuel-system-enriching-check-list",
+      "end_line": 4411,
+      "heading": "4 FUEL SYSTEM ENRICHING CHECK LIST",
+      "level": 2,
+      "start_line": 4310
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4412,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4412
+    },
+    {
+      "anchor": "hsv-678a",
+      "end_line": 4442,
+      "heading": "Hsv-678A",
+      "level": 2,
+      "start_line": 4413
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4444,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4443
+    },
+    {
+      "anchor": "hsv-678a",
+      "end_line": 4450,
+      "heading": "Hsv-678A",
+      "level": 2,
+      "start_line": 4445
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4452,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4451
+    },
+    {
+      "anchor": "hcv-678e",
+      "end_line": 4513,
+      "heading": "Hcv-678E",
+      "level": 2,
+      "start_line": 4453
+    },
+    {
+      "anchor": "hcv-678e",
+      "end_line": 4515,
+      "heading": "Hcv-678E",
+      "level": 2,
+      "start_line": 4514
+    },
+    {
+      "anchor": "hsv-678b2",
+      "end_line": 4517,
+      "heading": "Hsv-678B2",
+      "level": 2,
+      "start_line": 4516
+    },
+    {
+      "anchor": "hsv-678a",
+      "end_line": 4579,
+      "heading": "Hsv-678A",
+      "level": 2,
+      "start_line": 4518
+    },
+    {
+      "anchor": "time",
+      "end_line": 4581,
+      "heading": "Time",
+      "level": 1,
+      "start_line": 4580
+    },
+    {
+      "anchor": "initial",
+      "end_line": 4664,
+      "heading": "Initial",
+      "level": 1,
+      "start_line": 4582
+    },
+    {
+      "anchor": "6a-fuel-system-sampling-and-enriching",
+      "end_line": 4666,
+      "heading": "6A FUEL SYSTEM SAMPLING AND ENRICHING",
+      "level": 1,
+      "start_line": 4665
+    },
+    {
+      "anchor": "5-fuel-system-sampler-startup",
+      "end_line": 4670,
+      "heading": "5 FUEL SYSTEM SAMPLER STARTUP",
+      "level": 1,
+      "start_line": 4667
+    },
+    {
+      "anchor": "5-1-startup-check-list",
+      "end_line": 4698,
+      "heading": "5.1 Startup Check List",
+      "level": 1,
+      "start_line": 4671
+    },
+    {
+      "anchor": "v-664-v-644-v-683",
+      "end_line": 4700,
+      "heading": "V-664 V-644 V-683",
+      "level": 2,
+      "start_line": 4699
+    },
+    {
+      "anchor": "v-673-v-654-v-669",
+      "end_line": 4702,
+      "heading": "V-673 V-654 V-669",
+      "level": 2,
+      "start_line": 4701
+    },
+    {
+      "anchor": "v-641-v-642-v-670",
+      "end_line": 4704,
+      "heading": "V-641 V-642 V-670",
+      "level": 2,
+      "start_line": 4703
+    },
+    {
+      "anchor": "v-662-v-643-v-668",
+      "end_line": 4706,
+      "heading": "V-662 V-643 V-668",
+      "level": 2,
+      "start_line": 4705
+    },
+    {
+      "anchor": "v-676-v-665-v-655",
+      "end_line": 4708,
+      "heading": "V-676 V-665 V-655",
+      "level": 2,
+      "start_line": 4707
+    },
+    {
+      "anchor": "v-661-v-640",
+      "end_line": 4710,
+      "heading": "V-661 V-640",
+      "level": 2,
+      "start_line": 4709
+    },
+    {
+      "anchor": "v-688",
+      "end_line": 4716,
+      "heading": "V-688",
+      "level": 2,
+      "start_line": 4711
+    },
+    {
+      "anchor": "rm-678c",
+      "end_line": 4718,
+      "heading": "Rm-678C",
+      "level": 2,
+      "start_line": 4717
+    },
+    {
+      "anchor": "rm-678d",
+      "end_line": 4734,
+      "heading": "Rm-678D",
+      "level": 2,
+      "start_line": 4719
+    },
+    {
+      "anchor": "6a-fuel-system-sampling-and-enriching",
+      "end_line": 4736,
+      "heading": "6A FUEL SYSTEM SAMPLING AND ENRICHING",
+      "level": 1,
+      "start_line": 4735
+    },
+    {
+      "anchor": "6-fuel-system-sampler-shutdown",
+      "end_line": 4740,
+      "heading": "6 FUEL SYSTEM SAMPLER SHUTDOWN",
+      "level": 1,
+      "start_line": 4737
+    },
+    {
+      "anchor": "6-1-shutdown-check-list",
+      "end_line": 4772,
+      "heading": "6.1 Shutdown Check List",
+      "level": 1,
+      "start_line": 4741
+    },
+    {
+      "anchor": "6a7-unusual-operating-conditions-for-the-sampler-enricher",
+      "end_line": 4804,
+      "heading": "6A7 UNUSUAL OPERATING CONDITIONS for the SAMPLER-ENRICHER",
+      "level": 1,
+      "start_line": 4773
+    },
+    {
+      "anchor": "7-5-1-continued",
+      "end_line": 4811,
+      "heading": "7.5.1 (continued)",
+      "level": 1,
+      "start_line": 4805
+    },
+    {
+      "anchor": "6b-coolant-system-sampling",
+      "end_line": 4821,
+      "heading": "6B COOLANT SYSTEM SAMPLING",
+      "level": 1,
+      "start_line": 4812
+    },
+    {
+      "anchor": "general-description-of-sampling-the-coolant-system",
+      "end_line": 4837,
+      "heading": "GENERAL DESCRIPTION OF SAMPLING THE COOLANT SYSTEM",
+      "level": 1,
+      "start_line": 4822
+    },
+    {
+      "anchor": "6b-coolant-system-sampling",
+      "end_line": 4843,
+      "heading": "6B COOLANT SYSTEM SAMPLING",
+      "level": 1,
+      "start_line": 4838
+    },
+    {
+      "anchor": "2-coolant-system-sampling-check-list",
+      "end_line": 4858,
+      "heading": "2 COOLANT SYSTEM SAMPLING CHECK LIST",
+      "level": 2,
+      "start_line": 4844
+    },
+    {
+      "anchor": "pi-cs-a",
+      "end_line": 4860,
+      "heading": "Pi-Cs-A",
+      "level": 2,
+      "start_line": 4859
+    },
+    {
+      "anchor": "pi-c651",
+      "end_line": 4864,
+      "heading": "Pi-C651",
+      "level": 2,
+      "start_line": 4861
+    },
+    {
+      "anchor": "c-657",
+      "end_line": 4866,
+      "heading": "C-657",
+      "level": 2,
+      "start_line": 4865
+    },
+    {
+      "anchor": "c-661",
+      "end_line": 4990,
+      "heading": "C-661",
+      "level": 2,
+      "start_line": 4867
+    },
+    {
+      "anchor": "c-657",
+      "end_line": 4992,
+      "heading": "C-657",
+      "level": 2,
+      "start_line": 4991
+    },
+    {
+      "anchor": "c-661",
+      "end_line": 5017,
+      "heading": "C-661",
+      "level": 2,
+      "start_line": 4993
+    },
+    {
+      "anchor": "6b-coolant-system-sampling",
+      "end_line": 5019,
+      "heading": "6B COOLANT SYSTEM SAMPLING",
+      "level": 1,
+      "start_line": 5018
+    },
+    {
+      "anchor": "3-coolant-system-sampler-startup",
+      "end_line": 5023,
+      "heading": "3 COOLANT SYSTEM SAMPLER STARTUP",
+      "level": 1,
+      "start_line": 5020
+    },
+    {
+      "anchor": "3-1-startup-check-list",
+      "end_line": 5035,
+      "heading": "3.1 Startup Check List",
+      "level": 1,
+      "start_line": 5024
+    },
+    {
+      "anchor": "pi-cs-a",
+      "end_line": 5042,
+      "heading": "Pi-Cs-A",
+      "level": 2,
+      "start_line": 5036
+    },
+    {
+      "anchor": "c-664",
+      "end_line": 5045,
+      "heading": "C-664",
+      "level": 2,
+      "start_line": 5043
+    },
+    {
+      "anchor": "c-661",
+      "end_line": 5047,
+      "heading": "C-661",
+      "level": 2,
+      "start_line": 5046
+    },
+    {
+      "anchor": "c-652",
+      "end_line": 5048,
+      "heading": "C-652",
+      "level": 2,
+      "start_line": 5048
+    },
+    {
+      "anchor": "c-654",
+      "end_line": 5052,
+      "heading": "C-654",
+      "level": 2,
+      "start_line": 5049
+    },
+    {
+      "anchor": "c-658",
+      "end_line": 5062,
+      "heading": "C-658",
+      "level": 2,
+      "start_line": 5053
+    },
+    {
+      "anchor": "c-664",
+      "end_line": 5064,
+      "heading": "C-664",
+      "level": 2,
+      "start_line": 5063
+    },
+    {
+      "anchor": "c-662",
+      "end_line": 5078,
+      "heading": "C-662",
+      "level": 2,
+      "start_line": 5065
+    },
+    {
+      "anchor": "6b-coolant-system-sampling",
+      "end_line": 5080,
+      "heading": "6B COOLANT SYSTEM SAMPLING",
+      "level": 1,
+      "start_line": 5079
+    },
+    {
+      "anchor": "4-coolant-system-sampler-shutdown",
+      "end_line": 5084,
+      "heading": "4 COOLANT SYSTEM SAMPLER SHUTDOWN",
+      "level": 1,
+      "start_line": 5081
+    },
+    {
+      "anchor": "4-1-shutdown-check-list",
+      "end_line": 5094,
+      "heading": "4.1 Shutdown Check List",
+      "level": 1,
+      "start_line": 5085
+    },
+    {
+      "anchor": "c-653",
+      "end_line": 5095,
+      "heading": "C-653",
+      "level": 2,
+      "start_line": 5095
+    },
+    {
+      "anchor": "c-652",
+      "end_line": 5096,
+      "heading": "C-652",
+      "level": 2,
+      "start_line": 5096
+    },
+    {
+      "anchor": "c-654",
+      "end_line": 5097,
+      "heading": "C-654",
+      "level": 2,
+      "start_line": 5097
+    },
+    {
+      "anchor": "c-656",
+      "end_line": 5098,
+      "heading": "C-656",
+      "level": 2,
+      "start_line": 5098
+    },
+    {
+      "anchor": "c-655",
+      "end_line": 5099,
+      "heading": "C-655",
+      "level": 2,
+      "start_line": 5099
+    },
+    {
+      "anchor": "c-657",
+      "end_line": 5100,
+      "heading": "C-657",
+      "level": 2,
+      "start_line": 5100
+    },
+    {
+      "anchor": "c-658",
+      "end_line": 5101,
+      "heading": "C-658",
+      "level": 2,
+      "start_line": 5101
+    },
+    {
+      "anchor": "c-651",
+      "end_line": 5105,
+      "heading": "C-651",
+      "level": 2,
+      "start_line": 5102
+    },
+    {
+      "anchor": "pi-cs-a",
+      "end_line": 5111,
+      "heading": "Pi-Cs-A",
+      "level": 2,
+      "start_line": 5106
+    },
+    {
+      "anchor": "6c-water-system",
+      "end_line": 5139,
+      "heading": "6C WATER SYSTEM",
+      "level": 1,
+      "start_line": 5112
+    },
+    {
+      "anchor": "1-treatment-of-treated-water-or-nuclear-penetration",
+      "end_line": 5141,
+      "heading": "1 TREATMENT OF TREATED WATER OR NUCLEAR PENETRATION",
+      "level": 1,
+      "start_line": 5140
+    },
+    {
+      "anchor": "water",
+      "end_line": 5216,
+      "heading": "WATER",
+      "level": 1,
+      "start_line": 5142
+    },
+    {
+      "anchor": "2-treatment-of-cooling-tower-water",
+      "end_line": 5223,
+      "heading": "2 TREATMENT OF COOLING TOWER WATER",
+      "level": 1,
+      "start_line": 5217
+    },
+    {
+      "anchor": "3-condensate",
+      "end_line": 5227,
+      "heading": "3 CONDENSATE",
+      "level": 1,
+      "start_line": 5224
+    },
+    {
+      "anchor": "4-procedure-for-total-inhibitor-analysis-using",
+      "end_line": 5229,
+      "heading": "4 PROCEDURE FOR TOTAL INHIBITOR ANALYSIS USING",
+      "level": 1,
+      "start_line": 5228
+    },
+    {
+      "anchor": "cs-analysis-kit",
+      "end_line": 5237,
+      "heading": "CS ANALYSIS KIT",
+      "level": 1,
+      "start_line": 5230
+    },
+    {
+      "anchor": "5-procedure-for-chromate-analysis-using-nalco",
+      "end_line": 5239,
+      "heading": "5 PROCEDURE FOR CHROMATE ANALYSIS USING NALCO",
+      "level": 1,
+      "start_line": 5238
+    },
+    {
+      "anchor": "chromate-test-kit",
+      "end_line": 5267,
+      "heading": "CHROMATE TEST KIT",
+      "level": 1,
+      "start_line": 5240
+    },
+    {
+      "anchor": "procedure-for-hardness-analysis-using-colorimetric",
+      "end_line": 5269,
+      "heading": "PROCEDURE FOR HARDNESS ANALYSIS USING COLORIMETRIC",
+      "level": 1,
+      "start_line": 5268
+    },
+    {
+      "anchor": "hardness-kit",
+      "end_line": 5276,
+      "heading": "HARDNESS KIT",
+      "level": 1,
+      "start_line": 5270
+    },
+    {
+      "anchor": "7-ph-measurement",
+      "end_line": 5286,
+      "heading": "7 pH MEASUREMENT",
+      "level": 1,
+      "start_line": 5277
+    },
+    {
+      "anchor": "6d-cell-air",
+      "end_line": 5301,
+      "heading": "6D CELL AIR",
+      "level": 1,
+      "start_line": 5287
+    },
+    {
+      "anchor": "6e-lube-oil-system",
+      "end_line": 5303,
+      "heading": "6E LUBE OIL SYSTEM",
+      "level": 1,
+      "start_line": 5302
+    },
+    {
+      "anchor": "1-sampling-of-new-oil-as-received",
+      "end_line": 5309,
+      "heading": "1 SAMPLING OF NEW OIL AS RECEIVED",
+      "level": 1,
+      "start_line": 5304
+    },
+    {
+      "anchor": "2-sampling-at-oil-packages",
+      "end_line": 5315,
+      "heading": "2 SAMPLING AT OIL PACKAGES",
+      "level": 1,
+      "start_line": 5310
+    },
+    {
+      "anchor": "service-tunnel",
+      "end_line": 5330,
+      "heading": "(Service Tunnel)",
+      "level": 1,
+      "start_line": 5316
+    },
+    {
+      "anchor": "3-addition-of-lube-oil-to-the-oil-packages",
+      "end_line": 5349,
+      "heading": "3 ADDITION OF LUBE OIL TO THE OIL PACKAGES",
+      "level": 2,
+      "start_line": 5331
+    },
+    {
+      "anchor": "6f-sample-cover-gas",
+      "end_line": 5353,
+      "heading": "6F SAMPLE COVER GAS",
+      "level": 1,
+      "start_line": 5350
+    },
+    {
+      "anchor": "1-sample-from-line-548",
+      "end_line": 5368,
+      "heading": "1 SAMPLE FROM LINE 548",
+      "level": 1,
+      "start_line": 5354
+    },
+    {
+      "anchor": "2-sample-from-line-549",
+      "end_line": 5384,
+      "heading": "2 SAMPLE FROM LINE 549",
+      "level": 1,
+      "start_line": 5369
+    },
+    {
+      "anchor": "6g-sampling-offgas-system",
+      "end_line": 5390,
+      "heading": "6G SAMPLING OFFGAS SYSTEM",
+      "level": 1,
+      "start_line": 5385
+    },
+    {
+      "anchor": "1-to-isolate-a-sample",
+      "end_line": 5398,
+      "heading": "1 TO ISOLATE A SAMPLE",
+      "level": 1,
+      "start_line": 5391
+    },
+    {
+      "anchor": "v-518-a",
+      "end_line": 5400,
+      "heading": "V-518-A",
+      "level": 2,
+      "start_line": 5399
+    },
+    {
+      "anchor": "v-518-e-v-518-d",
+      "end_line": 5402,
+      "heading": "V-518-E V-518-D",
+      "level": 2,
+      "start_line": 5401
+    },
+    {
+      "anchor": "v-518-b-v-518-c",
+      "end_line": 5408,
+      "heading": "V-518-B\\* V-518-C\\*",
+      "level": 2,
+      "start_line": 5403
+    },
+    {
+      "anchor": "v-522-b-v-518-f-v-518-g",
+      "end_line": 5414,
+      "heading": "V-522-B , V-518-F , V-518-G",
+      "level": 2,
+      "start_line": 5409
+    },
+    {
+      "anchor": "v-518-b-v-518c",
+      "end_line": 5422,
+      "heading": "V-518-B , V-518C",
+      "level": 2,
+      "start_line": 5415
+    },
+    {
+      "anchor": "v-518-b",
+      "end_line": 5424,
+      "heading": "V-518-B",
+      "level": 2,
+      "start_line": 5423
+    },
+    {
+      "anchor": "v-518-c",
+      "end_line": 5428,
+      "heading": "V-518-C",
+      "level": 2,
+      "start_line": 5425
+    },
+    {
+      "anchor": "v-522-b",
+      "end_line": 5430,
+      "heading": "V-522-B",
+      "level": 2,
+      "start_line": 5429
+    },
+    {
+      "anchor": "2-to-remove-a-sample-from-the-system",
+      "end_line": 5446,
+      "heading": "2 TO REMOVE A SAMPLE FROM THE SYSTEM",
+      "level": 1,
+      "start_line": 5431
+    },
+    {
+      "anchor": "v-518-h",
+      "end_line": 5458,
+      "heading": "V-518-H",
+      "level": 2,
+      "start_line": 5447
+    },
+    {
+      "anchor": "v-518-a-v-518-g",
+      "end_line": 5460,
+      "heading": "V-518-A V-518-G",
+      "level": 2,
+      "start_line": 5459
+    },
+    {
+      "anchor": "v-518-e-v-518-f",
+      "end_line": 5462,
+      "heading": "V-518-E V-518-F",
+      "level": 2,
+      "start_line": 5461
+    },
+    {
+      "anchor": "v-518-d-v-518-h",
+      "end_line": 5464,
+      "heading": "V-518-D V-518-H",
+      "level": 2,
+      "start_line": 5463
+    },
+    {
+      "anchor": "v-518-b1-v-518-c1",
+      "end_line": 5466,
+      "heading": "V-518-B1 V-518-C1",
+      "level": 2,
+      "start_line": 5465
+    },
+    {
+      "anchor": "v-518-b2-v-518-c2",
+      "end_line": 5468,
+      "heading": "V-518-B2 V-518-C2",
+      "level": 2,
+      "start_line": 5467
+    },
+    {
+      "anchor": "v-518-b3-v-518-c3",
+      "end_line": 5472,
+      "heading": "V-518-B3 V-518-C3",
+      "level": 2,
+      "start_line": 5469
+    },
+    {
+      "anchor": "v-518-h",
+      "end_line": 5506,
+      "heading": "V-518-H",
+      "level": 2,
+      "start_line": 5473
+    },
+    {
+      "anchor": "v-518-b1-v-518-c1",
+      "end_line": 5508,
+      "heading": "V-518-B1 V-518-C1",
+      "level": 2,
+      "start_line": 5507
+    },
+    {
+      "anchor": "v-518-b2-v-518-c2",
+      "end_line": 5510,
+      "heading": "V-518-B2 V-518-C2",
+      "level": 2,
+      "start_line": 5509
+    },
+    {
+      "anchor": "v-518-b3-v-518-c3",
+      "end_line": 5512,
+      "heading": "V-518-B3 V-518-C3",
+      "level": 2,
+      "start_line": 5511
+    },
+    {
+      "anchor": "v-518-d-v-518-e",
+      "end_line": 5514,
+      "heading": "V-518-D V-518-E",
+      "level": 2,
+      "start_line": 5513
+    },
+    {
+      "anchor": "v-518-h-v-518-k",
+      "end_line": 5518,
+      "heading": "V-518-H V-518-K",
+      "level": 2,
+      "start_line": 5515
+    },
+    {
+      "anchor": "v-518-f",
+      "end_line": 5520,
+      "heading": "V-518-F",
+      "level": 2,
+      "start_line": 5519
+    },
+    {
+      "anchor": "v-518-g",
+      "end_line": 5544,
+      "heading": "V-518-G",
+      "level": 2,
+      "start_line": 5521
+    },
+    {
+      "anchor": "7-heat-balance",
+      "end_line": 5548,
+      "heading": "7. HEAT BALANCE",
+      "level": 1,
+      "start_line": 5545
+    },
+    {
+      "anchor": "7a-general-description",
+      "end_line": 5600,
+      "heading": "7A GENERAL DESCRIPTION",
+      "level": 1,
+      "start_line": 5549
+    },
+    {
+      "anchor": "7b-computer-heat-balance",
+      "end_line": 5602,
+      "heading": "7B Computer Heat Balance",
+      "level": 1,
+      "start_line": 5601
+    },
+    {
+      "anchor": "1-routine-calculation",
+      "end_line": 5628,
+      "heading": "1. Routine Calculation.",
+      "level": 1,
+      "start_line": 5603
+    },
+    {
+      "anchor": "2-requested-calculation",
+      "end_line": 5651,
+      "heading": "2. Requested Calculation.",
+      "level": 1,
+      "start_line": 5629
+    },
+    {
+      "anchor": "3-operator-requirements",
+      "end_line": 5665,
+      "heading": "3. Operator Requirements.",
+      "level": 1,
+      "start_line": 5652
+    },
+    {
+      "anchor": "7c-manual-heat-balance",
+      "end_line": 5671,
+      "heading": "7C MANUAL HEAT BALANCE",
+      "level": 1,
+      "start_line": 5666
+    },
+    {
+      "anchor": "electric-power",
+      "end_line": 5679,
+      "heading": "ELECTRIC POWER",
+      "level": 1,
+      "start_line": 5672
+    },
+    {
+      "anchor": "power-to-space-cooler-motors",
+      "end_line": 5683,
+      "heading": "Power To Space Cooler Motors",
+      "level": 2,
+      "start_line": 5680
+    },
+    {
+      "anchor": "dtcac",
+      "end_line": 5685,
+      "heading": "Dtcac",
+      "level": 2,
+      "start_line": 5684
+    },
+    {
+      "anchor": "rcac-1",
+      "end_line": 5687,
+      "heading": "Rcac#1",
+      "level": 2,
+      "start_line": 5686
+    },
+    {
+      "anchor": "rcac-2",
+      "end_line": 5689,
+      "heading": "Rcac#2",
+      "level": 2,
+      "start_line": 5688
+    },
+    {
+      "anchor": "power-to-pumps",
+      "end_line": 5697,
+      "heading": "Power To Pumps",
+      "level": 2,
+      "start_line": 5690
+    },
+    {
+      "anchor": "power-to-heathers",
+      "end_line": 5699,
+      "heading": "Power To Heathers",
+      "level": 2,
+      "start_line": 5698
+    },
+    {
+      "anchor": "heater-current",
+      "end_line": 5711,
+      "heading": "Heater Current",
+      "level": 1,
+      "start_line": 5700
+    },
+    {
+      "anchor": "tx-3790-6-65",
+      "end_line": 5773,
+      "heading": "Tx-3790 (6-65)",
+      "level": 2,
+      "start_line": 5712
+    },
+    {
+      "anchor": "ft-201a-1",
+      "end_line": 5779,
+      "heading": "Ft-201A-1",
+      "level": 2,
+      "start_line": 5774
+    },
+    {
+      "anchor": "ft-201a-3",
+      "end_line": 5785,
+      "heading": "Ft-201A-3",
+      "level": 2,
+      "start_line": 5780
+    },
+    {
+      "anchor": "ft-201a-2",
+      "end_line": 5791,
+      "heading": "Ft-201A-2",
+      "level": 2,
+      "start_line": 5786
+    },
+    {
+      "anchor": "ft-201a-4",
+      "end_line": 5797,
+      "heading": "Ft-201A-4",
+      "level": 2,
+      "start_line": 5792
+    },
+    {
+      "anchor": "ft-201b-1",
+      "end_line": 5803,
+      "heading": "Ft-201B-1",
+      "level": 2,
+      "start_line": 5798
+    },
+    {
+      "anchor": "ft-201b-3",
+      "end_line": 5809,
+      "heading": "Ft-201B-3",
+      "level": 2,
+      "start_line": 5804
+    },
+    {
+      "anchor": "ft-201b-2",
+      "end_line": 5815,
+      "heading": "Ft-201B-2",
+      "level": 2,
+      "start_line": 5810
+    },
+    {
+      "anchor": "ft-201b-4",
+      "end_line": 5821,
+      "heading": "Ft-201B-4",
+      "level": 2,
+      "start_line": 5816
+    },
+    {
+      "anchor": "iecp1",
+      "end_line": 5827,
+      "heading": "Iecp1",
+      "level": 2,
+      "start_line": 5822
+    },
+    {
+      "anchor": "ie-cp-2",
+      "end_line": 5833,
+      "heading": "Ie Cp 2",
+      "level": 2,
+      "start_line": 5828
+    },
+    {
+      "anchor": "fv-204-1",
+      "end_line": 5881,
+      "heading": "Fv-204-1",
+      "level": 2,
+      "start_line": 5834
+    },
+    {
+      "anchor": "fv-204-2",
+      "end_line": 5883,
+      "heading": "Fv-204-2",
+      "level": 2,
+      "start_line": 5882
+    },
+    {
+      "anchor": "fv-204-a2",
+      "end_line": 5893,
+      "heading": "Fv-204-A2",
+      "level": 2,
+      "start_line": 5884
+    },
+    {
+      "anchor": "fv-206-1",
+      "end_line": 5895,
+      "heading": "Fv-206-1",
+      "level": 2,
+      "start_line": 5894
+    },
+    {
+      "anchor": "fv-206-a2",
+      "end_line": 5905,
+      "heading": "Fv-206-A2",
+      "level": 2,
+      "start_line": 5896
+    },
+    {
+      "anchor": "fv-206-2-sp-16",
+      "end_line": 5911,
+      "heading": "Fv-206-2 (Sp-16)",
+      "level": 2,
+      "start_line": 5906
+    },
+    {
+      "anchor": "h-204-1",
+      "end_line": 5915,
+      "heading": "H-204-1",
+      "level": 2,
+      "start_line": 5912
+    },
+    {
+      "anchor": "h-206-1",
+      "end_line": 5919,
+      "heading": "H-206-1",
+      "level": 2,
+      "start_line": 5916
+    },
+    {
+      "anchor": "cp-1",
+      "end_line": 5925,
+      "heading": "Cp-1",
+      "level": 2,
+      "start_line": 5920
+    },
+    {
+      "anchor": "cp-2",
+      "end_line": 5931,
+      "heading": "Cp-2",
+      "level": 2,
+      "start_line": 5926
+    },
+    {
+      "anchor": "h-200-1",
+      "end_line": 5937,
+      "heading": "H-200-1",
+      "level": 2,
+      "start_line": 5932
+    },
+    {
+      "anchor": "h-200-11",
+      "end_line": 5943,
+      "heading": "H-200-11",
+      "level": 2,
+      "start_line": 5938
+    },
+    {
+      "anchor": "h-200-12",
+      "end_line": 5949,
+      "heading": "H-200-12",
+      "level": 2,
+      "start_line": 5944
+    },
+    {
+      "anchor": "h-201-1",
+      "end_line": 5955,
+      "heading": "H-201-1",
+      "level": 2,
+      "start_line": 5950
+    },
+    {
+      "anchor": "h-201-2",
+      "end_line": 5961,
+      "heading": "H-201-2",
+      "level": 2,
+      "start_line": 5956
+    },
+    {
+      "anchor": "h-201-9",
+      "end_line": 5967,
+      "heading": "H-201-9",
+      "level": 2,
+      "start_line": 5962
+    },
+    {
+      "anchor": "h-100-1",
+      "end_line": 5997,
+      "heading": "H-100-1",
+      "level": 2,
+      "start_line": 5968
+    },
+    {
+      "anchor": "h-100-2",
+      "end_line": 6003,
+      "heading": "H-100-2",
+      "level": 2,
+      "start_line": 5998
+    },
+    {
+      "anchor": "h-101-2",
+      "end_line": 6009,
+      "heading": "H-101-2",
+      "level": 2,
+      "start_line": 6004
+    },
+    {
+      "anchor": "h-101-3",
+      "end_line": 6087,
+      "heading": "H-101-3",
+      "level": 2,
+      "start_line": 6010
+    },
+    {
+      "anchor": "ran-1",
+      "end_line": 6093,
+      "heading": "Ran-1",
+      "level": 2,
+      "start_line": 6088
+    },
+    {
+      "anchor": "ran-2",
+      "end_line": 6099,
+      "heading": "Ran-2",
+      "level": 2,
+      "start_line": 6094
+    },
+    {
+      "anchor": "h-102-3",
+      "end_line": 6105,
+      "heading": "H-102-3",
+      "level": 2,
+      "start_line": 6100
+    },
+    {
+      "anchor": "h-102-1",
+      "end_line": 6111,
+      "heading": "H-102-1",
+      "level": 2,
+      "start_line": 6106
+    },
+    {
+      "anchor": "h-102-4",
+      "end_line": 6117,
+      "heading": "H-102-4",
+      "level": 2,
+      "start_line": 6112
+    },
+    {
+      "anchor": "h-102-5",
+      "end_line": 6123,
+      "heading": "H-102-5",
+      "level": 2,
+      "start_line": 6118
+    },
+    {
+      "anchor": "h-103",
+      "end_line": 6129,
+      "heading": "H-103",
+      "level": 2,
+      "start_line": 6124
+    },
+    {
+      "anchor": "fv-103",
+      "end_line": 6135,
+      "heading": "Fv-103",
+      "level": 2,
+      "start_line": 6130
+    },
+    {
+      "anchor": "h-104-1",
+      "end_line": 6193,
+      "heading": "H-104-1",
+      "level": 2,
+      "start_line": 6136
+    },
+    {
+      "anchor": "fv-104-3",
+      "end_line": 6225,
+      "heading": "Fv-104-3",
+      "level": 2,
+      "start_line": 6194
+    },
+    {
+      "anchor": "fv-107-1",
+      "end_line": 6231,
+      "heading": "Fv-107-1",
+      "level": 2,
+      "start_line": 6226
+    },
+    {
+      "anchor": "fv-107-3",
+      "end_line": 6237,
+      "heading": "Fv-107-3",
+      "level": 2,
+      "start_line": 6232
+    },
+    {
+      "anchor": "h-108-1",
+      "end_line": 6243,
+      "heading": "H-108-1",
+      "level": 2,
+      "start_line": 6238
+    },
+    {
+      "anchor": "h-108-2",
+      "end_line": 6249,
+      "heading": "H-108-2",
+      "level": 2,
+      "start_line": 6244
+    },
+    {
+      "anchor": "h-108-3",
+      "end_line": 6255,
+      "heading": "H-108-3",
+      "level": 2,
+      "start_line": 6250
+    },
+    {
+      "anchor": "fv-108-1",
+      "end_line": 6261,
+      "heading": "Fv-108-1",
+      "level": 2,
+      "start_line": 6256
+    },
+    {
+      "anchor": "fv-108-3",
+      "end_line": 6267,
+      "heading": "Fv-108-3",
+      "level": 2,
+      "start_line": 6262
+    },
+    {
+      "anchor": "h-109-1",
+      "end_line": 6273,
+      "heading": "H-109-1",
+      "level": 2,
+      "start_line": 6268
+    },
+    {
+      "anchor": "h-109-2",
+      "end_line": 6279,
+      "heading": "H-109-2",
+      "level": 2,
+      "start_line": 6274
+    },
+    {
+      "anchor": "h-109-3",
+      "end_line": 6285,
+      "heading": "H-109-3",
+      "level": 2,
+      "start_line": 6280
+    },
+    {
+      "anchor": "fv-109-1",
+      "end_line": 6295,
+      "heading": "Fv-109-1",
+      "level": 2,
+      "start_line": 6286
+    },
+    {
+      "anchor": "fv-109-3",
+      "end_line": 6301,
+      "heading": "Fv-109-3",
+      "level": 2,
+      "start_line": 6296
+    },
+    {
+      "anchor": "h-110-1",
+      "end_line": 6311,
+      "heading": "H-110-1",
+      "level": 2,
+      "start_line": 6302
+    },
+    {
+      "anchor": "thermocouples",
+      "end_line": 6318,
+      "heading": "Thermocouples",
+      "level": 2,
+      "start_line": 6312
+    },
+    {
+      "anchor": "flows",
+      "end_line": 6322,
+      "heading": "Flows",
+      "level": 2,
+      "start_line": 6319
+    },
+    {
+      "anchor": "8-periodic-instrument-calibration",
+      "end_line": 6326,
+      "heading": "8 PERIODIC INSTRUMENT CALIBRATION",
+      "level": 1,
+      "start_line": 6323
+    },
+    {
+      "anchor": "circuit-checks",
+      "end_line": 6332,
+      "heading": "Circuit Checks",
+      "level": 2,
+      "start_line": 6327
+    },
+    {
+      "anchor": "table-8-1-periodic-on-line-checking-of-instrumentation",
+      "end_line": 6338,
+      "heading": "Table 8-1 Periodic On-Line Checking Of Instrumentation",
+      "level": 2,
+      "start_line": 6333
+    },
+    {
+      "anchor": "table-8-1",
+      "end_line": 6342,
+      "heading": "Table 8-1",
+      "level": 2,
+      "start_line": 6339
+    },
+    {
+      "anchor": "8a-neutron-level",
+      "end_line": 6350,
+      "heading": "8A NEUTRON LEVEL",
+      "level": 1,
+      "start_line": 6343
+    },
+    {
+      "anchor": "1-wide-range-counting-channels",
+      "end_line": 6354,
+      "heading": "1 WIDE RANGE COUNTING CHANNELS",
+      "level": 1,
+      "start_line": 6351
+    },
+    {
+      "anchor": "1-1-reference-voltages-channel-1",
+      "end_line": 6366,
+      "heading": "1.1 Reference Voltages Channel 1",
+      "level": 1,
+      "start_line": 6355
+    },
+    {
+      "anchor": "1-1-2-continued",
+      "end_line": 6370,
+      "heading": "1.1.2 (continued)",
+      "level": 1,
+      "start_line": 6367
+    },
+    {
+      "anchor": "1-1-3drawer-w-3-rx-ncc1-a6-reference-drawing-rc13-13-58a",
+      "end_line": 6381,
+      "heading": "1.1.3Drawer W-3 (RX-NCC1-A6) (Reference drawing RC13-13-58A)",
+      "level": 1,
+      "start_line": 6371
+    },
+    {
+      "anchor": "1-2-operational-amplifier-balance-channel-1-balance-each-operational-amplifier-by",
+      "end_line": 6385,
+      "heading": "1.2 Operational Amplifier Balance Channel 1 Balance each operational amplifier by",
+      "level": 1,
+      "start_line": 6382
+    },
+    {
+      "anchor": "1-2-continued",
+      "end_line": 6389,
+      "heading": "1.2 (continued)",
+      "level": 1,
+      "start_line": 6386
+    },
+    {
+      "anchor": "1-3-log-count-rate-and-log-power-calibration",
+      "end_line": 6391,
+      "heading": "1.3 Log Count Rate and Log Power Calibration",
+      "level": 1,
+      "start_line": 6390
+    },
+    {
+      "anchor": "channel-1",
+      "end_line": 6401,
+      "heading": "Channel 1",
+      "level": 1,
+      "start_line": 6392
+    },
+    {
+      "anchor": "1-3-5-continued",
+      "end_line": 6409,
+      "heading": "1.3.5 (continued)",
+      "level": 1,
+      "start_line": 6402
+    },
+    {
+      "anchor": "1-4-fast-trip-comparator-setpoints",
+      "end_line": 6415,
+      "heading": "1.4 Fast-Trip Comparator SetPoints",
+      "level": 1,
+      "start_line": 6410
+    },
+    {
+      "anchor": "1-4-1-log-count-rate-ftc-s",
+      "end_line": 6421,
+      "heading": "1.4.1 Log Count Rate FTC's",
+      "level": 1,
+      "start_line": 6416
+    },
+    {
+      "anchor": "1-4-1-continued",
+      "end_line": 6427,
+      "heading": "1.4.1 (continued)",
+      "level": 1,
+      "start_line": 6422
+    },
+    {
+      "anchor": "1-4-2-log-power-ftc-s",
+      "end_line": 6433,
+      "heading": "1.4.2 Log Power FTC's",
+      "level": 1,
+      "start_line": 6428
+    },
+    {
+      "anchor": "trip-voltmeter-indication-pot-setting",
+      "end_line": 6441,
+      "heading": "Trip Voltmeter Indication Pot. Setting",
+      "level": 1,
+      "start_line": 6434
+    },
+    {
+      "anchor": "1-4-3-period-ftc-s",
+      "end_line": 6449,
+      "heading": "1.4.3 Period FTC's",
+      "level": 1,
+      "start_line": 6442
+    },
+    {
+      "anchor": "1-4-3-continued",
+      "end_line": 6453,
+      "heading": "1.4.3 (continued)",
+      "level": 1,
+      "start_line": 6450
+    },
+    {
+      "anchor": "trip",
+      "end_line": 6455,
+      "heading": "Trip",
+      "level": 1,
+      "start_line": 6454
+    },
+    {
+      "anchor": "voltmeter-indication",
+      "end_line": 6463,
+      "heading": "Voltmeter Indication",
+      "level": 1,
+      "start_line": 6456
+    },
+    {
+      "anchor": "1-5-reference-voltages-channel-2",
+      "end_line": 6509,
+      "heading": "1.5 Reference Voltages Channel 2",
+      "level": 1,
+      "start_line": 6464
+    },
+    {
+      "anchor": "1-6-operational-amplifier-balance-channel-2",
+      "end_line": 6523,
+      "heading": "1.6 Operational Amplifier Balance Channel 2",
+      "level": 1,
+      "start_line": 6510
+    },
+    {
+      "anchor": "channel-2",
+      "end_line": 6541,
+      "heading": "Channel 2",
+      "level": 1,
+      "start_line": 6524
+    },
+    {
+      "anchor": "1-8-continued",
+      "end_line": 6547,
+      "heading": "1.8 (continued)",
+      "level": 1,
+      "start_line": 6542
+    },
+    {
+      "anchor": "1-8-1-log-count-rate-ftc-s",
+      "end_line": 6557,
+      "heading": "1.8.1 Log Count Rate FTC's",
+      "level": 1,
+      "start_line": 6548
+    },
+    {
+      "anchor": "1-8-2-log-power-ftc-s",
+      "end_line": 6571,
+      "heading": "1.8.2 Log Power FTC's",
+      "level": 1,
+      "start_line": 6558
+    },
+    {
+      "anchor": "1-8-3-period-ftc-s",
+      "end_line": 6579,
+      "heading": "1.8.3 Period FTC's",
+      "level": 1,
+      "start_line": 6572
+    },
+    {
+      "anchor": "1-8-3-continued",
+      "end_line": 6581,
+      "heading": "1.8.3 (continued)",
+      "level": 1,
+      "start_line": 6580
+    },
+    {
+      "anchor": "trip",
+      "end_line": 6589,
+      "heading": "Trip",
+      "level": 1,
+      "start_line": 6582
+    },
+    {
+      "anchor": "voltmeter-indication",
+      "end_line": 6597,
+      "heading": "Voltmeter Indication",
+      "level": 1,
+      "start_line": 6590
+    },
+    {
+      "anchor": "2-nuclear-safety-channels",
+      "end_line": 6601,
+      "heading": "2 NUCLEAR SAFETY CHANNELS",
+      "level": 1,
+      "start_line": 6598
+    },
+    {
+      "anchor": "2-2-reference-voltages-channel-1",
+      "end_line": 6611,
+      "heading": "2.2 Reference Voltages: Channel 1",
+      "level": 1,
+      "start_line": 6602
+    },
+    {
+      "anchor": "2-2-2drawer-s-2-rx-nsv1-a6-reference-drawing-rc13-9-57a",
+      "end_line": 6617,
+      "heading": "2.2.2Drawer S-2 (RX-NSV1-A6) (Reference drawing RC13-9-57A)",
+      "level": 1,
+      "start_line": 6612
+    },
+    {
+      "anchor": "2-2-3-chamber-high-voltage-supply",
+      "end_line": 6621,
+      "heading": "2.2.3 Chamber High Voltage Supply",
+      "level": 1,
+      "start_line": 6618
+    },
+    {
+      "anchor": "2-3-instrument-balance-channel-1",
+      "end_line": 6625,
+      "heading": "2.3 Instrument Balance Channel 1",
+      "level": 1,
+      "start_line": 6622
+    },
+    {
+      "anchor": "2-3-1-flux-amplifier-balance",
+      "end_line": 6629,
+      "heading": "2.3.1 Flux Amplifier Balance",
+      "level": 1,
+      "start_line": 6626
+    },
+    {
+      "anchor": "2-3-1-continued",
+      "end_line": 6635,
+      "heading": "2.3.1 (continued)",
+      "level": 1,
+      "start_line": 6630
+    },
+    {
+      "anchor": "2-3-2-period-safety-balance",
+      "end_line": 6653,
+      "heading": "2.3.2 Period Safety Balance",
+      "level": 1,
+      "start_line": 6636
+    },
+    {
+      "anchor": "2-4-continued",
+      "end_line": 6661,
+      "heading": "2.4 (continued)",
+      "level": 1,
+      "start_line": 6654
+    },
+    {
+      "anchor": "2-5-period-calibration-test-channel-1",
+      "end_line": 6687,
+      "heading": "2.5 Period Calibration Test Channel 1",
+      "level": 1,
+      "start_line": 6662
+    },
+    {
+      "anchor": "2-8-1-continued",
+      "end_line": 6735,
+      "heading": "2.8.1 (continued)",
+      "level": 1,
+      "start_line": 6688
+    },
+    {
+      "anchor": "2-9-instrument-balance-channel-2",
+      "end_line": 6739,
+      "heading": "2.9 Instrument Balance Channel 2",
+      "level": 1,
+      "start_line": 6736
+    },
+    {
+      "anchor": "2-9-1-flux-amplifier-balance",
+      "end_line": 6743,
+      "heading": "2.9.1 Flux Amplifier Balance",
+      "level": 1,
+      "start_line": 6740
+    },
+    {
+      "anchor": "2-9-2-period-safety-balance",
+      "end_line": 6788,
+      "heading": "2.9.2 Period Safety Balance",
+      "level": 1,
+      "start_line": 6744
+    },
+    {
+      "anchor": "2-11-period-calibration-test-channel-2",
+      "end_line": 6798,
+      "heading": "2.11 Period Calibration Test Channel 2",
+      "level": 1,
+      "start_line": 6789
+    },
+    {
+      "anchor": "2-12-period-fast-trip-comparator-channel-12",
+      "end_line": 6808,
+      "heading": "2.12 \"Period\" Fast-Trip Comparator Channel 12",
+      "level": 1,
+      "start_line": 6799
+    },
+    {
+      "anchor": "2-14-reference-voltages-channel-3",
+      "end_line": 6814,
+      "heading": "2.14 Reference Voltages: Channel 3",
+      "level": 1,
+      "start_line": 6809
+    },
+    {
+      "anchor": "test-block-a-voltage-return-rdg-adj-rdg",
+      "end_line": 6836,
+      "heading": "Test Block A Voltage Return Rdg. Adj. Rdg.",
+      "level": 1,
+      "start_line": 6815
+    },
+    {
+      "anchor": "test-block-voltage-return-rdng",
+      "end_line": 6856,
+      "heading": "Test Block Voltage Return Rdng.",
+      "level": 1,
+      "start_line": 6837
+    },
+    {
+      "anchor": "2-14-3-chamber-high-voltage-supply",
+      "end_line": 6860,
+      "heading": "2.14.3 Chamber High Voltage Supply",
+      "level": 1,
+      "start_line": 6857
+    },
+    {
+      "anchor": "2-15-instrument-balance-channel-3",
+      "end_line": 6864,
+      "heading": "2.15 Instrument Balance Channel 3",
+      "level": 1,
+      "start_line": 6861
+    },
+    {
+      "anchor": "2-15-1-flux-amplifier-balance",
+      "end_line": 6868,
+      "heading": "2.15.1 Flux Amplifier Balance",
+      "level": 1,
+      "start_line": 6865
+    },
+    {
+      "anchor": "2-15-2-period-safety-balance",
+      "end_line": 6891,
+      "heading": "2.15.2 Period Safety Balance",
+      "level": 1,
+      "start_line": 6869
+    },
+    {
+      "anchor": "2-16-continued",
+      "end_line": 6957,
+      "heading": "2.16 (continued)",
+      "level": 1,
+      "start_line": 6892
+    },
+    {
+      "anchor": "3-linear-power-channels",
+      "end_line": 7015,
+      "heading": "3 LINEAR POWER CHANNELS",
+      "level": 1,
+      "start_line": 6958
+    },
+    {
+      "anchor": "3-1-3-chamber-high-voltage-supply",
+      "end_line": 7029,
+      "heading": "3.1.3 Chamber High Voltage Supply",
+      "level": 1,
+      "start_line": 7016
+    },
+    {
+      "anchor": "3-2-operational-amplifier-balance",
+      "end_line": 7035,
+      "heading": "3.2 Operational Amplifier Balance",
+      "level": 1,
+      "start_line": 7030
+    },
+    {
+      "anchor": "rm-narc-al",
+      "end_line": 7037,
+      "heading": "Rm-Narc-Al",
+      "level": 2,
+      "start_line": 7036
+    },
+    {
+      "anchor": "rm-narc-a2",
+      "end_line": 7039,
+      "heading": "Rm-Narc-A2",
+      "level": 2,
+      "start_line": 7038
+    },
+    {
+      "anchor": "rm-narc-a3",
+      "end_line": 7041,
+      "heading": "Rm-Narc-A3",
+      "level": 2,
+      "start_line": 7040
+    },
+    {
+      "anchor": "rm-narc-a",
+      "end_line": 7043,
+      "heading": "Rm-Narc-A",
+      "level": 2,
+      "start_line": 7042
+    },
+    {
+      "anchor": "8b-calibration-check",
+      "end_line": 7047,
+      "heading": "8B CALIBRATION CHECK",
+      "level": 1,
+      "start_line": 7044
+    },
+    {
+      "anchor": "process-radiation-monitors",
+      "end_line": 7049,
+      "heading": "PROCESS RADIATION MONITORS",
+      "level": 1,
+      "start_line": 7048
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 7059,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 7050
+    },
+    {
+      "anchor": "1-preparation",
+      "end_line": 7068,
+      "heading": "1 PREPARATION",
+      "level": 1,
+      "start_line": 7060
+    },
+    {
+      "anchor": "2-radiation-monitor-557-off-gas-from-charcoal-beds",
+      "end_line": 7070,
+      "heading": "2 RADIATION MONITOR 557 (OFF GAS FROM CHARCOAL BEDS)",
+      "level": 1,
+      "start_line": 7069
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 7086,
+      "heading": "VENT HOUSE",
+      "level": 1,
+      "start_line": 7071
+    },
+    {
+      "anchor": "3-radiation-monitor-528-coolant-system-off-gas",
+      "end_line": 7088,
+      "heading": "3 RADIATION MONITOR 528 (COOLANT SYSTEM OFF GAS)",
+      "level": 1,
+      "start_line": 7087
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 7108,
+      "heading": "VENT HOUSE",
+      "level": 1,
+      "start_line": 7089
+    },
+    {
+      "anchor": "4-radiation-monitor-565-cell-off-gas",
+      "end_line": 7110,
+      "heading": "4 RADIATION MONITOR 565 (CELL OFF GAS)",
+      "level": 2,
+      "start_line": 7109
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 7128,
+      "heading": "Vent House",
+      "level": 2,
+      "start_line": 7111
+    },
+    {
+      "anchor": "5-radiation-monitor-500-main-helium-supply",
+      "end_line": 7130,
+      "heading": "5 RADIATION MONITOR 500 (MAIN HELIUM SUPPLY)",
+      "level": 1,
+      "start_line": 7129
+    },
+    {
+      "anchor": "water-room",
+      "end_line": 7144,
+      "heading": "WATER ROOM",
+      "level": 1,
+      "start_line": 7131
+    },
+    {
+      "anchor": "6-process-monitor-596-outside-transmitter-room",
+      "end_line": 7148,
+      "heading": "6 PROCESS MONITOR 596 (OUTSIDE TRANSMITTER ROOM)",
+      "level": 1,
+      "start_line": 7145
+    },
+    {
+      "anchor": "init-date-time",
+      "end_line": 7160,
+      "heading": "Init. Date/Time",
+      "level": 1,
+      "start_line": 7149
+    },
+    {
+      "anchor": "7-process-monitor-827-treated-water",
+      "end_line": 7162,
+      "heading": "7 PROCESS MONITOR 827 (TREATED WATER)",
+      "level": 1,
+      "start_line": 7161
+    },
+    {
+      "anchor": "water-room",
+      "end_line": 7178,
+      "heading": "WATER ROOM",
+      "level": 1,
+      "start_line": 7163
+    },
+    {
+      "anchor": "8-oil-system-process-monitors-service-tunnel",
+      "end_line": 7191,
+      "heading": "8 OIL SYSTEM PROCESS MONITORS (SERVICE TUNNEL)",
+      "level": 1,
+      "start_line": 7179
+    },
+    {
+      "anchor": "8c-calibration-of-personnel-monitors-and-stack-monitors",
+      "end_line": 7195,
+      "heading": "8C CALIBRATION OF PERSONNEL MONITORS AND STACK MONITORS",
+      "level": 1,
+      "start_line": 7192
+    },
+    {
+      "anchor": "1-routine-source-check",
+      "end_line": 7203,
+      "heading": "1 ROUTINE SOURCE CHECK",
+      "level": 1,
+      "start_line": 7196
+    },
+    {
+      "anchor": "2-alarm-matrix-check",
+      "end_line": 7219,
+      "heading": "2 ALARM MATRIX CHECK",
+      "level": 2,
+      "start_line": 7204
+    },
+    {
+      "anchor": "3-evacuation-alarm-test",
+      "end_line": 7230,
+      "heading": "3. EVACUATION ALARM TEST",
+      "level": 1,
+      "start_line": 7220
+    },
+    {
+      "anchor": "4-containment-stack-monitor-tests",
+      "end_line": 7235,
+      "heading": "4 CONTAINMENT STACK MONITOR TESTS",
+      "level": 1,
+      "start_line": 7231
+    },
+    {
+      "anchor": "table-8c1-1",
+      "end_line": 7236,
+      "heading": "Table 8C1-1",
+      "level": 2,
+      "start_line": 7236
+    },
+    {
+      "anchor": "source-check-of-fixed-radiation-monitor",
+      "end_line": 7240,
+      "heading": "Source Check Of Fixed Radiation Monitor",
+      "level": 2,
+      "start_line": 7237
+    },
+    {
+      "anchor": "table-8c2-1",
+      "end_line": 7241,
+      "heading": "Table 8C2-1",
+      "level": 2,
+      "start_line": 7241
+    },
+    {
+      "anchor": "monitron-alarm-matrix-check",
+      "end_line": 7245,
+      "heading": "Monitron Alarm Matrix Check",
+      "level": 2,
+      "start_line": 7242
+    },
+    {
+      "anchor": "table-8c2-2",
+      "end_line": 7246,
+      "heading": "Table 8C2-2",
+      "level": 2,
+      "start_line": 7246
+    },
+    {
+      "anchor": "cam-alarm-matrix-check",
+      "end_line": 7250,
+      "heading": "Cam Alarm Matrix Check",
+      "level": 2,
+      "start_line": 7247
+    },
+    {
+      "anchor": "table-8c4-1",
+      "end_line": 7251,
+      "heading": "Table 8C4-1",
+      "level": 2,
+      "start_line": 7251
+    },
+    {
+      "anchor": "stack-radiation-monitor-checks",
+      "end_line": 7255,
+      "heading": "Stack Radiation Monitor Checks",
+      "level": 2,
+      "start_line": 7252
+    },
+    {
+      "anchor": "8d-safety-circuit-checks",
+      "end_line": 7261,
+      "heading": "8D SAFETY CIRCUIT CHECKS",
+      "level": 1,
+      "start_line": 7256
+    },
+    {
+      "anchor": "1-fuel-pump-and-overflow-tank-pressure",
+      "end_line": 7265,
+      "heading": "1 FUEL PUMP AND OVERFLOW TANK PRESSURE",
+      "level": 1,
+      "start_line": 7262
+    },
+    {
+      "anchor": "prc-522-a-mb-8",
+      "end_line": 7269,
+      "heading": "Prc-522-A (Mb-8)",
+      "level": 2,
+      "start_line": 7266
+    },
+    {
+      "anchor": "pi-589-a1-ab-8",
+      "end_line": 7271,
+      "heading": "Pi-589-A1 (Ab-8)",
+      "level": 2,
+      "start_line": 7270
+    },
+    {
+      "anchor": "pi-589-a2-tb-5",
+      "end_line": 7273,
+      "heading": "Pi-589-A2 (Tb-5)",
+      "level": 2,
+      "start_line": 7272
+    },
+    {
+      "anchor": "pi-592-b-ab-8",
+      "end_line": 7289,
+      "heading": "Pi-592-B (Ab-8)",
+      "level": 2,
+      "start_line": 7274
+    },
+    {
+      "anchor": "prc-522-a",
+      "end_line": 7291,
+      "heading": "Prc-522-A",
+      "level": 2,
+      "start_line": 7290
+    },
+    {
+      "anchor": "pi-522-a",
+      "end_line": 7295,
+      "heading": "Pi-522-A",
+      "level": 2,
+      "start_line": 7292
+    },
+    {
+      "anchor": "pi-589-a1",
+      "end_line": 7297,
+      "heading": "Pi-589-A1",
+      "level": 2,
+      "start_line": 7296
+    },
+    {
+      "anchor": "pi-589-a2",
+      "end_line": 7299,
+      "heading": "Pi-589-A2",
+      "level": 2,
+      "start_line": 7298
+    },
+    {
+      "anchor": "pi-592-b",
+      "end_line": 7304,
+      "heading": "Pi-592-B",
+      "level": 2,
+      "start_line": 7300
+    },
+    {
+      "anchor": "2-heltum-supply-pressure",
+      "end_line": 7313,
+      "heading": "2 HELTUM SUPPLY PRESSURE",
+      "level": 1,
+      "start_line": 7305
+    },
+    {
+      "anchor": "3-fp-and-oft-bubblers",
+      "end_line": 7342,
+      "heading": "3 FP AND OFT BUBBLERS",
+      "level": 1,
+      "start_line": 7314
+    },
+    {
+      "anchor": "4-rod-scram-circuits",
+      "end_line": 7389,
+      "heading": "4 ROD SCRAM CIRCUITS",
+      "level": 2,
+      "start_line": 7343
+    },
+    {
+      "anchor": "5-emergency-fuel-drain",
+      "end_line": 7420,
+      "heading": "5 EMERGENCY FUEL DRAIN",
+      "level": 1,
+      "start_line": 7390
+    },
+    {
+      "anchor": "6-high-low-reactor-cell-pressure",
+      "end_line": 7481,
+      "heading": "6 HIGH/LOW REACTOR CELL PRESSURE",
+      "level": 2,
+      "start_line": 7421
+    },
+    {
+      "anchor": "7-coolant-pump-speed-and-coolant-salt-flow",
+      "end_line": 7496,
+      "heading": "7 COOLANT PUMP SPEED AND COOLANT SALT FLOW",
+      "level": 2,
+      "start_line": 7482
+    },
+    {
+      "anchor": "instrument-relay-si-cp-g1-k9-si-cp-g2-kio",
+      "end_line": 7499,
+      "heading": "Instrument Relay Si-Cp-G1 K9 Si-Cp-G2 Kio",
+      "level": 2,
+      "start_line": 7497
+    },
+    {
+      "anchor": "8-sampler-enricher",
+      "end_line": 7616,
+      "heading": "8 SAMPLER-ENRICHER",
+      "level": 2,
+      "start_line": 7500
+    },
+    {
+      "anchor": "exercise-control-rods",
+      "end_line": 7642,
+      "heading": "EXERCISE CONTROL RODS",
+      "level": 1,
+      "start_line": 7617
+    },
+    {
+      "anchor": "9-unusual-operating-conditions",
+      "end_line": 7650,
+      "heading": "9 UNUSUAL OPERATING CONDITIONS",
+      "level": 1,
+      "start_line": 7643
+    },
+    {
+      "anchor": "9a-loss-of-electrical-power",
+      "end_line": 7654,
+      "heading": "9A LOSS OF ELECTRICAL POWER",
+      "level": 1,
+      "start_line": 7651
+    },
+    {
+      "anchor": "1-loss-of-preferred-tva-feeder",
+      "end_line": 7658,
+      "heading": "1 LOSS OF PREFERRED TVA FEEDER",
+      "level": 1,
+      "start_line": 7655
+    },
+    {
+      "anchor": "2-complete-loss-of-tva-power-all-diesels-operable",
+      "end_line": 7678,
+      "heading": "2 COMPLETE LOSS OF TVA POWER - ALL DIESELS OPERABLE",
+      "level": 1,
+      "start_line": 7659
+    },
+    {
+      "anchor": "3-failure-of-diesel-generator-no-3-during-a-tva-power",
+      "end_line": 7680,
+      "heading": "3 Failure Of Diesel Generator No. 3 During A Tva Power",
+      "level": 2,
+      "start_line": 7679
+    },
+    {
+      "anchor": "outage",
+      "end_line": 7734,
+      "heading": "OUTAGE",
+      "level": 1,
+      "start_line": 7681
+    },
+    {
+      "anchor": "4-failure-of-diesel-generator-no-4-during-a-tva-power",
+      "end_line": 7736,
+      "heading": "4. Failure Of Diesel Generator No. 4 During A Tva Power",
+      "level": 2,
+      "start_line": 7735
+    },
+    {
+      "anchor": "outage",
+      "end_line": 7749,
+      "heading": "OUTAGE",
+      "level": 1,
+      "start_line": 7737
+    },
+    {
+      "anchor": "switch-house",
+      "end_line": 7754,
+      "heading": "(Switch House)",
+      "level": 1,
+      "start_line": 7750
+    },
+    {
+      "anchor": "water-room",
+      "end_line": 7773,
+      "heading": "(Water Room)",
+      "level": 1,
+      "start_line": 7755
+    },
+    {
+      "anchor": "5-failure-of-diesel-generator-no-5-during-a-tva",
+      "end_line": 7775,
+      "heading": "5. Failure Of Diesel Generator No. 5 During A Tva",
+      "level": 2,
+      "start_line": 7774
+    },
+    {
+      "anchor": "power-outage",
+      "end_line": 7829,
+      "heading": "Power Outage",
+      "level": 2,
+      "start_line": 7776
+    },
+    {
+      "anchor": "6-failure-of-diesel-generator-no-3-and-diesel",
+      "end_line": 7831,
+      "heading": "6 Failure Of Diesel Generator No. 3 And Diesel",
+      "level": 2,
+      "start_line": 7830
+    },
+    {
+      "anchor": "generator-no-4-during-a-tva-power-outage",
+      "end_line": 7838,
+      "heading": "Generator No. 4 During A Tva Power Outage",
+      "level": 2,
+      "start_line": 7832
+    },
+    {
+      "anchor": "7-failure-of-diesel-generator-3-and-diesel-generator",
+      "end_line": 7840,
+      "heading": "7 FAILURE OF DIESEL GENERATOR 3 AND DIESEL GENERATOR",
+      "level": 2,
+      "start_line": 7839
+    },
+    {
+      "anchor": "5-or-diesel-generator-4-and-diesel-generator-5",
+      "end_line": 7842,
+      "heading": "5 OR DIESEL GENERATOR 4 AND DIESEL GENERATOR 5",
+      "level": 2,
+      "start_line": 7841
+    },
+    {
+      "anchor": "during-a-tva-power-outage",
+      "end_line": 7860,
+      "heading": "During A Tva Power Outage",
+      "level": 2,
+      "start_line": 7843
+    },
+    {
+      "anchor": "8-1-2-continued",
+      "end_line": 7866,
+      "heading": "8.1.2 (continued)",
+      "level": 1,
+      "start_line": 7861
+    },
+    {
+      "anchor": "8-2-loss-of-250v-dc-trip-power-for-process-power",
+      "end_line": 7868,
+      "heading": "8.2 Loss Of 250v DC Trip Power For Process Power",
+      "level": 1,
+      "start_line": 7867
+    },
+    {
+      "anchor": "breakers",
+      "end_line": 7872,
+      "heading": "Breakers",
+      "level": 1,
+      "start_line": 7869
+    },
+    {
+      "anchor": "breaker",
+      "end_line": 7874,
+      "heading": "Breaker",
+      "level": 1,
+      "start_line": 7873
+    },
+    {
+      "anchor": "equipment",
+      "end_line": 7890,
+      "heading": "Equipment",
+      "level": 1,
+      "start_line": 7875
+    },
+    {
+      "anchor": "breaker",
+      "end_line": 7892,
+      "heading": "Breaker",
+      "level": 1,
+      "start_line": 7891
+    },
+    {
+      "anchor": "equipment",
+      "end_line": 7930,
+      "heading": "Equipment",
+      "level": 1,
+      "start_line": 7893
+    },
+    {
+      "anchor": "8-3-loss-of-250v-dc-to-motor-generator-no-4",
+      "end_line": 7934,
+      "heading": "8.3 Loss Of 250v DC To Motor Generator No. 4",
+      "level": 1,
+      "start_line": 7931
+    },
+    {
+      "anchor": "9-loss-of-instrument-power",
+      "end_line": 7940,
+      "heading": "9 LOSS OF INSTRUMENT POWER",
+      "level": 1,
+      "start_line": 7935
+    },
+    {
+      "anchor": "9-continued",
+      "end_line": 7944,
+      "heading": "9 (continued)",
+      "level": 1,
+      "start_line": 7941
+    },
+    {
+      "anchor": "9-1-instrument-power-panel-no-1-48v-dc",
+      "end_line": 7949,
+      "heading": "9.1 Instrument Power Panel No. 1 (48v DC)",
+      "level": 1,
+      "start_line": 7945
+    },
+    {
+      "anchor": "9-2-instrument-power-panel-al-48v-dc-to-120v-ac",
+      "end_line": 8010,
+      "heading": "9.2 Instrument Power Panel Al (48v DC to 120v AC)",
+      "level": 1,
+      "start_line": 7950
+    },
+    {
+      "anchor": "rm-sib-2a",
+      "end_line": 8022,
+      "heading": "Rm-Sib-2A",
+      "level": 2,
+      "start_line": 8011
+    },
+    {
+      "anchor": "9b-loss-of-cooling-water",
+      "end_line": 8024,
+      "heading": "9B LOSS OF COOLING WATER",
+      "level": 1,
+      "start_line": 8023
+    },
+    {
+      "anchor": "1-treated-water-system",
+      "end_line": 8039,
+      "heading": "1 TREATED WATER SYSTEM",
+      "level": 1,
+      "start_line": 8025
+    },
+    {
+      "anchor": "1-5-radiation-block",
+      "end_line": 8048,
+      "heading": "1.5 Radiation Block",
+      "level": 1,
+      "start_line": 8040
+    },
+    {
+      "anchor": "2-cooling-tower-water",
+      "end_line": 8063,
+      "heading": "2 COOLING TOWER WATER",
+      "level": 1,
+      "start_line": 8049
+    },
+    {
+      "anchor": "9c-loss-of-fuel-or-coolant-pump",
+      "end_line": 8065,
+      "heading": "9C LOSS OF FUEL OR COOLANT PUMP",
+      "level": 1,
+      "start_line": 8064
+    },
+    {
+      "anchor": "1-loss-of-fuel-pump",
+      "end_line": 8067,
+      "heading": "1 LOSS OF FUEL PUMP",
+      "level": 1,
+      "start_line": 8066
+    },
+    {
+      "anchor": "1-1-causes-of-loss-of-fuel-pump",
+      "end_line": 8076,
+      "heading": "1.1 Causes of loss of fuel pump",
+      "level": 1,
+      "start_line": 8068
+    },
+    {
+      "anchor": "1-2-alarm-and-control-action",
+      "end_line": 8081,
+      "heading": "1.2 Alarm and control action",
+      "level": 1,
+      "start_line": 8077
+    },
+    {
+      "anchor": "1-3-operator-action",
+      "end_line": 8089,
+      "heading": "1.3 Operator Action",
+      "level": 1,
+      "start_line": 8082
+    },
+    {
+      "anchor": "2-loss-of-coolant-fump",
+      "end_line": 8109,
+      "heading": "2 LOSS OF COOLANT FUMP",
+      "level": 1,
+      "start_line": 8090
+    },
+    {
+      "anchor": "9d-loss-of-instrument-air",
+      "end_line": 8113,
+      "heading": "9D LOSS OF INSTRUMENT AIR",
+      "level": 1,
+      "start_line": 8110
+    },
+    {
+      "anchor": "1-air-compressor-electrical-difficulties",
+      "end_line": 8124,
+      "heading": "1 AIR COMPRESSOR ELECTRICAL DIFFICULTIES",
+      "level": 1,
+      "start_line": 8114
+    },
+    {
+      "anchor": "2-other-air-compressor-difficulties",
+      "end_line": 8130,
+      "heading": "2 OTHER AIR COMPRESSOR DIFFICULTIES",
+      "level": 1,
+      "start_line": 8125
+    },
+    {
+      "anchor": "2-3-continued",
+      "end_line": 8140,
+      "heading": "2.3 (continued)",
+      "level": 1,
+      "start_line": 8131
+    },
+    {
+      "anchor": "effects-of-loss-of-instrument-air",
+      "end_line": 8149,
+      "heading": "EFFECTS OF LOSS OF INSTRUMENT AIR",
+      "level": 1,
+      "start_line": 8141
+    },
+    {
+      "anchor": "9e-radiation-increases",
+      "end_line": 8153,
+      "heading": "9E RADIATION INCREASES",
+      "level": 1,
+      "start_line": 8150
+    },
+    {
+      "anchor": "1-personnel-monitors",
+      "end_line": 8181,
+      "heading": "1 PERSONNEL MONITORS",
+      "level": 1,
+      "start_line": 8154
+    },
+    {
+      "anchor": "1-3-1-continued",
+      "end_line": 8189,
+      "heading": "1.3.1 (continued)",
+      "level": 1,
+      "start_line": 8182
+    },
+    {
+      "anchor": "2-process-radiation-detectors",
+      "end_line": 8191,
+      "heading": "2 PROCESS RADIATION DETECTORS",
+      "level": 1,
+      "start_line": 8190
+    },
+    {
+      "anchor": "2-1-rm-827-treated-water-2-out-of-3-monitors-causes-control-action",
+      "end_line": 8206,
+      "heading": "2.1 RM-827 (Treated Water) (2 out of 3 monitors causes control action.)",
+      "level": 1,
+      "start_line": 8192
+    },
+    {
+      "anchor": "2-2-rm-565-cell-air-1-out-of-2-monitors-causes-control-action",
+      "end_line": 8219,
+      "heading": "2.2 RM-565 (Cell Air) (1 out of 2 monitors causes control action.)",
+      "level": 1,
+      "start_line": 8207
+    },
+    {
+      "anchor": "2-2-4-continued",
+      "end_line": 8227,
+      "heading": "2.2.4 (continued)",
+      "level": 1,
+      "start_line": 8220
+    },
+    {
+      "anchor": "2-3-rm-528-coolant-system-offgas-1-out-of-2-causes-control-action",
+      "end_line": 8240,
+      "heading": "2.3 RM-528 (Coolant System Offgas) (1 out of 2 causes control action.)",
+      "level": 1,
+      "start_line": 8228
+    },
+    {
+      "anchor": "2-4-rm-500-main-helium-supply-alarms-only",
+      "end_line": 8274,
+      "heading": "2.4 RM-500 (Main Helium Supply) (Alarms Only)",
+      "level": 1,
+      "start_line": 8241
+    },
+    {
+      "anchor": "2-6-rm-ot-1-and-rm-ot-2-lube-oil-tanks-alarms-only",
+      "end_line": 8325,
+      "heading": "2.6 RM-OT-1 and RM-OT-2 (Lube Oil Tanks) (Alarms only)",
+      "level": 1,
+      "start_line": 8275
+    },
+    {
+      "anchor": "3-high-stack-activity",
+      "end_line": 8343,
+      "heading": "3 HIGH STACK ACTIVITY",
+      "level": 2,
+      "start_line": 8326
+    },
+    {
+      "anchor": "3-1-high-stack-activity-check-list",
+      "end_line": 8360,
+      "heading": "3.1 High Stack Activity Check List",
+      "level": 1,
+      "start_line": 8344
+    },
+    {
+      "anchor": "9f-control-rod-drive-difficulty",
+      "end_line": 8384,
+      "heading": "9F CONTROL ROD DRIVE DIFFICULTY",
+      "level": 1,
+      "start_line": 8361
+    },
+    {
+      "anchor": "3-servo-difficulty",
+      "end_line": 8391,
+      "heading": "3 SERVO DIFFICULTY",
+      "level": 1,
+      "start_line": 8385
+    },
+    {
+      "anchor": "4-uncontrolled-rod-action",
+      "end_line": 8397,
+      "heading": "4 UNCONTROLLED ROD ACTION",
+      "level": 1,
+      "start_line": 8392
+    },
+    {
+      "anchor": "9g-loss-of-computer",
+      "end_line": 8403,
+      "heading": "9G LOSS OF COMPUTER",
+      "level": 1,
+      "start_line": 8398
+    },
+    {
+      "anchor": "1-check-list-when-computer-is-abnormally-shut-down",
+      "end_line": 8415,
+      "heading": "1 CHECK LIST WHEN COMPUTER IS ABNORMALLY SHUT DOWN",
+      "level": 1,
+      "start_line": 8404
+    },
+    {
+      "anchor": "9h-lube-oil-system-difficulties",
+      "end_line": 8419,
+      "heading": "9H LUBE OIL SYSTEM DIFFICULTIES",
+      "level": 1,
+      "start_line": 8416
+    },
+    {
+      "anchor": "1-coolant-salt-pump-lube-system-failure",
+      "end_line": 8425,
+      "heading": "1. COOLANT SALT PUMP LUBE SYSTEM FAILURE",
+      "level": 1,
+      "start_line": 8420
+    },
+    {
+      "anchor": "service-tunnel",
+      "end_line": 8437,
+      "heading": "(Service Tunnel)",
+      "level": 1,
+      "start_line": 8426
+    },
+    {
+      "anchor": "f1703",
+      "end_line": 8438,
+      "heading": "F1703",
+      "level": 2,
+      "start_line": 8438
+    },
+    {
+      "anchor": "f1-704",
+      "end_line": 8439,
+      "heading": "F1 704",
+      "level": 2,
+      "start_line": 8439
+    },
+    {
+      "anchor": "f1753",
+      "end_line": 8440,
+      "heading": "F1753",
+      "level": 2,
+      "start_line": 8440
+    },
+    {
+      "anchor": "f1-754",
+      "end_line": 8455,
+      "heading": "F1 754",
+      "level": 2,
+      "start_line": 8441
+    },
+    {
+      "anchor": "2-fuel-salt-pump-lube-system-failure",
+      "end_line": 8473,
+      "heading": "2 FUEL SALT PUMP LUBE SYSTEM FAILURE",
+      "level": 1,
+      "start_line": 8456
+    },
+    {
+      "anchor": "fi-703",
+      "end_line": 8475,
+      "heading": "Fi-703",
+      "level": 2,
+      "start_line": 8474
+    },
+    {
+      "anchor": "fi-704",
+      "end_line": 8477,
+      "heading": "Fi-704",
+      "level": 2,
+      "start_line": 8476
+    },
+    {
+      "anchor": "fi-753",
+      "end_line": 8479,
+      "heading": "Fi-753",
+      "level": 2,
+      "start_line": 8478
+    },
+    {
+      "anchor": "fi-754",
+      "end_line": 8492,
+      "heading": "Fi-754",
+      "level": 2,
+      "start_line": 8480
+    },
+    {
+      "anchor": "3-total-oil-system-failure",
+      "end_line": 8496,
+      "heading": "3 TOTAL OIL SYSTEM FAILURE",
+      "level": 1,
+      "start_line": 8493
+    },
+    {
+      "anchor": "4-excess-oil-seal-leakage",
+      "end_line": 8510,
+      "heading": "4 EXCESS OIL SEAL LEAKAGE",
+      "level": 1,
+      "start_line": 8497
+    },
+    {
+      "anchor": "9i-salt-in-overflow-tank",
+      "end_line": 8516,
+      "heading": "9I SALT IN OVERFLOW TANK",
+      "level": 1,
+      "start_line": 8511
+    },
+    {
+      "anchor": "1-detailed-procedure-for-emptying-the-oft",
+      "end_line": 8522,
+      "heading": "1 DETAILED PROCEDURE FOR EMPTYING THE OFT",
+      "level": 1,
+      "start_line": 8517
+    },
+    {
+      "anchor": "li-593",
+      "end_line": 8524,
+      "heading": "Li-593",
+      "level": 2,
+      "start_line": 8523
+    },
+    {
+      "anchor": "li-599",
+      "end_line": 8526,
+      "heading": "Li-599",
+      "level": 2,
+      "start_line": 8525
+    },
+    {
+      "anchor": "li-596",
+      "end_line": 8528,
+      "heading": "Li-596",
+      "level": 2,
+      "start_line": 8527
+    },
+    {
+      "anchor": "li-600",
+      "end_line": 8560,
+      "heading": "Li-600",
+      "level": 2,
+      "start_line": 8529
+    },
+    {
+      "anchor": "li-593-li-596",
+      "end_line": 8568,
+      "heading": "Li-593 Li-596",
+      "level": 2,
+      "start_line": 8561
+    },
+    {
+      "anchor": "9j-loss-of-he-furge-to-the-circulating-pumps",
+      "end_line": 8572,
+      "heading": "9J LOSS OF He FURGE TO THE CIRCULATING PUMPS",
+      "level": 1,
+      "start_line": 8569
+    },
+    {
+      "anchor": "1-loss-of-flow-through-line-516",
+      "end_line": 8576,
+      "heading": "1 LOSS OF FLOW THROUGH LINE 516",
+      "level": 1,
+      "start_line": 8573
+    },
+    {
+      "anchor": "2-loss-of-flow-to-the-overflow-tank-bubbilers",
+      "end_line": 8580,
+      "heading": "2 LOSS OF FLOW TO THE OVERFLOW TANK BUBBILERS",
+      "level": 1,
+      "start_line": 8577
+    },
+    {
+      "anchor": "3-loss-of-flow-to-the-fp-bubbilers",
+      "end_line": 8584,
+      "heading": "3 LOSS OF FLOW TO THE FP BUBBILERS",
+      "level": 1,
+      "start_line": 8581
+    },
+    {
+      "anchor": "4-loss-of-flow-through-line-512",
+      "end_line": 8590,
+      "heading": "4 LOSS OF FLOW THROUGH LINE 512",
+      "level": 1,
+      "start_line": 8585
+    },
+    {
+      "anchor": "5-loss-of-flow-to-the-coolant-pump-bubblers",
+      "end_line": 8594,
+      "heading": "5 LOSS OF FLOW TO THE COOLANT PUMP BUBBLERS",
+      "level": 1,
+      "start_line": 8591
+    },
+    {
+      "anchor": "9k-loss-of-component-cooling-blowers",
+      "end_line": 8596,
+      "heading": "9K LOSS OF COMPONENT COOLING BLOWERS",
+      "level": 1,
+      "start_line": 8595
+    },
+    {
+      "anchor": "1-loss-of-either-ccp-1-or-ccp-2",
+      "end_line": 8611,
+      "heading": "1 LOSS OF EITHER CCP-1 or CCP-2",
+      "level": 1,
+      "start_line": 8597
+    },
+    {
+      "anchor": "2-loss-of-ccp-1-and-ccp-2",
+      "end_line": 8617,
+      "heading": "2 LOSS OF CCP-1 and CCP-2",
+      "level": 1,
+      "start_line": 8612
+    },
+    {
+      "anchor": "3-loss-of-ccp-3",
+      "end_line": 8621,
+      "heading": "3 LOSS OF CCP #3",
+      "level": 1,
+      "start_line": 8618
+    },
+    {
+      "anchor": "9l-removal-of-water-from-the-steam-domes",
+      "end_line": 8627,
+      "heading": "9L REMOVAL OF WATER FROM THE STEAM DOMES",
+      "level": 1,
+      "start_line": 8622
+    },
+    {
+      "anchor": "nesa",
+      "end_line": 8640,
+      "heading": "(Nesa)",
+      "level": 2,
+      "start_line": 8628
+    },
+    {
+      "anchor": "9m-regeneration-of-heltum-dryer",
+      "end_line": 8668,
+      "heading": "9M REGENERATION OF HELTUM DRYER",
+      "level": 1,
+      "start_line": 8641
+    },
+    {
+      "anchor": "9n-high-cell-leak-rate-indication",
+      "end_line": 8674,
+      "heading": "9N HIGH CELL LEAK RATE INDICATION",
+      "level": 1,
+      "start_line": 8669
+    },
+    {
+      "anchor": "1-salt-leaking-into-the-cell",
+      "end_line": 8678,
+      "heading": "1 SALT LEAKING INTO THE CELL",
+      "level": 1,
+      "start_line": 8675
+    },
+    {
+      "anchor": "2-water-leaking-into-the-cell",
+      "end_line": 8686,
+      "heading": "2 WATER LEAKING INTO THE CELL",
+      "level": 1,
+      "start_line": 8679
+    },
+    {
+      "anchor": "3-loss-of-reactor-or-drain-tank-space-coolers",
+      "end_line": 8690,
+      "heading": "3 LOSS OF REACTOR OR DRAIN TANK SPACE COOLERS",
+      "level": 1,
+      "start_line": 8687
+    },
+    {
+      "anchor": "4-actual-high-cell-leak-rate",
+      "end_line": 8694,
+      "heading": "4 ACTUAL HIGH CELL LEAK RATE",
+      "level": 1,
+      "start_line": 8691
+    },
+    {
+      "anchor": "section-10",
+      "end_line": 8696,
+      "heading": "SECTION 10",
+      "level": 1,
+      "start_line": 8695
+    },
+    {
+      "anchor": "reactorshutdown",
+      "end_line": 8700,
+      "heading": "REACTORSHUTDOWN",
+      "level": 1,
+      "start_line": 8697
+    },
+    {
+      "anchor": "1oa-normal-shutdown",
+      "end_line": 8704,
+      "heading": "1OA NORMAL SHUTDOWN",
+      "level": 1,
+      "start_line": 8701
+    },
+    {
+      "anchor": "1-power-reduction-and-going-subcritical",
+      "end_line": 8708,
+      "heading": "1 POWER REDUCTION AND GOING SUBCRITICAL",
+      "level": 1,
+      "start_line": 8705
+    },
+    {
+      "anchor": "1-1-load-control-automatic-and-control-rods-on-servo-control",
+      "end_line": 8716,
+      "heading": "1.1 Load Control Automatic and Control Rods on Servo Control",
+      "level": 1,
+      "start_line": 8709
+    },
+    {
+      "anchor": "init-date-time",
+      "end_line": 8718,
+      "heading": "Init. Date/Time",
+      "level": 1,
+      "start_line": 8717
+    },
+    {
+      "anchor": "1-1-1-continued",
+      "end_line": 8749,
+      "heading": "1.1.1 (continued)",
+      "level": 1,
+      "start_line": 8719
+    },
+    {
+      "anchor": "1-2-6-continued",
+      "end_line": 8759,
+      "heading": "1.2.6 (continued)",
+      "level": 1,
+      "start_line": 8750
+    },
+    {
+      "anchor": "2-draining-and-flushing-fuel-system",
+      "end_line": 8767,
+      "heading": "2 DRAINING AND FLUSHING FUEL SYSTEM",
+      "level": 1,
+      "start_line": 8760
+    },
+    {
+      "anchor": "fv-104-fv-107-fv-108",
+      "end_line": 8768,
+      "heading": "Fv-104 _, Fv-107 _, Fv-108 _,",
+      "level": 2,
+      "start_line": 8768
+    },
+    {
+      "anchor": "fv-109-fv-110-fv-111",
+      "end_line": 8769,
+      "heading": "Fv-109 _, Fv-110 _, Fv-111 _,",
+      "level": 2,
+      "start_line": 8769
+    },
+    {
+      "anchor": "fv-112",
+      "end_line": 8828,
+      "heading": "Fv-112 _.",
+      "level": 2,
+      "start_line": 8770
+    },
+    {
+      "anchor": "init-date-time",
+      "end_line": 8836,
+      "heading": "Init. Date/Time",
+      "level": 1,
+      "start_line": 8829
+    },
+    {
+      "anchor": "3-draining-coolant-system",
+      "end_line": 8858,
+      "heading": "3 DRAINING COOLANT SYSTEM",
+      "level": 1,
+      "start_line": 8837
+    },
+    {
+      "anchor": "12b-5",
+      "end_line": 8864,
+      "heading": "12B-5)",
+      "level": 2,
+      "start_line": 8859
+    },
+    {
+      "anchor": "4-cooldown-of-fuel-and-coolant-systems",
+      "end_line": 8883,
+      "heading": "4 COOLDOWN OF FUEL AND COOLANT SYSTEMS",
+      "level": 2,
+      "start_line": 8865
+    },
+    {
+      "anchor": "5-shut-down-of-remaining-equipment",
+      "end_line": 8901,
+      "heading": "5 SHUT DOWN OF REMAINING EQUIPMENT",
+      "level": 2,
+      "start_line": 8884
+    },
+    {
+      "anchor": "nesa",
+      "end_line": 8905,
+      "heading": "NESA",
+      "level": 1,
+      "start_line": 8902
+    },
+    {
+      "anchor": "transmitter-room",
+      "end_line": 8913,
+      "heading": "Transmitter Room",
+      "level": 1,
+      "start_line": 8906
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 8921,
+      "heading": "Vent House",
+      "level": 1,
+      "start_line": 8914
+    },
+    {
+      "anchor": "control-room",
+      "end_line": 8929,
+      "heading": "Control Room",
+      "level": 1,
+      "start_line": 8922
+    },
+    {
+      "anchor": "transmitter-room",
+      "end_line": 8937,
+      "heading": "Transmitter Room",
+      "level": 1,
+      "start_line": 8930
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 8947,
+      "heading": "Vent House",
+      "level": 1,
+      "start_line": 8938
+    },
+    {
+      "anchor": "10b-special-shutdowns",
+      "end_line": 8951,
+      "heading": "10B SPECIAL SHUTDOWNS",
+      "level": 1,
+      "start_line": 8948
+    },
+    {
+      "anchor": "1-power-reduction-and-going-subcritical",
+      "end_line": 8964,
+      "heading": "1 POWER REDUCTION AND GOING SUBCRITICAL",
+      "level": 1,
+      "start_line": 8952
+    },
+    {
+      "anchor": "2-draining-and-flushing-the-fuel-system",
+      "end_line": 8977,
+      "heading": "2 DRAINING AND FLUSHING The : FUEL SYSTEM",
+      "level": 1,
+      "start_line": 8965
+    },
+    {
+      "anchor": "3-shutdown-of-remaining-equipment",
+      "end_line": 8987,
+      "heading": "3 SHUTDOWN OF REMAINING EQUIPMENT",
+      "level": 1,
+      "start_line": 8978
+    },
+    {
+      "anchor": "11a-fuel-or-flush-salt-transfers",
+      "end_line": 9007,
+      "heading": "11A FUEL OR FLUSH SALT TRANSFERS",
+      "level": 1,
+      "start_line": 8988
+    },
+    {
+      "anchor": "1-preparation-for-transfers",
+      "end_line": 9013,
+      "heading": "1 PREPARATION FOR TRANSFERS",
+      "level": 1,
+      "start_line": 9008
+    },
+    {
+      "anchor": "init-date-time",
+      "end_line": 9033,
+      "heading": "Init. Date/Time",
+      "level": 1,
+      "start_line": 9014
+    },
+    {
+      "anchor": "fv-107-fv-110",
+      "end_line": 9035,
+      "heading": "Fv-107 Fv 110",
+      "level": 2,
+      "start_line": 9034
+    },
+    {
+      "anchor": "fv-108-fv-111",
+      "end_line": 9037,
+      "heading": "Fv-108 Fv-111",
+      "level": 2,
+      "start_line": 9036
+    },
+    {
+      "anchor": "fv-109",
+      "end_line": 9089,
+      "heading": "Fv-109",
+      "level": 2,
+      "start_line": 9038
+    },
+    {
+      "anchor": "2-transfer-from-fd-1-to-fst",
+      "end_line": 9109,
+      "heading": "2 TRANSFER FROM FD-1 TO FST",
+      "level": 1,
+      "start_line": 9090
+    },
+    {
+      "anchor": "3-transfer-from-fd-2-to-fst",
+      "end_line": 9127,
+      "heading": "3 TRANSFER FROM FD-2 TO FST",
+      "level": 2,
+      "start_line": 9110
+    },
+    {
+      "anchor": "4-transfer-from-fft-to-fst",
+      "end_line": 9147,
+      "heading": "4 TRANSFER FROM FFT TO FST",
+      "level": 1,
+      "start_line": 9128
+    },
+    {
+      "anchor": "5-transfer-from-fst-to-fd-1",
+      "end_line": 9164,
+      "heading": "5 TRANSFER FROM FST TO FD-1",
+      "level": 1,
+      "start_line": 9148
+    },
+    {
+      "anchor": "6-transfer-from-fst-to-fd-2",
+      "end_line": 9181,
+      "heading": "6 TRANSFER FROM FST TO FD-2",
+      "level": 1,
+      "start_line": 9165
+    },
+    {
+      "anchor": "7-transfer-from-fst-to-fft",
+      "end_line": 9197,
+      "heading": "7 TRANSFER FROM FST TO FFT",
+      "level": 1,
+      "start_line": 9182
+    },
+    {
+      "anchor": "8-transfer-from-fd-1-to-fd-2",
+      "end_line": 9214,
+      "heading": "8 TRANSFER FROM FD-1 TO FD-2",
+      "level": 1,
+      "start_line": 9198
+    },
+    {
+      "anchor": "9-transfer-from-fd-2-to-fd-1",
+      "end_line": 9232,
+      "heading": "9 TRANSFER FROM FD-2 TO FD-1",
+      "level": 1,
+      "start_line": 9215
+    },
+    {
+      "anchor": "10-heatup-of-fst",
+      "end_line": 9248,
+      "heading": "10 HEATUP OF FST",
+      "level": 1,
+      "start_line": 9233
+    },
+    {
+      "anchor": "1-1-heatup-of-fill-line-1-11",
+      "end_line": 9257,
+      "heading": "1.1 Heatup Of Fill Line 1.11",
+      "level": 2,
+      "start_line": 9249
+    },
+    {
+      "anchor": "12-heatup-of-waste-line-112",
+      "end_line": 9266,
+      "heading": "12 HEATUP OF WASTE LINE 112",
+      "level": 2,
+      "start_line": 9258
+    },
+    {
+      "anchor": "13-heatup-of-fill-line-203",
+      "end_line": 9276,
+      "heading": "13 HEATUP OF FILL LINE 203",
+      "level": 1,
+      "start_line": 9267
+    },
+    {
+      "anchor": "14-heatup-of-transfer-and-salt-addition-freeze-valve-assemblies",
+      "end_line": 9280,
+      "heading": "14 HEATUP OF TRANSFER AND SALT ADDITION FREEZE VALVE ASSEMBLIES",
+      "level": 1,
+      "start_line": 9277
+    },
+    {
+      "anchor": "14-continued",
+      "end_line": 9284,
+      "heading": "14 (continued)",
+      "level": 1,
+      "start_line": 9281
+    },
+    {
+      "anchor": "14-1-heatup-of-freeze-valve-assemblies-fv-107-108-109-110-111-and-112",
+      "end_line": 9302,
+      "heading": "14.1 Heatup of Freeze Valve Assemblies FV-107, 108, 109, 110, 111, and 112.",
+      "level": 1,
+      "start_line": 9285
+    },
+    {
+      "anchor": "transfer-line-thermocouples-and-heater-control",
+      "end_line": 9312,
+      "heading": "Transfer Line Thermocouples And Heater Control",
+      "level": 2,
+      "start_line": 9303
+    },
+    {
+      "anchor": "fuel-storage-tank-thermocouples-and-heater-controllers",
+      "end_line": 9323,
+      "heading": "Fuel Storage Tank Thermocouples And Heater Controllers",
+      "level": 2,
+      "start_line": 9313
+    },
+    {
+      "anchor": "line-111-thermocouples-and-heater-control",
+      "end_line": 9334,
+      "heading": "Line 111 Thermocouples And Heater Control",
+      "level": 2,
+      "start_line": 9324
+    },
+    {
+      "anchor": "line-112-thermocouples-and-heater-controls",
+      "end_line": 9345,
+      "heading": "Line 112 Thermocouples And Heater Controls",
+      "level": 2,
+      "start_line": 9335
+    },
+    {
+      "anchor": "line-203-thermocouples-and-heater-controller",
+      "end_line": 9354,
+      "heading": "Line 203 Thermocouples And Heater Controller",
+      "level": 2,
+      "start_line": 9346
+    },
+    {
+      "anchor": "1-1b-opening-reactor-cell-drain-tank",
+      "end_line": 9356,
+      "heading": "1.1B OPENING REACTOR CELL, DRAIN TANK",
+      "level": 1,
+      "start_line": 9355
+    },
+    {
+      "anchor": "cell-and-coolant-cell",
+      "end_line": 9372,
+      "heading": "CELL AND COOLANT CELL",
+      "level": 1,
+      "start_line": 9357
+    },
+    {
+      "anchor": "1-rc-heater-shutdown-check-list",
+      "end_line": 9417,
+      "heading": "1 RC HEATER SHUTDOWN CHECK LIST",
+      "level": 1,
+      "start_line": 9373
+    },
+    {
+      "anchor": "2-dtc-heater-shutdown-check-list",
+      "end_line": 9502,
+      "heading": "2 DTC HEATER SHUTDOWN CHECK LIST",
+      "level": 1,
+      "start_line": 9418
+    },
+    {
+      "anchor": "ccheatershutdownchecklist",
+      "end_line": 9549,
+      "heading": "Ccheatershutdownchecklist",
+      "level": 2,
+      "start_line": 9503
+    },
+    {
+      "anchor": "5-freeze-valves-shutdown-check-list",
+      "end_line": 9553,
+      "heading": "5 FREEZE VALVES SHUTDOWN CHECK LIST",
+      "level": 1,
+      "start_line": 9550
+    },
+    {
+      "anchor": "5-1-fv-104",
+      "end_line": 9557,
+      "heading": "5.1 FV-104",
+      "level": 2,
+      "start_line": 9554
+    },
+    {
+      "anchor": "5-2-fv-105",
+      "end_line": 9558,
+      "heading": "5.2 FV-105",
+      "level": 2,
+      "start_line": 9558
+    },
+    {
+      "anchor": "5-3-fv-106",
+      "end_line": 9559,
+      "heading": "5.3 FV-106",
+      "level": 2,
+      "start_line": 9559
+    },
+    {
+      "anchor": "5-4-fv-107",
+      "end_line": 9560,
+      "heading": "5.4 FV-107",
+      "level": 2,
+      "start_line": 9560
+    },
+    {
+      "anchor": "5-5-fv-108",
+      "end_line": 9561,
+      "heading": "5.5 FV-108",
+      "level": 2,
+      "start_line": 9561
+    },
+    {
+      "anchor": "5-6-fv-109",
+      "end_line": 9562,
+      "heading": "5.6 FV-109",
+      "level": 2,
+      "start_line": 9562
+    },
+    {
+      "anchor": "5-7-fv-110",
+      "end_line": 9563,
+      "heading": "5.7 FV-110",
+      "level": 2,
+      "start_line": 9563
+    },
+    {
+      "anchor": "5-8-fv-111",
+      "end_line": 9564,
+      "heading": "5.8 FV-111",
+      "level": 2,
+      "start_line": 9564
+    },
+    {
+      "anchor": "5-9-fv-112",
+      "end_line": 9565,
+      "heading": "5.9 FV-112",
+      "level": 2,
+      "start_line": 9565
+    },
+    {
+      "anchor": "5-10-fv-204",
+      "end_line": 9566,
+      "heading": "5.10 FV-204",
+      "level": 2,
+      "start_line": 9566
+    },
+    {
+      "anchor": "5-11-fv-206",
+      "end_line": 9568,
+      "heading": "5.11 FV-206",
+      "level": 2,
+      "start_line": 9567
+    },
+    {
+      "anchor": "6-component-cooling-air-to-components-shutdown-check",
+      "end_line": 9570,
+      "heading": "6 COMPONENT COOLING AIR TO COMPONENTS SHUTDOWN CHECK",
+      "level": 2,
+      "start_line": 9569
+    },
+    {
+      "anchor": "list",
+      "end_line": 9574,
+      "heading": "List",
+      "level": 2,
+      "start_line": 9571
+    },
+    {
+      "anchor": "tr",
+      "end_line": 9591,
+      "heading": "(Tr)",
+      "level": 2,
+      "start_line": 9575
+    },
+    {
+      "anchor": "7-component-cooling-pumps-shutdown-check-list",
+      "end_line": 9605,
+      "heading": "7 COMPONENT COOLING PUMPS SHUTDOWN CHECK LIST",
+      "level": 2,
+      "start_line": 9592
+    },
+    {
+      "anchor": "8-electrical-breakers-shutdown-check-list",
+      "end_line": 9629,
+      "heading": "8 ELECTRICAL BREAKERS SHUTDOWN CHECK LIST",
+      "level": 2,
+      "start_line": 9606
+    },
+    {
+      "anchor": "9-opening-rc-and-dtc",
+      "end_line": 9644,
+      "heading": "9. OPENING RC AND DTC",
+      "level": 2,
+      "start_line": 9630
+    },
+    {
+      "anchor": "10-opening-the-coolant-cell",
+      "end_line": 9652,
+      "heading": "10 OPENING THE COOLANT CELL",
+      "level": 1,
+      "start_line": 9645
+    },
+    {
+      "anchor": "11c-graphite-sampling",
+      "end_line": 9660,
+      "heading": "11C GRAPHITE SAMPLING",
+      "level": 1,
+      "start_line": 9653
+    },
+    {
+      "anchor": "ser",
+      "end_line": 9683,
+      "heading": "(Ser)",
+      "level": 2,
+      "start_line": 9661
+    },
+    {
+      "anchor": "ser",
+      "end_line": 9690,
+      "heading": "(Ser)",
+      "level": 2,
+      "start_line": 9684
+    },
+    {
+      "anchor": "1-process-systems",
+      "end_line": 9694,
+      "heading": "1. PROCESS SYSTEMS",
+      "level": 1,
+      "start_line": 9691
+    },
+    {
+      "anchor": "2-auxiliary-systems",
+      "end_line": 9698,
+      "heading": "2. AUXILIARY SYSTEMS",
+      "level": 1,
+      "start_line": 9695
+    },
+    {
+      "anchor": "3-pressure-relief-valves",
+      "end_line": 9702,
+      "heading": "3. PRESSURE RELIEF VALVES",
+      "level": 1,
+      "start_line": 9699
+    },
+    {
+      "anchor": "4-rumenture-discs",
+      "end_line": 9706,
+      "heading": "4. RUMENTURE DISCS",
+      "level": 1,
+      "start_line": 9703
+    },
+    {
+      "anchor": "5-r-c-and-d-t-c-containment-vessels",
+      "end_line": 9712,
+      "heading": "5. R. C. and D. T. C. CONTAINMENT VESSELS",
+      "level": 1,
+      "start_line": 9707
+    },
+    {
+      "anchor": "6-secondary-containment-vessels",
+      "end_line": 9717,
+      "heading": "6. SECONDARY CONTAINMENT VESSELS",
+      "level": 1,
+      "start_line": 9713
+    },
+    {
+      "anchor": "routine-pressure-test-of-equipment",
+      "end_line": 9724,
+      "heading": "Routine Pressure Test Of Equipment",
+      "level": 2,
+      "start_line": 9718
+    },
+    {
+      "anchor": "table-3-msre-ructure-disc-tabulation",
+      "end_line": 9728,
+      "heading": "Table 3 Msre Ructure Disc Tabulation",
+      "level": 2,
+      "start_line": 9725
+    },
+    {
+      "anchor": "table-containment-tanks",
+      "end_line": 9732,
+      "heading": "Table Containment Tanks",
+      "level": 2,
+      "start_line": 9729
+    },
+    {
+      "anchor": "section-12",
+      "end_line": 9734,
+      "heading": "SECTION 12",
+      "level": 1,
+      "start_line": 9733
+    },
+    {
+      "anchor": "routine-observations",
+      "end_line": 9742,
+      "heading": "ROUTINE OBSERVATIONS",
+      "level": 1,
+      "start_line": 9735
+    },
+    {
+      "anchor": "12a-logs",
+      "end_line": 9744,
+      "heading": "12A LOGS",
+      "level": 1,
+      "start_line": 9743
+    },
+    {
+      "anchor": "1-control-room-log-book",
+      "end_line": 9792,
+      "heading": "1 CONTROL ROOM LOG BOOK",
+      "level": 1,
+      "start_line": 9745
+    },
+    {
+      "anchor": "2-control-room-and-building-logs",
+      "end_line": 9808,
+      "heading": "2 CONTROL ROOM AND BUILDING LOGS",
+      "level": 2,
+      "start_line": 9793
+    },
+    {
+      "anchor": "3-leak-detector-log",
+      "end_line": 9814,
+      "heading": "3 LEAK-DETECTOR LOG",
+      "level": 1,
+      "start_line": 9809
+    },
+    {
+      "anchor": "4-thermocouple-tabulation-log-12a-4",
+      "end_line": 9820,
+      "heading": "4 THERMOCOUPLE TABULATION LOG (12A-4)",
+      "level": 1,
+      "start_line": 9815
+    },
+    {
+      "anchor": "5-heater-controller-settings-log-12a-5",
+      "end_line": 9824,
+      "heading": "5 HEATER CONTROLLER SETTINGS LOG (12A-5)",
+      "level": 1,
+      "start_line": 9821
+    },
+    {
+      "anchor": "6-flangelog",
+      "end_line": 9830,
+      "heading": "6 FLANGELOG",
+      "level": 1,
+      "start_line": 9825
+    },
+    {
+      "anchor": "7-sample-logs",
+      "end_line": 9834,
+      "heading": "7 SAMPLE LOGS",
+      "level": 1,
+      "start_line": 9831
+    },
+    {
+      "anchor": "8-diesel-log",
+      "end_line": 9838,
+      "heading": "8 DIESEL LOG",
+      "level": 1,
+      "start_line": 9835
+    },
+    {
+      "anchor": "12a-2a",
+      "end_line": 9840,
+      "heading": "12A-2A",
+      "level": 2,
+      "start_line": 9839
+    },
+    {
+      "anchor": "control-room-log",
+      "end_line": 9844,
+      "heading": "Control Room Log",
+      "level": 2,
+      "start_line": 9841
+    },
+    {
+      "anchor": "console",
+      "end_line": 9888,
+      "heading": "Console",
+      "level": 2,
+      "start_line": 9845
+    },
+    {
+      "anchor": "light",
+      "end_line": 9920,
+      "heading": "Light",
+      "level": 2,
+      "start_line": 9889
+    },
+    {
+      "anchor": "pr-576b",
+      "end_line": 9923,
+      "heading": "Pr-576B",
+      "level": 2,
+      "start_line": 9921
+    },
+    {
+      "anchor": "wr-fft-c",
+      "end_line": 9945,
+      "heading": "Wr-Fft-C",
+      "level": 2,
+      "start_line": 9924
+    },
+    {
+      "anchor": "auxiliary-control-room",
+      "end_line": 10030,
+      "heading": "AUXILIARY CONTROL ROOM",
+      "level": 1,
+      "start_line": 9946
+    },
+    {
+      "anchor": "ti-3200",
+      "end_line": 10040,
+      "heading": "Ti-3200",
+      "level": 2,
+      "start_line": 10031
+    },
+    {
+      "anchor": "12a-2b",
+      "end_line": 10042,
+      "heading": "12A-2B",
+      "level": 1,
+      "start_line": 10041
+    },
+    {
+      "anchor": "control-room-log",
+      "end_line": 10046,
+      "heading": "CONTROL ROOM LOG",
+      "level": 1,
+      "start_line": 10043
+    },
+    {
+      "anchor": "console",
+      "end_line": 10087,
+      "heading": "CONSOLE",
+      "level": 1,
+      "start_line": 10047
+    },
+    {
+      "anchor": "main-control-board",
+      "end_line": 10113,
+      "heading": "Main Control Board",
+      "level": 2,
+      "start_line": 10088
+    },
+    {
+      "anchor": "light",
+      "end_line": 10133,
+      "heading": "Light",
+      "level": 2,
+      "start_line": 10114
+    },
+    {
+      "anchor": "prc-522a",
+      "end_line": 10136,
+      "heading": "Prc 522A",
+      "level": 2,
+      "start_line": 10134
+    },
+    {
+      "anchor": "ir-5930",
+      "end_line": 10152,
+      "heading": "Ir-5930",
+      "level": 2,
+      "start_line": 10137
+    },
+    {
+      "anchor": "light",
+      "end_line": 10154,
+      "heading": "Light",
+      "level": 2,
+      "start_line": 10153
+    },
+    {
+      "anchor": "pressure",
+      "end_line": 10155,
+      "heading": "Pressure",
+      "level": 2,
+      "start_line": 10155
+    },
+    {
+      "anchor": "pr-576-b",
+      "end_line": 10176,
+      "heading": "Pr-576-B",
+      "level": 2,
+      "start_line": 10156
+    },
+    {
+      "anchor": "auxiliary-control-room",
+      "end_line": 10285,
+      "heading": "AUXILIARY CONTROL ROOM",
+      "level": 1,
+      "start_line": 10177
+    },
+    {
+      "anchor": "miscellaneous",
+      "end_line": 10287,
+      "heading": "MISCELLANEOUS",
+      "level": 1,
+      "start_line": 10286
+    },
+    {
+      "anchor": "temperatures-on-ti-3200",
+      "end_line": 10301,
+      "heading": "TEMPERATURES ON TI-3200",
+      "level": 1,
+      "start_line": 10288
+    },
+    {
+      "anchor": "cell-temperatures",
+      "end_line": 10317,
+      "heading": "CELL TEMPERATURES",
+      "level": 1,
+      "start_line": 10302
+    },
+    {
+      "anchor": "water-and-oil-temperatures",
+      "end_line": 10337,
+      "heading": "WATER AND OIL TEMPERATURES",
+      "level": 1,
+      "start_line": 10318
+    },
+    {
+      "anchor": "t-fuel-inlet-to-lower-head-and-support-flange-annulus",
+      "end_line": 10341,
+      "heading": "△T - Fuel Inlet To Lower Head And Support Flange Annulus",
+      "level": 2,
+      "start_line": 10338
+    },
+    {
+      "anchor": "fuel-inle-temperature",
+      "end_line": 10361,
+      "heading": "Fuel Inle Temperature",
+      "level": 2,
+      "start_line": 10342
+    },
+    {
+      "anchor": "12a-3-building-log",
+      "end_line": 10363,
+      "heading": "12A-3 BUILDING LOG",
+      "level": 1,
+      "start_line": 10362
+    },
+    {
+      "anchor": "service-tunnel",
+      "end_line": 10383,
+      "heading": "SERVICE TUNNEL",
+      "level": 1,
+      "start_line": 10364
+    },
+    {
+      "anchor": "service-area",
+      "end_line": 10399,
+      "heading": "SERVICE AREA",
+      "level": 1,
+      "start_line": 10384
+    },
+    {
+      "anchor": "horn-hall",
+      "end_line": 10407,
+      "heading": "HORN HALL",
+      "level": 1,
+      "start_line": 10400
+    },
+    {
+      "anchor": "transmitter-room",
+      "end_line": 10475,
+      "heading": "Transmitter Room",
+      "level": 2,
+      "start_line": 10408
+    },
+    {
+      "anchor": "nesa",
+      "end_line": 10484,
+      "heading": "NESA",
+      "level": 1,
+      "start_line": 10476
+    },
+    {
+      "anchor": "nesa",
+      "end_line": 10486,
+      "heading": "NESA.",
+      "level": 1,
+      "start_line": 10485
+    },
+    {
+      "anchor": "teheader-test",
+      "end_line": 10512,
+      "heading": "TEHEADER TEST\\*",
+      "level": 1,
+      "start_line": 10487
+    },
+    {
+      "anchor": "heater-control-panel",
+      "end_line": 10582,
+      "heading": "HEATER CONTROL PANEL",
+      "level": 1,
+      "start_line": 10513
+    },
+    {
+      "anchor": "heater-control-panel",
+      "end_line": 10632,
+      "heading": "HEATER CONTROL PANEL",
+      "level": 1,
+      "start_line": 10583
+    },
+    {
+      "anchor": "n-wall-840-level",
+      "end_line": 10732,
+      "heading": "N. WALL 840! LEVEL",
+      "level": 1,
+      "start_line": 10633
+    },
+    {
+      "anchor": "cooling-tower",
+      "end_line": 10740,
+      "heading": "COOLING TOWER",
+      "level": 1,
+      "start_line": 10733
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 10746,
+      "heading": "VENT HOUSE",
+      "level": 1,
+      "start_line": 10741
+    },
+    {
+      "anchor": "vent-house",
+      "end_line": 10768,
+      "heading": "VENT HOUSE",
+      "level": 1,
+      "start_line": 10747
+    },
+    {
+      "anchor": "beryllium-monitor",
+      "end_line": 10778,
+      "heading": "BERYLLIUM MONITOR",
+      "level": 1,
+      "start_line": 10769
+    },
+    {
+      "anchor": "stack-panel",
+      "end_line": 10786,
+      "heading": "STACK PANEL",
+      "level": 1,
+      "start_line": 10779
+    },
+    {
+      "anchor": "above-special-equipment-room",
+      "end_line": 10794,
+      "heading": "ABOVE SPECIAL EQUIPMENT ROOM",
+      "level": 1,
+      "start_line": 10787
+    },
+    {
+      "anchor": "south-side-of-office-building",
+      "end_line": 10798,
+      "heading": "South Side Of Office Building",
+      "level": 2,
+      "start_line": 10795
+    },
+    {
+      "anchor": "hot-change-room-and-high-bay",
+      "end_line": 10801,
+      "heading": "HOT CHANGE ROOM AND HIGH BAY",
+      "level": 1,
+      "start_line": 10799
+    },
+    {
+      "anchor": "q-2091",
+      "end_line": 10805,
+      "heading": "Q-2091",
+      "level": 2,
+      "start_line": 10802
+    },
+    {
+      "anchor": "beryllium-monitor",
+      "end_line": 10826,
+      "heading": "BERYLLIUM MONITOR",
+      "level": 1,
+      "start_line": 10806
+    },
+    {
+      "anchor": "high-bay",
+      "end_line": 10836,
+      "heading": "HIGH BAY",
+      "level": 1,
+      "start_line": 10827
+    },
+    {
+      "anchor": "852-level",
+      "end_line": 10842,
+      "heading": "852 LEVEL",
+      "level": 1,
+      "start_line": 10837
+    },
+    {
+      "anchor": "control-room",
+      "end_line": 10848,
+      "heading": "CONTROL ROOM",
+      "level": 1,
+      "start_line": 10843
+    },
+    {
+      "anchor": "852-level",
+      "end_line": 10854,
+      "heading": "852 LEVEL",
+      "level": 1,
+      "start_line": 10849
+    },
+    {
+      "anchor": "12b-check-lists",
+      "end_line": 10900,
+      "heading": "12B CHECK Lists",
+      "level": 1,
+      "start_line": 10855
+    },
+    {
+      "anchor": "table-12b-1-1-shift-supervisor-s-check-list",
+      "end_line": 10917,
+      "heading": "Table 12B 1.1 Shift Supervisor'S Check List",
+      "level": 2,
+      "start_line": 10901
+    },
+    {
+      "anchor": "table-12b-1-1-addendum-1",
+      "end_line": 10919,
+      "heading": "TABLE 12B 1.1 ADDENDUM 1",
+      "level": 1,
+      "start_line": 10918
+    },
+    {
+      "anchor": "shift-supervisor-s-check-list",
+      "end_line": 10932,
+      "heading": "SHIFT SUPERVISOR'S CHECK LIST",
+      "level": 1,
+      "start_line": 10920
+    },
+    {
+      "anchor": "table-12b-1-2",
+      "end_line": 10934,
+      "heading": "TABLE 12B 1.2",
+      "level": 1,
+      "start_line": 10933
+    },
+    {
+      "anchor": "assistant-shift-supervisor-s-check-list",
+      "end_line": 10951,
+      "heading": "ASSISTANT SHIFT SUPERVISOR'S CHECK LIST",
+      "level": 1,
+      "start_line": 10935
+    },
+    {
+      "anchor": "12b-2-1",
+      "end_line": 10953,
+      "heading": "12B 2.1",
+      "level": 1,
+      "start_line": 10952
+    },
+    {
+      "anchor": "12-8-shift-weekly-check-list",
+      "end_line": 10977,
+      "heading": "12-8 SHIFT WEEKLY CHECK LIST",
+      "level": 1,
+      "start_line": 10954
+    },
+    {
+      "anchor": "sight-glass-level",
+      "end_line": 10989,
+      "heading": "Sight Glass Level",
+      "level": 1,
+      "start_line": 10978
+    },
+    {
+      "anchor": "3-continued",
+      "end_line": 11026,
+      "heading": "3 (continued)",
+      "level": 1,
+      "start_line": 10990
+    },
+    {
+      "anchor": "ccp-3",
+      "end_line": 11058,
+      "heading": "Ccp-3",
+      "level": 2,
+      "start_line": 11027
+    },
+    {
+      "anchor": "bfp-809-1-bfp-819",
+      "end_line": 11092,
+      "heading": "Bfp 809-1 Bfp 819",
+      "level": 2,
+      "start_line": 11059
+    },
+    {
+      "anchor": "12b-2-2",
+      "end_line": 11094,
+      "heading": "12B 2.2",
+      "level": 1,
+      "start_line": 11093
+    },
+    {
+      "anchor": "8-4-shift-weekly-check-list",
+      "end_line": 11118,
+      "heading": "8-4 SHIFT WEEKLY CHECK LIST",
+      "level": 1,
+      "start_line": 11095
+    },
+    {
+      "anchor": "12b-2-3",
+      "end_line": 11120,
+      "heading": "12B 2.3",
+      "level": 1,
+      "start_line": 11119
+    },
+    {
+      "anchor": "4-12-shift-weekly-check-list",
+      "end_line": 11165,
+      "heading": "4-12 SHIFT WEEKLY CHECK LIST",
+      "level": 1,
+      "start_line": 11121
+    },
+    {
+      "anchor": "7-continued",
+      "end_line": 11176,
+      "heading": "7. (continued)",
+      "level": 1,
+      "start_line": 11166
+    },
+    {
+      "anchor": "12b-3",
+      "end_line": 11178,
+      "heading": "12B-3",
+      "level": 1,
+      "start_line": 11177
+    },
+    {
+      "anchor": "operations-supplies-check-list",
+      "end_line": 11189,
+      "heading": "OPERATIONS SUPPLIES CHECK LIST",
+      "level": 1,
+      "start_line": 11179
+    },
+    {
+      "anchor": "helium",
+      "end_line": 11258,
+      "heading": "Helium",
+      "level": 1,
+      "start_line": 11190
+    },
+    {
+      "anchor": "12c-recorders-and-indicators",
+      "end_line": 11272,
+      "heading": "12C RECORDERS AND INDICATORS",
+      "level": 1,
+      "start_line": 11259
+    },
+    {
+      "anchor": "referring-to-charts",
+      "end_line": 11278,
+      "heading": "Referring to Charts.",
+      "level": 1,
+      "start_line": 11273
+    },
+    {
+      "anchor": "details-of-recorder-and-indicator-operations-are-as-follows",
+      "end_line": 11288,
+      "heading": "Details of Recorder and Indicator Operations are as follows:",
+      "level": 1,
+      "start_line": 11279
+    },
+    {
+      "anchor": "12d-computer",
+      "end_line": 11292,
+      "heading": "12D COMPUTER",
+      "level": 1,
+      "start_line": 11289
+    },
+    {
+      "anchor": "1-typer-output",
+      "end_line": 11296,
+      "heading": "1 TYPER OUTPUT",
+      "level": 1,
+      "start_line": 11293
+    },
+    {
+      "anchor": "2-magnetic-tapes",
+      "end_line": 11300,
+      "heading": "2 MAGNETIC TAPES",
+      "level": 1,
+      "start_line": 11297
+    },
+    {
+      "anchor": "3-graphs",
+      "end_line": 11304,
+      "heading": "3 GRAPHS",
+      "level": 1,
+      "start_line": 11301
+    },
+    {
+      "anchor": "12e-tags-and-signs",
+      "end_line": 11308,
+      "heading": "12E TAGS AND SIGNS",
+      "level": 1,
+      "start_line": 11305
+    },
+    {
+      "anchor": "1-tags",
+      "end_line": 11312,
+      "heading": "1 TAGS",
+      "level": 1,
+      "start_line": 11309
+    },
+    {
+      "anchor": "1-1-operational-tags",
+      "end_line": 11316,
+      "heading": "1.1 Operational Tags",
+      "level": 1,
+      "start_line": 11313
+    },
+    {
+      "anchor": "1-2-do-not-operate-tags",
+      "end_line": 11322,
+      "heading": "1.2 \"Do Not Operate\" Tags",
+      "level": 1,
+      "start_line": 11317
+    },
+    {
+      "anchor": "keep-valve-closed-or-switch-off",
+      "end_line": 11330,
+      "heading": "KEEP VALVE CLOSED OR SWITCH OFF",
+      "level": 1,
+      "start_line": 11323
+    },
+    {
+      "anchor": "ucn-5924",
+      "end_line": 11339,
+      "heading": "Ucn - 5924",
+      "level": 2,
+      "start_line": 11331
+    },
+    {
+      "anchor": "keep-valve-closed-or-switch-off",
+      "end_line": 11347,
+      "heading": "KEEP VALVE CLOSED OR SWITCH OFF",
+      "level": 1,
+      "start_line": 11340
+    },
+    {
+      "anchor": "ucn-5923",
+      "end_line": 11351,
+      "heading": "Ucn-5923",
+      "level": 2,
+      "start_line": 11348
+    },
+    {
+      "anchor": "do-not-operate",
+      "end_line": 11353,
+      "heading": "DO NOT OPERATE",
+      "level": 1,
+      "start_line": 11352
+    },
+    {
+      "anchor": "ucn-5925",
+      "end_line": 11365,
+      "heading": "Ucn-5925",
+      "level": 2,
+      "start_line": 11354
+    },
+    {
+      "anchor": "red-cardboard",
+      "end_line": 11367,
+      "heading": "Red Cardboard",
+      "level": 2,
+      "start_line": 11366
+    },
+    {
+      "anchor": "white-paper-with",
+      "end_line": 11369,
+      "heading": "White Paper With",
+      "level": 2,
+      "start_line": 11368
+    },
+    {
+      "anchor": "red-cardboard",
+      "end_line": 11371,
+      "heading": "Red Cardboard",
+      "level": 2,
+      "start_line": 11370
+    },
+    {
+      "anchor": "behind-and-carbon",
+      "end_line": 11373,
+      "heading": "Behind And Carbon",
+      "level": 2,
+      "start_line": 11372
+    },
+    {
+      "anchor": "paper-between",
+      "end_line": 11375,
+      "heading": "Paper Between",
+      "level": 2,
+      "start_line": 11374
+    },
+    {
+      "anchor": "1-2-continued",
+      "end_line": 11379,
+      "heading": "1.2 (continued)",
+      "level": 1,
+      "start_line": 11376
+    },
+    {
+      "anchor": "2-signs",
+      "end_line": 11405,
+      "heading": "2 SIGNS",
+      "level": 1,
+      "start_line": 11380
+    },
+    {
+      "anchor": "13-maintenance-and-changes",
+      "end_line": 11413,
+      "heading": "13 MAINTENANCE AND CHANGES",
+      "level": 1,
+      "start_line": 11406
+    },
+    {
+      "anchor": "13a-maintenance",
+      "end_line": 11415,
+      "heading": "13A MAINTENANCE",
+      "level": 1,
+      "start_line": 11414
+    },
+    {
+      "anchor": "definition",
+      "end_line": 11419,
+      "heading": "DEFINITION",
+      "level": 1,
+      "start_line": 11416
+    },
+    {
+      "anchor": "2-procedure",
+      "end_line": 11423,
+      "heading": "2 PROCEDURE",
+      "level": 1,
+      "start_line": 11420
+    },
+    {
+      "anchor": "2-1-initial-request",
+      "end_line": 11435,
+      "heading": "2.1 Initial Request",
+      "level": 1,
+      "start_line": 11424
+    },
+    {
+      "anchor": "2-2-handling-by-operations-group",
+      "end_line": 11439,
+      "heading": "2.2 Handling by Operations Group",
+      "level": 1,
+      "start_line": 11436
+    },
+    {
+      "anchor": "punch-list",
+      "end_line": 11441,
+      "heading": "Punch List",
+      "level": 2,
+      "start_line": 11440
+    },
+    {
+      "anchor": "figure-13-1",
+      "end_line": 11445,
+      "heading": "Figure 13.1",
+      "level": 2,
+      "start_line": 11442
+    },
+    {
+      "anchor": "ucn-5879-1-65",
+      "end_line": 11463,
+      "heading": "Ucn-5879 1-65",
+      "level": 2,
+      "start_line": 11446
+    },
+    {
+      "anchor": "2-3-execution-of-simple-jobs",
+      "end_line": 11478,
+      "heading": "2.3 Execution of Simple Jobs",
+      "level": 1,
+      "start_line": 11464
+    },
+    {
+      "anchor": "2-4-execution-of-complicated-jobs",
+      "end_line": 11492,
+      "heading": "2.4 Execution of Complicated Jobs",
+      "level": 1,
+      "start_line": 11479
+    },
+    {
+      "anchor": "msre-work-request",
+      "end_line": 11496,
+      "heading": "Msre Work Request",
+      "level": 2,
+      "start_line": 11493
+    },
+    {
+      "anchor": "description-of-work",
+      "end_line": 11498,
+      "heading": "Description Of Work",
+      "level": 2,
+      "start_line": 11497
+    },
+    {
+      "anchor": "approved-maintenance",
+      "end_line": 11500,
+      "heading": "Approved Maintenance",
+      "level": 2,
+      "start_line": 11499
+    },
+    {
+      "anchor": "approved-operations",
+      "end_line": 11502,
+      "heading": "Approved Operations",
+      "level": 2,
+      "start_line": 11501
+    },
+    {
+      "anchor": "precautions",
+      "end_line": 11504,
+      "heading": "Precautions",
+      "level": 2,
+      "start_line": 11503
+    },
+    {
+      "anchor": "shift-supervisor-s-approval-to-proceed",
+      "end_line": 11510,
+      "heading": "Shift Supervisor'S Approval To Proceed",
+      "level": 2,
+      "start_line": 11505
+    },
+    {
+      "anchor": "remarks",
+      "end_line": 11512,
+      "heading": "Remarks",
+      "level": 2,
+      "start_line": 11511
+    },
+    {
+      "anchor": "ucn-3824",
+      "end_line": 11516,
+      "heading": "Ucn-3824",
+      "level": 2,
+      "start_line": 11513
+    },
+    {
+      "anchor": "date-completed",
+      "end_line": 11518,
+      "heading": "Date Completed",
+      "level": 2,
+      "start_line": 11517
+    },
+    {
+      "anchor": "figure-13-2",
+      "end_line": 11548,
+      "heading": "Figure 13.2",
+      "level": 2,
+      "start_line": 11519
+    },
+    {
+      "anchor": "13b-modifications",
+      "end_line": 11550,
+      "heading": "13B MODIFICATIONS",
+      "level": 1,
+      "start_line": 11549
+    },
+    {
+      "anchor": "definition",
+      "end_line": 11554,
+      "heading": "DEFINITION",
+      "level": 1,
+      "start_line": 11551
+    },
+    {
+      "anchor": "2-procedure",
+      "end_line": 11556,
+      "heading": "2 PROCEDURE",
+      "level": 1,
+      "start_line": 11555
+    },
+    {
+      "anchor": "2-1-request",
+      "end_line": 11560,
+      "heading": "2.1 Request",
+      "level": 1,
+      "start_line": 11557
+    },
+    {
+      "anchor": "2-2-review",
+      "end_line": 11566,
+      "heading": "2.2 Review",
+      "level": 1,
+      "start_line": 11561
+    },
+    {
+      "anchor": "msre-change-request",
+      "end_line": 11570,
+      "heading": "Msre Change Request",
+      "level": 2,
+      "start_line": 11567
+    },
+    {
+      "anchor": "description-and-purpose",
+      "end_line": 11572,
+      "heading": "Description And Purpose",
+      "level": 2,
+      "start_line": 11571
+    },
+    {
+      "anchor": "documents-affected",
+      "end_line": 11574,
+      "heading": "Documents Affected",
+      "level": 2,
+      "start_line": 11573
+    },
+    {
+      "anchor": "approval-to-proceed",
+      "end_line": 11578,
+      "heading": "Approval To Proceed",
+      "level": 2,
+      "start_line": 11575
+    },
+    {
+      "anchor": "comments-of-reviewers",
+      "end_line": 11580,
+      "heading": "Comments Of Reviewers",
+      "level": 2,
+      "start_line": 11579
+    },
+    {
+      "anchor": "assignments",
+      "end_line": 11584,
+      "heading": "Assignments",
+      "level": 2,
+      "start_line": 11581
+    },
+    {
+      "anchor": "remarks",
+      "end_line": 11586,
+      "heading": "Remarks",
+      "level": 2,
+      "start_line": 11585
+    },
+    {
+      "anchor": "ucn-6820",
+      "end_line": 11590,
+      "heading": "Ucn-6820",
+      "level": 2,
+      "start_line": 11587
+    },
+    {
+      "anchor": "figure-13-3",
+      "end_line": 11596,
+      "heading": "Figure 13.3",
+      "level": 2,
+      "start_line": 11591
+    },
+    {
+      "anchor": "2-3-action",
+      "end_line": 11604,
+      "heading": "2.3 Action",
+      "level": 1,
+      "start_line": 11597
+    },
+    {
+      "anchor": "13c-changes-in-operating-procedures",
+      "end_line": 11624,
+      "heading": "13C CHANGES IN OPERATING PROCEDURES",
+      "level": 1,
+      "start_line": 11605
+    },
+    {
+      "anchor": "13d-changes-in-computer-program",
+      "end_line": 11632,
+      "heading": "13D CHANGES IN COMPUTER PROGRAM",
+      "level": 1,
+      "start_line": 11625
+    },
+    {
+      "anchor": "13e-revision-of-approved-documents",
+      "end_line": 11649,
+      "heading": "13E REVISION OF APPROVED DOCUMENTS",
+      "level": 1,
+      "start_line": 11633
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 11651,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 11650
+    },
+    {
+      "anchor": "bound-copies",
+      "end_line": 11741,
+      "heading": "Bound Copies",
+      "level": 1,
+      "start_line": 11652
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 11743,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 11742
+    },
+    {
+      "anchor": "bound-copies",
+      "end_line": 11751,
+      "heading": "Bound Copies",
+      "level": 1,
+      "start_line": 11744
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0908B",
+  "tables": [],
+  "title": "![](images/f3ed060aab511dba2c5cc73855ebd887a9e74c6c343113daa8dbdac27d2dd102.jpg)",
+  "topics": [
+    "reactor-operations",
+    "pumps-loops-and-heat-exchangers",
+    "instrumentation-and-controls",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": []
+}

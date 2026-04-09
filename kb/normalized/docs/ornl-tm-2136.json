@@ -1,0 +1,963 @@
+{
+  "authors": [
+    "LEGAL NOTICE",
+    "MOLTEN SALT REACTOR PROGRAM",
+    "P. R. Kasten",
+    "E. S. Bettis",
+    "W. H. Cook",
+    "W. P. Eatherly"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2136.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2136",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 230,
+        "line_hits": [
+          3,
+          18,
+          75,
+          77,
+          78,
+          79,
+          98,
+          101,
+          104,
+          116,
+          146,
+          148,
+          150,
+          154,
+          156,
+          158,
+          160,
+          164,
+          168,
+          170,
+          172,
+          174,
+          176,
+          178,
+          180,
+          182,
+          184,
+          186,
+          188,
+          190,
+          191,
+          192,
+          193,
+          194,
+          196,
+          200,
+          202,
+          204,
+          206,
+          208,
+          209,
+          210,
+          211,
+          213,
+          215,
+          217,
+          221,
+          223,
+          225,
+          227
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          662,
+          664,
+          667,
+          677,
+          683,
+          883,
+          956
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          632,
+          671,
+          954,
+          970
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          632,
+          671,
+          954,
+          970
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1024
+        ],
+        "name": "pyrolytic graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1284
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1050
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 9,
+        "line_hits": [
+          92,
+          178,
+          689,
+          691,
+          696,
+          704,
+          706,
+          735,
+          956
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          94,
+          712,
+          714,
+          716,
+          718,
+          725,
+          792
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          735,
+          745,
+          839
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          700
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          855
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 12,
+        "line_hits": [
+          65,
+          1125,
+          1166,
+          1187,
+          1197,
+          1198,
+          1208,
+          1210,
+          1211,
+          1214,
+          1226,
+          1244
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          1,
+          55,
+          630,
+          632,
+          656,
+          693,
+          809,
+          847,
+          857,
+          1020,
+          1062
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          669
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          61
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 108,
+        "line_hits": [
+          3,
+          18,
+          98,
+          100,
+          101,
+          116,
+          146,
+          148,
+          150,
+          154,
+          156,
+          158,
+          160,
+          170,
+          172,
+          174,
+          178,
+          180,
+          182,
+          184,
+          186,
+          188,
+          190,
+          191,
+          192,
+          194,
+          204,
+          213,
+          215,
+          256,
+          258,
+          341,
+          350,
+          409,
+          415,
+          418,
+          421,
+          454,
+          530,
+          534,
+          594,
+          596,
+          600,
+          606,
+          612,
+          626,
+          638,
+          642,
+          644,
+          673
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 79,
+        "line_hits": [
+          146,
+          154,
+          158,
+          160,
+          164,
+          166,
+          168,
+          172,
+          182,
+          184,
+          188,
+          204,
+          206,
+          223,
+          227,
+          235,
+          237,
+          325,
+          339,
+          352,
+          373,
+          401,
+          409,
+          415,
+          429,
+          441,
+          449,
+          510,
+          532,
+          534,
+          576,
+          594,
+          596,
+          600,
+          606,
+          612,
+          614,
+          626,
+          650,
+          671,
+          679,
+          702,
+          704,
+          706,
+          710,
+          718,
+          722,
+          731,
+          735,
+          737
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 32,
+        "line_hits": [
+          91,
+          92,
+          148,
+          178,
+          180,
+          592,
+          656,
+          660,
+          662,
+          667,
+          671,
+          677,
+          679,
+          681,
+          687,
+          689,
+          691,
+          696,
+          702,
+          704,
+          706,
+          710,
+          714,
+          716,
+          718,
+          733,
+          887,
+          954,
+          956,
+          984,
+          994,
+          1004
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          174,
+          580,
+          592,
+          614,
+          652
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          612
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "25cba7fe8fbb7017922c4084a3259935988fcf6cb394252e16286e76ddc7c975",
+  "markdown_path": "pdf/ORNL-TM-2136/ORNL-TM-2136/hybrid_ocr/ORNL-TM-2136.md",
+  "report_number": "ORNL-TM-2136",
+  "report_numbers": [
+    "ORNL-TM-2136"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 76,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2136",
+      "end_line": 2,
+      "heading": "Ornl-Tm-2136",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "graphite-behavior-and-its-effects-on-msbr-performance",
+      "end_line": 4,
+      "heading": "Graphite Behavior And Its Effects On Msbr Performance",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 15,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "molten-salt-reactor-program",
+      "end_line": 17,
+      "heading": "Molten Salt Reactor Program",
+      "level": 2,
+      "start_line": 16
+    },
+    {
+      "anchor": "graphite-behavior-and-its-effects-on-msbr-performance",
+      "end_line": 45,
+      "heading": "GRAPHITE BEHAVIOR AND ITS EFFECTS ON MSBR PERFORMANCE",
+      "level": 1,
+      "start_line": 18
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 52,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "february-1969",
+      "end_line": 54,
+      "heading": "February 1969",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 60,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 64,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 68,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "contents",
+      "end_line": 70,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 72,
+      "heading": "ABSTRACT 1",
+      "level": 1,
+      "start_line": 71
+    },
+    {
+      "anchor": "1-introduction-2",
+      "end_line": 73,
+      "heading": "1. INTRODUCTION 2",
+      "level": 2,
+      "start_line": 73
+    },
+    {
+      "anchor": "2-summary-and-conclusions-3",
+      "end_line": 74,
+      "heading": "2. SUMMARY AND CONCLUSIONS 3",
+      "level": 2,
+      "start_line": 74
+    },
+    {
+      "anchor": "3-graphite-behavior-9",
+      "end_line": 87,
+      "heading": "3. GRAPHITE BEHAVIOR 9",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "4-fission-product-behavior-in-molten-salt-reactor-systems-42",
+      "end_line": 96,
+      "heading": "4. FISSION PRODUCT BEHAVIOR IN MOLTEN-SALT REACTOR SYSTEMS 42",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "5-noble-gas-behavior-in-the-mser-53",
+      "end_line": 97,
+      "heading": "5. NOBLE-GAS BEHAVIOR IN THE MSER 53",
+      "level": 2,
+      "start_line": 97
+    },
+    {
+      "anchor": "6-influence-of-graphite-behavior-on-msbr-performance-and-design-61",
+      "end_line": 106,
+      "heading": "6. INFLUENCE OF GRAPHITE BEHAVIOR ON MSBR PERFORMANCE AND DESIGN 61",
+      "level": 2,
+      "start_line": 98
+    },
+    {
+      "anchor": "7-program-to-develop-improved-graphtites-for-mser-s-80",
+      "end_line": 115,
+      "heading": "7. PROGRAM TO DEVELOP IMPROVED GRAPHTITES FOR MSER'S 80",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "appendix-graphite-exposure-measurements-and-their-relationships-to-exposures-in-an-msbr-83",
+      "end_line": 117,
+      "heading": "APPENDIX - Graphite Exposure Measurements and Their Relationships to Exposures in an MSBR 83",
+      "level": 1,
+      "start_line": 116
+    },
+    {
+      "anchor": "p-r-kasten",
+      "end_line": 143,
+      "heading": "P. R. Kasten",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 151,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 161,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "2-summary-and-conclusions",
+      "end_line": 195,
+      "heading": "2. SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "3-graphite-behavior",
+      "end_line": 216,
+      "heading": "3. GRAPHITE BEHAVIOR",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "3-1-irradiation-behavior-of-graphite",
+      "end_line": 218,
+      "heading": "3.1 Irradiation Behavior of Graphite",
+      "level": 1,
+      "start_line": 217
+    },
+    {
+      "anchor": "c-r-kennedy",
+      "end_line": 263,
+      "heading": "C. R. Kennedy",
+      "level": 1,
+      "start_line": 219
+    },
+    {
+      "anchor": "3-2-stresses-generated-in-graphite-during-irradiation",
+      "end_line": 523,
+      "heading": "3.2 Stresses Generated in Graphite During Irradiation",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "3-3-penetration-of-graphite-by-gases-and-salts",
+      "end_line": 527,
+      "heading": "3.3 Penetration of Graphite by Gases and Salts",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "3-3-1-penetration-by-gases",
+      "end_line": 577,
+      "heading": "3.3.1 Penetration by Gases",
+      "level": 1,
+      "start_line": 528
+    },
+    {
+      "anchor": "3-3-2-penetration-by-salts",
+      "end_line": 597,
+      "heading": "3.3.2 Penetration by Salts",
+      "level": 1,
+      "start_line": 578
+    },
+    {
+      "anchor": "3-3-3-pore-volume-sealing-techniques",
+      "end_line": 603,
+      "heading": "3.3.3 Pore Volume Sealing Techniques",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "liquid-impregnations",
+      "end_line": 619,
+      "heading": "Liquid Impregnations",
+      "level": 1,
+      "start_line": 604
+    },
+    {
+      "anchor": "3-3-4-surface-coatings-and-seals",
+      "end_line": 633,
+      "heading": "3.3.4 Surface Coatings and Seals",
+      "level": 1,
+      "start_line": 620
+    },
+    {
+      "anchor": "3-4-near-term-industrial-production-capability",
+      "end_line": 645,
+      "heading": "3.4 Near-Term Industrial Production Capability",
+      "level": 1,
+      "start_line": 634
+    },
+    {
+      "anchor": "4-fission-product-behavior-in-molten-salt-reactor-systems",
+      "end_line": 647,
+      "heading": "4. FISSION PRODUCT BEHAVIOR IN MOLTEN-SALT REACTOR SYSTEMS",
+      "level": 1,
+      "start_line": 646
+    },
+    {
+      "anchor": "s-s-kirslis",
+      "end_line": 653,
+      "heading": "S. S. Kirslis",
+      "level": 1,
+      "start_line": 648
+    },
+    {
+      "anchor": "4-1-in-pile-capsule-tests",
+      "end_line": 659,
+      "heading": "4.1 In-Pile Capsule Tests",
+      "level": 1,
+      "start_line": 654
+    },
+    {
+      "anchor": "4-2-exposure-tests-in-the-msre-core",
+      "end_line": 688,
+      "heading": "4.2 Exposure Tests in the MSRE Core",
+      "level": 1,
+      "start_line": 660
+    },
+    {
+      "anchor": "4-3-tests-in-the-msre-pump-bowl",
+      "end_line": 692,
+      "heading": "4.3 Tests in the MSRE Pump Bowl",
+      "level": 1,
+      "start_line": 689
+    },
+    {
+      "anchor": "ornl-dwg-67-10766r",
+      "end_line": 707,
+      "heading": "Ornl-Dwg 67-10766R",
+      "level": 2,
+      "start_line": 693
+    },
+    {
+      "anchor": "4-4-chemical-state-of-noble-metal-fission-products",
+      "end_line": 711,
+      "heading": "4.4 Chemical State of Noble-Metal Fission Products",
+      "level": 1,
+      "start_line": 708
+    },
+    {
+      "anchor": "4-5-results-from-orr-loop-experiments",
+      "end_line": 719,
+      "heading": "4.5 Results from ORR Loop Experiments",
+      "level": 1,
+      "start_line": 712
+    },
+    {
+      "anchor": "4-6-evaluation-of-results",
+      "end_line": 726,
+      "heading": "4.6 Evaluation of Results",
+      "level": 1,
+      "start_line": 720
+    },
+    {
+      "anchor": "5-noble-gas-behavior-in-the-msbr",
+      "end_line": 787,
+      "heading": "5. NOBLE-GAS BEHAVIOR IN THE MSBR",
+      "level": 1,
+      "start_line": 727
+    },
+    {
+      "anchor": "actually-since-the-recirculating-bubble-pass-thru-the-stripper",
+      "end_line": 788,
+      "heading": "Actually, Since The Recirculating Bubble Pass Thru The Stripper",
+      "level": 2,
+      "start_line": 788
+    },
+    {
+      "anchor": "region-twice-the-total-recirculating-bubble-area-in-this-region",
+      "end_line": 808,
+      "heading": "Region Twice, The Total Recirculating Bubble Area In This Region",
+      "level": 2,
+      "start_line": 789
+    },
+    {
+      "anchor": "ornl-dwg-68-7982",
+      "end_line": 810,
+      "heading": "Ornl-Dwg 68-7982",
+      "level": 2,
+      "start_line": 809
+    },
+    {
+      "anchor": "parameters",
+      "end_line": 818,
+      "heading": "Parameters",
+      "level": 2,
+      "start_line": 811
+    },
+    {
+      "anchor": "bulk-graphite-available-void-10",
+      "end_line": 824,
+      "heading": "Bulk Graphite Available Void = 10%",
+      "level": 2,
+      "start_line": 819
+    },
+    {
+      "anchor": "fuel-channel-geometry-concentric-annulus",
+      "end_line": 832,
+      "heading": "Fuel Channel Geometry = Concentric Annulus",
+      "level": 2,
+      "start_line": 825
+    },
+    {
+      "anchor": "6-influence-of-graphite-behavior-on-msbr-performance-and-design",
+      "end_line": 850,
+      "heading": "6. INFLUENCE OF GRAPHITE BEHAVIOR ON MSBR PERFORMANCE AND DESIGN",
+      "level": 2,
+      "start_line": 833
+    },
+    {
+      "anchor": "6-2-effect-of-graphite-dimensional-changes-on-msbr-performance",
+      "end_line": 852,
+      "heading": "6.2 Effect of Graphite Dimensional Changes on MSBR Performance",
+      "level": 1,
+      "start_line": 851
+    },
+    {
+      "anchor": "a-m-perry",
+      "end_line": 856,
+      "heading": "A. M. Perry",
+      "level": 1,
+      "start_line": 853
+    },
+    {
+      "anchor": "ornl-dwg-68-7983",
+      "end_line": 872,
+      "heading": "Ornl-Dwg 68-7983",
+      "level": 2,
+      "start_line": 857
+    },
+    {
+      "anchor": "6-3-mechanical-design-factors-and-cost-considerations",
+      "end_line": 936,
+      "heading": "6.3 Mechanical Design Factors and Cost Considerations",
+      "level": 1,
+      "start_line": 873
+    },
+    {
+      "anchor": "curve-a-one-month-chargeable-power-outage",
+      "end_line": 937,
+      "heading": "Curve A. One Month Chargeable Power Outage",
+      "level": 2,
+      "start_line": 937
+    },
+    {
+      "anchor": "curve-b-one-half-month-chargeable-power-outage",
+      "end_line": 938,
+      "heading": "Curve B. One-Half Month Chargeable Power Outage",
+      "level": 2,
+      "start_line": 938
+    },
+    {
+      "anchor": "curve-c-no-chargeable-power-outage",
+      "end_line": 940,
+      "heading": "Curve C. No Chargeable Power Outage",
+      "level": 2,
+      "start_line": 939
+    },
+    {
+      "anchor": "maximum-graphite-exposure",
+      "end_line": 947,
+      "heading": "Maximum Graphite Exposure",
+      "level": 2,
+      "start_line": 941
+    },
+    {
+      "anchor": "6-4-the-influence-on-msbr-performance-of",
+      "end_line": 949,
+      "heading": "6.4 The Influence on MSBR Performance of",
+      "level": 1,
+      "start_line": 948
+    },
+    {
+      "anchor": "noble-metal-deposition-on-graphite",
+      "end_line": 951,
+      "heading": "Noble-Metal Deposition on Graphite",
+      "level": 1,
+      "start_line": 950
+    },
+    {
+      "anchor": "a-m-perry",
+      "end_line": 995,
+      "heading": "A. M. Perry",
+      "level": 1,
+      "start_line": 952
+    },
+    {
+      "anchor": "6-5-conclusions",
+      "end_line": 1005,
+      "heading": "6.5 Conclusions",
+      "level": 1,
+      "start_line": 996
+    },
+    {
+      "anchor": "7-program-to-develop-improved-graphite-for-msbr-s",
+      "end_line": 1029,
+      "heading": "7. PROGRAM TO DEVELOP IMPROVED GRAPHITE FOR MSBR'S",
+      "level": 1,
+      "start_line": 1006
+    },
+    {
+      "anchor": "7-1-fundamental-physical-studies",
+      "end_line": 1041,
+      "heading": "7.1 Fundamental Physical Studies",
+      "level": 1,
+      "start_line": 1030
+    },
+    {
+      "anchor": "7-2-fundamental-chemical-studies",
+      "end_line": 1053,
+      "heading": "7.2 Fundamental Chemical Studies",
+      "level": 1,
+      "start_line": 1042
+    },
+    {
+      "anchor": "7-3-fabrication-studies",
+      "end_line": 1063,
+      "heading": "7.3 Fabrication Studies",
+      "level": 1,
+      "start_line": 1054
+    },
+    {
+      "anchor": "7-4-engineering-properties",
+      "end_line": 1069,
+      "heading": "7.4 Engineering Properties",
+      "level": 1,
+      "start_line": 1064
+    },
+    {
+      "anchor": "7-5-irradiation-program",
+      "end_line": 1077,
+      "heading": "7.5 Irradiation Program",
+      "level": 1,
+      "start_line": 1070
+    },
+    {
+      "anchor": "7-6-conclusions",
+      "end_line": 1083,
+      "heading": "7.6 Conclusions",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 1085,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 1084
+    },
+    {
+      "anchor": "graphite-exposure-measurements-and-their-relationships",
+      "end_line": 1087,
+      "heading": "Graphite Exposure Measurements and Their Relationships",
+      "level": 1,
+      "start_line": 1086
+    },
+    {
+      "anchor": "to-exposures-in-an-msbr",
+      "end_line": 1122,
+      "heading": "to Exposures in an MSBR",
+      "level": 1,
+      "start_line": 1088
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1279,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 1123
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1284,
+      "heading": "External Distribution",
+      "level": 1,
+      "start_line": 1280
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2136",
+  "tables": [],
+  "title": "ORNL-TM-2136",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "off-gas-fission-products-and-tritium",
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "irradiation-and-damage",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "reactor-operations"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

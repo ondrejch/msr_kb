@@ -1,0 +1,1649 @@
+{
+  "authors": [
+    "EXCHANGERS FOR THE MSBR",
+    "A. P. Fraas",
+    "M. E. LaVerne",
+    "NOTICE",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2952.jsonl",
+  "date_text": "1971",
+  "doc_id": "ornl-tm-2952",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 4,
+        "line_hits": [
+          473,
+          477,
+          487,
+          526
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          473,
+          487,
+          519
+        ],
+        "name": "Hastelloy B"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          473,
+          487,
+          518
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          473,
+          487
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          473,
+          518
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          376
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          473
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          473
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 38,
+        "line_hits": [
+          49,
+          91,
+          101,
+          107,
+          111,
+          113,
+          119,
+          121,
+          125,
+          127,
+          135,
+          143,
+          145,
+          147,
+          150,
+          156,
+          158,
+          162,
+          164,
+          366,
+          376,
+          378,
+          392,
+          396,
+          408,
+          434,
+          462,
+          489,
+          493,
+          501,
+          505,
+          509,
+          510,
+          515,
+          539,
+          663,
+          665,
+          687
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          473,
+          477,
+          485,
+          487,
+          518
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          396,
+          501,
+          505,
+          509
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          483,
+          489,
+          529
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          85,
+          495
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          487,
+          519
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 20,
+        "line_hits": [
+          19,
+          31,
+          517,
+          520,
+          521,
+          522,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529,
+          979,
+          980,
+          981,
+          983,
+          985,
+          986,
+          990,
+          991
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          1,
+          21,
+          493,
+          509,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          27
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 24,
+        "line_hits": [
+          107,
+          158,
+          160,
+          202,
+          252,
+          316,
+          328,
+          350,
+          372,
+          378,
+          408,
+          410,
+          436,
+          460,
+          473,
+          475,
+          493,
+          497,
+          505,
+          611,
+          831,
+          833,
+          841,
+          863
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          11,
+          111,
+          388,
+          400,
+          469,
+          516
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 25,
+        "line_hits": [
+          107,
+          123,
+          125,
+          127,
+          133,
+          376,
+          390,
+          398,
+          406,
+          410,
+          432,
+          434,
+          462,
+          465,
+          469,
+          473,
+          475,
+          477,
+          485,
+          487,
+          489,
+          493,
+          497,
+          501,
+          505
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          469,
+          473,
+          475,
+          477,
+          479,
+          487,
+          489,
+          493,
+          501,
+          505,
+          526
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          384,
+          385,
+          487,
+          497,
+          526
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          385,
+          487
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          385,
+          487
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          386,
+          487
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          386,
+          487
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          473,
+          517
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          487
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          487
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          487
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          487
+        ],
+        "name": "LiF-BeF2-ThF4-UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          487
+        ],
+        "name": "LiF-BeF2-UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "129eecb5349c63982efc7fa9218753d59d66731774d28b4feb4d169125106312",
+  "markdown_path": "pdf/ORNL-TM-2952/ORNL-TM-2952/hybrid_ocr/ORNL-TM-2952.md",
+  "report_number": "ORNL-TM-2952",
+  "report_numbers": [
+    "ORNL-TM-2952"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 173,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2952",
+      "end_line": 4,
+      "heading": "Ornl-Tm-2952",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "reactor-division",
+      "end_line": 6,
+      "heading": "Reactor Division",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "parametric-survey-of-the-effects-of-major-parameters",
+      "end_line": 8,
+      "heading": "Parametric Survey Of The Effects Of Major Parameters",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "on-the-design-of-fuel-to-inert-salt-heat",
+      "end_line": 10,
+      "heading": "On The Design Of Fuel-To-Inert-Salt Heat",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "exchangers-for-the-msbr",
+      "end_line": 14,
+      "heading": "Exchangers For The Msbr",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "november-1971",
+      "end_line": 16,
+      "heading": "November 1971",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "notice",
+      "end_line": 20,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 30,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 36,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "contents",
+      "end_line": 38,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 40,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 42,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "summary-2",
+      "end_line": 44,
+      "heading": "Summary 2",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "analysis-4",
+      "end_line": 74,
+      "heading": "Analysis 4",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "parametric-study-15",
+      "end_line": 76,
+      "heading": "Parametric Study 15",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "choice-of-inert-salt-29",
+      "end_line": 88,
+      "heading": "Choice Of Inert Salt 29",
+      "level": 2,
+      "start_line": 77
+    },
+    {
+      "anchor": "references-35",
+      "end_line": 100,
+      "heading": "References 35",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "parametric-survey-of-the-effects-of-major-parameters-on-the-design-of-fuel-to-inert-salt-heat-exchangers-for-molten-salt-reactors",
+      "end_line": 104,
+      "heading": "PARAMETRIC SURVEY OF THE EFFECTS OF MAJOR PARAMETERS ON THE DESIGN OF FUEL-TO-INERT-SALT HEAT EXCHANGERS FOR MOLTEN SALT REACTORS",
+      "level": 1,
+      "start_line": 101
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 108,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 116,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "summary",
+      "end_line": 136,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 117
+    },
+    {
+      "anchor": "analysis",
+      "end_line": 140,
+      "heading": "ANALYSIS",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "design-bases-and-criteria",
+      "end_line": 161,
+      "heading": "Design Bases and Criteria",
+      "level": 1,
+      "start_line": 141
+    },
+    {
+      "anchor": "derivation-of-heat-exchanger-equations",
+      "end_line": 165,
+      "heading": "Derivation of Heat Exchanger Equations",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "heat-balances",
+      "end_line": 199,
+      "heading": "Heat Balances",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "convective-heat-transfer",
+      "end_line": 211,
+      "heading": "Convective Heat Transfer",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "temperature-difference-between-fluids",
+      "end_line": 225,
+      "heading": "Temperature Difference Between Fluids",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "pressure-drops",
+      "end_line": 261,
+      "heading": "Pressure Drops",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "solution-of-the-equations",
+      "end_line": 265,
+      "heading": "Solution of the Equations",
+      "level": 1,
+      "start_line": 262
+    },
+    {
+      "anchor": "reduction-to-a-single-equation",
+      "end_line": 339,
+      "heading": "Reduction to a Single Equation",
+      "level": 1,
+      "start_line": 266
+    },
+    {
+      "anchor": "computer-solution",
+      "end_line": 343,
+      "heading": "Computer Solution",
+      "level": 1,
+      "start_line": 340
+    },
+    {
+      "anchor": "extensions-of-the-analysis",
+      "end_line": 347,
+      "heading": "Extensions of the Analysis",
+      "level": 1,
+      "start_line": 344
+    },
+    {
+      "anchor": "other-fluids",
+      "end_line": 351,
+      "heading": "Other Fluids",
+      "level": 1,
+      "start_line": 348
+    },
+    {
+      "anchor": "tube-patterns",
+      "end_line": 363,
+      "heading": "Tube Patterns",
+      "level": 1,
+      "start_line": 352
+    },
+    {
+      "anchor": "other-conditions",
+      "end_line": 373,
+      "heading": "Other Conditions",
+      "level": 1,
+      "start_line": 364
+    },
+    {
+      "anchor": "parametric-study",
+      "end_line": 466,
+      "heading": "PARAMETRIC STUDY",
+      "level": 1,
+      "start_line": 374
+    },
+    {
+      "anchor": "choice-of-inert-salt",
+      "end_line": 470,
+      "heading": "CHOICE OF INERT SALT",
+      "level": 1,
+      "start_line": 467
+    },
+    {
+      "anchor": "materials-compatibility-considerations",
+      "end_line": 480,
+      "heading": "Materials Compatibility Considerations",
+      "level": 1,
+      "start_line": 471
+    },
+    {
+      "anchor": "melting-point",
+      "end_line": 490,
+      "heading": "Melting Point",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "leakage-problems",
+      "end_line": 494,
+      "heading": "Leakage Problems",
+      "level": 1,
+      "start_line": 491
+    },
+    {
+      "anchor": "off-gas-problems",
+      "end_line": 498,
+      "heading": "Off-Gas Problems",
+      "level": 1,
+      "start_line": 495
+    },
+    {
+      "anchor": "heat-transfer-performance",
+      "end_line": 502,
+      "heading": "Heat Transfer Performance",
+      "level": 1,
+      "start_line": 499
+    },
+    {
+      "anchor": "tritium-leakage",
+      "end_line": 506,
+      "heading": "Tritium Leakage",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "references",
+      "end_line": 530,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 536,
+      "heading": "Appendices",
+      "level": 2,
+      "start_line": 531
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 538,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 537
+    },
+    {
+      "anchor": "solution-of-the-heat-exchanger-equations",
+      "end_line": 662,
+      "heading": "Solution of the Heat Exchanger Equations",
+      "level": 1,
+      "start_line": 539
+    },
+    {
+      "anchor": "appendix-b-fortran-program-for-computer-solution-of-the-heat-exchanger-equations",
+      "end_line": 666,
+      "heading": "APPENDIX B. FORTRAN PROGRAM FOR COMPUTER SOLUTION OF THE HEAT EXCHANGER EQUATIONS",
+      "level": 1,
+      "start_line": 663
+    },
+    {
+      "anchor": "program-line-no",
+      "end_line": 668,
+      "heading": "Program Line No.",
+      "level": 1,
+      "start_line": 667
+    },
+    {
+      "anchor": "operation",
+      "end_line": 684,
+      "heading": "Operation",
+      "level": 1,
+      "start_line": 669
+    },
+    {
+      "anchor": "heatx2",
+      "end_line": 686,
+      "heading": "HEATX2",
+      "level": 1,
+      "start_line": 685
+    },
+    {
+      "anchor": "1-heatx2-heat-exchanger-design-m-layerne-9102-3-5702",
+      "end_line": 687,
+      "heading": "1\\* Heatx2. Heat Exchanger Design. M. Layerne. 9102 3-5702",
+      "level": 2,
+      "start_line": 687
+    },
+    {
+      "anchor": "2-19-mar-1970",
+      "end_line": 689,
+      "heading": "2\\* 19 Mar 1970",
+      "level": 2,
+      "start_line": 688
+    },
+    {
+      "anchor": "100-real-mus-mut-ks-kt-kwall-ltube-ntube",
+      "end_line": 690,
+      "heading": "100 REAL MUS, MUT, KS, KT, KWALL, LTUBE, NTUBE",
+      "level": 2,
+      "start_line": 690
+    },
+    {
+      "anchor": "105-dimension-dat-20",
+      "end_line": 691,
+      "heading": "105 DIMENSION DAT(20)",
+      "level": 2,
+      "start_line": 691
+    },
+    {
+      "anchor": "110-c00m0n-clam-curt-s1-s2-s3-s4-s5-t1-t2-t3-t4-t5",
+      "end_line": 692,
+      "heading": "110 C00M0N CLAM, CURT, S1, S2, S3, S4, S5, T1, T2, T3, T4, T5",
+      "level": 2,
+      "start_line": 692
+    },
+    {
+      "anchor": "115-pi-3-141592654-pi04-pi-4",
+      "end_line": 694,
+      "heading": "115 Pi = 3.141592654; Pi04 = Pi/4.",
+      "level": 2,
+      "start_line": 693
+    },
+    {
+      "anchor": "125-tw0gc-64-348-3600-2-coo-5-pi-sqrt-3",
+      "end_line": 695,
+      "heading": "125 Tw0Gc = 64.348*3600;2; Coo = .5*Pi/Sqrt(3.)",
+      "level": 2,
+      "start_line": 695
+    },
+    {
+      "anchor": "130-1-dat-20-dat-20-1-0",
+      "end_line": 696,
+      "heading": "130 1 Dat(20) = Dat(20)+1.0",
+      "level": 2,
+      "start_line": 696
+    },
+    {
+      "anchor": "135-read-nin-if-nin-21-21",
+      "end_line": 697,
+      "heading": "135 Read, Nin; If(Nin) 21,21",
+      "level": 2,
+      "start_line": 697
+    },
+    {
+      "anchor": "140-read-j-dat-j-i-1-nin",
+      "end_line": 698,
+      "heading": "140 Read, (J,Dat(J), I=1, Nin)",
+      "level": 2,
+      "start_line": 698
+    },
+    {
+      "anchor": "145-o-dat-1",
+      "end_line": 699,
+      "heading": "145 O = Dat(1)",
+      "level": 2,
+      "start_line": 699
+    },
+    {
+      "anchor": "150-dps-dat-2-tsi-dat-3-ts0-dat-4",
+      "end_line": 701,
+      "heading": "150 Dps = Dat(2); Tsi = Dat(3); Ts0 = Dat(4)",
+      "level": 2,
+      "start_line": 700
+    },
+    {
+      "anchor": "160-dpt-dat-9-tti-dat-10-tt0-dat-11",
+      "end_line": 703,
+      "heading": "160 Dpt = Dat(9); Tti = Dat(10); Tt0 = Dat(11)",
+      "level": 2,
+      "start_line": 702
+    },
+    {
+      "anchor": "170-do-dat-16-tw-dat-17-kwall-dat-18",
+      "end_line": 704,
+      "heading": "170 Do = Dat(16); Tw = Dat(17); Kwall = Dat(18)",
+      "level": 2,
+      "start_line": 704
+    },
+    {
+      "anchor": "175-rhow-dat-19-icase-dat-20",
+      "end_line": 705,
+      "heading": "175 Rhow = Dat(19); Icase = Dat(20)",
+      "level": 2,
+      "start_line": 705
+    },
+    {
+      "anchor": "180-print-30-icase",
+      "end_line": 706,
+      "heading": "180 PRINT 30, ICASE",
+      "level": 2,
+      "start_line": 706
+    },
+    {
+      "anchor": "185-3oformat-case-i3",
+      "end_line": 707,
+      "heading": "185 3Oformat(/\"Case\", I3)",
+      "level": 2,
+      "start_line": 707
+    },
+    {
+      "anchor": "190-dps-144-dps-dpt-144-dpt",
+      "end_line": 708,
+      "heading": "190 Dps = 144.*Dps; Dpt = 144.*Dpt",
+      "level": 2,
+      "start_line": 708
+    },
+    {
+      "anchor": "195-do-do-12-tw-tw-12-dt-do-2-tw",
+      "end_line": 709,
+      "heading": "195 Do = Do/12.; Tw = Tw/12.; Dt = Do-2.*Tw",
+      "level": 2,
+      "start_line": 709
+    },
+    {
+      "anchor": "200-ao-pi04-do-do-at-pi04-dt-dt-aw-ao-at",
+      "end_line": 710,
+      "heading": "200 Ao = Pi04*Do*Do; At = Pi04*Dt*Dt; Aw = Ao-At",
+      "level": 2,
+      "start_line": 710
+    },
+    {
+      "anchor": "205-dts-tsi-tso-dtt-tt0-tti",
+      "end_line": 711,
+      "heading": "205 Dts = Tsi-Tso; Dtt = Tt0-Tti",
+      "level": 2,
+      "start_line": 711
+    },
+    {
+      "anchor": "210-dt1-tsi-tto-dt2-ts0-tti",
+      "end_line": 712,
+      "heading": "210 Dt1 = Tsi-Tto; Dt2 = Ts0-Tti",
+      "level": 2,
+      "start_line": 712
+    },
+    {
+      "anchor": "215-dm-do-dt-log-do-dt",
+      "end_line": 713,
+      "heading": "215 Dm = (Do-Dt)/Log(Do/Dt)",
+      "level": 2,
+      "start_line": 713
+    },
+    {
+      "anchor": "220-co8-dt1-if-dt1-dt2-2-3-2",
+      "end_line": 714,
+      "heading": "220 Co8 = Dt1; If(Dt1-Dt2) 2,3,2",
+      "level": 2,
+      "start_line": 714
+    },
+    {
+      "anchor": "225-2-co8-dt1-dt2-log-dt1-dt2",
+      "end_line": 715,
+      "heading": "225 2 Co8 = (Dt1-Dt2)/Log(Dt1/Dt2)",
+      "level": 2,
+      "start_line": 715
+    },
+    {
+      "anchor": "230-3-co5-q-pi",
+      "end_line": 716,
+      "heading": "230 3 Co5 = Q/Pi",
+      "level": 2,
+      "start_line": 716
+    },
+    {
+      "anchor": "235-coi-q-cps-dts-co2-q-at-cpt-dtt",
+      "end_line": 717,
+      "heading": "235 Coi = Q/(Cps*Dts); Co2 = Q/(At*Cpt*Dtt)",
+      "level": 2,
+      "start_line": 717
+    },
+    {
+      "anchor": "240-co3-c05-d0-co4-c05-dt-cos-c05-tw-dm-kwall",
+      "end_line": 718,
+      "heading": "240 Co3 = C05/D0; Co4 = C05/Dt; Cos = C05*Tw/(Dm*Kwall)",
+      "level": 2,
+      "start_line": 718
+    },
+    {
+      "anchor": "245-co6a-cps-ks-2-mus-curt",
+      "end_line": 719,
+      "heading": "245 Co6A = (Cps*Ks+2*Mus)+Curt",
+      "level": 2,
+      "start_line": 719
+    },
+    {
+      "anchor": "250-co7a-cpt-kt-2-mut-curt-dt",
+      "end_line": 720,
+      "heading": "250 Co7A = (Cpt*Kt+2*Mut)+Curt/Dt",
+      "level": 2,
+      "start_line": 720
+    },
+    {
+      "anchor": "255-co9a-tw0gc-rhos-dps",
+      "end_line": 721,
+      "heading": "255 Co9A = Tw0Gc*Rhos*Dps",
+      "level": 2,
+      "start_line": 721
+    },
+    {
+      "anchor": "260-c10a-tw0gc-rhot-dpt-dt",
+      "end_line": 722,
+      "heading": "260 C10A = Tw0Gc*Rhot*Dpt*Dt",
+      "level": 2,
+      "start_line": 722
+    },
+    {
+      "anchor": "265-c11-pi04-do-c12-coi-co2-c11-c13-co3-c05",
+      "end_line": 723,
+      "heading": "265 C11 = Pi04*Do; C12 = Coi/(Co2+C11); C13 = Co3/C05",
+      "level": 2,
+      "start_line": 723
+    },
+    {
+      "anchor": "270-c14-co4-cos-c15-co2-c08-cos-n-0",
+      "end_line": 724,
+      "heading": "270 C14 = Co4/Cos; C15 = Co2*C08/Cos; N = 0",
+      "level": 2,
+      "start_line": 724
+    },
+    {
+      "anchor": "275-call-sturbj-call-turbj-ias-iat-1",
+      "end_line": 725,
+      "heading": "275 Call Sturbj Call Turbj Ias = Iat = 1",
+      "level": 2,
+      "start_line": 725
+    },
+    {
+      "anchor": "280-4-co6-co6a-s1-mus-s3",
+      "end_line": 726,
+      "heading": "280 4 Co6 = Co6A*S1/Mus+S3",
+      "level": 2,
+      "start_line": 726
+    },
+    {
+      "anchor": "285-co7-co7a-t1-dt-t2-t3-mut-t3",
+      "end_line": 727,
+      "heading": "285 Co7 = Co7A*T1*Dt+(T2+T3)/Mut*T3",
+      "level": 2,
+      "start_line": 727
+    },
+    {
+      "anchor": "290-co9-co9a-s4-mus-s5",
+      "end_line": 728,
+      "heading": "290 Co9 = Co9A/(S4*Mus+S5)",
+      "level": 2,
+      "start_line": 728
+    },
+    {
+      "anchor": "295-c10-c10a-dt-mut-t5-t4",
+      "end_line": 729,
+      "heading": "295 C10 = C10A*(Dt/Mut)+T5/T4",
+      "level": 2,
+      "start_line": 729
+    },
+    {
+      "anchor": "300-c16-c13-c06-c17-co9-c10-c18-c14-c07",
+      "end_line": 730,
+      "heading": "300 C16 = C13/C06; C17 = Co9/C10; C18 = C14/C07",
+      "level": 2,
+      "start_line": 730
+    },
+    {
+      "anchor": "305-c19-c15-c10",
+      "end_line": 731,
+      "heading": "305 C19 = C15*C10",
+      "level": 2,
+      "start_line": 731
+    },
+    {
+      "anchor": "310-e1-3-t5-e4-s2-1-3",
+      "end_line": 732,
+      "heading": "310 E1 = 3.-T5; E4 = (S2-1.)/3.",
+      "level": 2,
+      "start_line": 732
+    },
+    {
+      "anchor": "315-e2-3-2-s2-s3-e4-2-t5-s5",
+      "end_line": 733,
+      "heading": "315 E2 = 3.-2.*S2-S3+E4*(2.-T5+S5)",
+      "level": 2,
+      "start_line": 733
+    },
+    {
+      "anchor": "320-e3-e1-t3-t2-t5-2",
+      "end_line": 734,
+      "heading": "320 E3 = E1-T3+T2*(T5-2.)",
+      "level": 2,
+      "start_line": 734
+    },
+    {
+      "anchor": "325-e5-1-s2-s3-e4-1-s5",
+      "end_line": 735,
+      "heading": "325 E5 = 1.-S2-S3+E4*(1. +S5)",
+      "level": 2,
+      "start_line": 735
+    },
+    {
+      "anchor": "330-c20-c16-c10-s2-c17-e4-c12-e5",
+      "end_line": 737,
+      "heading": "330 C20 = C16*C10*S2*C17:E4*C12:E5",
+      "level": 2,
+      "start_line": 736
+    },
+    {
+      "anchor": "heatx2-continued",
+      "end_line": 740,
+      "heading": "HEATX2 CONTINUED",
+      "level": 1,
+      "start_line": 738
+    },
+    {
+      "anchor": "335-c21-c18-c10-t2-gt-0-9-c19-c20-c21-1-e2",
+      "end_line": 741,
+      "heading": "335 C21 = C18*C10*T2; Gt = 0.9*(C19/(C20+C21))+(1./E2)",
+      "level": 2,
+      "start_line": 741
+    },
+    {
+      "anchor": "340-d0-s-i-1-10",
+      "end_line": 742,
+      "heading": "340 D0 S I = 1, 10",
+      "level": 2,
+      "start_line": 742
+    },
+    {
+      "anchor": "345-gt1-gt-e1-gt2-gt-e2-gt3-gt-e3",
+      "end_line": 743,
+      "heading": "345 Gt1 = Gt*E1; Gt2 = Gt*E2; Gt3 = Gt*E3",
+      "level": 2,
+      "start_line": 743
+    },
+    {
+      "anchor": "350-gt20-c20-gt2-gt21-c21-gt3",
+      "end_line": 744,
+      "heading": "350 Gt20 = C20*Gt2; Gt21 = C21*Gt3",
+      "level": 2,
+      "start_line": 744
+    },
+    {
+      "anchor": "355-fun-gt1-gt20-gt21-c19",
+      "end_line": 745,
+      "heading": "355 Fun = Gt1+Gt20+Gt21-C19",
+      "level": 2,
+      "start_line": 745
+    },
+    {
+      "anchor": "360-der-e1-gt1-e2-gt20-e3-gt21-gt-dgt-fun-der",
+      "end_line": 746,
+      "heading": "360 Der = (E1*Gt1+E2*Gt20+E3*Gt21)/Gt; Dgt = Fun/Der",
+      "level": 2,
+      "start_line": 746
+    },
+    {
+      "anchor": "365-gt-gt-dgt-if-abs-dgt-gt-1-e-5-6",
+      "end_line": 747,
+      "heading": "365 Gt = Gt-Dgt; If(Abs(Dgt/Gt)-1.E-5) 6",
+      "level": 2,
+      "start_line": 747
+    },
+    {
+      "anchor": "370-5-continue",
+      "end_line": 748,
+      "heading": "370 5 Continue",
+      "level": 2,
+      "start_line": 748
+    },
+    {
+      "anchor": "375-print-not-converged-dgt-gt-dgt-gt",
+      "end_line": 749,
+      "heading": "375 Print, +=\"Not Converged. Dgt/Gt=\", Dgt/Gt",
+      "level": 2,
+      "start_line": 749
+    },
+    {
+      "anchor": "380-6-gs0gt-c17-c12-1-s5-gt-s5-t5-curt",
+      "end_line": 750,
+      "heading": "380 6 Gs0Gt = (C17*C12+(1.+S5)*Gt+(S5-T5))+Curt",
+      "level": 2,
+      "start_line": 750
+    },
+    {
+      "anchor": "385-gs-gt-gs0gt-ds-c12-gs0gt",
+      "end_line": 751,
+      "heading": "385 Gs = Gt*Gs0Gt; Ds = C12/Gs0Gt",
+      "level": 2,
+      "start_line": 751
+    },
+    {
+      "anchor": "390-ret-gt-dt-mut-res-gs-ds-mus",
+      "end_line": 752,
+      "heading": "390 Ret = Gt*Dt/Mut; Res = Gs*Ds/Mus",
+      "level": 2,
+      "start_line": 752
+    },
+    {
+      "anchor": "395-ict-0-if-ret-1502-7-ict-1",
+      "end_line": 753,
+      "heading": "395 Ict = 0; If(Ret-1502.) 7; Ict = 1",
+      "level": 2,
+      "start_line": 753
+    },
+    {
+      "anchor": "400-7-nt-0-if-iat-ict-9-8-9",
+      "end_line": 754,
+      "heading": "400 7 Nt = 0; If(Iat-Ict) 9,8,9",
+      "level": 2,
+      "start_line": 754
+    },
+    {
+      "anchor": "405-8-nt-1",
+      "end_line": 755,
+      "heading": "405 8 Nt = 1",
+      "level": 2,
+      "start_line": 755
+    },
+    {
+      "anchor": "410-9-ics-0-if-res-994-10-ics-1",
+      "end_line": 756,
+      "heading": "410 9 Ics = 0; If(Res-994.) 10; Ics = 1",
+      "level": 2,
+      "start_line": 756
+    },
+    {
+      "anchor": "415-1ons-0-if-ias-ics-12-11-12",
+      "end_line": 757,
+      "heading": "415 1Ons = 0; If(Ias-Ics) 12,11,12",
+      "level": 2,
+      "start_line": 757
+    },
+    {
+      "anchor": "420-1ins-1",
+      "end_line": 758,
+      "heading": "420 1Ins = 1",
+      "level": 2,
+      "start_line": 758
+    },
+    {
+      "anchor": "425-12if-nt-ns-13-13-18",
+      "end_line": 759,
+      "heading": "425 12If(Nt*Ns) 13,13,18",
+      "level": 2,
+      "start_line": 759
+    },
+    {
+      "anchor": "430-13n-n-1-g0-t0-14-15-16-17-n",
+      "end_line": 760,
+      "heading": "430 13N = N+1; G0 T0 (14,15,16,17) N",
+      "level": 2,
+      "start_line": 760
+    },
+    {
+      "anchor": "435-14call-tlam-iat-0-g0-t0-4",
+      "end_line": 761,
+      "heading": "435 14Call Tlam; Iat = 0; G0 T0 4",
+      "level": 2,
+      "start_line": 761
+    },
+    {
+      "anchor": "440-15call-slam-ias-0-g0-t0-4",
+      "end_line": 762,
+      "heading": "440 15Call Slam; Ias = 0; G0 T0 4",
+      "level": 2,
+      "start_line": 762
+    },
+    {
+      "anchor": "445-16call-tturb-iat-1-g0-t0-4",
+      "end_line": 763,
+      "heading": "445 16Call Tturb; Iat = 1; G0 T0 4",
+      "level": 2,
+      "start_line": 763
+    },
+    {
+      "anchor": "450-17print-assumed-and-calculated-regimes-do-not-agree",
+      "end_line": 764,
+      "heading": "450 17Print, \"Assumed And Calculated Regimes Do Not Agree.\"",
+      "level": 2,
+      "start_line": 764
+    },
+    {
+      "anchor": "455-g0-t0-1",
+      "end_line": 765,
+      "heading": "455 G0 T0 1",
+      "level": 2,
+      "start_line": 765
+    },
+    {
+      "anchor": "460-18ltube-c10-gt-t5-2-ntube-c02-gt",
+      "end_line": 766,
+      "heading": "460 18Ltube = C10*Gt+(T5-2.); Ntube = C02/Gt",
+      "level": 2,
+      "start_line": 766
+    },
+    {
+      "anchor": "465-as-c01-gs-hs-c06-ds-gs-s3-ds-ltube-s2-ds",
+      "end_line": 767,
+      "heading": "465 As = C01/Gs; Hs = C06*(Ds*Gs);S3*(Ds/Ltube)+S2/Ds",
+      "level": 2,
+      "start_line": 767
+    },
+    {
+      "anchor": "470-vs-gs-rhos-vt-gt-rhot",
+      "end_line": 768,
+      "heading": "470 Vs = Gs/Rhos; Vt = Gt/Rhot",
+      "level": 2,
+      "start_line": 768
+    },
+    {
+      "anchor": "475-hps-dps-as-vs-1-98e6-hpt-dpt-at-ntube-vt-1-98e6",
+      "end_line": 769,
+      "heading": "475 Hps = Dps*As*Vs/1.98E6; Hpt = Dpt*At*Ntube*Vt/1.98E6",
+      "level": 2,
+      "start_line": 769
+    },
+    {
+      "anchor": "480-ht-c07-gt-t3-ltube-t2-dtw-c05-ltube-ntube",
+      "end_line": 770,
+      "heading": "480 Ht = C07*Gt+T3/Ltube+T2; Dtw = C05/(Ltube*Ntube)",
+      "level": 2,
+      "start_line": 770
+    },
+    {
+      "anchor": "485-fdtt-c14-dtw-ht-fdts-c13-dtw-hs",
+      "end_line": 771,
+      "heading": "485 Fdtt = C14*Dtw/Ht; Fdts = C13*Dtw/Hs",
+      "level": 2,
+      "start_line": 771
+    },
+    {
+      "anchor": "490-s-sqrt-coo-do-ds-do",
+      "end_line": 772,
+      "heading": "490 S = Sqrt(Coo*Do*(Ds+Do))",
+      "level": 2,
+      "start_line": 772
+    },
+    {
+      "anchor": "495-bunwt-ltube-ntube-at-rhot-aw-rhow-as-rhos",
+      "end_line": 773,
+      "heading": "495 Bunwt = Ltube*(Ntube*(At*Rhot+Aw*Rhow)+As*Rhos)",
+      "level": 2,
+      "start_line": 773
+    },
+    {
+      "anchor": "500-print-20-0-12-do-12-tw-12-dt-kwall-rhow",
+      "end_line": 774,
+      "heading": "500 Print 20,0,12.*Do,12.*Tw,12.*Dt,Kwall,Rhow",
+      "level": 2,
+      "start_line": 774
+    },
+    {
+      "anchor": "505-print-22-dps-144-tsi-tso-cps-mus-ks-rhos",
+      "end_line": 775,
+      "heading": "505 Print 22,Dps/144.,Tsi,Tso,Cps,Mus,Ks,Rhos,",
+      "level": 2,
+      "start_line": 775
+    },
+    {
+      "anchor": "510-dpt-144-tti-tto-cpt-mut-kt-rhot",
+      "end_line": 776,
+      "heading": "510 +Dpt/144.,Tti,Tto,Cpt,Mut,Kt,Rhot",
+      "level": 2,
+      "start_line": 776
+    },
+    {
+      "anchor": "515-print-24-ntube-ltube-12-s-12-ds",
+      "end_line": 777,
+      "heading": "515 Print 24, Ntube,Ltube,12.*S,12.*Ds,",
+      "level": 2,
+      "start_line": 777
+    },
+    {
+      "anchor": "520-as-ltube-at-ltube-ntube-aw-ltube-ntube-bunwt",
+      "end_line": 778,
+      "heading": "520 +As*Ltube,At*Ltube*Ntube,Aw*Ltube*Ntube,Bunwt",
+      "level": 2,
+      "start_line": 778
+    },
+    {
+      "anchor": "525-print-26-c08-dtw-fdts-hs-fdtt-ht",
+      "end_line": 779,
+      "heading": "525 PRINT 26,C08,DTW,FDTS,HS,FDTT,HT",
+      "level": 2,
+      "start_line": 779
+    },
+    {
+      "anchor": "530-print-28-gt-gs-gs-vs-3600-hps-res-gt-vt-3600-hpt-ret",
+      "end_line": 781,
+      "heading": "530 Print 28,Gt/Gs,Gs,Vs/3600.,Hps,Res,Gt,Vt/3600.,Hpt,Ret",
+      "level": 2,
+      "start_line": 780
+    },
+    {
+      "anchor": "540-2oformat-3x-heat-3x4-4x-tube-7x-tube",
+      "end_line": 783,
+      "heading": "540 2Oformat(/3X\"Heat\"3X4(4X\"Tube\")7X\"Tube\"/",
+      "level": 2,
+      "start_line": 782
+    },
+    {
+      "anchor": "550-2x-btu-hr-3-6x-in-2x-btu-hr-ft-f-lb-ft-3",
+      "end_line": 784,
+      "heading": "550 +2X\"Btu/Hr \"3(6X\"In\")2X\"Btu/Hr Ft F Lb/Ft+3\"/",
+      "level": 2,
+      "start_line": 784
+    },
+    {
+      "anchor": "555-1pe10-3-op3f8-4-f9-2-f11-1",
+      "end_line": 786,
+      "heading": "555 +1Pe10.3,Op3F8.4,F9.2,F11.1)",
+      "level": 2,
+      "start_line": 785
+    },
+    {
+      "anchor": "565-22format-7x-p-drop-t-in-t-out-sp-heat-viscos-y",
+      "end_line": 787,
+      "heading": "565 22Format(/7X\"P Drop T In T Out Sp. Heat Viscos'Y",
+      "level": 2,
+      "start_line": 787
+    },
+    {
+      "anchor": "570-conductivy-density-9x-psi-5x-f-6x-f-4x-btu-lb-f",
+      "end_line": 788,
+      "heading": "570 +Conductivy Density\"/9X\"Psi\"5X\"F\"6X\"F\"4X\"Btu/Lb F",
+      "level": 2,
+      "start_line": 788
+    },
+    {
+      "anchor": "575-lb-hr-ft-btu-hr-ft-f-lb-ft-3",
+      "end_line": 789,
+      "heading": "575 +Lb/Hr Ft Btu/Hr Ft F Lb/Ft+3\"/",
+      "level": 2,
+      "start_line": 789
+    },
+    {
+      "anchor": "580-fuel-f6-0-f8-0-f7-0-f8-3-f10-2-f11-2-f12-1",
+      "end_line": 795,
+      "heading": "580 ++Fuel:\"F6.0,F8.0,F7.0,F8.3,F10.2,F11.2,F12.1/",
+      "level": 2,
+      "start_line": 790
+    },
+    {
+      "anchor": "585-salt-f6-0-f8-0-f7-0-f8-3-f10-2-f11-2-f12-1",
+      "end_line": 797,
+      "heading": "585 +\" Salt:\"F6.0,F8.0,F7.0,F8.3,F10.2,F11.2,F12.1)",
+      "level": 2,
+      "start_line": 796
+    },
+    {
+      "anchor": "595-24f0rmat-number-4x2-tube-4x-equiv-6x-volumes-7x-bundlle",
+      "end_line": 798,
+      "heading": "595 24F0Rmat(/\"/ Number\"4X2(\"Tube\"4X)\"Equiv.\"6X\"Volumes\"7X\"Bundlle\"/",
+      "level": 2,
+      "start_line": 798
+    },
+    {
+      "anchor": "600-of-tubes-length-spacing-diam-r-fuel-salt-tube-2x-weight",
+      "end_line": 799,
+      "heading": "600 +\"Of Tubes Length Spacing Diam'R Fuel Salt Tube\"2X\"Weight\"/",
+      "level": 2,
+      "start_line": 799
+    },
+    {
+      "anchor": "605-12x-ft-2-5x-in-2x-3-2x-ft-3-4x-lb-f7-0-f8-1-2f9-4-3f6-1-f8-0",
+      "end_line": 801,
+      "heading": "605 +12X\"Ft \"2(5X\"In\"2X)3(2X\"Ft+3\")4X\"Lb\"/F7.0,F8.1,2F9.4,3F6.1,F8.0)",
+      "level": 2,
+      "start_line": 800
+    },
+    {
+      "anchor": "615-26f0rmat-4x-lmtd-wall-dt-10x-film-dt-coefficient",
+      "end_line": 802,
+      "heading": "615 26F0Rmat(/4X\"Lmtd Wall Dt\"10X\"Film Dt Coefficient\"/",
+      "level": 2,
+      "start_line": 802
+    },
+    {
+      "anchor": "620-5x-f-7x-f-16x-f-4x-btu-hr-ft-2-f-2f8-1-3x-fuel",
+      "end_line": 803,
+      "heading": "620 +5X\"F\"7X\"F\"16X\"F\"4X\"Btu/Hr Ft+2 F\"/2F8.1,3X\"Fuel:\",",
+      "level": 2,
+      "start_line": 803
+    },
+    {
+      "anchor": "625-f8-1-f11-0-20x-salt-f8-1-f11-0",
+      "end_line": 805,
+      "heading": "625 +F8.1,F11.0/20X\"Salt:\",\"F8.1,F11.0)",
+      "level": 2,
+      "start_line": 804
+    },
+    {
+      "anchor": "635-28f0rmat-flow-ratio-11x-flows-4x-velocities-pumping",
+      "end_line": 806,
+      "heading": "635 28F0Rmat(/\"\"Flow Ratio\"11X\"Flows\"4X\"Velocities Pumping",
+      "level": 2,
+      "start_line": 806
+    },
+    {
+      "anchor": "640-reynolds-3x-gt-gs-11x-lb-hr-ft-2-ft-sec-6x-hp",
+      "end_line": 807,
+      "heading": "640 + Reynolds\"/3X\"Gt/Gs\"11X\"Lb/Hr Ft+2 Ft/Sec\"6X\"Hp\"",
+      "level": 2,
+      "start_line": 807
+    },
+    {
+      "anchor": "645-5x-numbers-f8-4-4x-fuel-1pe11-4-opf8-1-f11-0-f10-0",
+      "end_line": 808,
+      "heading": "645 +5X\"Numbers\"/F8.4,4X\"Fuel:\"1Pe11.4,Opf8.1,F11.0,F10.0/",
+      "level": 2,
+      "start_line": 808
+    },
+    {
+      "anchor": "650-13x-salt-1pe11-4-opf8-1-f11-0-f10-0",
+      "end_line": 809,
+      "heading": "650 +13X\"Salt:\"1Pe11.4,Opf8.1,F11.0,F10.0//)",
+      "level": 2,
+      "start_line": 809
+    },
+    {
+      "anchor": "655-g0-t0-1",
+      "end_line": 810,
+      "heading": "655 G0 T0 1",
+      "level": 2,
+      "start_line": 810
+    },
+    {
+      "anchor": "660-21stop",
+      "end_line": 812,
+      "heading": "660 21Stop",
+      "level": 2,
+      "start_line": 811
+    },
+    {
+      "anchor": "670-s1-clam-s2-s3-curt-s4-64-s5-1-return",
+      "end_line": 814,
+      "heading": "670 S1=Clam; S2=S3=Curt; S4=64.; S5=1.; Return",
+      "level": 2,
+      "start_line": 813
+    },
+    {
+      "anchor": "680-t1-clam-t2-t3-curt-t4-64-t5-1-return",
+      "end_line": 816,
+      "heading": "680 T1=Clam; T2=T3=Curt; T4=64.; T5=1.; Return",
+      "level": 2,
+      "start_line": 815
+    },
+    {
+      "anchor": "690-s1-032-s2-0-s3-8-s4-256-s5-2-return",
+      "end_line": 818,
+      "heading": "690 S1=.032; S2=0.; S3=.8; S4=.256; S5=.2; Return",
+      "level": 2,
+      "start_line": 817
+    },
+    {
+      "anchor": "700-t1-023-t2-0-t3-8-t4-184-t5-2-return",
+      "end_line": 819,
+      "heading": "700 T1=.023; T2=0.; T3=.8; T4=.184; T5=.2; Return",
+      "level": 2,
+      "start_line": 819
+    },
+    {
+      "anchor": "705-data",
+      "end_line": 822,
+      "heading": "705 $Data",
+      "level": 2,
+      "start_line": 820
+    },
+    {
+      "anchor": "length",
+      "end_line": 824,
+      "heading": "Length",
+      "level": 2,
+      "start_line": 823
+    },
+    {
+      "anchor": "about-5800-chars",
+      "end_line": 826,
+      "heading": "About 5800 Chars",
+      "level": 2,
+      "start_line": 825
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 828,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 827
+    },
+    {
+      "anchor": "sample-computer-program-input-and-output",
+      "end_line": 849,
+      "heading": "SAMPLE COMPUTER PROGRAM INPUT AND OUTPUT",
+      "level": 1,
+      "start_line": 829
+    },
+    {
+      "anchor": "801-1-25e9",
+      "end_line": 864,
+      "heading": "801 1.25E9",
+      "level": 2,
+      "start_line": 850
+    },
+    {
+      "anchor": "case-1",
+      "end_line": 881,
+      "heading": "Case 1",
+      "level": 2,
+      "start_line": 865
+    },
+    {
+      "anchor": "case-19",
+      "end_line": 900,
+      "heading": "Case 19",
+      "level": 2,
+      "start_line": 882
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 976,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 901
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 992,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 977
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2952",
+  "tables": [],
+  "title": "ORNL-TM-2952",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "salt-chemistry-and-redox",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

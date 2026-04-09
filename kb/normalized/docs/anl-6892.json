@@ -1,0 +1,1456 @@
+{
+  "authors": [
+    "Part I. Homogeneous",
+    "Quasi-Homogeneous Reactors",
+    "Section I. Particulate-Fueled Reactors",
+    "Charles E. Teeter",
+    "James A. Lecky",
+    "John H. Martens",
+    "Technical Publications Department",
+    "DISCLAIMER"
+  ],
+  "claims_path": "kb/normalized/claims/anl-6892.jsonl",
+  "date_text": "May 11, 1964",
+  "doc_id": "anl-6892",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 106,
+        "line_hits": [
+          152,
+          170,
+          176,
+          178,
+          184,
+          192,
+          194,
+          198,
+          206,
+          212,
+          237,
+          238,
+          299,
+          303,
+          319,
+          321,
+          325,
+          327,
+          340,
+          349,
+          360,
+          370,
+          381,
+          389,
+          395,
+          490,
+          505,
+          537,
+          545,
+          670,
+          672,
+          829,
+          837,
+          875,
+          877,
+          883,
+          895,
+          931,
+          971,
+          979,
+          989,
+          997,
+          1197,
+          1217,
+          1225,
+          1231,
+          1246,
+          1247,
+          1280,
+          1296
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          156,
+          166,
+          168,
+          198,
+          206,
+          220,
+          966,
+          979,
+          1201,
+          1207,
+          1217,
+          1225,
+          1280,
+          1446,
+          1474,
+          1494,
+          1508,
+          1520,
+          1561,
+          2244
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          839,
+          901,
+          1225,
+          1478,
+          1553,
+          1569,
+          1830,
+          1870,
+          2023
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          543,
+          901,
+          950
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          170,
+          901
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 56,
+        "line_hits": [
+          129,
+          523,
+          537,
+          553,
+          843,
+          845,
+          875,
+          877,
+          881,
+          887,
+          915,
+          971,
+          979,
+          989,
+          1115,
+          1193,
+          1197,
+          1203,
+          1205,
+          1207,
+          1223,
+          1225,
+          1231,
+          1247,
+          1255,
+          1265,
+          1280,
+          1320,
+          1351,
+          1359,
+          1422,
+          1476,
+          1492,
+          1506,
+          1510,
+          1514,
+          1516,
+          1522,
+          1530,
+          1541,
+          1561,
+          1565,
+          1569,
+          1609,
+          1839,
+          1870,
+          1890,
+          1923,
+          1933,
+          1946
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          212,
+          389,
+          931,
+          1458,
+          1472,
+          1476,
+          1478,
+          1484,
+          1516,
+          1520,
+          1651,
+          1685,
+          1975,
+          2270
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          129,
+          543,
+          656,
+          1135,
+          1193,
+          1223,
+          1225,
+          1265,
+          1280,
+          1347,
+          1551,
+          1561,
+          2010,
+          2035
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          475,
+          543,
+          657,
+          821,
+          1135,
+          1524,
+          1530,
+          1532,
+          1567,
+          1956,
+          1989,
+          2019,
+          2081
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          529,
+          939,
+          963,
+          1539,
+          1822,
+          1870,
+          1904
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          184,
+          349,
+          1516
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          845
+        ],
+        "name": "intermediate heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 24,
+        "line_hits": [
+          31,
+          65,
+          71,
+          178,
+          186,
+          188,
+          224,
+          400,
+          401,
+          455,
+          487,
+          513,
+          651,
+          768,
+          950,
+          1054,
+          1139,
+          1157,
+          1167,
+          1179,
+          1412,
+          2045,
+          2113,
+          2114
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 22,
+        "line_hits": [
+          139,
+          174,
+          309,
+          311,
+          335,
+          337,
+          409,
+          411,
+          412,
+          430,
+          431,
+          467,
+          469,
+          470,
+          471,
+          472,
+          474,
+          849,
+          1006,
+          1140,
+          2049,
+          2242
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          1,
+          65,
+          539,
+          627,
+          629,
+          639,
+          641,
+          767,
+          770
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          905,
+          948,
+          1057,
+          1073,
+          1087,
+          1176
+        ],
+        "name": "Martin Marietta"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          887,
+          1151,
+          1152
+        ],
+        "name": "Foster Wheeler"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          504,
+          1158,
+          2106
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          873,
+          1446
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 154,
+        "line_hits": [
+          39,
+          69,
+          71,
+          81,
+          83,
+          87,
+          107,
+          111,
+          113,
+          115,
+          121,
+          123,
+          125,
+          129,
+          133,
+          144,
+          154,
+          156,
+          166,
+          176,
+          178,
+          192,
+          198,
+          202,
+          204,
+          208,
+          210,
+          212,
+          220,
+          224,
+          237,
+          276,
+          370,
+          389,
+          519,
+          527,
+          531,
+          541,
+          543,
+          551,
+          555,
+          563,
+          567,
+          571,
+          572,
+          574,
+          580,
+          635,
+          647,
+          656
+        ],
+        "name": "ARE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 1,
+        "line_hits": [
+          1134
+        ],
+        "name": "fluid-fuel reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 4,
+        "line_hits": [
+          138,
+          475,
+          1165,
+          1185
+        ],
+        "name": "Nuclear Science and Engineering"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1134
+        ],
+        "name": "Fluid Fuel Reactors"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "174c4829d505b856c73fe5573f01414f95ca81ad1cb17f1312ef2611366f1056",
+  "markdown_path": "pdf/ANL-6892/ANL-6892/hybrid_ocr/ANL-6892.md",
+  "report_number": "ORNL-2510",
+  "report_numbers": [
+    "ORNL-2510"
+  ],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 136,
+  "sections": [
+    {
+      "anchor": "argonne-national-laboratory",
+      "end_line": 6,
+      "heading": "Argonne National Laboratory",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "catalog-of-nuclear-reactor-concepts",
+      "end_line": 32,
+      "heading": "CATALOG OF NUCLEAR REACTOR CONCEPTS",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 36,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "disclaimer",
+      "end_line": 40,
+      "heading": "DISCLAIMER",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 42,
+      "heading": "TABLE OF CONTENTS",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "page",
+      "end_line": 48,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "section-i-particulate-fueled-reactors",
+      "end_line": 62,
+      "heading": "SECTION I. PARTICULATE-FUELED REACTORS",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "preface",
+      "end_line": 74,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "j-h-m",
+      "end_line": 90,
+      "heading": "J.H.M.",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "general-introduction",
+      "end_line": 102,
+      "heading": "General Introduction",
+      "level": 1,
+      "start_line": 91
+    },
+    {
+      "anchor": "section-i-particulate-fueled-reactors",
+      "end_line": 104,
+      "heading": "SECTION I PARTICULATE-FUELED REACTORS",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "chapter-1-introduction",
+      "end_line": 134,
+      "heading": "Chapter 1 Introduction",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "references",
+      "end_line": 147,
+      "heading": "References",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "early-history",
+      "end_line": 157,
+      "heading": "Early History",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "later-concepts",
+      "end_line": 161,
+      "heading": "Later Concepts",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "ukaea",
+      "end_line": 171,
+      "heading": "UKAEA",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "oak-ridge",
+      "end_line": 181,
+      "heading": "Oak Ridge",
+      "level": 1,
+      "start_line": 172
+    },
+    {
+      "anchor": "brown-boveri-krupp",
+      "end_line": 189,
+      "heading": "Brown-Boveri-Krupp",
+      "level": 1,
+      "start_line": 182
+    },
+    {
+      "anchor": "other-designs",
+      "end_line": 195,
+      "heading": "Other Designs",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "advanced-concept",
+      "end_line": 199,
+      "heading": "Advanced Concept",
+      "level": 1,
+      "start_line": 196
+    },
+    {
+      "anchor": "reactors-related-to-pebble-bed-reactors",
+      "end_line": 213,
+      "heading": "Reactors Related to Pebble-Bed Reactors",
+      "level": 1,
+      "start_line": 200
+    },
+    {
+      "anchor": "evaluation-and-status",
+      "end_line": 225,
+      "heading": "Evaluation and Status",
+      "level": 1,
+      "start_line": 214
+    },
+    {
+      "anchor": "d-a-t-a-s-h-e-e-t-s",
+      "end_line": 227,
+      "heading": "D A T A S H E E T S",
+      "level": 2,
+      "start_line": 226
+    },
+    {
+      "anchor": "pebble-bed-reactors",
+      "end_line": 231,
+      "heading": "Pebble-Bed Reactors",
+      "level": 2,
+      "start_line": 228
+    },
+    {
+      "anchor": "no-1-daniels-pebble-file",
+      "end_line": 240,
+      "heading": "No. 1 Daniels Pebble File",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "no-2-daniels-pebble-file",
+      "end_line": 258,
+      "heading": "No. 2 Daniels Pebble File",
+      "level": 1,
+      "start_line": 241
+    },
+    {
+      "anchor": "no-4-daniels-pebble-file",
+      "end_line": 270,
+      "heading": "No. 4 Daniels Pebble File",
+      "level": 1,
+      "start_line": 259
+    },
+    {
+      "anchor": "ukaea",
+      "end_line": 278,
+      "heading": "UKAEA",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "no-6-gas-cooled-reactor-fueled-with-marbles",
+      "end_line": 280,
+      "heading": "No. 6 Gas-Cooled Reactor Fueled With Marbles",
+      "level": 1,
+      "start_line": 279
+    },
+    {
+      "anchor": "ukaea",
+      "end_line": 288,
+      "heading": "UKAEA",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 306,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "no-8-pebble-bed-power-reactor",
+      "end_line": 308,
+      "heading": "No. 8 Pebble Bed Power Reactor",
+      "level": 1,
+      "start_line": 307
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 334,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 309
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 383,
+      "heading": "ORNL",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "no-14-reactor-fueled-with-raschig-rings",
+      "end_line": 501,
+      "heading": "No. 14 Reactor Fueled With Raschig Rings",
+      "level": 1,
+      "start_line": 384
+    },
+    {
+      "anchor": "general",
+      "end_line": 524,
+      "heading": "General",
+      "level": 1,
+      "start_line": 502
+    },
+    {
+      "anchor": "early-concepts",
+      "end_line": 558,
+      "heading": "Early Concepts",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "evaluation-and-status",
+      "end_line": 585,
+      "heading": "Evaluation and Status",
+      "level": 1,
+      "start_line": 559
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 587,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 586
+    },
+    {
+      "anchor": "packed-settled-bed-reactors",
+      "end_line": 591,
+      "heading": "Packed- (Settled-) Bed Reactors",
+      "level": 2,
+      "start_line": 588
+    },
+    {
+      "anchor": "westinghouse",
+      "end_line": 611,
+      "heading": "Westinghouse",
+      "level": 1,
+      "start_line": 592
+    },
+    {
+      "anchor": "no-2-packed-bed-reactor",
+      "end_line": 613,
+      "heading": "No. 2 Packed-Bed Reactor",
+      "level": 1,
+      "start_line": 612
+    },
+    {
+      "anchor": "fom-kema",
+      "end_line": 626,
+      "heading": "FOM-KEMA*",
+      "level": 1,
+      "start_line": 614
+    },
+    {
+      "anchor": "anl",
+      "end_line": 638,
+      "heading": "ANL",
+      "level": 1,
+      "start_line": 627
+    },
+    {
+      "anchor": "anl",
+      "end_line": 650,
+      "heading": "ANL",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "usaec-coo",
+      "end_line": 659,
+      "heading": "USAEC-COO",
+      "level": 1,
+      "start_line": 651
+    },
+    {
+      "anchor": "clinton-laboratory",
+      "end_line": 677,
+      "heading": "Clinton Laboratory",
+      "level": 1,
+      "start_line": 660
+    },
+    {
+      "anchor": "no-7-sodium-cooled-packed-bed-fast-breeder-reactor",
+      "end_line": 679,
+      "heading": "No. 7 Sodium-Cooled Packed-Bed Fast Breeder Reactor",
+      "level": 1,
+      "start_line": 678
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 717,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 680
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 727,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 718
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 741,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 728
+    },
+    {
+      "anchor": "breeder-reactor",
+      "end_line": 761,
+      "heading": "Breeder Reactor",
+      "level": 1,
+      "start_line": 742
+    },
+    {
+      "anchor": "references",
+      "end_line": 788,
+      "heading": "References",
+      "level": 1,
+      "start_line": 762
+    },
+    {
+      "anchor": "fluidization-applied-to-nuclear-reactors",
+      "end_line": 864,
+      "heading": "Fluidization Applied to Nuclear Reactors",
+      "level": 1,
+      "start_line": 789
+    },
+    {
+      "anchor": "early-concept",
+      "end_line": 870,
+      "heading": "Early Concept",
+      "level": 1,
+      "start_line": 865
+    },
+    {
+      "anchor": "later-concepts",
+      "end_line": 918,
+      "heading": "Later Concepts",
+      "level": 1,
+      "start_line": 871
+    },
+    {
+      "anchor": "advanced-concept",
+      "end_line": 922,
+      "heading": "Advanced Concept",
+      "level": 1,
+      "start_line": 919
+    },
+    {
+      "anchor": "evaluation-and-status",
+      "end_line": 951,
+      "heading": "Evaluation and Status",
+      "level": 1,
+      "start_line": 923
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 953,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 952
+    },
+    {
+      "anchor": "fluidized-bed-reactors",
+      "end_line": 957,
+      "heading": "Fluidized-Bed Reactors",
+      "level": 2,
+      "start_line": 954
+    },
+    {
+      "anchor": "wapd",
+      "end_line": 965,
+      "heading": "WAPD",
+      "level": 1,
+      "start_line": 958
+    },
+    {
+      "anchor": "no-2-fluidized-uranium-hexafluoride-beryllium-oxide-reactor-orsort",
+      "end_line": 973,
+      "heading": "No. 2 Fluidized Uranium Hexafluoride--Beryllium Oxide Reactor ORSORT",
+      "level": 1,
+      "start_line": 966
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 981,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 974
+    },
+    {
+      "anchor": "no-4-fluidized-fixed-bed-core-reactor",
+      "end_line": 983,
+      "heading": "No. 4 Fluidized Fixed Bed Core Reactor",
+      "level": 1,
+      "start_line": 982
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 991,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 984
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1001,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 992
+    },
+    {
+      "anchor": "no-6-fluidized-bed-reactor",
+      "end_line": 1003,
+      "heading": "No. 6 Fluidized-Bed Reactor",
+      "level": 1,
+      "start_line": 1002
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1010,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1004
+    },
+    {
+      "anchor": "fom-kema",
+      "end_line": 1018,
+      "heading": "FOM-KEMA",
+      "level": 1,
+      "start_line": 1011
+    },
+    {
+      "anchor": "no-8-fluidized-bed-reactor",
+      "end_line": 1020,
+      "heading": "No. 8 Fluidized-Bed Reactor",
+      "level": 1,
+      "start_line": 1019
+    },
+    {
+      "anchor": "ge-hapo",
+      "end_line": 1029,
+      "heading": "GE-HAPO",
+      "level": 1,
+      "start_line": 1021
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1039,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1030
+    },
+    {
+      "anchor": "no-10-terphenyl-cooled-and-moderated-clad-pellet-reactor",
+      "end_line": 1041,
+      "heading": "No. 10 Terphenyl Cooled and Moderated Clad Pellet Reactor",
+      "level": 1,
+      "start_line": 1040
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1049,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1042
+    },
+    {
+      "anchor": "martin-co",
+      "end_line": 1074,
+      "heading": "Martin Co.*",
+      "level": 1,
+      "start_line": 1050
+    },
+    {
+      "anchor": "martin-co",
+      "end_line": 1090,
+      "heading": "Martin Co.*",
+      "level": 1,
+      "start_line": 1075
+    },
+    {
+      "anchor": "wapd",
+      "end_line": 1108,
+      "heading": "WAPD",
+      "level": 1,
+      "start_line": 1091
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1119,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1109
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1173,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1120
+    },
+    {
+      "anchor": "additional-references",
+      "end_line": 1175,
+      "heading": "Additional References",
+      "level": 1,
+      "start_line": 1174
+    },
+    {
+      "anchor": "martin-marietta-co-reactors",
+      "end_line": 1182,
+      "heading": "Martin-Marietta Co. Reactors",
+      "level": 1,
+      "start_line": 1176
+    },
+    {
+      "anchor": "hanford-reactors",
+      "end_line": 1187,
+      "heading": "Hanford Reactors",
+      "level": 1,
+      "start_line": 1183
+    },
+    {
+      "anchor": "general",
+      "end_line": 1194,
+      "heading": "General",
+      "level": 1,
+      "start_line": 1188
+    },
+    {
+      "anchor": "orsort-concept",
+      "end_line": 1226,
+      "heading": "ORSORT Concept",
+      "level": 1,
+      "start_line": 1195
+    },
+    {
+      "anchor": "bnl-chemonuclear-reactor",
+      "end_line": 1234,
+      "heading": "BNL Chemonuclear Reactor",
+      "level": 1,
+      "start_line": 1227
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 1236,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 1235
+    },
+    {
+      "anchor": "fluidized-reactors-and-moving-bed-reactors",
+      "end_line": 1240,
+      "heading": "Fluidized Reactors And Moving-Bed Reactors",
+      "level": 2,
+      "start_line": 1237
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1249,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1241
+    },
+    {
+      "anchor": "fom-kema",
+      "end_line": 1257,
+      "heading": "FOM-KEMA",
+      "level": 1,
+      "start_line": 1250
+    },
+    {
+      "anchor": "no-3-homogeneous-liquid-medium-suspension-reactor",
+      "end_line": 1259,
+      "heading": "No. 3 Homogeneous Liquid Medium Suspension Reactor",
+      "level": 1,
+      "start_line": 1258
+    },
+    {
+      "anchor": "fom-kema",
+      "end_line": 1269,
+      "heading": "FOM-KEMA",
+      "level": 1,
+      "start_line": 1260
+    },
+    {
+      "anchor": "carrier-homogeneous",
+      "end_line": 1271,
+      "heading": "Carrier (Homogeneous)",
+      "level": 1,
+      "start_line": 1270
+    },
+    {
+      "anchor": "stichting-reactor-center",
+      "end_line": 1287,
+      "heading": "Stichting Reactor Center",
+      "level": 1,
+      "start_line": 1272
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1317,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1288
+    },
+    {
+      "anchor": "apda-concepts",
+      "end_line": 1340,
+      "heading": "APDA Concepts",
+      "level": 1,
+      "start_line": 1318
+    },
+    {
+      "anchor": "los-alamos-concept",
+      "end_line": 1344,
+      "heading": "Los Alamos Concept",
+      "level": 1,
+      "start_line": 1341
+    },
+    {
+      "anchor": "kema-reactor",
+      "end_line": 1352,
+      "heading": "KEMA Reactor",
+      "level": 1,
+      "start_line": 1345
+    },
+    {
+      "anchor": "evaluation-and-status",
+      "end_line": 1364,
+      "heading": "Evaluation and Status",
+      "level": 1,
+      "start_line": 1353
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 1366,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 1365
+    },
+    {
+      "anchor": "paste-fuel-reactors",
+      "end_line": 1370,
+      "heading": "Paste-Fuel Reactors",
+      "level": 2,
+      "start_line": 1367
+    },
+    {
+      "anchor": "no-1-paste-fuel-reactor",
+      "end_line": 1382,
+      "heading": "No. 1 Paste-Fuel Reactor",
+      "level": 1,
+      "start_line": 1371
+    },
+    {
+      "anchor": "no-2-paste-fuel-reactor",
+      "end_line": 1384,
+      "heading": "No. 2 Paste-Fuel Reactor",
+      "level": 1,
+      "start_line": 1383
+    },
+    {
+      "anchor": "lasl",
+      "end_line": 1423,
+      "heading": "Lasl",
+      "level": 2,
+      "start_line": 1385
+    },
+    {
+      "anchor": "early-concepts",
+      "end_line": 1443,
+      "heading": "Early Concepts",
+      "level": 1,
+      "start_line": 1424
+    },
+    {
+      "anchor": "packed-bed-reactors",
+      "end_line": 1554,
+      "heading": "Packed-Bed Reactors",
+      "level": 1,
+      "start_line": 1444
+    },
+    {
+      "anchor": "paste-fueled-reactor",
+      "end_line": 1562,
+      "heading": "Paste-Fueled Reactor",
+      "level": 1,
+      "start_line": 1555
+    },
+    {
+      "anchor": "granular-coolants",
+      "end_line": 1570,
+      "heading": "Granular Coolants",
+      "level": 1,
+      "start_line": 1563
+    },
+    {
+      "anchor": "data-sheets",
+      "end_line": 1572,
+      "heading": "Data Sheets",
+      "level": 2,
+      "start_line": 1571
+    },
+    {
+      "anchor": "reactors-with-particulate-fuel-elements",
+      "end_line": 1588,
+      "heading": "Reactors With Particulate Fuel Elements",
+      "level": 2,
+      "start_line": 1573
+    },
+    {
+      "anchor": "no-2-bb-shot-file",
+      "end_line": 1640,
+      "heading": "No. 2 BB Shot File",
+      "level": 1,
+      "start_line": 1589
+    },
+    {
+      "anchor": "no-6-reactor-cooled-with-graphite-balls-ii",
+      "end_line": 1656,
+      "heading": "No. 6 Reactor Cooled with Graphite Balls II",
+      "level": 1,
+      "start_line": 1641
+    },
+    {
+      "anchor": "orsort",
+      "end_line": 1666,
+      "heading": "ORSORT",
+      "level": 1,
+      "start_line": 1657
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1724,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1667
+    },
+    {
+      "anchor": "8xxxxx",
+      "end_line": 1800,
+      "heading": "8Xxxxx",
+      "level": 2,
+      "start_line": 1725
+    },
+    {
+      "anchor": "81x61",
+      "end_line": 1816,
+      "heading": "81X61",
+      "level": 2,
+      "start_line": 1801
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1824,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1817
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1856,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1825
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 1917,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1857
+    },
+    {
+      "anchor": "fom-kema",
+      "end_line": 1927,
+      "heading": "FOM-KEMA",
+      "level": 1,
+      "start_line": 1918
+    },
+    {
+      "anchor": "fom-kema",
+      "end_line": 1935,
+      "heading": "FOM-KEMA",
+      "level": 1,
+      "start_line": 1928
+    },
+    {
+      "anchor": "fluor-corporation-ltd",
+      "end_line": 1949,
+      "heading": "Fluor Corporation, Ltd.",
+      "level": 1,
+      "start_line": 1936
+    },
+    {
+      "anchor": "no-22-dust-fueled-reactor-i",
+      "end_line": 1951,
+      "heading": "No. 22 Dust-Fueled Reactor, I",
+      "level": 1,
+      "start_line": 1950
+    },
+    {
+      "anchor": "armour-research-foundation",
+      "end_line": 1968,
+      "heading": "Armour Research Foundation*",
+      "level": 1,
+      "start_line": 1952
+    },
+    {
+      "anchor": "armour-research-foundation",
+      "end_line": 1980,
+      "heading": "Armour Research Foundation*",
+      "level": 1,
+      "start_line": 1969
+    },
+    {
+      "anchor": "no-24-internally-cooled-dust-fueled-reactor",
+      "end_line": 1982,
+      "heading": "No. 24 Internally Cooled Dust-Fueled Reactor",
+      "level": 1,
+      "start_line": 1981
+    },
+    {
+      "anchor": "armour-research-foundation",
+      "end_line": 1996,
+      "heading": "Armour Research Foundation*",
+      "level": 1,
+      "start_line": 1983
+    },
+    {
+      "anchor": "bnl",
+      "end_line": 2012,
+      "heading": "BNL",
+      "level": 1,
+      "start_line": 1997
+    },
+    {
+      "anchor": "aerojet-general-nucleonics",
+      "end_line": 2028,
+      "heading": "Aerojet-General Nucleonics",
+      "level": 1,
+      "start_line": 2013
+    },
+    {
+      "anchor": "fom-kema",
+      "end_line": 2037,
+      "heading": "FOM-KEMA",
+      "level": 1,
+      "start_line": 2029
+    },
+    {
+      "anchor": "references",
+      "end_line": 2090,
+      "heading": "References",
+      "level": 1,
+      "start_line": 2038
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 2092,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 2091
+    },
+    {
+      "anchor": "partial-list-of-reactor-complications",
+      "end_line": 2117,
+      "heading": "Partial List of Reactor Complications",
+      "level": 1,
+      "start_line": 2093
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 2119,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 2118
+    },
+    {
+      "anchor": "coding-classification-system",
+      "end_line": 2179,
+      "heading": "Coding Classification System",
+      "level": 1,
+      "start_line": 2120
+    },
+    {
+      "anchor": "reactor-characteristics",
+      "end_line": 2227,
+      "heading": "Reactor Characteristics",
+      "level": 1,
+      "start_line": 2180
+    },
+    {
+      "anchor": "reactor-characteristics",
+      "end_line": 2272,
+      "heading": "Reactor Characteristics",
+      "level": 1,
+      "start_line": 2228
+    }
+  ],
+  "source_dir": "pdf/ANL-6892",
+  "tables": [],
+  "title": "ARGONNE NATIONAL LABORATORY",
+  "topics": [
+    "graphite-and-moderator-behavior",
+    "pumps-loops-and-heat-exchangers",
+    "breeder-and-converter-design",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "reactor-operations",
+    "program-history",
+    "materials-and-corrosion"
+  ],
+  "warnings": []
+}

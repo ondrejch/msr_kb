@@ -1,0 +1,666 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "OF Ce",
+    "La",
+    "Pr",
+    "Nd",
+    "Sm",
+    "Eu",
+    "Ba",
+    "Sr",
+    "Y",
+    "Zr",
+    "J. R. Hightower",
+    "Jr.",
+    "L. E. McNeese",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2058.jsonl",
+  "date_text": "1968",
+  "doc_id": "ornl-tm-2058",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          163,
+          752
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          238,
+          608
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          167
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          133
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          133,
+          135
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          105
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 11,
+        "line_hits": [
+          3,
+          15,
+          58,
+          140,
+          244,
+          246,
+          247,
+          248,
+          251,
+          302,
+          754
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          13,
+          58,
+          244,
+          246,
+          247,
+          248,
+          251,
+          826
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          58
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 20,
+        "line_hits": [
+          107,
+          167,
+          171,
+          173,
+          175,
+          214,
+          216,
+          232,
+          238,
+          240,
+          307,
+          389,
+          466,
+          496,
+          586,
+          597,
+          599,
+          642,
+          660,
+          740
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          101,
+          105,
+          115,
+          171,
+          244
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          115
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 43,
+        "line_hits": [
+          23,
+          42,
+          93,
+          101,
+          107,
+          109,
+          115,
+          127,
+          155,
+          159,
+          163,
+          171,
+          173,
+          177,
+          179,
+          181,
+          182,
+          187,
+          191,
+          192,
+          204,
+          208,
+          214,
+          220,
+          224,
+          228,
+          238,
+          245,
+          260,
+          300,
+          307,
+          327,
+          387,
+          398,
+          599,
+          602,
+          608,
+          628,
+          640,
+          648,
+          651,
+          694,
+          696
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          42,
+          93,
+          159,
+          179,
+          181,
+          192,
+          204
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          159,
+          179,
+          204
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          179,
+          181
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          204
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          105
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "82e98310769bc762f7642af1082f9da425f119a7adfaaf562d8158e7c1c5005f",
+  "markdown_path": "pdf/ORNL-TM-2058/ORNL-TM-2058/hybrid_ocr/ORNL-TM-2058.md",
+  "report_number": "ORNL-TM-2058",
+  "report_numbers": [
+    "ORNL-TM-2058"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 55,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "UNION CARBIDE CORPORATION",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 12,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 14,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "ornl-tm-2058",
+      "end_line": 18,
+      "heading": "Ornl-Tm-2058",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "measurement-of-the-relative-volatilities-of-fluorides",
+      "end_line": 28,
+      "heading": "Measurement Of The Relative Volatilities Of Fluorides",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 45,
+      "heading": "Chemical, Technology Division",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 55,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 46
+    },
+    {
+      "anchor": "january-1968",
+      "end_line": 59,
+      "heading": "January 1968",
+      "level": 2,
+      "start_line": 56
+    },
+    {
+      "anchor": "contents",
+      "end_line": 61,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 60
+    },
+    {
+      "anchor": "page",
+      "end_line": 63,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 62
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 65,
+      "heading": "ABSTRACT 1",
+      "level": 1,
+      "start_line": 64
+    },
+    {
+      "anchor": "1-introduction-1",
+      "end_line": 66,
+      "heading": "1. INTRODUCTION 1",
+      "level": 2,
+      "start_line": 66
+    },
+    {
+      "anchor": "2-previous-studies-on-vaporization-of-molten-salt-mixtures-2",
+      "end_line": 67,
+      "heading": "2. Previous Studies On Vaporization Of Molten Salt Mixtures . 2",
+      "level": 2,
+      "start_line": 67
+    },
+    {
+      "anchor": "3-experimental-equipment-3",
+      "end_line": 68,
+      "heading": "3. EXPERIMENTAL EQUIPMENT 3",
+      "level": 2,
+      "start_line": 68
+    },
+    {
+      "anchor": "4-materials-8",
+      "end_line": 69,
+      "heading": "4. MATERIALS 8",
+      "level": 2,
+      "start_line": 69
+    },
+    {
+      "anchor": "5-experimental-procedures-9",
+      "end_line": 70,
+      "heading": "5. EXPERIMENTAL PROCEDURES 9",
+      "level": 2,
+      "start_line": 70
+    },
+    {
+      "anchor": "6-discussion-of-results-10",
+      "end_line": 71,
+      "heading": "6.Discussion Of Results 10",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "7-estimation-of-errors-in-results-12",
+      "end_line": 78,
+      "heading": "7. ESTIMATION OF ERRORS IN RESULTS 12",
+      "level": 2,
+      "start_line": 72
+    },
+    {
+      "anchor": "8-conclusions-17",
+      "end_line": 80,
+      "heading": "8. CONCLUSIONS 17",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "references-19",
+      "end_line": 82,
+      "heading": "REFERENCES 19",
+      "level": 1,
+      "start_line": 81
+    },
+    {
+      "anchor": "appendixes-20",
+      "end_line": 98,
+      "heading": "APPENDIXES 20",
+      "level": 1,
+      "start_line": 83
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 102,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 110,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 103
+    },
+    {
+      "anchor": "2-previous-studies-on-vaporization-of-molten-salt-mixtures",
+      "end_line": 130,
+      "heading": "2. PREVIOUS STUDIES ON VAPORIZATION OF MOLTEN SALT MIXTURES",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "3-experimental-equipment",
+      "end_line": 139,
+      "heading": "3. EXPERIMENTAL EQUIPMENT",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "ornl-dwg-67-6890",
+      "end_line": 152,
+      "heading": "Ornl Dwg 67-6890",
+      "level": 2,
+      "start_line": 140
+    },
+    {
+      "anchor": "4-materials",
+      "end_line": 160,
+      "heading": "4. MATERIALS",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "5-experimental-procedures",
+      "end_line": 168,
+      "heading": "5. EXPERIMENTAL PROCEDURES",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "6-discussion-of-results",
+      "end_line": 197,
+      "heading": "6. DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "7-estimation-of-errors-in-results",
+      "end_line": 211,
+      "heading": "7. ESTIMATION OF ERRORS IN RESULTS",
+      "level": 1,
+      "start_line": 198
+    },
+    {
+      "anchor": "7-1-nonuniform-liquid-phase-concentration",
+      "end_line": 217,
+      "heading": "7.1 Nonuniform Liquid Phase Concentration",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "7-2-diffusion-of-vaporized-materials-between-vaporization-and-condensation-surfaces",
+      "end_line": 221,
+      "heading": "7.2 Diffusion of Vaporized Materials Between Vaporization and Condensation Surfaces",
+      "level": 1,
+      "start_line": 218
+    },
+    {
+      "anchor": "7-3-inaccuracies-in-analyses-of-salt-samples",
+      "end_line": 225,
+      "heading": "7.3 Inaccuracies in Analyses of Salt Samples",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "7-4-holdup-of-condensate-in-the-condenser",
+      "end_line": 235,
+      "heading": "7.4 Holdup of Condensate in the Condenser",
+      "level": 1,
+      "start_line": 226
+    },
+    {
+      "anchor": "8-conclusions",
+      "end_line": 241,
+      "heading": "8. CONCLUSIONS",
+      "level": 1,
+      "start_line": 236
+    },
+    {
+      "anchor": "references",
+      "end_line": 253,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "appendixes",
+      "end_line": 255,
+      "heading": "Appendixes",
+      "level": 2,
+      "start_line": 254
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 257,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "nonuniform-liquid-phase-concentration",
+      "end_line": 301,
+      "heading": "Nonuniform Liquid Phase Concentration",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "ornl-dwg-67-6911-ri",
+      "end_line": 393,
+      "heading": "Ornl Dwg 67-6911-Ri",
+      "level": 2,
+      "start_line": 302
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 395,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 394
+    },
+    {
+      "anchor": "simultaneous-diffusion-of-two-gases-through-a-stationary-gas",
+      "end_line": 538,
+      "heading": "Simultaneous Diffusion of Two Gases Through a Stationary Gas",
+      "level": 1,
+      "start_line": 396
+    },
+    {
+      "anchor": "d-1-3-d-2-3",
+      "end_line": 589,
+      "heading": "D _ {1 3} = D _ {2 3}",
+      "level": 2,
+      "start_line": 539
+    },
+    {
+      "anchor": "3-d-13-d-23",
+      "end_line": 603,
+      "heading": "(3) $D_{13} = D_{23}$ ,",
+      "level": 2,
+      "start_line": 590
+    },
+    {
+      "anchor": "appendix-c",
+      "end_line": 605,
+      "heading": "APPENDIX C",
+      "level": 1,
+      "start_line": 604
+    },
+    {
+      "anchor": "inaccuracies-in-analyses-of-samples",
+      "end_line": 653,
+      "heading": "Inaccuracies in Analyses of Samples",
+      "level": 1,
+      "start_line": 606
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 655,
+      "heading": "APPENDIX D",
+      "level": 1,
+      "start_line": 654
+    },
+    {
+      "anchor": "estimation-of-errors-due-to-differential-condensation-and-unsteady-condensate-drainage",
+      "end_line": 741,
+      "heading": "Estimation of Errors Due to Differential Condensation and Unsteady Condensate Drainage",
+      "level": 1,
+      "start_line": 656
+    },
+    {
+      "anchor": "appendix-e",
+      "end_line": 743,
+      "heading": "APPENDIX E",
+      "level": 1,
+      "start_line": 742
+    },
+    {
+      "anchor": "conversion-of-rare-earth-oxides-to-fluorides",
+      "end_line": 753,
+      "heading": "Conversion of Rare Earth Oxides to Fluorides",
+      "level": 1,
+      "start_line": 744
+    },
+    {
+      "anchor": "ornl-dwg-67-11664",
+      "end_line": 760,
+      "heading": "Ornl Dwg 67-11664",
+      "level": 2,
+      "start_line": 754
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 824,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 761
+    },
+    {
+      "anchor": "66-80-dtie",
+      "end_line": 826,
+      "heading": "66-80. Dtie",
+      "level": 2,
+      "start_line": 825
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2058",
+  "tables": [],
+  "title": "![](images/c2229b5f8e19027c60b12ba48b7fb04bc5aea58282b3c8a97086adf1f2bd0737.jpg)",
+  "topics": [
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion",
+    "pumps-loops-and-heat-exchangers",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics"
+  ],
+  "warnings": []
+}

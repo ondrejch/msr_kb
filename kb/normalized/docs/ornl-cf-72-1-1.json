@@ -1,0 +1,451 @@
+{
+  "authors": [
+    "OPERATED BY",
+    "UNION CARBIDE CORPORATION",
+    "For Internal Use Only",
+    "COPY NO.",
+    "FROM: P. N. Haubenreich",
+    "R. B. Lindauer"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-72-1-1.jsonl",
+  "date_text": "January 28, 1972",
+  "doc_id": "ornl-cf-72-1-1",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          119,
+          287
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          111
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          111
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 6,
+        "line_hits": [
+          33,
+          95,
+          97,
+          208,
+          240,
+          295
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          111
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 27,
+        "line_hits": [
+          5,
+          33,
+          41,
+          93,
+          111,
+          190,
+          210,
+          261,
+          287,
+          295,
+          301,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          330,
+          333,
+          334,
+          335,
+          336,
+          340,
+          341,
+          342,
+          343,
+          424
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          190,
+          368,
+          371,
+          380,
+          388,
+          406,
+          408,
+          416,
+          417
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          8
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 51,
+        "line_hits": [
+          25,
+          33,
+          57,
+          59,
+          77,
+          93,
+          95,
+          101,
+          107,
+          113,
+          117,
+          131,
+          135,
+          141,
+          145,
+          147,
+          149,
+          151,
+          164,
+          172,
+          178,
+          188,
+          192,
+          194,
+          196,
+          204,
+          206,
+          213,
+          217,
+          261,
+          271,
+          273,
+          279,
+          281,
+          287,
+          295,
+          301,
+          305,
+          313,
+          315,
+          317,
+          324,
+          326,
+          327,
+          329,
+          332,
+          333,
+          335,
+          337,
+          341
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 23,
+        "line_hits": [
+          33,
+          95,
+          97,
+          107,
+          111,
+          131,
+          133,
+          143,
+          145,
+          156,
+          160,
+          164,
+          176,
+          182,
+          190,
+          198,
+          206,
+          230,
+          271,
+          297,
+          299,
+          301,
+          305
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          101,
+          113,
+          123,
+          334,
+          343
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          226,
+          241,
+          248,
+          252,
+          315
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          111,
+          283
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6741e6cae1471194da55429fc40c100c6c41cedc74f2ff808a340f481e96fc81",
+  "markdown_path": "pdf/ORNL-CF-72-1-1/ORNL-CF-72-1-1/hybrid_ocr/ORNL-CF-72-1-1.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 27,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 7,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 8
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 12,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "post-office-box-x-oak-ridge-tennessee-37831",
+      "end_line": 22,
+      "heading": "Post Office Box X Oak Ridge, Tennessee 37831",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "copy-no",
+      "end_line": 30,
+      "heading": "Copy No.",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 38,
+      "heading": "Abstract",
+      "level": 1,
+      "start_line": 31
+    },
+    {
+      "anchor": "notice",
+      "end_line": 52,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "contents",
+      "end_line": 54,
+      "heading": "Contents",
+      "level": 1,
+      "start_line": 53
+    },
+    {
+      "anchor": "page",
+      "end_line": 98,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 55
+    },
+    {
+      "anchor": "fuel-salt",
+      "end_line": 120,
+      "heading": "Fuel Salt",
+      "level": 1,
+      "start_line": 99
+    },
+    {
+      "anchor": "flush-salt",
+      "end_line": 128,
+      "heading": "Flush Salt",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "fissile-material-inventories",
+      "end_line": 138,
+      "heading": "Fissile Material Inventories",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "activities-of-232-mathrm-u-and-its-daughters",
+      "end_line": 157,
+      "heading": "Activities of $^{232}\\mathrm{U}$ and its Daughters",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "fission-products",
+      "end_line": 161,
+      "heading": "Fission Products",
+      "level": 1,
+      "start_line": 158
+    },
+    {
+      "anchor": "fluorine-evolution-potential",
+      "end_line": 185,
+      "heading": "Fluorine Evolution Potential",
+      "level": 1,
+      "start_line": 162
+    },
+    {
+      "anchor": "options-for-disposal",
+      "end_line": 201,
+      "heading": "Options for Disposal",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "operations-involved-in-disposal",
+      "end_line": 203,
+      "heading": "Operations Involved in Disposal",
+      "level": 1,
+      "start_line": 202
+    },
+    {
+      "anchor": "storage-at-msre-site",
+      "end_line": 209,
+      "heading": "Storage at MSRE Site",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "ornl-dwg-72-1639",
+      "end_line": 214,
+      "heading": "Ornl Dwg. 72-1639",
+      "level": 2,
+      "start_line": 210
+    },
+    {
+      "anchor": "recovery-of-uranium",
+      "end_line": 268,
+      "heading": "Recovery of Uranium",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "storage-in-national-radioactive-waste-repository",
+      "end_line": 284,
+      "heading": "Storage in National Radioactive Waste Repository",
+      "level": 1,
+      "start_line": 269
+    },
+    {
+      "anchor": "injection-into-x-10-shale",
+      "end_line": 288,
+      "heading": "Injection into X-10 Shale",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "cost-estimates",
+      "end_line": 302,
+      "heading": "Cost Estimates",
+      "level": 1,
+      "start_line": 289
+    },
+    {
+      "anchor": "discussion-and-recommendations",
+      "end_line": 320,
+      "heading": "Discussion and Recommendations",
+      "level": 1,
+      "start_line": 303
+    },
+    {
+      "anchor": "references",
+      "end_line": 350,
+      "heading": "References",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 424,
+      "heading": "Distribution",
+      "level": 1,
+      "start_line": 351
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-72-1-1",
+  "tables": [],
+  "title": "![](images/be2ea45bad0f4cfb998629958b80a3dc10cf8c5c30dcfebc257c9b57aa7fbd51.jpg)",
+  "topics": [
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "salt-systems-and-thermophysics",
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

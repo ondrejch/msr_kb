@@ -1,0 +1,1396 @@
+{
+  "authors": [
+    "A. D. Kelmers",
+    "C. F. Baes",
+    "E. S. Bettis",
+    "J. Brynestad",
+    "S. Cantor",
+    "J. R. Engel"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-5325.jsonl",
+  "date_text": "September 1974",
+  "doc_id": "ornl-tm-5325",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 10,
+        "line_hits": [
+          191,
+          262,
+          333,
+          467,
+          493,
+          555,
+          561,
+          563,
+          571,
+          643
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          170,
+          185,
+          433,
+          651,
+          697,
+          699,
+          713,
+          827
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          429,
+          461,
+          467,
+          471,
+          591,
+          621,
+          831,
+          869
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          205,
+          469,
+          471,
+          591,
+          609,
+          769,
+          909
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          389,
+          517
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          831
+        ],
+        "name": "Incoloy 800"
+      }
+    ],
+    "component": [
+      {
+        "count": 52,
+        "line_hits": [
+          87,
+          101,
+          177,
+          217,
+          221,
+          226,
+          227,
+          231,
+          233,
+          251,
+          253,
+          289,
+          291,
+          293,
+          297,
+          307,
+          359,
+          369,
+          385,
+          389,
+          413,
+          489,
+          509,
+          601,
+          605,
+          647,
+          651,
+          703,
+          709,
+          739,
+          741,
+          743,
+          747,
+          749,
+          751,
+          757,
+          759,
+          761,
+          765,
+          767,
+          769,
+          771,
+          777,
+          779,
+          799,
+          827,
+          829,
+          831,
+          859,
+          867
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 47,
+        "line_hits": [
+          183,
+          213,
+          217,
+          289,
+          291,
+          293,
+          299,
+          321,
+          329,
+          339,
+          341,
+          343,
+          345,
+          363,
+          369,
+          395,
+          427,
+          435,
+          443,
+          455,
+          481,
+          487,
+          495,
+          505,
+          531,
+          545,
+          551,
+          567,
+          611,
+          617,
+          637,
+          683,
+          703,
+          709,
+          717,
+          767,
+          769,
+          771,
+          793,
+          825,
+          827,
+          829,
+          843,
+          845,
+          851,
+          859,
+          879
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 23,
+        "line_hits": [
+          183,
+          228,
+          230,
+          253,
+          259,
+          265,
+          367,
+          435,
+          487,
+          489,
+          595,
+          741,
+          747,
+          749,
+          751,
+          755,
+          767,
+          775,
+          787,
+          845,
+          849,
+          853,
+          857
+        ],
+        "name": "steam generator"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          213,
+          293,
+          369,
+          703,
+          767,
+          771,
+          793,
+          825,
+          845,
+          851,
+          859
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          343,
+          545,
+          559,
+          565,
+          569,
+          867
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          87,
+          329,
+          555,
+          559
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          399,
+          601,
+          605
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          333
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 20,
+        "line_hits": [
+          65,
+          83,
+          893,
+          894,
+          895,
+          896,
+          897,
+          901,
+          903,
+          904,
+          906,
+          909,
+          911,
+          912,
+          915,
+          918,
+          921,
+          925,
+          927,
+          1002
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          914
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          71
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 90,
+        "line_hits": [
+          83,
+          97,
+          103,
+          168,
+          185,
+          187,
+          191,
+          205,
+          209,
+          217,
+          219,
+          233,
+          247,
+          251,
+          269,
+          281,
+          283,
+          307,
+          309,
+          311,
+          313,
+          317,
+          333,
+          339,
+          359,
+          379,
+          383,
+          389,
+          393,
+          395,
+          405,
+          421,
+          427,
+          433,
+          439,
+          443,
+          445,
+          455,
+          463,
+          467,
+          469,
+          471,
+          475,
+          477,
+          479,
+          501,
+          505,
+          509,
+          513,
+          519
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 90,
+        "line_hits": [
+          1,
+          39,
+          83,
+          103,
+          115,
+          166,
+          168,
+          177,
+          183,
+          205,
+          209,
+          213,
+          215,
+          219,
+          227,
+          228,
+          230,
+          233,
+          239,
+          241,
+          245,
+          247,
+          259,
+          269,
+          279,
+          281,
+          283,
+          293,
+          303,
+          307,
+          311,
+          313,
+          317,
+          323,
+          329,
+          337,
+          339,
+          343,
+          349,
+          357,
+          359,
+          363,
+          379,
+          389,
+          393,
+          405,
+          439,
+          441,
+          447,
+          451
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          215,
+          279,
+          429,
+          447,
+          517,
+          629,
+          679,
+          687,
+          893
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 41,
+        "line_hits": [
+          89,
+          99,
+          134,
+          171,
+          177,
+          185,
+          191,
+          200,
+          203,
+          205,
+          209,
+          241,
+          242,
+          243,
+          253,
+          259,
+          271,
+          273,
+          279,
+          281,
+          283,
+          291,
+          515,
+          517,
+          519,
+          521,
+          531,
+          547,
+          563,
+          567,
+          569,
+          591,
+          599,
+          601,
+          611,
+          621,
+          629,
+          655,
+          663,
+          691,
+          777
+        ],
+        "name": "NaBF4-NaF"
+      },
+      {
+        "count": 37,
+        "line_hits": [
+          83,
+          91,
+          97,
+          103,
+          105,
+          107,
+          140,
+          171,
+          185,
+          189,
+          191,
+          200,
+          203,
+          279,
+          481,
+          517,
+          521,
+          537,
+          553,
+          557,
+          565,
+          591,
+          595,
+          625,
+          627,
+          629,
+          639,
+          651,
+          653,
+          667,
+          673,
+          679,
+          683,
+          691,
+          777,
+          859,
+          909
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          91,
+          105,
+          107,
+          303,
+          429,
+          445,
+          447,
+          451,
+          505,
+          517,
+          573,
+          629,
+          667,
+          673,
+          679,
+          683,
+          691,
+          721,
+          731,
+          825
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          140,
+          170,
+          185,
+          191,
+          449,
+          627,
+          713
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          481
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          191
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          191
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          537
+        ],
+        "name": "fluoride salt"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "f7de4b190d04e6b7fa7954e1e38786c82ec557b1d6ac22ca5aef897ee0053635",
+  "markdown_path": "pdf/ORNL-TM-5325/ORNL-TM-5325/hybrid_ocr/ORNL-TM-5325.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 108,
+  "sections": [
+    {
+      "anchor": "evaluation-of-alternate-secondary-and-tertiary-coolants-for-the-molten-salt-breeder-reactor",
+      "end_line": 36,
+      "heading": "Evaluation of Alternate Secondary (and Tertiary) Coolants for the Molten-Salt Breeder Reactor",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "evaluation-of-alternate-secondary-and-tertiary",
+      "end_line": 38,
+      "heading": "Evaluation Of Alternate Secondary (And Tertiary)",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "coolants-for-the-molten-salt-breeder-reactor",
+      "end_line": 58,
+      "heading": "Coolants For The Molten-Salt Breeder Reactor",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "notice",
+      "end_line": 62,
+      "heading": "Notice",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "april-1976",
+      "end_line": 64,
+      "heading": "April 1976",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 70,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 74,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 78,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 75
+    },
+    {
+      "anchor": "preface",
+      "end_line": 108,
+      "heading": "PREFACE",
+      "level": 1,
+      "start_line": 79
+    },
+    {
+      "anchor": "contents",
+      "end_line": 112,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 109
+    },
+    {
+      "anchor": "1-summary-and-recommendations-1",
+      "end_line": 117,
+      "heading": "1. SUMMARY AND RECOMMENDATIONS 1",
+      "level": 1,
+      "start_line": 113
+    },
+    {
+      "anchor": "2-introduction-13",
+      "end_line": 122,
+      "heading": "2. INTRODUCTION 13",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "3-coolant-criteria-15",
+      "end_line": 128,
+      "heading": "3. COOLANT CRITERIA 15",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "4-rejected-coolant-candidates-27",
+      "end_line": 133,
+      "heading": "4. REJECTED COOLANT CANDIDATES 27",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "5-status-of-fluoroborate-coolant-38",
+      "end_line": 139,
+      "heading": "5．STATUS OF FLUOROBORATE COOLANT 38",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "6-alternate-single-coolant-naf-7lif-bef2-48",
+      "end_line": 145,
+      "heading": "6. ALTERNATE SINGLE COOLANT: NaF-7LiF-BeF2 48",
+      "level": 1,
+      "start_line": 140
+    },
+    {
+      "anchor": "7-alternate-dual-coolant-candidates-56",
+      "end_line": 153,
+      "heading": "7. ALTERNATE DUAL COOLANT CANDIDATES 56",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "8-acknowledgements-74",
+      "end_line": 155,
+      "heading": "8. ACKNOWLEDGEMENTS 74",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "9-references-75",
+      "end_line": 159,
+      "heading": "9. REFERENCES 75",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "dedication",
+      "end_line": 163,
+      "heading": "DEDICATION",
+      "level": 1,
+      "start_line": 160
+    },
+    {
+      "anchor": "1-summary-and-recommendations",
+      "end_line": 165,
+      "heading": "1. SUMMARY AND RECOMMENDATIONS",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "1-1-comparison-of-best-msbr-coolants",
+      "end_line": 180,
+      "heading": "1.1 Comparison of Best MSBR Coolants",
+      "level": 1,
+      "start_line": 166
+    },
+    {
+      "anchor": "1-1-1-single-coolants",
+      "end_line": 210,
+      "heading": "1.1.1 Single coolants",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "1-1-2-dual-coolants",
+      "end_line": 236,
+      "heading": "1.1.2 Dual coolants",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "1-2-recommended-future-work",
+      "end_line": 248,
+      "heading": "1.2 Recommended Future Work",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "1-2-1-conceptual-designs-and-cost-estimates",
+      "end_line": 256,
+      "heading": "1.2.1 Conceptual designs and cost estimates",
+      "level": 1,
+      "start_line": 249
+    },
+    {
+      "anchor": "1-2-2-tritium-trapping",
+      "end_line": 270,
+      "heading": "1.2.2 Tritium trapping",
+      "level": 1,
+      "start_line": 257
+    },
+    {
+      "anchor": "1-2-3-fuel-salt-fluoroborate-mixing-problems",
+      "end_line": 274,
+      "heading": "1.2.3 Fuel-salt fluoroborate mixing problems",
+      "level": 1,
+      "start_line": 271
+    },
+    {
+      "anchor": "2-introduction",
+      "end_line": 276,
+      "heading": "2. INTRODUCTION",
+      "level": 1,
+      "start_line": 275
+    },
+    {
+      "anchor": "2-1-purpose-and-organization-of-the-report",
+      "end_line": 284,
+      "heading": "2.1 Purpose and Organization of the Report",
+      "level": 1,
+      "start_line": 277
+    },
+    {
+      "anchor": "2-2-terminology",
+      "end_line": 304,
+      "heading": "2.2 Terminology",
+      "level": 1,
+      "start_line": 285
+    },
+    {
+      "anchor": "3-coolant-criteria",
+      "end_line": 314,
+      "heading": "3. COOLANT CRITERIA",
+      "level": 1,
+      "start_line": 305
+    },
+    {
+      "anchor": "3-1-safety-significant-events",
+      "end_line": 318,
+      "heading": "3.1 Safety Significant Events",
+      "level": 1,
+      "start_line": 315
+    },
+    {
+      "anchor": "3-1-1-increase-in-reactivity",
+      "end_line": 326,
+      "heading": "3.1.1 Increase in reactivity",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "3-1-2-gas-generation-or-in-leakage",
+      "end_line": 330,
+      "heading": "3.1.2 Gas generation or in-leakage",
+      "level": 1,
+      "start_line": 327
+    },
+    {
+      "anchor": "3-1-3-chemical-reactions",
+      "end_line": 334,
+      "heading": "3.1.3 Chemical reactions",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "3-2-anticipated-off-design-transients",
+      "end_line": 340,
+      "heading": "3.2 Anticipated Off-Design Transients",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "3-2-1-primary-heat-exchanger-leaks",
+      "end_line": 354,
+      "heading": "3.2.1 Primary heat exchanger leaks",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "3-2-2-steam-raising-system-leaks",
+      "end_line": 360,
+      "heading": "3.2.2 Steam-raising system leaks",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "3-2-3-fuel-salt-freezing",
+      "end_line": 370,
+      "heading": "3.2.3 Fuel-salt freezing",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "3-2-4-leaks-to-or-from-cell-atmosphere",
+      "end_line": 376,
+      "heading": "3.2.4 Leaks to or from cell atmosphere",
+      "level": 1,
+      "start_line": 371
+    },
+    {
+      "anchor": "3-3-design-characteristics",
+      "end_line": 380,
+      "heading": "3.3 Design Characteristics",
+      "level": 1,
+      "start_line": 377
+    },
+    {
+      "anchor": "3-3-1-corrosion",
+      "end_line": 386,
+      "heading": "3.3.1 Corrosion",
+      "level": 1,
+      "start_line": 381
+    },
+    {
+      "anchor": "3-3-2-freezing-point",
+      "end_line": 390,
+      "heading": "3.3.2 Freezing point",
+      "level": 1,
+      "start_line": 387
+    },
+    {
+      "anchor": "3-3-3-heat-transfer-and-fluid-transport-properties",
+      "end_line": 396,
+      "heading": "3.3.3 Heat transfer and fluid transport properties",
+      "level": 1,
+      "start_line": 391
+    },
+    {
+      "anchor": "3-3-4-vapor-pressure-and-composition",
+      "end_line": 402,
+      "heading": "3.3.4 Vapor pressure and composition",
+      "level": 1,
+      "start_line": 397
+    },
+    {
+      "anchor": "3-3-5-tritium-control",
+      "end_line": 414,
+      "heading": "3.3.5 Tritium control",
+      "level": 1,
+      "start_line": 403
+    },
+    {
+      "anchor": "3-3-6-radiation-and-chemical-stability",
+      "end_line": 418,
+      "heading": "3.3.6 Radiation and chemical stability",
+      "level": 1,
+      "start_line": 415
+    },
+    {
+      "anchor": "3-3-7-cost-and-availability",
+      "end_line": 422,
+      "heading": "3.3.7 Cost and availability",
+      "level": 1,
+      "start_line": 419
+    },
+    {
+      "anchor": "4-rejected-coolant-candidates",
+      "end_line": 424,
+      "heading": "4. REJECTED COOLANT CANDIDATES",
+      "level": 1,
+      "start_line": 423
+    },
+    {
+      "anchor": "4-1-single-secondary-coolants",
+      "end_line": 430,
+      "heading": "4.1 Single Secondary Coolants",
+      "level": 1,
+      "start_line": 425
+    },
+    {
+      "anchor": "4-1-1-coolants-used-in-other-nuclear-reactors",
+      "end_line": 458,
+      "heading": "4.1.1 Coolants used in other nuclear reactors",
+      "level": 1,
+      "start_line": 431
+    },
+    {
+      "anchor": "4-1-2-low-melting-metals-and-salts",
+      "end_line": 472,
+      "heading": "4.1.2 Low-melting metals and salts",
+      "level": 1,
+      "start_line": 459
+    },
+    {
+      "anchor": "4-1-3-other-molten-halide-mixtures",
+      "end_line": 482,
+      "heading": "4.1.3 Other molten halide mixtures",
+      "level": 1,
+      "start_line": 473
+    },
+    {
+      "anchor": "4-1-4-fluidized-bed-coolants",
+      "end_line": 496,
+      "heading": "4.1.4 Fluidized-bed coolants",
+      "level": 1,
+      "start_line": 483
+    },
+    {
+      "anchor": "4-2-dual-coolant-configurations",
+      "end_line": 502,
+      "heading": "4.2 Dual Coolant Configurations",
+      "level": 1,
+      "start_line": 497
+    },
+    {
+      "anchor": "4-2-1-secondary-coolants",
+      "end_line": 506,
+      "heading": "4.2.1 Secondary coolants",
+      "level": 1,
+      "start_line": 503
+    },
+    {
+      "anchor": "4-2-2-tertiary-steam-raising-coolants",
+      "end_line": 514,
+      "heading": "4.2.2 Tertiary (steam-raising) coolants",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "5-status-of-fluoroborate-coolant",
+      "end_line": 522,
+      "heading": "5. STATUS OF FLUOROBORATE COOLANT",
+      "level": 1,
+      "start_line": 515
+    },
+    {
+      "anchor": "5-1-safety-significant-criteria",
+      "end_line": 524,
+      "heading": "5.1 Safety Significant Criteria",
+      "level": 1,
+      "start_line": 523
+    },
+    {
+      "anchor": "5-1-1-increase-of-reactivity",
+      "end_line": 528,
+      "heading": "5.1.1 Increase of reactivity",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "5-1-2-chemical-reactions",
+      "end_line": 548,
+      "heading": "5.1.2 Chemical reactions",
+      "level": 1,
+      "start_line": 529
+    },
+    {
+      "anchor": "5-2-off-design-transients",
+      "end_line": 550,
+      "heading": "5.2 Off-Design Transients",
+      "level": 1,
+      "start_line": 549
+    },
+    {
+      "anchor": "5-2-1-leaks-in-the-primary-heat-exchanger",
+      "end_line": 578,
+      "heading": "5.2.1 Leaks in the primary heat exchanger",
+      "level": 1,
+      "start_line": 551
+    },
+    {
+      "anchor": "5-2-2-other-leaks",
+      "end_line": 586,
+      "heading": "5.2.2 Other leaks",
+      "level": 1,
+      "start_line": 579
+    },
+    {
+      "anchor": "5-3-design-factors",
+      "end_line": 588,
+      "heading": "5.3 Design Factors",
+      "level": 1,
+      "start_line": 587
+    },
+    {
+      "anchor": "5-3-1-corrosion",
+      "end_line": 592,
+      "heading": "5.3.1 Corrosion",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "5-3-2-freezing-point",
+      "end_line": 596,
+      "heading": "5.3.2 Freezing point",
+      "level": 1,
+      "start_line": 593
+    },
+    {
+      "anchor": "5-3-3-heat-transfer-and-hydrodynamic-properties",
+      "end_line": 602,
+      "heading": "5.3.3 Heat-transfer and hydrodynamic properties",
+      "level": 1,
+      "start_line": 597
+    },
+    {
+      "anchor": "5-3-4-vapor-pressure-and-composition",
+      "end_line": 606,
+      "heading": "5.3.4 Vapor pressure and composition",
+      "level": 1,
+      "start_line": 603
+    },
+    {
+      "anchor": "5-3-5-radiation-and-chemical-stability",
+      "end_line": 618,
+      "heading": "5.3.5 Radiation and chemical stability",
+      "level": 1,
+      "start_line": 607
+    },
+    {
+      "anchor": "5-3-6-tritium",
+      "end_line": 622,
+      "heading": "5.3.6 Tritium",
+      "level": 1,
+      "start_line": 619
+    },
+    {
+      "anchor": "5-3-7-cost-and-availability",
+      "end_line": 626,
+      "heading": "5.3.7 Cost and availability",
+      "level": 1,
+      "start_line": 623
+    },
+    {
+      "anchor": "6-alternate-single-coolant-naf-7lif-bef2",
+      "end_line": 630,
+      "heading": "6. ALTERNATE SINGLE COOLANT: NaF-7LiF-BeF2",
+      "level": 1,
+      "start_line": 627
+    },
+    {
+      "anchor": "6-1-safety-significant-criteria",
+      "end_line": 634,
+      "heading": "6.1 Safety Significant Criteria",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "6-2-off-design-transients",
+      "end_line": 636,
+      "heading": "6.2 Off-Design Transients",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "6-2-1-leaks-in-primary-heat-exchangers",
+      "end_line": 648,
+      "heading": "6.2.1 Leaks in primary heat exchangers",
+      "level": 1,
+      "start_line": 637
+    },
+    {
+      "anchor": "6-2-2-other-leaks",
+      "end_line": 658,
+      "heading": "6.2.2 Other leaks",
+      "level": 1,
+      "start_line": 649
+    },
+    {
+      "anchor": "6-3-design-factors",
+      "end_line": 660,
+      "heading": "6.3 Design Factors",
+      "level": 1,
+      "start_line": 659
+    },
+    {
+      "anchor": "6-3-1-corrosivity",
+      "end_line": 664,
+      "heading": "6.3.1 Corrosivity",
+      "level": 1,
+      "start_line": 661
+    },
+    {
+      "anchor": "6-3-2-freezing-point",
+      "end_line": 676,
+      "heading": "6.3.2 Freezing point",
+      "level": 1,
+      "start_line": 665
+    },
+    {
+      "anchor": "6-3-3-heat-transfer-and-hydrodynamic-properties",
+      "end_line": 680,
+      "heading": "6.3.3 Heat-transfer and hydrodynamic properties",
+      "level": 1,
+      "start_line": 677
+    },
+    {
+      "anchor": "6-3-4-vapor-pressure-and-composition",
+      "end_line": 684,
+      "heading": "6.3.4 Vapor pressure and composition",
+      "level": 1,
+      "start_line": 681
+    },
+    {
+      "anchor": "6-3-5-radiation-and-chemical-stability",
+      "end_line": 688,
+      "heading": "6.3.5 Radiation and chemical stability",
+      "level": 1,
+      "start_line": 685
+    },
+    {
+      "anchor": "6-3-6-tritium",
+      "end_line": 692,
+      "heading": "6.3.6 Tritium",
+      "level": 1,
+      "start_line": 689
+    },
+    {
+      "anchor": "6-3-7-cost-and-availability",
+      "end_line": 700,
+      "heading": "6.3.7 Cost and availability",
+      "level": 1,
+      "start_line": 693
+    },
+    {
+      "anchor": "7-alternate-dual-coolant-candidates",
+      "end_line": 710,
+      "heading": "7. ALTERNATE DUAL COOLANT CANDIDATES",
+      "level": 1,
+      "start_line": 701
+    },
+    {
+      "anchor": "7-1-secondary-coolant",
+      "end_line": 714,
+      "heading": "7.1 Secondary Coolant",
+      "level": 1,
+      "start_line": 711
+    },
+    {
+      "anchor": "7-1-1-advantages",
+      "end_line": 722,
+      "heading": "7.1.1 Advantages",
+      "level": 1,
+      "start_line": 715
+    },
+    {
+      "anchor": "7-1-2-disadvantage",
+      "end_line": 728,
+      "heading": "7.1.2 Disadvantage",
+      "level": 1,
+      "start_line": 723
+    },
+    {
+      "anchor": "7-1-3-future-work",
+      "end_line": 732,
+      "heading": "7.1.3 Future work",
+      "level": 1,
+      "start_line": 729
+    },
+    {
+      "anchor": "7-2-compressed-helium-tertiary-coolant",
+      "end_line": 736,
+      "heading": "7.2 Compressed Helium Tertiary Coolant",
+      "level": 1,
+      "start_line": 733
+    },
+    {
+      "anchor": "7-2-1-advantages",
+      "end_line": 762,
+      "heading": "7.2.1 Advantages",
+      "level": 1,
+      "start_line": 737
+    },
+    {
+      "anchor": "7-2-2-disadvantages",
+      "end_line": 782,
+      "heading": "7.2.2 Disadvantages",
+      "level": 1,
+      "start_line": 763
+    },
+    {
+      "anchor": "7-2-3-future-work",
+      "end_line": 788,
+      "heading": "7.2.3 Future work",
+      "level": 1,
+      "start_line": 783
+    },
+    {
+      "anchor": "7-3-molten-salt-tertiary-coolant",
+      "end_line": 796,
+      "heading": "7.3 Molten Salt Tertiary Coolant",
+      "level": 1,
+      "start_line": 789
+    },
+    {
+      "anchor": "7-3-1-advantages",
+      "end_line": 822,
+      "heading": "7.3.1 Advantages",
+      "level": 1,
+      "start_line": 797
+    },
+    {
+      "anchor": "7-3-2-disadvantages",
+      "end_line": 836,
+      "heading": "7.3.2 Disadvantages",
+      "level": 1,
+      "start_line": 823
+    },
+    {
+      "anchor": "7-3-3-future-work",
+      "end_line": 840,
+      "heading": "7.3.3 Future work",
+      "level": 1,
+      "start_line": 837
+    },
+    {
+      "anchor": "7-4-liquid-metal-tertiary-coolants",
+      "end_line": 846,
+      "heading": "7.4 Liquid Metal Tertiary Coolants",
+      "level": 1,
+      "start_line": 841
+    },
+    {
+      "anchor": "7-4-1-advantages",
+      "end_line": 854,
+      "heading": "7.4.1 Advantages",
+      "level": 1,
+      "start_line": 847
+    },
+    {
+      "anchor": "7-4-2-disadvantages",
+      "end_line": 870,
+      "heading": "7.4.2 Disadvantages",
+      "level": 1,
+      "start_line": 855
+    },
+    {
+      "anchor": "7-4-3-future-work",
+      "end_line": 876,
+      "heading": "7.4.3 Future work",
+      "level": 1,
+      "start_line": 871
+    },
+    {
+      "anchor": "7-5-fluidized-bed-tertiary-system",
+      "end_line": 886,
+      "heading": "7.5 Fluidized-Bed Tertiary System",
+      "level": 1,
+      "start_line": 877
+    },
+    {
+      "anchor": "8-acknowledgements",
+      "end_line": 890,
+      "heading": "8. ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 887
+    },
+    {
+      "anchor": "9-references",
+      "end_line": 935,
+      "heading": "9. REFERENCES",
+      "level": 1,
+      "start_line": 891
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 1003,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 936
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 1012,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 1004
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-5325",
+  "tables": [],
+  "title": "Evaluation of Alternate Secondary (and Tertiary) Coolants for the Molten-Salt Breeder Reactor",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "off-gas-fission-products-and-tritium",
+    "materials-and-corrosion",
+    "safety-shielding-and-remote-maintenance",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "reactor-physics-neutronics",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

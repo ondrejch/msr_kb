@@ -1,0 +1,809 @@
+{
+  "authors": [
+    "Reactors-Special",
+    "Features of Aircraft Reactors",
+    "PHASE EQUILIBRIUM DIAGRAMS FOR",
+    "FUSED SALT SYSTEMS",
+    "R. E. Thomo",
+    "W. R. Grimes"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2295.jsonl",
+  "date_text": "March 10, 1957",
+  "doc_id": "ornl-2295",
+  "document_type": "progress-report",
+  "entities": {
+    "organization": [
+      {
+        "count": 52,
+        "line_hits": [
+          3,
+          49,
+          92,
+          229,
+          237,
+          331,
+          343,
+          349,
+          355,
+          367,
+          373,
+          379,
+          385,
+          395,
+          401,
+          407,
+          413,
+          419,
+          425,
+          431,
+          443,
+          449,
+          455,
+          461,
+          467,
+          473,
+          479,
+          539,
+          547,
+          551,
+          555,
+          559,
+          563,
+          567,
+          575,
+          579,
+          583,
+          587,
+          595,
+          599,
+          607,
+          611,
+          615,
+          619,
+          623,
+          627,
+          629,
+          631,
+          633,
+          636
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          53,
+          55,
+          96,
+          98
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1,
+          257,
+          317
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          255,
+          280
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          247
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          302
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          312
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 1,
+        "line_hits": [
+          325
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 52,
+        "line_hits": [
+          331,
+          339,
+          427,
+          433,
+          451,
+          487,
+          489,
+          491,
+          493,
+          495,
+          497,
+          499,
+          501,
+          503,
+          505,
+          511,
+          513,
+          517,
+          519,
+          521,
+          529,
+          629,
+          639,
+          654,
+          675,
+          701,
+          748,
+          751,
+          760,
+          781,
+          784,
+          787,
+          793,
+          796,
+          801,
+          809,
+          814,
+          817,
+          827,
+          832,
+          842,
+          845,
+          848,
+          857,
+          862,
+          866,
+          869,
+          872,
+          875,
+          882
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 34,
+        "line_hits": [
+          331,
+          363,
+          421,
+          433,
+          439,
+          445,
+          487,
+          489,
+          493,
+          497,
+          505,
+          507,
+          509,
+          515,
+          629,
+          633,
+          636,
+          651,
+          672,
+          698,
+          713,
+          743,
+          751,
+          754,
+          757,
+          781,
+          784,
+          793,
+          801,
+          817,
+          822,
+          835,
+          882,
+          891
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          331,
+          339,
+          345,
+          351,
+          357,
+          505,
+          507,
+          509,
+          511,
+          513,
+          521,
+          527,
+          529,
+          629,
+          689,
+          698,
+          707,
+          769,
+          817,
+          822,
+          827,
+          832,
+          835,
+          842,
+          845,
+          848,
+          862,
+          866,
+          869,
+          872
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 26,
+        "line_hits": [
+          331,
+          351,
+          439,
+          463,
+          475,
+          489,
+          503,
+          509,
+          513,
+          529,
+          629,
+          645,
+          648,
+          681,
+          707,
+          754,
+          766,
+          772,
+          784,
+          814,
+          822,
+          832,
+          857,
+          862,
+          866,
+          869
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 19,
+        "line_hits": [
+          331,
+          345,
+          457,
+          487,
+          491,
+          499,
+          501,
+          507,
+          511,
+          629,
+          642,
+          678,
+          704,
+          763,
+          781,
+          787,
+          809,
+          827,
+          888
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          331,
+          497,
+          499,
+          503,
+          521,
+          629,
+          675,
+          681,
+          684,
+          769,
+          801,
+          809,
+          814,
+          845,
+          848,
+          866,
+          869,
+          875
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          331,
+          491,
+          515,
+          517,
+          629,
+          639,
+          645,
+          787,
+          793,
+          835,
+          842,
+          891
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          331,
+          629,
+          648,
+          654,
+          875,
+          891
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          331,
+          503,
+          629,
+          675,
+          875
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          331,
+          515,
+          629,
+          835
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          421,
+          427,
+          743,
+          748
+        ],
+        "name": "UF3"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          521,
+          845,
+          848
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          497,
+          801
+        ],
+        "name": "LiF-NaF-ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          331,
+          891
+        ],
+        "name": "LiF-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          487
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          629
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          835
+        ],
+        "name": "LiF-BeF2-UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2595b58f74ae93448ee569a1f109e363fe1054f5f49acb7d39e03017e826e297",
+  "markdown_path": "pdf/ORNL-2295/ORNL-2295/hybrid_ocr/ORNL-2295.md",
+  "report_number": "ORNL-2295",
+  "report_numbers": [
+    "ORNL-2295",
+    "ORNL-2274",
+    "ORNL-2221",
+    "ORNL-1030",
+    "ORNL-2106",
+    "ORNL-1947",
+    "ORNL-1729",
+    "ORNL-1294",
+    "ORNL-1609",
+    "ORNL-2012"
+  ],
+  "report_series": null,
+  "section_count": 46,
+  "sections": [
+    {
+      "anchor": "aec-research-and-development-report",
+      "end_line": 2,
+      "heading": "AEC RESEARCH AND DEVELOPMENT REPORT",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "ornl-2295",
+      "end_line": 10,
+      "heading": "Ornl-2295",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "martin-maristta-energy-sysyend-lbpapies",
+      "end_line": 20,
+      "heading": "Martin Maristta Energy Sysyend Lbpapies",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "phase-equilibrium-diagrams-for",
+      "end_line": 22,
+      "heading": "Phase Equilibrium Diagrams For",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "fused-salt-systems",
+      "end_line": 28,
+      "heading": "Fused Salt Systems",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "declassfed",
+      "end_line": 32,
+      "heading": "Declassfed",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "aatnch",
+      "end_line": 34,
+      "heading": "Aatnch",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "by-authority-of",
+      "end_line": 40,
+      "heading": "By Authority Of...",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "central-research-library-documentation",
+      "end_line": 42,
+      "heading": "Central Research Library Documentation",
+      "level": 2,
+      "start_line": 41
+    },
+    {
+      "anchor": "library-loan-copy",
+      "end_line": 44,
+      "heading": "Library Loan Copy",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "do-not-transfer-to-another-person",
+      "end_line": 48,
+      "heading": "Do Not Transfer To Another Person",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 50,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 52,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 58,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "post-office-box-x-oak-ridge-tennessee",
+      "end_line": 64,
+      "heading": "Post Office Box X · Oak Ridge, Tennessee",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 81,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "phase-equilibrium-diagrams-for-fused-salt-systems",
+      "end_line": 87,
+      "heading": "Phase Equilibrium Diagrams For Fused Salt Systems",
+      "level": 2,
+      "start_line": 82
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 89,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 88
+    },
+    {
+      "anchor": "jun-24-1957",
+      "end_line": 91,
+      "heading": "Jun 24 1957",
+      "level": 2,
+      "start_line": 90
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 95,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 92
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 111,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 96
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 238,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 318,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 239
+    },
+    {
+      "anchor": "phase-equilibrium-diagrams-for-fused-salt-systems",
+      "end_line": 328,
+      "heading": "PHASE EQUILIBRIUM DIAGRAMS FOR FUSED SALT SYSTEMS",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "table-of-contents",
+      "end_line": 332,
+      "heading": "Table Of Contents",
+      "level": 2,
+      "start_line": 329
+    },
+    {
+      "anchor": "system",
+      "end_line": 334,
+      "heading": "System",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "reference",
+      "end_line": 336,
+      "heading": "Reference",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "page",
+      "end_line": 344,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "kf-uf4",
+      "end_line": 366,
+      "heading": "Kf-Uf4",
+      "level": 2,
+      "start_line": 345
+    },
+    {
+      "anchor": "ornl-2274",
+      "end_line": 372,
+      "heading": "Ornl-2274",
+      "level": 2,
+      "start_line": 367
+    },
+    {
+      "anchor": "ornl-2221",
+      "end_line": 408,
+      "heading": "Ornl-2221",
+      "level": 2,
+      "start_line": 373
+    },
+    {
+      "anchor": "kc1-uc1",
+      "end_line": 478,
+      "heading": "Kc1-Uc1",
+      "level": 2,
+      "start_line": 409
+    },
+    {
+      "anchor": "ornl-2221",
+      "end_line": 480,
+      "heading": "Ornl-2221",
+      "level": 2,
+      "start_line": 479
+    },
+    {
+      "anchor": "system",
+      "end_line": 530,
+      "heading": "System",
+      "level": 1,
+      "start_line": 481
+    },
+    {
+      "anchor": "reference",
+      "end_line": 578,
+      "heading": "Reference",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "ornl-2274",
+      "end_line": 594,
+      "heading": "Ornl-2274",
+      "level": 2,
+      "start_line": 579
+    },
+    {
+      "anchor": "ornl-2221",
+      "end_line": 598,
+      "heading": "Ornl-2221",
+      "level": 2,
+      "start_line": 595
+    },
+    {
+      "anchor": "ornl-1439",
+      "end_line": 614,
+      "heading": "Ornl-1439",
+      "level": 2,
+      "start_line": 599
+    },
+    {
+      "anchor": "ornl-2221",
+      "end_line": 618,
+      "heading": "Ornl-2221",
+      "level": 2,
+      "start_line": 615
+    },
+    {
+      "anchor": "ornl-2274",
+      "end_line": 622,
+      "heading": "Ornl-2274",
+      "level": 2,
+      "start_line": 619
+    },
+    {
+      "anchor": "ornl-2221",
+      "end_line": 626,
+      "heading": "Ornl-2221",
+      "level": 2,
+      "start_line": 623
+    },
+    {
+      "anchor": "ornl-2221",
+      "end_line": 744,
+      "heading": "Ornl-2221",
+      "level": 2,
+      "start_line": 627
+    },
+    {
+      "anchor": "ornl-lr-dwg-2924",
+      "end_line": 807,
+      "heading": "Ornl-Lr-Dwg 2924",
+      "level": 2,
+      "start_line": 745
+    },
+    {
+      "anchor": "photo-25043",
+      "end_line": 876,
+      "heading": "Photo 25043",
+      "level": 2,
+      "start_line": 808
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 878,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 877
+    },
+    {
+      "anchor": "ornl-lr-dwg12779",
+      "end_line": 912,
+      "heading": "Ornl-Lr-Dwg12779",
+      "level": 2,
+      "start_line": 879
+    }
+  ],
+  "source_dir": "pdf/ORNL-2295",
+  "tables": [],
+  "title": "AEC RESEARCH AND DEVELOPMENT REPORT",
+  "topics": [
+    "aircraft-nuclear-propulsion",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "report_series_not_detected"
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "authors": [
+    "MASTER",
+    "WITH",
+    "J.W.Koger",
+    "A.P.Litman",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2724.jsonl",
+  "date_text": "1969",
+  "doc_id": "ornl-tm-2724",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 13,
+        "line_hits": [
+          7,
+          36,
+          88,
+          94,
+          121,
+          137,
+          148,
+          155,
+          157,
+          161,
+          165,
+          167,
+          235
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          88,
+          109,
+          121,
+          155,
+          161,
+          165,
+          177,
+          189,
+          201,
+          217,
+          227,
+          232,
+          233
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          88,
+          109,
+          121,
+          155,
+          161,
+          165,
+          177,
+          189,
+          201,
+          217,
+          227,
+          232,
+          233
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          92
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          572
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "organization": [
+      {
+        "count": 25,
+        "line_hits": [
+          52,
+          539,
+          541,
+          542,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          554,
+          558,
+          560,
+          561,
+          562,
+          563,
+          564,
+          566,
+          567,
+          569,
+          570,
+          572
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          1,
+          42,
+          92,
+          153,
+          246,
+          248,
+          249,
+          539,
+          541,
+          552,
+          558
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          48
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 7,
+        "line_hits": [
+          109,
+          121,
+          187,
+          199,
+          201,
+          227,
+          239
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          88,
+          92,
+          94,
+          165,
+          235
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          92
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 7,
+        "line_hits": [
+          88,
+          98,
+          103,
+          165,
+          167,
+          171,
+          231
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          9,
+          36,
+          88,
+          94,
+          146,
+          231
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          92
+        ],
+        "name": "BeF2"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "cdd608fea91b05ec79533b7cd0c05aa26965c2738e9776e15c02425c7d2f04a6",
+  "markdown_path": "pdf/ORNL-TM-2724/ORNL-TM-2724/hybrid_ocr/ORNL-TM-2724.md",
+  "report_number": "ORNL-TM-2724",
+  "report_numbers": [
+    "ORNL-TM-2724",
+    "ORNL-4350"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 27,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2724",
+      "end_line": 4,
+      "heading": "Ornl-Tm-2724",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "master",
+      "end_line": 6,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "compatibility-of-molybdenum-base-alloy-tzm-with",
+      "end_line": 12,
+      "heading": "Compatibility Of Molybdenum-Base Alloy Tzm,With",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 23,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 25,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 24
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 39,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 26
+    },
+    {
+      "anchor": "december-1969",
+      "end_line": 41,
+      "heading": "December 1969",
+      "level": 2,
+      "start_line": 40
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 47,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 42
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 51,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 48
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 53,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 52
+    },
+    {
+      "anchor": "contents",
+      "end_line": 55,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 54
+    },
+    {
+      "anchor": "page",
+      "end_line": 85,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 89,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 95,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "experimental-procedure",
+      "end_line": 104,
+      "heading": "EXPERIMENTAL PROCEDURE",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "results-and-discussion",
+      "end_line": 106,
+      "heading": "Results And Discussion",
+      "level": 2,
+      "start_line": 105
+    },
+    {
+      "anchor": "salt-analysis",
+      "end_line": 110,
+      "heading": "Salt Analysis",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "weight-changes",
+      "end_line": 118,
+      "heading": "Weight Changes",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "x-ray-fluorescence-and-microprobe-analysis",
+      "end_line": 122,
+      "heading": "X-Ray Fluorescence and Microprobe Analysis",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "microstructural-changes",
+      "end_line": 134,
+      "heading": "Microstructural Changes",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "recrystallization",
+      "end_line": 158,
+      "heading": "Recrystallization",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "strength",
+      "end_line": 168,
+      "heading": "Strength",
+      "level": 1,
+      "start_line": 159
+    },
+    {
+      "anchor": "corrosion-reactions-and-kinetics",
+      "end_line": 228,
+      "heading": "Corrosion Reactions and Kinetics",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 236,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 229
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 242,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 237
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 533,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 243
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 572,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 534
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2724",
+  "tables": [],
+  "title": "ORNL-TM-2724",
+  "topics": [
+    "materials-and-corrosion",
+    "breeder-and-converter-design",
+    "instrumentation-and-controls",
+    "aircraft-nuclear-propulsion",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

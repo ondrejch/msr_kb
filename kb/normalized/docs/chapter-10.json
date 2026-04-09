@@ -1,0 +1,613 @@
+{
+  "authors": [
+    "HOMOGENEOUS REACTOR COST STUDIES*"
+  ],
+  "claims_path": "kb/normalized/claims/chapter-10.jsonl",
+  "date_text": "June 30, 1963",
+  "doc_id": "chapter-10",
+  "document_type": "document",
+  "entities": {
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          345,
+          366
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          345,
+          354
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          364
+        ],
+        "name": "steam generator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 94,
+        "line_hits": [
+          19,
+          33,
+          35,
+          37,
+          44,
+          68,
+          70,
+          189,
+          246,
+          444,
+          449,
+          451,
+          452,
+          453,
+          454,
+          455,
+          456,
+          457,
+          459,
+          462,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          479,
+          480,
+          481,
+          482,
+          483,
+          486,
+          487,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          497,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 60,
+        "line_hits": [
+          21,
+          449,
+          451,
+          452,
+          453,
+          454,
+          455,
+          456,
+          457,
+          458,
+          459,
+          462,
+          466,
+          467,
+          473,
+          475,
+          476,
+          477,
+          479,
+          480,
+          482,
+          483,
+          484,
+          489,
+          491,
+          494,
+          500,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          512,
+          515,
+          517,
+          518,
+          519,
+          521,
+          532,
+          533,
+          535,
+          536,
+          537,
+          539,
+          540,
+          541,
+          542,
+          545,
+          547
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          465
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          497
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          520
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 60,
+        "line_hits": [
+          7,
+          13,
+          17,
+          19,
+          25,
+          27,
+          31,
+          35,
+          37,
+          39,
+          41,
+          50,
+          68,
+          72,
+          74,
+          76,
+          78,
+          82,
+          89,
+          91,
+          95,
+          97,
+          99,
+          110,
+          115,
+          126,
+          132,
+          134,
+          143,
+          145,
+          154,
+          160,
+          173,
+          189,
+          191,
+          203,
+          212,
+          213,
+          218,
+          246,
+          257,
+          264,
+          279,
+          297,
+          306,
+          308,
+          310,
+          317,
+          319,
+          321
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          9,
+          41,
+          222,
+          360,
+          419,
+          454,
+          477,
+          483,
+          487,
+          524,
+          531
+        ],
+        "name": "AHR"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          370,
+          476,
+          478,
+          482,
+          491,
+          533,
+          540,
+          550,
+          555,
+          556
+        ],
+        "name": "HRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 3,
+        "line_hits": [
+          302,
+          404,
+          409
+        ],
+        "name": "two-fluid breeder"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "89eaf9618b415b3987b6826815dd59aa705c0690628cc3980c32eff2433cf5db",
+  "markdown_path": "pdf/FFR_chap10/FFR_chap10/hybrid_ocr/FFR_chap10.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 45,
+  "sections": [
+    {
+      "anchor": "chapter-10",
+      "end_line": 2,
+      "heading": "CHAPTER 10",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "homogeneous-reactor-cost-studies",
+      "end_line": 4,
+      "heading": "HOMOGENEOUS REACTOR COST STUDIES*",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "10-1-introduction",
+      "end_line": 28,
+      "heading": "10-1. Introduction",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "10-2-bases-for-cost-calculations",
+      "end_line": 42,
+      "heading": "10-2. BASES FOR COST CALCULATIONS",
+      "level": 1,
+      "start_line": 29
+    },
+    {
+      "anchor": "table-10-1",
+      "end_line": 43,
+      "heading": "Table 10-1",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "u-s-aec-official-price-schedule-for-nuclear-materials-1",
+      "end_line": 51,
+      "heading": "U.S. Aec Official Price Schedule For Nuclear Materials [1]",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "thorex-process",
+      "end_line": 55,
+      "heading": "Thorex process",
+      "level": 1,
+      "start_line": 52
+    },
+    {
+      "anchor": "purex-process",
+      "end_line": 79,
+      "heading": "Purex process",
+      "level": 1,
+      "start_line": 56
+    },
+    {
+      "anchor": "10-3-effect-of-design-variables-on-the-fuel-costs-in-mathrm-tho-2-uo-3-d-2o-systems-8-10",
+      "end_line": 105,
+      "heading": "10-3. EFFECT OF DESIGN VARIABLES ON THE FUEL COSTS IN $\\mathrm{THO_2 - UO_3 - D_2O}$ SYSTEMS [8-10]",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "table-10-2-parameter-values-used-in-slurry-reactor-studies",
+      "end_line": 118,
+      "heading": "Table 10-2 Parameter Values Used In Slurry Reactor Studies",
+      "level": 2,
+      "start_line": 106
+    },
+    {
+      "anchor": "table-10-3",
+      "end_line": 119,
+      "heading": "Table 10-3",
+      "level": 2,
+      "start_line": 119
+    },
+    {
+      "anchor": "cost-breakdown-for-some-typical-reactors",
+      "end_line": 127,
+      "heading": "Cost Breakdown For Some Typical Reactors",
+      "level": 2,
+      "start_line": 120
+    },
+    {
+      "anchor": "table-10-4-effect-of-power-level-on-fuel-costs",
+      "end_line": 146,
+      "heading": "Table 10-4 Effect Of Power Level On Fuel Costs",
+      "level": 2,
+      "start_line": 128
+    },
+    {
+      "anchor": "table-10-5",
+      "end_line": 147,
+      "heading": "Table 10-5",
+      "level": 2,
+      "start_line": 147
+    },
+    {
+      "anchor": "effect-of-xenon-poison-fraction-on-fuel-costs",
+      "end_line": 168,
+      "heading": "Effect Of Xenon Poison Fraction On Fuel Costs",
+      "level": 2,
+      "start_line": 148
+    },
+    {
+      "anchor": "10-4-effect-of-design-variables-on-fuel-costs-in-uranium-plutonium-systems",
+      "end_line": 176,
+      "heading": "10-4. EFFECT OF DESIGN VARIABLES ON FUEL COSTS IN URANIUM-PLUTONIUM SYSTEMS",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "table-10-6",
+      "end_line": 194,
+      "heading": "Table 10-6",
+      "level": 2,
+      "start_line": 177
+    },
+    {
+      "anchor": "table-10-7",
+      "end_line": 195,
+      "heading": "Table 10-7",
+      "level": 2,
+      "start_line": 195
+    },
+    {
+      "anchor": "results-for-several-one-region-reactors",
+      "end_line": 196,
+      "heading": "Results For Several One-Region Reactors*",
+      "level": 2,
+      "start_line": 196
+    },
+    {
+      "anchor": "near-optimum-conditions",
+      "end_line": 204,
+      "heading": "Near Optimum Conditions",
+      "level": 2,
+      "start_line": 197
+    },
+    {
+      "anchor": "table-10-8",
+      "end_line": 223,
+      "heading": "Table 10-8",
+      "level": 2,
+      "start_line": 205
+    },
+    {
+      "anchor": "table-10-9",
+      "end_line": 224,
+      "heading": "Table 10-9",
+      "level": 2,
+      "start_line": 224
+    },
+    {
+      "anchor": "isotope-concentrations-and-cost-breakdown-for",
+      "end_line": 225,
+      "heading": "Isotope Concentrations And Cost Breakdown For",
+      "level": 2,
+      "start_line": 225
+    },
+    {
+      "anchor": "batch-operated-homogeneous-reactors",
+      "end_line": 243,
+      "heading": "Batch-Operated Homogeneous Reactors*",
+      "level": 2,
+      "start_line": 226
+    },
+    {
+      "anchor": "10-5-fuel-costs-in-dual-purpose-plutonium-power-reactors",
+      "end_line": 247,
+      "heading": "10-5. FUEL COSTS IN DUAL-PURPOSE PLUTONIUM POWER REACTORS",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "table-10-10",
+      "end_line": 248,
+      "heading": "Table 10-10",
+      "level": 2,
+      "start_line": 248
+    },
+    {
+      "anchor": "fuel-costs-for-a-two-region-u-pu-power-reactor",
+      "end_line": 258,
+      "heading": "Fuel Costs For A Two-Region, U-Pu Power Reactor*",
+      "level": 2,
+      "start_line": 249
+    },
+    {
+      "anchor": "table-10-11",
+      "end_line": 259,
+      "heading": "Table 10-11",
+      "level": 2,
+      "start_line": 259
+    },
+    {
+      "anchor": "characteristics-of-reactor-system",
+      "end_line": 269,
+      "heading": "Characteristics Of Reactor System",
+      "level": 2,
+      "start_line": 260
+    },
+    {
+      "anchor": "10-6-fuel-costs-in-u235-burner-reactors",
+      "end_line": 280,
+      "heading": "10-6. FUEL COSTS IN U235 BURNER REACTORS",
+      "level": 1,
+      "start_line": 270
+    },
+    {
+      "anchor": "table-10-12",
+      "end_line": 282,
+      "heading": "TABLE 10-12",
+      "level": 1,
+      "start_line": 281
+    },
+    {
+      "anchor": "isotope-concentrations-and-fuel-cost-breakdown-for-some-u235-burners",
+      "end_line": 298,
+      "heading": "ISOTOPE CONCENTRATIONS AND FUEL COST BREAKDOWN FOR SOME U235 BURNERS",
+      "level": 1,
+      "start_line": 283
+    },
+    {
+      "anchor": "table-10-13",
+      "end_line": 299,
+      "heading": "Table 10-13",
+      "level": 2,
+      "start_line": 299
+    },
+    {
+      "anchor": "summary-of-fuel-costs-of-different-systems",
+      "end_line": 303,
+      "heading": "Summary Of Fuel Costs Of Different Systems",
+      "level": 2,
+      "start_line": 300
+    },
+    {
+      "anchor": "10-7-summary-of-homogeneous-reactor-fuel-cost-calculations",
+      "end_line": 335,
+      "heading": "10-7. SUMMARY OF HOMOGENEOUS REACTOR FUEL-COST CALCULATIONS",
+      "level": 1,
+      "start_line": 304
+    },
+    {
+      "anchor": "10-8-capital-costs-for-large-scale-plants",
+      "end_line": 341,
+      "heading": "10-8. CAPITAL COSTS FOR LARGE-SCALE PLANTS",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "table-10-14",
+      "end_line": 371,
+      "heading": "Table 10-14",
+      "level": 2,
+      "start_line": 342
+    },
+    {
+      "anchor": "10-9-operating-and-maintenance-costs-in-large-scale-plants",
+      "end_line": 375,
+      "heading": "10-9. OPERATING AND MAINTENANCE COSTS IN LARGE-SCALE PLANTS",
+      "level": 1,
+      "start_line": 372
+    },
+    {
+      "anchor": "table-10-15",
+      "end_line": 416,
+      "heading": "Table 10-15",
+      "level": 2,
+      "start_line": 376
+    },
+    {
+      "anchor": "table-10-16",
+      "end_line": 418,
+      "heading": "TABLE 10-16",
+      "level": 1,
+      "start_line": 417
+    },
+    {
+      "anchor": "power-costs-in-large-scale-aqueous-homogeneous-reactors",
+      "end_line": 430,
+      "heading": "POWER COSTS IN LARGE-SCALE AQUEOUS HOMOGENEOUS REACTORS",
+      "level": 1,
+      "start_line": 419
+    },
+    {
+      "anchor": "10-10-summary-of-estimated-power-costs",
+      "end_line": 436,
+      "heading": "10-10. SUMMARY OF ESTIMATED POWER COSTS",
+      "level": 1,
+      "start_line": 431
+    },
+    {
+      "anchor": "table-10-17",
+      "end_line": 441,
+      "heading": "Table 10-17",
+      "level": 2,
+      "start_line": 437
+    },
+    {
+      "anchor": "references",
+      "end_line": 469,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "bibliography-for-part-i",
+      "end_line": 558,
+      "heading": "BIBLIOGRAPHY FOR PART I",
+      "level": 1,
+      "start_line": 470
+    }
+  ],
+  "source_dir": "pdf/FFR_chap10",
+  "tables": [],
+  "title": "CHAPTER 10",
+  "topics": [
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "aqueous-homogeneous-reactors",
+    "reactor-physics-neutronics",
+    "breeder-and-converter-design",
+    "off-gas-fission-products-and-tritium",
+    "safety-shielding-and-remote-maintenance",
+    "salt-chemistry-and-redox"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

@@ -1,0 +1,2424 @@
+{
+  "authors": [
+    "A. P. Fraas",
+    "A. W. Savolainen",
+    "DATE ISSUED",
+    "Operated by",
+    "UNION CARBIDE NUCLEAR COMPANY",
+    "Post Office Box X",
+    "Oak Ridge",
+    "Tennessee"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-2095.jsonl",
+  "date_text": "December 10, 1954",
+  "doc_id": "ornl-2095",
+  "document_type": "quarterly-progress-report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 52,
+        "line_hits": [
+          469,
+          548,
+          552,
+          554,
+          588,
+          590,
+          609,
+          621,
+          625,
+          659,
+          661,
+          663,
+          685,
+          698,
+          700,
+          706,
+          713,
+          722,
+          726,
+          728,
+          742,
+          834,
+          959,
+          1241,
+          1243,
+          1245,
+          1247,
+          1249,
+          1339,
+          1356,
+          1402,
+          1420,
+          1436,
+          1443,
+          1460,
+          1526,
+          1532,
+          1565,
+          1673,
+          1677,
+          1691,
+          1747,
+          1751,
+          1761,
+          1947,
+          2467,
+          2495,
+          2544,
+          2552,
+          2589
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          840,
+          1144,
+          1150,
+          1154,
+          1173,
+          1243,
+          1245,
+          1253,
+          1271,
+          2620,
+          2624
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          850,
+          1235,
+          1237,
+          1239,
+          2557,
+          2593,
+          2729
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          548,
+          830,
+          838,
+          840,
+          1795
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          1173,
+          1253,
+          1677,
+          2624
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1251,
+          2569
+        ],
+        "name": "Hastelloy B"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          2553,
+          2555
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2604
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 93,
+        "line_hits": [
+          381,
+          469,
+          540,
+          552,
+          590,
+          596,
+          615,
+          617,
+          625,
+          628,
+          744,
+          746,
+          748,
+          752,
+          763,
+          822,
+          824,
+          826,
+          828,
+          830,
+          832,
+          834,
+          842,
+          844,
+          846,
+          848,
+          850,
+          863,
+          872,
+          921,
+          957,
+          985,
+          986,
+          1004,
+          1035,
+          1051,
+          1054,
+          1058,
+          1261,
+          1293,
+          1306,
+          1307,
+          1358,
+          1366,
+          1383,
+          1390,
+          1500,
+          1514,
+          1528,
+          1530
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 79,
+        "line_hits": [
+          365,
+          415,
+          469,
+          475,
+          534,
+          538,
+          556,
+          588,
+          590,
+          594,
+          613,
+          625,
+          630,
+          632,
+          722,
+          742,
+          907,
+          909,
+          911,
+          917,
+          921,
+          928,
+          955,
+          959,
+          1019,
+          1064,
+          1142,
+          1239,
+          1293,
+          1295,
+          1299,
+          1315,
+          1330,
+          1358,
+          1400,
+          1402,
+          1416,
+          1420,
+          1436,
+          1443,
+          1514,
+          1520,
+          1528,
+          1530,
+          1534,
+          1563,
+          1565,
+          1585,
+          1685,
+          1691
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 38,
+        "line_hits": [
+          469,
+          617,
+          854,
+          858,
+          860,
+          870,
+          872,
+          874,
+          876,
+          878,
+          883,
+          895,
+          903,
+          915,
+          917,
+          921,
+          937,
+          965,
+          1003,
+          1027,
+          1047,
+          1090,
+          1364,
+          1387,
+          1413,
+          1585,
+          1589,
+          1593,
+          1599,
+          1605,
+          1607,
+          1613,
+          1623,
+          1643,
+          1659,
+          1667,
+          1679,
+          2374
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 33,
+        "line_hits": [
+          367,
+          419,
+          479,
+          494,
+          846,
+          858,
+          939,
+          943,
+          945,
+          949,
+          951,
+          998,
+          1021,
+          1092,
+          1113,
+          1447,
+          1449,
+          1451,
+          1467,
+          1469,
+          1471,
+          1474,
+          1475,
+          1476,
+          1492,
+          1538,
+          1759,
+          1977,
+          2000,
+          2049,
+          2424,
+          2431,
+          2444
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          848,
+          1179,
+          1235,
+          1241,
+          1261,
+          1263,
+          1267,
+          1271,
+          1273,
+          1275,
+          1277,
+          1279,
+          1281,
+          1781,
+          1833,
+          2476,
+          2537,
+          2539,
+          2540,
+          2541,
+          2545,
+          2547,
+          2549,
+          2557,
+          2655,
+          2735,
+          2744,
+          2747,
+          2748,
+          2751
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 15,
+        "line_hits": [
+          621,
+          702,
+          742,
+          874,
+          1536,
+          1583,
+          1599,
+          1711,
+          1803,
+          2493,
+          2522,
+          2524,
+          2525,
+          2526,
+          2527
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          534,
+          538,
+          959,
+          2435,
+          2443,
+          2463,
+          2469,
+          2575,
+          2595
+        ],
+        "name": "intermediate heat exchanger"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          361,
+          891,
+          1090,
+          1492
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1659
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          2466
+        ],
+        "name": "salt pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 396,
+        "line_hits": [
+          1,
+          25,
+          247,
+          251,
+          321,
+          526,
+          724,
+          818,
+          969,
+          1096,
+          1140,
+          1162,
+          1163,
+          1164,
+          1165,
+          1166,
+          1167,
+          1335,
+          1356,
+          1683,
+          1781,
+          1787,
+          1789,
+          1793,
+          1795,
+          1807,
+          1823,
+          1831,
+          1837,
+          1843,
+          1853,
+          1861,
+          1867,
+          1873,
+          1885,
+          1897,
+          1909,
+          1911,
+          1963,
+          1965,
+          2184,
+          2401,
+          2405,
+          2406,
+          2407,
+          2408,
+          2409,
+          2410,
+          2411,
+          2412
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          276,
+          293,
+          520
+        ],
+        "name": "US Air Force"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          278,
+          317
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          29,
+          31
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          273
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          290
+        ],
+        "name": "General Electric"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          306
+        ],
+        "name": "Pratt and Whitney Aircraft"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          311
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 147,
+        "line_hits": [
+          321,
+          327,
+          520,
+          538,
+          542,
+          546,
+          548,
+          552,
+          562,
+          564,
+          588,
+          596,
+          600,
+          641,
+          645,
+          681,
+          685,
+          722,
+          726,
+          734,
+          746,
+          748,
+          754,
+          777,
+          789,
+          795,
+          803,
+          807,
+          809,
+          811,
+          822,
+          824,
+          828,
+          830,
+          832,
+          836,
+          838,
+          840,
+          874,
+          878,
+          880,
+          887,
+          889,
+          913,
+          933,
+          937,
+          941,
+          949,
+          951,
+          955
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 143,
+        "line_hits": [
+          11,
+          321,
+          323,
+          327,
+          345,
+          415,
+          439,
+          441,
+          463,
+          469,
+          475,
+          477,
+          478,
+          510,
+          522,
+          562,
+          564,
+          582,
+          596,
+          607,
+          685,
+          718,
+          754,
+          761,
+          838,
+          889,
+          895,
+          899,
+          903,
+          931,
+          949,
+          951,
+          955,
+          971,
+          973,
+          975,
+          1017,
+          1027,
+          1041,
+          1064,
+          1074,
+          1078,
+          1097,
+          1108,
+          1125,
+          1128,
+          1144,
+          1171,
+          1179,
+          1237
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          951
+        ],
+        "name": "HRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 3,
+        "line_hits": [
+          824,
+          2442,
+          2474
+        ],
+        "name": "aircraft propulsion reactor"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          2779
+        ],
+        "name": "ANP Quarterly Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 23,
+        "line_hits": [
+          600,
+          609,
+          693,
+          1144,
+          1146,
+          1148,
+          1150,
+          1154,
+          1156,
+          1158,
+          1177,
+          1237,
+          1267,
+          1781,
+          2583,
+          2592,
+          2596,
+          2599,
+          2604,
+          2632,
+          2647,
+          2693,
+          2729
+        ],
+        "name": "NaF"
+      },
+      {
+        "count": 18,
+        "line_hits": [
+          538,
+          1142,
+          1162,
+          1164,
+          1165,
+          1166,
+          1177,
+          1181,
+          2468,
+          2536,
+          2590,
+          2598,
+          2605,
+          2695,
+          2700,
+          2701,
+          2726,
+          2727
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1148,
+          1150,
+          1154,
+          1781,
+          2491,
+          2592,
+          2596,
+          2632,
+          2647,
+          2719
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          1150,
+          1154,
+          1781,
+          2592,
+          2596,
+          2636,
+          2647,
+          2674
+        ],
+        "name": "FLiNaK"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          1150,
+          1154,
+          1781,
+          2592,
+          2596,
+          2632,
+          2647,
+          2722
+        ],
+        "name": "KF"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          609,
+          693,
+          1156,
+          1158,
+          1177,
+          1267,
+          2632
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          609,
+          1156,
+          1158,
+          1177
+        ],
+        "name": "NaF-ZrF4-UF4"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          609,
+          1156,
+          1158,
+          1177
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          834,
+          1781,
+          2632
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1146,
+          1781
+        ],
+        "name": "RbF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          693
+        ],
+        "name": "NaF-ZrF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          1781
+        ],
+        "name": "UF3"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d59b3dc0edd29e7dcc7fc54a954f4d90804776e297ce2970926045749676a85c",
+  "markdown_path": "pdf/ORNL-2095/ORNL-2095/hybrid_ocr/ORNL-2095.md",
+  "report_number": "ORNL-2095",
+  "report_numbers": [
+    "ORNL-2095",
+    "CF-53-2-126",
+    "ORNL-1234",
+    "ORNL-1845",
+    "ORNL-1721",
+    "ORNL-1875",
+    "ORNL-1816"
+  ],
+  "report_series": "ornl-central-files",
+  "section_count": 219,
+  "sections": [
+    {
+      "anchor": "ornl-2095",
+      "end_line": 8,
+      "heading": "Ornl-2095",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "aircraft-reactor-engineering-division",
+      "end_line": 10,
+      "heading": "Aircraft Reactor Engineering Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "design-report-on-the-aircraft-reactor-test",
+      "end_line": 16,
+      "heading": "DESIGN REPORT ON THE AIRCRAFT REACTOR TEST",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "date-issued",
+      "end_line": 18,
+      "heading": "Date Issued",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "dec-21-1956",
+      "end_line": 24,
+      "heading": "Dec 21 1956",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 28,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 36,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "restricted-data",
+      "end_line": 40,
+      "heading": "Restricted Data",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 136,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 41
+    },
+    {
+      "anchor": "secret",
+      "end_line": 254,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 137
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 281,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 255
+    },
+    {
+      "anchor": "secret",
+      "end_line": 318,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 282
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 324,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 319
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 328,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 325
+    },
+    {
+      "anchor": "secret",
+      "end_line": 330,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "contents",
+      "end_line": 332,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "parti",
+      "end_line": 334,
+      "heading": "PARTI",
+      "level": 1,
+      "start_line": 333
+    },
+    {
+      "anchor": "design-criteria-3",
+      "end_line": 342,
+      "heading": "DESIGN CRITERIA 3",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "part-ii",
+      "end_line": 344,
+      "heading": "PART II",
+      "level": 1,
+      "start_line": 343
+    },
+    {
+      "anchor": "the-art-assembly-9",
+      "end_line": 392,
+      "heading": "THE ART ASSEMBLY 9",
+      "level": 1,
+      "start_line": 345
+    },
+    {
+      "anchor": "part-iii",
+      "end_line": 394,
+      "heading": "PART III",
+      "level": 1,
+      "start_line": 393
+    },
+    {
+      "anchor": "design-and-development-studies-51",
+      "end_line": 410,
+      "heading": "DESIGN AND DEVELOPMENT STUDIES 51",
+      "level": 1,
+      "start_line": 395
+    },
+    {
+      "anchor": "secret",
+      "end_line": 412,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 411
+    },
+    {
+      "anchor": "secret",
+      "end_line": 420,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 413
+    },
+    {
+      "anchor": "part-iv",
+      "end_line": 422,
+      "heading": "PART IV",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "engineering-test-unit-75",
+      "end_line": 434,
+      "heading": "Engineering Test Unit 75",
+      "level": 2,
+      "start_line": 423
+    },
+    {
+      "anchor": "part-v",
+      "end_line": 436,
+      "heading": "PART V",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "construction-and-operation-85",
+      "end_line": 452,
+      "heading": "Construction And Operation 85",
+      "level": 2,
+      "start_line": 437
+    },
+    {
+      "anchor": "part-vi",
+      "end_line": 454,
+      "heading": "PART VI",
+      "level": 1,
+      "start_line": 453
+    },
+    {
+      "anchor": "status-of-design-and-development-99",
+      "end_line": 456,
+      "heading": "Status Of Design And Development 99",
+      "level": 2,
+      "start_line": 455
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 460,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 457
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 464,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 461
+    },
+    {
+      "anchor": "bibliography-173",
+      "end_line": 466,
+      "heading": "Bibliography 173",
+      "level": 2,
+      "start_line": 465
+    },
+    {
+      "anchor": "list-of-illustrations",
+      "end_line": 470,
+      "heading": "List Of Illustrations",
+      "level": 2,
+      "start_line": 467
+    },
+    {
+      "anchor": "secret",
+      "end_line": 487,
+      "heading": "SECRET",
+      "level": 1,
+      "start_line": 471
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 504,
+      "heading": "APPENDIX A",
+      "level": 1,
+      "start_line": 488
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 513,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 505
+    },
+    {
+      "anchor": "design-criteria",
+      "end_line": 517,
+      "heading": "Design Criteria",
+      "level": 2,
+      "start_line": 514
+    },
+    {
+      "anchor": "military-requirements",
+      "end_line": 523,
+      "heading": "MILITARY REQUIREMENTS",
+      "level": 1,
+      "start_line": 518
+    },
+    {
+      "anchor": "reactor-design-criteria",
+      "end_line": 535,
+      "heading": "REACTOR DESIGN CRITERIA",
+      "level": 1,
+      "start_line": 524
+    },
+    {
+      "anchor": "the-circulating-fuel-reflector-moderated-reactor",
+      "end_line": 581,
+      "heading": "THE CIRCULATING-FUEL REFLECTOR-MODERATED REACTOR",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "the-art-assembly",
+      "end_line": 585,
+      "heading": "The Art Assembly",
+      "level": 2,
+      "start_line": 582
+    },
+    {
+      "anchor": "the-reactor-assembly",
+      "end_line": 597,
+      "heading": "THE REACTOR ASSEMBLY",
+      "level": 1,
+      "start_line": 586
+    },
+    {
+      "anchor": "reactor-dimensions",
+      "end_line": 606,
+      "heading": "REACTOR DIMENSIONS",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "table-1-art-design-data",
+      "end_line": 614,
+      "heading": "Table 1. Art Design Data",
+      "level": 2,
+      "start_line": 607
+    },
+    {
+      "anchor": "table-2-system-flow-and-pump-data",
+      "end_line": 618,
+      "heading": "Table 2. System Flow And Pump Data",
+      "level": 2,
+      "start_line": 615
+    },
+    {
+      "anchor": "table-3-reactor-dimensions",
+      "end_line": 622,
+      "heading": "Table 3. Reactor Dimensions",
+      "level": 2,
+      "start_line": 619
+    },
+    {
+      "anchor": "table-3-reactor-dimensions",
+      "end_line": 664,
+      "heading": "Table 3. Reactor Dimensions",
+      "level": 2,
+      "start_line": 623
+    },
+    {
+      "anchor": "extrapolated-reflector",
+      "end_line": 665,
+      "heading": "Extrapolated Reflector",
+      "level": 2,
+      "start_line": 665
+    },
+    {
+      "anchor": "thickness-30-cm",
+      "end_line": 668,
+      "heading": "Thickness = 30 Cm",
+      "level": 2,
+      "start_line": 666
+    },
+    {
+      "anchor": "external-fuel-volume-0-ft",
+      "end_line": 671,
+      "heading": "External Fuel Volume $= 0$ Ft³",
+      "level": 2,
+      "start_line": 669
+    },
+    {
+      "anchor": "external-fuel-volume-4-ft",
+      "end_line": 674,
+      "heading": "External Fuel Volume $= 4$ Ft",
+      "level": 2,
+      "start_line": 672
+    },
+    {
+      "anchor": "external-fuel-volume-2ft-3",
+      "end_line": 677,
+      "heading": "External Fuel Volume $= 2Ft^{3}$",
+      "level": 2,
+      "start_line": 675
+    },
+    {
+      "anchor": "external-fuel-volume-8-ft",
+      "end_line": 719,
+      "heading": "External Fuel Volume $= 8$ Ft",
+      "level": 2,
+      "start_line": 678
+    },
+    {
+      "anchor": "reflector-moderator",
+      "end_line": 729,
+      "heading": "REFLECTOR-MODERATOR",
+      "level": 1,
+      "start_line": 720
+    },
+    {
+      "anchor": "fuel-systems",
+      "end_line": 731,
+      "heading": "FUEL SYSTEMS",
+      "level": 1,
+      "start_line": 730
+    },
+    {
+      "anchor": "core-hydrodynamics",
+      "end_line": 735,
+      "heading": "Core Hydrodynamics",
+      "level": 1,
+      "start_line": 732
+    },
+    {
+      "anchor": "table-5-heat-to-be-removed-by-reflector-and-island-cooling-circuits",
+      "end_line": 815,
+      "heading": "Table 5. Heat To Be Removed By Reflector And Island Cooling Circuits",
+      "level": 2,
+      "start_line": 736
+    },
+    {
+      "anchor": "pumps-and-expansion-tank",
+      "end_line": 851,
+      "heading": "Pumps and Expansion Tank",
+      "level": 1,
+      "start_line": 816
+    },
+    {
+      "anchor": "fill-and-drain-system-including-enricher",
+      "end_line": 890,
+      "heading": "Fill-and-Drain System (Including Enricher)",
+      "level": 1,
+      "start_line": 852
+    },
+    {
+      "anchor": "sampling-system",
+      "end_line": 900,
+      "heading": "Sampling System",
+      "level": 1,
+      "start_line": 891
+    },
+    {
+      "anchor": "fuel-recovery-system",
+      "end_line": 906,
+      "heading": "Fuel Recovery System",
+      "level": 1,
+      "start_line": 901
+    },
+    {
+      "anchor": "heat-exchangers-and-heat-dumps",
+      "end_line": 938,
+      "heading": "HEAT EXCHANGERS AND HEAT DUMPS",
+      "level": 1,
+      "start_line": 907
+    },
+    {
+      "anchor": "off-gas-system",
+      "end_line": 952,
+      "heading": "OFF-GAS SYSTEM",
+      "level": 1,
+      "start_line": 939
+    },
+    {
+      "anchor": "aircraft-type-shield",
+      "end_line": 966,
+      "heading": "AIRCRAFT-TYPE SHIELD",
+      "level": 1,
+      "start_line": 953
+    },
+    {
+      "anchor": "controls-and-instrumentation",
+      "end_line": 1022,
+      "heading": "CONTROLS AND INSTRUMENTATION",
+      "level": 1,
+      "start_line": 967
+    },
+    {
+      "anchor": "auxiliary-systems",
+      "end_line": 1024,
+      "heading": "AUXILIARY SYSTEMS",
+      "level": 1,
+      "start_line": 1023
+    },
+    {
+      "anchor": "helium-supply-system",
+      "end_line": 1028,
+      "heading": "Helium Supply System",
+      "level": 1,
+      "start_line": 1025
+    },
+    {
+      "anchor": "nitrogen-supply-system",
+      "end_line": 1038,
+      "heading": "Nitrogen Supply System",
+      "level": 1,
+      "start_line": 1029
+    },
+    {
+      "anchor": "electrical-power-system-distribution-and-auxiliary-equipment",
+      "end_line": 1057,
+      "heading": "Electrical Power System, Distribution, and Auxiliary Equipment",
+      "level": 1,
+      "start_line": 1039
+    },
+    {
+      "anchor": "fuel-and-sodium-pump-lubricating-and-cooling-oil-systems",
+      "end_line": 1061,
+      "heading": "Fuel and Sodium Pump Lubricating and Cooling Oil Systems",
+      "level": 1,
+      "start_line": 1058
+    },
+    {
+      "anchor": "process-water-system",
+      "end_line": 1069,
+      "heading": "Process Water System",
+      "level": 1,
+      "start_line": 1062
+    },
+    {
+      "anchor": "the-facility",
+      "end_line": 1071,
+      "heading": "THE FACILITY",
+      "level": 1,
+      "start_line": 1070
+    },
+    {
+      "anchor": "the-building",
+      "end_line": 1079,
+      "heading": "The Building",
+      "level": 1,
+      "start_line": 1072
+    },
+    {
+      "anchor": "the-reactor-assembly-cell",
+      "end_line": 1094,
+      "heading": "The Reactor Assembly Cell",
+      "level": 1,
+      "start_line": 1080
+    },
+    {
+      "anchor": "inclassified",
+      "end_line": 1095,
+      "heading": "Inclassified",
+      "level": 2,
+      "start_line": 1095
+    },
+    {
+      "anchor": "ornl-lr-dwg4471a",
+      "end_line": 1099,
+      "heading": "Ornl-Lr-Dwg4471A",
+      "level": 2,
+      "start_line": 1096
+    },
+    {
+      "anchor": "section-a-4",
+      "end_line": 1102,
+      "heading": "Section A-4",
+      "level": 2,
+      "start_line": 1100
+    },
+    {
+      "anchor": "section-b-b",
+      "end_line": 1122,
+      "heading": "Section B-B",
+      "level": 2,
+      "start_line": 1103
+    },
+    {
+      "anchor": "the-shielding-experiment-facility",
+      "end_line": 1131,
+      "heading": "The Shielding Experiment Facility",
+      "level": 1,
+      "start_line": 1123
+    },
+    {
+      "anchor": "design-and-development-studies",
+      "end_line": 1137,
+      "heading": "DESIGN AND DEVELOPMENT STUDIES",
+      "level": 1,
+      "start_line": 1132
+    },
+    {
+      "anchor": "fuel-development",
+      "end_line": 1168,
+      "heading": "FUEL DEVELOPMENT",
+      "level": 1,
+      "start_line": 1138
+    },
+    {
+      "anchor": "structural-material",
+      "end_line": 1174,
+      "heading": "STRUCTURAL MATERIAL",
+      "level": 1,
+      "start_line": 1169
+    },
+    {
+      "anchor": "corrosion-of-structural-materials",
+      "end_line": 1254,
+      "heading": "CORROSION OF STRUCTURAL MATERIALS",
+      "level": 1,
+      "start_line": 1175
+    },
+    {
+      "anchor": "radiation-effects-on-structural-materials",
+      "end_line": 1264,
+      "heading": "RADIATION EFFECTS ON STRUCTURAL MATERIALS",
+      "level": 1,
+      "start_line": 1255
+    },
+    {
+      "anchor": "table-6-operating-conditions-for-inconel-forced-circulation-in-pile-loops",
+      "end_line": 1284,
+      "heading": "Table 6. Operating Conditions For Inconel Forced-Circulation In-Pile Loops",
+      "level": 2,
+      "start_line": 1265
+    },
+    {
+      "anchor": "structural-design-analyses",
+      "end_line": 1286,
+      "heading": "STRUCTURAL DESIGN ANALYSES",
+      "level": 1,
+      "start_line": 1285
+    },
+    {
+      "anchor": "the-reactor",
+      "end_line": 1309,
+      "heading": "The Reactor",
+      "level": 1,
+      "start_line": 1287
+    },
+    {
+      "anchor": "f-pressure-shell-reaction",
+      "end_line": 1312,
+      "heading": "F. Pressure Shell Reaction",
+      "level": 2,
+      "start_line": 1310
+    },
+    {
+      "anchor": "liner",
+      "end_line": 1317,
+      "heading": "Liner",
+      "level": 2,
+      "start_line": 1313
+    },
+    {
+      "anchor": "j-sodium-pressure-force",
+      "end_line": 1322,
+      "heading": "J. Sodium Pressure Force",
+      "level": 2,
+      "start_line": 1318
+    },
+    {
+      "anchor": "pressure-shell",
+      "end_line": 1328,
+      "heading": "Pressure Shell.",
+      "level": 2,
+      "start_line": 1323
+    },
+    {
+      "anchor": "o-liner-loads-m",
+      "end_line": 1361,
+      "heading": "O. Liner Loads (M)",
+      "level": 2,
+      "start_line": 1329
+    },
+    {
+      "anchor": "auxiliary-components",
+      "end_line": 1399,
+      "heading": "Auxiliary Components",
+      "level": 1,
+      "start_line": 1362
+    },
+    {
+      "anchor": "radiation-heating-on-the-art-equatorial-plane-in-the-vicinity-of-the-fuel-to-mathbf-n-alpha-mathbf-k-heat-exchanger",
+      "end_line": 1425,
+      "heading": "RADIATION HEATING ON THE ART EQUATORIAL PLANE IN THE VICINITY OF THE FUEL-TO- $\\mathbf{N}\\alpha \\mathbf{K}$ HEAT EXCHANGER",
+      "level": 1,
+      "start_line": 1400
+    },
+    {
+      "anchor": "radiation-heating-in-various-regions-of-the-north-head",
+      "end_line": 1446,
+      "heading": "RADIATION HEATING IN VARIOUS REGIONS OF THE NORTH HEAD",
+      "level": 1,
+      "start_line": 1426
+    },
+    {
+      "anchor": "beta-and-gamma-ray-activity-in-the-fuel-expansion-chamber-and-the-off-gas-system",
+      "end_line": 1457,
+      "heading": "BETA- AND GAMMA-RAY ACTIVITY IN THE FUEL-EXPANSION CHAMBER AND THE OFF-GAS SYSTEM",
+      "level": 1,
+      "start_line": 1447
+    },
+    {
+      "anchor": "table-9-average-heat-generation-rates-in-members-of-art-north-head",
+      "end_line": 1479,
+      "heading": "Table 9. Average Heat Generation Rates In Members Of Art North Head",
+      "level": 2,
+      "start_line": 1458
+    },
+    {
+      "anchor": "engineering-test-unit",
+      "end_line": 1493,
+      "heading": "Engineering Test Unit",
+      "level": 2,
+      "start_line": 1480
+    },
+    {
+      "anchor": "specific-test-objectives",
+      "end_line": 1505,
+      "heading": "SPECIFIC TEST OBJECTIVES",
+      "level": 1,
+      "start_line": 1494
+    },
+    {
+      "anchor": "warmup-and-shakedown-testing",
+      "end_line": 1511,
+      "heading": "WARMUP AND SHAKEDOWN TESTING",
+      "level": 1,
+      "start_line": 1506
+    },
+    {
+      "anchor": "operating-tests",
+      "end_line": 1517,
+      "heading": "OPERATING TESTS",
+      "level": 1,
+      "start_line": 1512
+    },
+    {
+      "anchor": "reactor-assembly",
+      "end_line": 1560,
+      "heading": "REACTOR ASSEMBLY",
+      "level": 1,
+      "start_line": 1518
+    },
+    {
+      "anchor": "reactor-disassembly",
+      "end_line": 1570,
+      "heading": "REACTOR DISASSEMBLY",
+      "level": 1,
+      "start_line": 1561
+    },
+    {
+      "anchor": "construction-and-operation",
+      "end_line": 1572,
+      "heading": "CONSTRUCTION AND OPERATION",
+      "level": 1,
+      "start_line": 1571
+    },
+    {
+      "anchor": "plans-for-installation-of-the-art",
+      "end_line": 1576,
+      "heading": "PLANS FOR INSTALLATION OF THE ART",
+      "level": 1,
+      "start_line": 1573
+    },
+    {
+      "anchor": "operation-of-the-art",
+      "end_line": 1578,
+      "heading": "OPERATION OF THE ART",
+      "level": 1,
+      "start_line": 1577
+    },
+    {
+      "anchor": "filling-and-heating",
+      "end_line": 1596,
+      "heading": "Filling and Heating",
+      "level": 1,
+      "start_line": 1579
+    },
+    {
+      "anchor": "enriching-to-critical",
+      "end_line": 1628,
+      "heading": "Enriching to Critical",
+      "level": 1,
+      "start_line": 1597
+    },
+    {
+      "anchor": "low-power-level-experiments",
+      "end_line": 1646,
+      "heading": "Low-Power-Level Experiments",
+      "level": 1,
+      "start_line": 1629
+    },
+    {
+      "anchor": "operation-at-power",
+      "end_line": 1668,
+      "heading": "Operation at Power",
+      "level": 1,
+      "start_line": 1647
+    },
+    {
+      "anchor": "plans-for-disassembly",
+      "end_line": 1708,
+      "heading": "PLANS FOR DISASSEMBLY",
+      "level": 1,
+      "start_line": 1669
+    },
+    {
+      "anchor": "table-12-effective-source-strength-of-reactor-at-various-stages-of-disassembly",
+      "end_line": 1714,
+      "heading": "Table 12. Effective Source Strength Of Reactor At Various Stages Of Disassembly",
+      "level": 2,
+      "start_line": 1709
+    },
+    {
+      "anchor": "table-13-limits-on-source-activity-for-hot-laboratory-work",
+      "end_line": 1774,
+      "heading": "Table 13. Limits On Source Activity For Hot Laboratory Work",
+      "level": 2,
+      "start_line": 1715
+    },
+    {
+      "anchor": "status-of-design-and-development",
+      "end_line": 1776,
+      "heading": "Status Of Design And Development",
+      "level": 2,
+      "start_line": 1775
+    },
+    {
+      "anchor": "status-of-design-and-development",
+      "end_line": 1782,
+      "heading": "STATUS OF DESIGN AND DEVELOPMENT",
+      "level": 1,
+      "start_line": 1777
+    },
+    {
+      "anchor": "high-performance-high-temperature-heat-exchangers",
+      "end_line": 1796,
+      "heading": "HIGH-PERFORMANCE HIGH-TEMPERATURE HEAT EXCHANGERS",
+      "level": 1,
+      "start_line": 1783
+    },
+    {
+      "anchor": "development-problem",
+      "end_line": 1798,
+      "heading": "DEVELOPMENT PROBLEM",
+      "level": 1,
+      "start_line": 1797
+    },
+    {
+      "anchor": "status-may-1956",
+      "end_line": 1800,
+      "heading": "STATUS MAY 1956",
+      "level": 1,
+      "start_line": 1799
+    },
+    {
+      "anchor": "reports",
+      "end_line": 1806,
+      "heading": "REPORTS",
+      "level": 1,
+      "start_line": 1801
+    },
+    {
+      "anchor": "ornl-2012",
+      "end_line": 1816,
+      "heading": "Ornl-2012",
+      "level": 2,
+      "start_line": 1807
+    },
+    {
+      "anchor": "moderator-cooling",
+      "end_line": 1822,
+      "heading": "MODERATOR COOLING",
+      "level": 1,
+      "start_line": 1817
+    },
+    {
+      "anchor": "ornl-1517-2061",
+      "end_line": 1830,
+      "heading": "Ornl-1517, -2061",
+      "level": 2,
+      "start_line": 1823
+    },
+    {
+      "anchor": "ornl-1692-1816",
+      "end_line": 1836,
+      "heading": "Ornl-1692, -1816",
+      "level": 2,
+      "start_line": 1831
+    },
+    {
+      "anchor": "ornl-1692",
+      "end_line": 1842,
+      "heading": "Ornl-1692",
+      "level": 2,
+      "start_line": 1837
+    },
+    {
+      "anchor": "ornl-1864",
+      "end_line": 1852,
+      "heading": "Ornl-1864",
+      "level": 2,
+      "start_line": 1843
+    },
+    {
+      "anchor": "ornl-1771",
+      "end_line": 1854,
+      "heading": "Ornl-1771",
+      "level": 2,
+      "start_line": 1853
+    },
+    {
+      "anchor": "pumps",
+      "end_line": 1860,
+      "heading": "PUMPS",
+      "level": 1,
+      "start_line": 1855
+    },
+    {
+      "anchor": "ornl-1947",
+      "end_line": 1866,
+      "heading": "Ornl-1947",
+      "level": 2,
+      "start_line": 1861
+    },
+    {
+      "anchor": "ornl-1947",
+      "end_line": 1872,
+      "heading": "Ornl-1947",
+      "level": 2,
+      "start_line": 1867
+    },
+    {
+      "anchor": "ornl-2012",
+      "end_line": 1878,
+      "heading": "Ornl-2012",
+      "level": 2,
+      "start_line": 1873
+    },
+    {
+      "anchor": "power-plant-system",
+      "end_line": 1884,
+      "heading": "POWER PLANT SYSTEM",
+      "level": 1,
+      "start_line": 1879
+    },
+    {
+      "anchor": "anp-57-ornl-1255",
+      "end_line": 1896,
+      "heading": "Anp-57, Ornl-1255,",
+      "level": 2,
+      "start_line": 1885
+    },
+    {
+      "anchor": "anp-57-ornl-1255",
+      "end_line": 1908,
+      "heading": "Anp-57, Ornl-1255,",
+      "level": 2,
+      "start_line": 1897
+    },
+    {
+      "anchor": "ornl-cf-54-2-185",
+      "end_line": 1912,
+      "heading": "Ornl Cf-54-2-185",
+      "level": 2,
+      "start_line": 1909
+    },
+    {
+      "anchor": "development-problem",
+      "end_line": 1924,
+      "heading": "DEVELOPMENT PROBLEM",
+      "level": 1,
+      "start_line": 1913
+    },
+    {
+      "anchor": "status-may-1956",
+      "end_line": 1936,
+      "heading": "STATUS MAY 1956",
+      "level": 1,
+      "start_line": 1925
+    },
+    {
+      "anchor": "reports",
+      "end_line": 1942,
+      "heading": "REPORTS",
+      "level": 1,
+      "start_line": 1937
+    },
+    {
+      "anchor": "disassembly-problems",
+      "end_line": 1962,
+      "heading": "DISASSEMBLY PROBLEMS",
+      "level": 1,
+      "start_line": 1943
+    },
+    {
+      "anchor": "ornl-1864",
+      "end_line": 1964,
+      "heading": "Ornl-1864",
+      "level": 2,
+      "start_line": 1963
+    },
+    {
+      "anchor": "ornl-1947",
+      "end_line": 1968,
+      "heading": "Ornl-1947",
+      "level": 2,
+      "start_line": 1965
+    },
+    {
+      "anchor": "flow-diagrams",
+      "end_line": 1970,
+      "heading": "Flow Diagrams",
+      "level": 2,
+      "start_line": 1969
+    },
+    {
+      "anchor": "flow-diagrams",
+      "end_line": 1991,
+      "heading": "FLOW DIAGRAMS",
+      "level": 1,
+      "start_line": 1971
+    },
+    {
+      "anchor": "first-letter",
+      "end_line": 2002,
+      "heading": "FIRST LETTER",
+      "level": 1,
+      "start_line": 1992
+    },
+    {
+      "anchor": "second-letter",
+      "end_line": 2021,
+      "heading": "SECOND LETTER",
+      "level": 1,
+      "start_line": 2003
+    },
+    {
+      "anchor": "third-letter",
+      "end_line": 2054,
+      "heading": "THIRD LETTER",
+      "level": 1,
+      "start_line": 2022
+    },
+    {
+      "anchor": "cei-continuous-current-indicator",
+      "end_line": 2056,
+      "heading": "Cei- Continuous Current Indicator",
+      "level": 2,
+      "start_line": 2055
+    },
+    {
+      "anchor": "fa-flowalarm",
+      "end_line": 2058,
+      "heading": "Fa-Flowalarm",
+      "level": 2,
+      "start_line": 2057
+    },
+    {
+      "anchor": "fl-flowindicator",
+      "end_line": 2060,
+      "heading": "Fl-Flowindicator",
+      "level": 2,
+      "start_line": 2059
+    },
+    {
+      "anchor": "level-indicator",
+      "end_line": 2062,
+      "heading": "Level Indicator",
+      "level": 2,
+      "start_line": 2061
+    },
+    {
+      "anchor": "mnt-montanet-temperature-record",
+      "end_line": 2064,
+      "heading": "Mnt - Montanet Temperature Record",
+      "level": 2,
+      "start_line": 2063
+    },
+    {
+      "anchor": "hv-nand-actorted",
+      "end_line": 2066,
+      "heading": "Hv = Nand-Actorted",
+      "level": 2,
+      "start_line": 2065
+    },
+    {
+      "anchor": "pi-pressure-indicator",
+      "end_line": 2068,
+      "heading": "Pi - Pressure Indicator",
+      "level": 2,
+      "start_line": 2067
+    },
+    {
+      "anchor": "py-pressure-transmitte",
+      "end_line": 2070,
+      "heading": "Py - Pressure Transmitte",
+      "level": 2,
+      "start_line": 2069
+    },
+    {
+      "anchor": "hxy-hand-cacthated-control-valve",
+      "end_line": 2072,
+      "heading": "Hxy = Hand-Cacthated Control Valve",
+      "level": 2,
+      "start_line": 2071
+    },
+    {
+      "anchor": "cp-continuing-positionindicators",
+      "end_line": 2076,
+      "heading": "Cp=Continuing Positionindicators",
+      "level": 2,
+      "start_line": 2073
+    },
+    {
+      "anchor": "tcv-temperature-acctated-control-valve",
+      "end_line": 2080,
+      "heading": "Tcv = Temperature=Acctated Control Valve",
+      "level": 2,
+      "start_line": 2077
+    },
+    {
+      "anchor": "zs-position-switch",
+      "end_line": 2082,
+      "heading": "Zs - Position Switch",
+      "level": 2,
+      "start_line": 2081
+    },
+    {
+      "anchor": "es-electrical-switch",
+      "end_line": 2084,
+      "heading": "Es - Electrical Switch",
+      "level": 2,
+      "start_line": 2083
+    },
+    {
+      "anchor": "21-position-indicator",
+      "end_line": 2086,
+      "heading": "21-Position Indicator",
+      "level": 2,
+      "start_line": 2085
+    },
+    {
+      "anchor": "is-temperature-switch",
+      "end_line": 2088,
+      "heading": "Is - Temperature Switch",
+      "level": 2,
+      "start_line": 2087
+    },
+    {
+      "anchor": "10-anova",
+      "end_line": 2090,
+      "heading": "10. ANOVA",
+      "level": 2,
+      "start_line": 2089
+    },
+    {
+      "anchor": "25-controe-station",
+      "end_line": 2092,
+      "heading": "25=Controe Station",
+      "level": 2,
+      "start_line": 2091
+    },
+    {
+      "anchor": "a25-adjustable-position-switch",
+      "end_line": 2094,
+      "heading": "A25 = Adjustable Position Switch",
+      "level": 2,
+      "start_line": 2093
+    },
+    {
+      "anchor": "lt-level-transmitter",
+      "end_line": 2096,
+      "heading": "Lt - Level Transmitter",
+      "level": 2,
+      "start_line": 2095
+    },
+    {
+      "anchor": "scy-swing-check-valve",
+      "end_line": 2100,
+      "heading": "Scy - Swing Check Valve",
+      "level": 2,
+      "start_line": 2097
+    },
+    {
+      "anchor": "fe-flow-element",
+      "end_line": 2117,
+      "heading": "Fe = Flow Element",
+      "level": 2,
+      "start_line": 2101
+    },
+    {
+      "anchor": "temperature",
+      "end_line": 2119,
+      "heading": "Temperature.",
+      "level": 2,
+      "start_line": 2118
+    },
+    {
+      "anchor": "thermocouple-in-thermocouple-well",
+      "end_line": 2125,
+      "heading": "Thermocouple In Thermocouple Well",
+      "level": 2,
+      "start_line": 2120
+    },
+    {
+      "anchor": "normally-open-valve",
+      "end_line": 2127,
+      "heading": "Normally Open Valve",
+      "level": 2,
+      "start_line": 2126
+    },
+    {
+      "anchor": "normallyclosedvalv",
+      "end_line": 2129,
+      "heading": "Normallyclosedvalv",
+      "level": 2,
+      "start_line": 2128
+    },
+    {
+      "anchor": "thoithingvh",
+      "end_line": 2133,
+      "heading": "Thoithingvh",
+      "level": 2,
+      "start_line": 2130
+    },
+    {
+      "anchor": "presse-welfvalve",
+      "end_line": 2135,
+      "heading": "Presse-Welfvalve",
+      "level": 2,
+      "start_line": 2134
+    },
+    {
+      "anchor": "emetal-temperature-element",
+      "end_line": 2137,
+      "heading": "Emetal Temperature Element",
+      "level": 2,
+      "start_line": 2136
+    },
+    {
+      "anchor": "main-hydraulic-fluid-lines",
+      "end_line": 2139,
+      "heading": "Main Hydraulic Fluid Lines",
+      "level": 2,
+      "start_line": 2138
+    },
+    {
+      "anchor": "electrical-connection",
+      "end_line": 2183,
+      "heading": "Electrical Connection",
+      "level": 2,
+      "start_line": 2140
+    },
+    {
+      "anchor": "ornl-lr-dwg-15091",
+      "end_line": 2187,
+      "heading": "Ornl-Lr-Dwg 15091",
+      "level": 2,
+      "start_line": 2184
+    },
+    {
+      "anchor": "equipment-identification",
+      "end_line": 2189,
+      "heading": "Equipment Identification",
+      "level": 2,
+      "start_line": 2188
+    },
+    {
+      "anchor": "hv-hand-actuated-block-valve",
+      "end_line": 2191,
+      "heading": "Hv Hand-Actuated Block Valve",
+      "level": 2,
+      "start_line": 2190
+    },
+    {
+      "anchor": "pi-pressure-indicator",
+      "end_line": 2193,
+      "heading": "Pi Pressure Indicator",
+      "level": 2,
+      "start_line": 2192
+    },
+    {
+      "anchor": "rv-relief-valve",
+      "end_line": 2195,
+      "heading": "Rv Relief Valve",
+      "level": 2,
+      "start_line": 2194
+    },
+    {
+      "anchor": "ps-pressure-switch",
+      "end_line": 2197,
+      "heading": "Ps Pressure Switch",
+      "level": 2,
+      "start_line": 2196
+    },
+    {
+      "anchor": "pa-pressure-alarm",
+      "end_line": 2199,
+      "heading": "Pa Pressure Alarm",
+      "level": 2,
+      "start_line": 2198
+    },
+    {
+      "anchor": "hc-hand-actuated-control",
+      "end_line": 2201,
+      "heading": "Hc Hand-Actuated Control",
+      "level": 2,
+      "start_line": 2200
+    },
+    {
+      "anchor": "xv-disaster-actuated-block-valve",
+      "end_line": 2203,
+      "heading": "XV DISASTER-ACTUATED BLOCK VALVE",
+      "level": 2,
+      "start_line": 2202
+    },
+    {
+      "anchor": "fe-flow-element",
+      "end_line": 2205,
+      "heading": "Fe Flow Element",
+      "level": 2,
+      "start_line": 2204
+    },
+    {
+      "anchor": "fi-flow-indicator",
+      "end_line": 2207,
+      "heading": "Fi Flow Indicator",
+      "level": 2,
+      "start_line": 2206
+    },
+    {
+      "anchor": "sv-solenoid-valve",
+      "end_line": 2209,
+      "heading": "Sv. Solenoid Valve",
+      "level": 2,
+      "start_line": 2208
+    },
+    {
+      "anchor": "pdt-pressure-differential-transmitter",
+      "end_line": 2211,
+      "heading": "Pdt Pressure-Differential Transmitter",
+      "level": 2,
+      "start_line": 2210
+    },
+    {
+      "anchor": "scv-swing-check-valve",
+      "end_line": 2213,
+      "heading": "Scv Swing Check Valve",
+      "level": 2,
+      "start_line": 2212
+    },
+    {
+      "anchor": "hc-hand-controller",
+      "end_line": 2215,
+      "heading": "Hc Hand Controller",
+      "level": 2,
+      "start_line": 2214
+    },
+    {
+      "anchor": "pcv-pressure-actuatedcontrol-valve",
+      "end_line": 2217,
+      "heading": "Pcv Pressure-Actuatedcontrol Valve",
+      "level": 2,
+      "start_line": 2216
+    },
+    {
+      "anchor": "hs-hand-switch",
+      "end_line": 2219,
+      "heading": "Hs Hand Switch",
+      "level": 2,
+      "start_line": 2218
+    },
+    {
+      "anchor": "rf-flow-restrictor",
+      "end_line": 2229,
+      "heading": "Rf Flow Restrictor",
+      "level": 2,
+      "start_line": 2220
+    },
+    {
+      "anchor": "electrical-circuit",
+      "end_line": 2233,
+      "heading": "Electrical Circuit",
+      "level": 2,
+      "start_line": 2230
+    },
+    {
+      "anchor": "pressure-relief-valve",
+      "end_line": 2235,
+      "heading": "Pressure-Relief Valve",
+      "level": 2,
+      "start_line": 2234
+    },
+    {
+      "anchor": "swing-check-valve",
+      "end_line": 2237,
+      "heading": "Swing Check Valve",
+      "level": 2,
+      "start_line": 2236
+    },
+    {
+      "anchor": "open-valve",
+      "end_line": 2241,
+      "heading": "Open Valve",
+      "level": 2,
+      "start_line": 2238
+    },
+    {
+      "anchor": "closed-valve",
+      "end_line": 2245,
+      "heading": "Closed Valve",
+      "level": 2,
+      "start_line": 2242
+    },
+    {
+      "anchor": "solenoid-valve",
+      "end_line": 2247,
+      "heading": "Solenoid Valve",
+      "level": 2,
+      "start_line": 2246
+    },
+    {
+      "anchor": "line-reducer-or-expander",
+      "end_line": 2265,
+      "heading": "Line Reducer Or Expander",
+      "level": 2,
+      "start_line": 2248
+    },
+    {
+      "anchor": "photographs-of-reactor-models-and-stages-in-the",
+      "end_line": 2267,
+      "heading": "PHOTOGRAPHS OF REACTOR MODELS AND STAGES IN THE",
+      "level": 1,
+      "start_line": 2266
+    },
+    {
+      "anchor": "construction-of-the-art-facility",
+      "end_line": 2389,
+      "heading": "CONSTRUCTION OF THE ART FACILITY",
+      "level": 1,
+      "start_line": 2268
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 2393,
+      "heading": "Bibliography",
+      "level": 2,
+      "start_line": 2390
+    },
+    {
+      "anchor": "bibliography",
+      "end_line": 2395,
+      "heading": "BIBLIOGRAPHY",
+      "level": 1,
+      "start_line": 2394
+    },
+    {
+      "anchor": "publications-listed-chronologically-by-subject",
+      "end_line": 2397,
+      "heading": "(Publications listed chronologically by subject)",
+      "level": 1,
+      "start_line": 2396
+    },
+    {
+      "anchor": "general-design",
+      "end_line": 2452,
+      "heading": "GENERAL DESIGN",
+      "level": 1,
+      "start_line": 2398
+    },
+    {
+      "anchor": "component-design-and-testing",
+      "end_line": 2477,
+      "heading": "COMPONENT DESIGN AND TESTING",
+      "level": 1,
+      "start_line": 2453
+    },
+    {
+      "anchor": "physics",
+      "end_line": 2508,
+      "heading": "PHYSICS",
+      "level": 1,
+      "start_line": 2478
+    },
+    {
+      "anchor": "critical-experiments",
+      "end_line": 2533,
+      "heading": "CRITICAL EXPERIMENTS",
+      "level": 1,
+      "start_line": 2509
+    },
+    {
+      "anchor": "corrosion",
+      "end_line": 2577,
+      "heading": "CORROSION",
+      "level": 1,
+      "start_line": 2534
+    },
+    {
+      "anchor": "chemistry",
+      "end_line": 2606,
+      "heading": "CHEMISTRY",
+      "level": 1,
+      "start_line": 2578
+    },
+    {
+      "anchor": "metallurgy",
+      "end_line": 2625,
+      "heading": "METALLURGY",
+      "level": 1,
+      "start_line": 2607
+    },
+    {
+      "anchor": "heat-transfer",
+      "end_line": 2667,
+      "heading": "HEAT TRANSFER",
+      "level": 1,
+      "start_line": 2626
+    },
+    {
+      "anchor": "physical-properties",
+      "end_line": 2732,
+      "heading": "PHYSICAL PROPERTIES",
+      "level": 1,
+      "start_line": 2668
+    },
+    {
+      "anchor": "radiation-damage",
+      "end_line": 2752,
+      "heading": "RADIATION DAMAGE",
+      "level": 1,
+      "start_line": 2733
+    },
+    {
+      "anchor": "fuel-recovery",
+      "end_line": 2757,
+      "heading": "FUEL RECOVERY",
+      "level": 1,
+      "start_line": 2753
+    },
+    {
+      "anchor": "shielding",
+      "end_line": 2778,
+      "heading": "SHIELDING",
+      "level": 1,
+      "start_line": 2758
+    },
+    {
+      "anchor": "aircraft-nuclear-propulsion-project-quarterly-progress-reports",
+      "end_line": 2835,
+      "heading": "AIRCRAFT NUCLEAR PROPULSION PROJECT QUARTERLY PROGRESS REPORTS",
+      "level": 1,
+      "start_line": 2779
+    }
+  ],
+  "source_dir": "pdf/ORNL-2095",
+  "tables": [],
+  "title": "ORNL-2095",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "safety-shielding-and-remote-maintenance"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

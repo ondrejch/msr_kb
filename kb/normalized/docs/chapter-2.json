@@ -1,0 +1,495 @@
+{
+  "authors": [],
+  "claims_path": "kb/normalized/claims/chapter-2.jsonl",
+  "date_text": null,
+  "doc_id": "chapter-2",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          417,
+          431
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          294
+        ],
+        "name": "beryllium"
+      }
+    ],
+    "component": [
+      {
+        "count": 4,
+        "line_hits": [
+          561,
+          778,
+          809,
+          826
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          778,
+          826
+        ],
+        "name": "pump"
+      }
+    ],
+    "organization": [
+      {
+        "count": 37,
+        "line_hits": [
+          834,
+          835,
+          836,
+          838,
+          839,
+          840,
+          842,
+          843,
+          845,
+          846,
+          847,
+          848,
+          851,
+          852,
+          853,
+          854,
+          855,
+          856,
+          857,
+          858,
+          859,
+          860,
+          861,
+          862,
+          864,
+          865,
+          866,
+          867,
+          869,
+          870,
+          871,
+          872,
+          873,
+          874,
+          875,
+          876,
+          877
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 33,
+        "line_hits": [
+          834,
+          838,
+          839,
+          840,
+          841,
+          842,
+          843,
+          847,
+          848,
+          851,
+          853,
+          854,
+          855,
+          857,
+          858,
+          859,
+          860,
+          861,
+          862,
+          863,
+          864,
+          865,
+          866,
+          867,
+          869,
+          870,
+          871,
+          872,
+          873,
+          874,
+          875,
+          876,
+          877
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          871
+        ],
+        "name": "University of California"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 79,
+        "line_hits": [
+          5,
+          9,
+          11,
+          17,
+          81,
+          95,
+          133,
+          135,
+          143,
+          145,
+          161,
+          169,
+          171,
+          189,
+          195,
+          205,
+          219,
+          232,
+          242,
+          244,
+          246,
+          278,
+          280,
+          292,
+          301,
+          303,
+          317,
+          332,
+          339,
+          341,
+          343,
+          347,
+          371,
+          373,
+          378,
+          397,
+          406,
+          419,
+          435,
+          439,
+          448,
+          452,
+          459,
+          466,
+          478,
+          486,
+          490,
+          505,
+          540,
+          546
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          363,
+          470,
+          811,
+          826
+        ],
+        "name": "HRE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          853,
+          864
+        ],
+        "name": "AHR"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          286,
+          452
+        ],
+        "name": "converter reactor"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          521,
+          549
+        ],
+        "name": "two-fluid breeder"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "5a69f3734632cf706a2d659a48cd6467bc317c9ce5a4c4a4de1d96b2012a6b57",
+  "markdown_path": "pdf/FFR_chap02/FFR_chap02/hybrid_ocr/FFR_chap02.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "fluid-fuel-reactors",
+  "section_count": 34,
+  "sections": [
+    {
+      "anchor": "chapter-2",
+      "end_line": 2,
+      "heading": "CHAPTER 2",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "nuclear-characteristics-of-one-and-two-region-homogeneous-reactors",
+      "end_line": 6,
+      "heading": "NUCLEAR CHARACTERISTICS OF ONE- AND TWO-REGION HOMOGENEOUS REACTORS*",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "2-1-criticality-calculations",
+      "end_line": 190,
+      "heading": "2-1. CRITICALITY CALCULATIONS",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "2-2-nuclear-constants-used-in-criticality-calculations",
+      "end_line": 196,
+      "heading": "2-2. NUCLEAR CONSTANTS USED IN CRITICALITY CALCULATIONS",
+      "level": 1,
+      "start_line": 191
+    },
+    {
+      "anchor": "table-2-1",
+      "end_line": 198,
+      "heading": "TABLE 2-1",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "thermal-microscopic-absorption-cross-sections-at-various-temperatures",
+      "end_line": 208,
+      "heading": "THERMAL MICROSCOPIC ABSORPTION CROSS SECTIONS AT VARIOUS TEMPERATURES",
+      "level": 1,
+      "start_line": 199
+    },
+    {
+      "anchor": "table-2-2",
+      "end_line": 220,
+      "heading": "TABLE 2-2",
+      "level": 1,
+      "start_line": 209
+    },
+    {
+      "anchor": "table-2-3",
+      "end_line": 224,
+      "heading": "TABLE 2-3",
+      "level": 1,
+      "start_line": 221
+    },
+    {
+      "anchor": "some-nuclear-constants-for-uranium-plutonium-and-zircaloy-2",
+      "end_line": 233,
+      "heading": "Some Nuclear Constants For Uranium, Plutonium, And Zircaloy-2",
+      "level": 2,
+      "start_line": 225
+    },
+    {
+      "anchor": "table-2-4",
+      "end_line": 275,
+      "heading": "Table 2-4",
+      "level": 2,
+      "start_line": 234
+    },
+    {
+      "anchor": "2-3-fuel-concentrations-and-breeding-ratios-under-initial-and-steady-state-conditions",
+      "end_line": 306,
+      "heading": "2-3. FUEL CONCENTRATIONS AND BREEDING RATIOS UNDER INITIAL AND STEADY-STATE CONDITIONS",
+      "level": 1,
+      "start_line": 276
+    },
+    {
+      "anchor": "table-2-5-slurry-reactor-characteristics",
+      "end_line": 312,
+      "heading": "Table 2-5 Slurry-Reactor Characteristics",
+      "level": 2,
+      "start_line": 307
+    },
+    {
+      "anchor": "table-2-6-breeding-ratio-in-10-ft-diameter-one-region-reactors-zero-poisons",
+      "end_line": 350,
+      "heading": "Table 2-6 Breeding Ratio In 10-Ft-Diameter One-Region Reactors (Zero Poisons)",
+      "level": 2,
+      "start_line": 313
+    },
+    {
+      "anchor": "table-2-7",
+      "end_line": 361,
+      "heading": "TABLE 2-7",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "table-2-8",
+      "end_line": 362,
+      "heading": "Table 2-8",
+      "level": 2,
+      "start_line": 362
+    },
+    {
+      "anchor": "characteristics-of-intermediate-scale-hre-3",
+      "end_line": 363,
+      "heading": "Characteristics Of Intermediate-Scale (Hre-3)",
+      "level": 2,
+      "start_line": 363
+    },
+    {
+      "anchor": "two-region-reactors-equilibrium-conditions",
+      "end_line": 398,
+      "heading": "Two-Region Reactors (Equilibrium Conditions)",
+      "level": 2,
+      "start_line": 364
+    },
+    {
+      "anchor": "table-2-9",
+      "end_line": 399,
+      "heading": "Table 2-9",
+      "level": 2,
+      "start_line": 399
+    },
+    {
+      "anchor": "effect-of-copper-addition-on-breeding-ratio",
+      "end_line": 407,
+      "heading": "Effect Of Copper Addition On Breeding Ratio",
+      "level": 2,
+      "start_line": 400
+    },
+    {
+      "anchor": "table-2-10",
+      "end_line": 440,
+      "heading": "Table 2-10",
+      "level": 2,
+      "start_line": 408
+    },
+    {
+      "anchor": "table-2-11",
+      "end_line": 467,
+      "heading": "Table 2-11",
+      "level": 2,
+      "start_line": 441
+    },
+    {
+      "anchor": "2-4-unsteady-state-fuel-concentrations-and-breeding-ratios",
+      "end_line": 471,
+      "heading": "2-4. UNSTEADY-STATE FUEL CONCENTRATIONS AND BREEDING RATIOS",
+      "level": 1,
+      "start_line": 468
+    },
+    {
+      "anchor": "table-2-12",
+      "end_line": 473,
+      "heading": "TABLE 2-12",
+      "level": 1,
+      "start_line": 472
+    },
+    {
+      "anchor": "reactor-characteristics-for-some-one-region-mathrm-uo-3-puo-2-d-2o-reactors-operating-under-equilibrium-conditions",
+      "end_line": 506,
+      "heading": "REACTOR CHARACTERISTICS FOR SOME ONE-REGION, $\\mathrm{UO_3 - PuO_2 - D_2O}$ REACTORS* OPERATING UNDER EQUILIBRIUM CONDITIONS",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "table-2-13",
+      "end_line": 508,
+      "heading": "TABLE 2-13",
+      "level": 1,
+      "start_line": 507
+    },
+    {
+      "anchor": "core-concentration-of-uranium-isotopes",
+      "end_line": 510,
+      "heading": "CORE CONCENTRATION OF URANIUM ISOTOPES",
+      "level": 1,
+      "start_line": 509
+    },
+    {
+      "anchor": "as-a-function-of-time-for-a-u-fueled-reactor",
+      "end_line": 512,
+      "heading": "AS A FUNCTION OF TIME FOR A U²³₃-FUELED REACTOR",
+      "level": 1,
+      "start_line": 511
+    },
+    {
+      "anchor": "and-for-a-u235-fueled-reactor",
+      "end_line": 522,
+      "heading": "AND FOR A U235-FUELED REACTOR",
+      "level": 1,
+      "start_line": 513
+    },
+    {
+      "anchor": "table-2-14",
+      "end_line": 524,
+      "heading": "TABLE 2-14",
+      "level": 1,
+      "start_line": 523
+    },
+    {
+      "anchor": "peak-and-equilibrium-values-of-blanket-power-computed-for-u233-fueled-reactors",
+      "end_line": 556,
+      "heading": "PEAK AND EQUILIBRIUM VALUES OF BLANKET POWER COMPUTED FOR U233-FUELED REACTORS",
+      "level": 1,
+      "start_line": 525
+    },
+    {
+      "anchor": "2-5-safety-and-stability-of-homogeneous-reactors-following-reactivity-additions",
+      "end_line": 760,
+      "heading": "2-5. SAFETY AND STABILITY OF HOMOGENEOUS REACTORS FOLLOWING REACTIVITY ADDITIONS",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "table-2-15-reactivity-change-as-a-function-of-slurry-settling",
+      "end_line": 812,
+      "heading": "Table 2-15 Reactivity Change As A Function Of Slurry Settling",
+      "level": 2,
+      "start_line": 761
+    },
+    {
+      "anchor": "table-2-16",
+      "end_line": 831,
+      "heading": "Table 2-16",
+      "level": 2,
+      "start_line": 813
+    },
+    {
+      "anchor": "references",
+      "end_line": 877,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 832
+    }
+  ],
+  "source_dir": "pdf/FFR_chap02",
+  "tables": [],
+  "title": "CHAPTER 2",
+  "topics": [
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "off-gas-fission-products-and-tritium",
+    "materials-and-corrosion",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "authors_not_detected",
+    "report_number_not_detected"
+  ]
+}

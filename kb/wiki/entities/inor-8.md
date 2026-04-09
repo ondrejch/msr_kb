@@ -1,0 +1,215 @@
+# INOR-8
+
+## Overview
+
+- Type: alloy-material
+- Documents: 155
+- First seen: March 3, 1901
+- Last seen: unknown
+
+## Topic Profile
+
+- materials-and-corrosion (152)
+- reactor-operations (139)
+- pumps-loops-and-heat-exchangers (127)
+- salt-chemistry-and-redox (94)
+- graphite-and-moderator-behavior (91)
+- off-gas-fission-products-and-tritium (91)
+- reactor-physics-neutronics (87)
+- salt-systems-and-thermophysics (86)
+
+## Related Entities
+
+- ORNL [organization] (154)
+- ARE [reactor] (154)
+- AEC [organization] (147)
+- Union Carbide [organization] (136)
+- nickel [alloy-material] (132)
+- LiF [salt-system] (126)
+- pump [component] (122)
+- fluoride salt [salt-system] (121)
+- graphite [alloy-material] (119)
+- loop [component] (113)
+- heat exchanger [component] (111)
+- molybdenum [alloy-material] (105)
+
+## Representative Claims
+
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td colspan="2">Studies</td><td>References</td></tr><tr><td rowspan="6">A</td><td>CrNi-Cr-Mo alloys (INOR-8); Hastelloys B, W, and N)</td><td>[90]</td></tr><tr><td>SSNI-12P</td><td>[91,92]</td></tr><tr><td>Quartz</td><td>[93]</td></tr><tr><td>Al</td><td>[94]</td></tr><tr><td>Various metals</td><td>[95]</td></tr><tr><td></td><td>[96]</td></tr><tr><td rowspan="3">B</td><td>Pt</td><td>[74,76,80,82,97]</td></tr><tr><td>Boron nitride, carbon, Inconel</td><td>[72,98,99]</td></tr><tr><td>Fused MgO</td><td>[100]</td></tr><tr><td rowspan="3">C</td><td>Impurities in electrolyte</td><td>[9,101]</td></tr><tr><td>Graphite</td><td>[9,101]</td></tr><tr><td>TiC, TiB2, CrB2, ZrN, NbB2</td><td>[102-104]</td></tr><tr><td rowspan="5">D</td><td>Corrosion studies in molten salts with NaF as one component (e.g., Cl, CO3,...)</td><td>[105-120,127,128]</td></tr><tr><td>Electrochemical behavior of oxides and related species in molten fluorides</td><td>[121-123]</td></tr><tr><td>Electroanalytical studies in molten fluorides</td><td>[124]</td></tr><tr><td>Annotated corrosion bibliolog.</td><td>[125]</td></tr><tr><td>Corrosion: molten fluorides (survey)</td><td>[126]</td></tr></table>
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td colspan="2">Studies</td><td>References</td></tr><tr><td rowspan="6">A</td><td>CrNi-Cr-Mo alloys (INOR-8; Hastelloysb, W, and N)</td><td>[15]</td></tr><tr><td>SSNI-12P</td><td>[16,17]</td></tr><tr><td>Quartz</td><td>[18]</td></tr><tr><td>Al</td><td>[19]</td></tr><tr><td>Various metals</td><td>[20]</td></tr><tr><td></td><td>[21]</td></tr><tr><td rowspan="3">B</td><td>Pt</td><td>[22-26]</td></tr><tr><td>Boron nitride, carbon, Inconel</td><td>[27-29]</td></tr><tr><td>Fused MgO</td><td>[30]</td></tr><tr><td rowspan="3">C</td><td>Impurities in electrolyte</td><td>[31,32]</td></tr><tr><td>Graphite</td><td>[31,32]</td></tr><tr><td>TiC, TiB2, CrB2, ZrN, NbB2</td><td>[33-35]</td></tr><tr><td rowspan="5">D</td><td>Corrosion studies in molten salts with NaF as one component (e.g., Cl, CO3,...)</td><td>[36-51,58,59]</td></tr><tr><td>Electrochemical behavior of oxide ions and related species in molten fluorides</td><td>[52-54]</td></tr><tr><td>Electroanalytical studies in molten fluorides</td><td>[55]</td></tr><tr><td>Annotated corrosion biblio.</td><td>[56]</td></tr><tr><td>Corrosion: molten fluorides (survey)</td><td>[57]</td></tr></table>
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td colspan="2">Studies</td><td>References</td></tr><tr><td>A</td><td>CrNi-Cr-Mo alloys (INOR-8; Hastelloy B, W, and N) SSNI-12P Quartz Al Various metals</td><td>[31] [32,33] [34] [35] [36] [37]</td></tr><tr><td>B</td><td>Pt Boron nitride, carbon, Inconel Fused MgO</td><td>[38-42] [43-45] [46]</td></tr><tr><td>C</td><td>Impurities in electrolyte Graphite TiC, TiB2, CrB2, ZrN, NbB2</td><td>[47,48] [47,48] [49-51]</td></tr><tr><td>D</td><td>Corrosion studies in molten salts with NaF as one component (e.g., Cl, CO3,...) Electrochemical behavior of oxide ions and related species in molten fluorides Electroanalytical studies in molten fluorides Annotated corrosion biblio.
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901
+  - <table><tr><td colspan="2">Studies</td><td>References</td></tr><tr><td>A</td><td>CrNi-Cr-Mo alloys (INOR-8; Hastelloys B, W, and N) SSNI-12P Quartz Al Various metals</td><td>[42] [43,44] [45] [46] [47] [48]</td></tr><tr><td>B</td><td>Pt, Pt-Rh Boron nitride, carbon, Inconel Fused MgO</td><td>[49-53,87,88] [54-56] [57]</td></tr><tr><td>C</td><td>Impurities in electrolyte Graphite TiC, TiB2, CrB2, ZrN, NbB2</td><td>[58,59] [58,59] [60-62]</td></tr><tr><td>D</td><td>Corrosion studies in molten salts with NaF as one component (e.g., Cl, CO3,...) Electrochemical behavior of oxide ions and related species in molten fluorides Electroanalytical studies in molten fluorides Annotated corrosion biblio.
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951
+  - 10, it was found that the molybdenum coupon had lost about $10\%$ of its weight and the INOR-8 coupons had lost 22 and 29 wt $\%$ , respectively.
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951
+  - <table><tr><td rowspan="2">Alloy</td><td colspan="10">Nominal Composition, wt %</td></tr><tr><td>Ni</td><td>Cr</td><td>Fe</td><td>Mo</td><td>Co</td><td>Cu</td><td>Mn</td><td>Si</td><td>C</td><td>S V</td></tr><tr><td>INOR-8</td><td>70</td><td>7</td><td>5</td><td>16</td><td>0.2</td><td>0.35</td><td>0.8</td><td>0.3</td><td>0.06</td><td>0.01</td></tr><tr><td>INOR-1</td><td>78</td><td>-</td><td>0.3</td><td>20</td><td>--</td><td>--</td><td>0.5</td><td>0.5</td><td>0.01</td><td>0.01</td></tr><tr><td>Hastelloy B</td><td>62</td><td>1</td><td>6</td><td>28</td><td>--</td><td></td><td>1</td><td>1</td><td>0.12</td><td></td></tr><tr><td>Hastelloy W</td><td>60</td><td>5</td><td>6</td><td>25</td><td>2.5</td><td></td><td></td><td></td><td>0.12</td><td>0.6</td></tr><tr><td>Inconel</td><td>72*</td><td>16</td><td>8</td><td>--</td><td>--</td><td>0.5</td><td>1</td><td>0.5</td><td>0.15</td><td>0.015</td></tr><tr><td>Monel</td><td>67*</td><td>-</td><td>1.5</td><td>--</td><td>--</td><td>30</td><td>1</td><td>0.1</td><td>0.15</td><td>0.01</td></tr></table>
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951
+  - <table><tr><td rowspan="2">Specimen Material</td><td rowspan="2">Specimen Description</td><td rowspan="2">Exposure Position</td><td colspan="3">Corrosion Rates (mils/month)</td><td rowspan="2">Remarks</td></tr><tr><td>By Weight Loss</td><td>By Micrometer Measurement</td><td>By Metallographic Examination</td></tr><tr><td></td><td></td><td colspan="4">Group C - NaF (43-47 mole %)/LiF (53-57 mole %) 700°C Test Periods - 93-263 hr Hydrogen Fluoride Rate - 0.2 liters/min</td><td></td></tr><tr><td>Hastelloy B</td><td>coupons</td><td>interface</td><td>--</td><td>--</td><td>--</td><td>Severed</td></tr><tr><td>INOR-1</td><td>coupons</td><td>vapor</td><td>0.02-13(3)</td><td>--</td><td>--</td><td>Etched and mottled finish</td></tr><tr><td></td><td>coupons</td><td>interface</td><td>64</td><td>--</td><td>120(1)</td><td>Two specimens severed</td></tr><tr><td></td><td>coupons</td><td>salt</td><td>17-38(2)</td><td>--</td><td>--</td><td>Moderate-to-heavy etch, some crystal deposits</td></tr><tr><td></td><td>impingement tube</td><td>alternate vapor-salt contact</td><td>2.9-18(2)</td><td>--</td><td>--</td><td>Moderate etch, some crystal deposits</td></tr><tr><td>INOR-8</td><td>coupons</td><td>vapor</td><td>0.11-7.6(3)</td><td>--</td><td>--</td><td>Light-to-heavy etch</td></tr><tr><td></td><td>coupons and tube</td><td>interface</td><td>48-60(2)</td><td>--</td><td>100(1)</td><td>One specimen severed</td></tr><tr><td></td><td>coupons and tube*</td><td>movable interface**</td><td>0.15-0.73(2)</td><td>0.68-31(5)</td><td>2.7-31(3)</td><td>All samples necked down</td></tr><tr><td></td><td>coupons</td><td>salt</td><td>20-43(3)</td><td>--</td><td>28(1)</td><td>Heavy etch</td></tr><tr><td></td><td>impingement tube</td><td>alternate vapor-salt contact</td><td>9-18(2)</td><td>--</td><td>--</td><td>Heavy etch, crystal deposits</td></tr><tr><td colspan="7">Group D - NaF-LiF-ZrF4-UF4(19-26-55-0.2 mole %) 600-700°C Test Periods - 160-200 hr Hydrogen Fluoride Rate - 0.2 liters/min</td></tr><tr><td rowspan="3">Hastelloy B</td><td rowspan="3">coupons</td><td>interface</td><td>1.7(1)</td><td>--</td><td>--</td><td>600°C, Light etch</td></tr><tr><td>interface</td><td>2.1(1)</td><td>--</td><td>--</td><td>650°C, Light etch</td></tr><tr><td>interface</td><td>3.9(1)</td><td>15(1)</td><td>--</td><td>700°C, Necked down</td></tr><tr><td rowspan="3">INOR-1</td><td rowspan="3">coupons</td><td>vapor</td><td>0.24(1)</td><td>--</td><td>--</td><td>600°C, Light etch</td></tr><tr><td>vapor</td><td>0.55(1)</td><td>--</td><td>--</td><td>650°C, Light etch</td></tr><tr><td>vapor</td><td>1.3(1)</td><td>--</td><td>--</td><td>700°C, Light etch</td></tr><tr><td rowspan="3">INOR-1</td><td rowspan="3">coupons</td><td>interface</td><td>0.76(1)</td><td>--</td><td>--</td><td>600°C, Light etch</td></tr><tr><td>interface</td><td>3.3(1)</td><td>--</td><td>--</td><td>650°C, Moderate etch</td></tr><tr><td>interface</td><td>13(1)</td><td>22(1)</td><td>--</td><td>700°C, Necked down</td></tr><tr><td rowspan="3">INOR-1</td><td rowspan="3">coupons</td><td>salt</td><td>1.7(1)</td><td>--</td><td>--</td><td>600°C, Light etch</td></tr><tr><td>salt</td><td>4.4(1)</td><td>--</td><td>--</td><td>650°C, Moderate etch</td></tr><tr><td>salt</td><td>11(1)</td><td>--</td><td>--</td><td>700°C, Heavy etch</td></tr><tr><td rowspan="3">INOR-8</td><td rowspan="3">coupons</td><td>vapor</td><td>0.43(1)</td><td>--</td><td>--</td><td>600°C, Light etch</td></tr><tr><td>vapor</td><td>1.1(1)</td><td>--</td><td>--</td><td>650°C, Light etch</td></tr><tr><td>vapor</td><td>2.4</td><td>--</td><td>--</td><td>700°C, Light etch</td></tr><tr><td rowspan="3">INOR-8</td><td rowspan="3">coupons</td><td>interface</td><td>1.0(1)</td><td>--</td><td>--</td><td>600°C, Light etch</td></tr><tr><td>interface</td><td>4.6(1)</td><td>--</td><td>--</td><td>650°C, Moderate etch</td></tr><tr><td>interface</td><td>13(1)</td><td>20(1)</td><td>--</td><td>700°C, Heavy etch</td></tr><tr><td rowspan="3">INOR-8</td><td rowspan="3">coupons</td><td>salt</td><td>2.5(1)</td><td>--</td><td>--</td><td>600°C, Light etch</td></tr><tr><td>salt</td><td>4.2(1)</td><td>--</td><td>--</td><td>650°C, Moderate etch</td></tr><tr><td>salt</td><td>15(1)</td><td>--</td><td>--</td><td>700°C, Heavy etch</td></tr></table>
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951
+  - <table><tr><td rowspan="2">Specimen Material</td><td rowspan="2">Specimen Description</td><td rowspan="2">Exposure Position</td><td colspan="3">Corrosion Rates (mils/month)</td><td rowspan="2">Remarks</td></tr><tr><td>By Weight Loss</td><td>By Micrometer Measurement</td><td>By Metallographic Examination</td></tr><tr><td></td><td></td><td colspan="5">Group A - NaF (50-59 mole %)/ZrF4(41-50 mole %) 650-700°C Test Periods - 200-510 hr Hydrogen Fluoride Rate - 0.2-0.5 liters/min</td></tr><tr><td>Hastelloy B</td><td>coupons</td><td>interface</td><td>0.8-14(6)</td><td>6.2-8.7(2)</td><td>12(1)</td><td>Necked down or severed at interface - etched</td></tr><tr><td rowspan="4">INOR-1</td><td>coupons</td><td>vapor</td><td>0.1-0.76(5)</td><td>0.0</td><td>--</td><td>Light-to-moderate etch</td></tr><tr><td>coupons and tubes</td><td>interface</td><td>1.3-21(8)</td><td>6.7-31(5)</td><td>2.2-15(2)</td><td>Necked down or severed at interface - etched</td></tr><tr><td>coupons</td><td>salt</td><td>1.9-17(5)</td><td>--</td><td>--</td><td>Moderate etch, some crystal deposits</td></tr><tr><td>impingement tube</td><td>alternate vapor-salt contact</td><td>0.003-3.4(8)</td><td>--</td><td>0.86-5.2(3)</td><td>Light-to-moderate etch</td></tr><tr><td rowspan="4">INOR-8</td><td>coupons</td><td>vapor</td><td>0.25-1.5(7)</td><td>0.0(1)</td><td>1.4-3.9(2)</td><td>Light etch</td></tr><tr><td>coupons and tubes</td><td>interface</td><td>0.18-29(8)</td><td>14-45(4)</td><td>0.86-23(2)</td><td>Light-to-heavy etch - necked down at interface</td></tr><tr><td>coupons</td><td>salt</td><td>0.35-17(5)</td><td>--</td><td>--</td><td>Moderate-to-heavy etch</td></tr><tr><td>impingement tube</td><td>alternate vapor-salt contact</td><td>0.09-5.7(7)</td><td>--</td><td>1.7-2.9(3)</td><td>Light-to-heavy etch</td></tr><tr><td></td><td></td><td colspan="4">Group B - NaF-ZrF4-UF4(44-56-0.1 mole %) 650°C Test Periods - 200 hr Hydrogen Fluoride Rate - 0.2 liters/min</td><td></td></tr><tr><td>Hastelloy B</td><td>coupons</td><td>interface</td><td>0.26-2.6(2)</td><td>5.1(1)</td><td>--</td><td>Necked down</td></tr><tr><td>INOR-1</td><td>coupons</td><td>vapor</td><td>0.08-0.34(2)</td><td></td><td></td><td>Silver deposits - dark film</td></tr><tr><td></td><td>coupons and tubes</td><td>interface</td><td>0.32-3.6(3)</td><td>4.0(1)</td><td></td><td>Tarnish - dark powder</td></tr><tr><td></td><td>coupons</td><td>salt</td><td>0.61-5.0(2)</td><td></td><td></td><td>Dark film - light etch</td></tr><tr><td></td><td>impingement tube</td><td>alternate vapor-salt contact</td><td>0.63(1)</td><td></td><td></td><td>Crystal deposits</td></tr><tr><td>INOR-8</td><td>coupons</td><td>vapor</td><td>0.16-0.44(2)</td><td></td><td></td><td></td></tr><tr><td></td><td>coupons</td><td>interface</td><td>0.39-4.5(2)</td><td>4.0(1)</td><td>2.9(1)</td><td></td></tr><tr><td></td><td>coupons</td><td>salt</td><td>0.84-3.7(2)</td><td></td><td></td><td></td></tr><tr><td></td><td>impingement tube</td><td>alternate vapor-salt contact</td><td>0.01(1)</td><td></td><td></td><td></td></tr></table>
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951
+  - A few INOR-8 and molybdenum coupons were exposed to the environments of runs Nos.
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951
+  - A hydrogen fluoride entry (sparge) tube and thermocouple well, both fabricated from 1/4-in.-diam, 0.025-in.-wall thickness INOR-8 tubing, were used in the above vessel during three successive hydrofluorination-dissolution runs using a LiF-NaF salt and sections from a Zircaloy-2 dummy fuel element subassembly.
+
+## Chronology
+
+- [[../documents/u-s-department-of-commerce-national-bureau-of-standards.md|U.S. DEPARTMENT OF COMMERCE / National Bureau of Standards]] - March 3, 1901 - mentions: 40
+- [[../documents/ornl-2833.md|ORNL-2833]] - 1951 - ORNL-2833 - mentions: 70
+- [[../documents/ornl-tm-3866.md|![](images/21d47926519d1679e8984c4291d925f12b0fad58a3797a05df44e831a5cd03ca.jpg)]] - April 20, 1953 - ORNL-4254 - mentions: 1
+- [[../documents/ornl-cf-57-8-7.md|Central Files Number]] - 1956 - mentions: 5
+- [[../documents/anl-6792.md|MOLTEN-SALT FAST REACTORS]] - 1957 - CF-61-3-9 - mentions: 1
+- [[../documents/ornl-2274.md|AIRCRAFT NUCLEAR PROPULSION PROJECT]] - March 31, 1957 - ORNL-528 - mentions: 14
+- [[../documents/ornl-cf-57-4-27.md|![](images/3f7cf0a8001da7322a0b64862847fd098bcc14dff6f113c0f2b93b24ab9b98f8.jpg)]] - April 29, 1957 - CF-57-1-10 - mentions: 23
+- [[../documents/ornl-2340-p-1-5.md|DECLASSIFIED]] - June 30, 1957 - ORNL-2340 - mentions: 23
+- [[../documents/ornl-2378.md|AEC RESE CRFMENT REPORT]] - September 1, 1957 - ORNL-2378 - mentions: 3
+- [[../documents/ornl-2387.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - September 30, 1957 - ORNL-2387 - mentions: 64
+- [[../documents/ornl-2431.md|MOLTEN-SALT REACTOR PROGRAM]] - October 31, 1957 - ORNL-2431 - mentions: 40
+- [[../documents/ornl-2440.md|AEC RESEARCH AND DEVELOPMENT REPORT]] - December 31, 1957 - ORNL-2440 - mentions: 25
+- [[../documents/ornl-2605.md|ORNL-2605]] - 1958 - ORNL-2605 - mentions: 1
+- [[../documents/ornl-2524.md|THE INFLUENCE OF COMPOSITION UPON]] - 1958 - Y-12802 - mentions: 8
+- [[../documents/ornl-4865.md|![](images/721f0108e98d763d8cd0e48fd43ed482bb883f99405b5a08e694334c66f2d9dd.jpg)]] - January 31, 1958 - ORNL-2474 - mentions: 1
+- [[../documents/ornl-2474.md|ORNL-2474]] - January 31, 1958 - ORNL-2474 - mentions: 93
+- [[../documents/ornl-cf-58-2-46.md|![](images/c670dbcbf5aebbb153e9e394f17b32dc62c7476fa31b580ab435df92a793a6c5.jpg)]] - February 5, 1958 - mentions: 1
+- [[../documents/ornl-2551.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - February 15, 1958 - ORNL-2551 - mentions: 90
+- [[../documents/ornl-2634.md|ORNL-2634]] - May 1, 1958 - ORNL-2634 - mentions: 71
+- [[../documents/molten-salt-reactors.md|MOLTEN-SALT REACTORS]] - June 1958 - mentions: 65
+- [[../documents/fluid-fuel-reactors.md|FLUID FUEL REACTORS]] - September 1958 - mentions: 3
+- [[../documents/ornl-2760.md|ORNL-2760]] - September 1958 - ORNL-2760 - mentions: 20
+- [[../documents/ornl-cf-58-10-60.md|![](images/069b6c1c9c53828183abb4943a1fc2abf6e6e667cc61a0110f9e231b30ac3a3e.jpg)]] - October 17, 1958 - ORNL-2500 - mentions: 1
+- [[../documents/ornl-2626.md|ORNL-2626]] - October 31, 1958 - ORNL-2626 - mentions: 120
+- [[../documents/ornl-2751.md|![](images/95066d96705fecd506bbc5cc50e1eb4c9cef1806ce5ba44eba157d4a1ee94121.jpg)]] - 1959 - ORNL-2751 - mentions: 5
+- [[../documents/tid-8507.md|CENTRAL RESEARCH LIBRAR]] - January 2, 1959 - mentions: 20
+- [[../documents/ornl-cf-59-1-26.md|![](images/3a74bb449ed93c4da89dd5c969a24e7eba90f63087b3269a98f7b1d5691b1f3f.jpg)]] - January 13, 1959 - mentions: 3
+- [[../documents/ornl-2684.md|ORNL-2684]] - January 31, 1959 - ORNL-2684 - mentions: 63
+- [[../documents/ornl-2723.md|ORNL-2723]] - April 30, 1959 - ORNL-2723 - mentions: 73
+- [[../documents/ornl-2799.md|![](images/e196c8971f9cbd257f2fbb5070322e5c08ad2686223df5233b579472fdad4e95.jpg)]] - July 31, 1959 - ORNL-2799 - mentions: 62
+- [[../documents/ornl-cf-59-8-133.md|![](images/2f79220ee22089a995c3f65fd1606f0262401639fb5692ab62b796a3fbcec63c.jpg)]] - August 31, 1959 - mentions: 2
+- [[../documents/ornl-2890.md|ORNL-2890]] - October 31, 1959 - ORNL-2890 - mentions: 58
+- [[../documents/ornl-3014.md|![](images/3d9e2a174651a2d79ed61a6a17515dd3051e8336e6824ebffc1c42c4f35951a5.jpg)]] - 1960 - ORNL-3014 - mentions: 52
+- [[../documents/ornl-2796.md|Contract No. W-7405-eng-26]] - 1960 - mentions: 5
+- [[../documents/ornl-cf-59-12-64.md|![](images/cb00e17463f3921d9e92ab9f7c6f445cba0e7990230a9b65689712e904a834f6.jpg)]] - January 12, 1960 - mentions: 4
+- [[../documents/ornl-2973.md|ORNL-2973 UC-81 - Reactors - Power]] - April 30, 1960 - ORNL-2973 - mentions: 66
+- [[../documents/anl-7092.md|MARTIN MARIETTA ENERGY SYSTEMS LIBRARIES]] - July 25, 1960 - ANL-6892 - mentions: 7
+- [[../documents/ornl-cf-60-6-97.md|OAK RIDGE NATIONAL LABORATORY]] - July 25, 1960 - mentions: 9
+- [[../documents/ornl-cf-60-11-108.md|![](images/65cca64ee0b858f36741d1887fd1d530af8215f2fa775103a27de2c83f18db0b.jpg)]] - November 30, 1960 - CF-60-11-108 - mentions: 1
+- [[../documents/ornl-2982.md|![](images/81b0626f8827776141204f851b9425b219fc30dd877f481c1b128e453845508f.jpg)]] - 1961 - ORNL-2982 - mentions: 10
+- [[../documents/ornl-3215.md|![](images/b390bcb067039caf88dbc5e2ee9afe97556a586516b1e8bc48fcccfe1bf4383c.jpg)]] - 1961 - ORNL-3215 - mentions: 108
+- [[../documents/ornl-2780.md|MASTER COPY]] - 1961 - ORNL-2780 - mentions: 54
+- [[../documents/ornl-2832.md|ORNL-2832]] - 1961 - ORNL-2832 - mentions: 35
+- [[../documents/ornl-2896.md|ORNL-2896]] - 1961 - ORNL-2896 - mentions: 2
+- [[../documents/ornl-3124.md|ORNL-3124]] - 1961 - ORNL-3124 - mentions: 13
+- [[../documents/ornl-cf-61-2-46.md|MASTER COPY]] - February 28, 1961 - mentions: 44
+- [[../documents/ornl-cf-61-4-62.md|![](images/403eb9ff77ae8ffe44b9cf6f1e74d8b95371308490f3724e2fcb86888309ea49.jpg)]] - April 19, 1961 - CF-60-3-35 - mentions: 1
+- [[../documents/ornl-tm-2999.md|ORNL-TM-2999]] - May 1961 - ORNL-TM-2999 - mentions: 32
+- [[../documents/ornl-tm-1060.md|ORNL-TM-1060]] - July 1961 - ORNL-TM-1060 - mentions: 26
+- [[../documents/ornl-cf-61-2-46-ad.md|UCN-2363]] - August 14, 1961 - CF-61-2-46 - mentions: 10
+- [[../documents/ornl-cf-61-8-86.md|![](images/e4ec18dbd797b25d49128d86a7953ccddf1b2d4f1b0758a0b86a4095b599d319.jpg)]] - August 18, 1961 - ORNL-CF-61-3-9 - mentions: 7
+- [[../documents/ornl-3122.md|${3}^{ \times {5}^{7}}$]] - October 1961 - ORNL-3122 - mentions: 95
+- [[../documents/ornl-tm-128.md|![](images/ed00c49f4f8a6777f45e973ba7d7ab7ad02f651e28205f6fb99cebe7a38a6072.jpg)]] - 1962 - ORNL-TM-128 - mentions: 3
+- [[../documents/ornl-3282.md|ORNL-3282]] - 1962 - ORNL-3282 - mentions: 72
+- [[../documents/ornl-tm-328.md|ORNL-TM-328]] - 1962 - ORNL-TM-328 - mentions: 21
+- [[../documents/ornl-tm-4189.md|![](images/314617cd8f787d0bfb2a34d439e9c59054606333df12eabbc7f74316fe3a44f3.jpg)]] - April 11, 1962 - Y-8460 - mentions: 1
+- [[../documents/ornl-tm-262.md|U.S. ATOMIC ENERGY COMMISSION]] - June 27, 1962 - ORNL-TM-262 - mentions: 1
+- [[../documents/ornl-3369.md|ORNL-3369]] - August 31, 1962 - ORNL-3369 - mentions: 74
+- [[../documents/ornl-tm-522.md|![](images/7e0408010649f195c8401259e4c697a10252939b67992e2775a5be93e106198b.jpg)]] - October 10, 1962 - ORNL-TM-522 - mentions: 7
+- [[../documents/ornl-tm-380.md|ORNL-TM-380]] - October 13, 1962 - ORNL-TM-380 - mentions: 1
+- [[../documents/ornl-tm-379.md|ORNL-TM-379]] - October 15, 1962 - ORNL-TM-379 - mentions: 1
+- [[../documents/ornl-tm-378.md|ORNL-TM- 378]] - November 5, 1962 - ORNL-TM-378 - mentions: 1
+- [[../documents/ornl-tm-500.md|![](images/d4c11810d473f16400364590aec842fa4fb499dea4689b7c884ad706cfb9f770.jpg)]] - 1963 - ORNL-TM-500 - mentions: 12
+- [[../documents/ornl-3500.md|![](images/d9aebf34a13c7f22f748ff84e05a0ab0fcf5c8743051b3f9bc96ebe0b68e7f31.jpg)]] - 1963 - ORNL-3500 - mentions: 8
+- [[../documents/ornl-tm-411.md|![](images/dcb613a52593c26fcaa093859b3d6f6b2fd208a687ae850908f5fd1c2f3efa79.jpg)]] - 1963 - ORNL-TM-411 - mentions: 1
+- [[../documents/ornl-tm-607.md|MECHANICAL PROPERTIES OF INOR-8 CAST METAL]] - 1963 - mentions: 11
+- [[../documents/ornl-tm-528.md|ORNL-TM-528]] - 1963 - ORNL-TM-528 - mentions: 2
+- [[../documents/ornl-3419.md|MOLTEN-SALT REACTOR PROGRAM]] - January 31, 1963 - mentions: 32
+- [[../documents/ornl-3529.md|ORNL-3529]] - July 31, 1963 - ORNL-3529 - mentions: 20
+- [[../documents/ornl-tm-732.md|![](images/c93d2ea0e38986fcb933700de987cad349cfc93caea4b5fa0e5643ceba8d3ed2.jpg)]] - 1964 - ORNL-TM-728 - mentions: 30
+- [[../documents/ornl-3594.md|ORNL-3594]] - 1964 - ORNL-3594 - mentions: 2
+- [[../documents/ornl-3661.md|ORNL-3661]] - 1964 - ORNL-3661 - mentions: 1
+- [[../documents/ornl-tm-730.md|ORNL-TM-730]] - 1964 - ORNL-TM-730 - mentions: 12
+- [[../documents/ornl-3626.md|ORNL-3626 UCA-80- Reactor Technology TID-4500 (31st ed.)]] - January 31, 1964 - ORNL-3626 - mentions: 48
+- [[../documents/ornl-tm-2111.md|![](images/14fa924941b3e01aa158371a5df27ce53f445b01fd03f2d7a44726594d383ba4.jpg)]] - July 1964 - ORNL-TM-728 - mentions: 1
+- [[../documents/ornl-3708.md|![](images/50503ced8a785d6711476b9d883192f94a77603d1c0894f00fd35b69e5171bf6.jpg)]] - July 31, 1964 - ORNL-3708 - mentions: 173
+- [[../documents/ornl-tm-4286.md|![](images/efcbf614eaf10c25932c7194f018f827dd8994802174e2a19b1489f8dd55aeaf.jpg)]] - July 31, 1964 - ORNL-TM-4286 - mentions: 1
+- [[../documents/ornl-tm-1023.md|![](images/30dc7f36623af345dc56c210bfd8f748949600058dd224a34a2604ef26f24853.jpg)]] - 1965 - ORNL-TM-1023 - mentions: 5
+- [[../documents/ornl-tm-908a.md|![](images/8c4a1e00f993da403ce9ac9cd689c395b5e6b5f83823f9c7e4e8f3aa165653cc.jpg)]] - 1965 - ORNL-TM-728 - mentions: 1
+- [[../documents/ornl-tm-907.md|![](images/960b792ce49a20c914f3c163ccd8f4f3d4bf050db74709272f3d285cfe468bcd.jpg)]] - 1965 - ORNL-TM-907 - mentions: 3
+- [[../documents/ornl-tm-1017.md|ORNL-TM-1017]] - 1965 - ORNL-TM-1017 - mentions: 33
+- [[../documents/ornl-tm-728.md|ORNL-TM-728]] - 1965 - ORNL-TM-728 - mentions: 113
+- [[../documents/ornl-3812.md|ORNL-3812]] - February 28, 1965 - ORNL-3812 - mentions: 84
+- [[../documents/ornl-4233.md|![](images/0f2d097e1999eb4eda5397e0d4a45e21a511df8614caf5dff3dffceed187533a.jpg)]] - June 1965 - ORNL-4233 - mentions: 2
+- [[../documents/ornl-tm-2578.md|CRNL-TM-2578]] - June 1, 1965 - mentions: 1
+- [[../documents/ornl-tm-1341.md|ELEVATED-TEMPERATURE MECHANICAL PROPERTIES OF WELDS]] - June 1, 1965 - mentions: 30
+- [[../documents/ornl-tm-2483.md|ORNL-TM-2483]] - June 1, 1965 - ORNL-TM-2483 - mentions: 2
+- [[../documents/ornl-tm-3041.md|ORNL-TM-3041]] - June 1, 1965 - ORNL-TM-3041 - mentions: 1
+- [[../documents/ornl-cf-65-8-32.md|DATE: August 16, 1965]] - August 16, 1965 - mentions: 2
+- [[../documents/ornl-3872.md|ORNL-3872]] - August 31, 1965 - ORNL-3872 - mentions: 44
+- [[../documents/ornl-3913.md|ORNL.3913]] - December 31, 1965 - mentions: 2
+- [[../documents/ornl-3791.md|![](images/6a88b7b49bad0c5a62a41f205f0b4223628c001b68e171f028a1a0e51b8981ff.jpg)]] - 1966 - mentions: 19
+- [[../documents/ornl-tm-911.md|OAK RIDGE NATIONAL LABORATORY]] - 1966 - ORNL-TM-911 - mentions: 10
+- [[../documents/ornl-3996.md|ORNL-3996]] - 1966 - ORNL-3996 - mentions: 2
+- [[../documents/ornl-tm-1960.md|OPERATION OF MOLTEN-SALT CONVECTION LOOPS IN THE ORR]] - August 8, 1966 - mentions: 2
+- [[../documents/ornl-4037.md|ORNL-4037]] - August 31, 1966 - ORNL-4037 - mentions: 4
+- [[../documents/fuel-properties-and-nuclear-performance-of-fast-reactors-fueled-with-molten-chlorides.md|FUEL PROPERTIES AND NUCLEAR PERFORMANCE OF FAST REACTORS FUELED WITH MOLTEN CHLORIDES]] - December 9, 1966 - mentions: 1
+- [[../documents/ornl-tm-1545.md|CFSTI PRICS]] - 1967 - ORNL-TM-1545 - mentions: 1
+- [[../documents/ornl-tm-1854.md|ORNL-TM-1854]] - 1967 - ORNL-TM-1854 - mentions: 1
+- [[../documents/cf-56-8-204.md|M. TAUBE, M. MIELCARSKI, S. POTURAJ-GUTNIAK and A. KOWALEW Institute of Nuclear Research, Warsaw, Žerań, Poland]] - February 1967 - CF-56-8-204 - mentions: 1
+- [[../documents/ornl-4119.md|ORNL-4119]] - February 28, 1967 - ORNL-4119 - mentions: 2
+- [[../documents/ornl-tm-3595.md|ORNL-TM-3595]] - June 1967 - ORNL-TM-3595 - mentions: 5
+- [[../documents/ornl-tm-1907.md|![](images/34bb9e56fb2ff2e098370f69d7c7f8a1148530ea5b8bb483cd170f3b1c6c0140.jpg)]] - July 21, 1967 - ORNL-TM-1907 - mentions: 7
+- [[../documents/ornl-tm-1946.md|![](images/5a83f5d8dd8391206164d810965398f34261c54ef5391fe8eb9338e1be1ea356.jpg)]] - August 16, 1967 - ORNL-TM-1946 - mentions: 2
+- [[../documents/ornl-4191.md|ORNL-4191]] - August 31, 1967 - ORNL-4191 - mentions: 1
+- [[../documents/ornl-tm-3145.md|ORNL-TM-3145]] - September 1967 - ORNL-TM-3145 - mentions: 2
+- [[../documents/ornl-tm-907rev.md|![](images/d56773f4d2dc0acebada6d8804aec01e6287af75ce5bc3db3e92b839fbcddbdd.jpg)]] - December 28, 1967 - ORNL-TM-907 - mentions: 3
+- [[../documents/ornl-tm-2213.md|ORNL TM-2213]] - 1968 - mentions: 2
+- [[../documents/ornl-tm-729a.md|ORNL-TM-729, Part II A]] - 1968 - ORNL-TM-729 - mentions: 2
+- [[../documents/ornl-4254.md|ORNL-4254]] - February 29, 1968 - ORNL-4254 - mentions: 2
+- [[../documents/ornl-tm-3141.md|![](images/c5e87338712dcc44c6589519e8f64eb28633941075e2834073cfb39af3caccb3.jpg)]] - March 1968 - ORNL-TM-314 - mentions: 1
+- [[../documents/ornl-tm-2953.md|![](images/046cf1b425f1e69411b3ea1754bda49148c10254a65e54afc873e28d3e018364.jpg)]] - July 15, 1968 - ORNL-TM-2953 - mentions: 1
+- [[../documents/ornl-4344.md|ORNL-4344]] - August 31, 1968 - ORNL-4344 - mentions: 1
+- [[../documents/ornl-tm-2696.md|![](images/c9c56a5050b308189d21a1a66f8e1e25bf85df050eea34e2be76f0b316de50ae.jpg)]] - 1969 - mentions: 2
+- [[../documents/oak-ridge-national-laboratory.md|OAK RIDGE NATIONAL LABORATORY]] - 1969 - mentions: 31
+- [[../documents/ornl-4389.md|ORNL-4389]] - 1969 - ORNL-4389 - mentions: 2
+- [[../documents/ornl-tm-2780.md|ORNL-TM-2780]] - 1969 - ORNL-TM-2780 - mentions: 1
+- [[../documents/experience-with-the-molten-salt-reactor-experiment.md|EXPERIENCE WITH THE MOLTEN-SALT REACTOR EXPERIMENT]] - August 4, 1969 - mentions: 1
+- [[../documents/molten-salt-reactors-history-status-and-potential.md|MOLTEN-SALT REACTORS-HISTORY, STATUS, AND POTENTIAL]] - August 4, 1969 - mentions: 1
+- [[../documents/ornl-tm-4174.md|![](images/78fa4ec143a56641acc686f2b68602b2eebec316a136556023225ec09544b0e4.jpg)]] - December 1969 - ORNL-TM-1997 - mentions: 107
+- [[../documents/ornl-tm-3039.md|ORNL-TM-3039]] - December 1969 - ORNL-TM-3039 - mentions: 8
+- [[../documents/ornl-4548.md|ORNL-4548]] - February 28, 1970 - ORNL-4548 - mentions: 1
+- [[../documents/ornl-cf-70-3-2.md|DATE: March 2, 1970]] - March 2, 1970 - ORNL-TM-2894 - mentions: 3
+- [[../documents/ornl-tm-4802.md|The Molten-Salt Reactor Information System]] - June 1970 - ORNL-TM-4802 - mentions: 1
+- [[../documents/ornl-cf-70-9-3.md|COPY NO.]] - September 1, 1970 - mentions: 4
+- [[../documents/ornl-4541.md|ORNL-4541]] - 1971 - ORNL-4541 - mentions: 2
+- [[../documents/ornl-4574.md|ORNL-4574]] - 1971 - ORNL-4574 - mentions: 5
+- [[../documents/ornl-4658.md|ORNL-4658]] - 1971 - ORNL-4658 - mentions: 1
+- [[../documents/ornl-tm-2952.md|ORNL-TM-2952]] - 1971 - ORNL-TM-2952 - mentions: 2
+- [[../documents/ornl-4676.md|![](images/dd79b2ea7a269e4e2bdbdad98b315218b184c677fbd7fe6c21a5f930248bbf2e.jpg)]] - February 28, 1971 - ORNL-4676 - mentions: 2
+- [[../documents/ornl-cf-71-8-10.md|![](images/d932c9230f16a5826251a6cef8c31b83e258692da125cef43f73926b0c64ce50.jpg)]] - August 6, 1971 - ORNL-TM-2316 - mentions: 2
+- [[../documents/ornl-tm-4221.md|![](images/4def40acd6d680198cb3ed2037ba9340a633cde159d492c8236fdab26cd90898.jpg)]] - 1972 - mentions: 1
+- [[../documents/ornl-tm-729b.md|![](images/bd0e590860934051f779e249050f37a09d2a097cccb825dcab2d262da64b6af1.jpg)]] - 1972 - mentions: 26
+- [[../documents/ornl-4829.md|![](images/fd86e3ca7a94a108a1d0fd05c8d5edbb95254ede66d82d0fe56d1857fd218305.jpg)]] - 1972 - ORNL-4829 - mentions: 128
+- [[../documents/ornl-tm-3151.md|ORNL-TM-3151]] - 1972 - ORNL-TM-3151 - mentions: 2
+- [[../documents/ornl-4782.md|MOLTEN-SALT REACTOR PROGRAM]] - February 29, 1972 - ORNL-2474 - mentions: 1
+- [[../documents/ornl-4812.md|The Development Status of]] - August 1972 - ORNL-4812 - mentions: 3
+- [[../documents/ornl-tm-3939.md|MSR COMPONENT REPLACEMENTS USING REMOTE CUTTING AND WELDING TECHNIQUES]] - December 1972 - ORNL-TM-3561 - mentions: 2
+- [[../documents/nd-74-66.md|JAN 10 1975]] - January 31, 1973 - ND/71/66 - mentions: 6
+- [[../documents/ornl-5018.md|![](images/96c48f13787c31854c9814da24c925e11be9013ba9fe9d693aa56a180614d0c1.jpg)]] - 1974 - ORNL-5018 - mentions: 2
+- [[../documents/ornl-5132.md|![](images/d06517328823504576c5fcd7ace4c6cff5e8189745eaac1344265330e4180ef8.jpg)]] - February 29, 1976 - ORNL-2474 - mentions: 1
+- [[../documents/ornl-tm-7207.md|ORNL/TM-7207]] - October 28, 1976 - mentions: 1
+- [[../documents/ornl-tm-5335.md|ORNL/TM-5335]] - November 10, 1976 - mentions: 1
+- [[../documents/ornl-cf-77-391.md|OAK RIDGE NATIONAL LABORATORY]] - August 25, 1977 - mentions: 36
+- [[../documents/ornl-tm-6002.md|Status of Tellurium-Hastelloy N Studies in Mollen Fluoride Salts]] - October 1977 - mentions: 1
+- [[../documents/chapter-14.md|CHAPTER 14]] - 1981 - mentions: 5
+- [[../documents/ornl-tm-9756.md|ORNL/TM-9756]] - September 1985 - mentions: 6
+- [[../documents/ornl-tm-12925.md|OAK RIDGE NATIONAL LABORATORY]] - March 1995 - mentions: 1
+- [[../documents/ornl-2840.md|![](images/5b749ff087384a6cd1d37ce3213610645a94a0a690a19ed1d5dee122aa3ebbd0.jpg)]] - December 21, 2015 - ORNL-2840 - mentions: 5
+- [[../documents/chapter-13.md|CHAPTER 13]] - mentions: 60
+- [[../documents/ornl-tm-80.md|LABORATORY-SCALE DEMONSTRATION OF THE FUSED SALT VOLATILITY PROCESS]] - ORNL-2548 - mentions: 1
+- [[../documents/ornl-tm-1853.md|OAK RIDGE NATIONAL LABORATORY]] - ORNL-TM-1853 - mentions: 2
+- [[../documents/ornl-3253.md|ORNL-3253]] - ORNL-3253 - mentions: 19
+- [[../documents/ornl-tm-78.md|ORNL-TM-78]] - ORNL-TM-78 - mentions: 12
+- [[../documents/parti-index.md|PARTI INDEX]] - mentions: 28

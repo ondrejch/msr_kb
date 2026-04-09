@@ -1,0 +1,460 @@
+{
+  "authors": [
+    "Observed Amounts",
+    "TO: R.B.Briggs",
+    "FROM: P. N. Haubenreich",
+    "Keywords: tritium",
+    "Page"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-70-2-7.jsonl",
+  "date_text": "February 4, 1970",
+  "doc_id": "ornl-cf-70-2-7",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 5,
+        "line_hits": [
+          226,
+          248,
+          257,
+          267,
+          271
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          226,
+          232
+        ],
+        "name": "nickel"
+      }
+    ],
+    "component": [
+      {
+        "count": 7,
+        "line_hits": [
+          154,
+          205,
+          207,
+          226,
+          232,
+          267,
+          303
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          201,
+          203,
+          207,
+          277
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          177,
+          180,
+          236
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          126,
+          128,
+          246
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          154
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          205
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          327
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 3,
+        "line_hits": [
+          164,
+          196,
+          301
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          297,
+          299
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 24,
+        "line_hits": [
+          5,
+          13,
+          15,
+          61,
+          63,
+          72,
+          82,
+          90,
+          92,
+          94,
+          96,
+          100,
+          102,
+          106,
+          114,
+          116,
+          167,
+          192,
+          199,
+          201,
+          230,
+          297,
+          299,
+          301
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          13,
+          63,
+          96,
+          98,
+          100,
+          110,
+          114,
+          122,
+          162,
+          184,
+          188,
+          232,
+          236,
+          248,
+          271,
+          279,
+          283,
+          317,
+          341,
+          363
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          92,
+          112,
+          114,
+          116,
+          118
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "d1e999eedcf3b378295e75a199c7931405041ff40f3416eaeccff2f61cf35784",
+  "markdown_path": "pdf/ORNL-CF-70-2-7/ORNL-CF-70-2-7/hybrid_ocr/ORNL-CF-70-2-7.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 35,
+  "sections": [
+    {
+      "anchor": "copy-no-51",
+      "end_line": 10,
+      "heading": "Copy No. 51",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 18,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "contents",
+      "end_line": 20,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "page",
+      "end_line": 22,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 24,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "introduction-5",
+      "end_line": 26,
+      "heading": "Introduction 5",
+      "level": 2,
+      "start_line": 25
+    },
+    {
+      "anchor": "calculated-production-rates-5",
+      "end_line": 38,
+      "heading": "Calculated Production Rates. 5",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "observed-amounts-13",
+      "end_line": 52,
+      "heading": "Observed Amounts 13",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "safety-considerations-31",
+      "end_line": 54,
+      "heading": "Safety Considerations. 31",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "conclusions-32",
+      "end_line": 56,
+      "heading": "Conclusions. 32",
+      "level": 2,
+      "start_line": 55
+    },
+    {
+      "anchor": "appendix-35",
+      "end_line": 58,
+      "heading": "Appendix 35",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 64,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 59
+    },
+    {
+      "anchor": "calculated-production-rates",
+      "end_line": 66,
+      "heading": "CALCULATED PRODUCTION RATES",
+      "level": 1,
+      "start_line": 65
+    },
+    {
+      "anchor": "fission-product",
+      "end_line": 73,
+      "heading": "Fission Product",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "lithium-in-fuel-salt",
+      "end_line": 123,
+      "heading": "Lithium in Fuel Salt",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "coolant-salt",
+      "end_line": 129,
+      "heading": "Coolant Salt",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "thermal-insulation-around-reactor-vessel",
+      "end_line": 143,
+      "heading": "Thermal Insulation around Reactor Vessel",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "treated-water-system",
+      "end_line": 149,
+      "heading": "Treated Water System",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "observed-amounts",
+      "end_line": 151,
+      "heading": "OBSERVED AMOUNTS",
+      "level": 1,
+      "start_line": 150
+    },
+    {
+      "anchor": "containment-cell-condensate",
+      "end_line": 163,
+      "heading": "Containment Cell Condensate",
+      "level": 1,
+      "start_line": 152
+    },
+    {
+      "anchor": "ornl-dwg-70-1590",
+      "end_line": 168,
+      "heading": "Ornl Dwg. 70-1590",
+      "level": 2,
+      "start_line": 164
+    },
+    {
+      "anchor": "table-2",
+      "end_line": 185,
+      "heading": "Table 2",
+      "level": 1,
+      "start_line": 169
+    },
+    {
+      "anchor": "accumulation-in-treated-water",
+      "end_line": 189,
+      "heading": "Accumulation in Treated Water",
+      "level": 1,
+      "start_line": 186
+    },
+    {
+      "anchor": "fuel-salt-offgas",
+      "end_line": 195,
+      "heading": "Fuel Salt Offgas",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "ornl-dwg-70-1591",
+      "end_line": 210,
+      "heading": "Ornl Dwg. 70-1591",
+      "level": 2,
+      "start_line": 196
+    },
+    {
+      "anchor": "table-3",
+      "end_line": 227,
+      "heading": "Table 3",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "coolant-salt-offgas",
+      "end_line": 233,
+      "heading": "Coolant Salt Offgas",
+      "level": 1,
+      "start_line": 228
+    },
+    {
+      "anchor": "containment-cell-exhaust",
+      "end_line": 243,
+      "heading": "Containment Cell Exhaust",
+      "level": 1,
+      "start_line": 234
+    },
+    {
+      "anchor": "radiator-cooling-air",
+      "end_line": 294,
+      "heading": "Radiator Cooling Air",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "safety-considerations",
+      "end_line": 304,
+      "heading": "SAFETY CONSIDERATIONS",
+      "level": 1,
+      "start_line": 295
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 328,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 305
+    },
+    {
+      "anchor": "appendix",
+      "end_line": 330,
+      "heading": "APPENDIX",
+      "level": 1,
+      "start_line": 329
+    },
+    {
+      "anchor": "analysis-of-fuel-offgas-data",
+      "end_line": 334,
+      "heading": "Analysis of Fuel Offgas Data",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "first-approximation",
+      "end_line": 364,
+      "heading": "First Approximation",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "discussion",
+      "end_line": 369,
+      "heading": "Discussion",
+      "level": 1,
+      "start_line": 365
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-70-2-7",
+  "tables": [],
+  "title": "DATE: February 4, 1970",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "materials-and-corrosion",
+    "program-history"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

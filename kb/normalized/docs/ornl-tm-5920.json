@@ -1,0 +1,719 @@
+{
+  "authors": [
+    "H.E.McCoy",
+    "Jr.",
+    "POHOTELINSHENGTEPHANDENSHENG",
+    "H. E. McCoy"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-5920.jsonl",
+  "date_text": "January 1978",
+  "doc_id": "ornl-tm-5920",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 52,
+        "line_hits": [
+          110,
+          118,
+          128,
+          144,
+          151,
+          165,
+          167,
+          170,
+          209,
+          217,
+          223,
+          242,
+          246,
+          250,
+          253,
+          256,
+          266,
+          270,
+          274,
+          279,
+          282,
+          285,
+          317,
+          330,
+          334,
+          338,
+          345,
+          347,
+          352,
+          355,
+          366,
+          369,
+          385,
+          398,
+          416,
+          446,
+          464,
+          465,
+          476,
+          483,
+          510,
+          514,
+          518,
+          521,
+          534,
+          538,
+          542,
+          544,
+          546,
+          548
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          343,
+          345,
+          347,
+          359,
+          381,
+          427,
+          446,
+          448,
+          465
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          227,
+          266,
+          279,
+          330,
+          381,
+          425,
+          448,
+          464,
+          544
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          132,
+          174,
+          188,
+          193,
+          227,
+          463,
+          546
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          385,
+          398,
+          416,
+          476,
+          483,
+          546
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          217,
+          242,
+          253,
+          256,
+          282,
+          285
+        ],
+        "name": "titanium-modified Hastelloy-N"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          385,
+          398,
+          416,
+          476,
+          546
+        ],
+        "name": "Inconel 600"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          476,
+          483,
+          546
+        ],
+        "name": "Inconel 601"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          116,
+          199,
+          222
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          144
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          278
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          155
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 1,
+        "line_hits": [
+          118
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 21,
+        "line_hits": [
+          15,
+          33,
+          128,
+          146,
+          161,
+          167,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          227,
+          229,
+          276,
+          277,
+          279,
+          349,
+          563,
+          564
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          39
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 34,
+        "line_hits": [
+          114,
+          124,
+          128,
+          142,
+          153,
+          174,
+          186,
+          250,
+          266,
+          270,
+          274,
+          282,
+          285,
+          290,
+          315,
+          338,
+          345,
+          347,
+          381,
+          385,
+          425,
+          427,
+          434,
+          452,
+          463,
+          465,
+          472,
+          474,
+          479,
+          483,
+          516,
+          538,
+          546,
+          548
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          114,
+          116,
+          118,
+          128,
+          165,
+          167,
+          170,
+          186,
+          199,
+          483
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          116,
+          124,
+          142,
+          188,
+          219,
+          521,
+          534
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 6,
+        "line_hits": [
+          116,
+          207,
+          209,
+          277,
+          446,
+          470
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          128,
+          186,
+          223,
+          266
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          277
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          277
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          277
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          277
+        ],
+        "name": "UF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "6603b64f8b6254b6019bbf7df9441b47c92d59b0f63c65b78b208f7420323685",
+  "markdown_path": "pdf/ORNL-TM-5920/ORNL-TM-5920/hybrid_ocr/ORNL-TM-5920.md",
+  "report_number": "ORNL-5132",
+  "report_numbers": [
+    "ORNL-5132",
+    "ORNL-5047"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 48,
+  "sections": [
+    {
+      "anchor": "status-of-materials-development-for-molen-salt-reactors",
+      "end_line": 4,
+      "heading": "Status of Materials Development for Molen Salt Reactors",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "citation-news-literature-historycomputer-technology-internet-bioinformation",
+      "end_line": 6,
+      "heading": "Citation News Literature Historycomputer Technology (Internet) (Bioinformation)",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "libertarloflore80",
+      "end_line": 8,
+      "heading": "Libertarloflore80",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "pohotelinshengtephandensheng",
+      "end_line": 14,
+      "heading": "Pohotelinshengtephandensheng",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 18,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 20,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "status-of-materials-development-for-molten-salt-reactors",
+      "end_line": 32,
+      "heading": "STATUS OF MATERIALS DEVELOPMENT FOR MOLTEN SALT REACTORS",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 38,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 42,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "department-of-energy",
+      "end_line": 46,
+      "heading": "Department Of Energy",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "contents",
+      "end_line": 48,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 47
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 49,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 50,
+      "heading": "Introduction 1",
+      "level": 2,
+      "start_line": 50
+    },
+    {
+      "anchor": "development-strategy-2",
+      "end_line": 56,
+      "heading": "Development Strategy 2",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "status-of-development-8",
+      "end_line": 82,
+      "heading": "Status Of Development 8",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "overall-assessment-30",
+      "end_line": 84,
+      "heading": "Overall Assessment 30",
+      "level": 2,
+      "start_line": 83
+    },
+    {
+      "anchor": "acknowledgment-31",
+      "end_line": 103,
+      "heading": "Acknowledgment 31",
+      "level": 2,
+      "start_line": 85
+    },
+    {
+      "anchor": "status-of-materials-development-for-molten-salt-reactors",
+      "end_line": 107,
+      "heading": "STATUS OF MATERIALS DEVELOPMENT FOR MOLTEN SALT REACTORS",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 111,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 108
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 125,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 112
+    },
+    {
+      "anchor": "development-strategy",
+      "end_line": 129,
+      "heading": "DEVELOPMENT STRATEGY",
+      "level": 1,
+      "start_line": 126
+    },
+    {
+      "anchor": "irradiation-embrittlement",
+      "end_line": 162,
+      "heading": "Irradiation Embrittlement",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "tellurium-embrittlement-alloy-modification",
+      "end_line": 196,
+      "heading": "Tellurium Embrittlement-Alloy Modification",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "tellurium-embrittlement-salt-modification",
+      "end_line": 210,
+      "heading": "Tellurium Embrittlement--Salt Modification",
+      "level": 1,
+      "start_line": 197
+    },
+    {
+      "anchor": "status-of-development",
+      "end_line": 212,
+      "heading": "STATUS OF DEVELOPMENT",
+      "level": 1,
+      "start_line": 211
+    },
+    {
+      "anchor": "irradiation-embrittlement-2-ti-modified-alloy",
+      "end_line": 214,
+      "heading": "Irradiation Embrittlement- $2\\%$ -Ti-Modified Alloy",
+      "level": 1,
+      "start_line": 213
+    },
+    {
+      "anchor": "fabrication",
+      "end_line": 243,
+      "heading": "Fabrication",
+      "level": 1,
+      "start_line": 215
+    },
+    {
+      "anchor": "weldability",
+      "end_line": 247,
+      "heading": "Weldability",
+      "level": 1,
+      "start_line": 244
+    },
+    {
+      "anchor": "creep-strength",
+      "end_line": 257,
+      "heading": "Creep Strength",
+      "level": 1,
+      "start_line": 248
+    },
+    {
+      "anchor": "alloy-stability",
+      "end_line": 263,
+      "heading": "Alloy Stability",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "salt-corrosion",
+      "end_line": 267,
+      "heading": "Salt Corrosion",
+      "level": 1,
+      "start_line": 264
+    },
+    {
+      "anchor": "postirradiation-mechanical-properties",
+      "end_line": 271,
+      "heading": "Postirradiation Mechanical Properties",
+      "level": 1,
+      "start_line": 268
+    },
+    {
+      "anchor": "microstructural-features",
+      "end_line": 325,
+      "heading": "Microstructural Features",
+      "level": 1,
+      "start_line": 272
+    },
+    {
+      "anchor": "irradiation-embrittlement-nb-modified-alloys",
+      "end_line": 327,
+      "heading": "Irradiation Embrittlement-Nb-modified Alloys",
+      "level": 1,
+      "start_line": 326
+    },
+    {
+      "anchor": "fabrication",
+      "end_line": 331,
+      "heading": "Fabrication",
+      "level": 1,
+      "start_line": 328
+    },
+    {
+      "anchor": "weldability",
+      "end_line": 335,
+      "heading": "Weldability",
+      "level": 1,
+      "start_line": 332
+    },
+    {
+      "anchor": "creep-strength",
+      "end_line": 348,
+      "heading": "Creep Strength",
+      "level": 1,
+      "start_line": 336
+    },
+    {
+      "anchor": "ornl-dwg-77-5145",
+      "end_line": 356,
+      "heading": "Ornl-Dwg 77-5145",
+      "level": 2,
+      "start_line": 349
+    },
+    {
+      "anchor": "salt-corrosion",
+      "end_line": 360,
+      "heading": "Salt Corrosion",
+      "level": 1,
+      "start_line": 357
+    },
+    {
+      "anchor": "microstructural-features",
+      "end_line": 374,
+      "heading": "Microstructural Features",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "irradiation-embrittlement-ti-nb-modified-alloys",
+      "end_line": 382,
+      "heading": "Irradiation Embrittlement-Ti/Nb-modified Alloys",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "tellurium-embrittlement-screening-tests-on-ti-nb-modified-alloys",
+      "end_line": 467,
+      "heading": "Tellurium Embrittlement Screening Tests on Ti/Nb-modified Alloys",
+      "level": 1,
+      "start_line": 383
+    },
+    {
+      "anchor": "tellurium-embrittlement-in-reactor-capsules",
+      "end_line": 511,
+      "heading": "Tellurium Embrittlement--In-reactor Capsules",
+      "level": 1,
+      "start_line": 468
+    },
+    {
+      "anchor": "tellurium-embrittlement-chemical-equilibria",
+      "end_line": 535,
+      "heading": "Tellurium Embrittlement...Chemical Equilibria",
+      "level": 1,
+      "start_line": 512
+    },
+    {
+      "anchor": "overall-assessment",
+      "end_line": 553,
+      "heading": "OVERALL ASSESSMENT",
+      "level": 1,
+      "start_line": 536
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 557,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 554
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 650,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 558
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 656,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 651
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-5920",
+  "tables": [],
+  "title": "Status of Materials Development for Molen Salt Reactors",
+  "topics": [
+    "materials-and-corrosion",
+    "irradiation-and-damage",
+    "salt-chemistry-and-redox",
+    "reactor-physics-neutronics",
+    "off-gas-fission-products-and-tritium",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": []
+}

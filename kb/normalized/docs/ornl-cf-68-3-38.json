@@ -1,0 +1,295 @@
+{
+  "authors": [
+    "TO: M. W. Rosenthal",
+    "E. S. Bettis",
+    "FROM: W. L. Carter",
+    "COPY NO.",
+    "INTRODUCTION",
+    "METHOD OF CALCULATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-68-3-38.jsonl",
+  "date_text": "March 25, 1968",
+  "doc_id": "ornl-cf-68-3-38",
+  "document_type": "document",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          45,
+          59
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          132
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          132
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          13,
+          61
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          13,
+          47
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          45
+        ],
+        "name": "graphite moderator"
+      }
+    ],
+    "organization": [
+      {
+        "count": 2,
+        "line_hits": [
+          222,
+          232
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          373
+        ],
+        "name": "ORNL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 21,
+        "line_hits": [
+          13,
+          23,
+          29,
+          35,
+          45,
+          47,
+          49,
+          61,
+          65,
+          71,
+          73,
+          116,
+          126,
+          130,
+          132,
+          136,
+          142,
+          152,
+          153,
+          167,
+          168
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          45,
+          47
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 3,
+        "line_hits": [
+          13,
+          19,
+          41
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "LiF-BeF2-ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          41
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a9f00802a863fd5137d271195ca63a2da898a213e7e64d3aa35fc6ca4b32a135",
+  "markdown_path": "pdf/ORNL-CF-68-3-38/ORNL-CF-68-3-38/hybrid_ocr/ORNL-CF-68-3-38.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 16,
+  "sections": [
+    {
+      "anchor": "copy-no",
+      "end_line": 10,
+      "heading": "Copy No.",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 14,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 32,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 15
+    },
+    {
+      "anchor": "method-of-calculation",
+      "end_line": 36,
+      "heading": "METHOD OF CALCULATION",
+      "level": 1,
+      "start_line": 33
+    },
+    {
+      "anchor": "characteristics-of-the-reactor",
+      "end_line": 42,
+      "heading": "CHARACTERISTICS OF THE REACTOR",
+      "level": 1,
+      "start_line": 37
+    },
+    {
+      "anchor": "average-lifetimes-of-noble-gases-and-noble-metals",
+      "end_line": 48,
+      "heading": "AVERAGE LIFETIMES OF NOBLE GASES AND NOBLE METALS",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "reactor-operating-conditions-for-which-decay-heat-rates-are-computed",
+      "end_line": 50,
+      "heading": "REACTOR OPERATING CONDITIONS FOR WHICH DECAY HEAT RATES ARE COMPUTED",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "fission-products",
+      "end_line": 62,
+      "heading": "Fission Products",
+      "level": 1,
+      "start_line": 51
+    },
+    {
+      "anchor": "protactinium",
+      "end_line": 66,
+      "heading": "Protactinium",
+      "level": 1,
+      "start_line": 63
+    },
+    {
+      "anchor": "discussion-of-results",
+      "end_line": 68,
+      "heading": "DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "comparison-of-cases-1-2-and-3",
+      "end_line": 123,
+      "heading": "Comparison of Cases 1, 2, and 3",
+      "level": 1,
+      "start_line": 69
+    },
+    {
+      "anchor": "233pa-inventory-and-heat-generation",
+      "end_line": 127,
+      "heading": "233Pa Inventory and Heat Generation",
+      "level": 1,
+      "start_line": 124
+    },
+    {
+      "anchor": "distribution-of-decay-heat-among-fission-products",
+      "end_line": 133,
+      "heading": "Distribution of Decay Heat Among Fission Products",
+      "level": 1,
+      "start_line": 128
+    },
+    {
+      "anchor": "additional-data",
+      "end_line": 169,
+      "heading": "Additional Data",
+      "level": 1,
+      "start_line": 134
+    },
+    {
+      "anchor": "references",
+      "end_line": 177,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 170
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 373,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 178
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-68-3-38",
+  "tables": [],
+  "title": "DATE: March 25, 1968",
+  "topics": [
+    "off-gas-fission-products-and-tritium",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "fuel-processing-and-reprocessing",
+    "aircraft-nuclear-propulsion",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-physics-neutronics",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

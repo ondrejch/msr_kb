@@ -1,0 +1,1952 @@
+{
+  "authors": [
+    "EXTERNAL TRANSMITTAL AUTHORIZATION",
+    "ORNL",
+    "Central Files Number",
+    "MOLTEN-SALT REACTOR EXPERIMENT",
+    "NOTICE",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-cf-61-2-46.jsonl",
+  "date_text": "February 28, 1961",
+  "doc_id": "ornl-cf-61-2-46",
+  "document_type": "report",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 73,
+        "line_hits": [
+          63,
+          65,
+          178,
+          234,
+          246,
+          263,
+          308,
+          310,
+          320,
+          338,
+          383,
+          385,
+          391,
+          393,
+          395,
+          397,
+          407,
+          411,
+          594,
+          600,
+          602,
+          611,
+          682,
+          814,
+          848,
+          851,
+          854,
+          856,
+          858,
+          860,
+          862,
+          864,
+          866,
+          870,
+          872,
+          878,
+          902,
+          1167,
+          1172,
+          1173,
+          1174,
+          1184,
+          1190,
+          1194,
+          1222,
+          1290,
+          1322,
+          1324,
+          1326,
+          1332
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 44,
+        "line_hits": [
+          65,
+          245,
+          360,
+          362,
+          364,
+          397,
+          411,
+          431,
+          451,
+          478,
+          504,
+          743,
+          902,
+          933,
+          967,
+          1080,
+          1088,
+          1103,
+          1135,
+          1368,
+          1370,
+          1372,
+          1374,
+          1376,
+          1378,
+          1382,
+          1386,
+          1488,
+          1490,
+          1517,
+          1519,
+          1535,
+          1537,
+          1539,
+          1551,
+          1561,
+          1571,
+          1629,
+          1641,
+          1647,
+          1649,
+          1683,
+          2144,
+          2158
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          220,
+          222,
+          1019,
+          1021,
+          1023,
+          1025,
+          1027,
+          1080
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          65,
+          360,
+          1101,
+          1103,
+          1143,
+          1159,
+          1488
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          65,
+          360,
+          393,
+          866,
+          868,
+          1488
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          522,
+          876,
+          921
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          522
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 47,
+        "line_hits": [
+          184,
+          185,
+          186,
+          264,
+          320,
+          322,
+          324,
+          340,
+          415,
+          417,
+          419,
+          421,
+          423,
+          427,
+          431,
+          524,
+          530,
+          546,
+          587,
+          600,
+          607,
+          617,
+          641,
+          666,
+          670,
+          674,
+          713,
+          743,
+          757,
+          810,
+          844,
+          846,
+          890,
+          892,
+          894,
+          896,
+          898,
+          941,
+          979,
+          1145,
+          1665,
+          1667,
+          1669,
+          1671,
+          1711,
+          1723,
+          1988
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 42,
+        "line_hits": [
+          101,
+          105,
+          231,
+          251,
+          326,
+          340,
+          482,
+          484,
+          486,
+          490,
+          494,
+          500,
+          502,
+          504,
+          506,
+          508,
+          512,
+          514,
+          524,
+          542,
+          566,
+          641,
+          674,
+          715,
+          759,
+          808,
+          810,
+          842,
+          910,
+          917,
+          919,
+          921,
+          959,
+          1354,
+          1358,
+          1406,
+          1428,
+          1468,
+          1470,
+          1589,
+          1597,
+          2172
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 24,
+        "line_hits": [
+          95,
+          249,
+          265,
+          320,
+          322,
+          342,
+          436,
+          438,
+          447,
+          449,
+          566,
+          604,
+          635,
+          713,
+          757,
+          771,
+          846,
+          898,
+          1103,
+          1681,
+          1683,
+          1711,
+          1988,
+          1990
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          187,
+          641,
+          757,
+          856,
+          898,
+          931,
+          1021,
+          1088,
+          1125,
+          1159,
+          1655,
+          1663,
+          1689,
+          1695,
+          2144,
+          2146
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 14,
+        "line_hits": [
+          111,
+          272,
+          344,
+          540,
+          542,
+          554,
+          619,
+          670,
+          759,
+          927,
+          929,
+          1074,
+          1685,
+          1689
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          67,
+          270,
+          271,
+          324,
+          524,
+          526,
+          536,
+          538,
+          551,
+          662,
+          666,
+          670,
+          945
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          113,
+          530,
+          544,
+          546,
+          548,
+          643,
+          810,
+          1125,
+          1691,
+          1693,
+          1695
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          310,
+          338,
+          594
+        ],
+        "name": "graphite moderator"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          73
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 46,
+        "line_hits": [
+          7,
+          21,
+          23,
+          47,
+          298,
+          310,
+          330,
+          360,
+          404,
+          426,
+          444,
+          688,
+          785,
+          798,
+          987,
+          1003,
+          1346,
+          1352,
+          1368,
+          1370,
+          1372,
+          1374,
+          1376,
+          1378,
+          1380,
+          1382,
+          1386,
+          1388,
+          1525,
+          1543,
+          1569,
+          1570,
+          1571,
+          2166,
+          2167,
+          2169,
+          2170,
+          2172,
+          2174,
+          2176,
+          2177,
+          2178,
+          2179,
+          2181,
+          2251,
+          2253
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          27,
+          53,
+          1348,
+          1350
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          31,
+          57,
+          2258
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          290
+        ],
+        "name": "Oak Ridge School of Reactor Technology"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 151,
+        "line_hits": [
+          63,
+          69,
+          71,
+          73,
+          288,
+          304,
+          312,
+          318,
+          324,
+          338,
+          342,
+          344,
+          348,
+          350,
+          362,
+          383,
+          393,
+          395,
+          399,
+          415,
+          419,
+          421,
+          423,
+          438,
+          440,
+          455,
+          459,
+          463,
+          465,
+          467,
+          469,
+          474,
+          482,
+          486,
+          490,
+          520,
+          524,
+          526,
+          542,
+          566,
+          568,
+          579,
+          585,
+          607,
+          611,
+          613,
+          623,
+          625,
+          627,
+          641
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 67,
+        "line_hits": [
+          13,
+          35,
+          63,
+          65,
+          232,
+          244,
+          246,
+          260,
+          261,
+          282,
+          300,
+          310,
+          318,
+          336,
+          348,
+          352,
+          383,
+          385,
+          447,
+          574,
+          591,
+          600,
+          617,
+          654,
+          678,
+          688,
+          700,
+          707,
+          775,
+          798,
+          818,
+          824,
+          828,
+          838,
+          858,
+          945,
+          987,
+          993,
+          1003,
+          1007,
+          1033,
+          1057,
+          1080,
+          1167,
+          1354,
+          1358,
+          1653,
+          1655,
+          1657,
+          1661
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          312,
+          688,
+          711,
+          1003,
+          1009,
+          1033,
+          1683,
+          2167
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          300,
+          705,
+          789,
+          818,
+          987,
+          1003,
+          1033,
+          1713
+        ],
+        "name": "HRE"
+      }
+    ],
+    "reactor-concept": [
+      {
+        "count": 2,
+        "line_hits": [
+          312,
+          822
+        ],
+        "name": "fluid-fuel reactor"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          350
+        ],
+        "name": "two-fluid breeder"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          9
+        ],
+        "name": "ORNL Central Files"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 16,
+        "line_hits": [
+          65,
+          354,
+          921,
+          1057,
+          1059,
+          1069,
+          1090,
+          1125,
+          1151,
+          2104,
+          2110,
+          2134,
+          2140,
+          2144,
+          2154,
+          2158
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          65,
+          360,
+          1057,
+          1107,
+          1414,
+          1428,
+          2098,
+          2106,
+          2134
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          354,
+          1090
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          354,
+          1090
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          354
+        ],
+        "name": "ThF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          354
+        ],
+        "name": "ZrF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "3115721507b5c0aaa00ab76041cb7d25640dd329dcec410370cddb8330f7640a",
+  "markdown_path": "pdf/ORNL-CF-61-2-46/ORNL-CF-61-2-46/hybrid_ocr/ORNL-CF-61-2-46.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-central-files",
+  "section_count": 172,
+  "sections": [
+    {
+      "anchor": "master-copy",
+      "end_line": 4,
+      "heading": "MASTER COPY",
+      "level": 1,
+      "start_line": 1
+    },
+    {
+      "anchor": "external-transmittal-authorization",
+      "end_line": 6,
+      "heading": "External Transmittal Authorization",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "ornl",
+      "end_line": 12,
+      "heading": "Ornl",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "molten-salt-reactor-experiment",
+      "end_line": 14,
+      "heading": "Molten-Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 13
+    },
+    {
+      "anchor": "preliminary-hazards-report",
+      "end_line": 18,
+      "heading": "Preliminary Hazards Report",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "notice",
+      "end_line": 22,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 26,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 23
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 30,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 34,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "molten-salt-reactor-experiment",
+      "end_line": 36,
+      "heading": "Molten-Salt Reactor Experiment",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "preliminary-hazards-report",
+      "end_line": 46,
+      "heading": "Preliminary Hazards Report",
+      "level": 2,
+      "start_line": 37
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 52,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 56,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 60,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 57
+    },
+    {
+      "anchor": "summary",
+      "end_line": 74,
+      "heading": "SUMMARY",
+      "level": 1,
+      "start_line": 61
+    },
+    {
+      "anchor": "contents",
+      "end_line": 147,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "4-reactor-physics-data-43",
+      "end_line": 149,
+      "heading": "4. Reactor Physics Data 43",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "5-the-reactor-complement-44",
+      "end_line": 162,
+      "heading": "5. The Reactor Complement 44",
+      "level": 1,
+      "start_line": 150
+    },
+    {
+      "anchor": "6-construction-startup-and-operation-57",
+      "end_line": 170,
+      "heading": "6. Construction, Startup, and Operation 57",
+      "level": 1,
+      "start_line": 163
+    },
+    {
+      "anchor": "7-hazards-analysis-60",
+      "end_line": 226,
+      "heading": "7. Hazards Analysis 60",
+      "level": 1,
+      "start_line": 171
+    },
+    {
+      "anchor": "appendix-80",
+      "end_line": 235,
+      "heading": "Appendix 80",
+      "level": 2,
+      "start_line": 227
+    },
+    {
+      "anchor": "references-122",
+      "end_line": 237,
+      "heading": "References 122",
+      "level": 2,
+      "start_line": 236
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 239,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 238
+    },
+    {
+      "anchor": "table-no",
+      "end_line": 253,
+      "heading": "Table No.",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 255,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 254
+    },
+    {
+      "anchor": "fig-no",
+      "end_line": 257,
+      "heading": "Fig. No.",
+      "level": 1,
+      "start_line": 256
+    },
+    {
+      "anchor": "page",
+      "end_line": 285,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 258
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 291,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 286
+    },
+    {
+      "anchor": "s-e-beall",
+      "end_line": 295,
+      "heading": "S. E. Beall",
+      "level": 1,
+      "start_line": 292
+    },
+    {
+      "anchor": "1-introduction",
+      "end_line": 313,
+      "heading": "1. INTRODUCTION",
+      "level": 1,
+      "start_line": 296
+    },
+    {
+      "anchor": "2-reactor-complex",
+      "end_line": 315,
+      "heading": "2. REACTOR COMPLEX",
+      "level": 1,
+      "start_line": 314
+    },
+    {
+      "anchor": "2-1-general-description",
+      "end_line": 327,
+      "heading": "2.1 General Description",
+      "level": 1,
+      "start_line": 316
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 329,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 328
+    },
+    {
+      "anchor": "ornl-lr-dwg56870",
+      "end_line": 345,
+      "heading": "Ornl-Lr-Dwg56870",
+      "level": 2,
+      "start_line": 330
+    },
+    {
+      "anchor": "2-2-fuel-and-materials",
+      "end_line": 388,
+      "heading": "2.2 Fuel and Materials",
+      "level": 1,
+      "start_line": 346
+    },
+    {
+      "anchor": "2-3-reactor-vessel",
+      "end_line": 403,
+      "heading": "2.3 Reactor Vessel",
+      "level": 1,
+      "start_line": 389
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-56874",
+      "end_line": 412,
+      "heading": "Unclassified Ornl-Lr-Dwg 56874",
+      "level": 2,
+      "start_line": 404
+    },
+    {
+      "anchor": "2-4-reactor-and-coolant-system-pumps",
+      "end_line": 425,
+      "heading": "2.4 Reactor and Coolant-System Pumps",
+      "level": 1,
+      "start_line": 413
+    },
+    {
+      "anchor": "unclassified-ornl-lr-dwg-56876",
+      "end_line": 435,
+      "heading": "Unclassified Ornl-Lr-Dwg 56876",
+      "level": 2,
+      "start_line": 426
+    },
+    {
+      "anchor": "2-5-primary-heat-exchanger",
+      "end_line": 441,
+      "heading": "2.5 Primary Heat Exchanger",
+      "level": 1,
+      "start_line": 436
+    },
+    {
+      "anchor": "unclassified",
+      "end_line": 443,
+      "heading": "Unclassified",
+      "level": 2,
+      "start_line": 442
+    },
+    {
+      "anchor": "ornl-lr-dwg-52036",
+      "end_line": 452,
+      "heading": "Ornl-Lr-Dwg 52036",
+      "level": 2,
+      "start_line": 444
+    },
+    {
+      "anchor": "2-6-salt-to-air-radiator",
+      "end_line": 479,
+      "heading": "2.6 Salt-to-Air Radiator",
+      "level": 1,
+      "start_line": 453
+    },
+    {
+      "anchor": "2-7-drain-and-storage-tanks",
+      "end_line": 483,
+      "heading": "2.7 Drain and Storage Tanks",
+      "level": 1,
+      "start_line": 480
+    },
+    {
+      "anchor": "2-7-1-fuel-drain-tanks",
+      "end_line": 491,
+      "heading": "2.7.1 Fuel Drain Tanks",
+      "level": 1,
+      "start_line": 484
+    },
+    {
+      "anchor": "2-7-2-flush-salt-tank",
+      "end_line": 505,
+      "heading": "2.7.2. Flush-Salt Tank",
+      "level": 1,
+      "start_line": 492
+    },
+    {
+      "anchor": "2-7-3-coolant-drain-tank",
+      "end_line": 509,
+      "heading": "2.7.3 Coolant Drain Tank",
+      "level": 1,
+      "start_line": 506
+    },
+    {
+      "anchor": "2-7-4-storage-tank",
+      "end_line": 515,
+      "heading": "2.7.4 Storage Tank",
+      "level": 1,
+      "start_line": 510
+    },
+    {
+      "anchor": "2-8-cover-gas-system",
+      "end_line": 539,
+      "heading": "2.8 Cover-Gas System",
+      "level": 1,
+      "start_line": 516
+    },
+    {
+      "anchor": "2-9-freeze-valves",
+      "end_line": 543,
+      "heading": "2.9 Freeze Valves",
+      "level": 1,
+      "start_line": 540
+    },
+    {
+      "anchor": "2-10-sampler-mechanism",
+      "end_line": 555,
+      "heading": "2.10 Sampler Mechanism",
+      "level": 1,
+      "start_line": 544
+    },
+    {
+      "anchor": "2-11-nonnuclear-heating",
+      "end_line": 569,
+      "heading": "2.11 Nonnuclear Heating",
+      "level": 1,
+      "start_line": 556
+    },
+    {
+      "anchor": "3-instrumentation-and-controls",
+      "end_line": 571,
+      "heading": "3. INSTRUMENTATION AND CONTROLS",
+      "level": 1,
+      "start_line": 570
+    },
+    {
+      "anchor": "3-1-general",
+      "end_line": 588,
+      "heading": "3.1 General",
+      "level": 1,
+      "start_line": 572
+    },
+    {
+      "anchor": "3-1-1-control-requirements",
+      "end_line": 614,
+      "heading": "3.1.1 Control Requirements",
+      "level": 1,
+      "start_line": 589
+    },
+    {
+      "anchor": "3-1-2-other-control-features",
+      "end_line": 620,
+      "heading": "3.1.2 Other Control Features",
+      "level": 1,
+      "start_line": 615
+    },
+    {
+      "anchor": "3-1-3-nonnuclear-controls",
+      "end_line": 630,
+      "heading": "3.1.3 Nonnuclear Controls",
+      "level": 1,
+      "start_line": 621
+    },
+    {
+      "anchor": "3-2-instruments",
+      "end_line": 632,
+      "heading": "3.2 Instruments",
+      "level": 1,
+      "start_line": 631
+    },
+    {
+      "anchor": "3-2-1-reactor-power-measurement",
+      "end_line": 638,
+      "heading": "3.2.1 Reactor-Power Measurement",
+      "level": 1,
+      "start_line": 633
+    },
+    {
+      "anchor": "3-2-2-fuel-inventory",
+      "end_line": 644,
+      "heading": "3.2.2 Fuel Inventory",
+      "level": 1,
+      "start_line": 639
+    },
+    {
+      "anchor": "3-2-3-nuclear-instruments",
+      "end_line": 648,
+      "heading": "3.2.3 Nuclear Instruments",
+      "level": 1,
+      "start_line": 645
+    },
+    {
+      "anchor": "3-2-4-radiation-monitoring",
+      "end_line": 659,
+      "heading": "3.2.4 Radiation Monitoring",
+      "level": 1,
+      "start_line": 649
+    },
+    {
+      "anchor": "3-2-5-pressure-measurements",
+      "end_line": 663,
+      "heading": "3.2.5 Pressure Measurements",
+      "level": 1,
+      "start_line": 660
+    },
+    {
+      "anchor": "3-2-6-flow-measurements",
+      "end_line": 667,
+      "heading": "3.2.6 Flow Measurements",
+      "level": 1,
+      "start_line": 664
+    },
+    {
+      "anchor": "3-2-7-temperature-measurements",
+      "end_line": 671,
+      "heading": "3.2.7 Temperature Measurements",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "3-2-8-liquid-level-measurements",
+      "end_line": 675,
+      "heading": "3.2.8 Liquid-Level Measurements",
+      "level": 1,
+      "start_line": 672
+    },
+    {
+      "anchor": "4-reactor-physics-data",
+      "end_line": 683,
+      "heading": "4. REACTOR PHYSICS DATA",
+      "level": 1,
+      "start_line": 676
+    },
+    {
+      "anchor": "5-the-reactor-complement",
+      "end_line": 685,
+      "heading": "5. THE REACTOR COMPLEMENT:",
+      "level": 1,
+      "start_line": 684
+    },
+    {
+      "anchor": "5-1-building",
+      "end_line": 697,
+      "heading": "5.1 Building",
+      "level": 1,
+      "start_line": 686
+    },
+    {
+      "anchor": "5-2-containment",
+      "end_line": 708,
+      "heading": "5.2 Containment",
+      "level": 1,
+      "start_line": 698
+    },
+    {
+      "anchor": "5-2-1-fuel-system-container-design",
+      "end_line": 724,
+      "heading": "5.2.1 Fuel-System Container Design",
+      "level": 1,
+      "start_line": 709
+    },
+    {
+      "anchor": "5-2-2-other-cells",
+      "end_line": 728,
+      "heading": "5.2.2 Other Cells",
+      "level": 1,
+      "start_line": 725
+    },
+    {
+      "anchor": "5-2-3-penetrations",
+      "end_line": 740,
+      "heading": "5.2.3 Penetrations",
+      "level": 1,
+      "start_line": 729
+    },
+    {
+      "anchor": "5-3-shielding",
+      "end_line": 754,
+      "heading": "5.3 Shielding",
+      "level": 1,
+      "start_line": 741
+    },
+    {
+      "anchor": "5-4-arrangement-of-equipment",
+      "end_line": 766,
+      "heading": "5.4 Arrangement of Equipment",
+      "level": 1,
+      "start_line": 755
+    },
+    {
+      "anchor": "54",
+      "end_line": 772,
+      "heading": "-54-",
+      "level": 1,
+      "start_line": 767
+    },
+    {
+      "anchor": "5-5-maintenance",
+      "end_line": 795,
+      "heading": "5.5 Maintenance",
+      "level": 1,
+      "start_line": 773
+    },
+    {
+      "anchor": "6-1-construction",
+      "end_line": 801,
+      "heading": "6.1 Construction",
+      "level": 1,
+      "start_line": 796
+    },
+    {
+      "anchor": "6-2-flush-salt-test",
+      "end_line": 805,
+      "heading": "6.2 Flush-Salt Test",
+      "level": 1,
+      "start_line": 802
+    },
+    {
+      "anchor": "6-3-startup",
+      "end_line": 811,
+      "heading": "6.3 Startup",
+      "level": 1,
+      "start_line": 806
+    },
+    {
+      "anchor": "6-4-approach-to-power",
+      "end_line": 815,
+      "heading": "6.4 Approach to Power",
+      "level": 1,
+      "start_line": 812
+    },
+    {
+      "anchor": "6-5-operations-personnel",
+      "end_line": 825,
+      "heading": "6.5 Operations Personnel",
+      "level": 1,
+      "start_line": 816
+    },
+    {
+      "anchor": "7-hazards-analysis",
+      "end_line": 829,
+      "heading": "7. HAZARDS ANALYSIS",
+      "level": 1,
+      "start_line": 826
+    },
+    {
+      "anchor": "7-1-damage-to-the-primary-container",
+      "end_line": 833,
+      "heading": "7.1 Damage to the Primary Container",
+      "level": 1,
+      "start_line": 830
+    },
+    {
+      "anchor": "7-1-1-reactivity-excursions",
+      "end_line": 873,
+      "heading": "7.1.1 Reactivity Excursions",
+      "level": 1,
+      "start_line": 834
+    },
+    {
+      "anchor": "7-1-2-fuel-separation",
+      "end_line": 885,
+      "heading": "7.1.2 Fuel Separation",
+      "level": 1,
+      "start_line": 874
+    },
+    {
+      "anchor": "7-1-3-flow-stoppage",
+      "end_line": 903,
+      "heading": "7.1.3 Flow Stoppage",
+      "level": 1,
+      "start_line": 886
+    },
+    {
+      "anchor": "7-1-4-control-system-failure",
+      "end_line": 907,
+      "heading": "7.1.4 Control-System Failure",
+      "level": 1,
+      "start_line": 904
+    },
+    {
+      "anchor": "7-1-5-drain-tank-hazards",
+      "end_line": 922,
+      "heading": "7.1.5 Drain-Tank Hazards",
+      "level": 1,
+      "start_line": 908
+    },
+    {
+      "anchor": "7-1-6-other-possibilities-for-primary-container-damage",
+      "end_line": 954,
+      "heading": "7.1.6 Other Possibilities for Primary-Container Damage",
+      "level": 1,
+      "start_line": 923
+    },
+    {
+      "anchor": "7-1-7-detection-of-salt-spillage",
+      "end_line": 960,
+      "heading": "7.1.7 Detection of Salt Spillage",
+      "level": 1,
+      "start_line": 955
+    },
+    {
+      "anchor": "7-2-rupture-of-the-secondary-container",
+      "end_line": 964,
+      "heading": "7.2 Rupture of the Secondary Container",
+      "level": 1,
+      "start_line": 961
+    },
+    {
+      "anchor": "7-2-1-missile-damage",
+      "end_line": 970,
+      "heading": "7.2.1 Missile Damage",
+      "level": 1,
+      "start_line": 965
+    },
+    {
+      "anchor": "7-2-2-excessive-pressure",
+      "end_line": 982,
+      "heading": "7.2.2 Excessive Pressure",
+      "level": 1,
+      "start_line": 971
+    },
+    {
+      "anchor": "7-2-3-acts-of-nature",
+      "end_line": 994,
+      "heading": "7.2.3 Acts of Nature",
+      "level": 1,
+      "start_line": 983
+    },
+    {
+      "anchor": "7-2-4-sabotage",
+      "end_line": 998,
+      "heading": "7.2.4 Sabotage",
+      "level": 1,
+      "start_line": 995
+    },
+    {
+      "anchor": "7-3-consequences-of-radioactivity-release-from-the-secondary-container",
+      "end_line": 1000,
+      "heading": "7.3 Consequences of Radioactivity Release from the Secondary Container",
+      "level": 1,
+      "start_line": 999
+    },
+    {
+      "anchor": "7-3-1-rupture-of-the-secondary-container",
+      "end_line": 1004,
+      "heading": "7.3.1 Rupture of the Secondary Container",
+      "level": 1,
+      "start_line": 1001
+    },
+    {
+      "anchor": "7-3-2-maximum-credible-activity-release",
+      "end_line": 1018,
+      "heading": "7.3.2 Maximum Credible Activity Release",
+      "level": 1,
+      "start_line": 1005
+    },
+    {
+      "anchor": "7-3-3-beryllium-and-fluorine-hazards",
+      "end_line": 1030,
+      "heading": "7.3.3 Beryllium and Fluorine Hazards",
+      "level": 1,
+      "start_line": 1019
+    },
+    {
+      "anchor": "7-4-the-site",
+      "end_line": 1038,
+      "heading": "7.4 The Site",
+      "level": 1,
+      "start_line": 1031
+    },
+    {
+      "anchor": "unclassified-dwg-17019ri",
+      "end_line": 1041,
+      "heading": "Unclassified Dwg 17019Ri",
+      "level": 2,
+      "start_line": 1039
+    },
+    {
+      "anchor": "k-e-n-t-u-c-k-y",
+      "end_line": 1043,
+      "heading": "K E N T U C K Y",
+      "level": 2,
+      "start_line": 1042
+    },
+    {
+      "anchor": "map-of-cities-and-counties",
+      "end_line": 1046,
+      "heading": "Map Of Cities And Counties",
+      "level": 2,
+      "start_line": 1044
+    },
+    {
+      "anchor": "surrounding-oak-ridge-area",
+      "end_line": 1050,
+      "heading": "Surrounding Oak Ridge Area",
+      "level": 2,
+      "start_line": 1047
+    },
+    {
+      "anchor": "appendix-a",
+      "end_line": 1052,
+      "heading": "Appendix A",
+      "level": 1,
+      "start_line": 1051
+    },
+    {
+      "anchor": "chemistry-and-corrosion",
+      "end_line": 1054,
+      "heading": "CHEMISTRY AND CORROSION",
+      "level": 1,
+      "start_line": 1053
+    },
+    {
+      "anchor": "fuel-composition-and-stability",
+      "end_line": 1077,
+      "heading": "Fuel Composition and Stability",
+      "level": 1,
+      "start_line": 1055
+    },
+    {
+      "anchor": "corrosion-of-incr-8-by-fuel",
+      "end_line": 1104,
+      "heading": "Corrosion of INCR-8 by Fuel",
+      "level": 1,
+      "start_line": 1078
+    },
+    {
+      "anchor": "corrosion-reactions",
+      "end_line": 1148,
+      "heading": "Corrosion Reactions",
+      "level": 1,
+      "start_line": 1105
+    },
+    {
+      "anchor": "corrosion-by-the-coolant",
+      "end_line": 1162,
+      "heading": "Corrosion by the Coolant",
+      "level": 1,
+      "start_line": 1149
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 1164,
+      "heading": "Appendix B",
+      "level": 1,
+      "start_line": 1163
+    },
+    {
+      "anchor": "hot-spot-analysis",
+      "end_line": 1201,
+      "heading": "HOT SPOT ANALYSIS",
+      "level": 1,
+      "start_line": 1165
+    },
+    {
+      "anchor": "symbols",
+      "end_line": 1213,
+      "heading": "Symbols",
+      "level": 1,
+      "start_line": 1202
+    },
+    {
+      "anchor": "subscripts",
+      "end_line": 1341,
+      "heading": "Subscripts",
+      "level": 1,
+      "start_line": 1214
+    },
+    {
+      "anchor": "job-specification",
+      "end_line": 1343,
+      "heading": "Job Specification",
+      "level": 2,
+      "start_line": 1342
+    },
+    {
+      "anchor": "reactor-division",
+      "end_line": 1345,
+      "heading": "Reactor Division",
+      "level": 2,
+      "start_line": 1344
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 1347,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 1346
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 1355,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 1348
+    },
+    {
+      "anchor": "1-scope",
+      "end_line": 1359,
+      "heading": "1. SCOPE",
+      "level": 2,
+      "start_line": 1356
+    },
+    {
+      "anchor": "2-applicable-specifications-codes-drawings-and-other-publications",
+      "end_line": 1389,
+      "heading": "2. APPLICABLE SPECIFICATIONS, CODES, DRAWINGS, AND OTHER PUBLICATIONS",
+      "level": 2,
+      "start_line": 1360
+    },
+    {
+      "anchor": "2-2-drawings",
+      "end_line": 1409,
+      "heading": "2.2. Drawings",
+      "level": 1,
+      "start_line": 1390
+    },
+    {
+      "anchor": "3-requirements",
+      "end_line": 1411,
+      "heading": "3. REQUIREMENTS",
+      "level": 1,
+      "start_line": 1410
+    },
+    {
+      "anchor": "3-1-design",
+      "end_line": 1423,
+      "heading": "3.1 Design",
+      "level": 1,
+      "start_line": 1412
+    },
+    {
+      "anchor": "3-1-1-primary-drain-and-fill-tanks",
+      "end_line": 1443,
+      "heading": "3.1.1 Primary Drain and Fill Tanks",
+      "level": 1,
+      "start_line": 1424
+    },
+    {
+      "anchor": "3-1-2-primary-flush-tank",
+      "end_line": 1461,
+      "heading": "3.1.2. Primary Flush Tank",
+      "level": 1,
+      "start_line": 1444
+    },
+    {
+      "anchor": "js-80-123",
+      "end_line": 1467,
+      "heading": "Js-80-123",
+      "level": 2,
+      "start_line": 1462
+    },
+    {
+      "anchor": "3-1-3-secondary-drain-tank",
+      "end_line": 1477,
+      "heading": "3.1.3 Secondary Drain Tank",
+      "level": 1,
+      "start_line": 1468
+    },
+    {
+      "anchor": "3-1-4-fuel-storage-tank",
+      "end_line": 1485,
+      "heading": "3.1.4 Fuel Storage Tank",
+      "level": 1,
+      "start_line": 1478
+    },
+    {
+      "anchor": "3-2-materials",
+      "end_line": 1510,
+      "heading": "3.2 Materials",
+      "level": 1,
+      "start_line": 1486
+    },
+    {
+      "anchor": "3-3-fabrication",
+      "end_line": 1516,
+      "heading": "3.3 Fabrication",
+      "level": 1,
+      "start_line": 1511
+    },
+    {
+      "anchor": "3-3-2-forming-of-inor-8-materials",
+      "end_line": 1526,
+      "heading": "3.3.2 Forming of INOR-8 Materials",
+      "level": 1,
+      "start_line": 1517
+    },
+    {
+      "anchor": "3-3-3-heat-treatment",
+      "end_line": 1532,
+      "heading": "3.3.3 Heat Treatment",
+      "level": 1,
+      "start_line": 1527
+    },
+    {
+      "anchor": "3-3-4-welding",
+      "end_line": 1544,
+      "heading": "3.3.4 Welding",
+      "level": 1,
+      "start_line": 1533
+    },
+    {
+      "anchor": "3-3-5-cleaning",
+      "end_line": 1552,
+      "heading": "3.3.5 Cleaning",
+      "level": 1,
+      "start_line": 1545
+    },
+    {
+      "anchor": "3-3-6-workmanship",
+      "end_line": 1558,
+      "heading": "3.3.6 Workmanship",
+      "level": 1,
+      "start_line": 1553
+    },
+    {
+      "anchor": "3-3-7-identification",
+      "end_line": 1566,
+      "heading": "3.3.7 Identification",
+      "level": 1,
+      "start_line": 1559
+    },
+    {
+      "anchor": "4-inspection-and-test-requirements",
+      "end_line": 1612,
+      "heading": "4. INSPECTION AND TEST REQUIREMENTS",
+      "level": 1,
+      "start_line": 1567
+    },
+    {
+      "anchor": "5-preparation-for-delivery",
+      "end_line": 1614,
+      "heading": "5. PREPARATION FOR DELIVERY",
+      "level": 1,
+      "start_line": 1613
+    },
+    {
+      "anchor": "5-1-preservation-and-packaging",
+      "end_line": 1620,
+      "heading": "5.1 Preservation and Packaging",
+      "level": 1,
+      "start_line": 1615
+    },
+    {
+      "anchor": "6-notes",
+      "end_line": 1622,
+      "heading": "6. NOTES",
+      "level": 1,
+      "start_line": 1621
+    },
+    {
+      "anchor": "6-1-engineering-information",
+      "end_line": 1624,
+      "heading": "6.1 Engineering Information",
+      "level": 1,
+      "start_line": 1623
+    },
+    {
+      "anchor": "6-1-1-design-approval",
+      "end_line": 1636,
+      "heading": "6.1.1 Design Approval",
+      "level": 1,
+      "start_line": 1625
+    },
+    {
+      "anchor": "6-2-seller-s-data",
+      "end_line": 1642,
+      "heading": "6.2 Seller's Data",
+      "level": 1,
+      "start_line": 1637
+    },
+    {
+      "anchor": "6-3-manufacturing-inspection-and-test-schedule",
+      "end_line": 1646,
+      "heading": "6.3 Manufacturing, Inspection and Test Schedule",
+      "level": 1,
+      "start_line": 1643
+    },
+    {
+      "anchor": "6-4-inor-8-material-inventory",
+      "end_line": 1650,
+      "heading": "6.4 INOR-8 Material Inventory",
+      "level": 1,
+      "start_line": 1647
+    },
+    {
+      "anchor": "appendix-d",
+      "end_line": 1652,
+      "heading": "Appendix D",
+      "level": 1,
+      "start_line": 1651
+    },
+    {
+      "anchor": "component-development-program-in-support-of-the-msre",
+      "end_line": 1658,
+      "heading": "COMPONENT DEVELOPMENT PROGRAM IN SUPPORT OF THE MSRE",
+      "level": 1,
+      "start_line": 1653
+    },
+    {
+      "anchor": "core-flow",
+      "end_line": 1664,
+      "heading": "Core Flow",
+      "level": 1,
+      "start_line": 1659
+    },
+    {
+      "anchor": "fuel-circulation-pump",
+      "end_line": 1672,
+      "heading": "Fuel Circulation Pump",
+      "level": 1,
+      "start_line": 1665
+    },
+    {
+      "anchor": "freeze-flanges",
+      "end_line": 1680,
+      "heading": "Freeze Flanges",
+      "level": 1,
+      "start_line": 1673
+    },
+    {
+      "anchor": "heat-exchangers",
+      "end_line": 1684,
+      "heading": "Heat Exchangers",
+      "level": 1,
+      "start_line": 1681
+    },
+    {
+      "anchor": "freeze-valves",
+      "end_line": 1690,
+      "heading": "Freeze Valves",
+      "level": 1,
+      "start_line": 1685
+    },
+    {
+      "anchor": "sampler-enricher",
+      "end_line": 1696,
+      "heading": "Sampler-Enricher",
+      "level": 1,
+      "start_line": 1691
+    },
+    {
+      "anchor": "heaters",
+      "end_line": 1700,
+      "heading": "Heaters",
+      "level": 1,
+      "start_line": 1697
+    },
+    {
+      "anchor": "poison-tube",
+      "end_line": 1704,
+      "heading": "Poison Tube",
+      "level": 1,
+      "start_line": 1701
+    },
+    {
+      "anchor": "gas-handling-system",
+      "end_line": 1708,
+      "heading": "Gas-Handling System",
+      "level": 1,
+      "start_line": 1705
+    },
+    {
+      "anchor": "maintenance",
+      "end_line": 1716,
+      "heading": "Maintenance",
+      "level": 1,
+      "start_line": 1709
+    },
+    {
+      "anchor": "accidents-involving-release-of-molten-salt-inside-the-reactor-cell",
+      "end_line": 1724,
+      "heading": "ACCIDENTS INVOLVING RELEASE OF MOLTEN SALT INSIDE THE REACTOR CELL",
+      "level": 1,
+      "start_line": 1717
+    },
+    {
+      "anchor": "air-only-in-cell",
+      "end_line": 1865,
+      "heading": "Air Only in Cell",
+      "level": 1,
+      "start_line": 1725
+    },
+    {
+      "anchor": "sudden-and-minute-dispersion-of-fuel-and-coolant-salt-within-the-reactor-cell",
+      "end_line": 1985,
+      "heading": "Sudden and Minute Dispersion of Fuel and Coolant Salt Within the Reactor Cell",
+      "level": 1,
+      "start_line": 1866
+    },
+    {
+      "anchor": "water-in-the-reactor-cell",
+      "end_line": 2093,
+      "heading": "Water in the Reactor Cell",
+      "level": 1,
+      "start_line": 1986
+    },
+    {
+      "anchor": "appendix-f",
+      "end_line": 2095,
+      "heading": "Appendix F",
+      "level": 1,
+      "start_line": 2094
+    },
+    {
+      "anchor": "graphite-compatibility-with-salt",
+      "end_line": 2099,
+      "heading": "GRAPHITE COMPATIBILITY WITH SALT",
+      "level": 1,
+      "start_line": 2096
+    },
+    {
+      "anchor": "chemical-interactions",
+      "end_line": 2129,
+      "heading": "Chemical Interactions",
+      "level": 1,
+      "start_line": 2100
+    },
+    {
+      "anchor": "permeation-of-graphite-by-fuel-mixture",
+      "end_line": 2141,
+      "heading": "Permeation of Graphite by Fuel Mixture",
+      "level": 1,
+      "start_line": 2130
+    },
+    {
+      "anchor": "compatibility-in-long-term-forced-flow-test",
+      "end_line": 2149,
+      "heading": "Compatibility in Long-Term Forced-Flow Test",
+      "level": 1,
+      "start_line": 2142
+    },
+    {
+      "anchor": "in-pile-testing",
+      "end_line": 2163,
+      "heading": "In-Pile Testing",
+      "level": 1,
+      "start_line": 2150
+    },
+    {
+      "anchor": "references",
+      "end_line": 2180,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 2164
+    },
+    {
+      "anchor": "external-transmittal-authorization-ornl-cf-61-2-46",
+      "end_line": 2182,
+      "heading": "EXTERNAL TRANSMITTAL AUTHORIZATION ORNL CF-61-2-46",
+      "level": 1,
+      "start_line": 2181
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 2255,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2183
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 2258,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 2256
+    }
+  ],
+  "source_dir": "pdf/ORNL-CF-61-2-46",
+  "tables": [],
+  "title": "MASTER COPY",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "safety-shielding-and-remote-maintenance",
+    "materials-and-corrosion",
+    "reactor-operations",
+    "off-gas-fission-products-and-tritium",
+    "reactor-physics-neutronics",
+    "salt-systems-and-thermophysics"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

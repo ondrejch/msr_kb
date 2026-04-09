@@ -1,0 +1,588 @@
+{
+  "authors": [
+    "H. E. McCoy",
+    "Jr.",
+    "LEGAL NOTICE",
+    "Oak Ridge",
+    "Tennessee",
+    "UNION CARBIDE CORPORATION"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2359.jsonl",
+  "date_text": "June 1, 1965",
+  "doc_id": "ornl-tm-2359",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 68,
+        "line_hits": [
+          7,
+          58,
+          60,
+          76,
+          78,
+          82,
+          84,
+          86,
+          88,
+          94,
+          103,
+          107,
+          160,
+          176,
+          192,
+          197,
+          201,
+          210,
+          217,
+          232,
+          234,
+          243,
+          250,
+          270,
+          279,
+          281,
+          286,
+          293,
+          300,
+          302,
+          309,
+          311,
+          318,
+          321,
+          334,
+          337,
+          346,
+          349,
+          360,
+          365,
+          368,
+          371,
+          373,
+          390,
+          393,
+          400,
+          407,
+          413,
+          416,
+          433
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          78,
+          86,
+          88,
+          199,
+          217,
+          323,
+          327,
+          334,
+          337,
+          346,
+          368,
+          371,
+          470,
+          473,
+          480,
+          483,
+          490,
+          493,
+          507,
+          509
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 20,
+        "line_hits": [
+          78,
+          86,
+          88,
+          199,
+          210,
+          302,
+          309,
+          311,
+          318,
+          321,
+          327,
+          349,
+          365,
+          440,
+          443,
+          450,
+          453,
+          460,
+          463,
+          507
+        ],
+        "name": "zirconium"
+      },
+      {
+        "count": 12,
+        "line_hits": [
+          217,
+          334,
+          337,
+          346,
+          368,
+          371,
+          470,
+          473,
+          480,
+          483,
+          490,
+          493
+        ],
+        "name": "titanium-modified Hastelloy-N"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          82,
+          84,
+          94,
+          192,
+          197,
+          541
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          199
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          362
+        ],
+        "name": "stainless steel 316"
+      }
+    ],
+    "organization": [
+      {
+        "count": 19,
+        "line_hits": [
+          30,
+          772,
+          773,
+          775,
+          776,
+          777,
+          778,
+          779,
+          781,
+          789,
+          791,
+          793,
+          795,
+          797,
+          799,
+          803,
+          805,
+          807,
+          811
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          1,
+          20,
+          107,
+          111,
+          270,
+          413,
+          546,
+          549,
+          550,
+          772,
+          773
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          26,
+          107
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          203
+        ],
+        "name": "ANL"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 52,
+        "line_hits": [
+          7,
+          76,
+          82,
+          86,
+          98,
+          101,
+          107,
+          114,
+          174,
+          176,
+          201,
+          210,
+          217,
+          222,
+          232,
+          243,
+          250,
+          252,
+          257,
+          260,
+          262,
+          270,
+          277,
+          286,
+          293,
+          295,
+          298,
+          304,
+          313,
+          318,
+          325,
+          327,
+          329,
+          337,
+          339,
+          355,
+          377,
+          400,
+          413,
+          433,
+          440,
+          450,
+          460,
+          470,
+          480,
+          490,
+          499,
+          501,
+          505,
+          507
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 30,
+        "line_hits": [
+          76,
+          94,
+          98,
+          103,
+          107,
+          109,
+          155,
+          166,
+          192,
+          199,
+          203,
+          232,
+          236,
+          268,
+          277,
+          279,
+          288,
+          290,
+          295,
+          302,
+          311,
+          323,
+          325,
+          327,
+          373,
+          377,
+          379,
+          383,
+          418,
+          426
+        ],
+        "name": "ARE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 13,
+        "line_hits": [
+          82,
+          84,
+          349,
+          365,
+          368,
+          371,
+          443,
+          453,
+          463,
+          473,
+          483,
+          493,
+          499
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          82
+        ],
+        "name": "LiF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "56965e885eee8152cdc9067320bc225c295a2b3288d23ecde94ed96ea84ff0b8",
+  "markdown_path": "pdf/ORNL-TM-2359/ORNL-TM-2359/hybrid_ocr/ORNL-TM-2359.md",
+  "report_number": "ORNL-TM-2359",
+  "report_numbers": [
+    "ORNL-TM-2359"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 30,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2359",
+      "end_line": 4,
+      "heading": "Ornl-Tm-2359",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 10,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 5
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 17,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 11
+    },
+    {
+      "anchor": "february-1969",
+      "end_line": 19,
+      "heading": "February 1969",
+      "level": 2,
+      "start_line": 18
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 25,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 20
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 29,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 26
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 35,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 30
+    },
+    {
+      "anchor": "contents",
+      "end_line": 73,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 36
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 79,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 89,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 80
+    },
+    {
+      "anchor": "experimental-details",
+      "end_line": 91,
+      "heading": "EXPERIMENTAL DETAILS",
+      "level": 1,
+      "start_line": 90
+    },
+    {
+      "anchor": "surveillance-assembly",
+      "end_line": 104,
+      "heading": "Surveillance Assembly",
+      "level": 1,
+      "start_line": 92
+    },
+    {
+      "anchor": "materials",
+      "end_line": 110,
+      "heading": "Materials",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "ornl-dwg-68-8298",
+      "end_line": 121,
+      "heading": "Ornl-Dwg 68-8298",
+      "level": 2,
+      "start_line": 111
+    },
+    {
+      "anchor": "heats-5065-and-5085",
+      "end_line": 129,
+      "heading": "Heats 5065 and 5085",
+      "level": 1,
+      "start_line": 122
+    },
+    {
+      "anchor": "heat-21545",
+      "end_line": 138,
+      "heading": "Heat 21545",
+      "level": 1,
+      "start_line": 130
+    },
+    {
+      "anchor": "heat-21554",
+      "end_line": 152,
+      "heading": "Heat 21554",
+      "level": 1,
+      "start_line": 139
+    },
+    {
+      "anchor": "test-specimens",
+      "end_line": 163,
+      "heading": "Test Specimens",
+      "level": 1,
+      "start_line": 153
+    },
+    {
+      "anchor": "irradiation-conditions",
+      "end_line": 167,
+      "heading": "Irradiation Conditions",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "testing-techniques",
+      "end_line": 187,
+      "heading": "Testing Techniques",
+      "level": 1,
+      "start_line": 168
+    },
+    {
+      "anchor": "experimental-results",
+      "end_line": 189,
+      "heading": "EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 188
+    },
+    {
+      "anchor": "visual-and-metallographic-examination",
+      "end_line": 233,
+      "heading": "Visual and Metallographic Examination",
+      "level": 1,
+      "start_line": 190
+    },
+    {
+      "anchor": "mechanical-property-data-standard-hastelloy-n",
+      "end_line": 299,
+      "heading": "Mechanical Property Data - Standard Hastelloy N",
+      "level": 1,
+      "start_line": 234
+    },
+    {
+      "anchor": "mechanical-property-data-modified-hastelloy-n",
+      "end_line": 374,
+      "heading": "Mechanical Property Data - Modified Hastelloy N",
+      "level": 1,
+      "start_line": 300
+    },
+    {
+      "anchor": "metallographic-examination-of-mechanical-property-specimens",
+      "end_line": 496,
+      "heading": "Metallographic Examination of Mechanical Property Specimens",
+      "level": 1,
+      "start_line": 375
+    },
+    {
+      "anchor": "discussion-of-results",
+      "end_line": 510,
+      "heading": "DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 497
+    },
+    {
+      "anchor": "summary-and-conclusions",
+      "end_line": 518,
+      "heading": "SUMMARY AND CONCLUSIONS",
+      "level": 1,
+      "start_line": 511
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 542,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 519
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 767,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 543
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 813,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 768
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2359",
+  "tables": [],
+  "title": "ORNL-TM-2359",
+  "topics": [
+    "materials-and-corrosion",
+    "irradiation-and-damage",
+    "salt-chemistry-and-redox",
+    "reactor-operations",
+    "graphite-and-moderator-behavior",
+    "reactor-physics-neutronics",
+    "aircraft-nuclear-propulsion",
+    "instrumentation-and-controls"
+  ],
+  "warnings": [
+    "title_fallback_used"
+  ]
+}

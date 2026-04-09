@@ -1,0 +1,2128 @@
+{
+  "authors": [
+    "Process Design Section",
+    "LEGAL NOTICE",
+    "DESIGN OF AN ENGINEERING-SCALE",
+    "W. L. Carter",
+    "R. B. Lindauer",
+    "L. E. McNeese"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-2213.jsonl",
+  "date_text": "1968",
+  "doc_id": "ornl-tm-2213",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 29,
+        "line_hits": [
+          89,
+          137,
+          160,
+          189,
+          196,
+          234,
+          236,
+          240,
+          312,
+          341,
+          378,
+          476,
+          480,
+          484,
+          490,
+          492,
+          499,
+          502,
+          510,
+          523,
+          541,
+          600,
+          645,
+          671,
+          903,
+          1682,
+          1854,
+          1994,
+          2041
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          652,
+          653
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          266,
+          655
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          199
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          677
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          677
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          903
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          677
+        ],
+        "name": "titanium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          170
+        ],
+        "name": "zirconium"
+      }
+    ],
+    "component": [
+      {
+        "count": 14,
+        "line_hits": [
+          81,
+          248,
+          260,
+          424,
+          426,
+          428,
+          553,
+          577,
+          596,
+          616,
+          622,
+          633,
+          637,
+          751
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 9,
+        "line_hits": [
+          440,
+          444,
+          446,
+          459,
+          462,
+          553,
+          616,
+          622,
+          631
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          545,
+          553,
+          579
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          333,
+          446
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          589
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          622
+        ],
+        "name": "freeze valve"
+      }
+    ],
+    "organization": [
+      {
+        "count": 34,
+        "line_hits": [
+          1,
+          29,
+          174,
+          343,
+          628,
+          651,
+          652,
+          653,
+          654,
+          656,
+          657,
+          658,
+          660,
+          722,
+          781,
+          888,
+          905,
+          1319,
+          1396,
+          1514,
+          1540,
+          1668,
+          1684,
+          1829,
+          1876,
+          1878,
+          1884,
+          1996,
+          2002,
+          2048,
+          2082,
+          2106,
+          2148,
+          2222
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 17,
+        "line_hits": [
+          35,
+          1831,
+          1832,
+          1885,
+          1886,
+          2003,
+          2004,
+          2050,
+          2051,
+          2083,
+          2084,
+          2107,
+          2108,
+          2150,
+          2151,
+          2224,
+          2225
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          39,
+          2355,
+          2358
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 87,
+        "line_hits": [
+          160,
+          168,
+          170,
+          181,
+          183,
+          189,
+          191,
+          230,
+          234,
+          236,
+          240,
+          244,
+          248,
+          250,
+          252,
+          254,
+          264,
+          266,
+          276,
+          286,
+          292,
+          304,
+          325,
+          327,
+          355,
+          357,
+          367,
+          384,
+          388,
+          390,
+          412,
+          420,
+          424,
+          450,
+          454,
+          468,
+          476,
+          480,
+          484,
+          486,
+          506,
+          510,
+          516,
+          520,
+          525,
+          533,
+          535,
+          539,
+          541,
+          549
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 45,
+        "line_hits": [
+          138,
+          162,
+          170,
+          172,
+          179,
+          183,
+          224,
+          240,
+          244,
+          250,
+          270,
+          276,
+          284,
+          290,
+          300,
+          390,
+          396,
+          398,
+          402,
+          404,
+          410,
+          418,
+          450,
+          589,
+          626,
+          631,
+          651,
+          652,
+          660,
+          717,
+          743,
+          899,
+          1070,
+          1776,
+          1796,
+          1806,
+          1833,
+          1845,
+          2013,
+          2057,
+          2090,
+          2114,
+          2152,
+          2255,
+          2257
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          276
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 2,
+        "line_hits": [
+          654,
+          657
+        ],
+        "name": "MSR Program Semiannual Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 34,
+        "line_hits": [
+          138,
+          158,
+          162,
+          166,
+          170,
+          194,
+          234,
+          250,
+          264,
+          270,
+          284,
+          292,
+          325,
+          346,
+          390,
+          396,
+          398,
+          402,
+          404,
+          705,
+          707,
+          709,
+          711,
+          713,
+          715,
+          720,
+          725,
+          728,
+          731,
+          735,
+          737,
+          745,
+          761,
+          1070
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          655,
+          737,
+          745,
+          763
+        ],
+        "name": "BeF2"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          166,
+          295,
+          298,
+          1648
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          715,
+          737,
+          745
+        ],
+        "name": "ZrF4"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          158,
+          745
+        ],
+        "name": "UF4"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          737
+        ],
+        "name": "FLiBe"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          745
+        ],
+        "name": "ThF4"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "4de78c22de1c29d5e79269a337a27df50f102f089a9711ae3cfe55cdb1d44798",
+  "markdown_path": "pdf/ORNL-TM-2213/ORNL-TM-2213/hybrid_ocr/ORNL-TM-2213.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 233,
+  "sections": [
+    {
+      "anchor": "ornl-tm-2213",
+      "end_line": 4,
+      "heading": "Ornl Tm-2213",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "chemical-technology-division",
+      "end_line": 6,
+      "heading": "CHEMICAL TECHNOLOGY DIVISION",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "process-design-section",
+      "end_line": 8,
+      "heading": "Process Design Section",
+      "level": 1,
+      "start_line": 7
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 18,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "design-of-an-engineering-scale-vacuum-distillation-experiment-for-molten-salt-reactor-fuel",
+      "end_line": 26,
+      "heading": "DESIGN OF AN ENGINEERING-SCALE, VACUUM DISTILLATION EXPERIMENT FOR MOLTEN-SALT REACTOR FUEL",
+      "level": 1,
+      "start_line": 19
+    },
+    {
+      "anchor": "november-1968",
+      "end_line": 28,
+      "heading": "November 1968",
+      "level": 2,
+      "start_line": 27
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 34,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 38,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 42,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "111",
+      "end_line": 44,
+      "heading": "111",
+      "level": 1,
+      "start_line": 43
+    },
+    {
+      "anchor": "contents",
+      "end_line": 48,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 45
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 50,
+      "heading": "Abstract",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "introduction-2",
+      "end_line": 52,
+      "heading": "Introduction 2",
+      "level": 2,
+      "start_line": 51
+    },
+    {
+      "anchor": "design-criteria-and-features-6",
+      "end_line": 58,
+      "heading": "Design Criteria And Features 6",
+      "level": 2,
+      "start_line": 53
+    },
+    {
+      "anchor": "experimental-program-8",
+      "end_line": 64,
+      "heading": "Experimental Program 8",
+      "level": 2,
+      "start_line": 59
+    },
+    {
+      "anchor": "methods-of-operation-10",
+      "end_line": 70,
+      "heading": "Methods Of Operation 10",
+      "level": 2,
+      "start_line": 65
+    },
+    {
+      "anchor": "design-of-equipment-14",
+      "end_line": 88,
+      "heading": "Design Of Equipment 14",
+      "level": 2,
+      "start_line": 71
+    },
+    {
+      "anchor": "metallurgical-characterization-of-hastelloy-n-33",
+      "end_line": 96,
+      "heading": "Metallurgical Characterization Of Hastelloy N 33",
+      "level": 2,
+      "start_line": 89
+    },
+    {
+      "anchor": "stress-analysis-38",
+      "end_line": 102,
+      "heading": "Stress Analysis 38",
+      "level": 2,
+      "start_line": 97
+    },
+    {
+      "anchor": "instrumentation-39",
+      "end_line": 116,
+      "heading": "Instrumentation 39",
+      "level": 2,
+      "start_line": 103
+    },
+    {
+      "anchor": "preoperational-inspection-51",
+      "end_line": 118,
+      "heading": "Preoperational Inspection 51",
+      "level": 2,
+      "start_line": 117
+    },
+    {
+      "anchor": "iv",
+      "end_line": 120,
+      "heading": "iv",
+      "level": 1,
+      "start_line": 119
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 122,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "equipment-installation-52",
+      "end_line": 128,
+      "heading": "EQUIPMENT INSTALLATION 52",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "final-disposition-55",
+      "end_line": 130,
+      "heading": "FINAL DISPOSITION 55",
+      "level": 1,
+      "start_line": 129
+    },
+    {
+      "anchor": "acknowledgements-55",
+      "end_line": 132,
+      "heading": "ACKNOWLEDGEMENTS 55",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "references-57",
+      "end_line": 134,
+      "heading": "REFERENCES 57",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "appendices-59",
+      "end_line": 145,
+      "heading": "APPENDICES 59",
+      "level": 1,
+      "start_line": 135
+    },
+    {
+      "anchor": "design-of-an-engineering-scale-vacuum-distillation",
+      "end_line": 147,
+      "heading": "DESIGN OF AN ENGINEERING-SCALE, VACUUM DISTILLATION",
+      "level": 1,
+      "start_line": 146
+    },
+    {
+      "anchor": "experiment-for-molten-salt-reactor-fuel",
+      "end_line": 155,
+      "heading": "EXPERIMENT FOR MOLTEN-SALT REACTOR FUEL",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 163,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "2-introduction",
+      "end_line": 173,
+      "heading": "2 INTRODUCTION",
+      "level": 1,
+      "start_line": 164
+    },
+    {
+      "anchor": "ornl-dwg-66-82-r2",
+      "end_line": 203,
+      "heading": "Ornl Dwg. 66-82 R2",
+      "level": 2,
+      "start_line": 174
+    },
+    {
+      "anchor": "design-criteria-and-features",
+      "end_line": 205,
+      "heading": "DESIGN CRITERIA AND FEATURES",
+      "level": 1,
+      "start_line": 204
+    },
+    {
+      "anchor": "basic-design-requirements",
+      "end_line": 231,
+      "heading": "Basic Design Requirements",
+      "level": 1,
+      "start_line": 206
+    },
+    {
+      "anchor": "material-of-construction",
+      "end_line": 241,
+      "heading": "Material of Construction",
+      "level": 1,
+      "start_line": 232
+    },
+    {
+      "anchor": "experimental-program",
+      "end_line": 245,
+      "heading": "EXPERIMENTAL PROGRAM",
+      "level": 1,
+      "start_line": 242
+    },
+    {
+      "anchor": "nonradioactive-operation",
+      "end_line": 267,
+      "heading": "Nonradioactive Operation",
+      "level": 1,
+      "start_line": 246
+    },
+    {
+      "anchor": "radioactive-operation",
+      "end_line": 273,
+      "heading": "Radioactive Operation",
+      "level": 1,
+      "start_line": 268
+    },
+    {
+      "anchor": "methods-of-operation",
+      "end_line": 281,
+      "heading": "METHODS OF OPERATION",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "semicontinuous-operation",
+      "end_line": 287,
+      "heading": "Semicontinuous Operation",
+      "level": 1,
+      "start_line": 282
+    },
+    {
+      "anchor": "batch-operation",
+      "end_line": 301,
+      "heading": "Batch Operation",
+      "level": 1,
+      "start_line": 288
+    },
+    {
+      "anchor": "design-of-equipment",
+      "end_line": 307,
+      "heading": "DESIGN OF EQUIPMENT",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "design-features",
+      "end_line": 322,
+      "heading": "Design Features",
+      "level": 1,
+      "start_line": 308
+    },
+    {
+      "anchor": "thermal-design",
+      "end_line": 330,
+      "heading": "Thermal Design",
+      "level": 1,
+      "start_line": 323
+    },
+    {
+      "anchor": "operating-pressure",
+      "end_line": 336,
+      "heading": "Operating Pressure",
+      "level": 1,
+      "start_line": 331
+    },
+    {
+      "anchor": "design-features",
+      "end_line": 342,
+      "heading": "Design Features",
+      "level": 1,
+      "start_line": 337
+    },
+    {
+      "anchor": "ornl-dwg-68-797",
+      "end_line": 352,
+      "heading": "Ornl-Dwg-68-797",
+      "level": 2,
+      "start_line": 343
+    },
+    {
+      "anchor": "thermal-design",
+      "end_line": 360,
+      "heading": "Thermal Design",
+      "level": 1,
+      "start_line": 353
+    },
+    {
+      "anchor": "operating-pressure",
+      "end_line": 364,
+      "heading": "Operating Pressure",
+      "level": 1,
+      "start_line": 361
+    },
+    {
+      "anchor": "still-and-condenser",
+      "end_line": 368,
+      "heading": "Still and Condenser",
+      "level": 1,
+      "start_line": 365
+    },
+    {
+      "anchor": "design-features",
+      "end_line": 385,
+      "heading": "Design Features",
+      "level": 1,
+      "start_line": 369
+    },
+    {
+      "anchor": "temperature-measurement",
+      "end_line": 391,
+      "heading": "Temperature Measurement",
+      "level": 1,
+      "start_line": 386
+    },
+    {
+      "anchor": "operating-pressure-and-distillation-rate",
+      "end_line": 399,
+      "heading": "Operating Pressure and Distillation Rate",
+      "level": 1,
+      "start_line": 392
+    },
+    {
+      "anchor": "heat-rejection-by-condenser",
+      "end_line": 413,
+      "heading": "Heat Rejection by Condenser",
+      "level": 1,
+      "start_line": 400
+    },
+    {
+      "anchor": "thermal-design",
+      "end_line": 421,
+      "heading": "Thermal Design",
+      "level": 1,
+      "start_line": 414
+    },
+    {
+      "anchor": "cold-trap",
+      "end_line": 425,
+      "heading": "Cold Trap",
+      "level": 1,
+      "start_line": 422
+    },
+    {
+      "anchor": "vacuum-pump",
+      "end_line": 439,
+      "heading": "Vacuum Pump",
+      "level": 1,
+      "start_line": 426
+    },
+    {
+      "anchor": "sampler",
+      "end_line": 441,
+      "heading": "Sampler",
+      "level": 1,
+      "start_line": 440
+    },
+    {
+      "anchor": "nonradioactive-operation",
+      "end_line": 447,
+      "heading": "Nonradioactive Operation",
+      "level": 1,
+      "start_line": 442
+    },
+    {
+      "anchor": "radioactive-operation",
+      "end_line": 451,
+      "heading": "Radioactive Operation",
+      "level": 1,
+      "start_line": 448
+    },
+    {
+      "anchor": "heaters",
+      "end_line": 465,
+      "heading": "Heaters",
+      "level": 1,
+      "start_line": 452
+    },
+    {
+      "anchor": "thermal-insulation",
+      "end_line": 473,
+      "heading": "Thermal Insulation",
+      "level": 1,
+      "start_line": 466
+    },
+    {
+      "anchor": "metallurgical-characterization-of-hasteloy-n",
+      "end_line": 481,
+      "heading": "METALLURGICAL CHARACTERIZATION OF HASTELOY N",
+      "level": 1,
+      "start_line": 474
+    },
+    {
+      "anchor": "creep-rupture-properties",
+      "end_line": 487,
+      "heading": "Creep-Rupture Properties",
+      "level": 1,
+      "start_line": 482
+    },
+    {
+      "anchor": "ductility",
+      "end_line": 503,
+      "heading": "Ductility",
+      "level": 1,
+      "start_line": 488
+    },
+    {
+      "anchor": "metallographic-examination",
+      "end_line": 507,
+      "heading": "Metallographic Examination",
+      "level": 1,
+      "start_line": 504
+    },
+    {
+      "anchor": "stress-analysis",
+      "end_line": 511,
+      "heading": "STRESS ANALYSIS",
+      "level": 1,
+      "start_line": 508
+    },
+    {
+      "anchor": "vacuum-still-and-condenser",
+      "end_line": 526,
+      "heading": "Vacuum Still and Condenser",
+      "level": 1,
+      "start_line": 512
+    },
+    {
+      "anchor": "feed-tank-and-condensate-receiver",
+      "end_line": 530,
+      "heading": "Feed Tank and Condensate Receiver",
+      "level": 1,
+      "start_line": 527
+    },
+    {
+      "anchor": "instrumentation",
+      "end_line": 536,
+      "heading": "INSTRUMENTATION",
+      "level": 1,
+      "start_line": 531
+    },
+    {
+      "anchor": "temperature-measurement",
+      "end_line": 546,
+      "heading": "Temperature Measurement",
+      "level": 1,
+      "start_line": 537
+    },
+    {
+      "anchor": "temperature-control",
+      "end_line": 556,
+      "heading": "Temperature Control",
+      "level": 1,
+      "start_line": 547
+    },
+    {
+      "anchor": "temperature-annunciators",
+      "end_line": 560,
+      "heading": "Temperature Annunciators",
+      "level": 1,
+      "start_line": 557
+    },
+    {
+      "anchor": "pressure-measurement",
+      "end_line": 562,
+      "heading": "Pressure Measurement",
+      "level": 1,
+      "start_line": 561
+    },
+    {
+      "anchor": "feed-tank",
+      "end_line": 566,
+      "heading": "Feed Tank",
+      "level": 1,
+      "start_line": 563
+    },
+    {
+      "anchor": "condensate-receiver",
+      "end_line": 570,
+      "heading": "Condensate Receiver",
+      "level": 1,
+      "start_line": 567
+    },
+    {
+      "anchor": "sample-line",
+      "end_line": 574,
+      "heading": "Sample Line",
+      "level": 1,
+      "start_line": 571
+    },
+    {
+      "anchor": "pressure-control",
+      "end_line": 582,
+      "heading": "Pressure Control",
+      "level": 1,
+      "start_line": 575
+    },
+    {
+      "anchor": "feed-tank",
+      "end_line": 586,
+      "heading": "Feed Tank",
+      "level": 1,
+      "start_line": 583
+    },
+    {
+      "anchor": "still",
+      "end_line": 597,
+      "heading": "Still",
+      "level": 1,
+      "start_line": 587
+    },
+    {
+      "anchor": "preoperational-inspection",
+      "end_line": 607,
+      "heading": "PREOPERATIONAL INSPECTION",
+      "level": 1,
+      "start_line": 598
+    },
+    {
+      "anchor": "equipment-installation",
+      "end_line": 609,
+      "heading": "EQUIPMENT INSTALLATION",
+      "level": 1,
+      "start_line": 608
+    },
+    {
+      "anchor": "unitized-construction",
+      "end_line": 613,
+      "heading": "Unitized Construction",
+      "level": 1,
+      "start_line": 610
+    },
+    {
+      "anchor": "hood-installation",
+      "end_line": 617,
+      "heading": "Hood Installation",
+      "level": 1,
+      "start_line": 614
+    },
+    {
+      "anchor": "cell-installation",
+      "end_line": 627,
+      "heading": "Cell Installation",
+      "level": 1,
+      "start_line": 618
+    },
+    {
+      "anchor": "ornl-dwg-67-3653-r1",
+      "end_line": 634,
+      "heading": "Ornl Dwg 67-3653 R1",
+      "level": 2,
+      "start_line": 628
+    },
+    {
+      "anchor": "final-disposition",
+      "end_line": 642,
+      "heading": "FINAL DISPOSITION",
+      "level": 1,
+      "start_line": 635
+    },
+    {
+      "anchor": "acknowledgements",
+      "end_line": 666,
+      "heading": "ACKNOWLEDGEMENTS",
+      "level": 1,
+      "start_line": 643
+    },
+    {
+      "anchor": "appendices",
+      "end_line": 670,
+      "heading": "Appendices",
+      "level": 2,
+      "start_line": 667
+    },
+    {
+      "anchor": "physical-properties-of-hastelloy-n",
+      "end_line": 702,
+      "heading": "Physical Properties of Hastelloy N",
+      "level": 1,
+      "start_line": 671
+    },
+    {
+      "anchor": "appendix-b",
+      "end_line": 721,
+      "heading": "APPENDIX B",
+      "level": 1,
+      "start_line": 703
+    },
+    {
+      "anchor": "ornl-dwg-68-825",
+      "end_line": 746,
+      "heading": "Ornl-Dwg-68-825",
+      "level": 2,
+      "start_line": 722
+    },
+    {
+      "anchor": "estimation-of-pressure-drop-for-salt-vapor",
+      "end_line": 748,
+      "heading": "Estimation of Pressure Drop for Salt Vapor",
+      "level": 1,
+      "start_line": 747
+    },
+    {
+      "anchor": "in-the-still-condenser-system",
+      "end_line": 754,
+      "heading": "in the Still-Condenser System",
+      "level": 1,
+      "start_line": 749
+    },
+    {
+      "anchor": "properties-of-the-system",
+      "end_line": 780,
+      "heading": "Properties of the System",
+      "level": 1,
+      "start_line": 755
+    },
+    {
+      "anchor": "ornl-dwg-68-852-ri",
+      "end_line": 787,
+      "heading": "Ornl Dwg. 68-852 Ri",
+      "level": 2,
+      "start_line": 781
+    },
+    {
+      "anchor": "delta-p-in-vapor-line",
+      "end_line": 845,
+      "heading": "$\\Delta P$ in Vapor Line",
+      "level": 1,
+      "start_line": 788
+    },
+    {
+      "anchor": "contraction-loss-entering-annulus",
+      "end_line": 887,
+      "heading": "Contraction Loss Entering Annulus",
+      "level": 1,
+      "start_line": 846
+    },
+    {
+      "anchor": "ornl-dwg-68-864-ri",
+      "end_line": 892,
+      "heading": "Ornl Dwg. 68-864 Ri",
+      "level": 2,
+      "start_line": 888
+    },
+    {
+      "anchor": "estimation-of-time-to-heat-condensate-receiver-and-feed-tank-to-operating-temperature",
+      "end_line": 896,
+      "heading": "Estimation of Time to Heat Condensate Receiver and Feed Tank to Operating Temperature",
+      "level": 1,
+      "start_line": 893
+    },
+    {
+      "anchor": "data-and-computational-model",
+      "end_line": 904,
+      "heading": "Data and Computational Model",
+      "level": 1,
+      "start_line": 897
+    },
+    {
+      "anchor": "ornl-dwg-68-855",
+      "end_line": 909,
+      "heading": "Ornl Dwg. 68-855",
+      "level": 2,
+      "start_line": 905
+    },
+    {
+      "anchor": "definitions",
+      "end_line": 915,
+      "heading": "Definitions",
+      "level": 1,
+      "start_line": 910
+    },
+    {
+      "anchor": "heat-balance",
+      "end_line": 1052,
+      "heading": "Heat Balance",
+      "level": 1,
+      "start_line": 916
+    },
+    {
+      "anchor": "choosing-the-heater-sizes-for-the-condensate-receiver-feed-tank-still-and-condenser",
+      "end_line": 1063,
+      "heading": "Choosing the Heater Sizes for the Condensate Receiver, Feed Tank, Still, and Condenser",
+      "level": 1,
+      "start_line": 1053
+    },
+    {
+      "anchor": "90-appendix-e",
+      "end_line": 1071,
+      "heading": "90 APPENDIX E",
+      "level": 1,
+      "start_line": 1064
+    },
+    {
+      "anchor": "model-for-the-calculation",
+      "end_line": 1075,
+      "heading": "Model for the Calculation",
+      "level": 1,
+      "start_line": 1072
+    },
+    {
+      "anchor": "definitions",
+      "end_line": 1110,
+      "heading": "Definitions",
+      "level": 1,
+      "start_line": 1076
+    },
+    {
+      "anchor": "heat-balance",
+      "end_line": 1136,
+      "heading": "Heat Balance",
+      "level": 1,
+      "start_line": 1111
+    },
+    {
+      "anchor": "solutions-to-equations",
+      "end_line": 1196,
+      "heading": "Solutions to Equations",
+      "level": 1,
+      "start_line": 1137
+    },
+    {
+      "anchor": "presentation-of-results",
+      "end_line": 1200,
+      "heading": "Presentation of Results",
+      "level": 1,
+      "start_line": 1197
+    },
+    {
+      "anchor": "stress-analysis-of-vacuum-still-and-condenser",
+      "end_line": 1318,
+      "heading": "Stress Analysis of Vacuum Still and Condenser*",
+      "level": 1,
+      "start_line": 1201
+    },
+    {
+      "anchor": "ornl-dwg-68-9091",
+      "end_line": 1395,
+      "heading": "Ornl Dwg. 68-9091",
+      "level": 2,
+      "start_line": 1319
+    },
+    {
+      "anchor": "ornl-dwg-68-9094",
+      "end_line": 1513,
+      "heading": "Ornl Dwg. 68-9094",
+      "level": 2,
+      "start_line": 1396
+    },
+    {
+      "anchor": "ornl-dwg-68-9097",
+      "end_line": 1539,
+      "heading": "Ornl Dwg. 68-9097",
+      "level": 2,
+      "start_line": 1514
+    },
+    {
+      "anchor": "ornl-dwg-68-9098",
+      "end_line": 1593,
+      "heading": "Ornl Dwg. 68-9098",
+      "level": 2,
+      "start_line": 1540
+    },
+    {
+      "anchor": "thermal-stress-calculation",
+      "end_line": 1615,
+      "heading": "Thermal Stress Calculation",
+      "level": 1,
+      "start_line": 1594
+    },
+    {
+      "anchor": "minimum-thickness-of-flat-head-on-feed-tank",
+      "end_line": 1647,
+      "heading": "Minimum Thickness of Flat Head on Feed Tank",
+      "level": 1,
+      "start_line": 1616
+    },
+    {
+      "anchor": "specifications-for-heaters-for-vacuum-distillation-experiment-for-fluoride-salts",
+      "end_line": 1649,
+      "heading": "SPECIFICATIONS FOR HEATERS FOR VACUUM DISTILLATION EXPERIMENT FOR FLUORIDE SALTS",
+      "level": 1,
+      "start_line": 1648
+    },
+    {
+      "anchor": "1-0-scope",
+      "end_line": 1651,
+      "heading": "1.0 Scope",
+      "level": 1,
+      "start_line": 1650
+    },
+    {
+      "anchor": "1-1-general",
+      "end_line": 1669,
+      "heading": "1.1 General",
+      "level": 1,
+      "start_line": 1652
+    },
+    {
+      "anchor": "2-0-codes-and-standards",
+      "end_line": 1673,
+      "heading": "2.0 Codes and Standards",
+      "level": 1,
+      "start_line": 1670
+    },
+    {
+      "anchor": "3-0-type-of-service",
+      "end_line": 1675,
+      "heading": "3.0 Type of Service",
+      "level": 1,
+      "start_line": 1674
+    },
+    {
+      "anchor": "3-1-temperature-and-operation",
+      "end_line": 1679,
+      "heading": "3.1 Temperature and Operation",
+      "level": 1,
+      "start_line": 1676
+    },
+    {
+      "anchor": "3-2-vessels",
+      "end_line": 1683,
+      "heading": "3.2 Vessels",
+      "level": 1,
+      "start_line": 1680
+    },
+    {
+      "anchor": "ornl-dwg-68-866",
+      "end_line": 1690,
+      "heading": "Ornl Dwg.68-866",
+      "level": 2,
+      "start_line": 1684
+    },
+    {
+      "anchor": "3-3-radiation",
+      "end_line": 1694,
+      "heading": "3.3 Radiation",
+      "level": 1,
+      "start_line": 1691
+    },
+    {
+      "anchor": "4-0-specifications",
+      "end_line": 1696,
+      "heading": "4.0 Specifications",
+      "level": 1,
+      "start_line": 1695
+    },
+    {
+      "anchor": "4-1-mechanical-features",
+      "end_line": 1702,
+      "heading": "4.1 Mechanical Features",
+      "level": 1,
+      "start_line": 1697
+    },
+    {
+      "anchor": "4-2-heat-capacity",
+      "end_line": 1706,
+      "heading": "4.2 Heat Capacity",
+      "level": 1,
+      "start_line": 1703
+    },
+    {
+      "anchor": "4-3-electrical-accessories",
+      "end_line": 1710,
+      "heading": "4.3 Electrical Accessories",
+      "level": 1,
+      "start_line": 1707
+    },
+    {
+      "anchor": "4-4-thermal-insulation",
+      "end_line": 1714,
+      "heading": "4.4 Thermal Insulation",
+      "level": 1,
+      "start_line": 1711
+    },
+    {
+      "anchor": "4-5-electrical-requirements",
+      "end_line": 1719,
+      "heading": "4.5 Electrical Requirements",
+      "level": 1,
+      "start_line": 1715
+    },
+    {
+      "anchor": "4-6-geometrical-considerations",
+      "end_line": 1721,
+      "heading": "4.6 Geometrical Considerations",
+      "level": 1,
+      "start_line": 1720
+    },
+    {
+      "anchor": "4-6-1-still-and-considerations",
+      "end_line": 1726,
+      "heading": "4.6.1 Still and Considerations",
+      "level": 1,
+      "start_line": 1722
+    },
+    {
+      "anchor": "4-6-2-condensate-receiver-drawing-no-m-12173-cd-009-d",
+      "end_line": 1730,
+      "heading": "4.6.2 Condensate Receiver, Drawing No. M-12173-CD-009-D.",
+      "level": 1,
+      "start_line": 1727
+    },
+    {
+      "anchor": "4-6-3-feed-tank-drawing-no-m-12173-cd-013-d",
+      "end_line": 1734,
+      "heading": "4.6.3 Feed Tank, Drawing No. M-12173-CD-013-D.",
+      "level": 1,
+      "start_line": 1731
+    },
+    {
+      "anchor": "4-7-special-features",
+      "end_line": 1742,
+      "heading": "4.7 Special Features",
+      "level": 1,
+      "start_line": 1735
+    },
+    {
+      "anchor": "5-0-inspection-and-test",
+      "end_line": 1744,
+      "heading": "5.0 Inspection and Test",
+      "level": 1,
+      "start_line": 1743
+    },
+    {
+      "anchor": "5-1-visual",
+      "end_line": 1752,
+      "heading": "5.1 Visual",
+      "level": 1,
+      "start_line": 1745
+    },
+    {
+      "anchor": "5-2-liquid-penetrant",
+      "end_line": 1756,
+      "heading": "5.2 Liquid Penetrant",
+      "level": 1,
+      "start_line": 1753
+    },
+    {
+      "anchor": "5-3-radiography",
+      "end_line": 1765,
+      "heading": "5.3 Radiography",
+      "level": 1,
+      "start_line": 1757
+    },
+    {
+      "anchor": "5-4-electrical-test",
+      "end_line": 1769,
+      "heading": "5.4 Electrical Test",
+      "level": 1,
+      "start_line": 1766
+    },
+    {
+      "anchor": "5-5-observation-of-tests",
+      "end_line": 1773,
+      "heading": "5.5 Observation of Tests",
+      "level": 1,
+      "start_line": 1770
+    },
+    {
+      "anchor": "equipment-drawings",
+      "end_line": 1821,
+      "heading": "Equipment Drawings",
+      "level": 1,
+      "start_line": 1774
+    },
+    {
+      "anchor": "front-elevation",
+      "end_line": 1823,
+      "heading": "Front Elevation",
+      "level": 2,
+      "start_line": 1822
+    },
+    {
+      "anchor": "end-elevation",
+      "end_line": 1824,
+      "heading": "End Elevation",
+      "level": 2,
+      "start_line": 1824
+    },
+    {
+      "anchor": "general-notes",
+      "end_line": 1829,
+      "heading": "General Notes",
+      "level": 2,
+      "start_line": 1825
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 1830,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 1830
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 1831,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 1831
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 1855,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 1832
+    },
+    {
+      "anchor": "general-notes",
+      "end_line": 1859,
+      "heading": "GENERAL NOTES",
+      "level": 1,
+      "start_line": 1856
+    },
+    {
+      "anchor": "3-design-conditions",
+      "end_line": 1861,
+      "heading": "3. DESIGN CONDITIONS",
+      "level": 1,
+      "start_line": 1860
+    },
+    {
+      "anchor": "design-temperature-1000-c",
+      "end_line": 1863,
+      "heading": "Design Temperature 1000°C",
+      "level": 2,
+      "start_line": 1862
+    },
+    {
+      "anchor": "design-pressure",
+      "end_line": 1867,
+      "heading": "Design Pressure",
+      "level": 2,
+      "start_line": 1864
+    },
+    {
+      "anchor": "vessel-hydrostatic-test-805-psig-see-note-7",
+      "end_line": 1869,
+      "heading": "Vessel Hydrostatic Test 805 Psig See Note-7",
+      "level": 2,
+      "start_line": 1868
+    },
+    {
+      "anchor": "vessel-freon-test-to-psig",
+      "end_line": 1873,
+      "heading": "Vessel Freon Test To Psig",
+      "level": 2,
+      "start_line": 1870
+    },
+    {
+      "anchor": "5-fabrication",
+      "end_line": 1875,
+      "heading": "5. FABRICATION",
+      "level": 1,
+      "start_line": 1874
+    },
+    {
+      "anchor": "welding-ornl-50cs-ps-23-ps-25-ps-26",
+      "end_line": 1877,
+      "heading": "Welding Ornl 50Cs Ps-23,Ps-25 &Ps-26",
+      "level": 2,
+      "start_line": 1876
+    },
+    {
+      "anchor": "inspection-ornl-specs-met-wr-200-sch-8",
+      "end_line": 1884,
+      "heading": "Inspection Ornl Specs Met-Wr-200 Sch\"8\"",
+      "level": 2,
+      "start_line": 1878
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 1885,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 1885
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 1905,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 1886
+    },
+    {
+      "anchor": "assembly",
+      "end_line": 1911,
+      "heading": "Assembly",
+      "level": 2,
+      "start_line": 1906
+    },
+    {
+      "anchor": "mitt",
+      "end_line": 1958,
+      "heading": "Mitt",
+      "level": 2,
+      "start_line": 1912
+    },
+    {
+      "anchor": "plan",
+      "end_line": 1969,
+      "heading": "Plan",
+      "level": 2,
+      "start_line": 1959
+    },
+    {
+      "anchor": "general-notes",
+      "end_line": 1973,
+      "heading": "GENERAL NOTES",
+      "level": 1,
+      "start_line": 1970
+    },
+    {
+      "anchor": "2-design-conditions-design-timpersaturs",
+      "end_line": 1975,
+      "heading": "2. Design Conditions:Design Timpersaturs",
+      "level": 2,
+      "start_line": 1974
+    },
+    {
+      "anchor": "design-pleasure",
+      "end_line": 1977,
+      "heading": "Design Pleasure",
+      "level": 2,
+      "start_line": 1976
+    },
+    {
+      "anchor": "vessel-hydrostatic",
+      "end_line": 1981,
+      "heading": "Vessel Hydrostatic",
+      "level": 2,
+      "start_line": 1978
+    },
+    {
+      "anchor": "550-c",
+      "end_line": 1985,
+      "heading": "550°C",
+      "level": 2,
+      "start_line": 1982
+    },
+    {
+      "anchor": "45psig",
+      "end_line": 1987,
+      "heading": "45Psig",
+      "level": 2,
+      "start_line": 1986
+    },
+    {
+      "anchor": "to-psig",
+      "end_line": 2002,
+      "heading": "To Psig",
+      "level": 2,
+      "start_line": 1988
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2003,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2003
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 2007,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 2004
+    },
+    {
+      "anchor": "otherwise-specified",
+      "end_line": 2019,
+      "heading": "Otherwise Specified:",
+      "level": 2,
+      "start_line": 2008
+    },
+    {
+      "anchor": "plan",
+      "end_line": 2022,
+      "heading": "Plan",
+      "level": 2,
+      "start_line": 2020
+    },
+    {
+      "anchor": "plate-19",
+      "end_line": 2023,
+      "heading": "Plate (19)",
+      "level": 2,
+      "start_line": 2023
+    },
+    {
+      "anchor": "1-reqas-shown-1-reqopposite-hand",
+      "end_line": 2026,
+      "heading": "1:Reqas:Shown 1:Reqopposite Hand",
+      "level": 2,
+      "start_line": 2024
+    },
+    {
+      "anchor": "section-a-a",
+      "end_line": 2036,
+      "heading": "Section A-A",
+      "level": 2,
+      "start_line": 2027
+    },
+    {
+      "anchor": "plate-21",
+      "end_line": 2039,
+      "heading": "Plate (21)",
+      "level": 2,
+      "start_line": 2037
+    },
+    {
+      "anchor": "thermocouple-well-detail",
+      "end_line": 2040,
+      "heading": "Thermocouple Well Detail",
+      "level": 2,
+      "start_line": 2040
+    },
+    {
+      "anchor": "machine-from-1-dia-road-nove-dia-hastelloy-n-road-available",
+      "end_line": 2042,
+      "heading": "Machine From 1-Dia Road:Nove\" Dia Hastelloy N Road Available",
+      "level": 2,
+      "start_line": 2041
+    },
+    {
+      "anchor": "general-notes",
+      "end_line": 2048,
+      "heading": "GENERAL NOTES",
+      "level": 1,
+      "start_line": 2043
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 2049,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 2049
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2050,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2050
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 2082,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 2051
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2083,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2083
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 2095,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 2084
+    },
+    {
+      "anchor": "general-notes",
+      "end_line": 2106,
+      "heading": "General Notes",
+      "level": 2,
+      "start_line": 2096
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2107,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2107
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 2113,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 2108
+    },
+    {
+      "anchor": "msre-distillation-experiment",
+      "end_line": 2131,
+      "heading": "Msre Distillation Experiment",
+      "level": 2,
+      "start_line": 2114
+    },
+    {
+      "anchor": "general-notes",
+      "end_line": 2136,
+      "heading": "GENERAL NOTES",
+      "level": 1,
+      "start_line": 2132
+    },
+    {
+      "anchor": "assembly-details",
+      "end_line": 2144,
+      "heading": "Assembly & Details",
+      "level": 2,
+      "start_line": 2137
+    },
+    {
+      "anchor": "still-counterweight",
+      "end_line": 2145,
+      "heading": "Still Counterweight",
+      "level": 2,
+      "start_line": 2145
+    },
+    {
+      "anchor": "matl-mild-steel",
+      "end_line": 2148,
+      "heading": "Matl: Mild Steel",
+      "level": 2,
+      "start_line": 2146
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 2149,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 2149
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2150,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2150
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 2153,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 2151
+    },
+    {
+      "anchor": "for-transporting",
+      "end_line": 2164,
+      "heading": "(For Transporting)",
+      "level": 2,
+      "start_line": 2154
+    },
+    {
+      "anchor": "plan-rows-i-h-d-e-f-g",
+      "end_line": 2170,
+      "heading": "Plan Rows \"I\", \"H\", \"D\", \"E\", \"F\" & \"G\".",
+      "level": 2,
+      "start_line": 2165
+    },
+    {
+      "anchor": "planrow",
+      "end_line": 2180,
+      "heading": "Planrow",
+      "level": 2,
+      "start_line": 2171
+    },
+    {
+      "anchor": "plan-bow",
+      "end_line": 2183,
+      "heading": "Plan Bow.",
+      "level": 2,
+      "start_line": 2181
+    },
+    {
+      "anchor": "plan",
+      "end_line": 2186,
+      "heading": "Plan",
+      "level": 2,
+      "start_line": 2184
+    },
+    {
+      "anchor": "plan-of-still-head",
+      "end_line": 2189,
+      "heading": "Plan Of Still Head",
+      "level": 2,
+      "start_line": 2187
+    },
+    {
+      "anchor": "after-fabrication-is-complete",
+      "end_line": 2190,
+      "heading": "After Fabrication Is Complete",
+      "level": 2,
+      "start_line": 2190
+    },
+    {
+      "anchor": "radiograph-this-segment-of-steel",
+      "end_line": 2191,
+      "heading": "Radiograph This Segment Of Steel",
+      "level": 2,
+      "start_line": 2191
+    },
+    {
+      "anchor": "side-wall-and-head-wire-supply",
+      "end_line": 2192,
+      "heading": "Side Wall And Head Wire Supply",
+      "level": 2,
+      "start_line": 2192
+    },
+    {
+      "anchor": "exposures-to-adaptate-map-surtiers",
+      "end_line": 2193,
+      "heading": "Exposures To Adaptate Map Surtiers",
+      "level": 2,
+      "start_line": 2193
+    },
+    {
+      "anchor": "surfaces-between-hawe-ause-bother",
+      "end_line": 2194,
+      "heading": "Surfaces Between Hawe Ause Bother",
+      "level": 2,
+      "start_line": 2194
+    },
+    {
+      "anchor": "connections-with-the-haiying-tube",
+      "end_line": 2196,
+      "heading": "Connections With The Haiying Tube",
+      "level": 2,
+      "start_line": 2195
+    },
+    {
+      "anchor": "notes",
+      "end_line": 2207,
+      "heading": "Notes:",
+      "level": 2,
+      "start_line": 2197
+    },
+    {
+      "anchor": "plan-aod-x",
+      "end_line": 2210,
+      "heading": "Plan Aod \"X\"",
+      "level": 2,
+      "start_line": 2208
+    },
+    {
+      "anchor": "plan-rows-y-b-z",
+      "end_line": 2217,
+      "heading": "Plan.Rows \"Y\" B. Z\"",
+      "level": 2,
+      "start_line": 2211
+    },
+    {
+      "anchor": "plan-rows-u-b-v",
+      "end_line": 2222,
+      "heading": "Plan. Rows \"U\" B.V",
+      "level": 2,
+      "start_line": 2218
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 2223,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 2223
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2224,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2224
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 2284,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 2225
+    },
+    {
+      "anchor": "1-12173-qe-026-d",
+      "end_line": 2286,
+      "heading": "1-12173-Qe-026-D",
+      "level": 2,
+      "start_line": 2285
+    },
+    {
+      "anchor": "i-12173-qe-027-d",
+      "end_line": 2288,
+      "heading": "I-12173-Qe-027-D",
+      "level": 2,
+      "start_line": 2287
+    },
+    {
+      "anchor": "1-12173-qe-028-d",
+      "end_line": 2290,
+      "heading": "1-12173-Qe-028-D",
+      "level": 2,
+      "start_line": 2289
+    },
+    {
+      "anchor": "1-12173-qe-029-d",
+      "end_line": 2292,
+      "heading": "1-12173-Qe-029-D",
+      "level": 2,
+      "start_line": 2291
+    },
+    {
+      "anchor": "i-12173-qe-030-d",
+      "end_line": 2294,
+      "heading": "I-12173-Qe-030-D",
+      "level": 2,
+      "start_line": 2293
+    },
+    {
+      "anchor": "1-12173-qe-031-d",
+      "end_line": 2296,
+      "heading": "1-12173-Qe-031-D",
+      "level": 2,
+      "start_line": 2295
+    },
+    {
+      "anchor": "1-12173-qe-032-d",
+      "end_line": 2298,
+      "heading": "1-12173-Qe-032-D",
+      "level": 2,
+      "start_line": 2297
+    },
+    {
+      "anchor": "1-12173-qe-033-d",
+      "end_line": 2300,
+      "heading": "1-12173-Qe-033-D",
+      "level": 2,
+      "start_line": 2299
+    },
+    {
+      "anchor": "1-12173-qe-034-d",
+      "end_line": 2302,
+      "heading": "1-12173-Qe-034-D",
+      "level": 2,
+      "start_line": 2301
+    },
+    {
+      "anchor": "i-12173-qe-035-d",
+      "end_line": 2304,
+      "heading": "I-12173-Qe-035-D",
+      "level": 2,
+      "start_line": 2303
+    },
+    {
+      "anchor": "1-12173-qe-036-d",
+      "end_line": 2306,
+      "heading": "1-12173-Qe-036-D",
+      "level": 2,
+      "start_line": 2305
+    },
+    {
+      "anchor": "1-12173-qe-037-d",
+      "end_line": 2332,
+      "heading": "1-12173-Qe-037-D",
+      "level": 2,
+      "start_line": 2307
+    },
+    {
+      "anchor": "distribution",
+      "end_line": 2421,
+      "heading": "DISTRIBUTION",
+      "level": 1,
+      "start_line": 2333
+    },
+    {
+      "anchor": "87-101-dtie",
+      "end_line": 2426,
+      "heading": "87-101. Dtie",
+      "level": 2,
+      "start_line": 2422
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-2213",
+  "tables": [],
+  "title": "ORNL TM-2213",
+  "topics": [
+    "reactor-operations",
+    "instrumentation-and-controls",
+    "materials-and-corrosion",
+    "salt-systems-and-thermophysics",
+    "pumps-loops-and-heat-exchangers",
+    "safety-shielding-and-remote-maintenance",
+    "off-gas-fission-products-and-tritium",
+    "graphite-and-moderator-behavior"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

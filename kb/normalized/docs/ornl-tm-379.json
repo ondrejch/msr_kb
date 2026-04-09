@@ -1,0 +1,280 @@
+{
+  "authors": [
+    "B. E. Prince",
+    "J. R. Engel",
+    "MAster.",
+    "NOTICE",
+    "LEGAL NOTICE",
+    "INTRODUCTION",
+    "ANALYSIS"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-379.jsonl",
+  "date_text": "October 15, 1962",
+  "doc_id": "ornl-tm-379",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 23,
+        "line_hits": [
+          15,
+          32,
+          36,
+          88,
+          130,
+          168,
+          186,
+          220,
+          224,
+          234,
+          246,
+          257,
+          267,
+          275,
+          303,
+          327,
+          333,
+          352,
+          357,
+          359,
+          370,
+          372,
+          375
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          357
+        ],
+        "name": "INOR-8"
+      }
+    ],
+    "component": [
+      {
+        "count": 2,
+        "line_hits": [
+          15,
+          32
+        ],
+        "name": "control rod"
+      }
+    ],
+    "organization": [
+      {
+        "count": 10,
+        "line_hits": [
+          1,
+          19,
+          253,
+          339,
+          380,
+          381,
+          382,
+          383,
+          384,
+          513
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          517,
+          518,
+          519,
+          520,
+          521,
+          522
+        ],
+        "name": "AEC"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 11,
+        "line_hits": [
+          15,
+          32,
+          36,
+          144,
+          186,
+          224,
+          226,
+          291,
+          333,
+          347,
+          361
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 11,
+        "line_hits": [
+          7,
+          15,
+          32,
+          222,
+          224,
+          243,
+          291,
+          349,
+          355,
+          361,
+          384
+        ],
+        "name": "MSRE"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2129c87f4d960427e56c62bba6aa68902d01ffe599938b2d760b5b635f25d74b",
+  "markdown_path": "pdf/ORNL-TM-0379/ORNL-TM-0379/hybrid_ocr/ORNL-TM-0379.md",
+  "report_number": "ORNL-TM-379",
+  "report_numbers": [
+    "ORNL-TM-379"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 18,
+  "sections": [
+    {
+      "anchor": "ornl-tm-379",
+      "end_line": 2,
+      "heading": "Ornl-Tm-379",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "copy-no-9",
+      "end_line": 6,
+      "heading": "Copy No. - //9",
+      "level": 2,
+      "start_line": 3
+    },
+    {
+      "anchor": "temperature-and-reactivity-coefficient-averaging-in-the-msre",
+      "end_line": 12,
+      "heading": "Temperature And Reactivity Coefficient Averaging In The Msre",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 16,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 13
+    },
+    {
+      "anchor": "notice",
+      "end_line": 20,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 17
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 29,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 21
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 33,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 30
+    },
+    {
+      "anchor": "analysis",
+      "end_line": 85,
+      "heading": "ANALYSIS",
+      "level": 1,
+      "start_line": 34
+    },
+    {
+      "anchor": "temperature-averaging",
+      "end_line": 141,
+      "heading": "Temperature Averaging",
+      "level": 1,
+      "start_line": 86
+    },
+    {
+      "anchor": "temperature-coefficients-of-reactivity",
+      "end_line": 221,
+      "heading": "Temperature Coefficients of Reactivity",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "application-to-the-msre-results",
+      "end_line": 354,
+      "heading": "APPLICATION TO THE MSRE: RESULTS",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "application-to-the-msre-discussion-of-results",
+      "end_line": 362,
+      "heading": "APPLICATION TO THE MSRE - DISCUSSION OF RESULTS",
+      "level": 1,
+      "start_line": 355
+    },
+    {
+      "anchor": "nomenclature",
+      "end_line": 377,
+      "heading": "NOMENCLATURE",
+      "level": 1,
+      "start_line": 363
+    },
+    {
+      "anchor": "references",
+      "end_line": 385,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 378
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 488,
+      "heading": "Internal Distribution",
+      "level": 1,
+      "start_line": 386
+    },
+    {
+      "anchor": "internal-distribution-cont-d",
+      "end_line": 512,
+      "heading": "Internal Distribution - cont'd",
+      "level": 1,
+      "start_line": 489
+    },
+    {
+      "anchor": "114-ornl-rc",
+      "end_line": 514,
+      "heading": "114. ORNL-RC",
+      "level": 2,
+      "start_line": 513
+    },
+    {
+      "anchor": "external",
+      "end_line": 522,
+      "heading": "External",
+      "level": 1,
+      "start_line": 515
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0379",
+  "tables": [],
+  "title": "ORNL-TM-379",
+  "topics": [
+    "reactor-physics-neutronics",
+    "graphite-and-moderator-behavior",
+    "aircraft-nuclear-propulsion",
+    "salt-systems-and-thermophysics",
+    "materials-and-corrosion",
+    "reactor-operations"
+  ],
+  "warnings": []
+}

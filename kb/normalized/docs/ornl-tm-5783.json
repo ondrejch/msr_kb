@@ -1,0 +1,473 @@
+{
+  "authors": [
+    "J. R. Keiser",
+    "NOTICE",
+    "UNION CARBIDE CORPORATION",
+    "MASTER"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-5783.jsonl",
+  "date_text": "May 1977",
+  "doc_id": "ornl-tm-5783",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 22,
+        "line_hits": [
+          73,
+          77,
+          79,
+          97,
+          105,
+          119,
+          125,
+          127,
+          130,
+          133,
+          137,
+          142,
+          144,
+          205,
+          207,
+          210,
+          214,
+          216,
+          218,
+          229,
+          231,
+          232
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          119,
+          150,
+          153,
+          162,
+          165,
+          167,
+          170,
+          227
+        ],
+        "name": "Inconel 601"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          77,
+          119,
+          189,
+          194,
+          199,
+          230
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          119,
+          178,
+          180,
+          185,
+          228
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          191,
+          201,
+          230
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          77,
+          216
+        ],
+        "name": "niobium"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          77
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          178
+        ],
+        "name": "pyrolytic graphite"
+      }
+    ],
+    "component": [
+      {
+        "count": 28,
+        "line_hits": [
+          51,
+          53,
+          55,
+          59,
+          109,
+          112,
+          115,
+          117,
+          119,
+          123,
+          125,
+          127,
+          130,
+          133,
+          135,
+          137,
+          144,
+          148,
+          150,
+          167,
+          178,
+          187,
+          189,
+          207,
+          212,
+          214,
+          216,
+          236
+        ],
+        "name": "loop"
+      }
+    ],
+    "organization": [
+      {
+        "count": 4,
+        "line_hits": [
+          1,
+          23,
+          180,
+          242
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          29
+        ],
+        "name": "Union Carbide"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 18,
+        "line_hits": [
+          11,
+          67,
+          73,
+          77,
+          109,
+          119,
+          125,
+          130,
+          133,
+          142,
+          150,
+          153,
+          162,
+          165,
+          167,
+          170,
+          172,
+          210
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 8,
+        "line_hits": [
+          79,
+          97,
+          105,
+          109,
+          201,
+          214,
+          216,
+          232
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          77
+        ],
+        "name": "MSRE"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 5,
+        "line_hits": [
+          77,
+          183,
+          189,
+          194,
+          199
+        ],
+        "name": "LiF"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          11,
+          67,
+          73,
+          77,
+          79
+        ],
+        "name": "fluoride salt"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          119
+        ],
+        "name": "UF3"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "a005c828ab68d1047224ba2170e3d7815abfe6dc00e904660dc5c80e079f8ed9",
+  "markdown_path": "pdf/ORNL-TM-5783/ORNL-TM-5783/hybrid_ocr/ORNL-TM-5783.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 29,
+  "sections": [
+    {
+      "anchor": "ornl-tm-5783",
+      "end_line": 8,
+      "heading": "Ornl/Tm-5783",
+      "level": 2,
+      "start_line": 1
+    },
+    {
+      "anchor": "metals-and-ceramics-division",
+      "end_line": 16,
+      "heading": "Metals And Ceramics Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "notice",
+      "end_line": 22,
+      "heading": "Notice",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 28,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 23
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 32,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 29
+    },
+    {
+      "anchor": "energy-research-and-development-administration",
+      "end_line": 34,
+      "heading": "Energy Research And Development Administration",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "master",
+      "end_line": 38,
+      "heading": "Master",
+      "level": 2,
+      "start_line": 35
+    },
+    {
+      "anchor": "contents",
+      "end_line": 42,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 39
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 44,
+      "heading": "Abstract 1",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "introduction-3",
+      "end_line": 46,
+      "heading": "Introduction 3",
+      "level": 2,
+      "start_line": 45
+    },
+    {
+      "anchor": "experimental-methods-3",
+      "end_line": 48,
+      "heading": "Experimental Methods 3",
+      "level": 2,
+      "start_line": 47
+    },
+    {
+      "anchor": "experimental-results-7",
+      "end_line": 60,
+      "heading": "Experimental Results 7",
+      "level": 2,
+      "start_line": 49
+    },
+    {
+      "anchor": "conclusions-21",
+      "end_line": 62,
+      "heading": "Conclusions 21",
+      "level": 2,
+      "start_line": 61
+    },
+    {
+      "anchor": "acknowledgments-21",
+      "end_line": 66,
+      "heading": "Acknowledgments 21",
+      "level": 2,
+      "start_line": 63
+    },
+    {
+      "anchor": "compatibility-studies-of-potential-molten-salt-breeder-reactor-materials-in-molten-fluoride-salts",
+      "end_line": 70,
+      "heading": "COMPATIBILITY STUDIES OF POTENTIAL MOLTEN-SALT BREEDER REACTOR MATERIALS IN MOLTEN FLUORIDE SALTS",
+      "level": 1,
+      "start_line": 67
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 74,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 71
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 106,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 75
+    },
+    {
+      "anchor": "experimental-methods",
+      "end_line": 120,
+      "heading": "EXPERIMENTAL METHODS",
+      "level": 1,
+      "start_line": 107
+    },
+    {
+      "anchor": "experimental-results",
+      "end_line": 122,
+      "heading": "EXPERIMENTAL RESULTS",
+      "level": 1,
+      "start_line": 121
+    },
+    {
+      "anchor": "thermal-convection-loop-21a",
+      "end_line": 147,
+      "heading": "Thermal-Convection Loop 21A",
+      "level": 1,
+      "start_line": 123
+    },
+    {
+      "anchor": "thermal-convection-loop-23",
+      "end_line": 154,
+      "heading": "Thermal-Convection Loop 23",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "y-131294",
+      "end_line": 186,
+      "heading": "Y-131294",
+      "level": 2,
+      "start_line": 155
+    },
+    {
+      "anchor": "thermal-convection-loop-31",
+      "end_line": 202,
+      "heading": "Thermal-Convection Loop 31",
+      "level": 1,
+      "start_line": 187
+    },
+    {
+      "anchor": "thermal-convection-loops-18c-and-24",
+      "end_line": 211,
+      "heading": "Thermal-Convection Loops 18C and 24",
+      "level": 1,
+      "start_line": 203
+    },
+    {
+      "anchor": "forced-circulation-loop-fcl-2b",
+      "end_line": 221,
+      "heading": "Forced-Circulation Loop FCL-2B",
+      "level": 1,
+      "start_line": 212
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 233,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 222
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 239,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 234
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 243,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 240
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 252,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 244
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-5783",
+  "tables": [],
+  "title": "ORNL/TM-5783",
+  "topics": [
+    "materials-and-corrosion",
+    "pumps-loops-and-heat-exchangers",
+    "graphite-and-moderator-behavior",
+    "salt-chemistry-and-redox",
+    "breeder-and-converter-design",
+    "instrumentation-and-controls",
+    "reactor-operations",
+    "aircraft-nuclear-propulsion"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}

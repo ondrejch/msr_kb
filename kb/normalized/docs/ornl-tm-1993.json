@@ -1,0 +1,818 @@
+{
+  "authors": [
+    "UNION CARBIDE CORPORATION",
+    "P. G. Smith",
+    "LEGAL NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-1993.jsonl",
+  "date_text": "January 1959",
+  "doc_id": "ornl-tm-1993",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 2,
+        "line_hits": [
+          431,
+          447
+        ],
+        "name": "Hastelloy N"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          208,
+          235
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          191
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          431
+        ],
+        "name": "molybdenum"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          431
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          199
+        ],
+        "name": "stainless steel 304"
+      }
+    ],
+    "component": [
+      {
+        "count": 111,
+        "line_hits": [
+          76,
+          86,
+          92,
+          94,
+          96,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          142,
+          151,
+          152,
+          163,
+          167,
+          169,
+          171,
+          173,
+          175,
+          179,
+          181,
+          195,
+          199,
+          201,
+          202,
+          203,
+          204,
+          208,
+          221,
+          223,
+          227,
+          229,
+          233,
+          235,
+          237,
+          241,
+          243,
+          245,
+          247,
+          249,
+          252,
+          259,
+          264,
+          266,
+          268,
+          270
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 24,
+        "line_hits": [
+          92,
+          102,
+          139,
+          142,
+          152,
+          167,
+          171,
+          179,
+          195,
+          208,
+          302,
+          309,
+          311,
+          361,
+          367,
+          371,
+          385,
+          394,
+          402,
+          417,
+          419,
+          437,
+          447,
+          463
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 7,
+        "line_hits": [
+          208,
+          229,
+          268,
+          304,
+          343,
+          379,
+          480
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          337
+        ],
+        "name": "heat exchanger"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          394
+        ],
+        "name": "off-gas system"
+      }
+    ],
+    "organization": [
+      {
+        "count": 34,
+        "line_hits": [
+          3,
+          17,
+          25,
+          46,
+          92,
+          100,
+          139,
+          142,
+          153,
+          167,
+          171,
+          179,
+          195,
+          208,
+          215,
+          256,
+          288,
+          302,
+          309,
+          311,
+          327,
+          337,
+          339,
+          351,
+          361,
+          365,
+          377,
+          388,
+          471,
+          473,
+          487,
+          495,
+          695,
+          699
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          15,
+          46,
+          94,
+          140,
+          171,
+          179,
+          195,
+          208,
+          321,
+          323,
+          333,
+          487,
+          699
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          467,
+          699
+        ],
+        "name": "ANL"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          7,
+          46
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          199
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 37,
+        "line_hits": [
+          163,
+          167,
+          169,
+          171,
+          173,
+          177,
+          179,
+          187,
+          225,
+          239,
+          266,
+          268,
+          276,
+          278,
+          286,
+          296,
+          298,
+          304,
+          323,
+          325,
+          337,
+          339,
+          347,
+          353,
+          355,
+          363,
+          365,
+          369,
+          394,
+          400,
+          402,
+          415,
+          429,
+          437,
+          439,
+          447,
+          495
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          104,
+          155,
+          167,
+          171,
+          337,
+          398,
+          402,
+          408,
+          410,
+          412,
+          417,
+          419,
+          437,
+          447,
+          457,
+          471
+        ],
+        "name": "MSBR"
+      },
+      {
+        "count": 16,
+        "line_hits": [
+          102,
+          142,
+          167,
+          171,
+          337,
+          361,
+          365,
+          367,
+          369,
+          373,
+          375,
+          379,
+          390,
+          394,
+          447,
+          473
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          167,
+          402,
+          410,
+          447
+        ],
+        "name": "MSBE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          453
+        ],
+        "name": "ART"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          489
+        ],
+        "name": "Nuclear Science and Engineering"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "2a1d642dd494d7601669e3b0afd6be0473706b6bcedd76121cdaa0fd6d97f29e",
+  "markdown_path": "pdf/ORNL-TM-1993/ORNL-TM-1993/hybrid_ocr/ORNL-TM-1993.md",
+  "report_number": "ORNL-TM-1993",
+  "report_numbers": [
+    "ORNL-TM-1993"
+  ],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 60,
+  "sections": [
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 6,
+      "heading": "OAK RIDGE NATIONAL LABORATORY",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 8,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 7
+    },
+    {
+      "anchor": "nuclear-division",
+      "end_line": 14,
+      "heading": "Nuclear Division",
+      "level": 2,
+      "start_line": 9
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 16,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 15
+    },
+    {
+      "anchor": "ornl-tm-1993",
+      "end_line": 26,
+      "heading": "Ornl-Tm-1993",
+      "level": 2,
+      "start_line": 17
+    },
+    {
+      "anchor": "legal-notice",
+      "end_line": 37,
+      "heading": "LEGAL NOTICE",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "reactor-division",
+      "end_line": 43,
+      "heading": "Reactor Division",
+      "level": 2,
+      "start_line": 38
+    },
+    {
+      "anchor": "september-1967",
+      "end_line": 47,
+      "heading": "September 1967",
+      "level": 2,
+      "start_line": 44
+    },
+    {
+      "anchor": "eloon-14031",
+      "end_line": 65,
+      "heading": "ELOON 14031",
+      "level": 1,
+      "start_line": 48
+    },
+    {
+      "anchor": "contents",
+      "end_line": 67,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 66
+    },
+    {
+      "anchor": "page",
+      "end_line": 69,
+      "heading": "Page",
+      "level": 1,
+      "start_line": 68
+    },
+    {
+      "anchor": "abstract-1",
+      "end_line": 71,
+      "heading": "ABSTRACT 1",
+      "level": 1,
+      "start_line": 70
+    },
+    {
+      "anchor": "introduction-1",
+      "end_line": 73,
+      "heading": "INTRODUCTION 1",
+      "level": 1,
+      "start_line": 72
+    },
+    {
+      "anchor": "description-and-operating-experience-of-the-pumps-2",
+      "end_line": 75,
+      "heading": "DESCRIPTION AND OPERATING EXPERIENCE OF THE PUMPS 2",
+      "level": 1,
+      "start_line": 74
+    },
+    {
+      "anchor": "long-shaft-pump-3",
+      "end_line": 95,
+      "heading": "Long-Shaft Pump 3",
+      "level": 1,
+      "start_line": 76
+    },
+    {
+      "anchor": "short-shaft-pump-26",
+      "end_line": 103,
+      "heading": "Short-Shaft Pump 26",
+      "level": 1,
+      "start_line": 96
+    },
+    {
+      "anchor": "problems-anticipated-with-large-pumps-for-molten-salt-breeder-reactors-33",
+      "end_line": 117,
+      "heading": "PROBLEMS ANTICIPATED WITH LARGE PUMPS FOR MOLTEN-SALT BREEDER REACTORS 33",
+      "level": 1,
+      "start_line": 104
+    },
+    {
+      "anchor": "iv",
+      "end_line": 119,
+      "heading": "iv",
+      "level": 1,
+      "start_line": 118
+    },
+    {
+      "anchor": "contents-continued",
+      "end_line": 122,
+      "heading": "CONTENTS (continued)",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "conclusions-38",
+      "end_line": 123,
+      "heading": "Conclusions 38",
+      "level": 2,
+      "start_line": 123
+    },
+    {
+      "anchor": "acknowledgment-39",
+      "end_line": 124,
+      "heading": "Acknowledgment 39",
+      "level": 2,
+      "start_line": 124
+    },
+    {
+      "anchor": "references-40",
+      "end_line": 126,
+      "heading": "References 40",
+      "level": 2,
+      "start_line": 125
+    },
+    {
+      "anchor": "list-of-figures",
+      "end_line": 143,
+      "heading": "LIST OF FIGURES",
+      "level": 1,
+      "start_line": 127
+    },
+    {
+      "anchor": "list-of-tables",
+      "end_line": 156,
+      "heading": "LIST OF TABLES",
+      "level": 1,
+      "start_line": 144
+    },
+    {
+      "anchor": "experience-with-high-temperature-centrifugal-pumps-in-nuclear-reactors-and-their-application-to-molten-salt-thermal-breeder-reactors",
+      "end_line": 160,
+      "heading": "EXPERIENCE WITH HIGH-TEMPERATURE CENTRIFUGAL PUMPS IN NUCLEAR REACTORS AND THEIR APPLICATION TO MOLTEN-SALT THERMAL BREEDER REACTORS",
+      "level": 1,
+      "start_line": 157
+    },
+    {
+      "anchor": "abstract",
+      "end_line": 164,
+      "heading": "ABSTRACT",
+      "level": 1,
+      "start_line": 161
+    },
+    {
+      "anchor": "introduction",
+      "end_line": 174,
+      "heading": "INTRODUCTION",
+      "level": 1,
+      "start_line": 165
+    },
+    {
+      "anchor": "pump-descriptions-and-operating-experience",
+      "end_line": 180,
+      "heading": "PUMP DESCRIPTIONS AND OPERATING EXPERIENCE",
+      "level": 1,
+      "start_line": 175
+    },
+    {
+      "anchor": "long-shaft-pump",
+      "end_line": 182,
+      "heading": "Long-Shaft Pump",
+      "level": 1,
+      "start_line": 181
+    },
+    {
+      "anchor": "general-description",
+      "end_line": 188,
+      "heading": "General Description",
+      "level": 1,
+      "start_line": 183
+    },
+    {
+      "anchor": "sodium-pumps-for-the-hallam-nuclear-power-facility",
+      "end_line": 214,
+      "heading": "Sodium Pumps for the Hallam Nuclear Power Facility",
+      "level": 1,
+      "start_line": 189
+    },
+    {
+      "anchor": "ornl-dwg-67-2568r",
+      "end_line": 246,
+      "heading": "Ornl-Dwg 67-2568R",
+      "level": 2,
+      "start_line": 215
+    },
+    {
+      "anchor": "sodium-pump-for-the-enrico-fermi-reactor",
+      "end_line": 255,
+      "heading": "Sodium Pump for the Enrico Fermi Reactor",
+      "level": 1,
+      "start_line": 247
+    },
+    {
+      "anchor": "ornl-dwg-67-2570r",
+      "end_line": 260,
+      "heading": "Ornl-Dwg 67-2570R",
+      "level": 2,
+      "start_line": 256
+    },
+    {
+      "anchor": "half-section-of-shaft-seal",
+      "end_line": 273,
+      "heading": "Half Section Of Shaft Seal",
+      "level": 2,
+      "start_line": 261
+    },
+    {
+      "anchor": "sodium-pumps-for-the-rapsodie-reactor",
+      "end_line": 283,
+      "heading": "Sodium Pumps for the Rapsodie Reactor",
+      "level": 1,
+      "start_line": 274
+    },
+    {
+      "anchor": "sodium-pumps-of-the-2000-kw-sodium-test-facility-at-lasl",
+      "end_line": 287,
+      "heading": "Sodium Pumps of the 2000 kw Sodium Test Facility at LASL",
+      "level": 1,
+      "start_line": 284
+    },
+    {
+      "anchor": "ornl-dwg-67-7791",
+      "end_line": 301,
+      "heading": "Ornl-Dwg 67-7791",
+      "level": 2,
+      "start_line": 288
+    },
+    {
+      "anchor": "molten-salt-pump-operated-at-ornl",
+      "end_line": 320,
+      "heading": "Molten-Salt Pump Operated at ORNL",
+      "level": 1,
+      "start_line": 302
+    },
+    {
+      "anchor": "large-reactor-sodium-pump-proposed-for-development-by-usaec",
+      "end_line": 326,
+      "heading": "Large Reactor Sodium Pump Proposed for Development by USAEC",
+      "level": 1,
+      "start_line": 321
+    },
+    {
+      "anchor": "ornl-dwg-67-2694",
+      "end_line": 329,
+      "heading": "Ornl.Dwg.67-2694",
+      "level": 2,
+      "start_line": 327
+    },
+    {
+      "anchor": "conceptual-drawing",
+      "end_line": 330,
+      "heading": "Conceptual Drawing",
+      "level": 2,
+      "start_line": 330
+    },
+    {
+      "anchor": "of-a-6000-hp-free-surface",
+      "end_line": 331,
+      "heading": "Of A 6000 Hp Free Surface",
+      "level": 2,
+      "start_line": 331
+    },
+    {
+      "anchor": "shaft-seated-sodium-pump",
+      "end_line": 334,
+      "heading": "Shaft Seated Sodium Pump",
+      "level": 2,
+      "start_line": 332
+    },
+    {
+      "anchor": "short-shaft-pumps",
+      "end_line": 340,
+      "heading": "Short-Shaft Pumps",
+      "level": 1,
+      "start_line": 335
+    },
+    {
+      "anchor": "sodium-pumps-for-the-sre",
+      "end_line": 350,
+      "heading": "Sodium Pumps for the SRE",
+      "level": 1,
+      "start_line": 341
+    },
+    {
+      "anchor": "general-description-of-ornl-pumps",
+      "end_line": 366,
+      "heading": "General Description of ORNL Pumps",
+      "level": 1,
+      "start_line": 351
+    },
+    {
+      "anchor": "msre-fuel-and-coolant-salt-pumps",
+      "end_line": 397,
+      "heading": "MSRE Fuel and Coolant Salt Pumps",
+      "level": 1,
+      "start_line": 367
+    },
+    {
+      "anchor": "problems-anticipated-with-large-pumps-for-molten-salt-breeder-reactors",
+      "end_line": 403,
+      "heading": "PROBLEMS ANTICIPATED WITH LARGE PUMPS FOR MOLTEN-SALT BREEDER REACTORS",
+      "level": 1,
+      "start_line": 398
+    },
+    {
+      "anchor": "dynamic-response-of-the-rotating-components-assembly",
+      "end_line": 420,
+      "heading": "Dynamic Response of the Rotating Components Assembly",
+      "level": 1,
+      "start_line": 404
+    },
+    {
+      "anchor": "bearings",
+      "end_line": 434,
+      "heading": "Bearings",
+      "level": 1,
+      "start_line": 421
+    },
+    {
+      "anchor": "thermal-and-radiation-damage-protection",
+      "end_line": 440,
+      "heading": "Thermal and Radiation Damage Protection",
+      "level": 1,
+      "start_line": 435
+    },
+    {
+      "anchor": "shaft-seals",
+      "end_line": 444,
+      "heading": "Shaft Seals",
+      "level": 1,
+      "start_line": 441
+    },
+    {
+      "anchor": "hydraulic-design",
+      "end_line": 448,
+      "heading": "Hydraulic Design",
+      "level": 1,
+      "start_line": 445
+    },
+    {
+      "anchor": "fabrication-and-assembly",
+      "end_line": 454,
+      "heading": "Fabrication and Assembly",
+      "level": 1,
+      "start_line": 449
+    },
+    {
+      "anchor": "conclusions",
+      "end_line": 464,
+      "heading": "CONCLUSIONS",
+      "level": 1,
+      "start_line": 455
+    },
+    {
+      "anchor": "acknowledgment",
+      "end_line": 468,
+      "heading": "ACKNOWLEDGMENT",
+      "level": 1,
+      "start_line": 465
+    },
+    {
+      "anchor": "references",
+      "end_line": 498,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 469
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 696,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 499
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 699,
+      "heading": "External Distribution",
+      "level": 2,
+      "start_line": 697
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-1993",
+  "tables": [],
+  "title": "![](images/c0a920c6a1ffa4a7ca74a07574f597b54fdf4db78a2558b8b54afac212f4e494.jpg)",
+  "topics": [
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "breeder-and-converter-design",
+    "safety-shielding-and-remote-maintenance",
+    "aircraft-nuclear-propulsion",
+    "fuel-processing-and-reprocessing",
+    "irradiation-and-damage",
+    "materials-and-corrosion"
+  ],
+  "warnings": []
+}

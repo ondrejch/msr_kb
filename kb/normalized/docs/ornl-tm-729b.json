@@ -1,0 +1,6009 @@
+{
+  "authors": [
+    "Part II. Nuclear",
+    "Process Instrumentation",
+    "R. L. Moore",
+    "MASTER",
+    "Part II.B. Nuclear",
+    "NOTICE"
+  ],
+  "claims_path": "kb/normalized/claims/ornl-tm-729b.jsonl",
+  "date_text": "1972",
+  "doc_id": "ornl-tm-729b",
+  "document_type": "technical-memorandum",
+  "entities": {
+    "alloy-material": [
+      {
+        "count": 26,
+        "line_hits": [
+          6315,
+          6418,
+          6420,
+          6426,
+          6430,
+          6434,
+          6456,
+          6765,
+          6766,
+          6767,
+          6768,
+          6769,
+          6780,
+          6788,
+          6945,
+          6955,
+          6959,
+          6961,
+          6965,
+          6967,
+          7128,
+          7171,
+          7183,
+          7191,
+          7252,
+          7316
+        ],
+        "name": "INOR-8"
+      },
+      {
+        "count": 13,
+        "line_hits": [
+          94,
+          103,
+          697,
+          733,
+          989,
+          1041,
+          1043,
+          1051,
+          1083,
+          1449,
+          1777,
+          4116,
+          4130
+        ],
+        "name": "beryllium"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          1777,
+          2037,
+          6438,
+          6669,
+          6687,
+          6771,
+          6884,
+          6955,
+          6957,
+          7451
+        ],
+        "name": "nickel"
+      },
+      {
+        "count": 6,
+        "line_hits": [
+          460,
+          462,
+          464,
+          5976,
+          6083,
+          6142
+        ],
+        "name": "stainless steel 316"
+      },
+      {
+        "count": 4,
+        "line_hits": [
+          2039,
+          6142,
+          6144,
+          6321
+        ],
+        "name": "stainless steel 304"
+      },
+      {
+        "count": 3,
+        "line_hits": [
+          1829,
+          1845,
+          2537
+        ],
+        "name": "Monel"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          6325,
+          6424
+        ],
+        "name": "graphite"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          1126,
+          6355
+        ],
+        "name": "titanium"
+      }
+    ],
+    "component": [
+      {
+        "count": 297,
+        "line_hits": [
+          66,
+          91,
+          93,
+          253,
+          263,
+          264,
+          272,
+          273,
+          327,
+          331,
+          515,
+          592,
+          596,
+          598,
+          611,
+          642,
+          788,
+          795,
+          800,
+          802,
+          810,
+          812,
+          816,
+          818,
+          822,
+          826,
+          828,
+          830,
+          832,
+          834,
+          844,
+          863,
+          877,
+          879,
+          881,
+          883,
+          889,
+          891,
+          895,
+          897,
+          901,
+          903,
+          905,
+          907,
+          937,
+          971,
+          979,
+          988,
+          993,
+          997
+        ],
+        "name": "pump"
+      },
+      {
+        "count": 178,
+        "line_hits": [
+          495,
+          610,
+          810,
+          917,
+          929,
+          933,
+          937,
+          939,
+          943,
+          945,
+          947,
+          949,
+          955,
+          957,
+          961,
+          971,
+          972,
+          1087,
+          1098,
+          1100,
+          1102,
+          1104,
+          1106,
+          1110,
+          1114,
+          1120,
+          1122,
+          1198,
+          1222,
+          1325,
+          1333,
+          1337,
+          1349,
+          1351,
+          1353,
+          1363,
+          1403,
+          1413,
+          1417,
+          1447,
+          1449,
+          1459,
+          1479,
+          1487,
+          1489,
+          1761,
+          1901,
+          1903,
+          1905,
+          1911
+        ],
+        "name": "drain tank"
+      },
+      {
+        "count": 114,
+        "line_hits": [
+          165,
+          177,
+          179,
+          181,
+          233,
+          238,
+          246,
+          810,
+          816,
+          1459,
+          1579,
+          1581,
+          1583,
+          1587,
+          1589,
+          1593,
+          1613,
+          1623,
+          1625,
+          1661,
+          1667,
+          1679,
+          1685,
+          1687,
+          1691,
+          1693,
+          1695,
+          1697,
+          1701,
+          1703,
+          1711,
+          1713,
+          1715,
+          1717,
+          1719,
+          1721,
+          1727,
+          1731,
+          1735,
+          1748,
+          1807,
+          1929,
+          2060,
+          2062,
+          2086,
+          2090,
+          2092,
+          2096,
+          2098,
+          2102
+        ],
+        "name": "sampler"
+      },
+      {
+        "count": 97,
+        "line_hits": [
+          278,
+          519,
+          861,
+          871,
+          873,
+          889,
+          917,
+          955,
+          965,
+          969,
+          971,
+          1102,
+          1114,
+          1118,
+          1198,
+          1202,
+          1761,
+          1923,
+          1989,
+          2237,
+          2245,
+          2737,
+          2741,
+          2775,
+          2777,
+          2779,
+          2785,
+          2789,
+          2829,
+          2841,
+          2847,
+          2849,
+          2851,
+          2853,
+          2854,
+          2855,
+          2867,
+          2871,
+          2873,
+          2877,
+          2883,
+          2887,
+          2891,
+          2897,
+          2907,
+          2920,
+          2921,
+          2923,
+          2953,
+          2954
+        ],
+        "name": "freeze valve"
+      },
+      {
+        "count": 87,
+        "line_hits": [
+          120,
+          131,
+          169,
+          199,
+          233,
+          303,
+          470,
+          721,
+          722,
+          812,
+          881,
+          937,
+          993,
+          1027,
+          1029,
+          1106,
+          1192,
+          1194,
+          1230,
+          1239,
+          1246,
+          1248,
+          1250,
+          1252,
+          1473,
+          1477,
+          1583,
+          1585,
+          1613,
+          1615,
+          1617,
+          1619,
+          1643,
+          1667,
+          1669,
+          1673,
+          1677,
+          1705,
+          1765,
+          1771,
+          1797,
+          1803,
+          1873,
+          1877,
+          1881,
+          1883,
+          1885,
+          1891,
+          1923,
+          2060
+        ],
+        "name": "off-gas system"
+      },
+      {
+        "count": 41,
+        "line_hits": [
+          514,
+          515,
+          806,
+          816,
+          842,
+          865,
+          2785,
+          2791,
+          2819,
+          2831,
+          2985,
+          5330,
+          5730,
+          5810,
+          6111,
+          6331,
+          6424,
+          6725,
+          6747,
+          6804,
+          6806,
+          6808,
+          6827,
+          6911,
+          6931,
+          6997,
+          7165,
+          7475,
+          7954,
+          8379,
+          8383,
+          8394,
+          8397,
+          8400,
+          8640,
+          8828,
+          8832,
+          8834,
+          8838,
+          8845,
+          8968
+        ],
+        "name": "loop"
+      },
+      {
+        "count": 38,
+        "line_hits": [
+          263,
+          264,
+          1258,
+          1281,
+          1283,
+          1285,
+          1359,
+          1721,
+          2328,
+          2332,
+          2733,
+          2769,
+          2779,
+          2782,
+          2805,
+          2807,
+          2817,
+          2819,
+          2825,
+          2827,
+          2831,
+          2833,
+          2962,
+          2971,
+          3145,
+          3208,
+          3266,
+          3278,
+          3500,
+          3575,
+          4578,
+          5437,
+          5970,
+          6073,
+          6939,
+          7566,
+          7572,
+          7623
+        ],
+        "name": "salt pump"
+      },
+      {
+        "count": 31,
+        "line_hits": [
+          67,
+          718,
+          796,
+          860,
+          869,
+          893,
+          909,
+          2715,
+          2733,
+          2741,
+          2768,
+          2773,
+          2779,
+          2783,
+          2791,
+          2797,
+          2803,
+          2817,
+          3162,
+          3194,
+          3204,
+          3212,
+          3227,
+          3229,
+          3233,
+          3316,
+          4152,
+          4158,
+          4225,
+          5096,
+          6325
+        ],
+        "name": "control rod"
+      },
+      {
+        "count": 5,
+        "line_hits": [
+          788,
+          979,
+          1248,
+          3186,
+          3264
+        ],
+        "name": "heat exchanger"
+      }
+    ],
+    "organization": [
+      {
+        "count": 375,
+        "line_hits": [
+          33,
+          670,
+          688,
+          689,
+          690,
+          691,
+          969,
+          1186,
+          1214,
+          1248,
+          1311,
+          1323,
+          1337,
+          1339,
+          1343,
+          1375,
+          1415,
+          1453,
+          1469,
+          1487,
+          1527,
+          1528,
+          1529,
+          1530,
+          1531,
+          1532,
+          1533,
+          1537,
+          1541,
+          1542,
+          1544,
+          1545,
+          1546,
+          1547,
+          1551,
+          1552,
+          1556,
+          1558,
+          1587,
+          1669,
+          1743,
+          1744,
+          1746,
+          1747,
+          1748,
+          1749,
+          1755,
+          1773,
+          1775,
+          1783
+        ],
+        "name": "ORNL"
+      },
+      {
+        "count": 53,
+        "line_hits": [
+          39,
+          689,
+          2315,
+          2453,
+          2454,
+          2641,
+          2642,
+          4248,
+          4249,
+          4299,
+          4300,
+          4450,
+          4451,
+          4566,
+          4567,
+          4599,
+          4600,
+          4642,
+          4643,
+          4684,
+          4685,
+          4723,
+          4724,
+          4745,
+          4778,
+          4779,
+          4808,
+          4809,
+          4913,
+          4914,
+          4945,
+          4946,
+          4983,
+          5022,
+          5023,
+          5135,
+          5136,
+          5189,
+          5190,
+          5550,
+          5551,
+          7245,
+          8037,
+          8038,
+          8050,
+          8087,
+          8542,
+          8586,
+          8587,
+          8713
+        ],
+        "name": "Union Carbide"
+      },
+      {
+        "count": 10,
+        "line_hits": [
+          15,
+          29,
+          43,
+          7094,
+          7243,
+          9134,
+          9135,
+          9136,
+          9138,
+          9140
+        ],
+        "name": "AEC"
+      },
+      {
+        "count": 2,
+        "line_hits": [
+          3910,
+          4212
+        ],
+        "name": "General Electric"
+      }
+    ],
+    "reactor": [
+      {
+        "count": 1017,
+        "line_hits": [
+          688,
+          695,
+          697,
+          703,
+          704,
+          705,
+          707,
+          711,
+          712,
+          714,
+          716,
+          717,
+          721,
+          722,
+          723,
+          741,
+          745,
+          746,
+          747,
+          749,
+          750,
+          758,
+          788,
+          800,
+          804,
+          806,
+          818,
+          822,
+          826,
+          830,
+          832,
+          838,
+          840,
+          844,
+          852,
+          854,
+          856,
+          863,
+          865,
+          867,
+          871,
+          873,
+          877,
+          889,
+          893,
+          897,
+          899,
+          901,
+          903,
+          905
+        ],
+        "name": "ARE"
+      },
+      {
+        "count": 320,
+        "line_hits": [
+          3,
+          21,
+          211,
+          524,
+          676,
+          695,
+          697,
+          701,
+          703,
+          704,
+          706,
+          707,
+          745,
+          750,
+          754,
+          758,
+          763,
+          764,
+          772,
+          969,
+          1067,
+          1445,
+          1447,
+          1529,
+          1530,
+          1531,
+          1532,
+          1542,
+          1544,
+          1545,
+          1546,
+          1551,
+          1556,
+          1558,
+          1579,
+          1583,
+          1655,
+          1723,
+          1743,
+          1746,
+          1747,
+          1748,
+          1749,
+          1755,
+          1773,
+          1777,
+          1955,
+          1956,
+          1957,
+          1958
+        ],
+        "name": "MSRE"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          6295
+        ],
+        "name": "ART"
+      },
+      {
+        "count": 1,
+        "line_hits": [
+          9140
+        ],
+        "name": "MSBR"
+      }
+    ],
+    "report-series": [
+      {
+        "count": 1,
+        "line_hits": [
+          6757
+        ],
+        "name": "MSR Program Semiannual Progress Report"
+      }
+    ],
+    "salt-system": [
+      {
+        "count": 10,
+        "line_hits": [
+          197,
+          1473,
+          1763,
+          1825,
+          1835,
+          1855,
+          1861,
+          1873,
+          1923,
+          1927
+        ],
+        "name": "NaF"
+      }
+    ]
+  },
+  "figures": [],
+  "file_hash": "5d7fac395934853e5041017a55a94f11181e17b6df6105bc6b94c5927b93e164",
+  "markdown_path": "pdf/ORNL-TM-0729B/ORNL-TM-0729B/hybrid_ocr/ORNL-TM-0729B.md",
+  "report_number": null,
+  "report_numbers": [],
+  "report_series": "ornl-technical-memorandum",
+  "section_count": 734,
+  "sections": [
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 4,
+      "heading": "MSRE DESIGN AND OPERATIONS REPORT",
+      "level": 1,
+      "start_line": 3
+    },
+    {
+      "anchor": "part-ii-nuclear-and-process-instrumentation",
+      "end_line": 8,
+      "heading": "Part II. Nuclear and Process Instrumentation",
+      "level": 1,
+      "start_line": 5
+    },
+    {
+      "anchor": "master",
+      "end_line": 10,
+      "heading": "MASTER",
+      "level": 1,
+      "start_line": 9
+    },
+    {
+      "anchor": "distribution-of-this-document-is-unlimited",
+      "end_line": 18,
+      "heading": "Distribution Of This Document Is Unlimited",
+      "level": 2,
+      "start_line": 11
+    },
+    {
+      "anchor": "instrumentation-and-controls-division",
+      "end_line": 20,
+      "heading": "Instrumentation And Controls Division",
+      "level": 2,
+      "start_line": 19
+    },
+    {
+      "anchor": "msre-design-and-operations-report",
+      "end_line": 26,
+      "heading": "Msre Design And Operations Report",
+      "level": 2,
+      "start_line": 21
+    },
+    {
+      "anchor": "notice",
+      "end_line": 30,
+      "heading": "NOTICE",
+      "level": 1,
+      "start_line": 27
+    },
+    {
+      "anchor": "september-1972",
+      "end_line": 32,
+      "heading": "September 1972",
+      "level": 2,
+      "start_line": 31
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 38,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 33
+    },
+    {
+      "anchor": "union-carbide-corporation",
+      "end_line": 42,
+      "heading": "Union Carbide Corporation",
+      "level": 2,
+      "start_line": 39
+    },
+    {
+      "anchor": "u-s-atomic-energy-commission",
+      "end_line": 48,
+      "heading": "U.S. Atomic Energy Commission",
+      "level": 2,
+      "start_line": 43
+    },
+    {
+      "anchor": "contents",
+      "end_line": 104,
+      "heading": "CONTENTS",
+      "level": 1,
+      "start_line": 49
+    },
+    {
+      "anchor": "3-4-coolant-salt-fill-and-drain-system-14",
+      "end_line": 110,
+      "heading": "3.4 Coolant Salt Fill and Drain System 14",
+      "level": 1,
+      "start_line": 105
+    },
+    {
+      "anchor": "3-5-helium-cover-gas-system-15",
+      "end_line": 119,
+      "heading": "3.5 Helium Cover Gas System 15",
+      "level": 1,
+      "start_line": 111
+    },
+    {
+      "anchor": "3-6-off-gas-containment-pressure-and-component-coolant-systems-17",
+      "end_line": 130,
+      "heading": "3.6 Off-Gas, Containment Pressure, and Component Coolant Systems 17",
+      "level": 1,
+      "start_line": 120
+    },
+    {
+      "anchor": "3-6-4-off-gas-trouble-shooting-system-20",
+      "end_line": 132,
+      "heading": "3.6.4 Off-Gas Trouble-Shooting System 20",
+      "level": 1,
+      "start_line": 131
+    },
+    {
+      "anchor": "3-7-lube-oil-systems-20",
+      "end_line": 141,
+      "heading": "3.7 Lube Oil Systems 20",
+      "level": 1,
+      "start_line": 133
+    },
+    {
+      "anchor": "3-8-cooling-water-system-22",
+      "end_line": 147,
+      "heading": "3.8 Cooling Water System 22",
+      "level": 1,
+      "start_line": 142
+    },
+    {
+      "anchor": "3-9-liquid-waste-system-25",
+      "end_line": 153,
+      "heading": "3.9 Liquid Waste System 25",
+      "level": 1,
+      "start_line": 148
+    },
+    {
+      "anchor": "3-10-vapor-condensing-system-26",
+      "end_line": 155,
+      "heading": "3.10 Vapor Condensing System 26",
+      "level": 1,
+      "start_line": 154
+    },
+    {
+      "anchor": "3-11-containment-ventilation-system-26",
+      "end_line": 667,
+      "heading": "3.11 Containment Ventilation System 26",
+      "level": 1,
+      "start_line": 156
+    },
+    {
+      "anchor": "acknowledgments",
+      "end_line": 692,
+      "heading": "ACKNOWLEDGMENTS",
+      "level": 1,
+      "start_line": 668
+    },
+    {
+      "anchor": "foreword",
+      "end_line": 698,
+      "heading": "FOREWORD",
+      "level": 1,
+      "start_line": 693
+    },
+    {
+      "anchor": "summary-part-iia",
+      "end_line": 700,
+      "heading": "SUMMARY - PART IIA",
+      "level": 1,
+      "start_line": 699
+    },
+    {
+      "anchor": "1-msre-instrumentation-and-control-system-general",
+      "end_line": 708,
+      "heading": "1. MSRE Instrumentation and Control System - General",
+      "level": 1,
+      "start_line": 701
+    },
+    {
+      "anchor": "2-safety-instrumentation-and-reactor-control",
+      "end_line": 736,
+      "heading": "2. Safety Instrumentation and Reactor Control",
+      "level": 1,
+      "start_line": 709
+    },
+    {
+      "anchor": "part-iib",
+      "end_line": 738,
+      "heading": "PART IIB",
+      "level": 1,
+      "start_line": 737
+    },
+    {
+      "anchor": "3-process-instrumentation",
+      "end_line": 742,
+      "heading": "3. Process Instrumentation",
+      "level": 1,
+      "start_line": 739
+    },
+    {
+      "anchor": "4-electrical-control-and-alarm-circuits",
+      "end_line": 751,
+      "heading": "4. Electrical Control and Alarm Circuits",
+      "level": 1,
+      "start_line": 743
+    },
+    {
+      "anchor": "5-standard-process-instrumentation",
+      "end_line": 755,
+      "heading": "5. Standard Process Instrumentation",
+      "level": 1,
+      "start_line": 752
+    },
+    {
+      "anchor": "6-special-process-instrumentation",
+      "end_line": 759,
+      "heading": "6. Special Process Instrumentation",
+      "level": 1,
+      "start_line": 756
+    },
+    {
+      "anchor": "7-coding-systems-and-installation-practices",
+      "end_line": 771,
+      "heading": "7. Coding Systems and Installation Practices",
+      "level": 1,
+      "start_line": 760
+    },
+    {
+      "anchor": "msre-design-and-operations-report-part-iib",
+      "end_line": 773,
+      "heading": "MSRE Design and Operations Report, Part IIB",
+      "level": 1,
+      "start_line": 772
+    },
+    {
+      "anchor": "3-process-instrumentation-subsystems",
+      "end_line": 785,
+      "heading": "3. PROCESS INSTRUMENTATION SUBSYSTEMS",
+      "level": 1,
+      "start_line": 774
+    },
+    {
+      "anchor": "3-1-fuel-salt-circulating-system",
+      "end_line": 797,
+      "heading": "3.1 FUEL SALT CIRCULATING SYSTEM",
+      "level": 1,
+      "start_line": 786
+    },
+    {
+      "anchor": "3-1-1-pressure-measurements",
+      "end_line": 819,
+      "heading": "3.1.1 Pressure Measurements",
+      "level": 1,
+      "start_line": 798
+    },
+    {
+      "anchor": "3-1-2-level-measurements",
+      "end_line": 849,
+      "heading": "3.1.2 Level Measurements",
+      "level": 1,
+      "start_line": 820
+    },
+    {
+      "anchor": "3-1-3-fuel-system-temperatures",
+      "end_line": 874,
+      "heading": "3.1.3 Fuel System Temperatures",
+      "level": 1,
+      "start_line": 850
+    },
+    {
+      "anchor": "3-1-4-helium-purges",
+      "end_line": 886,
+      "heading": "3.1.4 Helium Purges",
+      "level": 1,
+      "start_line": 875
+    },
+    {
+      "anchor": "3-1-5-component-cooling-air",
+      "end_line": 894,
+      "heading": "3.1.5 Component Cooling Air",
+      "level": 1,
+      "start_line": 887
+    },
+    {
+      "anchor": "3-1-6-fuel-pump-motor-parameters",
+      "end_line": 908,
+      "heading": "3.1.6 Fuel Pump Motor Parameters",
+      "level": 1,
+      "start_line": 895
+    },
+    {
+      "anchor": "3-1-7-radiation-and-control-rods",
+      "end_line": 914,
+      "heading": "3.1.7 Radiation and Control Rods",
+      "level": 1,
+      "start_line": 909
+    },
+    {
+      "anchor": "3-2-fuel-salt-drain-and-fill-system",
+      "end_line": 926,
+      "heading": "3.2 FUEL SALT DRAIN AND FILL SYSTEM",
+      "level": 1,
+      "start_line": 915
+    },
+    {
+      "anchor": "3-2-1-pressure",
+      "end_line": 940,
+      "heading": "3.2.1 Pressure",
+      "level": 1,
+      "start_line": 927
+    },
+    {
+      "anchor": "3-2-2-salt-inventory",
+      "end_line": 950,
+      "heading": "3.2.2 Salt Inventory",
+      "level": 1,
+      "start_line": 941
+    },
+    {
+      "anchor": "3-2-3-temperature",
+      "end_line": 958,
+      "heading": "3.2.3 Temperature",
+      "level": 1,
+      "start_line": 951
+    },
+    {
+      "anchor": "3-2-4-radiation",
+      "end_line": 962,
+      "heading": "3.2.4 Radiation",
+      "level": 1,
+      "start_line": 959
+    },
+    {
+      "anchor": "3-2-5-fuel-loading-and-storage",
+      "end_line": 976,
+      "heading": "3.2.5 Fuel Loading and Storage",
+      "level": 1,
+      "start_line": 963
+    },
+    {
+      "anchor": "3-3-coolant-salt-circulating-system",
+      "end_line": 990,
+      "heading": "3.3 COOLANT SALT CIRCULATING SYSTEM",
+      "level": 1,
+      "start_line": 977
+    },
+    {
+      "anchor": "3-3-1-pressure-measurements",
+      "end_line": 994,
+      "heading": "3.3.1 Pressure Measurements",
+      "level": 1,
+      "start_line": 991
+    },
+    {
+      "anchor": "3-3-2-level",
+      "end_line": 1002,
+      "heading": "3.3.2 Level",
+      "level": 1,
+      "start_line": 995
+    },
+    {
+      "anchor": "3-3-3-temperature",
+      "end_line": 1014,
+      "heading": "3.3.3 Temperature",
+      "level": 1,
+      "start_line": 1003
+    },
+    {
+      "anchor": "3-3-4-flow",
+      "end_line": 1030,
+      "heading": "3.3.4 Flow",
+      "level": 1,
+      "start_line": 1015
+    },
+    {
+      "anchor": "3-3-5-coolant-pump-motor-parameters",
+      "end_line": 1040,
+      "heading": "3.3.5 Coolant Pump Motor Parameters",
+      "level": 1,
+      "start_line": 1031
+    },
+    {
+      "anchor": "3-3-6-beryllium-monitoring-and-radiation",
+      "end_line": 1048,
+      "heading": "3.3.6 Beryllium Monitoring and Radiation",
+      "level": 1,
+      "start_line": 1041
+    },
+    {
+      "anchor": "3-3-7-coolant-radiator",
+      "end_line": 1084,
+      "heading": "3.3.7 Coolant Radiator",
+      "level": 1,
+      "start_line": 1049
+    },
+    {
+      "anchor": "3-4-coolant-salt-fill-and-drain-system",
+      "end_line": 1095,
+      "heading": "3.4 COOLANT SALT FILL AND DRAIN SYSTEM",
+      "level": 1,
+      "start_line": 1085
+    },
+    {
+      "anchor": "3-4-1-pressure",
+      "end_line": 1107,
+      "heading": "3.4.1 Pressure",
+      "level": 1,
+      "start_line": 1096
+    },
+    {
+      "anchor": "3-4-2-salt-inventory",
+      "end_line": 1111,
+      "heading": "3.4.2 Salt Inventory",
+      "level": 1,
+      "start_line": 1108
+    },
+    {
+      "anchor": "3-4-3-temperature",
+      "end_line": 1123,
+      "heading": "3.4.3 Temperature",
+      "level": 1,
+      "start_line": 1112
+    },
+    {
+      "anchor": "3-5-helium-cover-gas-system",
+      "end_line": 1139,
+      "heading": "3.5 HELIUM COVER GAS SYSTEM",
+      "level": 1,
+      "start_line": 1124
+    },
+    {
+      "anchor": "3-5-1-pressure",
+      "end_line": 1163,
+      "heading": "3.5.1 Pressure",
+      "level": 1,
+      "start_line": 1140
+    },
+    {
+      "anchor": "3-5-2-flow",
+      "end_line": 1169,
+      "heading": "3.5.2 Flow",
+      "level": 1,
+      "start_line": 1164
+    },
+    {
+      "anchor": "3-5-3-temperature",
+      "end_line": 1179,
+      "heading": "3.5.3 Temperature",
+      "level": 1,
+      "start_line": 1170
+    },
+    {
+      "anchor": "3-5-4-oxygen-and-moisture-content",
+      "end_line": 1183,
+      "heading": "3.5.4 Oxygen and Moisture Content",
+      "level": 1,
+      "start_line": 1180
+    },
+    {
+      "anchor": "3-5-5-radioactivity",
+      "end_line": 1187,
+      "heading": "3.5.5 Radioactivity",
+      "level": 1,
+      "start_line": 1184
+    },
+    {
+      "anchor": "3-5-6-leak-detection",
+      "end_line": 1191,
+      "heading": "3.5.6 Leak Detection",
+      "level": 1,
+      "start_line": 1188
+    },
+    {
+      "anchor": "3-6-off-gas-containment-pressure-and-component-coolant-systems",
+      "end_line": 1195,
+      "heading": "3.6 OFF-GAS, CONTAINMENT PRESSURE, AND COMPONENT COOLANT SYSTEMS",
+      "level": 1,
+      "start_line": 1192
+    },
+    {
+      "anchor": "3-6-1-component-coolant-system",
+      "end_line": 1211,
+      "heading": "3.6.1 Component Coolant System",
+      "level": 1,
+      "start_line": 1196
+    },
+    {
+      "anchor": "3-6-2-containment-pressure-control",
+      "end_line": 1227,
+      "heading": "3.6.2 Containment Pressure Control",
+      "level": 1,
+      "start_line": 1212
+    },
+    {
+      "anchor": "3-6-3-main-and-auxiliary-charcoal-beds",
+      "end_line": 1249,
+      "heading": "3.6.3 Main and Auxiliary Charcoal Beds",
+      "level": 1,
+      "start_line": 1228
+    },
+    {
+      "anchor": "3-6-4-off-gas-trouble-shooting-system",
+      "end_line": 1253,
+      "heading": "3.6.4 Off-Gas Trouble-Shooting System",
+      "level": 1,
+      "start_line": 1250
+    },
+    {
+      "anchor": "3-7-lube-oil-systems",
+      "end_line": 1266,
+      "heading": "3.7 LUBE OIL SYSTEMS",
+      "level": 1,
+      "start_line": 1254
+    },
+    {
+      "anchor": "3-7-1-pressure",
+      "end_line": 1278,
+      "heading": "3.7.1 Pressure",
+      "level": 1,
+      "start_line": 1267
+    },
+    {
+      "anchor": "3-7-2-flow",
+      "end_line": 1290,
+      "heading": "3.7.2 Flow",
+      "level": 1,
+      "start_line": 1279
+    },
+    {
+      "anchor": "3-7-3-level",
+      "end_line": 1294,
+      "heading": "3.7.3 Level",
+      "level": 1,
+      "start_line": 1291
+    },
+    {
+      "anchor": "3-7-4-temperature",
+      "end_line": 1302,
+      "heading": "3.7.4 Temperature",
+      "level": 1,
+      "start_line": 1295
+    },
+    {
+      "anchor": "3-7-5-motor-parameters",
+      "end_line": 1308,
+      "heading": "3.7.5 Motor Parameters",
+      "level": 1,
+      "start_line": 1303
+    },
+    {
+      "anchor": "3-7-6-radiation",
+      "end_line": 1312,
+      "heading": "3.7.6 Radiation",
+      "level": 1,
+      "start_line": 1309
+    },
+    {
+      "anchor": "3-8-cooling-water-system",
+      "end_line": 1320,
+      "heading": "3.8 COOLING WATER SYSTEM",
+      "level": 1,
+      "start_line": 1313
+    },
+    {
+      "anchor": "3-8-1-process-water-system",
+      "end_line": 1340,
+      "heading": "3.8.1 Process Water System",
+      "level": 1,
+      "start_line": 1321
+    },
+    {
+      "anchor": "3-8-2-condensate-water-system",
+      "end_line": 1354,
+      "heading": "3.8.2 Condensate Water System",
+      "level": 1,
+      "start_line": 1341
+    },
+    {
+      "anchor": "3-8-3-treated-water-system",
+      "end_line": 1390,
+      "heading": "3.8.3 Treated Water System",
+      "level": 1,
+      "start_line": 1355
+    },
+    {
+      "anchor": "3-9-liquid-waste-system",
+      "end_line": 1398,
+      "heading": "3.9 LIQUID WASTE SYSTEM",
+      "level": 1,
+      "start_line": 1391
+    },
+    {
+      "anchor": "3-9-1-pressure",
+      "end_line": 1404,
+      "heading": "3.9.1 Pressure",
+      "level": 1,
+      "start_line": 1399
+    },
+    {
+      "anchor": "3-9-2-level",
+      "end_line": 1420,
+      "heading": "3.9.2 Level",
+      "level": 1,
+      "start_line": 1405
+    },
+    {
+      "anchor": "3-9-3-flow",
+      "end_line": 1424,
+      "heading": "3.9.3 Flow",
+      "level": 1,
+      "start_line": 1421
+    },
+    {
+      "anchor": "3-10-vapor-condensing-system",
+      "end_line": 1442,
+      "heading": "3.10 VAPOR CONDENSING SYSTEM",
+      "level": 1,
+      "start_line": 1425
+    },
+    {
+      "anchor": "3-11-containment-ventilation-system",
+      "end_line": 1456,
+      "heading": "3.11 CONTAINMENT VENTILATION SYSTEM",
+      "level": 1,
+      "start_line": 1443
+    },
+    {
+      "anchor": "3-11-1-contained-areas-and-connecting-ducts",
+      "end_line": 1490,
+      "heading": "3.11.1 Contained Areas and Connecting Ducts",
+      "level": 1,
+      "start_line": 1457
+    },
+    {
+      "anchor": "3-11-2-containment-air-filters",
+      "end_line": 1504,
+      "heading": "3.11.2 Containment Air Filters",
+      "level": 1,
+      "start_line": 1491
+    },
+    {
+      "anchor": "3-11-3-stack-fans",
+      "end_line": 1516,
+      "heading": "3.11.3 Stack Fans",
+      "level": 1,
+      "start_line": 1505
+    },
+    {
+      "anchor": "3-11-4-containment-air-stack",
+      "end_line": 1524,
+      "heading": "3.11.4 Containment Air Stack",
+      "level": 1,
+      "start_line": 1517
+    },
+    {
+      "anchor": "references",
+      "end_line": 1576,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1525
+    },
+    {
+      "anchor": "3-12-sampling-and-enriching-systems",
+      "end_line": 1580,
+      "heading": "3.12 SAMPLING AND ENRICHING SYSTEMS",
+      "level": 1,
+      "start_line": 1577
+    },
+    {
+      "anchor": "3-12-1-fuel-salt-sampler-enricher",
+      "end_line": 1694,
+      "heading": "3.12.1. Fuel Salt Sampler-Enricher",
+      "level": 1,
+      "start_line": 1581
+    },
+    {
+      "anchor": "3-12-2-fuel-processing-plant-sampler",
+      "end_line": 1718,
+      "heading": "3.12.2 Fuel Processing Plant Sampler",
+      "level": 1,
+      "start_line": 1695
+    },
+    {
+      "anchor": "3-12-3-coolant-salt-sampler",
+      "end_line": 1740,
+      "heading": "3.12.3 Coolant Salt Sampler",
+      "level": 1,
+      "start_line": 1719
+    },
+    {
+      "anchor": "references",
+      "end_line": 1750,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 1741
+    },
+    {
+      "anchor": "3-13-fuel-processing-system",
+      "end_line": 1752,
+      "heading": "3.13 FUEL PROCESSING SYSTEM",
+      "level": 1,
+      "start_line": 1751
+    },
+    {
+      "anchor": "3-13-1-introduction",
+      "end_line": 1756,
+      "heading": "3.13.1 Introduction",
+      "level": 1,
+      "start_line": 1753
+    },
+    {
+      "anchor": "3-13-2-process-description",
+      "end_line": 1766,
+      "heading": "3.13.2 Process Description",
+      "level": 1,
+      "start_line": 1757
+    },
+    {
+      "anchor": "3-13-3-design-considerations",
+      "end_line": 1780,
+      "heading": "3.13.3 Design Considerations",
+      "level": 1,
+      "start_line": 1767
+    },
+    {
+      "anchor": "3-13-4-electrical-control-circuits",
+      "end_line": 1794,
+      "heading": "3.13.4 Electrical Control Circuits",
+      "level": 1,
+      "start_line": 1781
+    },
+    {
+      "anchor": "3-13-5-instrumentation-and-control-subsystems",
+      "end_line": 1918,
+      "heading": "3.13.5 Instrumentation and Control Subsystems",
+      "level": 1,
+      "start_line": 1795
+    },
+    {
+      "anchor": "3-13-6-equipment-layout",
+      "end_line": 1952,
+      "heading": "3.13.6 Equipment Layout",
+      "level": 1,
+      "start_line": 1919
+    },
+    {
+      "anchor": "references",
+      "end_line": 1980,
+      "heading": "References",
+      "level": 1,
+      "start_line": 1953
+    },
+    {
+      "anchor": "3-14-msre-instrument-air-supply-systems",
+      "end_line": 1982,
+      "heading": "3.14 MSRE INSTRUMENT AIR SUPPLY SYSTEMS",
+      "level": 1,
+      "start_line": 1981
+    },
+    {
+      "anchor": "3-14-1-general",
+      "end_line": 1998,
+      "heading": "3.14.1 General",
+      "level": 1,
+      "start_line": 1983
+    },
+    {
+      "anchor": "3-14-2-components",
+      "end_line": 2049,
+      "heading": "3.14.2 Components",
+      "level": 1,
+      "start_line": 1999
+    },
+    {
+      "anchor": "3-14-3-cleaning",
+      "end_line": 2053,
+      "heading": "3.14.3 Cleaning",
+      "level": 1,
+      "start_line": 2050
+    },
+    {
+      "anchor": "3-14-4-test-and-inspection-of-the-system",
+      "end_line": 2059,
+      "heading": "3.14.4 Test and Inspection of the System",
+      "level": 1,
+      "start_line": 2054
+    },
+    {
+      "anchor": "3-15-off-gas-sampler",
+      "end_line": 2083,
+      "heading": "3.15 OFF-GAS SAMPLER",
+      "level": 1,
+      "start_line": 2060
+    },
+    {
+      "anchor": "3-15-1-system-layout",
+      "end_line": 2087,
+      "heading": "3.15.1 System Layout",
+      "level": 1,
+      "start_line": 2084
+    },
+    {
+      "anchor": "3-15-2-containment",
+      "end_line": 2097,
+      "heading": "3.15.2 Containment",
+      "level": 1,
+      "start_line": 2088
+    },
+    {
+      "anchor": "3-15-3-sampler-instrumentation",
+      "end_line": 2133,
+      "heading": "3.15.3 Sampler Instrumentation",
+      "level": 1,
+      "start_line": 2098
+    },
+    {
+      "anchor": "3-15-4-sampler-control",
+      "end_line": 2155,
+      "heading": "3.15.4 Sampler Control",
+      "level": 1,
+      "start_line": 2134
+    },
+    {
+      "anchor": "3-15-5-annunciator-circuits",
+      "end_line": 2198,
+      "heading": "3.15.5 Annunciator Circuits",
+      "level": 1,
+      "start_line": 2156
+    },
+    {
+      "anchor": "ornl-dwg-72-5103",
+      "end_line": 2212,
+      "heading": "Ornl Dwg, 72-5103",
+      "level": 2,
+      "start_line": 2199
+    },
+    {
+      "anchor": "ornl-dwg-72-5106",
+      "end_line": 2220,
+      "heading": "Ornl Dwg. 72-5106",
+      "level": 2,
+      "start_line": 2213
+    },
+    {
+      "anchor": "ornl-dwg-72-5107",
+      "end_line": 2227,
+      "heading": "Ornl Dwg. 72-5107",
+      "level": 2,
+      "start_line": 2221
+    },
+    {
+      "anchor": "ornl-dwg-72-5109",
+      "end_line": 2232,
+      "heading": "Ornl Dwg. 72-5109",
+      "level": 2,
+      "start_line": 2228
+    },
+    {
+      "anchor": "ornl-dwg-72-5110",
+      "end_line": 2285,
+      "heading": "Ornl Dwg. 72-5110",
+      "level": 2,
+      "start_line": 2233
+    },
+    {
+      "anchor": "common-annunciator-on-main-control-board",
+      "end_line": 2298,
+      "heading": "Common Annunciator On Main Control Board",
+      "level": 2,
+      "start_line": 2286
+    },
+    {
+      "anchor": "machine-finish-specifications",
+      "end_line": 2313,
+      "heading": "Machine Finish Specifications:",
+      "level": 2,
+      "start_line": 2299
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 2314,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 2314
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2315,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2315
+    },
+    {
+      "anchor": "inspece-of-union-cause-corporation",
+      "end_line": 2347,
+      "heading": "Inspece Of Union Cause Corporation",
+      "level": 2,
+      "start_line": 2316
+    },
+    {
+      "anchor": "ornl-dwg-72-5116",
+      "end_line": 2376,
+      "heading": "Ornl Dwg. 72-5116",
+      "level": 2,
+      "start_line": 2348
+    },
+    {
+      "anchor": "fi-arrangement-is-typical",
+      "end_line": 2378,
+      "heading": "米一Fi Arrangement Is Typical.",
+      "level": 2,
+      "start_line": 2377
+    },
+    {
+      "anchor": "ornl-dwg-72-5120",
+      "end_line": 2412,
+      "heading": "Ornl Dwg. 72-5120",
+      "level": 2,
+      "start_line": 2379
+    },
+    {
+      "anchor": "120794rh-608d-s",
+      "end_line": 2414,
+      "heading": "120794Rh 608D S",
+      "level": 2,
+      "start_line": 2413
+    },
+    {
+      "anchor": "f-3-12-16",
+      "end_line": 2429,
+      "heading": "F. $3,{12},16$",
+      "level": 2,
+      "start_line": 2415
+    },
+    {
+      "anchor": "120794rh-002d",
+      "end_line": 2441,
+      "heading": "120794Rh 002D",
+      "level": 2,
+      "start_line": 2430
+    },
+    {
+      "anchor": "trofilmed",
+      "end_line": 2451,
+      "heading": "Trofilmed",
+      "level": 2,
+      "start_line": 2442
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 2452,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 2452
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2453,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2453
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 2463,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 2454
+    },
+    {
+      "anchor": "120794rh-587d-2",
+      "end_line": 2536,
+      "heading": "120794Rh 587D 2",
+      "level": 2,
+      "start_line": 2464
+    },
+    {
+      "anchor": "parts-no-1-2-and-3-shall-be-fabricated-of-monel",
+      "end_line": 2538,
+      "heading": "Parts No. 1,2,And,3 Shall Be Fabricated Of Monel",
+      "level": 2,
+      "start_line": 2537
+    },
+    {
+      "anchor": "per-astm-b-164-49t",
+      "end_line": 2555,
+      "heading": "Per Astm B-164-49T.",
+      "level": 2,
+      "start_line": 2539
+    },
+    {
+      "anchor": "ornl-dwg-72-5163",
+      "end_line": 2558,
+      "heading": "Ornl Dwg. 72-5163",
+      "level": 2,
+      "start_line": 2556
+    },
+    {
+      "anchor": "portable-panel",
+      "end_line": 2586,
+      "heading": "Portable Panel",
+      "level": 2,
+      "start_line": 2559
+    },
+    {
+      "anchor": "cooling-oil-control-panels",
+      "end_line": 2587,
+      "heading": "Cooling Oil Control Panels",
+      "level": 2,
+      "start_line": 2587
+    },
+    {
+      "anchor": "plan-view",
+      "end_line": 2590,
+      "heading": "Plan View",
+      "level": 2,
+      "start_line": 2588
+    },
+    {
+      "anchor": "fuey-sampler-enricher",
+      "end_line": 2591,
+      "heading": "Fuey Sampler Enricher",
+      "level": 2,
+      "start_line": 2591
+    },
+    {
+      "anchor": "control-panels-plan-view",
+      "end_line": 2594,
+      "heading": "Control Panels - Plan View",
+      "level": 2,
+      "start_line": 2592
+    },
+    {
+      "anchor": "cooling-water-control-panel",
+      "end_line": 2595,
+      "heading": "Cooling Water Control Panel",
+      "level": 2,
+      "start_line": 2595
+    },
+    {
+      "anchor": "plan-view",
+      "end_line": 2598,
+      "heading": "Plan View",
+      "level": 2,
+      "start_line": 2596
+    },
+    {
+      "anchor": "typical",
+      "end_line": 2599,
+      "heading": "Typical",
+      "level": 2,
+      "start_line": 2599
+    },
+    {
+      "anchor": "cooling-oil-control-panel-header",
+      "end_line": 2600,
+      "heading": "Cooling Oil Control Panel Header",
+      "level": 2,
+      "start_line": 2600
+    },
+    {
+      "anchor": "elevation",
+      "end_line": 2603,
+      "heading": "Elevation",
+      "level": 2,
+      "start_line": 2601
+    },
+    {
+      "anchor": "header-9009-1",
+      "end_line": 2604,
+      "heading": "Header 9009-1",
+      "level": 2,
+      "start_line": 2604
+    },
+    {
+      "anchor": "elevation",
+      "end_line": 2607,
+      "heading": "Elevation",
+      "level": 2,
+      "start_line": 2605
+    },
+    {
+      "anchor": "typical",
+      "end_line": 2608,
+      "heading": "Typical",
+      "level": 2,
+      "start_line": 2608
+    },
+    {
+      "anchor": "cooling-water-control-panel-headed",
+      "end_line": 2609,
+      "heading": "Cooling Water Control Panel Headed",
+      "level": 2,
+      "start_line": 2609
+    },
+    {
+      "anchor": "elevation",
+      "end_line": 2616,
+      "heading": "Elevation",
+      "level": 2,
+      "start_line": 2610
+    },
+    {
+      "anchor": "detail-a",
+      "end_line": 2618,
+      "heading": "Detail A",
+      "level": 2,
+      "start_line": 2617
+    },
+    {
+      "anchor": "flavation",
+      "end_line": 2620,
+      "heading": "Flavation",
+      "level": 2,
+      "start_line": 2619
+    },
+    {
+      "anchor": "typical-active-valve-tap",
+      "end_line": 2622,
+      "heading": "Typical·Active Valve Tap",
+      "level": 2,
+      "start_line": 2621
+    },
+    {
+      "anchor": "detail-b",
+      "end_line": 2626,
+      "heading": "Detail B",
+      "level": 2,
+      "start_line": 2623
+    },
+    {
+      "anchor": "typical-gappad-valve-tap",
+      "end_line": 2628,
+      "heading": "Typical - Gappad Valve Tap",
+      "level": 2,
+      "start_line": 2627
+    },
+    {
+      "anchor": "same-as-below-a-except-as-noted",
+      "end_line": 2630,
+      "heading": "Same As Below \"A\", Except As Noted:",
+      "level": 2,
+      "start_line": 2629
+    },
+    {
+      "anchor": "1207948h-313d",
+      "end_line": 2635,
+      "heading": "1207948H 313D",
+      "level": 2,
+      "start_line": 2631
+    },
+    {
+      "anchor": "dinased-specified",
+      "end_line": 2636,
+      "heading": "Dinased Specified",
+      "level": 2,
+      "start_line": 2636
+    },
+    {
+      "anchor": "properties-2",
+      "end_line": 2637,
+      "heading": "Properties: ±2",
+      "level": 2,
+      "start_line": 2637
+    },
+    {
+      "anchor": "formula-1-005",
+      "end_line": 2639,
+      "heading": "Formula: ±1.005",
+      "level": 2,
+      "start_line": 2638
+    },
+    {
+      "anchor": "operates-by",
+      "end_line": 2640,
+      "heading": "Operates By",
+      "level": 2,
+      "start_line": 2640
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 2641,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 2641
+    },
+    {
+      "anchor": "invision-of-union-carbide-corporation",
+      "end_line": 2680,
+      "heading": "Invision Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 2642
+    },
+    {
+      "anchor": "ornl-dwg-72-5164",
+      "end_line": 2690,
+      "heading": "Ornl Dwg. 72-5164",
+      "level": 2,
+      "start_line": 2681
+    },
+    {
+      "anchor": "4-electrical-control-and-alarm-circuits",
+      "end_line": 2696,
+      "heading": "4. ELECTRICAL CONTROL AND ALARM CIRCUITS",
+      "level": 1,
+      "start_line": 2691
+    },
+    {
+      "anchor": "4-1-general-description",
+      "end_line": 2738,
+      "heading": "4.1 GENERAL DESCRIPTION",
+      "level": 1,
+      "start_line": 2697
+    },
+    {
+      "anchor": "4-2-master-control-circuits",
+      "end_line": 2758,
+      "heading": "4.2 MASTER CONTROL CIRCUITS",
+      "level": 1,
+      "start_line": 2739
+    },
+    {
+      "anchor": "4-2-1-reactor-operational-mode-selector-circuits",
+      "end_line": 2804,
+      "heading": "4.2.1 Reactor Operational Mode Selector Circuits",
+      "level": 1,
+      "start_line": 2759
+    },
+    {
+      "anchor": "4-2-2-fuel-salt-pump",
+      "end_line": 2824,
+      "heading": "4.2.2 Fuel-Salt Pump",
+      "level": 1,
+      "start_line": 2805
+    },
+    {
+      "anchor": "4-2-3-coolant-salt-pump",
+      "end_line": 2836,
+      "heading": "4.2.3 Coolant-Salt Pump",
+      "level": 1,
+      "start_line": 2825
+    },
+    {
+      "anchor": "4-2-4-fill-and-drain-system",
+      "end_line": 2959,
+      "heading": "4.2.4 Fill and Drain System",
+      "level": 1,
+      "start_line": 2837
+    },
+    {
+      "anchor": "4-2-5-pump-bowl-helium-purge-valves",
+      "end_line": 2968,
+      "heading": "4.2.5 Pump Bowl Helium Purge Valves",
+      "level": 1,
+      "start_line": 2960
+    },
+    {
+      "anchor": "4-2-6-pump-bowl-vent-valves",
+      "end_line": 2976,
+      "heading": "4.2.6 Pump Bowl Vent Valves",
+      "level": 1,
+      "start_line": 2969
+    },
+    {
+      "anchor": "4-2-7-normal-fuel-drain",
+      "end_line": 2982,
+      "heading": "4.2.7 Normal Fuel Drain",
+      "level": 1,
+      "start_line": 2977
+    },
+    {
+      "anchor": "4-2-8-coolant-system-drain-demand",
+      "end_line": 2999,
+      "heading": "4.2.8 Coolant System Drain Demand",
+      "level": 1,
+      "start_line": 2983
+    },
+    {
+      "anchor": "4-2-9-afterheat-removal-system",
+      "end_line": 3009,
+      "heading": "4.2.9 Afterheat Removal System",
+      "level": 1,
+      "start_line": 3000
+    },
+    {
+      "anchor": "references",
+      "end_line": 3014,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 3010
+    },
+    {
+      "anchor": "4-3-freeze-valves",
+      "end_line": 3016,
+      "heading": "4.3 FREEZE VALVES",
+      "level": 1,
+      "start_line": 3015
+    },
+    {
+      "anchor": "4-3-1-introduction",
+      "end_line": 3040,
+      "heading": "4.3.1 Introduction",
+      "level": 1,
+      "start_line": 3017
+    },
+    {
+      "anchor": "4-3-2-basic-circuit-operation",
+      "end_line": 3101,
+      "heading": "4.3.2 Basic Circuit Operation",
+      "level": 1,
+      "start_line": 3041
+    },
+    {
+      "anchor": "4-3-3-valve-condition-master-control-and-safety-interlocks",
+      "end_line": 3129,
+      "heading": "4.3.3 Valve Condition, Master Control, and Safety Interlocks",
+      "level": 1,
+      "start_line": 3102
+    },
+    {
+      "anchor": "references",
+      "end_line": 3136,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 3130
+    },
+    {
+      "anchor": "4-4-radiator-load-control-system",
+      "end_line": 3154,
+      "heading": "4.4 RADIATOR LOAD CONTROL SYSTEM",
+      "level": 1,
+      "start_line": 3137
+    },
+    {
+      "anchor": "references",
+      "end_line": 3159,
+      "heading": "References",
+      "level": 1,
+      "start_line": 3155
+    },
+    {
+      "anchor": "4-5-rod-control-circuits",
+      "end_line": 3163,
+      "heading": "4.5 ROD CONTROL CIRCUITS",
+      "level": 1,
+      "start_line": 3160
+    },
+    {
+      "anchor": "references",
+      "end_line": 3167,
+      "heading": "References",
+      "level": 1,
+      "start_line": 3164
+    },
+    {
+      "anchor": "4-6-fission-chamber-drives",
+      "end_line": 3183,
+      "heading": "4.6 FISSION CHAMBER DRIVES",
+      "level": 1,
+      "start_line": 3168
+    },
+    {
+      "anchor": "4-7-safety-circuits",
+      "end_line": 3191,
+      "heading": "4.7 SAFETY CIRCUITS",
+      "level": 1,
+      "start_line": 3184
+    },
+    {
+      "anchor": "4-7-1-load-scram-circuits",
+      "end_line": 3195,
+      "heading": "4.7.1 Load Scram Circuits",
+      "level": 1,
+      "start_line": 3192
+    },
+    {
+      "anchor": "4-7-2-fuel-drain-demand-circuits",
+      "end_line": 3224,
+      "heading": "4.7.2 Fuel Drain Demand Circuits",
+      "level": 1,
+      "start_line": 3196
+    },
+    {
+      "anchor": "4-7-3-nuclear-circuits",
+      "end_line": 3236,
+      "heading": "4.7.3 Nuclear Circuits",
+      "level": 1,
+      "start_line": 3225
+    },
+    {
+      "anchor": "4-8-containment",
+      "end_line": 3250,
+      "heading": "4.8 CONTAINMENT",
+      "level": 1,
+      "start_line": 3237
+    },
+    {
+      "anchor": "4-8-1-helium-supply-block-valves",
+      "end_line": 3275,
+      "heading": "4.8.1 Helium Supply Block Valves",
+      "level": 1,
+      "start_line": 3251
+    },
+    {
+      "anchor": "4-8-2-off-gas-system-block-valves",
+      "end_line": 3291,
+      "heading": "4.8.2 Off-Gas System Block Valves",
+      "level": 1,
+      "start_line": 3276
+    },
+    {
+      "anchor": "4-8-3-secondary-containment-penetration-block-valves",
+      "end_line": 3329,
+      "heading": "4.8.3 Secondary Containment Penetration Block Valves",
+      "level": 1,
+      "start_line": 3292
+    },
+    {
+      "anchor": "4-8-4-containment-air-system",
+      "end_line": 3374,
+      "heading": "4.8.4 Containment Air System",
+      "level": 1,
+      "start_line": 3330
+    },
+    {
+      "anchor": "references",
+      "end_line": 3393,
+      "heading": "References",
+      "level": 1,
+      "start_line": 3375
+    },
+    {
+      "anchor": "4-9-auxiliary-process-control",
+      "end_line": 3403,
+      "heading": "4.9 AUXILIARY PROCESS CONTROL",
+      "level": 1,
+      "start_line": 3394
+    },
+    {
+      "anchor": "4-9-1-containment-vessel-pressure-control",
+      "end_line": 3407,
+      "heading": "4.9.1 Containment Vessel Pressure Control",
+      "level": 1,
+      "start_line": 3404
+    },
+    {
+      "anchor": "4-9-2-instrument-air-compressors",
+      "end_line": 3461,
+      "heading": "4.9.2 Instrument Air Compressors",
+      "level": 1,
+      "start_line": 3408
+    },
+    {
+      "anchor": "4-9-3-lube-oil-pumps",
+      "end_line": 3497,
+      "heading": "4.9.3 Lube Oil Pumps",
+      "level": 1,
+      "start_line": 3462
+    },
+    {
+      "anchor": "4-9-4-component-coolant-pump",
+      "end_line": 3509,
+      "heading": "4.9.4 Component Coolant Pump",
+      "level": 1,
+      "start_line": 3498
+    },
+    {
+      "anchor": "4-9-5-steam-dome-feedwater-control",
+      "end_line": 3513,
+      "heading": "4.9.5 Steam Dome Feedwater Control",
+      "level": 1,
+      "start_line": 3510
+    },
+    {
+      "anchor": "4-9-6-cover-gas-system",
+      "end_line": 3537,
+      "heading": "4.9.6 Cover Gas System",
+      "level": 1,
+      "start_line": 3514
+    },
+    {
+      "anchor": "4-9-7-miscellaneous-motor-controls",
+      "end_line": 3572,
+      "heading": "4.9.7 Miscellaneous Motor Controls",
+      "level": 1,
+      "start_line": 3538
+    },
+    {
+      "anchor": "4-9-8-fuel-and-coolant-pump-level-system-circuits",
+      "end_line": 3613,
+      "heading": "4.9.8 Fuel and Coolant Pump Level System Circuits",
+      "level": 1,
+      "start_line": 3573
+    },
+    {
+      "anchor": "spring-return-to-off-position",
+      "end_line": 3614,
+      "heading": "Spring Return To Off Position.",
+      "level": 2,
+      "start_line": 3614
+    },
+    {
+      "anchor": "see-table-4-9-3-for-all-notes",
+      "end_line": 3634,
+      "heading": "\\*\\*-See Table 4.9.3 For All Notes.",
+      "level": 2,
+      "start_line": 3615
+    },
+    {
+      "anchor": "level-transmitter",
+      "end_line": 3636,
+      "heading": "Level Transmitter.",
+      "level": 2,
+      "start_line": 3635
+    },
+    {
+      "anchor": "level-transmitter",
+      "end_line": 3638,
+      "heading": "Level Transmitter.",
+      "level": 2,
+      "start_line": 3637
+    },
+    {
+      "anchor": "level-transmitter",
+      "end_line": 3640,
+      "heading": "Level Transmitter.",
+      "level": 2,
+      "start_line": 3639
+    },
+    {
+      "anchor": "switching-valve",
+      "end_line": 3642,
+      "heading": "Switching Valve.",
+      "level": 2,
+      "start_line": 3641
+    },
+    {
+      "anchor": "switching-valve",
+      "end_line": 3644,
+      "heading": "Switching Valve.",
+      "level": 2,
+      "start_line": 3643
+    },
+    {
+      "anchor": "recorded-by",
+      "end_line": 3653,
+      "heading": "Recorded By.",
+      "level": 2,
+      "start_line": 3645
+    },
+    {
+      "anchor": "see-note-i",
+      "end_line": 3658,
+      "heading": "See Note-I",
+      "level": 2,
+      "start_line": 3654
+    },
+    {
+      "anchor": "equalizer",
+      "end_line": 3660,
+      "heading": "Equalizer",
+      "level": 2,
+      "start_line": 3659
+    },
+    {
+      "anchor": "block",
+      "end_line": 3663,
+      "heading": "Block",
+      "level": 2,
+      "start_line": 3661
+    },
+    {
+      "anchor": "block",
+      "end_line": 3665,
+      "heading": "Block",
+      "level": 2,
+      "start_line": 3664
+    },
+    {
+      "anchor": "block",
+      "end_line": 3667,
+      "heading": "Block",
+      "level": 2,
+      "start_line": 3666
+    },
+    {
+      "anchor": "equalizer",
+      "end_line": 3679,
+      "heading": "Equalizer",
+      "level": 2,
+      "start_line": 3668
+    },
+    {
+      "anchor": "springreturnto-off-position",
+      "end_line": 3680,
+      "heading": "\\*Springreturnto\"Off\"Position.",
+      "level": 2,
+      "start_line": 3680
+    },
+    {
+      "anchor": "see-table-4-9-3-for-all-notes",
+      "end_line": 3688,
+      "heading": "\\*\\*-See Table 4.9.3 For All Notes.",
+      "level": 2,
+      "start_line": 3681
+    },
+    {
+      "anchor": "spring-return-to-off-position",
+      "end_line": 3690,
+      "heading": "\\*Spring Return To Off'Position.",
+      "level": 2,
+      "start_line": 3689
+    },
+    {
+      "anchor": "notes",
+      "end_line": 3711,
+      "heading": "NOTES:",
+      "level": 1,
+      "start_line": 3691
+    },
+    {
+      "anchor": "references",
+      "end_line": 3834,
+      "heading": "References",
+      "level": 1,
+      "start_line": 3712
+    },
+    {
+      "anchor": "4-10-control-interlock-circuits",
+      "end_line": 3851,
+      "heading": "4.10 CONTROL INTERLOCK CIRCUITS",
+      "level": 1,
+      "start_line": 3835
+    },
+    {
+      "anchor": "4-11-jumper-board-and-relay-cacinets",
+      "end_line": 3853,
+      "heading": "4.11 JUMPER BOARD AND RELAY CACINETS",
+      "level": 1,
+      "start_line": 3852
+    },
+    {
+      "anchor": "4-11-1-jumper-board",
+      "end_line": 3884,
+      "heading": "4.11.1 Jumper Board",
+      "level": 1,
+      "start_line": 3854
+    },
+    {
+      "anchor": "4-11-2-relay-cabinets",
+      "end_line": 3911,
+      "heading": "4.11.2 Relay Cabinets",
+      "level": 1,
+      "start_line": 3885
+    },
+    {
+      "anchor": "4-12-annunciators",
+      "end_line": 3913,
+      "heading": "4.12 ANNUNCIATORS",
+      "level": 1,
+      "start_line": 3912
+    },
+    {
+      "anchor": "4-12-1-introduction",
+      "end_line": 3921,
+      "heading": "4.12.1 Introduction",
+      "level": 1,
+      "start_line": 3914
+    },
+    {
+      "anchor": "4-12-2-component-description",
+      "end_line": 3959,
+      "heading": "4.12.2 Component Description",
+      "level": 1,
+      "start_line": 3922
+    },
+    {
+      "anchor": "4-12-3-system-description-and-operating-characteristics",
+      "end_line": 3995,
+      "heading": "4.12.3 System Description and Operating Characteristics",
+      "level": 1,
+      "start_line": 3960
+    },
+    {
+      "anchor": "references",
+      "end_line": 4019,
+      "heading": "References",
+      "level": 1,
+      "start_line": 3996
+    },
+    {
+      "anchor": "4-13-instrument-power-distribution",
+      "end_line": 4021,
+      "heading": "4.13 INSTRUMENT POWER DISTRIBUTION",
+      "level": 1,
+      "start_line": 4020
+    },
+    {
+      "anchor": "4-13-1-general-description",
+      "end_line": 4043,
+      "heading": "4.13.1 General Description",
+      "level": 1,
+      "start_line": 4022
+    },
+    {
+      "anchor": "4-13-2-reliable-ac-system",
+      "end_line": 4065,
+      "heading": "4.13.2 Reliable AC System",
+      "level": 1,
+      "start_line": 4044
+    },
+    {
+      "anchor": "ipp2",
+      "end_line": 4078,
+      "heading": "IPP2",
+      "level": 1,
+      "start_line": 4066
+    },
+    {
+      "anchor": "ipp3-and-ippa3",
+      "end_line": 4087,
+      "heading": "IPP3 and IPPA3",
+      "level": 1,
+      "start_line": 4079
+    },
+    {
+      "anchor": "ipp6",
+      "end_line": 4105,
+      "heading": "IPP6",
+      "level": 1,
+      "start_line": 4088
+    },
+    {
+      "anchor": "4-13-3-tva-diesel-system",
+      "end_line": 4131,
+      "heading": "4.13.3 TVA-Diesel System",
+      "level": 1,
+      "start_line": 4106
+    },
+    {
+      "anchor": "4-13-4-48-v-dc-system",
+      "end_line": 4155,
+      "heading": "4.13.4 48-V DC System",
+      "level": 1,
+      "start_line": 4132
+    },
+    {
+      "anchor": "ipp1",
+      "end_line": 4164,
+      "heading": "IPP1",
+      "level": 1,
+      "start_line": 4156
+    },
+    {
+      "anchor": "ippa1",
+      "end_line": 4173,
+      "heading": "IPPA1",
+      "level": 1,
+      "start_line": 4165
+    },
+    {
+      "anchor": "references",
+      "end_line": 4229,
+      "heading": "References",
+      "level": 1,
+      "start_line": 4174
+    },
+    {
+      "anchor": "note",
+      "end_line": 4246,
+      "heading": "Note:",
+      "level": 2,
+      "start_line": 4230
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4247,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4247
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4248,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4248
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4277,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4249
+    },
+    {
+      "anchor": "circuit",
+      "end_line": 4279,
+      "heading": "Circuit",
+      "level": 2,
+      "start_line": 4278
+    },
+    {
+      "anchor": "equiliber",
+      "end_line": 4285,
+      "heading": "Equiliber",
+      "level": 2,
+      "start_line": 4280
+    },
+    {
+      "anchor": "equiliber",
+      "end_line": 4297,
+      "heading": "Equiliber",
+      "level": 2,
+      "start_line": 4286
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4298,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4298
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4299,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4299
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4302,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4300
+    },
+    {
+      "anchor": "containment-circuits",
+      "end_line": 4309,
+      "heading": "Containment Circuits",
+      "level": 2,
+      "start_line": 4303
+    },
+    {
+      "anchor": "amp-j-td-td-date",
+      "end_line": 4313,
+      "heading": "&amp; J</td><td>DATE",
+      "level": 1,
+      "start_line": 4310
+    },
+    {
+      "anchor": "date",
+      "end_line": 4322,
+      "heading": "Date",
+      "level": 2,
+      "start_line": 4314
+    },
+    {
+      "anchor": "low-reactor-cell-pressure",
+      "end_line": 4334,
+      "heading": "Low Reactor Cell Pressure",
+      "level": 2,
+      "start_line": 4323
+    },
+    {
+      "anchor": "207948h-573d",
+      "end_line": 4390,
+      "heading": "207948H 573D",
+      "level": 2,
+      "start_line": 4335
+    },
+    {
+      "anchor": "mission-chamber-1-drive",
+      "end_line": 4401,
+      "heading": "Mission Chamber #1 Drive",
+      "level": 2,
+      "start_line": 4391
+    },
+    {
+      "anchor": "shannel-shannel-bpa-shanne",
+      "end_line": 4404,
+      "heading": "Shannel Shannel Bpa Shanne",
+      "level": 2,
+      "start_line": 4402
+    },
+    {
+      "anchor": "count-rate-meter",
+      "end_line": 4405,
+      "heading": "Count Rate Meter",
+      "level": 2,
+      "start_line": 4405
+    },
+    {
+      "anchor": "conv",
+      "end_line": 4448,
+      "heading": "Conv",
+      "level": 2,
+      "start_line": 4406
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4449,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4449
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4450,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4450
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4469,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4451
+    },
+    {
+      "anchor": "120794rh-503d-3",
+      "end_line": 4492,
+      "heading": "120794Rh 503D 3",
+      "level": 2,
+      "start_line": 4470
+    },
+    {
+      "anchor": "control-interlock-circuits",
+      "end_line": 4497,
+      "heading": "Control Interlock Circuits",
+      "level": 2,
+      "start_line": 4493
+    },
+    {
+      "anchor": "i20794rh-415d",
+      "end_line": 4564,
+      "heading": "I20794Rh 415D",
+      "level": 2,
+      "start_line": 4498
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4565,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4565
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4566,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4566
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4569,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4567
+    },
+    {
+      "anchor": "cell-air-oxygen-analysis-block-valves",
+      "end_line": 4574,
+      "heading": "Cell Air Oxygen Analysis Block Valves",
+      "level": 2,
+      "start_line": 4570
+    },
+    {
+      "anchor": "120794rh-398d",
+      "end_line": 4597,
+      "heading": "120794Rh 398D",
+      "level": 2,
+      "start_line": 4575
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4598,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4598
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4599,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4599
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4607,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4600
+    },
+    {
+      "anchor": "auxiliary-a-c-control-circuits",
+      "end_line": 4609,
+      "heading": "Auxiliary A.C. Control Circuits",
+      "level": 2,
+      "start_line": 4608
+    },
+    {
+      "anchor": "to-the",
+      "end_line": 4638,
+      "heading": "To The",
+      "level": 2,
+      "start_line": 4610
+    },
+    {
+      "anchor": "controls-circuit-pang-1",
+      "end_line": 4640,
+      "heading": "Controls Circuit - Pang-1",
+      "level": 2,
+      "start_line": 4639
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4641,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4641
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4642,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4642
+    },
+    {
+      "anchor": "invision-of-union-carbide-corporation",
+      "end_line": 4645,
+      "heading": "Invision Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4643
+    },
+    {
+      "anchor": "1207948h-326d3",
+      "end_line": 4679,
+      "heading": "1207948H 326D3",
+      "level": 2,
+      "start_line": 4646
+    },
+    {
+      "anchor": "120794rh-03id-s",
+      "end_line": 4682,
+      "heading": "120794Rh 03Id S",
+      "level": 2,
+      "start_line": 4680
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4683,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4683
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4684,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4684
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4687,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4685
+    },
+    {
+      "anchor": "maintenance-elementary",
+      "end_line": 4689,
+      "heading": "Maintenance Elementary",
+      "level": 2,
+      "start_line": 4688
+    },
+    {
+      "anchor": "to-the",
+      "end_line": 4715,
+      "heading": "To The",
+      "level": 2,
+      "start_line": 4690
+    },
+    {
+      "anchor": "indicator-lamps",
+      "end_line": 4721,
+      "heading": "Indicator Lamps",
+      "level": 2,
+      "start_line": 4716
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4722,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4722
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4723,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4723
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4726,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4724
+    },
+    {
+      "anchor": "maintenance-elementary-diagram",
+      "end_line": 4746,
+      "heading": "Maintenance Elementary Diagram",
+      "level": 2,
+      "start_line": 4727
+    },
+    {
+      "anchor": "1207948h-484d",
+      "end_line": 4772,
+      "heading": "1207948H 484D",
+      "level": 2,
+      "start_line": 4747
+    },
+    {
+      "anchor": "control-circuit",
+      "end_line": 4776,
+      "heading": "Control Circuit",
+      "level": 2,
+      "start_line": 4773
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4777,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4777
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4778,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4778
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4783,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4779
+    },
+    {
+      "anchor": "f1-1-cooling-tower-fan-1",
+      "end_line": 4786,
+      "heading": "F1-1-Cooling Tower-Fan#1",
+      "level": 2,
+      "start_line": 4784
+    },
+    {
+      "anchor": "ff-2-cooling-power-fan-2",
+      "end_line": 4789,
+      "heading": "Ff-2-Cooling Power Fan #2",
+      "level": 2,
+      "start_line": 4787
+    },
+    {
+      "anchor": "cp-3-component-cooling-pump",
+      "end_line": 4792,
+      "heading": "Cp-3·Component Cooling Pump",
+      "level": 2,
+      "start_line": 4790
+    },
+    {
+      "anchor": "rcc-1-reactor-cell-space-cooler-1",
+      "end_line": 4795,
+      "heading": "Rcc-1- Reactor Cell Space Cooler#1",
+      "level": 2,
+      "start_line": 4793
+    },
+    {
+      "anchor": "rcc-2-rbacfor-cell-space-cooler-2",
+      "end_line": 4800,
+      "heading": "Rcc-2.Rbacfor Cell Space Cooler #2",
+      "level": 2,
+      "start_line": 4796
+    },
+    {
+      "anchor": "ccc-1-coolant-cell-space-cooler-east",
+      "end_line": 4806,
+      "heading": "Ccc-1 = Coolant Cell Space Cooler (East)",
+      "level": 2,
+      "start_line": 4801
+    },
+    {
+      "anchor": "generated-by",
+      "end_line": 4807,
+      "heading": "Generated By",
+      "level": 2,
+      "start_line": 4807
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4813,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4808
+    },
+    {
+      "anchor": "ccc-2-coolant-cell-space-coocer-west",
+      "end_line": 4816,
+      "heading": "Ccc-2-Coolant Cell Space Coocer (West)",
+      "level": 2,
+      "start_line": 4814
+    },
+    {
+      "anchor": "dcc-drain-fank-cell-space-cooler",
+      "end_line": 4819,
+      "heading": "Dcc-Drain Fank Cell Space Cooler",
+      "level": 2,
+      "start_line": 4817
+    },
+    {
+      "anchor": "hcv-930a-reactor-cell-exhaust-duct-valve",
+      "end_line": 4822,
+      "heading": "Hcv- 930A - Reactor Cell Exhaust Duct Valve",
+      "level": 2,
+      "start_line": 4820
+    },
+    {
+      "anchor": "hcv-9308-reactor-cell",
+      "end_line": 4823,
+      "heading": "Hcv-9308-Reactor Cell",
+      "level": 2,
+      "start_line": 4823
+    },
+    {
+      "anchor": "exhaust-duct-vacev",
+      "end_line": 4828,
+      "heading": "Exhaust Duct Vacev",
+      "level": 2,
+      "start_line": 4824
+    },
+    {
+      "anchor": "hcv-935a-high-bay-exhaust-damper-motor-valve",
+      "end_line": 4831,
+      "heading": "Hcv-935A-High Bay Exhaust Damper Motor Valve",
+      "level": 2,
+      "start_line": 4829
+    },
+    {
+      "anchor": "limit-sw-gene-deliver-from-vanad-motor",
+      "end_line": 4833,
+      "heading": "(Limit Sw, Gene Deliver From Vanad Motor)",
+      "level": 2,
+      "start_line": 4832
+    },
+    {
+      "anchor": "full",
+      "end_line": 4835,
+      "heading": "Full",
+      "level": 2,
+      "start_line": 4834
+    },
+    {
+      "anchor": "valvos",
+      "end_line": 4837,
+      "heading": "Valvos",
+      "level": 2,
+      "start_line": 4836
+    },
+    {
+      "anchor": "full",
+      "end_line": 4846,
+      "heading": "Full",
+      "level": 2,
+      "start_line": 4838
+    },
+    {
+      "anchor": "torun-switch-at-valve-motor",
+      "end_line": 4848,
+      "heading": "(Torun Switch At Valve Motor)",
+      "level": 2,
+      "start_line": 4847
+    },
+    {
+      "anchor": "occur-during-closing-cycle-or",
+      "end_line": 4850,
+      "heading": "Occur During Closing Cycle Or",
+      "level": 2,
+      "start_line": 4849
+    },
+    {
+      "anchor": "occur-during-open-cycle-or",
+      "end_line": 4854,
+      "heading": "Occur During Open Cycle Or",
+      "level": 2,
+      "start_line": 4851
+    },
+    {
+      "anchor": "limit-sw-gain-derive-from-valve-motor",
+      "end_line": 4856,
+      "heading": "(Limit Sw. Gain Derive From Valve Motor)",
+      "level": 2,
+      "start_line": 4855
+    },
+    {
+      "anchor": "full",
+      "end_line": 4858,
+      "heading": "Full",
+      "level": 2,
+      "start_line": 4857
+    },
+    {
+      "anchor": "volume",
+      "end_line": 4860,
+      "heading": "Volume",
+      "level": 2,
+      "start_line": 4859
+    },
+    {
+      "anchor": "full",
+      "end_line": 4869,
+      "heading": "Full",
+      "level": 2,
+      "start_line": 4861
+    },
+    {
+      "anchor": "tone-switch-at-valve-motor",
+      "end_line": 4871,
+      "heading": "(Tone Switch At Valve Motor)",
+      "level": 2,
+      "start_line": 4870
+    },
+    {
+      "anchor": "occurs-overting-closing-cycle-or",
+      "end_line": 4873,
+      "heading": "Occurs Overting Closing Cycle Or",
+      "level": 2,
+      "start_line": 4872
+    },
+    {
+      "anchor": "occurs-overting-open-cycle-or",
+      "end_line": 4883,
+      "heading": "Occurs Overting Open Cycle Or",
+      "level": 2,
+      "start_line": 4874
+    },
+    {
+      "anchor": "320d-hh-b-40916",
+      "end_line": 4886,
+      "heading": "320D.Hh-B·40916",
+      "level": 2,
+      "start_line": 4884
+    },
+    {
+      "anchor": "pull",
+      "end_line": 4888,
+      "heading": "Pull",
+      "level": 2,
+      "start_line": 4887
+    },
+    {
+      "anchor": "volume",
+      "end_line": 4890,
+      "heading": "Volume",
+      "level": 2,
+      "start_line": 4889
+    },
+    {
+      "anchor": "pull",
+      "end_line": 4896,
+      "heading": "Pull",
+      "level": 2,
+      "start_line": 4891
+    },
+    {
+      "anchor": "xcontoctclosed",
+      "end_line": 4907,
+      "heading": "Xcontoctclosed",
+      "level": 2,
+      "start_line": 4897
+    },
+    {
+      "anchor": "control-circuit",
+      "end_line": 4909,
+      "heading": "Control Circuit",
+      "level": 2,
+      "start_line": 4908
+    },
+    {
+      "anchor": "engineering-elementary-diagram",
+      "end_line": 4911,
+      "heading": "Engineering Elementary Diagram",
+      "level": 2,
+      "start_line": 4910
+    },
+    {
+      "anchor": "operations-of",
+      "end_line": 4912,
+      "heading": "Operations Of",
+      "level": 2,
+      "start_line": 4912
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4913,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4913
+    },
+    {
+      "anchor": "dvision-of-union-carbide-corporation",
+      "end_line": 4920,
+      "heading": "Dvision Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4914
+    },
+    {
+      "anchor": "1207948h48794",
+      "end_line": 4923,
+      "heading": "1207948H48794",
+      "level": 2,
+      "start_line": 4921
+    },
+    {
+      "anchor": "radiator-door-drive-motor-contractor",
+      "end_line": 4926,
+      "heading": "Radiator Door Drive Motor Contractor",
+      "level": 2,
+      "start_line": 4924
+    },
+    {
+      "anchor": "radiator-door-drive-motor",
+      "end_line": 4927,
+      "heading": "Radiator Door Drive Motor",
+      "level": 2,
+      "start_line": 4927
+    },
+    {
+      "anchor": "overcurrent-protection",
+      "end_line": 4932,
+      "heading": "Overcurrent Protection",
+      "level": 2,
+      "start_line": 4928
+    },
+    {
+      "anchor": "twp-3-treated-water-pump-3",
+      "end_line": 4943,
+      "heading": "Twp-3-Treated Water Pump \\*3",
+      "level": 2,
+      "start_line": 4933
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4944,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4944
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4945,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4945
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 4951,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 4946
+    },
+    {
+      "anchor": "120794rh653d",
+      "end_line": 4974,
+      "heading": "120794Rh653D",
+      "level": 2,
+      "start_line": 4952
+    },
+    {
+      "anchor": "notes",
+      "end_line": 4979,
+      "heading": "Notes",
+      "level": 2,
+      "start_line": 4975
+    },
+    {
+      "anchor": "freez-valve-control-circuits",
+      "end_line": 4981,
+      "heading": "Freez Valve Control Circuits",
+      "level": 2,
+      "start_line": 4980
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 4982,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 4982
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 4983,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 4983
+    },
+    {
+      "anchor": "bridge-of-unitor-carbidge-corporation",
+      "end_line": 4986,
+      "heading": "Bridge Of Unitor Carbidge Corporation",
+      "level": 2,
+      "start_line": 4984
+    },
+    {
+      "anchor": "y20794rh-480d",
+      "end_line": 5010,
+      "heading": "Y20794Rh 480D",
+      "level": 2,
+      "start_line": 4987
+    },
+    {
+      "anchor": "notes",
+      "end_line": 5015,
+      "heading": "Notes",
+      "level": 2,
+      "start_line": 5011
+    },
+    {
+      "anchor": "other-specifications",
+      "end_line": 5016,
+      "heading": "Other Specifications",
+      "level": 2,
+      "start_line": 5016
+    },
+    {
+      "anchor": "practices",
+      "end_line": 5017,
+      "heading": "Practices ±",
+      "level": 2,
+      "start_line": 5017
+    },
+    {
+      "anchor": "descriptives",
+      "end_line": 5018,
+      "heading": "Descriptives ±",
+      "level": 2,
+      "start_line": 5018
+    },
+    {
+      "anchor": "animals",
+      "end_line": 5020,
+      "heading": "Animals ±",
+      "level": 2,
+      "start_line": 5019
+    },
+    {
+      "anchor": "operated-at",
+      "end_line": 5021,
+      "heading": "Operated At",
+      "level": 2,
+      "start_line": 5021
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 5022,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 5022
+    },
+    {
+      "anchor": "dvision-of-union-carbide-corporation",
+      "end_line": 5032,
+      "heading": "Dvision Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 5023
+    },
+    {
+      "anchor": "notes",
+      "end_line": 5039,
+      "heading": "Notes",
+      "level": 2,
+      "start_line": 5033
+    },
+    {
+      "anchor": "control-circuit",
+      "end_line": 5041,
+      "heading": "Control Circuit",
+      "level": 2,
+      "start_line": 5040
+    },
+    {
+      "anchor": "freeze-valve-control-circuit",
+      "end_line": 5043,
+      "heading": "Freeze Valve Control Circuit",
+      "level": 2,
+      "start_line": 5042
+    },
+    {
+      "anchor": "others-specified-by",
+      "end_line": 5046,
+      "heading": "Others Specified By",
+      "level": 2,
+      "start_line": 5044
+    },
+    {
+      "anchor": "12074rh-482d-3",
+      "end_line": 5069,
+      "heading": "12074Rh 482D 3",
+      "level": 2,
+      "start_line": 5047
+    },
+    {
+      "anchor": "120794rh-604d3",
+      "end_line": 5077,
+      "heading": "120794Rh 604D3",
+      "level": 2,
+      "start_line": 5070
+    },
+    {
+      "anchor": "20794rh-404d",
+      "end_line": 5133,
+      "heading": "20794Rh 404D",
+      "level": 2,
+      "start_line": 5078
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 5134,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 5134
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 5135,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 5135
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 5138,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 5136
+    },
+    {
+      "anchor": "block-diagrams",
+      "end_line": 5141,
+      "heading": "Block Diagrams",
+      "level": 2,
+      "start_line": 5139
+    },
+    {
+      "anchor": "i20794bh-423d",
+      "end_line": 5184,
+      "heading": "I20794Bh 423D",
+      "level": 2,
+      "start_line": 5142
+    },
+    {
+      "anchor": "notes",
+      "end_line": 5187,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 5185
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 5188,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 5188
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 5189,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 5189
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 5192,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 5190
+    },
+    {
+      "anchor": "fv104-fv-105-fv-106",
+      "end_line": 5198,
+      "heading": "Fv104 . Fv-105 , Fv-106",
+      "level": 2,
+      "start_line": 5193
+    },
+    {
+      "anchor": "2-temperature-legend",
+      "end_line": 5199,
+      "heading": "2. TEMPERATURE LEGEND",
+      "level": 2,
+      "start_line": 5199
+    },
+    {
+      "anchor": "t1-high-center-temperature-set-point",
+      "end_line": 5200,
+      "heading": "T1 - High Center Temperature Set Point",
+      "level": 2,
+      "start_line": 5200
+    },
+    {
+      "anchor": "t2-low-center-temperature-set-point",
+      "end_line": 5201,
+      "heading": "T2 - Low Center Temperature Set Point.",
+      "level": 2,
+      "start_line": 5201
+    },
+    {
+      "anchor": "t3-upper-shoulder-temperature-set-point",
+      "end_line": 5202,
+      "heading": "T3 - Upper Shoulder Temperature Set Point",
+      "level": 2,
+      "start_line": 5202
+    },
+    {
+      "anchor": "t4-lower-shoulder-temperature-set-point",
+      "end_line": 5204,
+      "heading": "T4 - Lower Shoulder Temperature Set Point.",
+      "level": 2,
+      "start_line": 5203
+    },
+    {
+      "anchor": "4-prevents-false-thaws-caused-by-failures-in-t4-temperature-circuits",
+      "end_line": 5206,
+      "heading": "4. Prevents False Thaws Caused By Failures In T4 Temperature Circuits.",
+      "level": 2,
+      "start_line": 5205
+    },
+    {
+      "anchor": "120794rn-642d",
+      "end_line": 5218,
+      "heading": "120794Rn 642D",
+      "level": 2,
+      "start_line": 5207
+    },
+    {
+      "anchor": "aiob",
+      "end_line": 5221,
+      "heading": "Aiob",
+      "level": 2,
+      "start_line": 5219
+    },
+    {
+      "anchor": "ornl-dwg-72-5560",
+      "end_line": 5257,
+      "heading": "Ornl Dwg. 72-5560",
+      "level": 2,
+      "start_line": 5222
+    },
+    {
+      "anchor": "trip-coil-circuit",
+      "end_line": 5261,
+      "heading": "Trip Coil Circuit",
+      "level": 2,
+      "start_line": 5258
+    },
+    {
+      "anchor": "ornl-dwg-72-5563",
+      "end_line": 5266,
+      "heading": "Ornl Dwg. 72-5563",
+      "level": 2,
+      "start_line": 5262
+    },
+    {
+      "anchor": "c-circuit-breaker-position-indicator-lamp-circuits",
+      "end_line": 5268,
+      "heading": "(C) Circuit Breaker Position Indicator Lamp Circuits",
+      "level": 2,
+      "start_line": 5267
+    },
+    {
+      "anchor": "operating-sequence",
+      "end_line": 5270,
+      "heading": "OPERATING SEQUENCE",
+      "level": 1,
+      "start_line": 5269
+    },
+    {
+      "anchor": "1-local-start-switch-on-remote-relay-contact-closed",
+      "end_line": 5271,
+      "heading": "1. Local Start Switch On Remote Relay Contact Closed.",
+      "level": 2,
+      "start_line": 5271
+    },
+    {
+      "anchor": "2-x-relay-picks-up-seals-in-through-auxiliary-contact-x",
+      "end_line": 5272,
+      "heading": "2.\"X\" Relay Picks Up & Seals In Through Auxiliary Contact\"X\".",
+      "level": 2,
+      "start_line": 5272
+    },
+    {
+      "anchor": "3-closing-coil-energizes-through-x-contact-causing-breaker-to-close",
+      "end_line": 5282,
+      "heading": "3.Closing Coil Energizes Through \"X\" Contact Causing Breaker To Close.",
+      "level": 2,
+      "start_line": 5273
+    },
+    {
+      "anchor": "ornl-dwg-72-5562",
+      "end_line": 5299,
+      "heading": "Ornl Dwg. 72-5562",
+      "level": 2,
+      "start_line": 5283
+    },
+    {
+      "anchor": "ornl-dwg-72-5565",
+      "end_line": 5319,
+      "heading": "Ornl Dwg, 72-5565",
+      "level": 2,
+      "start_line": 5300
+    },
+    {
+      "anchor": "note-circuits-indicate-conditions-as-follows",
+      "end_line": 5321,
+      "heading": "Note: Circuits Indicate Conditions As Follows:",
+      "level": 2,
+      "start_line": 5320
+    },
+    {
+      "anchor": "1-56-in-fd1-position",
+      "end_line": 5322,
+      "heading": "1.56 IN FD1 POSITION,",
+      "level": 2,
+      "start_line": 5322
+    },
+    {
+      "anchor": "2-lamp-in-fdi-graphic-symbol-on",
+      "end_line": 5323,
+      "heading": "2. Lamp In Fdi Graphic Symbol \"On,\" &",
+      "level": 2,
+      "start_line": 5323
+    },
+    {
+      "anchor": "3-annunciator-is-off-indicating-that-fdi-is-ready-to-receive-a-drain",
+      "end_line": 5344,
+      "heading": "3.Annunciator Is \"Off\"Indicating That Fdi Is Ready To Receive A Drain.",
+      "level": 2,
+      "start_line": 5324
+    },
+    {
+      "anchor": "ornl-dwg-72-5570",
+      "end_line": 5371,
+      "heading": "Ornl Dwg. 72-5570",
+      "level": 2,
+      "start_line": 5345
+    },
+    {
+      "anchor": "ornl-dwg-72-5574",
+      "end_line": 5378,
+      "heading": "Ornl Dwg. 72-5574",
+      "level": 2,
+      "start_line": 5372
+    },
+    {
+      "anchor": "ornl-dwg-72-5575",
+      "end_line": 5382,
+      "heading": "Ornl Dwg. 72-5575",
+      "level": 2,
+      "start_line": 5379
+    },
+    {
+      "anchor": "circuit",
+      "end_line": 5385,
+      "heading": "Circuit",
+      "level": 2,
+      "start_line": 5383
+    },
+    {
+      "anchor": "fcv-333a1",
+      "end_line": 5388,
+      "heading": "Fcv-333A1",
+      "level": 2,
+      "start_line": 5386
+    },
+    {
+      "anchor": "fcv-333a1",
+      "end_line": 5393,
+      "heading": "Fcv-333A1",
+      "level": 2,
+      "start_line": 5389
+    },
+    {
+      "anchor": "circuit",
+      "end_line": 5396,
+      "heading": "Circuit",
+      "level": 2,
+      "start_line": 5394
+    },
+    {
+      "anchor": "fcv-343a1",
+      "end_line": 5399,
+      "heading": "Fcv-343A1",
+      "level": 2,
+      "start_line": 5397
+    },
+    {
+      "anchor": "fcv-343a1",
+      "end_line": 5411,
+      "heading": "Fcv-343A1",
+      "level": 2,
+      "start_line": 5400
+    },
+    {
+      "anchor": "pressure-actuated-interlocks-control-both-compressors",
+      "end_line": 5414,
+      "heading": "Pressure Actuated Interlocks (Control Both Compressors)",
+      "level": 2,
+      "start_line": 5412
+    },
+    {
+      "anchor": "3-position",
+      "end_line": 5420,
+      "heading": "3 POSITION",
+      "level": 2,
+      "start_line": 5415
+    },
+    {
+      "anchor": "instrument-air-compressor-i-aci",
+      "end_line": 5425,
+      "heading": "Instrument Air Compressor \\*I-(Aci)",
+      "level": 2,
+      "start_line": 5421
+    },
+    {
+      "anchor": "operational-mode-selector-switch-contact-development",
+      "end_line": 5427,
+      "heading": "Operational Mode Selector Switch Contact Development",
+      "level": 2,
+      "start_line": 5426
+    },
+    {
+      "anchor": "instrument-air-compressor-2-ac2",
+      "end_line": 5436,
+      "heading": "Instrument Air Compressor \\*2-(Ac2)",
+      "level": 2,
+      "start_line": 5428
+    },
+    {
+      "anchor": "schematic-flow-diagram-fuel-salt-pump-lubricating-oil-system",
+      "end_line": 5439,
+      "heading": "Schematic Flow Diagram-Fuel Salt Pump Lubricating Oil System.",
+      "level": 2,
+      "start_line": 5437
+    },
+    {
+      "anchor": "fop-1-control-circuits",
+      "end_line": 5444,
+      "heading": "Fop-1 Control Circuits",
+      "level": 2,
+      "start_line": 5440
+    },
+    {
+      "anchor": "fop-2-control-circuits",
+      "end_line": 5449,
+      "heading": "Fop-2 Control Circuits",
+      "level": 2,
+      "start_line": 5445
+    },
+    {
+      "anchor": "pump-motor-current-measuring-circuits-fop-1-and-fop-2",
+      "end_line": 5451,
+      "heading": "Pump Motor Current Measuring Circuits Fop-1 And Fop-2",
+      "level": 2,
+      "start_line": 5450
+    },
+    {
+      "anchor": "x-denotes-close-contacts",
+      "end_line": 5477,
+      "heading": "X-Denotes Close Contacts",
+      "level": 2,
+      "start_line": 5452
+    },
+    {
+      "anchor": "i20794rh575e8",
+      "end_line": 5480,
+      "heading": "I20794Rh575E8",
+      "level": 2,
+      "start_line": 5478
+    },
+    {
+      "anchor": "jumper-board-n8-2",
+      "end_line": 5482,
+      "heading": "Jumper Board N8 2",
+      "level": 2,
+      "start_line": 5481
+    },
+    {
+      "anchor": "c-s-of",
+      "end_line": 5483,
+      "heading": "C####S Of",
+      "level": 2,
+      "start_line": 5483
+    },
+    {
+      "anchor": "union-carbid-nuclear-company",
+      "end_line": 5484,
+      "heading": "Union Carbid Nuclear Company",
+      "level": 2,
+      "start_line": 5484
+    },
+    {
+      "anchor": "brand-of-the-country-company",
+      "end_line": 5494,
+      "heading": "Brand Of The Country Company",
+      "level": 2,
+      "start_line": 5485
+    },
+    {
+      "anchor": "i-white-lamps-indicate-circuit-continuity-to-the",
+      "end_line": 5496,
+      "heading": "I-White Lamps Indicate Circuit Continuity To The",
+      "level": 2,
+      "start_line": 5495
+    },
+    {
+      "anchor": "point-where-lamp-is-attached-during-power",
+      "end_line": 5498,
+      "heading": "Point Where Lamp Is Attached. During Power",
+      "level": 2,
+      "start_line": 5497
+    },
+    {
+      "anchor": "operation-1-10m-green-lamps-are-on",
+      "end_line": 5500,
+      "heading": "Operation (1-10M) Green Lamps Are On",
+      "level": 2,
+      "start_line": 5499
+    },
+    {
+      "anchor": "camos-are-off-yellow-camos-may-be-either-on-or-off",
+      "end_line": 5502,
+      "heading": "Camos Are Off, Yellow Camos May Be Either On Or Off.",
+      "level": 2,
+      "start_line": 5501
+    },
+    {
+      "anchor": "2016-covid-covrise-nduande-safety-chicart-journals",
+      "end_line": 5504,
+      "heading": "- 2016 Covid Covrise Nduande Safety Chicart Journals",
+      "level": 2,
+      "start_line": 5503
+    },
+    {
+      "anchor": "black-collard-nmcatc-cntnrcctcnvsp",
+      "end_line": 5506,
+      "heading": "Black Collard Nmcatc Cntnrcctcnvsp",
+      "level": 2,
+      "start_line": 5505
+    },
+    {
+      "anchor": "r-red-jewel-pilot-light",
+      "end_line": 5508,
+      "heading": "R Red Jewel Pilot Light",
+      "level": 2,
+      "start_line": 5507
+    },
+    {
+      "anchor": "green-jewel-pilot-light",
+      "end_line": 5516,
+      "heading": "Green Jewel Pilot Light",
+      "level": 2,
+      "start_line": 5509
+    },
+    {
+      "anchor": "black-jack-collar",
+      "end_line": 5517,
+      "heading": "Black Jack Collar",
+      "level": 2,
+      "start_line": 5517
+    },
+    {
+      "anchor": "opd-jack-collar",
+      "end_line": 5524,
+      "heading": "Opd Jack Collar",
+      "level": 2,
+      "start_line": 5518
+    },
+    {
+      "anchor": "ornl-dwg-64-6080",
+      "end_line": 5529,
+      "heading": "Ornl-Dwg 64-6080",
+      "level": 2,
+      "start_line": 5525
+    },
+    {
+      "anchor": "ornl-dwg-72-5581",
+      "end_line": 5534,
+      "heading": "Ornl Dwg. 72-5581",
+      "level": 2,
+      "start_line": 5530
+    },
+    {
+      "anchor": "14-front-panel-strip-assembly-diagram",
+      "end_line": 5536,
+      "heading": "14\"Front Panel Strip Assembly Diagram",
+      "level": 2,
+      "start_line": 5535
+    },
+    {
+      "anchor": "this-assembly-shown-with-max-number-of-lights-jumpers",
+      "end_line": 5537,
+      "heading": "This Assembly Shown With Max. Number Of Lights Jumpers",
+      "level": 2,
+      "start_line": 5537
+    },
+    {
+      "anchor": "the-24-assembly-shall-be-similar",
+      "end_line": 5541,
+      "heading": "The 24° Assembly Shall Be Similar",
+      "level": 2,
+      "start_line": 5538
+    },
+    {
+      "anchor": "notes",
+      "end_line": 5548,
+      "heading": "Notes",
+      "level": 2,
+      "start_line": 5542
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 5549,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 5549
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 5550,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 5550
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 5552,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 5551
+    },
+    {
+      "anchor": "jumper-board",
+      "end_line": 5554,
+      "heading": "Jumper Board",
+      "level": 2,
+      "start_line": 5553
+    },
+    {
+      "anchor": "front-panel-strip",
+      "end_line": 5556,
+      "heading": "Front Panel Strip",
+      "level": 2,
+      "start_line": 5555
+    },
+    {
+      "anchor": "d-hr",
+      "end_line": 5567,
+      "heading": "D.Hr",
+      "level": 2,
+      "start_line": 5557
+    },
+    {
+      "anchor": "120794rh-582d",
+      "end_line": 5610,
+      "heading": "120794Rh 582D",
+      "level": 2,
+      "start_line": 5568
+    },
+    {
+      "anchor": "plate",
+      "end_line": 5614,
+      "heading": "Plate",
+      "level": 2,
+      "start_line": 5611
+    },
+    {
+      "anchor": "ornl-dwg-72-5584",
+      "end_line": 5640,
+      "heading": "Ornl Dwg. 72-5584",
+      "level": 2,
+      "start_line": 5615
+    },
+    {
+      "anchor": "fuel-processing-system-alarm-contacts-see-dwg-e-nn-e-55477",
+      "end_line": 5642,
+      "heading": "Fuel Processing System Alarm Contacts See Dwg.E-Nn-E-55477",
+      "level": 2,
+      "start_line": 5641
+    },
+    {
+      "anchor": "notes",
+      "end_line": 5648,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 5643
+    },
+    {
+      "anchor": "ornl-dwg-72-5593",
+      "end_line": 5677,
+      "heading": "Ornl Dwg. 72-5593",
+      "level": 2,
+      "start_line": 5649
+    },
+    {
+      "anchor": "5-standard-process-instrumentation",
+      "end_line": 5681,
+      "heading": "5. STANDARD PROCESS INSTRUMENTATION",
+      "level": 1,
+      "start_line": 5678
+    },
+    {
+      "anchor": "5-1-general",
+      "end_line": 5693,
+      "heading": "5.1 GENERAL",
+      "level": 1,
+      "start_line": 5682
+    },
+    {
+      "anchor": "5-2-electronic",
+      "end_line": 5695,
+      "heading": "5.2 ELECTRONIC",
+      "level": 1,
+      "start_line": 5694
+    },
+    {
+      "anchor": "5-2-1-self-balancing-bridge-indicators-and-recorders",
+      "end_line": 5709,
+      "heading": "5.2.1 Self-Balancing-Bridge Indicators and Recorders",
+      "level": 1,
+      "start_line": 5696
+    },
+    {
+      "anchor": "5-2-2-foxboro-eci-system",
+      "end_line": 5811,
+      "heading": "5.2.2 Foxboro ECI System",
+      "level": 1,
+      "start_line": 5710
+    },
+    {
+      "anchor": "5-3-pneumatic",
+      "end_line": 5813,
+      "heading": "5.3 PNEUMATIC",
+      "level": 1,
+      "start_line": 5812
+    },
+    {
+      "anchor": "5-3-1-pneumatic-receivers-and-modifiers",
+      "end_line": 5831,
+      "heading": "5.3.1 Pneumatic Receivers and Modifiers",
+      "level": 1,
+      "start_line": 5814
+    },
+    {
+      "anchor": "5-3-2-transmitters-and-controllers",
+      "end_line": 5879,
+      "heading": "5.3.2 Transmitters and Controllers",
+      "level": 1,
+      "start_line": 5832
+    },
+    {
+      "anchor": "5-3-3-final-control-elements",
+      "end_line": 5885,
+      "heading": "5.3.3 Final Control Elements",
+      "level": 1,
+      "start_line": 5880
+    },
+    {
+      "anchor": "references",
+      "end_line": 5953,
+      "heading": "REFERENCES",
+      "level": 1,
+      "start_line": 5886
+    },
+    {
+      "anchor": "6-special-process-instrumentation-systems",
+      "end_line": 5965,
+      "heading": "6. SPECIAL PROCESS INSTRUMENTATION SYSTEMS",
+      "level": 1,
+      "start_line": 5954
+    },
+    {
+      "anchor": "6-1-pressure-transmitters-weld-sealed",
+      "end_line": 5967,
+      "heading": "6.1 PRESSURE TRANSMITTERS (WELD-SEALED)",
+      "level": 1,
+      "start_line": 5966
+    },
+    {
+      "anchor": "6-1-1-introduction",
+      "end_line": 5971,
+      "heading": "6.1.1 Introduction",
+      "level": 1,
+      "start_line": 5968
+    },
+    {
+      "anchor": "6-1-2-force-balance-type",
+      "end_line": 6025,
+      "heading": "6.1.2 Force-Balance Type",
+      "level": 1,
+      "start_line": 5972
+    },
+    {
+      "anchor": "6-1-3-strain-gage-type",
+      "end_line": 6049,
+      "heading": "6.1.3 Strain Gage Type",
+      "level": 1,
+      "start_line": 6026
+    },
+    {
+      "anchor": "references",
+      "end_line": 6056,
+      "heading": "References",
+      "level": 1,
+      "start_line": 6050
+    },
+    {
+      "anchor": "6-2-pressure-transmitter-reference-chambers",
+      "end_line": 6068,
+      "heading": "6.2 PRESSURE TRANSMITTER REFERENCE CHAMBERS",
+      "level": 1,
+      "start_line": 6057
+    },
+    {
+      "anchor": "6-3-differential-pressure-transmitters-weld-seated",
+      "end_line": 6070,
+      "heading": "6.3 DIFFERENTIAL PRESSURE TRANSMITTERS (WELD SEATED)",
+      "level": 1,
+      "start_line": 6069
+    },
+    {
+      "anchor": "6-3-1-introduction",
+      "end_line": 6076,
+      "heading": "6.3.1 Introduction",
+      "level": 1,
+      "start_line": 6071
+    },
+    {
+      "anchor": "6-3-2-principles-of-operation",
+      "end_line": 6080,
+      "heading": "6.3.2 Principles of Operation",
+      "level": 1,
+      "start_line": 6077
+    },
+    {
+      "anchor": "6-3-3-construction",
+      "end_line": 6084,
+      "heading": "6.3.3 Construction",
+      "level": 1,
+      "start_line": 6081
+    },
+    {
+      "anchor": "6-3-4-performance-characteristics",
+      "end_line": 6092,
+      "heading": "6.3.4 Performance Characteristics",
+      "level": 1,
+      "start_line": 6085
+    },
+    {
+      "anchor": "references",
+      "end_line": 6098,
+      "heading": "References",
+      "level": 1,
+      "start_line": 6093
+    },
+    {
+      "anchor": "6-4-cell-air-oxygen-analyzer",
+      "end_line": 6100,
+      "heading": "6.4 CELL AIR OXYGEN ANALYZER",
+      "level": 1,
+      "start_line": 6099
+    },
+    {
+      "anchor": "6-4-1-introduction",
+      "end_line": 6106,
+      "heading": "6.4.1 Introduction",
+      "level": 1,
+      "start_line": 6101
+    },
+    {
+      "anchor": "6-4-2-oxygen-analyzer",
+      "end_line": 6120,
+      "heading": "6.4.2 Oxygen Analyzer",
+      "level": 1,
+      "start_line": 6107
+    },
+    {
+      "anchor": "references",
+      "end_line": 6125,
+      "heading": "References",
+      "level": 1,
+      "start_line": 6121
+    },
+    {
+      "anchor": "6-5-control-valves-weld-seated",
+      "end_line": 6127,
+      "heading": "6.5 CONTROL VALVES (WELD-SEATED)",
+      "level": 1,
+      "start_line": 6126
+    },
+    {
+      "anchor": "6-5-1-introduction",
+      "end_line": 6135,
+      "heading": "6.5.1 Introduction",
+      "level": 1,
+      "start_line": 6128
+    },
+    {
+      "anchor": "6-5-2-construction",
+      "end_line": 6153,
+      "heading": "6.5.2 Construction",
+      "level": 1,
+      "start_line": 6136
+    },
+    {
+      "anchor": "6-5-3-performance-characteristics",
+      "end_line": 6159,
+      "heading": "6.5.3 Performance Characteristics",
+      "level": 1,
+      "start_line": 6154
+    },
+    {
+      "anchor": "6-5-4-operators",
+      "end_line": 6171,
+      "heading": "6.5.4 Operators",
+      "level": 1,
+      "start_line": 6160
+    },
+    {
+      "anchor": "references",
+      "end_line": 6181,
+      "heading": "References",
+      "level": 1,
+      "start_line": 6172
+    },
+    {
+      "anchor": "6-6-weigh-system",
+      "end_line": 6183,
+      "heading": "6.6 WEIGH SYSTEM",
+      "level": 1,
+      "start_line": 6182
+    },
+    {
+      "anchor": "6-6-1-introduction",
+      "end_line": 6193,
+      "heading": "6.6.1 Introduction",
+      "level": 1,
+      "start_line": 6184
+    },
+    {
+      "anchor": "6-6-2-system-description",
+      "end_line": 6278,
+      "heading": "6.6.2 System Description",
+      "level": 1,
+      "start_line": 6194
+    },
+    {
+      "anchor": "references",
+      "end_line": 6286,
+      "heading": "References",
+      "level": 1,
+      "start_line": 6279
+    },
+    {
+      "anchor": "6-7-thermocouple-systems",
+      "end_line": 6288,
+      "heading": "6.7 THERMOCOUPLE SYSTEMS",
+      "level": 1,
+      "start_line": 6287
+    },
+    {
+      "anchor": "6-7-1-general",
+      "end_line": 6298,
+      "heading": "6.7.1 General",
+      "level": 1,
+      "start_line": 6289
+    },
+    {
+      "anchor": "6-7-2-system-description",
+      "end_line": 6382,
+      "heading": "6.7.2 System Description",
+      "level": 1,
+      "start_line": 6299
+    },
+    {
+      "anchor": "6-7-3-basic-thermocouple-assemblies",
+      "end_line": 6396,
+      "heading": "6.7.3 Basic Thermocouple Assemblies",
+      "level": 1,
+      "start_line": 6383
+    },
+    {
+      "anchor": "6-7-4-thermocouple-hot-junction-fabrication",
+      "end_line": 6407,
+      "heading": "6.7.4 Thermocouple Hot Junction Fabrication",
+      "level": 1,
+      "start_line": 6397
+    },
+    {
+      "anchor": "6-7-5-thermocouple-cold-end-seals",
+      "end_line": 6415,
+      "heading": "6.7.5 Thermocouple Cold End Seals",
+      "level": 1,
+      "start_line": 6408
+    },
+    {
+      "anchor": "6-7-6-methods-of-attachment",
+      "end_line": 6451,
+      "heading": "6.7.6 Methods of Attachment",
+      "level": 1,
+      "start_line": 6416
+    },
+    {
+      "anchor": "6-7-7-disconnects",
+      "end_line": 6459,
+      "heading": "6.7.7 Disconnects",
+      "level": 1,
+      "start_line": 6452
+    },
+    {
+      "anchor": "6-7-8-containment-penetration-seals",
+      "end_line": 6495,
+      "heading": "6.7.8 Containment Penetration Seals",
+      "level": 1,
+      "start_line": 6460
+    },
+    {
+      "anchor": "6-7-9-routing",
+      "end_line": 6539,
+      "heading": "6.7.9 Routing",
+      "level": 1,
+      "start_line": 6496
+    },
+    {
+      "anchor": "3-1-2-calibration",
+      "end_line": 6566,
+      "heading": "3.1.2 Calibration",
+      "level": 1,
+      "start_line": 6540
+    },
+    {
+      "anchor": "3-2-insulation",
+      "end_line": 6568,
+      "heading": "3.2 Insulation",
+      "level": 1,
+      "start_line": 6567
+    },
+    {
+      "anchor": "3-2-1-materials",
+      "end_line": 6573,
+      "heading": "3.2.1 Materials",
+      "level": 1,
+      "start_line": 6569
+    },
+    {
+      "anchor": "3-2-2-resistance",
+      "end_line": 6579,
+      "heading": "3.2.2 Resistance",
+      "level": 1,
+      "start_line": 6574
+    },
+    {
+      "anchor": "3-3-sheath",
+      "end_line": 6589,
+      "heading": "3.3 Sheath",
+      "level": 1,
+      "start_line": 6580
+    },
+    {
+      "anchor": "3-4-assembly",
+      "end_line": 6591,
+      "heading": "3.4 Assembly",
+      "level": 1,
+      "start_line": 6590
+    },
+    {
+      "anchor": "3-4-1-preparation",
+      "end_line": 6597,
+      "heading": "3.4.1 Preparation",
+      "level": 1,
+      "start_line": 6592
+    },
+    {
+      "anchor": "3-4-2-swaging",
+      "end_line": 6607,
+      "heading": "3.4.2 Swaging",
+      "level": 1,
+      "start_line": 6598
+    },
+    {
+      "anchor": "3-4-3-finish",
+      "end_line": 6615,
+      "heading": "3.4.3 Finish",
+      "level": 1,
+      "start_line": 6608
+    },
+    {
+      "anchor": "3-4-4-liquid-penetrant-inspection",
+      "end_line": 6636,
+      "heading": "3.4.4 Liquid Penetrant Inspection",
+      "level": 1,
+      "start_line": 6616
+    },
+    {
+      "anchor": "3-requirements",
+      "end_line": 6638,
+      "heading": "3. REQUIREMENTS",
+      "level": 1,
+      "start_line": 6637
+    },
+    {
+      "anchor": "3-1-thermocouple-wire",
+      "end_line": 6640,
+      "heading": "3.1. Thermocouple Wire",
+      "level": 1,
+      "start_line": 6639
+    },
+    {
+      "anchor": "3-1-2-calibration",
+      "end_line": 6666,
+      "heading": "3.1.2 Calibration",
+      "level": 1,
+      "start_line": 6641
+    },
+    {
+      "anchor": "3-3-sheath",
+      "end_line": 6694,
+      "heading": "3.3 Sheath",
+      "level": 1,
+      "start_line": 6667
+    },
+    {
+      "anchor": "3-4-assembly",
+      "end_line": 6696,
+      "heading": "3.4 Assembly",
+      "level": 1,
+      "start_line": 6695
+    },
+    {
+      "anchor": "3-4-2-swaging",
+      "end_line": 6706,
+      "heading": "3.4.2 Swaging",
+      "level": 1,
+      "start_line": 6697
+    },
+    {
+      "anchor": "3-4-5-bend-test",
+      "end_line": 6752,
+      "heading": "3.4.5 Bend Test",
+      "level": 1,
+      "start_line": 6707
+    },
+    {
+      "anchor": "6-7-12-developmental-tests",
+      "end_line": 6848,
+      "heading": "6.7.12 Developmental Tests",
+      "level": 1,
+      "start_line": 6753
+    },
+    {
+      "anchor": "6-7-13-msre-performance",
+      "end_line": 6874,
+      "heading": "6.7.13 MSRE Performance",
+      "level": 1,
+      "start_line": 6849
+    },
+    {
+      "anchor": "references",
+      "end_line": 6902,
+      "heading": "References",
+      "level": 1,
+      "start_line": 6875
+    },
+    {
+      "anchor": "6-8-bubbler-level-system",
+      "end_line": 6904,
+      "heading": "6.8 BUBBLER LEVEL SYSTEM",
+      "level": 1,
+      "start_line": 6903
+    },
+    {
+      "anchor": "6-8-1-introduction",
+      "end_line": 6912,
+      "heading": "6.8.1 Introduction",
+      "level": 1,
+      "start_line": 6905
+    },
+    {
+      "anchor": "6-8-2-system-description-and-theory-of-operation",
+      "end_line": 6926,
+      "heading": "6.8.2 System Description and Theory of Operation",
+      "level": 1,
+      "start_line": 6913
+    },
+    {
+      "anchor": "references",
+      "end_line": 6934,
+      "heading": "References",
+      "level": 1,
+      "start_line": 6927
+    },
+    {
+      "anchor": "6-9-ball-float-type-molten-salt-level-transmitter",
+      "end_line": 6936,
+      "heading": "6.9 BALL-FLOAT-TYPE MOLTEN-SALT LEVEL TRANSMITTER",
+      "level": 1,
+      "start_line": 6935
+    },
+    {
+      "anchor": "6-9-1-introduction",
+      "end_line": 6942,
+      "heading": "6.9.1 Introduction",
+      "level": 1,
+      "start_line": 6937
+    },
+    {
+      "anchor": "6-9-2-system-description",
+      "end_line": 6946,
+      "heading": "6.9.2 System Description",
+      "level": 1,
+      "start_line": 6943
+    },
+    {
+      "anchor": "6-9-3-construction",
+      "end_line": 6968,
+      "heading": "6.9.3 Construction",
+      "level": 1,
+      "start_line": 6947
+    },
+    {
+      "anchor": "6-9-4-theory-of-operation",
+      "end_line": 6998,
+      "heading": "6.9.4 Theory of Operation",
+      "level": 1,
+      "start_line": 6969
+    },
+    {
+      "anchor": "6-9-5-comparison-of-ball-float-and-bubbler-systems",
+      "end_line": 7012,
+      "heading": "6.9.5 Comparison of Ball-Float and Bubbler Systems",
+      "level": 1,
+      "start_line": 6999
+    },
+    {
+      "anchor": "references",
+      "end_line": 7031,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7013
+    },
+    {
+      "anchor": "6-10-conductivity-type-single-point-molten-salt-level-probe",
+      "end_line": 7033,
+      "heading": "6.10 CONDUCTIVITY-TYPE SINGLE-POINT MOLTEN-SALT LEVEL PROBE",
+      "level": 1,
+      "start_line": 7032
+    },
+    {
+      "anchor": "6-10-1-introduction",
+      "end_line": 7043,
+      "heading": "6.10.1 Introduction",
+      "level": 1,
+      "start_line": 7034
+    },
+    {
+      "anchor": "6-10-2-physical-construction-of-probe",
+      "end_line": 7047,
+      "heading": "6.10.2 Physical Construction of Probe",
+      "level": 1,
+      "start_line": 7044
+    },
+    {
+      "anchor": "6-10-3-theory-of-operation",
+      "end_line": 7059,
+      "heading": "6.10.3 Theory of Operation",
+      "level": 1,
+      "start_line": 7048
+    },
+    {
+      "anchor": "6-10-4-alarm-amplifier-chassis",
+      "end_line": 7063,
+      "heading": "6.10.4 Alarm Amplifier Chassis",
+      "level": 1,
+      "start_line": 7060
+    },
+    {
+      "anchor": "6-10-5-excitation-power-supply",
+      "end_line": 7067,
+      "heading": "6.10.5 Excitation Power Supply",
+      "level": 1,
+      "start_line": 7064
+    },
+    {
+      "anchor": "references",
+      "end_line": 7085,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7068
+    },
+    {
+      "anchor": "6-11-ultrasonic-molten-salt-level-probe",
+      "end_line": 7087,
+      "heading": "6.11 ULTRASONIC MOLTEN-SALT LEVEL PROBE",
+      "level": 1,
+      "start_line": 7086
+    },
+    {
+      "anchor": "6-11-1-introduction",
+      "end_line": 7095,
+      "heading": "6.11.1 Introduction",
+      "level": 1,
+      "start_line": 7088
+    },
+    {
+      "anchor": "6-11-2-system-description",
+      "end_line": 7109,
+      "heading": "6.11.2 System Description",
+      "level": 1,
+      "start_line": 7096
+    },
+    {
+      "anchor": "6-11-3-theory-of-operation",
+      "end_line": 7121,
+      "heading": "6.11.3 Theory of Operation",
+      "level": 1,
+      "start_line": 7110
+    },
+    {
+      "anchor": "6-11-4-construction",
+      "end_line": 7129,
+      "heading": "6.11.4 Construction",
+      "level": 1,
+      "start_line": 7122
+    },
+    {
+      "anchor": "6-11-5-performance",
+      "end_line": 7147,
+      "heading": "6.11.5 Performance",
+      "level": 1,
+      "start_line": 7130
+    },
+    {
+      "anchor": "references",
+      "end_line": 7160,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7148
+    },
+    {
+      "anchor": "6-12-nak-filled-differential-pressure-transmitter",
+      "end_line": 7162,
+      "heading": "6.12 NaK-FILLED DIFFERENTIAL PRESSURE TRANSMITTER",
+      "level": 1,
+      "start_line": 7161
+    },
+    {
+      "anchor": "6-12-1-introduction",
+      "end_line": 7172,
+      "heading": "6.12.1 Introduction",
+      "level": 1,
+      "start_line": 7163
+    },
+    {
+      "anchor": "6-12-2-system-description",
+      "end_line": 7176,
+      "heading": "6.12.2 System Description",
+      "level": 1,
+      "start_line": 7173
+    },
+    {
+      "anchor": "6-12-3-theory-of-operation",
+      "end_line": 7186,
+      "heading": "6.12.3 Theory of Operation",
+      "level": 1,
+      "start_line": 7177
+    },
+    {
+      "anchor": "6-12-4-construction",
+      "end_line": 7198,
+      "heading": "6.12.4 Construction",
+      "level": 1,
+      "start_line": 7187
+    },
+    {
+      "anchor": "6-12-5-performance-characteristics",
+      "end_line": 7238,
+      "heading": "6.12.5 Performance Characteristics",
+      "level": 1,
+      "start_line": 7199
+    },
+    {
+      "anchor": "references",
+      "end_line": 7247,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7239
+    },
+    {
+      "anchor": "6-13-coolant-salt-flow-element",
+      "end_line": 7249,
+      "heading": "6.13 COOLANT-SALT FLOW ELEMENT",
+      "level": 1,
+      "start_line": 7248
+    },
+    {
+      "anchor": "6-13-1-introduction",
+      "end_line": 7253,
+      "heading": "6.13.1 Introduction",
+      "level": 1,
+      "start_line": 7250
+    },
+    {
+      "anchor": "6-13-2-principles-of-operation",
+      "end_line": 7313,
+      "heading": "6.13.2 Principles of Operation",
+      "level": 1,
+      "start_line": 7254
+    },
+    {
+      "anchor": "6-13-3-construction",
+      "end_line": 7319,
+      "heading": "6.13.3 Construction",
+      "level": 1,
+      "start_line": 7314
+    },
+    {
+      "anchor": "6-13-4-performance-characteristics",
+      "end_line": 7355,
+      "heading": "6.13.4 Performance Characteristics",
+      "level": 1,
+      "start_line": 7320
+    },
+    {
+      "anchor": "references",
+      "end_line": 7362,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7356
+    },
+    {
+      "anchor": "6-14-thermocouple-scanner",
+      "end_line": 7364,
+      "heading": "6.14 THERMOCOUPLE SCANNER",
+      "level": 1,
+      "start_line": 7363
+    },
+    {
+      "anchor": "6-14-1-introduction",
+      "end_line": 7372,
+      "heading": "6.14.1 Introduction",
+      "level": 1,
+      "start_line": 7365
+    },
+    {
+      "anchor": "6-14-2-system-description",
+      "end_line": 7402,
+      "heading": "6.14.2 System Description",
+      "level": 1,
+      "start_line": 7373
+    },
+    {
+      "anchor": "references",
+      "end_line": 7418,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7403
+    },
+    {
+      "anchor": "6-15-single-point-temperature-switches",
+      "end_line": 7420,
+      "heading": "6.15 SINGLE-POINT TEMPERATURE SWITCHES",
+      "level": 1,
+      "start_line": 7419
+    },
+    {
+      "anchor": "6-15-1-introduction",
+      "end_line": 7428,
+      "heading": "6.15.1 Introduction",
+      "level": 1,
+      "start_line": 7421
+    },
+    {
+      "anchor": "6-15-2-system-description",
+      "end_line": 7444,
+      "heading": "6.15.2 System Description",
+      "level": 1,
+      "start_line": 7429
+    },
+    {
+      "anchor": "6-15-3-theory-of-operation",
+      "end_line": 7502,
+      "heading": "6.15.3 Theory of Operation",
+      "level": 1,
+      "start_line": 7445
+    },
+    {
+      "anchor": "6-15-4-performance-characteristics",
+      "end_line": 7515,
+      "heading": "6.15.4 Performance Characteristics",
+      "level": 1,
+      "start_line": 7503
+    },
+    {
+      "anchor": "references",
+      "end_line": 7527,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7516
+    },
+    {
+      "anchor": "6-16-pump-speed-monitor",
+      "end_line": 7529,
+      "heading": "6.16 PUMP SPEED MONITOR",
+      "level": 1,
+      "start_line": 7528
+    },
+    {
+      "anchor": "6-16-1-introduction",
+      "end_line": 7537,
+      "heading": "6.16.1 Introduction",
+      "level": 1,
+      "start_line": 7530
+    },
+    {
+      "anchor": "6-16-2-speed-detector",
+      "end_line": 7541,
+      "heading": "6.16.2 Speed Detector",
+      "level": 1,
+      "start_line": 7538
+    },
+    {
+      "anchor": "6-16-3-pump-speed-monitor",
+      "end_line": 7557,
+      "heading": "6.16.3 Pump Speed Monitor",
+      "level": 1,
+      "start_line": 7542
+    },
+    {
+      "anchor": "reference",
+      "end_line": 7561,
+      "heading": "Reference",
+      "level": 1,
+      "start_line": 7558
+    },
+    {
+      "anchor": "6-17-pump-noise-monitor-microphones",
+      "end_line": 7563,
+      "heading": "6.17 PUMP NOISE MONITOR (MICROPHONES)",
+      "level": 1,
+      "start_line": 7562
+    },
+    {
+      "anchor": "6-17-1-introduction",
+      "end_line": 7575,
+      "heading": "6.17.1 Introduction",
+      "level": 1,
+      "start_line": 7564
+    },
+    {
+      "anchor": "6-17-2-microphone-construction",
+      "end_line": 7583,
+      "heading": "6.17.2 Microphone Construction",
+      "level": 1,
+      "start_line": 7576
+    },
+    {
+      "anchor": "references",
+      "end_line": 7589,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7584
+    },
+    {
+      "anchor": "6-18-in-cell-instrument-disconnects",
+      "end_line": 7591,
+      "heading": "6.18 IN-CELL INSTRUMENT DISCONNECTS",
+      "level": 1,
+      "start_line": 7590
+    },
+    {
+      "anchor": "6-18-1-general",
+      "end_line": 7595,
+      "heading": "6.18.1 General",
+      "level": 1,
+      "start_line": 7592
+    },
+    {
+      "anchor": "6-18-2-electrical-disconnects",
+      "end_line": 7609,
+      "heading": "6.18.2 Electrical Disconnects",
+      "level": 1,
+      "start_line": 7596
+    },
+    {
+      "anchor": "6-18-3-instrument-air-line-disconnects",
+      "end_line": 7617,
+      "heading": "6.18.3 Instrument Air Line Disconnects",
+      "level": 1,
+      "start_line": 7610
+    },
+    {
+      "anchor": "references",
+      "end_line": 7635,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7618
+    },
+    {
+      "anchor": "6-19-helium-flow-elements-and-restrictors",
+      "end_line": 7637,
+      "heading": "6.19 HELIUM FLOW ELEMENTS AND RESTRICTORS",
+      "level": 1,
+      "start_line": 7636
+    },
+    {
+      "anchor": "6-19-1-introduction",
+      "end_line": 7654,
+      "heading": "6.19.1 Introduction",
+      "level": 1,
+      "start_line": 7638
+    },
+    {
+      "anchor": "6-19-2-construction",
+      "end_line": 7664,
+      "heading": "6.19.2 Construction",
+      "level": 1,
+      "start_line": 7655
+    },
+    {
+      "anchor": "6-19-3-flow-characteristics",
+      "end_line": 7746,
+      "heading": "6.19.3 Flow Characteristics",
+      "level": 1,
+      "start_line": 7665
+    },
+    {
+      "anchor": "references",
+      "end_line": 7756,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7747
+    },
+    {
+      "anchor": "6-20-electric-solenoid-valve-weld-seated",
+      "end_line": 7758,
+      "heading": "6.20 ELECTRIC SOLENOID VALVE, WELD-SEATED",
+      "level": 1,
+      "start_line": 7757
+    },
+    {
+      "anchor": "6-20-1-introduction",
+      "end_line": 7762,
+      "heading": "6.20.1 Introduction",
+      "level": 1,
+      "start_line": 7759
+    },
+    {
+      "anchor": "6-20-2-physical-construction-and-performance-characteristics",
+      "end_line": 7778,
+      "heading": "6.20.2 Physical Construction and Performance Characteristics",
+      "level": 1,
+      "start_line": 7763
+    },
+    {
+      "anchor": "references",
+      "end_line": 7819,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7779
+    },
+    {
+      "anchor": "6-21-thermocouple-test-assembly-for-temperature-safety-channels",
+      "end_line": 7837,
+      "heading": "6.21 THERMOCOUPLE TEST ASSEMBLY FOR TEMPERATURE SAFETY CHANNELS",
+      "level": 1,
+      "start_line": 7820
+    },
+    {
+      "anchor": "reference",
+      "end_line": 7841,
+      "heading": "Reference",
+      "level": 1,
+      "start_line": 7838
+    },
+    {
+      "anchor": "6-22-closed-circuit-television-system-for-remote-maintenance-operations",
+      "end_line": 7843,
+      "heading": "6.22 CLOSED-CIRCUIT TELEVISION SYSTEM FOR REMOTE MAINTENANCE OPERATIONS",
+      "level": 1,
+      "start_line": 7842
+    },
+    {
+      "anchor": "6-22-1-introduction",
+      "end_line": 7849,
+      "heading": "6.22.1 Introduction",
+      "level": 1,
+      "start_line": 7844
+    },
+    {
+      "anchor": "6-22-2-design-considerations",
+      "end_line": 7869,
+      "heading": "6.22.2 Design Considerations",
+      "level": 1,
+      "start_line": 7850
+    },
+    {
+      "anchor": "6-22-3-system-description",
+      "end_line": 7881,
+      "heading": "6.22.3 System Description",
+      "level": 1,
+      "start_line": 7870
+    },
+    {
+      "anchor": "6-22-4-performance-characteristics",
+      "end_line": 7903,
+      "heading": "6.22.4 Performance Characteristics",
+      "level": 1,
+      "start_line": 7882
+    },
+    {
+      "anchor": "references",
+      "end_line": 7941,
+      "heading": "References",
+      "level": 1,
+      "start_line": 7904
+    },
+    {
+      "anchor": "6-23-automatic-range-change-circuits-for-the-fuel-pump-level-systems",
+      "end_line": 8000,
+      "heading": "6.23 AUTOMATIC RANGE CHANGE CIRCUITS FOR THE FUEL PUMP LEVEL SYSTEMS",
+      "level": 1,
+      "start_line": 7942
+    },
+    {
+      "anchor": "ornl-dwg-72-5727",
+      "end_line": 8009,
+      "heading": "Ornl Dwg. 72-5727",
+      "level": 2,
+      "start_line": 8001
+    },
+    {
+      "anchor": "photo-72556",
+      "end_line": 8033,
+      "heading": "Photo 72556",
+      "level": 2,
+      "start_line": 8010
+    },
+    {
+      "anchor": "helium-valve",
+      "end_line": 8035,
+      "heading": "Helium Valve",
+      "level": 2,
+      "start_line": 8034
+    },
+    {
+      "anchor": "approved-by",
+      "end_line": 8036,
+      "heading": "Approved By",
+      "level": 2,
+      "start_line": 8036
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 8037,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 8037
+    },
+    {
+      "anchor": "bridge-of-union-carbide-corporation",
+      "end_line": 8042,
+      "heading": "Bridge Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 8038
+    },
+    {
+      "anchor": "msreall-metal-actuator",
+      "end_line": 8049,
+      "heading": "Msreall-Metal Actuator",
+      "level": 2,
+      "start_line": 8043
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 8072,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 8050
+    },
+    {
+      "anchor": "notes",
+      "end_line": 8074,
+      "heading": "NOTES",
+      "level": 1,
+      "start_line": 8073
+    },
+    {
+      "anchor": "1-limit-switch-assemblies-a-d-shall-be-mounded-at-shown",
+      "end_line": 8075,
+      "heading": "1. Limit Switch Assemblies \"A\" \"D\" Shall Be Mounded At Shown.",
+      "level": 2,
+      "start_line": 8075
+    },
+    {
+      "anchor": "2-locate-split-eing-to-acquater",
+      "end_line": 8076,
+      "heading": "2. Locate \"Split Eing\" To Acquater",
+      "level": 2,
+      "start_line": 8076
+    },
+    {
+      "anchor": "limit-switch-only-when-valve",
+      "end_line": 8078,
+      "heading": "Limit Switch Only When Valve",
+      "level": 2,
+      "start_line": 8077
+    },
+    {
+      "anchor": "fail-position",
+      "end_line": 8079,
+      "heading": "Fail Position.",
+      "level": 2,
+      "start_line": 8079
+    },
+    {
+      "anchor": "3-valve-3-as-for-usr-sfrg-js-81-1go",
+      "end_line": 8083,
+      "heading": "3. Valve 3 As For Usr, Sfrg, Js-81-1Go.",
+      "level": 2,
+      "start_line": 8080
+    },
+    {
+      "anchor": "position-indicator",
+      "end_line": 8085,
+      "heading": "Position Indicator",
+      "level": 2,
+      "start_line": 8084
+    },
+    {
+      "anchor": "genres-of",
+      "end_line": 8086,
+      "heading": "Genres Of",
+      "level": 2,
+      "start_line": 8086
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 8087,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 8087
+    },
+    {
+      "anchor": "opinion-of-unigre-carbide-corporation",
+      "end_line": 8091,
+      "heading": "Opinion Of Unigre Carbide Corporation",
+      "level": 2,
+      "start_line": 8088
+    },
+    {
+      "anchor": "120794rh-332d",
+      "end_line": 8115,
+      "heading": "120794Rh 332D",
+      "level": 2,
+      "start_line": 8092
+    },
+    {
+      "anchor": "ornl-dwg-72-5729",
+      "end_line": 8160,
+      "heading": "Ornl Dwg. 72-5729",
+      "level": 2,
+      "start_line": 8116
+    },
+    {
+      "anchor": "ornl-dwg-72-5738",
+      "end_line": 8170,
+      "heading": "Ornl Dwg. 72-5738",
+      "level": 2,
+      "start_line": 8161
+    },
+    {
+      "anchor": "end-seal-detail",
+      "end_line": 8181,
+      "heading": "End Seal Detail",
+      "level": 2,
+      "start_line": 8171
+    },
+    {
+      "anchor": "ornl-dwg-72-5739",
+      "end_line": 8186,
+      "heading": "Ornl Dwg: 72-5739",
+      "level": 2,
+      "start_line": 8182
+    },
+    {
+      "anchor": "ornl-dwg-72-5740",
+      "end_line": 8213,
+      "heading": "Ornl Dwg, 72-5740",
+      "level": 2,
+      "start_line": 8187
+    },
+    {
+      "anchor": "ornl-dwg-72-5741",
+      "end_line": 8217,
+      "heading": "Ornl Dwg.72-5741",
+      "level": 2,
+      "start_line": 8214
+    },
+    {
+      "anchor": "duplex-grounded-junction-psc-0900-end-seal",
+      "end_line": 8221,
+      "heading": "Duplex, Grounded Junction, Psc 0900 End Seal",
+      "level": 2,
+      "start_line": 8218
+    },
+    {
+      "anchor": "duplex-grounded-junction-shrink-tube-end-seal",
+      "end_line": 8225,
+      "heading": "Duplex, Grounded Junction, Shrink Tube End Seal",
+      "level": 2,
+      "start_line": 8222
+    },
+    {
+      "anchor": "duplex-insulated-junction-psc-0900-end-seal",
+      "end_line": 8229,
+      "heading": "Duplex, Insulated Junction, Psc 0900 End Seal",
+      "level": 2,
+      "start_line": 8226
+    },
+    {
+      "anchor": "duplex-insulated-junction-shrink-tube-end-seal",
+      "end_line": 8233,
+      "heading": "Duplex, Insulated Junction, Shrink Tube End Seal",
+      "level": 2,
+      "start_line": 8230
+    },
+    {
+      "anchor": "singlewire-psc-0900-end-seal",
+      "end_line": 8237,
+      "heading": "Singlewire, Psc 0900 End Seal",
+      "level": 2,
+      "start_line": 8234
+    },
+    {
+      "anchor": "singlewire-shrink-tube-end-seal",
+      "end_line": 8247,
+      "heading": "Singlewire, Shrink Tube End Seal",
+      "level": 2,
+      "start_line": 8238
+    },
+    {
+      "anchor": "duplex-double-wing-without-pad",
+      "end_line": 8252,
+      "heading": "Duplex Double Wing Without Pad",
+      "level": 2,
+      "start_line": 8248
+    },
+    {
+      "anchor": "duplex-single-wing-without-pad",
+      "end_line": 8257,
+      "heading": "Duplex Single Wing Without Pad",
+      "level": 2,
+      "start_line": 8253
+    },
+    {
+      "anchor": "two-wire-single-conductor-single-wing-without-pad",
+      "end_line": 8263,
+      "heading": "Two Wire Single Conductor Single Wing Without Pad",
+      "level": 2,
+      "start_line": 8258
+    },
+    {
+      "anchor": "duplexdoublewing-with-pad",
+      "end_line": 8268,
+      "heading": "Duplexdoublewing With Pad",
+      "level": 2,
+      "start_line": 8264
+    },
+    {
+      "anchor": "duplex-single-wing-with-pad",
+      "end_line": 8273,
+      "heading": "Duplex Single Wing With Pad",
+      "level": 2,
+      "start_line": 8269
+    },
+    {
+      "anchor": "two-wire",
+      "end_line": 8274,
+      "heading": "Two Wire",
+      "level": 2,
+      "start_line": 8274
+    },
+    {
+      "anchor": "single-conductor",
+      "end_line": 8275,
+      "heading": "Single Conductor",
+      "level": 2,
+      "start_line": 8275
+    },
+    {
+      "anchor": "single-wing",
+      "end_line": 8276,
+      "heading": "Single Wing",
+      "level": 2,
+      "start_line": 8276
+    },
+    {
+      "anchor": "with-pad",
+      "end_line": 8286,
+      "heading": "With Pad",
+      "level": 2,
+      "start_line": 8277
+    },
+    {
+      "anchor": "for-further-details-s-ornl-drawing-d-gg-b-1",
+      "end_line": 8296,
+      "heading": "For Further Details S Ornl Drawing \\*D-Gg-B-1",
+      "level": 2,
+      "start_line": 8287
+    },
+    {
+      "anchor": "ornl-dwg-72-5744",
+      "end_line": 8323,
+      "heading": "Ornl Dwg. 72-5744",
+      "level": 2,
+      "start_line": 8297
+    },
+    {
+      "anchor": "grounded-junction-type",
+      "end_line": 8328,
+      "heading": "Grounded Junction Type",
+      "level": 2,
+      "start_line": 8324
+    },
+    {
+      "anchor": "grounded-measuring-junction",
+      "end_line": 8330,
+      "heading": "Grounded Measuring Junction",
+      "level": 2,
+      "start_line": 8329
+    },
+    {
+      "anchor": "insulated-junction-type",
+      "end_line": 8335,
+      "heading": "Insulated Junction Type",
+      "level": 2,
+      "start_line": 8331
+    },
+    {
+      "anchor": "insulated-measuring-junction",
+      "end_line": 8339,
+      "heading": "Insulated Measuring Junction",
+      "level": 2,
+      "start_line": 8336
+    },
+    {
+      "anchor": "1-d-outside-diameter-of-sheath",
+      "end_line": 8340,
+      "heading": "1. D = Outside Diameter Of Sheath.",
+      "level": 2,
+      "start_line": 8340
+    },
+    {
+      "anchor": "2-b-wall-thickness",
+      "end_line": 8341,
+      "heading": "2. B= Wall Thickness.",
+      "level": 2,
+      "start_line": 8341
+    },
+    {
+      "anchor": "3-c-distance-between-conductor-q-d-and-sheath-i-d",
+      "end_line": 8342,
+      "heading": "3. C= Distance Between Conductor Q.D. And Sheath I.D.",
+      "level": 2,
+      "start_line": 8342
+    },
+    {
+      "anchor": "4-t-thickness-of-weld-closure-b-t-d",
+      "end_line": 8357,
+      "heading": "4. T=Thickness Of Weld Closure, B≠T≠D",
+      "level": 2,
+      "start_line": 8343
+    },
+    {
+      "anchor": "model-1",
+      "end_line": 8384,
+      "heading": "Model 1",
+      "level": 2,
+      "start_line": 8358
+    },
+    {
+      "anchor": "r-ref-thermocouple-boga-bare-wire",
+      "end_line": 8385,
+      "heading": "\"R\" - Ref. Thermocouple, Boga. Bare Wire.",
+      "level": 2,
+      "start_line": 8385
+    },
+    {
+      "anchor": "t-test-thermocouple",
+      "end_line": 8386,
+      "heading": "T\" - Test Thermocouple.",
+      "level": 2,
+      "start_line": 8386
+    },
+    {
+      "anchor": "18-dupex-c-a-inconel-sheathed-mgo-insulation",
+      "end_line": 8387,
+      "heading": "18 - Dupex C/A, Inconel Sheathed, Mgo Insulation.",
+      "level": 2,
+      "start_line": 8387
+    },
+    {
+      "anchor": "16-two-wire-single-conductor-c-a-inconel-shearneo-mgo-insulation",
+      "end_line": 8539,
+      "heading": "16- Two Wire, Single Conductor, C/A, Inconel Shearneo, Mgo Insulation.",
+      "level": 2,
+      "start_line": 8388
+    },
+    {
+      "anchor": "oak-ridge-national-laboratory",
+      "end_line": 8540,
+      "heading": "Oak Ridge National Laboratory",
+      "level": 2,
+      "start_line": 8540
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 8554,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 8541
+    },
+    {
+      "anchor": "microfilmed",
+      "end_line": 8577,
+      "heading": "Microfilmed",
+      "level": 2,
+      "start_line": 8555
+    },
+    {
+      "anchor": "panel-2",
+      "end_line": 8579,
+      "heading": "Panel*2",
+      "level": 2,
+      "start_line": 8578
+    },
+    {
+      "anchor": "others-measure-unless",
+      "end_line": 8580,
+      "heading": "Others Measure Unless",
+      "level": 2,
+      "start_line": 8580
+    },
+    {
+      "anchor": "proposed",
+      "end_line": 8581,
+      "heading": "Proposed",
+      "level": 2,
+      "start_line": 8581
+    },
+    {
+      "anchor": "practices",
+      "end_line": 8582,
+      "heading": "Practices",
+      "level": 2,
+      "start_line": 8582
+    },
+    {
+      "anchor": "devices",
+      "end_line": 8584,
+      "heading": "Devices",
+      "level": 2,
+      "start_line": 8583
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 8585,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 8585
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 8586,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 8586
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 8591,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 8587
+    },
+    {
+      "anchor": "120794rh-234d",
+      "end_line": 8613,
+      "heading": "120794Rh 234D",
+      "level": 2,
+      "start_line": 8592
+    },
+    {
+      "anchor": "120794rh-355d",
+      "end_line": 8684,
+      "heading": "120794Rh 355D",
+      "level": 2,
+      "start_line": 8614
+    },
+    {
+      "anchor": "male-section-fixed",
+      "end_line": 8689,
+      "heading": "MALE SECTION (FIXED)",
+      "level": 1,
+      "start_line": 8685
+    },
+    {
+      "anchor": "female-section-removable",
+      "end_line": 8692,
+      "heading": "FEMALE SECTION (REMOVABLE-)",
+      "level": 1,
+      "start_line": 8690
+    },
+    {
+      "anchor": "2-sama-malle-selection",
+      "end_line": 8694,
+      "heading": "2. SAMA MALLE SELECTION",
+      "level": 2,
+      "start_line": 8693
+    },
+    {
+      "anchor": "assembly-or-adapter-with-ceramic-to-metal-seal-on-m-i-cable",
+      "end_line": 8711,
+      "heading": "Assembly Or Adapter With Ceramic-To-Metal Seal On M.I. Cable",
+      "level": 2,
+      "start_line": 8695
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 8712,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 8712
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 8713,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 8713
+    },
+    {
+      "anchor": "division-of-union-carbide-corporation",
+      "end_line": 8715,
+      "heading": "Division Of Union Carbide Corporation",
+      "level": 2,
+      "start_line": 8714
+    },
+    {
+      "anchor": "draw-tambovel-indicators-head-cones-details-d-mm-5536e",
+      "end_line": 8716,
+      "heading": "Draw Tambovel Indicators Head Cones Details D:Mm-5536E",
+      "level": 2,
+      "start_line": 8716
+    },
+    {
+      "anchor": "multiple-thermocouple-disconnect-asst-gyp-wireing-d-mm-40550",
+      "end_line": 8717,
+      "heading": "Multiple Thermocouple Disconnect Asst. Gyp Wireing D:Mm-40550",
+      "level": 2,
+      "start_line": 8717
+    },
+    {
+      "anchor": "thermocouple-disconnect-housing-asst-details-d-mm-5056e",
+      "end_line": 8719,
+      "heading": "Thermocouple Disconnect Housing Asst (Details) D:Mm-5056E",
+      "level": 2,
+      "start_line": 8718
+    },
+    {
+      "anchor": "operated-by",
+      "end_line": 8720,
+      "heading": "Operated By",
+      "level": 2,
+      "start_line": 8720
+    },
+    {
+      "anchor": "union-carbide-nuclear-company",
+      "end_line": 8722,
+      "heading": "Union Carbide Nuclear Company",
+      "level": 2,
+      "start_line": 8721
+    },
+    {
+      "anchor": "otherwise-specified",
+      "end_line": 8726,
+      "heading": "Otherwise Specified:",
+      "level": 2,
+      "start_line": 8723
+    },
+    {
+      "anchor": "draw-tambovel-indicators-head-cones-details-d-mm-5536e",
+      "end_line": 8727,
+      "heading": "Draw Tambovel Indicators Head Cones Details D:Mm-5536E",
+      "level": 2,
+      "start_line": 8727
+    },
+    {
+      "anchor": "multiple-thermocouple-disconnect-asst-gyp-wireing-d-mm-40550",
+      "end_line": 8728,
+      "heading": "Multiple Thermocouple Disconnect Asst. Gyp Wireing D:Mm-40550",
+      "level": 2,
+      "start_line": 8728
+    },
+    {
+      "anchor": "thermocouple-disconnect-housing-asst-details-d-mm-5056e",
+      "end_line": 8730,
+      "heading": "Thermocouple Disconnect Housing Asst (Details) D:Mm-5056E",
+      "level": 2,
+      "start_line": 8729
+    },
+    {
+      "anchor": "draw-tambovel-indicators-head-cones-details-d-mm-5536e",
+      "end_line": 8731,
+      "heading": "Draw Tambovel Indicators Head Cones Details D:Mm-5536E",
+      "level": 2,
+      "start_line": 8731
+    },
+    {
+      "anchor": "multiple-thermocouple-disconnect-asst-gyp-wireing-d-mm-40550",
+      "end_line": 8732,
+      "heading": "Multiple Thermocouple Disconnect Asst. Gyp Wireing D:Mm-40550",
+      "level": 2,
+      "start_line": 8732
+    },
+    {
+      "anchor": "thermocouple-disconnect-housing-asst-details-d-mm-5056e",
+      "end_line": 8734,
+      "heading": "Thermocouple Disconnect Housing Asst (Details) D:Mm-5056E",
+      "level": 2,
+      "start_line": 8733
+    },
+    {
+      "anchor": "otherwise-specified",
+      "end_line": 8738,
+      "heading": "Otherwise Specified:",
+      "level": 2,
+      "start_line": 8735
+    },
+    {
+      "anchor": "draw-tambovel-indicators-head-cones-details-d-mm-5536e",
+      "end_line": 8739,
+      "heading": "Draw Tambovel Indicators Head Cones Details D:Mm-5536E",
+      "level": 2,
+      "start_line": 8739
+    },
+    {
+      "anchor": "multiple-thermocouple-disconnect-asst-gyp-wireing-d-mm-40550-n28",
+      "end_line": 8740,
+      "heading": "Multiple Thermocouple Disconnect Asst. Gyp Wireing D:Mm-40550\\N28",
+      "level": 2,
+      "start_line": 8740
+    },
+    {
+      "anchor": "thermocouple-disconnect-housing-asst-details-d-mm-5056e",
+      "end_line": 8742,
+      "heading": "Thermocouple Disconnect Housing Asst (Details) D:Mm-5056E",
+      "level": 2,
+      "start_line": 8741
+    },
+    {
+      "anchor": "otherwise-specified",
+      "end_line": 8746,
+      "heading": "Otherwise Specified:",
+      "level": 2,
+      "start_line": 8743
+    },
+    {
+      "anchor": "draw-tambovel-indicators-head-cones-details-d-mm-6536e",
+      "end_line": 8747,
+      "heading": "Draw Tambovel Indicators Head Cones Details D:Mm-6536E",
+      "level": 2,
+      "start_line": 8747
+    },
+    {
+      "anchor": "multiple-thermocouple-disconnect-asst-gyp-wireing-d-mm-40550",
+      "end_line": 8748,
+      "heading": "Multiple Thermocouple Disconnect Asst. Gyp Wireing D:Mm-40550",
+      "level": 2,
+      "start_line": 8748
+    },
+    {
+      "anchor": "thermocouple-disconnect-housing-asst-details-d-mm-5056e",
+      "end_line": 8750,
+      "heading": "Thermocouple Disconnect Housing Asst (Details) D:Mm-5056E",
+      "level": 2,
+      "start_line": 8749
+    },
+    {
+      "anchor": "otherwise-specified",
+      "end_line": 8754,
+      "heading": "Otherwise Specified:",
+      "level": 2,
+      "start_line": 8751
+    },
+    {
+      "anchor": "draw-tambovel-indicators-head-cones-details-d-mm-5536e",
+      "end_line": 8755,
+      "heading": "Draw Tambovel Indicators Head Cones Details D:Mm-5536E",
+      "level": 2,
+      "start_line": 8755
+    },
+    {
+      "anchor": "multiple-thermocouple-disconnect-asst-gyp-wireing-d-mm-40550",
+      "end_line": 8756,
+      "heading": "Multiple Thermocouple Disconnect Asst. Gyp Wireing D:Mm-40550",
+      "level": 2,
+      "start_line": 8756
+    },
+    {
+      "anchor": "thermocouple-disconnect-housing-asst-details-d-mm-5056e",
+      "end_line": 8795,
+      "heading": "Thermocouple Disconnect Housing Asst (Details) D:Mm-5056E",
+      "level": 2,
+      "start_line": 8757
+    },
+    {
+      "anchor": "ornl-dwg-64-3999r",
+      "end_line": 8815,
+      "heading": "Ornl-Dwg 64-3999R",
+      "level": 2,
+      "start_line": 8796
+    },
+    {
+      "anchor": "7-coding-systems-and-installation-practices",
+      "end_line": 8819,
+      "heading": "7. CODING SYSTEMS AND INSTALLATION PRACTICES",
+      "level": 1,
+      "start_line": 8816
+    },
+    {
+      "anchor": "7-1-instrument-number-and-applications-diagram-coding-systems",
+      "end_line": 8852,
+      "heading": "7.1 INSTRUMENT NUMBER AND APPLICATIONS DIAGRAM CODING SYSTEMS",
+      "level": 1,
+      "start_line": 8820
+    },
+    {
+      "anchor": "references",
+      "end_line": 8869,
+      "heading": "References",
+      "level": 1,
+      "start_line": 8853
+    },
+    {
+      "anchor": "7-2-wiring-practices-and-coding",
+      "end_line": 8871,
+      "heading": "7.2 WIRING PRACTICES AND CODING",
+      "level": 1,
+      "start_line": 8870
+    },
+    {
+      "anchor": "7-2-1-introduction",
+      "end_line": 8875,
+      "heading": "7.2.1 Introduction",
+      "level": 1,
+      "start_line": 8872
+    },
+    {
+      "anchor": "7-2-2-diagrams-and-tabulations",
+      "end_line": 8889,
+      "heading": "7.2.2 Diagrams and Tabulations",
+      "level": 1,
+      "start_line": 8876
+    },
+    {
+      "anchor": "7-2-3-coding",
+      "end_line": 8928,
+      "heading": "7.2.3 Coding",
+      "level": 1,
+      "start_line": 8890
+    },
+    {
+      "anchor": "7-2-4-wiring-practices",
+      "end_line": 8946,
+      "heading": "7.2.4 Wiring Practices",
+      "level": 1,
+      "start_line": 8929
+    },
+    {
+      "anchor": "references",
+      "end_line": 8957,
+      "heading": "References",
+      "level": 1,
+      "start_line": 8947
+    },
+    {
+      "anchor": "7-3-pneumatic-systems-installation-practices-and-coding",
+      "end_line": 8982,
+      "heading": "7.3 PNEUMATIC SYSTEMS INSTALLATION PRACTICES AND CODING",
+      "level": 1,
+      "start_line": 8958
+    },
+    {
+      "anchor": "process-lines",
+      "end_line": 8984,
+      "heading": "Process Lines",
+      "level": 2,
+      "start_line": 8983
+    },
+    {
+      "anchor": "primary-process-line",
+      "end_line": 8986,
+      "heading": "Primary Process Line",
+      "level": 2,
+      "start_line": 8985
+    },
+    {
+      "anchor": "secondary-process-line",
+      "end_line": 8988,
+      "heading": "Secondary Process Line",
+      "level": 2,
+      "start_line": 8987
+    },
+    {
+      "anchor": "electrical-power-line",
+      "end_line": 8990,
+      "heading": "Electrical Power Line",
+      "level": 2,
+      "start_line": 8989
+    },
+    {
+      "anchor": "connection-to-process",
+      "end_line": 8992,
+      "heading": "Connection To Process",
+      "level": 2,
+      "start_line": 8991
+    },
+    {
+      "anchor": "air-or-pneumatic-signal-line",
+      "end_line": 8994,
+      "heading": "Air Or Pneumatic Signal Line",
+      "level": 2,
+      "start_line": 8993
+    },
+    {
+      "anchor": "filled-system-capillary-tubing",
+      "end_line": 8996,
+      "heading": "(Filled System) Capillary Tubing",
+      "level": 2,
+      "start_line": 8995
+    },
+    {
+      "anchor": "electrical-signal-or-control-line",
+      "end_line": 8999,
+      "heading": "Electrical Signal Or Control Line",
+      "level": 2,
+      "start_line": 8997
+    },
+    {
+      "anchor": "instrument-lines",
+      "end_line": 9004,
+      "heading": "Instrument Lines",
+      "level": 2,
+      "start_line": 9000
+    },
+    {
+      "anchor": "instrument-or-process-line-junctions-or-crossovers",
+      "end_line": 9007,
+      "heading": "Instrument Or Process Line Junctions Or Crossovers",
+      "level": 2,
+      "start_line": 9005
+    },
+    {
+      "anchor": "ornl-dwg-72-6141",
+      "end_line": 9012,
+      "heading": "Ornl Dwg. 72-6141",
+      "level": 2,
+      "start_line": 9008
+    },
+    {
+      "anchor": "ornl-dwg-72-6142",
+      "end_line": 9020,
+      "heading": "Ornl·Dwg. 72-6142",
+      "level": 2,
+      "start_line": 9013
+    },
+    {
+      "anchor": "ornl-dwg-72-6144",
+      "end_line": 9051,
+      "heading": "Ornl Dwg. 72-6144",
+      "level": 2,
+      "start_line": 9021
+    },
+    {
+      "anchor": "do-not-use",
+      "end_line": 9052,
+      "heading": "Do Not Use",
+      "level": 2,
+      "start_line": 9052
+    },
+    {
+      "anchor": "for-service",
+      "end_line": 9057,
+      "heading": "For Service",
+      "level": 2,
+      "start_line": 9053
+    },
+    {
+      "anchor": "internal-distribution",
+      "end_line": 9130,
+      "heading": "INTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 9058
+    },
+    {
+      "anchor": "external-distribution",
+      "end_line": 9142,
+      "heading": "EXTERNAL DISTRIBUTION",
+      "level": 1,
+      "start_line": 9131
+    }
+  ],
+  "source_dir": "pdf/ORNL-TM-0729B",
+  "tables": [],
+  "title": "![](images/bd0e590860934051f779e249050f37a09d2a097cccb825dcab2d262da64b6af1.jpg)",
+  "topics": [
+    "instrumentation-and-controls",
+    "pumps-loops-and-heat-exchangers",
+    "reactor-operations",
+    "safety-shielding-and-remote-maintenance",
+    "off-gas-fission-products-and-tritium",
+    "fuel-processing-and-reprocessing",
+    "materials-and-corrosion",
+    "breeder-and-converter-design"
+  ],
+  "warnings": [
+    "report_number_not_detected"
+  ]
+}
