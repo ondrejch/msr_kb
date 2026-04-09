@@ -854,8 +854,42 @@ def extract_doc_id(doc_dir: Path, title: str, report_number: Optional[str]) -> s
     return slugify(title) if title else slugify(dir_name) if dir_name else "unknown"
 
 
+<<<<<<< HEAD
 def render_document_page(record: DocumentRecord, text: str) -> str:
     summary = summarize_document(text, record.title, record.topics)
+=======
+def repo_relative_link(path_str: Optional[str]) -> Optional[str]:
+    if not path_str:
+        return None
+    path = Path(path_str)
+    if path.is_absolute():
+        return path.as_posix()
+    return (Path("..") / Path("..") / path).as_posix()
+
+
+def rewrite_ocr_asset_links(text: str, markdown_path: Optional[str]) -> str:
+    if not text or not markdown_path:
+        return text
+    markdown_dir = Path(markdown_path).parent
+
+    def _replace_markdown(match: re.Match[str]) -> str:
+        asset_rel = match.group(1)
+        asset_path = (Path("..") / Path("..") / markdown_dir / asset_rel).as_posix()
+        return f"({asset_path})"
+
+    def _replace_html(match: re.Match[str]) -> str:
+        asset_rel = match.group(1)
+        asset_path = (Path("..") / Path("..") / markdown_dir / asset_rel).as_posix()
+        return f'src="{asset_path}"'
+
+    text = re.sub(r"\((?:\./)?(images/[^)]+)\)", _replace_markdown, text)
+    text = re.sub(r'src="(?:\./)?(images/[^"]+)"', _replace_html, text)
+    return text
+
+
+def render_document_page(record: DocumentRecord, text: str) -> str:
+    summary = [rewrite_ocr_asset_links(item, record.markdown_path) for item in summarize_document(text, record.title, record.topics)]
+>>>>>>> 69f00500a (Initial commit: MSR Knowledge Base pipeline)
     entity_lines: List[str] = []
     for entity_type, entries in sorted(record.entities.items()):
         entity_lines.append(f"### {entity_type.title()}")
@@ -864,9 +898,22 @@ def render_document_page(record: DocumentRecord, text: str) -> str:
             entity_lines.append(f"- {item['name']} (mentions: {item['count']})")
         entity_lines.append("")
 
+<<<<<<< HEAD
     section_lines = [f"- {sec['heading']} (lines {sec['start_line']}-{sec['end_line']})" for sec in record.sections[:100]]
     lines: List[str] = [
         f"# {record.title}",
+=======
+    section_lines = [
+        f"- {rewrite_ocr_asset_links(sec['heading'], record.markdown_path)} (lines {sec['start_line']}-{sec['end_line']})"
+        for sec in record.sections[:100]
+    ]
+    source_markdown_link = repo_relative_link(record.markdown_path)
+    source_ocr_dir_link = repo_relative_link(str(Path(record.markdown_path).parent)) if record.markdown_path else None
+    source_images_link = repo_relative_link(str(Path(record.markdown_path).parent / "images")) if record.markdown_path else None
+    source_markdown_label = Path(record.markdown_path).name if record.markdown_path else "source.md"
+    lines: List[str] = [
+        f"# {rewrite_ocr_asset_links(record.title, record.markdown_path)}",
+>>>>>>> 69f00500a (Initial commit: MSR Knowledge Base pipeline)
         "",
         "## Metadata",
         "",
@@ -877,7 +924,13 @@ def render_document_page(record: DocumentRecord, text: str) -> str:
         f"- Date: {record.date_text or 'unknown'}",
         f"- Authors: {', '.join(record.authors) if record.authors else 'unknown'}",
         f"- Document type: {record.document_type}",
+<<<<<<< HEAD
         f"- Source markdown: `{record.markdown_path}`",
+=======
+        f"- Source markdown: [{source_markdown_label}]({source_markdown_link})" if source_markdown_link else "- Source markdown: unknown",
+        f"- Source OCR folder: [hybrid_ocr/]({source_ocr_dir_link})" if source_ocr_dir_link else "- Source OCR folder: unknown",
+        f"- Source images: [images/]({source_images_link})" if source_images_link else "- Source images: unknown",
+>>>>>>> 69f00500a (Initial commit: MSR Knowledge Base pipeline)
         f"- SHA256: `{record.file_hash}`",
         "",
         "## Topics",
@@ -908,7 +961,22 @@ def render_document_page(record: DocumentRecord, text: str) -> str:
     else:
         lines.append("- none detected")
 
+<<<<<<< HEAD
     lines.extend(["", "## Assets", "", f"- Figures: {len(record.figures)}", f"- Tables: {len(record.tables)}", "", "## Warnings", ""])
+=======
+    lines.extend([
+        "",
+        "## Assets",
+        "",
+        f"- OCR fulltext: [{source_markdown_label}]({source_markdown_link})" if source_markdown_link else "- OCR fulltext: unknown",
+        f"- OCR images directory: [images/]({source_images_link})" if source_images_link else "- OCR images directory: unknown",
+        f"- Figures: {len(record.figures)}",
+        f"- Tables: {len(record.tables)}",
+        "",
+        "## Warnings",
+        "",
+    ])
+>>>>>>> 69f00500a (Initial commit: MSR Knowledge Base pipeline)
     if record.warnings:
         for warning in record.warnings:
             lines.append(f"- {warning}")

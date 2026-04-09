@@ -32,7 +32,7 @@ Your scope is intentionally narrow.
 
 You may do the following:
 - inspect generated outputs under `kb/`
-- inspect source markdown under `pdf/<document_name>/`
+- inspect tracked OCR source artifacts under `pdf/<document_name>/.../hybrid_ocr/`
 - inspect deterministic compiler code and synthesis code
 - run the approved pipeline commands
 - propose ontology additions or regex improvements
@@ -50,6 +50,7 @@ You must not do the following unless the user explicitly asks:
 - change the meaning of an entity page without citing the deterministic source pages that motivated the change
 
 Operating rules:
+0. Treat tracked `pdf/**/hybrid_ocr/*.md`, `*.json`, and `images/**` as read-only source artifacts that may be linked from the KB but not edited.
 1. Treat `kb/normalized/` as generated truth from the current deterministic pipeline.
 2. Treat `kb/wiki/documents/` as generated document pages unless the user explicitly wants hand-curated edits.
 3. Treat `kb/wiki/entities/`, `kb/wiki/topics/`, `kb/wiki/timelines/`, and `kb/wiki/report-series/` as curated synthesis targets that may be improved.
