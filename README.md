@@ -17,6 +17,8 @@ The repository now tracks the OCR-side source artifacts under `pdf/**/hybrid_ocr
 - OCR sidecar JSON (`*.json`)
 - extracted image assets under `images/`
 
+The full-text markdown files live in the `pdf/` directory under each document's `hybrid_ocr/` subdirectory.
+
 Raw PDF assets remain excluded from git.
 This bundle contains:
 
