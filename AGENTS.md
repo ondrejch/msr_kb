@@ -11,12 +11,6 @@ This is a deterministic knowledge-base pipeline for Molten Salt Reactor (MSR) do
 ## Input/Output Layout
 
 ```
-<<<<<<< HEAD
-pdf/                          # Source documents (read-only)
-  <document_name>/
-    hybrid_cr/
-      *.md                    # MinerU OCR output
-=======
 pdf/                          # Source OCR artifacts (read-only)
   <document_name>/
     <document_name>/
@@ -24,7 +18,6 @@ pdf/                          # Source OCR artifacts (read-only)
         *.md                  # MinerU OCR fulltext markdown
         *.json                # OCR sidecar/layout/model metadata
         images/               # Extracted OCR image assets
->>>>>>> 69f00500a (Initial commit: MSR Knowledge Base pipeline)
 kb/                           # Generated outputs
   normalized/                 # Intermediate JSON records
   wiki/                       # Synthesized markdown pages
@@ -32,11 +25,7 @@ kb/                           # Generated outputs
   manifests/                  # Build state tracking
 ```
 
-<<<<<<< HEAD
-=======
 The git repository includes `pdf/**/hybrid_ocr/*.md`, `*.json`, and `images/**` for inspection and linking, but these remain source inputs and should not be edited.
-
->>>>>>> 69f00500a (Initial commit: MSR Knowledge Base pipeline)
 **Do not edit**: `pdf/`, `kb/normalized/`, `kb/wiki/documents/`
 
 **May edit**: `kb/wiki/entities/`, `kb/wiki/topics/`, `kb/wiki/timelines/`, `kb/wiki/report-series/`, `deterministic_compiler_v2.py` (for ontology/regex fixes only)
