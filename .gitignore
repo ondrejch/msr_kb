@@ -1,6 +1,19 @@
 # Source PDFs (41GB - excluded from git)
 pdf/
 
+# Source corpus: ignore by default, keep OCR markdown/json only
+pdf/**
+!pdf/**/
+!pdf/**/hybrid_ocr/
+pdf/**/hybrid_ocr/**
+!pdf/**/hybrid_ocr/*.md
+#!pdf/**/hybrid_ocr/*.json
+!pdf/**/hybrid_ocr/images/
+!pdf/**/hybrid_ocr/images/**
+
+# Local Obsidian workspace
+kb/.obsidian/
+
 # Python bytecode
 __pycache__/
 *.py[cod]
@@ -27,3 +40,4 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+pdf/**/hybrid_ocr/*_middle.json

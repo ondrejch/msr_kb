@@ -11,6 +11,17 @@ It has two complementary uses:
 
 The pipeline is intentionally deterministic: all generated outputs are derived from OCRed source documents and should remain traceable back to specific documents, sections, and line ranges.
 
+<<<<<<< HEAD
+=======
+The repository now tracks the OCR-side source artifacts under `pdf/**/hybrid_ocr/`, including:
+
+- fulltext Markdown (`*.md`)
+- OCR sidecar JSON (`*.json`)
+- extracted image assets under `images/`
+
+Raw PDF assets remain excluded from git.
+
+>>>>>>> 69f00500a (Initial commit: MSR Knowledge Base pipeline)
 This bundle contains:
 
 - `deterministic_compiler_v2.py`
@@ -93,9 +104,17 @@ The historical KB remains the source-truth layer. The distilled layer should onl
 ```text
 pdf/
   <document_name>/
+<<<<<<< HEAD
     document.md
     figures/
     tables/
+=======
+    <document_name>/
+      hybrid_ocr/
+        <document_name>.md
+        *.json
+        images/
+>>>>>>> 69f00500a (Initial commit: MSR Knowledge Base pipeline)
 ```
 
 ## Basic workflow
